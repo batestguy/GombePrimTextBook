@@ -1,0 +1,2713 @@
+[
+  {
+    "id": "P1-01",
+    "grade": 1,
+    "title": "One to five",
+    "topic": "Numbers 1–5",
+    "source_pages": [
+      1
+    ],
+    "goal": "Count, read, write and order 1 to 5.",
+    "look": "Amina sets out bottle tops for a school game. What can we count in our room? Touch each object once.",
+    "learn": "Put one top down. Say one. Add another and say two. The last number tells how many. Trace with a finger, then write: 1 2 3 4 5.",
+    "worked": "Touch the three dots in row A. Say 1, 2, 3. There are 3 dots.",
+    "play": "Use five large tops. A partner shows 1 to 5. Count them and choose the matching number card. Swap roles.",
+    "vocabulary": "count; number; how many",
+    "hint": "Move each object after counting it. Accept pointing or speaking before writing.",
+    "questions": [
+      {
+        "prompt": "Count row A. Write the number.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Count row B. Write the number.",
+        "answer": "5"
+      },
+      {
+        "prompt": "Draw 2 circles.",
+        "answer": "Two separate circles."
+      },
+      {
+        "prompt": "Write 1 to 5 in order.",
+        "answer": "1, 2, 3, 4, 5"
+      },
+      {
+        "prompt": "Show 4 fingers. How many?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Musa counts one top twice. Show a better way.",
+        "answer": "Touch or move each top exactly once."
+      }
+    ],
+    "diagram": "count35"
+  },
+  {
+    "id": "P1-02",
+    "grade": 1,
+    "title": "Sort, match and order",
+    "topic": "Numbers 1–5",
+    "source_pages": [
+      1
+    ],
+    "goal": "Sort collections and compare small sets.",
+    "look": "Zainab has leaves and bottle tops. How could she put things that are alike together?",
+    "learn": "A set is a collection. Sort by one rule, such as colour or shape. Match one object from each set. The set with unmatched objects has more.",
+    "worked": "A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.",
+    "play": "Sort six safe classroom objects by material. Explain your rule. Make sets of 1, 2, 3, 4 and 5 tops.",
+    "vocabulary": "sort; set; more; fewer",
+    "hint": "Ask for the sorting rule. Distinguish the number in a set from the size of its objects.",
+    "questions": [
+      {
+        "prompt": "Order: 4, 1, 3.",
+        "answer": "1, 3, 4"
+      },
+      {
+        "prompt": "Draw sets of 1 and 3 dots.",
+        "answer": "One dot in one set; three in the other."
+      },
+      {
+        "prompt": "Which has more: 2 tops or 5 tops?",
+        "answer": "5 tops"
+      },
+      {
+        "prompt": "Which has fewer: 4 leaves or 3 leaves?",
+        "answer": "3 leaves"
+      },
+      {
+        "prompt": "Make a set of 5 objects.",
+        "answer": "Exactly five objects."
+      },
+      {
+        "prompt": "Explain how to compare two sets.",
+        "answer": "Match one to one or count both sets."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-03",
+    "grade": 1,
+    "title": "Zero means none",
+    "topic": "Zero",
+    "source_pages": [
+      1
+    ],
+    "goal": "Recognise, read and write 0.",
+    "look": "Musa puts his last top away. How many tops are left on his mat?",
+    "learn": "Zero tells us there are none. An empty set has 0 objects. Say zero. Draw a large oval in the air. Write 0.",
+    "worked": "There are 2 tops. Take away 2. No tops remain: 2 − 2 = 0.",
+    "play": "Put 0 to 5 tops in cups. Include an empty cup. Match number cards to every cup.",
+    "vocabulary": "zero; none; empty",
+    "hint": "The cup still exists; zero describes the number of objects inside.",
+    "questions": [
+      {
+        "prompt": "Write the number for an empty set.",
+        "answer": "0"
+      },
+      {
+        "prompt": "Draw an empty box.",
+        "answer": "Box with nothing inside."
+      },
+      {
+        "prompt": "Complete: 0, 1, __, 3.",
+        "answer": "2"
+      },
+      {
+        "prompt": "Put all 3 tops away. How many remain?",
+        "answer": "0"
+      },
+      {
+        "prompt": "Say the word for 0.",
+        "answer": "zero"
+      },
+      {
+        "prompt": "Why does an empty basket have 0 oranges?",
+        "answer": "There are no oranges in it."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-04",
+    "grade": 1,
+    "title": "Six to nine",
+    "topic": "Numbers 6–9",
+    "source_pages": [
+      2
+    ],
+    "goal": "Count, read, write and order numbers to 9.",
+    "look": "Daniel brings more tops to the game. Count on after five together.",
+    "learn": "Five and one more make six. Count on: 6, 7, 8, 9. Give one number word to each object. Practise writing 6, 7, 8 and 9.",
+    "worked": "5 tops and 2 more make 7. Count: 1, 2, 3, 4, 5, 6, 7.",
+    "play": "Sort tops by colour. Make sets of 6, 7, 8 and 9. Swap mats and check. Order the mats from fewest to most.",
+    "vocabulary": "six; seven; eight; nine",
+    "hint": "Check that 6 and 9 face the correct way. Read numbers as well as copying them.",
+    "questions": [
+      {
+        "prompt": "Write the number after 6.",
+        "answer": "7"
+      },
+      {
+        "prompt": "Write the number before 9.",
+        "answer": "8"
+      },
+      {
+        "prompt": "Order: 9, 6, 8, 7.",
+        "answer": "6, 7, 8, 9"
+      },
+      {
+        "prompt": "Draw 6 dots.",
+        "answer": "Exactly six dots."
+      },
+      {
+        "prompt": "Count 9 objects for a partner.",
+        "answer": "Exactly nine objects counted once each."
+      },
+      {
+        "prompt": "How can you check a set of 8?",
+        "answer": "Recount once per object; the last word is eight."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-05",
+    "grade": 1,
+    "title": "A bundle of ten",
+    "topic": "Ten",
+    "source_pages": [
+      2
+    ],
+    "goal": "Make tens and ones, extending to 20.",
+    "look": "Amina ties counting sticks into bundles. Why might a bundle be easier to count?",
+    "learn": "Ten ones make one ten. A bundle of ten and 3 loose ones make 13. Ones are also called units. Say numbers from 10 to 20 aloud.",
+    "worked": "14 = 1 ten and 4 ones. Two bundles of ten make 20.",
+    "play": "Bundle ten paper strips. Show 11, 15, 18 and 20 using bundles and loose strips.",
+    "vocabulary": "ten; bundle; ones; units",
+    "hint": "Use blunt sticks or paper strips. Tie only bundles of exactly ten.",
+    "questions": [
+      {
+        "prompt": "1 ten and 2 ones make __.",
+        "answer": "12"
+      },
+      {
+        "prompt": "Write 16 as tens and ones.",
+        "answer": "1 ten and 6 ones"
+      },
+      {
+        "prompt": "How many ones make one ten?",
+        "answer": "10"
+      },
+      {
+        "prompt": "Complete: 17, 18, __, 20.",
+        "answer": "19"
+      },
+      {
+        "prompt": "Show 20 with bundles.",
+        "answer": "2 bundles of ten"
+      },
+      {
+        "prompt": "Explain why 10 and 1 differ.",
+        "answer": "Ten has ten ones; one has one one."
+      }
+    ],
+    "diagram": "tens14"
+  },
+  {
+    "id": "P1-06",
+    "grade": 1,
+    "title": "Numbers to ninety-nine",
+    "topic": "Numbers 1–99",
+    "source_pages": [
+      3
+    ],
+    "goal": "Recognise, read and write numbers to 99.",
+    "look": "The friends label classroom boxes. How do two digits help write bigger numbers?",
+    "learn": "The left digit in a two-digit number gives the tens. The right gives the ones. Say 42 as forty-two: 4 tens and 2 ones. Count through a new ten: 28, 29, 30, 31.",
+    "worked": "70 has 7 tens and 0 ones. 99 has 9 tens and 9 ones.",
+    "play": "Make digit cards 0 to 9. A partner names a number from 10 to 99. Build it, read it and show tens and ones.",
+    "vocabulary": "digit; tens; ninety-nine",
+    "hint": "Say teen and tens names clearly. Give oral practice before writing.",
+    "questions": [
+      {
+        "prompt": "Write forty-six in digits.",
+        "answer": "46"
+      },
+      {
+        "prompt": "Read 81 in words.",
+        "answer": "eighty-one"
+      },
+      {
+        "prompt": "Complete: 38, 39, __, __.",
+        "answer": "40, 41"
+      },
+      {
+        "prompt": "Write 93 as tens and ones.",
+        "answer": "9 tens and 3 ones"
+      },
+      {
+        "prompt": "Write 95 to 99.",
+        "answer": "95, 96, 97, 98, 99"
+      },
+      {
+        "prompt": "Why is 60 different from 6?",
+        "answer": "60 is six tens; 6 is six ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-07",
+    "grade": 1,
+    "title": "Equal halves and quarters",
+    "topic": "Fractions",
+    "source_pages": [
+      3
+    ],
+    "goal": "Recognise halves and quarters of objects and shapes.",
+    "look": "Zainab folds a paper sheet to share its space. Must fair pieces be equal?",
+    "learn": "A half is one of 2 equal parts of a whole. A quarter is one of 4 equal parts. Equal means the same amount. Unequal pieces are not halves or quarters.",
+    "worked": "Fold a rectangle in half. Fold again into 4 equal parts. One part is a quarter.",
+    "play": "Fold scrap paper into halves, then quarters. Shade a half on one sheet and a quarter on another. Point to half and quarter of a paper model of a fruit.",
+    "vocabulary": "whole; half; quarter; equal",
+    "hint": "Use paper instead of food. Accept different equal-area partitions.",
+    "questions": [
+      {
+        "prompt": "How many equal parts make halves?",
+        "answer": "2"
+      },
+      {
+        "prompt": "How many equal parts make quarters?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Draw two equal halves of a rectangle.",
+        "answer": "Rectangle divided into two equal-area parts."
+      },
+      {
+        "prompt": "Draw a square and shade one quarter.",
+        "answer": "Four equal-area parts; one shaded."
+      },
+      {
+        "prompt": "Are 2 unequal pieces halves?",
+        "answer": "No"
+      },
+      {
+        "prompt": "Explain why your shaded part is a quarter.",
+        "answer": "The whole has four equal parts and one is shaded."
+      }
+    ],
+    "diagram": "fractions"
+  },
+  {
+    "id": "P1-08",
+    "grade": 1,
+    "title": "Put small sets together",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two or three small sets.",
+    "look": "Musa has 2 tops. Amina gives him 1 more. What happens to his set?",
+    "learn": "Addition puts amounts together. The sign + means add. The sign = means has the same value as. Count all objects to find the total.",
+    "worked": "2 + 1 = 3. Two tops and one top make three tops. 1 + 1 + 2 = 4.",
+    "play": "Join two sets with 1 to 3 tops each, keeping totals below 5. Then join three small sets. Say and check each number sentence.",
+    "vocabulary": "add; plus; total; equals",
+    "hint": "Read the whole sentence aloud. Equals states the same value on both sides.",
+    "questions": [
+      {
+        "prompt": "1 + 2 = __.",
+        "answer": "3"
+      },
+      {
+        "prompt": "2 + 2 = __.",
+        "answer": "4"
+      },
+      {
+        "prompt": "1 + 1 + 1 = __.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Draw 2 dots and 1 more. Total?",
+        "answer": "3"
+      },
+      {
+        "prompt": "1 book and 3 more make how many?",
+        "answer": "4 books"
+      },
+      {
+        "prompt": "Show why 1 + 2 and 2 + 1 match.",
+        "answer": "Both combine one and two objects to make three."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-09",
+    "grade": 1,
+    "title": "Count on to add",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two or three numbers with totals to 18.",
+    "look": "The friends join sets. Can they start counting from the larger set?",
+    "learn": "Keep one number in your head and count on the other amount. Adding zero leaves the number unchanged. Check by counting all the objects.",
+    "worked": "8 + 5: start at 8; count 9, 10, 11, 12, 13. So 8 + 5 = 13. For 3 + 2 + 4, first make 5, then add 4 to get 9.",
+    "play": "Make sums with tops. First keep totals below 10, then try up to 18. A partner checks by grouping ten and ones.",
+    "vocabulary": "count on; sum; check",
+    "hint": "Keep every total within 18. Use objects before mental calculation.",
+    "questions": [
+      {
+        "prompt": "4 + 3 = __.",
+        "answer": "7"
+      },
+      {
+        "prompt": "6 + 0 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "3 + 2 + 3 = __.",
+        "answer": "8"
+      },
+      {
+        "prompt": "9 + 9 = __.",
+        "answer": "18"
+      },
+      {
+        "prompt": "7 seeds and 5 more make how many?",
+        "answer": "12 seeds"
+      },
+      {
+        "prompt": "Explain how to check 8 + 6 = 14.",
+        "answer": "Count fourteen objects, or count on six from eight."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-10",
+    "grade": 1,
+    "title": "Add tens and ones",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two-digit numbers without regrouping, to 40.",
+    "look": "Class bundles hold ten sticks. Can we add bundles and loose sticks separately?",
+    "learn": "Line up tens with tens and ones with ones. Add the ones. Add the tens. Here each ones total stays below ten, so no new bundle is needed.",
+    "worked": "23 + 14: 3 + 4 = 7 ones; 2 + 1 = 3 tens. Total 37. Check with bundles.",
+    "play": "Build 12 and 15 with bundles and loose strips. Join tens and ones. Make another sum with a total no greater than 40.",
+    "vocabulary": "tens; ones; total",
+    "hint": "Align places. Do not read 23 as two plus three.",
+    "questions": [
+      {
+        "prompt": "12 + 13 = __.",
+        "answer": "25"
+      },
+      {
+        "prompt": "21 + 16 = __.",
+        "answer": "37"
+      },
+      {
+        "prompt": "30 + 10 = __.",
+        "answer": "40"
+      },
+      {
+        "prompt": "14 + 5 = __.",
+        "answer": "19"
+      },
+      {
+        "prompt": "22 pencils and 11 more make how many?",
+        "answer": "33 pencils"
+      },
+      {
+        "prompt": "Explain why 20 + 13 = 33.",
+        "answer": "Two tens plus one ten and three ones make three tens and three ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-11",
+    "grade": 1,
+    "title": "Take away",
+    "topic": "Subtraction",
+    "source_pages": [
+      5
+    ],
+    "goal": "Subtract within 9 and within 18.",
+    "look": "Musa puts some tops back in a box. Is the number on his mat getting larger or smaller?",
+    "learn": "Subtraction can take away. The sign − means subtract. Count what remains. Or count backwards one step per removed object.",
+    "worked": "8 − 3 = 5. Remove 3 from 8; 5 remain. Check: 5 + 3 = 8.",
+    "play": "Place up to 18 tops on a mat. A partner removes some while you watch. Say the subtraction and check by putting them back.",
+    "vocabulary": "subtract; take away; remain",
+    "hint": "Keep removed objects visible so pupils can undo the action.",
+    "questions": [
+      {
+        "prompt": "7 − 2 = __.",
+        "answer": "5"
+      },
+      {
+        "prompt": "9 − 9 = __.",
+        "answer": "0"
+      },
+      {
+        "prompt": "15 − 4 = __.",
+        "answer": "11"
+      },
+      {
+        "prompt": "18 − 9 = __.",
+        "answer": "9"
+      },
+      {
+        "prompt": "12 chalk pieces: use 3. How many remain?",
+        "answer": "9 pieces"
+      },
+      {
+        "prompt": "How does addition check 13 − 5 = 8?",
+        "answer": "8 + 5 = 13."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-12",
+    "grade": 1,
+    "title": "Find a missing part",
+    "topic": "Missing numbers",
+    "source_pages": [
+      6,
+      7
+    ],
+    "goal": "Find unknown numbers and check everyday calculations.",
+    "look": "Amina sees 3 tops. Some are hidden. There are 7 altogether. How can she find the hidden part?",
+    "learn": "A blank stands for a missing number. Find the value that makes both sides equal. Use objects or count on. Check by reading the completed sentence.",
+    "worked": "3 + __ = 7: count 4 more. The blank is 4. __ − 2 = 5: start with 7, since 7 − 2 = 5.",
+    "play": "Hide part of a set of up to 9 tops. Tell the whole and the visible part. Then make an everyday story about books with a missing amount.",
+    "vocabulary": "missing; part; whole; equal",
+    "hint": "Vary blank positions. Check by substituting in the original sentence.",
+    "questions": [
+      {
+        "prompt": "2 + __ = 6.",
+        "answer": "4"
+      },
+      {
+        "prompt": "__ + 3 = 8.",
+        "answer": "5"
+      },
+      {
+        "prompt": "9 − __ = 4.",
+        "answer": "5"
+      },
+      {
+        "prompt": "__ − 2 = 6.",
+        "answer": "8"
+      },
+      {
+        "prompt": "5 = __ + 1.",
+        "answer": "4"
+      },
+      {
+        "prompt": "Explain how to check 4 + __ = 9.",
+        "answer": "Use 5 in the blank and verify 4 + 5 = 9."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-13",
+    "grade": 1,
+    "title": "Pretend coins and change",
+    "topic": "Money",
+    "source_pages": [
+      8
+    ],
+    "goal": "Identify coin values and calculate with pretend kobo.",
+    "look": "Daniel makes paper tokens for a pretend shop. Why does a value label matter?",
+    "learn": "Nigerian money is called naira and kobo. 100 kobo = 1 naira. Use labelled pretend tokens: 1k, 5k, 10k and 25k. These are historical-value exercises, not real prices or a claim about money circulating today.",
+    "worked": "5k + 10k = 15k. Pay 10k for a pretend 6k item: change is 10k − 6k = 4k.",
+    "play": "Draw token outlines and label values. An adult may show a genuine coin for identification and supervised pencil tracing. Never mark or alter real money.",
+    "vocabulary": "naira; kobo; value; change",
+    "hint": "Use large paper tokens. Real prices and currently used denominations differ.",
+    "questions": [
+      {
+        "prompt": "5k + 5k = __.",
+        "answer": "10k"
+      },
+      {
+        "prompt": "10k + 10k + 5k = __.",
+        "answer": "25k"
+      },
+      {
+        "prompt": "Pay 10k. Cost 7k. Change?",
+        "answer": "3k"
+      },
+      {
+        "prompt": "Pay 5k. Cost 2k. Change?",
+        "answer": "3k"
+      },
+      {
+        "prompt": "Draw a token labelled 10k.",
+        "answer": "Outline with value 10k."
+      },
+      {
+        "prompt": "Why read a token value, not just count tokens?",
+        "answer": "Different tokens can have different values."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-14",
+    "grade": 1,
+    "title": "Longer, shorter and farther",
+    "topic": "Length",
+    "source_pages": [
+      9
+    ],
+    "goal": "Compare and order lengths and measure with body units.",
+    "look": "Zainab compares two strings for a garden bed. Where should their ends start?",
+    "learn": "Line up one end to compare. Longer means more length; shorter means less. Measure with equal hand spans or footsteps placed end to end with no gaps or overlaps.",
+    "worked": "One string is 4 of Amina’s spans; another is 6 of her spans. The second is longer by 2 of her spans.",
+    "play": "Measure a table in your spans and a safe path in your steps. Record whose units you used. A seated child can use a paper strip instead.",
+    "vocabulary": "longer; shorter; span; distance",
+    "hint": "Body units vary. Do not compare different pupils’ counts as if their spans were equal.",
+    "questions": [
+      {
+        "prompt": "Lengths are 3 and 5 equal strips. Which is longer?",
+        "answer": "The 5-strip length"
+      },
+      {
+        "prompt": "Order 2, 6, 4 spans from shortest.",
+        "answer": "2, 4, 6 spans"
+      },
+      {
+        "prompt": "Draw a line longer than your finger.",
+        "answer": "Line exceeds that pupil’s finger length."
+      },
+      {
+        "prompt": "A path is 8 steps out and 8 back. Total?",
+        "answer": "16 steps"
+      },
+      {
+        "prompt": "Measure a book with repeated paper-strip units.",
+        "answer": "Practical count, same unit repeated without gaps."
+      },
+      {
+        "prompt": "Why line up the string ends?",
+        "answer": "So the other ends show the difference fairly."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-15",
+    "grade": 1,
+    "title": "Our day in order",
+    "topic": "Time",
+    "source_pages": [
+      10
+    ],
+    "goal": "Sequence everyday activities and use time words.",
+    "look": "The friends describe a school day. What could you do before coming to school?",
+    "learn": "Time helps order events. Morning comes before afternoon. Evening comes before night. Routines differ. Use before and after to describe a day.",
+    "worked": "In Amina’s story: wake up, wash, eat, then go to school. Eating is before going to school.",
+    "play": "Draw three routine cards. A partner puts them in your chosen order. Tell a story using first, next and last.",
+    "vocabulary": "before; after; morning; night",
+    "hint": "Accept varied home routines. No pupil must disclose private home details.",
+    "questions": [
+      {
+        "prompt": "Which comes first: morning or afternoon?",
+        "answer": "morning"
+      },
+      {
+        "prompt": "Evening comes before __.",
+        "answer": "night"
+      },
+      {
+        "prompt": "Draw a morning activity.",
+        "answer": "Suitable example."
+      },
+      {
+        "prompt": "Draw two events in order.",
+        "answer": "Coherent sequence."
+      },
+      {
+        "prompt": "In Amina’s story, what follows washing?",
+        "answer": "eating"
+      },
+      {
+        "prompt": "Explain before with your own two events.",
+        "answer": "The first event occurs earlier than the second."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-16",
+    "grade": 1,
+    "title": "Heavy and light",
+    "topic": "Weight",
+    "source_pages": [
+      10
+    ],
+    "goal": "Compare familiar objects by weight.",
+    "look": "Musa lifts an empty bag and a bag with books. Which feels heavier?",
+    "learn": "Heavier and lighter compare weight. Size alone does not tell weight. Use small safe objects on a simple balance. The lower pan holds the heavier load.",
+    "worked": "On a balance, a stone side goes down and a leaf side goes up. The stone is heavier than the leaf.",
+    "play": "With an adult, balance a small stone, eraser and leaf. Predict, compare and order. Lift only light safe items.",
+    "vocabulary": "heavy; light; balance",
+    "hint": "Never ask pupils to lift heavy loads. Use observed results, not appearance.",
+    "questions": [
+      {
+        "prompt": "Which is heavier in the example?",
+        "answer": "stone"
+      },
+      {
+        "prompt": "Which is lighter in the example?",
+        "answer": "leaf"
+      },
+      {
+        "prompt": "Draw a safe light object.",
+        "answer": "Suitable example such as a leaf."
+      },
+      {
+        "prompt": "A balance is level. What can this show?",
+        "answer": "Equal weight on its pans"
+      },
+      {
+        "prompt": "Compare two safe objects and record a result.",
+        "answer": "Practical result supported by balance."
+      },
+      {
+        "prompt": "Does bigger always mean heavier? Explain.",
+        "answer": "No; a large empty box can be lighter than a small stone."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-17",
+    "grade": 1,
+    "title": "Solid shapes around us",
+    "topic": "Solids",
+    "source_pages": [
+      11
+    ],
+    "goal": "Name and sort cubes, cuboids, cylinders and spheres.",
+    "look": "Daniel explores a ball, a box and a closed tin. Which can roll?",
+    "learn": "A sphere is ball-shaped. A cube has six equal square faces. A cuboid has six rectangular faces, with opposite faces matching. A cylinder has two flat circular faces and a curved surface.",
+    "worked": "A dice models a cube; a cereal box models a cuboid; a closed straight-sided tin models a cylinder; a ball models a sphere.",
+    "play": "Sort clean safe objects by solid shape. Test rolling and stacking. Remove sharp tins and small choking hazards.",
+    "vocabulary": "sphere; cube; cuboid; cylinder",
+    "hint": "A cube is a special cuboid. Use a clear non-cube cuboid for initial comparison.",
+    "questions": [
+      {
+        "prompt": "What solid does a ball model?",
+        "answer": "sphere"
+      },
+      {
+        "prompt": "Which solid has six equal square faces?",
+        "answer": "cube"
+      },
+      {
+        "prompt": "What solid does a closed straight-sided tin model?",
+        "answer": "cylinder"
+      },
+      {
+        "prompt": "Draw a cuboid-shaped object.",
+        "answer": "Recognisable rectangular box."
+      },
+      {
+        "prompt": "Sort a ball and box by smooth rolling.",
+        "answer": "Ball rolls smoothly; box does not."
+      },
+      {
+        "prompt": "Give a cube/non-cube cuboid difference.",
+        "answer": "Cube edges are all equal; the chosen non-cube cuboid has unequal adjacent edge lengths."
+      }
+    ],
+    "diagram": "solids"
+  },
+  {
+    "id": "P1-18",
+    "grade": 1,
+    "title": "Flat shapes and patterns",
+    "topic": "Flat shapes",
+    "source_pages": [
+      11
+    ],
+    "goal": "Match and name circles, squares and rectangles.",
+    "look": "Amina traces a box face. How does the flat drawing differ from the box?",
+    "learn": "A circle has a curved boundary and no corners. A square has 4 equal straight sides and 4 square corners. A rectangle has 4 square corners and opposite sides equal. A square is a special rectangle.",
+    "worked": "Circle, square, circle, square is a repeating pattern. A turned square is still a square.",
+    "play": "Trace safe flat faces. Match shapes after turning them. Make a repeating pattern for a pretend cloth border. Find square and rectangular faces in the classroom.",
+    "vocabulary": "circle; square; rectangle; corner",
+    "hint": "Orientation does not change a shape. Compare with a non-square rectangle.",
+    "questions": [
+      {
+        "prompt": "How many corners has a circle?",
+        "answer": "0"
+      },
+      {
+        "prompt": "How many equal sides has a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Continue: circle, square, circle, square, __.",
+        "answer": "circle"
+      },
+      {
+        "prompt": "Draw a non-square rectangle.",
+        "answer": "Four right angles, opposite equal sides, unequal adjacent lengths."
+      },
+      {
+        "prompt": "Name an object with a rectangular face.",
+        "answer": "Suitable example such as a book."
+      },
+      {
+        "prompt": "What stays the same when a square turns?",
+        "answer": "Its four equal sides and four right-angle corners."
+      }
+    ],
+    "diagram": "shapes"
+  },
+  {
+    "id": "P1-19",
+    "grade": 1,
+    "title": "Find out about our class",
+    "topic": "Data",
+    "source_pages": [
+      12
+    ],
+    "goal": "Collect and record ages and heights.",
+    "look": "The friends discuss how children grow. What could they record respectfully?",
+    "learn": "Data are pieces of information. Ask the same question each time. Record age in completed years. Compare heights from floor to head with marked paper strips. Use letters instead of names.",
+    "worked": "Invented practice data: pupil A is 6 years, B is 7, C is 6. Two pupils are 6 years old.",
+    "play": "Use the invented records or collect voluntary ages privately. Compare paper height strips without ranking children as better or worse. Record height with a consistent method.",
+    "vocabulary": "data; age; height; record",
+    "hint": "Participation is optional. Do not publish identifiable child data. Fictional data are acceptable.",
+    "questions": [
+      {
+        "prompt": "How old is practice pupil B?",
+        "answer": "7 years"
+      },
+      {
+        "prompt": "How many practice pupils are 6?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Order the practice ages from least.",
+        "answer": "6, 6, 7"
+      },
+      {
+        "prompt": "Draw a pupil-letter/age table.",
+        "answer": "Two labelled columns."
+      },
+      {
+        "prompt": "Name a tool for comparing heights.",
+        "answer": "Marked paper strip or suitable measuring tape"
+      },
+      {
+        "prompt": "Why ask everyone the same age question?",
+        "answer": "To compare answers about the same thing."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-01",
+    "grade": 2,
+    "title": "Count to two hundred",
+    "topic": "Numbers 1–200",
+    "source_pages": [
+      13
+    ],
+    "goal": "Count, read, write and order numbers to 200.",
+    "look": "Musa labels seed packets for a class project. What comes after ninety-nine?",
+    "learn": "After 99 comes 100. Ten tens make one hundred. Count 98, 99, 100, 101, 102. Count in tens from 100 to 200.",
+    "worked": "136 means 1 hundred, 3 tens and 6 ones. 200 means 2 hundreds and no tens or ones.",
+    "play": "Make a track from 90 to 110 on scrap paper. A partner covers a number. Name it and explain. Then use place-value cards to show numbers to 200.",
+    "vocabulary": "hundred; place value; order",
+    "hint": "Use ten ten-bundles for a hundred before formal hundreds notation.",
+    "questions": [
+      {
+        "prompt": "Write one hundred and twenty-four in digits.",
+        "answer": "124"
+      },
+      {
+        "prompt": "Complete: 198, 199, __.",
+        "answer": "200"
+      },
+      {
+        "prompt": "Show 172 as hundreds, tens and ones.",
+        "answer": "1 hundred, 7 tens, 2 ones"
+      },
+      {
+        "prompt": "Order: 150, 105, 115.",
+        "answer": "105, 115, 150"
+      },
+      {
+        "prompt": "Count in tens from 160 to 200.",
+        "answer": "160, 170, 180, 190, 200"
+      },
+      {
+        "prompt": "Why does 108 have a zero?",
+        "answer": "It has no tens between its hundred and eight ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-02",
+    "grade": 2,
+    "title": "Halves and quarters of sets",
+    "topic": "Fractions",
+    "source_pages": [
+      13
+    ],
+    "goal": "Find one half, one quarter and three quarters.",
+    "look": "Amina shares tops equally among teams. What makes sharing fair?",
+    "learn": "To find half, share equally into 2 groups. To find a quarter, share equally into 4 groups. Three quarters means take 3 of those 4 equal groups.",
+    "worked": "12 tops make 4 equal groups of 3. One quarter of 12 is 3. Three quarters of 12 is 3 + 3 + 3 = 9.",
+    "play": "Share 8 then 12 tops into two and four equal groups. Point to one half, one quarter and three quarters. Label fractions on folded paper too.",
+    "vocabulary": "half; quarter; three quarters",
+    "hint": "The denominator counts equal groups, not objects in one group.",
+    "questions": [
+      {
+        "prompt": "Half of 8 = __.",
+        "answer": "4"
+      },
+      {
+        "prompt": "One quarter of 8 = __.",
+        "answer": "2"
+      },
+      {
+        "prompt": "Three quarters of 8 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "One quarter of 12 = __.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Draw four groups of 2 dots. Ring three groups. How many ringed dots?",
+        "answer": "6"
+      },
+      {
+        "prompt": "Explain three quarters of 12.",
+        "answer": "Share into four groups of 3 and take three groups, giving 9."
+      }
+    ],
+    "diagram": "setquarters"
+  },
+  {
+    "id": "P2-03",
+    "grade": 2,
+    "title": "Add without exchanging",
+    "topic": "Addition",
+    "source_pages": [
+      14
+    ],
+    "goal": "Add two- and three-digit numbers without regrouping.",
+    "look": "Zainab counts books on two shelves. How can columns keep the totals clear?",
+    "learn": "Line up hundreds, tens and ones. Add each column. No exchange is needed when each column total is below ten. Estimate first by considering the tens.",
+    "worked": "123 + 45: ones 3 + 5 = 8; tens 2 + 4 = 6; one hundred stays. Total 168.",
+    "play": "Use place-value mats to add two numbers without an exchange. Start with totals below 200. Then try 123 + 214 = 337 with three-digit addends.",
+    "vocabulary": "column; hundreds; exchange",
+    "hint": "A shorter number needs an empty hundreds place, not a shift into another column.",
+    "questions": [
+      {
+        "prompt": "34 + 25 = __.",
+        "answer": "59"
+      },
+      {
+        "prompt": "112 + 36 = __.",
+        "answer": "148"
+      },
+      {
+        "prompt": "123 + 214 = __.",
+        "answer": "337"
+      },
+      {
+        "prompt": "120 + 70 = __.",
+        "answer": "190"
+      },
+      {
+        "prompt": "43 books and 24 books make how many?",
+        "answer": "67 books"
+      },
+      {
+        "prompt": "Explain the ones in 123 + 45.",
+        "answer": "3 ones plus 5 ones make 8; no exchange is needed."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-04",
+    "grade": 2,
+    "title": "Make a new ten",
+    "topic": "Addition",
+    "source_pages": [
+      14
+    ],
+    "goal": "Add two-digit numbers with regrouping.",
+    "look": "Musa counts 8 loose strips and 7 more. What happens when the ones reach ten?",
+    "learn": "When there are 10 or more ones, exchange 10 ones for 1 ten. Write the remaining ones. Add the new ten to the tens column.",
+    "worked": "28 + 17: 8 + 7 = 15 ones = 1 ten and 5 ones. Tens: 2 + 1 + 1 = 4. Total 45. Check: 45 − 17 = 28.",
+    "play": "Build 26 and 18 with paper bundles. Join, exchange ten loose strips for one bundle, and record 44.",
+    "vocabulary": "regroup; exchange; total",
+    "hint": "Say what is exchanged: ten ones for one ten. Keep the new ten visible.",
+    "questions": [
+      {
+        "prompt": "27 + 16 = __.",
+        "answer": "43"
+      },
+      {
+        "prompt": "38 + 24 = __.",
+        "answer": "62"
+      },
+      {
+        "prompt": "46 + 37 = __.",
+        "answer": "83"
+      },
+      {
+        "prompt": "59 + 25 = __.",
+        "answer": "84"
+      },
+      {
+        "prompt": "18 tops and 15 more make how many?",
+        "answer": "33 tops"
+      },
+      {
+        "prompt": "Why does 8 + 7 give an extra ten?",
+        "answer": "15 ones contain one group of ten and five ones left."
+      }
+    ],
+    "diagram": "regroup"
+  },
+  {
+    "id": "P2-05",
+    "grade": 2,
+    "title": "Add three amounts",
+    "topic": "Addition",
+    "source_pages": [
+      14
+    ],
+    "goal": "Add three numbers in stages and check.",
+    "look": "Daniel records three teams’ points. Which two numbers could he add first?",
+    "learn": "For three addends, add two first, then the third. Choose an easy pair. Keep every amount in the calculation exactly once.",
+    "worked": "18 + 12 + 7: first make 30, then 37. Check another order: 12 + 7 = 19; 19 + 18 = 37.",
+    "play": "Draw three number cards. Build the total with place-value strips. Ask a partner to check in a different order.",
+    "vocabulary": "addend; stages; total",
+    "hint": "Choosing pairs can ease mental work; never omit the third addend.",
+    "questions": [
+      {
+        "prompt": "12 + 8 + 5 = __.",
+        "answer": "25"
+      },
+      {
+        "prompt": "23 + 17 + 9 = __.",
+        "answer": "49"
+      },
+      {
+        "prompt": "15 + 15 + 15 = __.",
+        "answer": "45"
+      },
+      {
+        "prompt": "42 + 18 + 20 = __.",
+        "answer": "80"
+      },
+      {
+        "prompt": "Teams score 16, 14 and 8. Total?",
+        "answer": "38 points"
+      },
+      {
+        "prompt": "Which pair helps in 27 + 3 + 6? Why?",
+        "answer": "27 and 3 make 30, then add 6 to get 36."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-06",
+    "grade": 2,
+    "title": "Subtract tens and ones",
+    "topic": "Subtraction",
+    "source_pages": [
+      15
+    ],
+    "goal": "Subtract two-digit numbers without regrouping.",
+    "look": "There are 58 paper strips. Amina uses 23. How can she separate tens and ones?",
+    "learn": "Align place-value columns. Subtract ones from ones and tens from tens. Check by adding the difference to the amount removed.",
+    "worked": "58 − 23: 8 − 3 = 5 ones; 5 − 2 = 3 tens. Answer 35. Check 35 + 23 = 58.",
+    "play": "Make a stock of 47 strips. Remove 12 in bundles and loose ones. Show the remaining 35.",
+    "vocabulary": "difference; subtract; check",
+    "hint": "Read the story before choosing an operation. Ask what remains and what was removed.",
+    "questions": [
+      {
+        "prompt": "46 − 21 = __.",
+        "answer": "25"
+      },
+      {
+        "prompt": "78 − 34 = __.",
+        "answer": "44"
+      },
+      {
+        "prompt": "95 − 50 = __.",
+        "answer": "45"
+      },
+      {
+        "prompt": "67 − 6 = __.",
+        "answer": "61"
+      },
+      {
+        "prompt": "59 pages: read 24. How many left?",
+        "answer": "35 pages"
+      },
+      {
+        "prompt": "Check 86 − 42 = 44 using addition.",
+        "answer": "44 + 42 = 86."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-07",
+    "grade": 2,
+    "title": "Exchange a ten to subtract",
+    "topic": "Subtraction",
+    "source_pages": [
+      15
+    ],
+    "goal": "Subtract two-digit numbers with regrouping.",
+    "look": "Musa has 4 bundles and 2 loose strips. How can he remove 7 loose strips?",
+    "learn": "Exchange one ten for ten ones. The total value stays the same. Subtract the ones, then the remaining tens.",
+    "worked": "42 − 17: rewrite 42 as 3 tens and 12 ones. 12 − 7 = 5; 3 tens − 1 ten = 2 tens. Answer 25. Check 25 + 17 = 42.",
+    "play": "Build 53. Exchange a bundle and remove 28. Record the stages. Check remaining 25 and removed 28 total 53.",
+    "vocabulary": "exchange; difference; inverse",
+    "hint": "Do not subtract the smaller digit from the larger regardless of its position.",
+    "questions": [
+      {
+        "prompt": "52 − 27 = __.",
+        "answer": "25"
+      },
+      {
+        "prompt": "71 − 36 = __.",
+        "answer": "35"
+      },
+      {
+        "prompt": "80 − 45 = __.",
+        "answer": "35"
+      },
+      {
+        "prompt": "63 − 18 = __.",
+        "answer": "45"
+      },
+      {
+        "prompt": "34 pencils: use 19. How many remain?",
+        "answer": "15 pencils"
+      },
+      {
+        "prompt": "Why can 52 be 4 tens and 12 ones?",
+        "answer": "One of five tens becomes ten ones; total value stays 52."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-08",
+    "grade": 2,
+    "title": "Equal groups and multiplication",
+    "topic": "Multiplication",
+    "source_pages": [
+      16
+    ],
+    "goal": "Use repeated addition and multiplication notation.",
+    "look": "Zainab puts equal numbers of tops on mats. How can she count equal groups?",
+    "learn": "Equal groups have the same number in each. In this book 3 × 4 means 3 groups of 4: 4 + 4 + 4. The sign × means multiplied by. An array has equal rows and columns.",
+    "worked": "3 groups of 4 tops = 4 + 4 + 4 = 12. So 3 × 4 = 12.",
+    "play": "Make 2, 3, 4 or 5 equal groups. Write repeated addition and multiplication for each. Check by counting all objects.",
+    "vocabulary": "groups; times; multiply; array",
+    "hint": "Keep group count and group size distinct in the story even when products match.",
+    "questions": [
+      {
+        "prompt": "2 × 3 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "4 + 4 + 4 = __.",
+        "answer": "12"
+      },
+      {
+        "prompt": "Write 5 + 5 as multiplication.",
+        "answer": "2 × 5 = 10"
+      },
+      {
+        "prompt": "4 groups of 2 tops contain how many?",
+        "answer": "8"
+      },
+      {
+        "prompt": "Draw 3 rows of 3 dots. How many?",
+        "answer": "9"
+      },
+      {
+        "prompt": "Why is 2 + 3 + 2 not three equal groups?",
+        "answer": "One group has 3 and the others have 2."
+      }
+    ],
+    "diagram": "array34"
+  },
+  {
+    "id": "P2-09",
+    "grade": 2,
+    "title": "Missing-number puzzles",
+    "topic": "Open sentences",
+    "source_pages": [
+      17
+    ],
+    "goal": "Find unknowns and explain simple number relationships.",
+    "look": "Daniel writes a sentence with a blank. How can his friends prove an answer?",
+    "learn": "Both sides of equals have the same value. Find a missing part with objects, counting or an inverse operation. Test the number in the original sentence.",
+    "worked": "__ + 15 = 42: use 42 − 15 = 27. Check 27 + 15 = 42. In 3 × __ = 12, the blank is 4.",
+    "play": "Make a blank in a true sentence. Exchange puzzles with a partner. Describe the number relationship in words.",
+    "vocabulary": "unknown; equal; inverse",
+    "hint": "Let pupils model a solution before explaining the symbols.",
+    "questions": [
+      {
+        "prompt": "__ + 12 = 35.",
+        "answer": "23"
+      },
+      {
+        "prompt": "46 − __ = 21.",
+        "answer": "25"
+      },
+      {
+        "prompt": "__ − 18 = 24.",
+        "answer": "42"
+      },
+      {
+        "prompt": "3 × __ = 15.",
+        "answer": "5"
+      },
+      {
+        "prompt": "7 + 8 = __ + 5.",
+        "answer": "10"
+      },
+      {
+        "prompt": "How do you check __ − 9 = 16?",
+        "answer": "Put 25 in the blank and verify 25 − 9 = 16."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-10",
+    "grade": 2,
+    "title": "Money and fair exchange",
+    "topic": "Money",
+    "source_pages": [
+      18
+    ],
+    "goal": "Name money uses and exchange equal values.",
+    "look": "Amina makes a pretend shop. What could people use money for besides buying a toy?",
+    "learn": "Money can buy goods and services, be saved or be given. Naira is written ₦. Our pretend cards show ₦1, ₦2, ₦5, ₦10 and ₦20. They model values, not current notes or coins.",
+    "worked": "Two ₦5 cards equal ₦10. Four ₦5 cards equal ₦20.",
+    "play": "Exchange paper value cards for equal totals. An adult may show genuine money and identify its value. Do not assume our value cards match issued denominations.",
+    "vocabulary": "value; exchange; save",
+    "hint": "Historical scope uses amounts to ₦20. No present-day price claim is made.",
+    "questions": [
+      {
+        "prompt": "How many ₦5 cards equal ₦10?",
+        "answer": "2"
+      },
+      {
+        "prompt": "₦10 + ₦5 + ₦2 = __.",
+        "answer": "₦17"
+      },
+      {
+        "prompt": "₦20 − ₦5 = __.",
+        "answer": "₦15"
+      },
+      {
+        "prompt": "Name one use of money.",
+        "answer": "Buying goods or services, saving or giving."
+      },
+      {
+        "prompt": "Make ₦12 using ₦10 and ₦2 cards.",
+        "answer": "One of each"
+      },
+      {
+        "prompt": "Why is ₦10 worth more than three ₦2 cards?",
+        "answer": "₦10 is greater than ₦6."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-11",
+    "grade": 2,
+    "title": "Our pretend shop",
+    "topic": "Money",
+    "source_pages": [
+      18
+    ],
+    "goal": "Buy and give change within ₦20.",
+    "look": "Zainab labels pretend items for role-play. Who should check the change?",
+    "learn": "Add item values for the cost. Subtract cost from payment for change. Both buyer and seller check. All prices here are invented mathematical values.",
+    "worked": "Pretend costs: a card ₦6 and a paper shape ₦4. Total ₦10. Pay ₦20: change ₦10. Check ₦10 + ₦10 = ₦20.",
+    "play": "Use paper objects and value cards. Take turns as buyer and seller. Keep cost and payment at or below ₦20.",
+    "vocabulary": "cost; pay; change; receipt",
+    "hint": "Do not send pupils shopping for this task. Include oral or pointing roles.",
+    "questions": [
+      {
+        "prompt": "Pretend costs ₦7 and ₦5. Total?",
+        "answer": "₦12"
+      },
+      {
+        "prompt": "Pay ₦20 for cost ₦12. Change?",
+        "answer": "₦8"
+      },
+      {
+        "prompt": "Pay ₦10 for cost ₦6. Change?",
+        "answer": "₦4"
+      },
+      {
+        "prompt": "Two pretend items cost ₦8 each. Total?",
+        "answer": "₦16"
+      },
+      {
+        "prompt": "Pay ₦20 for cost ₦16. Change?",
+        "answer": "₦4"
+      },
+      {
+        "prompt": "How can a buyer check the ₦8 change after ₦12 cost?",
+        "answer": "Add ₦12 and ₦8 to get the ₦20 payment."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-12",
+    "grade": 2,
+    "title": "Why we need a metre",
+    "topic": "Length",
+    "source_pages": [
+      18
+    ],
+    "goal": "Compare body units and recognise metres and centimetres.",
+    "look": "Musa and Amina get different span counts for the same table. Could both be careful?",
+    "learn": "Hand spans differ, so counts can differ. Standard units have agreed sizes. Metre is written m; centimetre is cm. 100 cm = 1 m. A ruler can measure short lengths; a metre strip measures longer ones.",
+    "worked": "A 30 cm ruler is useful for a book. A metre strip is useful for a table or classroom distance.",
+    "play": "Two pupils measure a table with their own spans. Compare counts. Then use the same ruler or metre strip and explain the results.",
+    "vocabulary": "metre; centimetre; standard",
+    "hint": "Never use a scaled printed ruler diagram as a physical ruler.",
+    "questions": [
+      {
+        "prompt": "How many cm are in 1 m?",
+        "answer": "100"
+      },
+      {
+        "prompt": "Choose a convenient unit for a pencil: cm or m.",
+        "answer": "cm"
+      },
+      {
+        "prompt": "Choose a convenient unit for classroom length: cm or m.",
+        "answer": "m"
+      },
+      {
+        "prompt": "Write 1 m in cm.",
+        "answer": "100 cm"
+      },
+      {
+        "prompt": "Measure a book with a real ruler. Record cm.",
+        "answer": "Practical reading with correct zero alignment and cm unit."
+      },
+      {
+        "prompt": "Why can hand-span counts differ?",
+        "answer": "Different people’s spans can have different lengths."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-13",
+    "grade": 2,
+    "title": "Whole hours and half hours",
+    "topic": "Time",
+    "source_pages": [
+      19
+    ],
+    "goal": "Read whole-hour and half-hour times.",
+    "look": "Daniel looks at a clock. Which hand gives the minutes?",
+    "learn": "The long hand shows minutes; the short hand hours. At a whole hour the minute hand is at 12. At half past it is at 6; the hour hand is halfway to the next hour.",
+    "worked": "At 3:00 the short hand points to 3 and the long hand to 12. At 3:30 the short hand is halfway between 3 and 4, with the long hand at 6.",
+    "play": "Make a paper clock with movable hands. Show whole and half hours for a partner to name.",
+    "vocabulary": "hour; minute; half past",
+    "hint": "Distinguish hand lengths. Move the hour hand between hour marks at half past.",
+    "questions": [
+      {
+        "prompt": "Write half past four in digits.",
+        "answer": "4:30"
+      },
+      {
+        "prompt": "At 7:00 where is the minute hand?",
+        "answer": "12"
+      },
+      {
+        "prompt": "At 9:30 where is the minute hand?",
+        "answer": "6"
+      },
+      {
+        "prompt": "Write six o’clock in digits.",
+        "answer": "6:00"
+      },
+      {
+        "prompt": "Read clock A in the diagram.",
+        "answer": "3:00"
+      },
+      {
+        "prompt": "Where is the hour hand at 2:30? Explain.",
+        "answer": "Halfway between 2 and 3, because half an hour has passed."
+      }
+    ],
+    "diagram": "clocks"
+  },
+  {
+    "id": "P2-14",
+    "grade": 2,
+    "title": "Seven days in a week",
+    "topic": "Time",
+    "source_pages": [
+      19
+    ],
+    "goal": "Name and order weekdays.",
+    "look": "The friends plan classroom jobs. How can they show which day follows another?",
+    "learn": "The days in order here are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. A week has 7 days. After Sunday comes Monday again.",
+    "worked": "The day after Tuesday is Wednesday. The day before Monday is Sunday.",
+    "play": "Make seven day cards. Put them in a circle and name the next day. This is a practice sequence, not a claim about every school timetable.",
+    "vocabulary": "week; day; yesterday; tomorrow",
+    "hint": "Connect names to a real calendar. Respect different family routines.",
+    "questions": [
+      {
+        "prompt": "How many days make a week?",
+        "answer": "7"
+      },
+      {
+        "prompt": "What follows Friday?",
+        "answer": "Saturday"
+      },
+      {
+        "prompt": "What comes before Thursday?",
+        "answer": "Wednesday"
+      },
+      {
+        "prompt": "Complete: Sunday, Monday, __.",
+        "answer": "Tuesday"
+      },
+      {
+        "prompt": "Today is Wednesday. What is tomorrow?",
+        "answer": "Thursday"
+      },
+      {
+        "prompt": "Why does Monday follow Sunday?",
+        "answer": "The seven-day sequence repeats."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-15",
+    "grade": 2,
+    "title": "Order by weight",
+    "topic": "Weight",
+    "source_pages": [
+      19
+    ],
+    "goal": "Arrange objects from lightest to heaviest.",
+    "look": "Amina compares a leaf, an eraser and a small stone. What evidence is needed?",
+    "learn": "Compare pairs on a balance. Record results before ordering all objects. Size alone does not determine weight.",
+    "worked": "Practice results: eraser heavier than leaf; stone heavier than eraser. Order: leaf, eraser, stone. These are stated results, not a rule for all stones.",
+    "play": "Use three safe small objects and an adult-supervised balance. Predict, test, then change your order if evidence disagrees.",
+    "vocabulary": "lightest; heaviest; compare",
+    "hint": "Record the measured order. Objects with the same name need not have the same weight.",
+    "questions": [
+      {
+        "prompt": "In the practice results, which is lightest?",
+        "answer": "leaf"
+      },
+      {
+        "prompt": "Which is heaviest?",
+        "answer": "stone"
+      },
+      {
+        "prompt": "Which is in the middle?",
+        "answer": "eraser"
+      },
+      {
+        "prompt": "A is heavier than B. Which pan is lower?",
+        "answer": "A’s pan"
+      },
+      {
+        "prompt": "Test and order three safe objects.",
+        "answer": "Order supported by observed results."
+      },
+      {
+        "prompt": "Why test a weight prediction?",
+        "answer": "Appearance can be misleading."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-16",
+    "grade": 2,
+    "title": "How much can it hold?",
+    "topic": "Capacity",
+    "source_pages": [
+      20
+    ],
+    "goal": "Identify containers and order capacities.",
+    "look": "Musa chooses a container for plant water. Does a taller container always hold more?",
+    "learn": "Capacity is how much a container can hold. Measure with the same small cup each time. Use level cupfuls. A short wide container may hold more than a tall narrow one.",
+    "worked": "Jug A holds 4 equal cups; B holds 6. B has greater capacity by 2 cups.",
+    "play": "With adult help, use water or dry sand. Predict and measure three containers with one cup. Order from least to greatest capacity.",
+    "vocabulary": "capacity; container; cupful",
+    "hint": "Do not drink or taste activity contents. Prevent spills and use unbreakable containers.",
+    "questions": [
+      {
+        "prompt": "Which practice jug holds more?",
+        "answer": "B"
+      },
+      {
+        "prompt": "How many more cupfuls does B hold?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Order 5, 2, 4 cups from least.",
+        "answer": "2, 4, 5"
+      },
+      {
+        "prompt": "Name a suitable water container.",
+        "answer": "Suitable watertight jug, bucket or bottle."
+      },
+      {
+        "prompt": "Compare two safe containers using one cup.",
+        "answer": "Recorded counts using a common cup unit."
+      },
+      {
+        "prompt": "Why use the same cup?",
+        "answer": "So each unit has equal capacity."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P2-17",
+    "grade": 2,
+    "title": "Cover a surface",
+    "topic": "Area",
+    "source_pages": [
+      20
+    ],
+    "goal": "Compare surface areas and recognise standard square units.",
+    "look": "Zainab covers two cards with paper squares. What must she avoid between squares?",
+    "learn": "Area measures flat surface coverage. Use equal squares without gaps or overlaps. More of the same squares means more area. A square centimetre is 1 cm on each side; write cm². A square metre is 1 m on each side; write m².",
+    "worked": "Grid A has 3 rows of 4 squares: 12 square units. A card using 8 of the same squares has less area.",
+    "play": "Cover two cards with equal paper squares. Record and compare. Use a ruler to make 1 cm squares when possible. Discuss which unit suits a book cover or floor.",
+    "vocabulary": "area; surface; square unit",
+    "hint": "Area counts covering units, not distance around the edge. The diagram is not necessarily actual size.",
+    "questions": [
+      {
+        "prompt": "How many squares are in grid A?",
+        "answer": "12"
+      },
+      {
+        "prompt": "Cards use 6 and 9 of the same squares. Which has more area?",
+        "answer": "The 9-square card"
+      },
+      {
+        "prompt": "What does cm² name?",
+        "answer": "square centimetres"
+      },
+      {
+        "prompt": "Draw 2 rows of 3 equal squares. Count them.",
+        "answer": "6 squares"
+      },
+      {
+        "prompt": "Cover a card and record square units.",
+        "answer": "Count matches actual equal-square cover."
+      },
+      {
+        "prompt": "Why must comparison squares be equal?",
+        "answer": "Unequal unit sizes make counts unfair to compare."
+      }
+    ],
+    "diagram": "area34"
+  },
+  {
+    "id": "P2-18",
+    "grade": 2,
+    "title": "Faces, edges and corners",
+    "topic": "Solids",
+    "source_pages": [
+      21
+    ],
+    "goal": "Count cube/cuboid features and recognise cylinder curvature.",
+    "look": "Daniel turns a box. How can he avoid counting a corner twice?",
+    "learn": "A polyhedron face is flat. An edge is where two faces meet. A vertex is a corner. Cube and cuboid each have 6 faces, 12 edges and 8 vertices. A cylinder has a curved surface and two flat circular faces.",
+    "worked": "Mark box corners with tabs. Count 4 on one end and 4 on the other: 8 vertices.",
+    "play": "Explore a cube and non-cube box. Tab faces, edges and corners as you count. Compare with a cylinder and sphere. Find examples at home or school.",
+    "vocabulary": "face; edge; vertex; curved",
+    "hint": "Describe curved surfaces rather than extending polyhedron edge conventions to curved solids.",
+    "questions": [
+      {
+        "prompt": "How many cube faces?",
+        "answer": "6"
+      },
+      {
+        "prompt": "How many cuboid vertices?",
+        "answer": "8"
+      },
+      {
+        "prompt": "How many cube edges?",
+        "answer": "12"
+      },
+      {
+        "prompt": "Which has curvature: cube or cylinder?",
+        "answer": "cylinder"
+      },
+      {
+        "prompt": "Name a cylinder model at home.",
+        "answer": "Suitable closed straight-sided cylindrical container."
+      },
+      {
+        "prompt": "How can you avoid recounting box edges?",
+        "answer": "Mark edges, or count four top, four bottom and four joining edges."
+      }
+    ],
+    "diagram": "solids"
+  },
+  {
+    "id": "P2-19",
+    "grade": 2,
+    "title": "Triangles and square corners",
+    "topic": "Flat shapes",
+    "source_pages": [
+      22
+    ],
+    "goal": "Name flat shapes and recognise right angles.",
+    "look": "Amina folds a paper corner. Which corners in the room match it?",
+    "learn": "A triangle has 3 straight sides and 3 corners. A right angle is a square corner. Squares and rectangles each have 4 right angles. A triangle may have one right angle, but need not.",
+    "worked": "A rectangle stays a rectangle when turned. Fit a folded paper square corner against its corner to test the angle.",
+    "play": "Trace circle, square, rectangle and triangle shapes. Sort by sides and right angles. Use a paper square corner to test.",
+    "vocabulary": "triangle; right angle; straight",
+    "hint": "Not every triangle corner is a right angle. Use varied triangle shapes.",
+    "questions": [
+      {
+        "prompt": "How many straight triangle sides?",
+        "answer": "3"
+      },
+      {
+        "prompt": "How many right angles in a rectangle?",
+        "answer": "4"
+      },
+      {
+        "prompt": "How many circle corners?",
+        "answer": "0"
+      },
+      {
+        "prompt": "Draw a triangle with one right angle.",
+        "answer": "Three-sided shape with one square corner."
+      },
+      {
+        "prompt": "Name a shape with 4 equal sides and 4 right angles.",
+        "answer": "square"
+      },
+      {
+        "prompt": "How do triangle and rectangle differ?",
+        "answer": "Triangle has 3 sides; rectangle has 4 and four right angles."
+      }
+    ],
+    "diagram": "shapes"
+  },
+  {
+    "id": "P2-20",
+    "grade": 2,
+    "title": "Collect, group and arrange",
+    "topic": "Data",
+    "source_pages": [
+      23
+    ],
+    "goal": "Collect information and organise groups and arrays.",
+    "look": "Musa asks which of three games friends prefer. How can he record one choice per child?",
+    "learn": "Choose a question and categories. Record one answer per person. Group matching answers. Place one counter per response in an array of aligned rows.",
+    "worked": "Invented choices: ball, skipping, ball, clapping, ball, skipping. Counts: ball 3; skipping 2; clapping 1. Total 6.",
+    "play": "Use the invented choices or a voluntary class question. Put a counter in its category for each answer. Align rows to compare counts.",
+    "vocabulary": "category; response; array; data",
+    "hint": "Avoid sensitive questions. Total counters must equal total responses.",
+    "questions": [
+      {
+        "prompt": "How many chose ball?",
+        "answer": "3"
+      },
+      {
+        "prompt": "How many chose skipping?",
+        "answer": "2"
+      },
+      {
+        "prompt": "How many responses altogether?",
+        "answer": "6"
+      },
+      {
+        "prompt": "Which game has fewest choices?",
+        "answer": "clapping"
+      },
+      {
+        "prompt": "Draw labelled rows of 3, 2 and 1 dots.",
+        "answer": "Ball 3, skipping 2, clapping 1."
+      },
+      {
+        "prompt": "Why one choice per child for this question?",
+        "answer": "Each participant is counted once, making counts comparable."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-01",
+    "grade": 3,
+    "title": "Hundreds, tens and ones",
+    "topic": "Numbers through 999",
+    "source_pages": [
+      24
+    ],
+    "goal": "Read, count, write and explain numbers through 999.",
+    "look": "The friends label a pretend library inventory. Why is the zero in 406 important?",
+    "learn": "The places in a three-digit number are hundreds, tens and ones. 10 ones = 1 ten; 10 tens = 1 hundred. Count to 999 with these places.",
+    "worked": "406 = 400 + 0 + 6: four hundreds, no tens, six ones. 999 = 900 + 90 + 9.",
+    "play": "Make a hundreds-tens-ones mat. Use paper bundles to show numbers named by a partner. Include numbers with zero.",
+    "vocabulary": "hundreds; place; digit",
+    "hint": "Inventory data are fictional. Zero holds an empty place.",
+    "questions": [
+      {
+        "prompt": "Write six hundred and thirty-two in digits.",
+        "answer": "632"
+      },
+      {
+        "prompt": "Expand 508.",
+        "answer": "500 + 0 + 8"
+      },
+      {
+        "prompt": "What is the value of 7 in 374?",
+        "answer": "70"
+      },
+      {
+        "prompt": "Complete: 897, 898, __, __.",
+        "answer": "899, 900"
+      },
+      {
+        "prompt": "Write 999 in words.",
+        "answer": "nine hundred and ninety-nine"
+      },
+      {
+        "prompt": "Explain 305 compared with 350.",
+        "answer": "305 has zero tens and five ones; 350 has five tens and zero ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-02",
+    "grade": 3,
+    "title": "Compare and order",
+    "topic": "Numbers through 999",
+    "source_pages": [
+      24
+    ],
+    "goal": "Order three-digit numbers using < and >.",
+    "look": "Amina compares team totals. Which place should she compare first?",
+    "learn": "Compare hundreds, then tens if needed, then ones. The sign < means less than; > means greater than. The open end faces the greater value.",
+    "worked": "427 > 398 because 4 hundreds exceed 3 hundreds. 452 < 459 because hundreds and tens match but 2 ones are fewer than 9.",
+    "play": "Build three numbers from digit cards. Order them with comparison cards. Tell a story where number ordering helps.",
+    "vocabulary": "less than; greater than; order",
+    "hint": "Read comparisons aloud in both directions. Use place-value reasoning.",
+    "questions": [
+      {
+        "prompt": "Write < or >: 306 __ 360.",
+        "answer": "<"
+      },
+      {
+        "prompt": "Write < or >: 812 __ 799.",
+        "answer": ">"
+      },
+      {
+        "prompt": "Order: 507, 570, 475.",
+        "answer": "475, 507, 570"
+      },
+      {
+        "prompt": "Write a number between 640 and 650.",
+        "answer": "Any whole number 641 to 649."
+      },
+      {
+        "prompt": "Greatest of 908, 890, 980?",
+        "answer": "980"
+      },
+      {
+        "prompt": "Give one use of ordering numbers.",
+        "answer": "For example finding the largest stock total."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-03",
+    "grade": 3,
+    "title": "Name equal parts",
+    "topic": "Fractions",
+    "source_pages": [
+      25
+    ],
+    "goal": "Read fractions of shapes and collections.",
+    "look": "Zainab divides a strip equally. What does each number in a fraction tell us?",
+    "learn": "In 1/3, denominator 3 counts equal parts in the whole; numerator 1 counts selected parts. Use halves, thirds, quarters, fifths and sixths.",
+    "worked": "One fifth of 10 tops: share into 5 equal groups, giving 2 each. One fifth is 2. Four sixths means select 4 of 6 equal parts.",
+    "play": "Fold marked strips into 2, 3, 4, 5 and 6 equal sections. Label a selected part. Use sets that divide equally.",
+    "vocabulary": "numerator; denominator; third; fifth; sixth",
+    "hint": "Use equal-sized wholes. Parts must have equal amounts.",
+    "questions": [
+      {
+        "prompt": "In 2/5, how many parts make the whole?",
+        "answer": "5"
+      },
+      {
+        "prompt": "In 3/4, how many parts are selected?",
+        "answer": "3"
+      },
+      {
+        "prompt": "Find 1/3 of 12.",
+        "answer": "4"
+      },
+      {
+        "prompt": "Find 1/6 of 12.",
+        "answer": "2"
+      },
+      {
+        "prompt": "Draw 5 equal parts and shade 2. Name the fraction.",
+        "answer": "2/5"
+      },
+      {
+        "prompt": "Why are unequal pieces unsuitable for thirds?",
+        "answer": "Thirds require three equal parts."
+      }
+    ],
+    "diagram": "fractionstrip"
+  },
+  {
+    "id": "P3-04",
+    "grade": 3,
+    "title": "Equivalent and ordered fractions",
+    "topic": "Fractions",
+    "source_pages": [
+      25
+    ],
+    "goal": "Recognise equivalent fractions and compare fractions.",
+    "look": "Musa folds equal-sized paper into halves and quarters. Can different fraction names show the same amount?",
+    "learn": "Equivalent fractions represent equal amounts of the same whole. One half equals two quarters. With equal denominators, more parts means more amount. For unit fractions, more equal parts in a whole means smaller pieces.",
+    "worked": "1/2 = 2/4 = 3/6. Also 1/3 > 1/6 and 3/5 > 2/5. Compare equal-sized wholes.",
+    "play": "Overlay equal-length folded strips. Two quarters cover a half. Compare thirds with sixths using the same whole.",
+    "vocabulary": "equivalent; compare; same whole",
+    "hint": "Always identify the whole. Half a large sheet may exceed half a small one.",
+    "questions": [
+      {
+        "prompt": "Complete: 1/2 = __/4.",
+        "answer": "2"
+      },
+      {
+        "prompt": "Complete: 1/2 = __/6.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Write < or >: 1/4 __ 1/2.",
+        "answer": "<"
+      },
+      {
+        "prompt": "Write < or >: 4/5 __ 2/5.",
+        "answer": ">"
+      },
+      {
+        "prompt": "Order 1/2, 1/6, 1/3 from least.",
+        "answer": "1/6, 1/3, 1/2"
+      },
+      {
+        "prompt": "Why is 1/3 greater than 1/6 of the same whole?",
+        "answer": "Three equal parts are larger individually than six equal parts."
+      }
+    ],
+    "diagram": "equivalent"
+  },
+  {
+    "id": "P3-05",
+    "grade": 3,
+    "title": "Add three-digit numbers",
+    "topic": "Addition",
+    "source_pages": [
+      26
+    ],
+    "goal": "Add with regrouping and add three amounts in stages.",
+    "look": "Daniel counts reusable paper sheets. How can an estimate help check his total?",
+    "learn": "Align place values. Add ones, exchange ten ones for a ten if needed. Add tens, exchange ten tens for a hundred if needed. Add hundreds. Add three amounts in stages.",
+    "worked": "268 + 157: 8 + 7 = 15 ones, write 5 and exchange 1 ten. Tens: 6 + 5 + 1 = 12, write 2 and exchange 1 hundred. Hundreds: 2 + 1 + 1 = 4. Total 425.",
+    "play": "Build a sum on a place-value mat. Record exchanges. A partner checks by subtracting an addend from the total.",
+    "vocabulary": "regroup; estimate; addend",
+    "hint": "Warm up with two-digit regrouping. Explain every exchange.",
+    "questions": [
+      {
+        "prompt": "47 + 28 = __.",
+        "answer": "75"
+      },
+      {
+        "prompt": "236 + 142 = __.",
+        "answer": "378"
+      },
+      {
+        "prompt": "368 + 257 = __.",
+        "answer": "625"
+      },
+      {
+        "prompt": "125 + 75 + 40 = __.",
+        "answer": "240"
+      },
+      {
+        "prompt": "Classes collect 178 and 146 sheets. Total?",
+        "answer": "324 sheets"
+      },
+      {
+        "prompt": "Explain a check for 268 + 157 = 425.",
+        "answer": "425 − 157 = 268, or recalculate with reversed addends."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-06",
+    "grade": 3,
+    "title": "Add fractions",
+    "topic": "Addition",
+    "source_pages": [
+      26
+    ],
+    "goal": "Add fractions with the same denominator.",
+    "look": "Amina shades equal parts in two colours. How can she name the total?",
+    "learn": "When denominators match, parts have the same size. Add numerators and keep the denominator. Do not add denominators. Keep the same whole.",
+    "worked": "1/5 + 2/5 = 3/5. One fifth and two fifths make three fifths. 1/4 + 3/4 = 4/4 = 1 whole.",
+    "play": "Divide a strip into six equal parts. Shade 1 blue and 3 green, without overlap. Total 4/6; show it is also 2/3.",
+    "vocabulary": "like denominators; fraction; whole",
+    "hint": "Model selected parts without overlap for addition inside one whole.",
+    "questions": [
+      {
+        "prompt": "1/4 + 2/4 = __.",
+        "answer": "3/4"
+      },
+      {
+        "prompt": "2/6 + 3/6 = __.",
+        "answer": "5/6"
+      },
+      {
+        "prompt": "1/3 + 1/3 = __.",
+        "answer": "2/3"
+      },
+      {
+        "prompt": "2/5 + 3/5 = __.",
+        "answer": "1 whole, or 5/5"
+      },
+      {
+        "prompt": "Shade 1/6 then 2/6. Total?",
+        "answer": "3/6, or 1/2"
+      },
+      {
+        "prompt": "Why keep the denominator?",
+        "answer": "Part size stays the same; the count of parts changes."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-07",
+    "grade": 3,
+    "title": "Subtract three-digit numbers",
+    "topic": "Subtraction",
+    "source_pages": [
+      27
+    ],
+    "goal": "Subtract with exchanges and in stages.",
+    "look": "Musa uses sheets from a stock. What stays the same when he exchanges a hundred for ten tens?",
+    "learn": "Keep the total value unchanged in exchanges. Subtract ones, tens, then hundreds. If a story removes two amounts, remove the first and then the second.",
+    "worked": "432 − 178: exchange a ten to get 12 ones and 2 tens. 12 − 8 = 4. Exchange a hundred to get 12 tens and 3 hundreds. 12 − 7 = 5; 3 − 1 = 2. Answer 254.",
+    "play": "Build 325. Remove 146 with place-value pieces. Check remaining 179 by adding 179 + 146.",
+    "vocabulary": "exchange; difference; stages",
+    "hint": "With zero tens, show both exchanges explicitly.",
+    "questions": [
+      {
+        "prompt": "63 − 28 = __.",
+        "answer": "35"
+      },
+      {
+        "prompt": "578 − 243 = __.",
+        "answer": "335"
+      },
+      {
+        "prompt": "502 − 178 = __.",
+        "answer": "324"
+      },
+      {
+        "prompt": "400 − 125 − 75 = __.",
+        "answer": "200"
+      },
+      {
+        "prompt": "346 sheets: use 128. How many left?",
+        "answer": "218 sheets"
+      },
+      {
+        "prompt": "Check 432 − 178 = 254.",
+        "answer": "254 + 178 = 432."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-08",
+    "grade": 3,
+    "title": "Subtract fractions",
+    "topic": "Subtraction",
+    "source_pages": [
+      27
+    ],
+    "goal": "Subtract fractions with the same denominator.",
+    "look": "Zainab shades five sixths then erases two sixths. How much stays shaded?",
+    "learn": "With like denominators, subtract numerators and keep the denominator. Equal-part size stays the same. Check using addition.",
+    "worked": "5/6 − 2/6 = 3/6 = 1/2. Check: 3/6 + 2/6 = 5/6.",
+    "play": "Fold a strip into equal parts. Shade some and cross out a few shaded parts. Write and check the subtraction.",
+    "vocabulary": "numerator; denominator; remain",
+    "hint": "The whole strip keeps the same number of equal parts after selected parts are removed.",
+    "questions": [
+      {
+        "prompt": "3/4 − 1/4 = __.",
+        "answer": "2/4, or 1/2"
+      },
+      {
+        "prompt": "4/5 − 2/5 = __.",
+        "answer": "2/5"
+      },
+      {
+        "prompt": "5/6 − 1/6 = __.",
+        "answer": "4/6, or 2/3"
+      },
+      {
+        "prompt": "3/3 − 2/3 = __.",
+        "answer": "1/3"
+      },
+      {
+        "prompt": "4/6 shaded: erase 3/6. Remaining?",
+        "answer": "1/6"
+      },
+      {
+        "prompt": "How does addition check 4/5 − 1/5 = 3/5?",
+        "answer": "3/5 + 1/5 = 4/5."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-09",
+    "grade": 3,
+    "title": "Multiplication facts to nine",
+    "topic": "Multiplication",
+    "source_pages": [
+      28
+    ],
+    "goal": "Build and recall facts through 9 × 9.",
+    "look": "Daniel makes a dot array. What happens when he turns it?",
+    "learn": "Turning a 3-by-4 array makes 4-by-3; both contain 12. Use known facts to build others. Practise every fact in the 1-to-9 table on the reference page.",
+    "worked": "6 × 7 = (5 × 7) + 7 = 35 + 7 = 42. 9 × 8 = (10 × 8) − 8 = 72.",
+    "play": "Choose a fact from the reference table. Build it with counters, cover the answer, say it and check. Swap factors to see the same total.",
+    "vocabulary": "factor; product; array",
+    "hint": "Use patterns and objects before recall. Speed alone is not understanding.",
+    "questions": [
+      {
+        "prompt": "7 × 6 = __.",
+        "answer": "42"
+      },
+      {
+        "prompt": "8 × 8 = __.",
+        "answer": "64"
+      },
+      {
+        "prompt": "9 × 9 = __.",
+        "answer": "81"
+      },
+      {
+        "prompt": "4 × 7 = __.",
+        "answer": "28"
+      },
+      {
+        "prompt": "Use 5 × 8 to find 6 × 8.",
+        "answer": "40 + 8 = 48"
+      },
+      {
+        "prompt": "Why does 3 × 9 = 9 × 3?",
+        "answer": "Turning the array swaps rows and columns but preserves 27 dots."
+      }
+    ],
+    "diagram": "array34"
+  },
+  {
+    "id": "P3-10",
+    "grade": 3,
+    "title": "Multiply larger amounts",
+    "topic": "Multiplication",
+    "source_pages": [
+      28
+    ],
+    "goal": "Multiply two digits by one digit and three one-digit factors.",
+    "look": "Amina puts 24 paper squares in each of three envelopes. How could splitting 24 help?",
+    "learn": "Split a two-digit number into tens and ones. Multiply each part and add products. With three one-digit factors, multiply two first, then the third.",
+    "worked": "24 × 3 = (20 × 3) + (4 × 3) = 60 + 12 = 72. Also 2 × 3 × 4 = 6 × 4 = 24.",
+    "play": "Build three groups of 12 with bundles and loose strips. Record tens and ones products, then combine. Try four groups of three pairs.",
+    "vocabulary": "partial product; factor; stages",
+    "hint": "Explain grouping with objects before a compact written algorithm.",
+    "questions": [
+      {
+        "prompt": "12 × 4 = __.",
+        "answer": "48"
+      },
+      {
+        "prompt": "23 × 3 = __.",
+        "answer": "69"
+      },
+      {
+        "prompt": "36 × 2 = __.",
+        "answer": "72"
+      },
+      {
+        "prompt": "2 × 4 × 3 = __.",
+        "answer": "24"
+      },
+      {
+        "prompt": "Four teams need 15 cards each. Total?",
+        "answer": "60 cards"
+      },
+      {
+        "prompt": "Explain 27 × 3 with tens and ones.",
+        "answer": "20 × 3 = 60 and 7 × 3 = 21; total 81."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-11",
+    "grade": 3,
+    "title": "Share and group to divide",
+    "topic": "Division",
+    "source_pages": [
+      29
+    ],
+    "goal": "Divide exact totals up to 48 by 2 to 6.",
+    "look": "Musa shares 24 tops among four teams. Is he finding group size or number of groups?",
+    "learn": "Division shares equally or counts equal groups. The sign ÷ means divided by. Multiplication undoes exact division. Here no objects are left over.",
+    "worked": "24 ÷ 4 = 6. Sharing among 4 teams gives 6 each. Grouping 24 into fours gives 6 groups. Check 4 × 6 = 24.",
+    "play": "Use 12, 24 or 36 counters. Choose 2, 3, 4 or 6 groups that divide exactly. Share, record and check.",
+    "vocabulary": "divide; share; groups; quotient",
+    "hint": "Ask which quantity the answer describes. Assessed totals are at most 48 with divisors 2–6.",
+    "questions": [
+      {
+        "prompt": "18 ÷ 3 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "48 ÷ 6 = __.",
+        "answer": "8"
+      },
+      {
+        "prompt": "40 ÷ 5 = __.",
+        "answer": "8"
+      },
+      {
+        "prompt": "28 ÷ 4 = __.",
+        "answer": "7"
+      },
+      {
+        "prompt": "Share 32 tops among 4 teams. How many each?",
+        "answer": "8 tops"
+      },
+      {
+        "prompt": "Check 30 ÷ 5 = 6 by multiplication.",
+        "answer": "5 × 6 = 30."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-12",
+    "grade": 3,
+    "title": "Factors and multiples",
+    "topic": "Division",
+    "source_pages": [
+      29
+    ],
+    "goal": "Find factors, missing factors and multiples.",
+    "look": "Zainab arranges 12 counters in rows. Which row sizes leave none over?",
+    "learn": "A factor divides a whole number exactly. Factors of 12 are 1, 2, 3, 4, 6, 12. A multiple is a number multiplied by a whole number. First positive multiples of 4: 4, 8, 12, 16.",
+    "worked": "3 × __ = 18 has missing factor 6. Correct factor pairs of 30 include 1 × 30, 2 × 15, 3 × 10 and 5 × 6.",
+    "play": "Make all rectangular arrays for 12 counters. Record factor pairs. Count the first five positive multiples of 3.",
+    "vocabulary": "factor; multiple; factor pair",
+    "hint": "The legacy text has an incorrect factor example for 30. Use checked products here.",
+    "questions": [
+      {
+        "prompt": "List all factors of 8.",
+        "answer": "1, 2, 4, 8"
+      },
+      {
+        "prompt": "First four positive multiples of 5?",
+        "answer": "5, 10, 15, 20"
+      },
+      {
+        "prompt": "4 × __ = 28.",
+        "answer": "7"
+      },
+      {
+        "prompt": "Is 3 a factor of 20?",
+        "answer": "No"
+      },
+      {
+        "prompt": "Is 24 a multiple of 6? Explain.",
+        "answer": "Yes; 6 × 4 = 24."
+      },
+      {
+        "prompt": "Factor or multiple of 6: what is the difference?",
+        "answer": "A factor divides 6 exactly; a multiple is 6 times a whole number."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-13",
+    "grade": 3,
+    "title": "Balance the number sentence",
+    "topic": "Open sentences",
+    "source_pages": [
+      30
+    ],
+    "goal": "Find unknowns using relationships between operations.",
+    "look": "Daniel makes both sides of a sentence equal. Can the blank come before equals?",
+    "learn": "Both sides must have the same value. Addition undoes subtraction; multiplication undoes exact division. Use an inverse operation and substitute to check.",
+    "worked": "__ − 125 = 240: add 125 to 240 to get 365. Check 365 − 125 = 240. In 6 × __ = 42, use 42 ÷ 6 = 7.",
+    "play": "Write true sentences, replace a number with a blank, and swap puzzles. Explain a related addition/subtraction pair with an everyday story.",
+    "vocabulary": "unknown; inverse; substitute",
+    "hint": "Encourage several strategies. A repeated unknown in one equation keeps the same value.",
+    "questions": [
+      {
+        "prompt": "__ + 138 = 400.",
+        "answer": "262"
+      },
+      {
+        "prompt": "520 − __ = 275.",
+        "answer": "245"
+      },
+      {
+        "prompt": "__ − 125 = 240.",
+        "answer": "365"
+      },
+      {
+        "prompt": "6 × __ = 42.",
+        "answer": "7"
+      },
+      {
+        "prompt": "18 ÷ __ = 3.",
+        "answer": "6"
+      },
+      {
+        "prompt": "Explain 50 = 32 + __.",
+        "answer": "18, since 50 − 32 = 18 and 32 + 18 = 50."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-14",
+    "grade": 3,
+    "title": "Money calculations",
+    "topic": "Money",
+    "source_pages": [
+      31
+    ],
+    "goal": "Exchange, add, subtract and multiply money values to ₦20.",
+    "look": "Amina checks pretend receipts. What should a correct receipt show?",
+    "learn": "These historical curriculum amounts are pretend exercises. Add costs, subtract for change and multiply equal costs. Read each card’s value. These are not actual market prices.",
+    "worked": "Four pretend items at ₦3 each cost 4 × ₦3 = ₦12. Pay ₦20: change ₦8. Check ₦12 + ₦8 = ₦20.",
+    "play": "Use paper value cards in shop role-play. Write count, unit cost, total, payment and change. Exchange equivalent values with partners.",
+    "vocabulary": "unit cost; total cost; exchange",
+    "hint": "Keep products at or below ₦20. Genuine denomination examples need supervising adult verification.",
+    "questions": [
+      {
+        "prompt": "3 items at ₦4 each cost __.",
+        "answer": "₦12"
+      },
+      {
+        "prompt": "Pay ₦20 for ₦12 cost. Change?",
+        "answer": "₦8"
+      },
+      {
+        "prompt": "Exchange ₦20 for ₦5 cards. How many?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Pretend costs ₦8 and ₦7 total __.",
+        "answer": "₦15"
+      },
+      {
+        "prompt": "5 items at ₦4 each cost __.",
+        "answer": "₦20"
+      },
+      {
+        "prompt": "Check change of ₦5 after paying ₦20 for ₦15.",
+        "answer": "₦15 + ₦5 = ₦20."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-15",
+    "grade": 3,
+    "title": "Measure lengths accurately",
+    "topic": "Length",
+    "source_pages": [
+      32,
+      33
+    ],
+    "goal": "Measure dimensions in cm/m and explain standard units.",
+    "look": "Musa measures a garden label. Where must the ruler’s zero go?",
+    "learn": "Length, width and height are dimensions. Place zero at one end and read the other end. Use a tape or metre stick for longer distances. Body units vary; standard units allow fair comparisons.",
+    "worked": "A strip from 0 cm to 8 cm is 8 cm long. A strip from 2 cm to 9 cm is 9 − 2 = 7 cm long.",
+    "play": "Measure a book’s length and width with a real ruler. Repeat in hand spans. Explain why standard results should agree more closely. Find another use for a measured length.",
+    "vocabulary": "dimension; width; height; standard",
+    "hint": "The schematic ruler is not actual size. Use a physical ruler and its zero mark.",
+    "questions": [
+      {
+        "prompt": "Strip from 0 cm to 12 cm: length?",
+        "answer": "12 cm"
+      },
+      {
+        "prompt": "Strip from 3 cm to 11 cm: length?",
+        "answer": "8 cm"
+      },
+      {
+        "prompt": "2 m = __ cm.",
+        "answer": "200 cm"
+      },
+      {
+        "prompt": "Choose a convenient unit for door height.",
+        "answer": "m; cm also valid if accurately used."
+      },
+      {
+        "prompt": "Measure your book’s length and width.",
+        "answer": "Two plausible readings with cm units."
+      },
+      {
+        "prompt": "Why do standard units help comparisons?",
+        "answer": "Their size is agreed and does not vary by person."
+      }
+    ],
+    "diagram": "ruler"
+  },
+  {
+    "id": "P3-16",
+    "grade": 3,
+    "title": "Distance around the edge",
+    "topic": "Length",
+    "source_pages": [
+      32
+    ],
+    "goal": "Measure and calculate perimeters.",
+    "look": "Zainab puts string around a paper garden plan. What length is needed?",
+    "learn": "Perimeter is the distance all around a shape. Add every outside side once using the same unit. Opposite sides of a rectangle are equal.",
+    "worked": "A rectangle 6 cm long and 4 cm wide has perimeter 6 + 4 + 6 + 4 = 20 cm. A square of side 3 m has perimeter 12 m.",
+    "play": "Trace a book cover. Measure and add all its outside sides. Check with string, then straighten and measure it. Discuss a frame or garden boundary.",
+    "vocabulary": "perimeter; boundary; side",
+    "hint": "Perimeter is length, not area. Use cm or m rather than square units.",
+    "questions": [
+      {
+        "prompt": "Square side 5 cm: perimeter?",
+        "answer": "20 cm"
+      },
+      {
+        "prompt": "Rectangle 8 cm by 3 cm: perimeter?",
+        "answer": "22 cm"
+      },
+      {
+        "prompt": "Triangle sides 4, 5, 6 cm: perimeter?",
+        "answer": "15 cm"
+      },
+      {
+        "prompt": "Rectangle 9 m by 2 m: perimeter?",
+        "answer": "22 m"
+      },
+      {
+        "prompt": "Give one everyday use of perimeter.",
+        "answer": "For example measuring edging, a boundary or a frame."
+      },
+      {
+        "prompt": "Why is 6 + 4 not the 6 cm by 4 cm rectangle’s perimeter?",
+        "answer": "It counts only two sides; all four total 20 cm."
+      }
+    ],
+    "diagram": "perimeter"
+  },
+  {
+    "id": "P3-17",
+    "grade": 3,
+    "title": "Hours and minutes",
+    "topic": "Time",
+    "source_pages": [
+      33
+    ],
+    "goal": "Read minutes and calculate simple intervals.",
+    "look": "Daniel times an activity. How many minutes make an hour?",
+    "learn": "1 hour = 60 minutes. On an analogue clock each number step is 5 minutes. The minute hand at 3 means 15 past; at 6, 30; at 9, 45. The hour hand moves gradually.",
+    "worked": "At 2:15 the minute hand is at 3; the hour hand is just past 2. From 2:10 to 2:35 is 25 minutes.",
+    "play": "Show 1:05, 1:20 and 1:45 on a paper clock. Name a use of time measurement in cooking, travel or school.",
+    "vocabulary": "minute; hour; interval",
+    "hint": "Start with same-hour intervals, then cross an hour on a number line.",
+    "questions": [
+      {
+        "prompt": "1 hour = __ minutes.",
+        "answer": "60"
+      },
+      {
+        "prompt": "Write quarter past five in digits.",
+        "answer": "5:15"
+      },
+      {
+        "prompt": "At 4:45 where is the minute hand?",
+        "answer": "9"
+      },
+      {
+        "prompt": "From 8:10 to 8:35: how long?",
+        "answer": "25 minutes"
+      },
+      {
+        "prompt": "9:50 plus 20 minutes: finish time?",
+        "answer": "10:10"
+      },
+      {
+        "prompt": "Why is the hour hand between 3 and 4 at 3:30?",
+        "answer": "Half the hour has passed; it has moved halfway to 4."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-18",
+    "grade": 3,
+    "title": "Read a calendar",
+    "topic": "Time",
+    "source_pages": [
+      33
+    ],
+    "goal": "Read calendar dates and explain their usefulness.",
+    "look": "Amina marks a class event on a practice calendar. How does a date differ from a weekday?",
+    "learn": "A full date gives a day number, month and year. Weekdays repeat every seven days. Read the calendar heading first. Months have different lengths.",
+    "worked": "Our fictional practice month has 30 days and starts on Monday. Day 1 is Monday, as are days 8 and 15.",
+    "play": "Make the practice month with Monday-to-Sunday columns. Fill days 1 to 30. Circle event dates. Explain why a real calendar helps plan appointments.",
+    "vocabulary": "date; month; year; calendar",
+    "hint": "Use an actual calendar for real event dates. Our diagram is deliberately fictional.",
+    "questions": [
+      {
+        "prompt": "Practice month: weekday on day 2?",
+        "answer": "Tuesday"
+      },
+      {
+        "prompt": "Weekday on day 8?",
+        "answer": "Monday"
+      },
+      {
+        "prompt": "One week after day 9: day number?",
+        "answer": "16"
+      },
+      {
+        "prompt": "How many days in two weeks?",
+        "answer": "14"
+      },
+      {
+        "prompt": "What three pieces make a full date?",
+        "answer": "Day number, month, year"
+      },
+      {
+        "prompt": "Why check the calendar month and year?",
+        "answer": "The same date number can have different weekdays in different months and years."
+      }
+    ],
+    "diagram": "calendar"
+  },
+  {
+    "id": "P3-19",
+    "grade": 3,
+    "title": "Grams and kilograms",
+    "topic": "Weight",
+    "source_pages": [
+      34
+    ],
+    "goal": "Measure, compare and use grams and kilograms.",
+    "look": "Musa checks a scale beside a grain bag. Which unit must he look for?",
+    "learn": "Everyday weight measurements use grams (g) and kilograms (kg). 1 kg = 1,000 g. Check the scale starts at zero and read its unit. Scientifically these units measure mass.",
+    "worked": "2 kg = 2,000 g. A 700 g object is heavier than a 500 g object by 200 g.",
+    "play": "With an adult, weigh safe small objects, including smooth stones. Record readings and units. Discuss why agreed units help buyers and sellers.",
+    "vocabulary": "gram; kilogram; scale; mass",
+    "hint": "No unknown minerals, dusty samples or heavy loads. Do not infer mineral identity by appearance.",
+    "questions": [
+      {
+        "prompt": "1 kg = __ g.",
+        "answer": "1,000 g"
+      },
+      {
+        "prompt": "Heavier: 900 g or 1 kg?",
+        "answer": "1 kg"
+      },
+      {
+        "prompt": "Difference: 800 g and 300 g?",
+        "answer": "500 g"
+      },
+      {
+        "prompt": "3 kg = __ g.",
+        "answer": "3,000 g"
+      },
+      {
+        "prompt": "Stones of 250 g and 400 g: total?",
+        "answer": "650 g"
+      },
+      {
+        "prompt": "Why agree a unit in a transaction?",
+        "answer": "Buyer and seller understand the same measured amount."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-20",
+    "grade": 3,
+    "title": "Measure in litres",
+    "topic": "Capacity",
+    "source_pages": [
+      35
+    ],
+    "goal": "Measure liquids accurately in litres.",
+    "look": "Zainab fills a measuring jug for the garden. Where should her eyes be?",
+    "learn": "Litre, written L, is a standard unit for capacity and liquid volume. Place a graduated jug on a level surface. Read the liquid at eye height. Fill carefully to the mark.",
+    "worked": "3 L and 5 L total 8 L; the second is 2 L more. Half a litre plus half a litre makes 1 L.",
+    "play": "With adult help, measure into a bucket using a marked 1 L container. Record litres up to a safe mark. Prevent spills and use clean water.",
+    "vocabulary": "litre; graduated; level; capacity",
+    "hint": "Use plastic equipment. Do not taste liquids. Marks, not picture size, determine volume.",
+    "questions": [
+      {
+        "prompt": "2 L + 4 L = __.",
+        "answer": "6 L"
+      },
+      {
+        "prompt": "5 L: pour out 2 L. Remaining?",
+        "answer": "3 L"
+      },
+      {
+        "prompt": "How many half-litres make 1 L?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Three 2 L containers: total capacity?",
+        "answer": "6 L"
+      },
+      {
+        "prompt": "Unit for bucket capacity: L or cm?",
+        "answer": "L"
+      },
+      {
+        "prompt": "Explain accurate jug reading.",
+        "answer": "Set it level and read the marked liquid level at eye height."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-21",
+    "grade": 3,
+    "title": "Straight, curved and symmetrical",
+    "topic": "Symmetry",
+    "source_pages": [
+      36
+    ],
+    "goal": "Recognise lines and find lines of symmetry.",
+    "look": "Daniel folds a paper shape. When do both halves fit exactly?",
+    "learn": "A straight line does not bend; a curve bends. A line of symmetry makes mirror halves that match on folding. Check the whole outline, not just corners.",
+    "worked": "A non-square rectangle has 2 symmetry lines. A square has 4: two through opposite side midpoints and two diagonals. Not every triangle is symmetrical.",
+    "play": "Fold squares and non-square rectangles along possible mirror lines. Draw every line that works. Compare with an adult-cut scalene triangle.",
+    "vocabulary": "symmetry; mirror; straight; curve",
+    "hint": "A non-square rectangle’s diagonal is not a symmetry line. A circle has infinitely many.",
+    "questions": [
+      {
+        "prompt": "How many square symmetry lines?",
+        "answer": "4"
+      },
+      {
+        "prompt": "How many in a non-square rectangle?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Draw one straight line and one curve.",
+        "answer": "An unbent line and a bending line."
+      },
+      {
+        "prompt": "Is every triangle symmetrical?",
+        "answer": "No"
+      },
+      {
+        "prompt": "Draw a rectangle’s two symmetry lines.",
+        "answer": "Through opposite side midpoints."
+      },
+      {
+        "prompt": "Why does a non-square rectangle’s diagonal fail the fold test?",
+        "answer": "The folded halves do not coincide."
+      }
+    ],
+    "diagram": "symmetry"
+  },
+  {
+    "id": "P3-22",
+    "grade": 3,
+    "title": "Draw and describe shapes",
+    "topic": "Symmetry",
+    "source_pages": [
+      36
+    ],
+    "goal": "Draw and compare squares, rectangles, triangles and circles.",
+    "look": "Amina designs shape cards. Which properties remain when she turns them?",
+    "learn": "Use a ruler for straight sides. A square has four equal sides and four right angles. A rectangle has opposite sides equal and four right angles. A triangle has three straight sides. A circle has no straight sides or corners.",
+    "worked": "For a 4 cm by 2 cm rectangle: draw a 4 cm base, make right angles at each end, mark 2 cm sides, join the top endpoints. Check opposite sides.",
+    "play": "Trace a round lid for a circle. Draw a square, a non-square rectangle and different triangles. Find approximate examples nearby.",
+    "vocabulary": "property; side; right angle; draw",
+    "hint": "Test angles with a folded paper corner. Three curved sides do not make a triangle.",
+    "questions": [
+      {
+        "prompt": "Draw a square of side 3 cm.",
+        "answer": "Four 3 cm sides and four right angles."
+      },
+      {
+        "prompt": "Draw a 5 cm by 2 cm rectangle.",
+        "answer": "Opposite sides 5 cm and 2 cm, four right angles."
+      },
+      {
+        "prompt": "Draw a triangle; mark its corners.",
+        "answer": "Three straight sides, three marked vertices."
+      },
+      {
+        "prompt": "Trace a circle; mark no corners.",
+        "answer": "Closed circular curve without corners."
+      },
+      {
+        "prompt": "How many right angles in a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Why does a turned rectangle keep its name?",
+        "answer": "Its side relationships and four right angles remain."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P3-23",
+    "grade": 3,
+    "title": "Read picture graphs",
+    "topic": "Pictograms",
+    "source_pages": [
+      37
+    ],
+    "goal": "Interpret horizontal and vertical pictograms.",
+    "look": "Musa graphs invented game choices. What must be read before counting pictures?",
+    "learn": "A pictogram uses pictures for counts. Read title, labels and key. Horizontal pictograms use rows across; vertical ones use columns upwards. Here each dot means one child.",
+    "worked": "Practice counts: ball 4, skipping 3, clapping 2. Total 9. Ball has one more than skipping.",
+    "play": "Read the graph with a partner. Rebuild it vertically with counters and the same key. Explain why totals stay the same.",
+    "vocabulary": "pictogram; key; row; column",
+    "hint": "Other graphs can use a symbol for several items. Always read the key.",
+    "questions": [
+      {
+        "prompt": "How many chose ball?",
+        "answer": "4"
+      },
+      {
+        "prompt": "How many chose clapping?",
+        "answer": "2"
+      },
+      {
+        "prompt": "How many choices altogether?",
+        "answer": "9"
+      },
+      {
+        "prompt": "How many more chose ball than clapping?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Redraw as labelled vertical columns.",
+        "answer": "Heights 4, 3, 2; key one dot per child."
+      },
+      {
+        "prompt": "Why is a key needed?",
+        "answer": "It gives the number represented by a symbol."
+      }
+    ],
+    "diagram": "pictogram"
+  },
+  {
+    "id": "P3-24",
+    "grade": 3,
+    "title": "Make a graph and find the mode",
+    "topic": "Pictograms",
+    "source_pages": [
+      37
+    ],
+    "goal": "Collect, graph and interpret data; identify the mode.",
+    "look": "Zainab wants to choose a class game fairly. What question could she ask?",
+    "learn": "Collect one answer per participant. Group answers. Make a pictogram with a clear key. The mode is the category occurring most. Results describe only the people asked.",
+    "worked": "Invented choices: ball, clapping, ball, skipping, clapping, ball. Ball 3, clapping 2, skipping 1. Ball is the mode.",
+    "play": "Use invented data or a voluntary non-sensitive survey. Make a horizontal or vertical graph with title, labels and key. Check totals.",
+    "vocabulary": "mode; most frequent; survey",
+    "hint": "Ties can produce several modal categories. Do not generalise a class survey to a whole town.",
+    "questions": [
+      {
+        "prompt": "What is the worked data’s mode?",
+        "answer": "ball"
+      },
+      {
+        "prompt": "How many responses?",
+        "answer": "6"
+      },
+      {
+        "prompt": "Graph ball 3, clapping 2, skipping 1.",
+        "answer": "Correct labelled graph; key one symbol per response."
+      },
+      {
+        "prompt": "How many more ball than skipping choices?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Can two categories with 4 votes each both be modes?",
+        "answer": "Yes, if 4 is the highest count."
+      },
+      {
+        "prompt": "Give a use of a class pictogram.",
+        "answer": "For example comparing choices to plan an activity."
+      }
+    ],
+    "diagram": ""
+  }
+]

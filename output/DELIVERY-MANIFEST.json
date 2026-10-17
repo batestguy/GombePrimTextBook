@@ -1,0 +1,437 @@
+[
+  {
+    "file": "_quarto.yml",
+    "bytes": 228,
+    "sha256": "358e6ec9588d84e3af290e7c9543f1170449b0b213db622f782c105a1076e831"
+  },
+  {
+    "file": "AGENTS.md",
+    "bytes": 1266,
+    "sha256": "90be488c7b4777fee23325ddebfb706fdcee29c9115d4de04f739f4ce43616f5"
+  },
+  {
+    "file": "artwork/characters.png",
+    "bytes": 2914095,
+    "sha256": "f60222823f1eeb804edc17a8cb763a4a46c3666310a231a30256d7534065da25"
+  },
+  {
+    "file": "artwork/diagrams/area34.svg",
+    "bytes": 1381,
+    "sha256": "2e4363e856e15dfb252c2aaab278ad0a5a13af4f47f0d8e967366273f03d6481"
+  },
+  {
+    "file": "artwork/diagrams/array34.svg",
+    "bytes": 1250,
+    "sha256": "32aeb3cd96582ec6e317c86bafafa55555a0307b8c81725a37e520a1af899882"
+  },
+  {
+    "file": "artwork/diagrams/calendar.svg",
+    "bytes": 3458,
+    "sha256": "7d428de0b18797a068099f7ac2eb9806f937c66121e2c09c7fc7a2d38efc1ec4"
+  },
+  {
+    "file": "artwork/diagrams/clocks.svg",
+    "bytes": 3276,
+    "sha256": "15cb25b60e769dec187b2b47905f20ea0f75408ab3ce6d689013867b731a2367"
+  },
+  {
+    "file": "artwork/diagrams/count35.svg",
+    "bytes": 986,
+    "sha256": "58129b24c9ca6085eb4799ed1941c8fe156b460b420a340c9e34ae19810e823a"
+  },
+  {
+    "file": "artwork/diagrams/equivalent.svg",
+    "bytes": 1576,
+    "sha256": "886111d1c178438404bc27934eb84b317ce7c3d27b5f9b2c81e4f0892e67f549"
+  },
+  {
+    "file": "artwork/diagrams/fractions.svg",
+    "bytes": 915,
+    "sha256": "f56795dcd585f9d9bc3eb9e7ac0d274482b3769067a6f36b7346884ea0718810"
+  },
+  {
+    "file": "artwork/diagrams/fractionstrip.svg",
+    "bytes": 807,
+    "sha256": "60a7dfe2895cb020aa12432ec0f7b9e839fc37583d3428afe5934af4be239e44"
+  },
+  {
+    "file": "artwork/diagrams/manifest.json",
+    "bytes": 1587,
+    "sha256": "98ab2dc635809fa228316c5e2d27ac3fccc55907dd042780e69ac64ef56eaf78"
+  },
+  {
+    "file": "artwork/diagrams/perimeter.svg",
+    "bytes": 590,
+    "sha256": "2efd0fc4c516a25756c443ae57e821e8dfc65168d78ca9a16170322edebdbf8c"
+  },
+  {
+    "file": "artwork/diagrams/pictogram.svg",
+    "bytes": 1297,
+    "sha256": "c4f08bbea93cb3237a9a1e527ebb6eaba934f1b5ee3c6cfc2151b612b12a6cb0"
+  },
+  {
+    "file": "artwork/diagrams/regroup.svg",
+    "bytes": 1061,
+    "sha256": "637700465c7693deb06550535ec7d0572da8a4dc81b236e95b1608074a90e6ab"
+  },
+  {
+    "file": "artwork/diagrams/ruler.svg",
+    "bytes": 2296,
+    "sha256": "4ddc78e313c6a54d168297b594c93fadff74c44597fd2ec0f3d4d3a695ea439c"
+  },
+  {
+    "file": "artwork/diagrams/setquarters.svg",
+    "bytes": 1182,
+    "sha256": "aece05a8f6e99a740ad11ba83c8c936aefcaaa45a2b9316ef1bb817b41a952c8"
+  },
+  {
+    "file": "artwork/diagrams/shapes.svg",
+    "bytes": 869,
+    "sha256": "b3d97e784c32b732dc0830da4552b635b951c52e9ca22081cc22eab69543ff11"
+  },
+  {
+    "file": "artwork/diagrams/solids.svg",
+    "bytes": 1939,
+    "sha256": "58a6977e6358718510e13e6937ac3393385f3af087e701cb8d8c7f691f1e7d36"
+  },
+  {
+    "file": "artwork/diagrams/symmetry.svg",
+    "bytes": 1060,
+    "sha256": "89e958b7f4a25a9d8c417e022bd4f29294916b509866e43e69f827a3e68545be"
+  },
+  {
+    "file": "artwork/diagrams/tens14.svg",
+    "bytes": 1451,
+    "sha256": "a9fd583ecc81be8b9cca785d22fad734a3b38567d51e1bee435d4172246dd8c3"
+  },
+  {
+    "file": "artwork/garden.png",
+    "bytes": 3298308,
+    "sha256": "0f2c2b3d9217c3c6615430718583baea83f224376a53e3fc8aeff6485d9f14ca"
+  },
+  {
+    "file": "artwork/kilang-hill.jpg",
+    "bytes": 81624,
+    "sha256": "53b9bb4516ca8f88b2b32eeca2b3bce2aad5530f9ac3d2a68c5a444386a84316"
+  },
+  {
+    "file": "artwork/market.png",
+    "bytes": 3225963,
+    "sha256": "213f4c3f3b96e5adbadcc78f84db0615b9f6f319235747d30d82245a119d874d"
+  },
+  {
+    "file": "artwork/PROVENANCE.json",
+    "bytes": 4905,
+    "sha256": "f9543aa8492c0895735cae1080f0943cf2e312400345ee59dc3fc9ebc665e2d0"
+  },
+  {
+    "file": "artwork/school.png",
+    "bytes": 3064756,
+    "sha256": "adb6a0c198c6ab265c7d0cfc9ff36dcf6fd71195687fc0487d508e4cae3851d2"
+  },
+  {
+    "file": "artwork/STYLE.md",
+    "bytes": 1288,
+    "sha256": "7679edf353abb546462eb8a913c7b77c45b0ef7e625e4727ab76a93c1e4efcc3"
+  },
+  {
+    "file": "book.qmd",
+    "bytes": 400420,
+    "sha256": "6798c65915b8df101a783217e4c85c044c04d05ec873db30696c58ad263040bf"
+  },
+  {
+    "file": "book.typ",
+    "bytes": 412198,
+    "sha256": "1d0472d21283e4255ed27d46099d5e1f57c14ea781b7acf09f8709ab1e3ad24c"
+  },
+  {
+    "file": "fonts/bitstream-vera-license.txt",
+    "bytes": 5954,
+    "sha256": "3361d054759a2fc686a2c058be82deaf9c2e6fe549be9004d7935a6c1736315d"
+  },
+  {
+    "file": "fonts/DejaVuSans-Bold.ttf",
+    "bytes": 704128,
+    "sha256": "b184b89e3c1075f22f6b71575b6fc20d4972b3cfd3b23322ca6fd596dcaef167"
+  },
+  {
+    "file": "fonts/DejaVuSans-Oblique.ttf",
+    "bytes": 633840,
+    "sha256": "ccdf74b350f11fd3dd5774de50e5e6346a1a5da1f5b7d5fb83590665e97a5213"
+  },
+  {
+    "file": "fonts/DejaVuSans.ttf",
+    "bytes": 756072,
+    "sha256": "3fdf69cabf06049ea70a00b5919340e2ce1e6d02b0cc3c4b44fb6801bd1e0d22"
+  },
+  {
+    "file": "fonts/LICENSE_DEJAVU.txt",
+    "bytes": 4816,
+    "sha256": "d75938dec098f06f0ac3c00853065d94f020be1c3c62ef1dc2975ba15b4d9b0e"
+  },
+  {
+    "file": "fonts/Vera.ttf",
+    "bytes": 65932,
+    "sha256": "c4c45690b345435b2cba52ecabe275f05e49b389b39fe68ad03afbb551288d3d"
+  },
+  {
+    "file": "fonts/VeraBd.ttf",
+    "bytes": 58716,
+    "sha256": "cc037385e4d55bfde89b13e03091ee93bf40c0c52ddd391ff031ab276f13b8e9"
+  },
+  {
+    "file": "fonts/VeraBI.ttf",
+    "bytes": 63208,
+    "sha256": "fca0d4eeac1ced7e75e1b2274c869a351d2d83b5ed1f61d249e7bcc477c33ebe"
+  },
+  {
+    "file": "fonts/VeraIt.ttf",
+    "bytes": 63684,
+    "sha256": "2adc684d518f45232c4ad1f56522f5a82a6904c31940373e1b7030beee20fb3a"
+  },
+  {
+    "file": "GombeTextbook.txt",
+    "bytes": 15465,
+    "sha256": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca"
+  },
+  {
+    "file": "output/arithmetic_checks.json",
+    "bytes": 7538,
+    "sha256": "965a7876169477cae747aa707e818dd9f2598f63c7432cfcf18ed9fb19bb0caf"
+  },
+  {
+    "file": "output/page-review/contact-01.png",
+    "bytes": 398773,
+    "sha256": "be031360928a05903c3b65fa8d60ac09f51d4f9dfa8b6dd140c2d4c3aee05563"
+  },
+  {
+    "file": "output/page-review/contact-02.png",
+    "bytes": 306910,
+    "sha256": "4555f439353f13cd24bf9ed571664e2b2418c4ced0d7c32562e625e09e46f05b"
+  },
+  {
+    "file": "output/page-review/contact-03.png",
+    "bytes": 345888,
+    "sha256": "8808dbe233ca2872fb1fcf0931fa9bfffb41e20d5009f6eee1231394eda00bfd"
+  },
+  {
+    "file": "output/page-review/contact-04.png",
+    "bytes": 319958,
+    "sha256": "e59c186d7a924f526ec71625c6ef4e671797f6f79ba21b598134e4623b664c79"
+  },
+  {
+    "file": "output/page-review/contact-05.png",
+    "bytes": 328554,
+    "sha256": "03d28acc6e23773c8ac9f70fc0f8c0c3d580649a0e9006b9cb1d596b136c90f5"
+  },
+  {
+    "file": "output/page-review/contact-06.png",
+    "bytes": 283789,
+    "sha256": "d81fe07fef15f97a05c97b969b8e65423241414ca98851c982e5cabecc68ca17"
+  },
+  {
+    "file": "output/page-review/contact-07.png",
+    "bytes": 319908,
+    "sha256": "85b00a9666d778b0b9958d51238ef9250a1e0f200d6c5072e3b067f4a4ed46e5"
+  },
+  {
+    "file": "output/page-review/contact-08.png",
+    "bytes": 327453,
+    "sha256": "e0ca9d2c740947e5e58d08bfc524e64941e153b4ee38bf49b21f78e1d9c58496"
+  },
+  {
+    "file": "output/page-review/contact-09.png",
+    "bytes": 245883,
+    "sha256": "1b11736d9e9dcfdf555cc5f5258ac522f9af911e0403de914dd89e498e8cecbc"
+  },
+  {
+    "file": "output/page-review/contact-10.png",
+    "bytes": 233088,
+    "sha256": "4f1d9e7773935a82f45a0251a93f0116e14e2f494cc0422d7955a3265cc999ff"
+  },
+  {
+    "file": "output/page-review/contact-11.png",
+    "bytes": 369154,
+    "sha256": "94c92725c40365e97041b830392f65621fd36fd9809575c7338bc5296fde88af"
+  },
+  {
+    "file": "output/page-review/contact-12.png",
+    "bytes": 356009,
+    "sha256": "dc90bc3363b327a4f65391fd171996f79130b879281af6d47780a28ff84f5209"
+  },
+  {
+    "file": "output/page-review/contact-13.png",
+    "bytes": 136658,
+    "sha256": "5f4d4d5ffc101e4040d154ba9f4ec1d99568f351dc01ec21b8665003078e3965"
+  },
+  {
+    "file": "output/pdf/Gombe-Mathematics-Book-1.pdf",
+    "bytes": 18042048,
+    "sha256": "b4eaa34a9fb0e5deb3e020fbefde14dee5d99f6d56de59d7b42277e1c0ab6bae"
+  },
+  {
+    "file": "output/pdf/sample-lessons.pdf",
+    "bytes": 13306962,
+    "sha256": "c8e953c3b0c77cd7aade8410f4281d49a731e1f2dcfb2616d759dd6797732674"
+  },
+  {
+    "file": "output/validation.json",
+    "bytes": 804,
+    "sha256": "d32486e8e4bf65c4bc12896a54df6e80fb4118fd6b0052c3312efc5de8769360"
+  },
+  {
+    "file": "output/VALIDATION.md",
+    "bytes": 6259,
+    "sha256": "a9fb9bf322a387deedd1a79b475bb034b0577cfa2e68fdb62833da63003e99b2"
+  },
+  {
+    "file": "production/complete-manuscript.txt",
+    "bytes": 213592,
+    "sha256": "b470055b4e97dd2a913bc55a5af43319074ddf3ea28a3bac53c121f8c78064b0"
+  },
+  {
+    "file": "production/contents-and-page-budget.md",
+    "bytes": 5723,
+    "sha256": "83fbdb0d54cfd268a1c740a5a78c4cd3bd6336dcb2279ac4c6ae0a41ede44570"
+  },
+  {
+    "file": "production/environment.json",
+    "bytes": 285,
+    "sha256": "09a3e48fb80f6cf7475d4992f2a4d4850cd91189e66b852032408421f4b44f94"
+  },
+  {
+    "file": "production/layout.typ",
+    "bytes": 1382,
+    "sha256": "260040633cdfb8d40e620d3afe2daea1410c3649ca0c933c1a700686524f31e1"
+  },
+  {
+    "file": "production/lessons.json",
+    "bytes": 98364,
+    "sha256": "06bc9aadd6e233ed62f898aac0e773bfb42616ab553a42cf5bf72dd9fbe0ab77"
+  },
+  {
+    "file": "production/manuscript.md",
+    "bytes": 77749,
+    "sha256": "e01501a3688961fbc63c3b5815ee6ceeab439b0652e6cce377d9bd3027903f05"
+  },
+  {
+    "file": "production/p1.json",
+    "bytes": 29218,
+    "sha256": "a2e551f9a45a29532a1bac2136f7c7202fcfedf3a6e03f4dc5fdf117bbd73bee"
+  },
+  {
+    "file": "production/p2.json",
+    "bytes": 31191,
+    "sha256": "25126003b6255c38b87f264822d0e018839d41f06b67289a96a6ce29ccfbec20"
+  },
+  {
+    "file": "production/p3.json",
+    "bytes": 37961,
+    "sha256": "80dd3c1fe934bed25d383e346760e88c8b5cafffbaa346865c8b489e52a7593b"
+  },
+  {
+    "file": "production/page_manifest.json",
+    "bytes": 13396,
+    "sha256": "f9029b71e68e7363f708a2141f3a17d650411e2f054b8049984cd881713b6639"
+  },
+  {
+    "file": "production/REVIEW-FORM.md",
+    "bytes": 2414,
+    "sha256": "cbca95753210e424436f570ecf36574b28a1041acf791e4148569ba215a46e81"
+  },
+  {
+    "file": "production/reviews.json",
+    "bytes": 14474,
+    "sha256": "2907f96cdad5ae4ede73e4268a07795acb9307dd48d708973b80e42d7ba4e041"
+  },
+  {
+    "file": "README.md",
+    "bytes": 4150,
+    "sha256": "2c3d05c1b726184e6d9b927e897f4ad4f7e80a4f284bf3b65b247d05242fbf58"
+  },
+  {
+    "file": "requirements-validation.txt",
+    "bytes": 33,
+    "sha256": "afb9df34f1dcfb7f781b35a991b2d1fd3db6fca8f6b9cab7a9b9fb43d8f7b7ec"
+  },
+  {
+    "file": "research/CONTENT_REVIEW.md",
+    "bytes": 8742,
+    "sha256": "4dc4455192d32f922046a2b878f93daa1b7f2faa907d66545e4c464f83b5c17c"
+  },
+  {
+    "file": "research/coverage.csv",
+    "bytes": 33250,
+    "sha256": "b3a9ae1c4cb53ea5c7cad6309726d0b9bdcb18bd4cb5edc917510c6a7331017d"
+  },
+  {
+    "file": "research/CURRICULUM.md",
+    "bytes": 9176,
+    "sha256": "927e23bdd4f6af5cfc624729690c3a4c01bb7b3d0a45125379763754820b2e91"
+  },
+  {
+    "file": "research/curriculum_objectives.json",
+    "bytes": 38655,
+    "sha256": "bad4af7d356da791ea5e616580e1b48a7078cfd64035dcdb76f1676264e9e109"
+  },
+  {
+    "file": "research/supplementary_assessments.json",
+    "bytes": 35995,
+    "sha256": "e116d4f90e20fd8b54f0a46fb8d0957321f1124dbb342867c056242d305acaa8"
+  },
+  {
+    "file": "scripts/author_p1.py",
+    "bytes": 17687,
+    "sha256": "bae73c4a73fe1365f12450de207debe33c24d479eb462cc0e22e62f3e5af7fe2"
+  },
+  {
+    "file": "scripts/author_p2.py",
+    "bytes": 19065,
+    "sha256": "d03ecf4df78e19368ce60f0a2b62e69330ba76196934275fa0af265e6c7574a5"
+  },
+  {
+    "file": "scripts/author_p3.py",
+    "bytes": 23398,
+    "sha256": "85326a02b203b749d92b5f38213384ccf6c7aefcb5bc6e64e7ecf48f11bb7a15"
+  },
+  {
+    "file": "scripts/author_reviews.py",
+    "bytes": 6402,
+    "sha256": "d3fc416ebdd8ad76383adc47dc15951d7c35c3f31eba73f4c75655a6459d2cac"
+  },
+  {
+    "file": "scripts/build_book.py",
+    "bytes": 33007,
+    "sha256": "fb8e8003d2c7e80e3231fd5c65a25156d707836b24ce0e329d5fd880fe93a20d"
+  },
+  {
+    "file": "scripts/catalog.py",
+    "bytes": 761,
+    "sha256": "3403957a6d13cd07e3ea8a76ed9b2671ee271fe97a5ad05589ed2700e21045c3"
+  },
+  {
+    "file": "scripts/finish_production.py",
+    "bytes": 3877,
+    "sha256": "ad9646af590f3cdba264756aa9b9f3d0248aec458b7d1d5935d4a3970d2a9722"
+  },
+  {
+    "file": "scripts/make_diagrams.py",
+    "bytes": 6040,
+    "sha256": "8de2d94c5f3c2769d6ae210e7893f914f84031ae3894dfac0daa5786a71acda0"
+  },
+  {
+    "file": "scripts/package_book.py",
+    "bytes": 3129,
+    "sha256": "c85408c454ffb30c0a82f350f017e7e51e7f2753720633bbb8824348fbf7c5f4"
+  },
+  {
+    "file": "scripts/preflight.py",
+    "bytes": 868,
+    "sha256": "fe8ddd35ab9e7fdd52d12ee448594a37993afa391f2864e0a02b20c2a779217d"
+  },
+  {
+    "file": "scripts/validate_book.py",
+    "bytes": 7995,
+    "sha256": "41b8b84de306b2312faf19dcfa83082395deaa1815dc546658e7708110f28744"
+  }
+]

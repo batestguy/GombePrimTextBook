@@ -1,0 +1,74 @@
+[
+  {
+    "file": "artwork/characters.png",
+    "type": "original AI-assisted illustration",
+    "provider": "OpenAI built-in image generation tool",
+    "date": "2026-10-17",
+    "generation_id": "exec-be79dcd0-f669-47fe-b26f-6818a566ca0c",
+    "prompt_record": "Concise reconstruction of generation instructions; canonical style in STYLE.md",
+    "prompt": "Four full-body fictional Nigerian school friends on cream: Amina mustard headscarf teal dress; Musa blue shirt brown trousers; Zainab two braids coral blouse navy skirt; Daniel green shirt grey trousers and wheelchair. Warm watercolour/coloured pencil, no lettering or logos.",
+    "reference": null,
+    "sha256": "f60222823f1eeb804edc17a8cb763a4a46c3666310a231a30256d7534065da25",
+    "rights_note": "No external photographer or source character; publisher to review AI-assisted artwork rights. No claim of human authorship or guaranteed exclusivity."
+  },
+  {
+    "file": "artwork/school.png",
+    "type": "original AI-assisted illustration",
+    "provider": "OpenAI built-in image generation tool",
+    "date": "2026-10-17",
+    "generation_id": "exec-4a245050-74a4-4194-bc7e-2b8a7be56339",
+    "prompt_record": "Concise reconstruction of generation instructions; canonical style in STYLE.md",
+    "prompt": "Canonical friends with female teacher at accessible low school table, reusable tops, exercise books, string, containers, school veranda and garden. Keep faces and clothes from character reference. No assessed quantities, writing or landmarks.",
+    "reference": "characters.png",
+    "sha256": "adb6a0c198c6ab265c7d0cfc9ff36dcf6fd71195687fc0487d508e4cae3851d2",
+    "rights_note": "No external photographer or source character; publisher to review AI-assisted artwork rights. No claim of human authorship or guaranteed exclusivity."
+  },
+  {
+    "file": "artwork/market.png",
+    "type": "original AI-assisted illustration",
+    "provider": "OpenAI built-in image generation tool",
+    "date": "2026-10-17",
+    "generation_id": "exec-47f9c153-c5f7-4f0c-8fc8-1f760c104c03",
+    "prompt_record": "Concise reconstruction of generation instructions; canonical style in STYLE.md",
+    "prompt": "Canonical friends and supervising adult at a shaded produce stall, baskets, grain sacks and accessible path. Everyday northern Nigerian town. No prices, numbers, text, landmarks or logos; decorative quantities only.",
+    "reference": "characters.png",
+    "sha256": "213f4c3f3b96e5adbadcc78f84db0615b9f6f319235747d30d82245a119d874d",
+    "rights_note": "No external photographer or source character; publisher to review AI-assisted artwork rights. No claim of human authorship or guaranteed exclusivity."
+  },
+  {
+    "file": "artwork/garden.png",
+    "type": "original AI-assisted illustration",
+    "provider": "OpenAI built-in image generation tool",
+    "date": "2026-10-17",
+    "generation_id": "exec-dcbb7170-cf7d-45c3-896a-1bfbd8948e4a",
+    "prompt_record": "Concise reconstruction of generation instructions; canonical style in STYLE.md",
+    "prompt": "Canonical friends and teacher in school garden measuring with string, ruler and safe jug, accessible paths. No quantitative labels or identifiable landmark; decorative scene.",
+    "reference": "characters.png",
+    "sha256": "0f2c2b3d9217c3c6615430718583baea83f224376a53e3fc8aeff6485d9f14ca",
+    "rights_note": "No external photographer or source character; publisher to review AI-assisted artwork rights. No claim of human authorship or guaranteed exclusivity."
+  },
+  {
+    "file": "artwork/kilang-hill.jpg",
+    "type": "selected photograph",
+    "title": "Kilang Hill",
+    "creator": "Huzaifakumo",
+    "date": "2022-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Kilang_Hill.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kilang_Hill.jpg",
+    "source_revision": "https://commons.wikimedia.org/w/index.php?title=File:Kilang_Hill.jpg&oldid=1055444140",
+    "location_evidence": "Photographer description: Kilang Hill in Kaltungo LGA; no independent field/GPS verification claimed.",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "None; proportional uncropped page placement only.",
+    "sha1": "40295b73b4a6e4a2c5737ae19ff26bf387a7803e",
+    "sha256": "53b9bb4516ca8f88b2b32eeca2b3bce2aad5530f9ac3d2a68c5a444386a84316",
+    "permission_basis": "Public licence on author’s own-work upload; source and licence attribution beside image. No endorsement implied."
+  },
+  {
+    "file": "artwork/diagrams/*.svg",
+    "type": "deterministic vector mathematics artwork",
+    "creator": "Project code, scripts/make_diagrams.py",
+    "quantity_manifest": "artwork/diagrams/manifest.json",
+    "rights_note": "Original project diagrams; mathematical quantities controlled by code."
+  }
+]

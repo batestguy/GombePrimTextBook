@@ -1,0 +1,482 @@
+[
+  {
+    "id": "P1-R1",
+    "after": "P1-07-practice",
+    "title": "Term 1 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Write the number for no objects.",
+        "answer": "0"
+      },
+      {
+        "prompt": "Order: 8, 3, 6.",
+        "answer": "3, 6, 8"
+      },
+      {
+        "prompt": "What comes after 59?",
+        "answer": "60"
+      },
+      {
+        "prompt": "2 tens and 7 ones make __.",
+        "answer": "27"
+      },
+      {
+        "prompt": "Draw four equal parts of a square and shade one.",
+        "answer": "One quarter shaded; four equal-area parts."
+      },
+      {
+        "prompt": "Show 9 objects and explain how you checked.",
+        "answer": "Exactly nine; touch or move each once."
+      }
+    ]
+  },
+  {
+    "id": "P1-R2",
+    "after": "P1-13-practice",
+    "title": "Term 2 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "3 + 4 + 1 = __.",
+        "answer": "8"
+      },
+      {
+        "prompt": "17 − 8 = __.",
+        "answer": "9"
+      },
+      {
+        "prompt": "24 + 12 = __.",
+        "answer": "36"
+      },
+      {
+        "prompt": "6 + __ = 10.",
+        "answer": "4"
+      },
+      {
+        "prompt": "Pretend cost 8k; pay 10k. Find and check change.",
+        "answer": "2k; 8k + 2k = 10k."
+      },
+      {
+        "prompt": "Draw or show why 7 + 6 = 13.",
+        "answer": "Two sets total thirteen; or count on six from seven."
+      }
+    ]
+  },
+  {
+    "id": "P1-R3",
+    "after": "P1-19-practice",
+    "title": "Term 3 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Order 5, 2, 7 equal spans from shortest.",
+        "answer": "2, 5, 7"
+      },
+      {
+        "prompt": "What comes after afternoon: morning or evening?",
+        "answer": "evening"
+      },
+      {
+        "prompt": "Name the ball-shaped solid.",
+        "answer": "sphere"
+      },
+      {
+        "prompt": "How many corners has a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Compare two safe objects by weight. Show your method.",
+        "answer": "Correct heavier/lighter comparison using a balance or safe lifting."
+      },
+      {
+        "prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+        "answer": "2; count the two records equal to seven."
+      }
+    ]
+  },
+  {
+    "id": "P1-A1",
+    "after": "P1-R3",
+    "title": "Primary 1 assessment • numbers",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Write eighty-two in digits.",
+        "answer": "82"
+      },
+      {
+        "prompt": "Complete: 8, 9, __, __.",
+        "answer": "10, 11"
+      },
+      {
+        "prompt": "15 = __ ten and __ ones.",
+        "answer": "1 ten, 5 ones"
+      },
+      {
+        "prompt": "8 + 7 = __.",
+        "answer": "15"
+      },
+      {
+        "prompt": "16 − 9 = __. Show a check.",
+        "answer": "7; 7 + 9 = 16."
+      },
+      {
+        "prompt": "__ + 4 = 9. Explain the blank.",
+        "answer": "5; 9 − 4 = 5 or count on."
+      }
+    ]
+  },
+  {
+    "id": "P1-A2",
+    "after": "P1-A1",
+    "title": "Primary 1 assessment • our world",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Draw a rectangle and show one half.",
+        "answer": "Two equal-area parts, one selected."
+      },
+      {
+        "prompt": "Pretend tokens 10k + 5k total __.",
+        "answer": "15k"
+      },
+      {
+        "prompt": "Name a solid modelled by a rectangular box.",
+        "answer": "cuboid"
+      },
+      {
+        "prompt": "Write morning, night, afternoon in day order.",
+        "answer": "morning, afternoon, night"
+      },
+      {
+        "prompt": "Measure a book with a repeated paper strip. Record and explain.",
+        "answer": "Pupil’s repeated equal-unit count, with no gaps or overlaps."
+      },
+      {
+        "prompt": "Record two fictional pupils’ ages and compare them.",
+        "answer": "Two labelled age records and a correct comparison."
+      }
+    ]
+  },
+  {
+    "id": "P2-R1",
+    "after": "P2-07-practice",
+    "title": "Term 1 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Write 190 in words.",
+        "answer": "one hundred and ninety"
+      },
+      {
+        "prompt": "Three quarters of 12 = __.",
+        "answer": "9"
+      },
+      {
+        "prompt": "126 + 43 = __.",
+        "answer": "169"
+      },
+      {
+        "prompt": "47 + 26 = __.",
+        "answer": "73"
+      },
+      {
+        "prompt": "62 − 38 = __. Check.",
+        "answer": "24; 24 + 38 = 62."
+      },
+      {
+        "prompt": "14 + 6 + 9 = __. Explain a helpful pair.",
+        "answer": "29; pair 14 and 6 to make 20."
+      }
+    ]
+  },
+  {
+    "id": "P2-R2",
+    "after": "P2-14-practice",
+    "title": "Term 2 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "3 groups of 5 contain how many?",
+        "answer": "15"
+      },
+      {
+        "prompt": "__ + 18 = 45.",
+        "answer": "27"
+      },
+      {
+        "prompt": "Pretend costs ₦9 and ₦4. Total?",
+        "answer": "₦13"
+      },
+      {
+        "prompt": "Half past eight in digits?",
+        "answer": "8:30"
+      },
+      {
+        "prompt": "What comes two days after Monday? Explain.",
+        "answer": "Wednesday; Tuesday is one day after, Wednesday two."
+      },
+      {
+        "prompt": "Why can hand spans give different table counts?",
+        "answer": "Span sizes differ; use the same standard unit for fair comparison."
+      }
+    ]
+  },
+  {
+    "id": "P2-R3",
+    "after": "P2-20-practice",
+    "title": "Term 3 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Container A holds 3 cups; B holds 7 of the same cups. Which holds more?",
+        "answer": "B"
+      },
+      {
+        "prompt": "A card has 2 rows of 4 square units. Area?",
+        "answer": "8 square units"
+      },
+      {
+        "prompt": "How many edges has a cuboid?",
+        "answer": "12"
+      },
+      {
+        "prompt": "How many sides has a triangle?",
+        "answer": "3"
+      },
+      {
+        "prompt": "Order measured weights 2, 5, 3 equal units. Explain.",
+        "answer": "2, 3, 5; least to greatest."
+      },
+      {
+        "prompt": "Invented choices: ball, skip, skip, ball, skip. Group and count.",
+        "answer": "Ball 2, skip 3; total 5."
+      }
+    ]
+  },
+  {
+    "id": "P2-A1",
+    "after": "P2-R3",
+    "title": "Primary 2 assessment • numbers",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Write 185 as hundreds, tens, ones.",
+        "answer": "1 hundred, 8 tens, 5 ones"
+      },
+      {
+        "prompt": "Half of 14 = __.",
+        "answer": "7"
+      },
+      {
+        "prompt": "Quarter of 16 = __.",
+        "answer": "4"
+      },
+      {
+        "prompt": "58 + 27 = __.",
+        "answer": "85"
+      },
+      {
+        "prompt": "94 − 58 = __. Show a check.",
+        "answer": "36; 36 + 58 = 94."
+      },
+      {
+        "prompt": "4 × __ = 20. Explain.",
+        "answer": "5; four equal groups of five total twenty."
+      }
+    ]
+  },
+  {
+    "id": "P2-A2",
+    "after": "P2-A1",
+    "title": "Primary 2 assessment • our world",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Pay pretend ₦20 for cost ₦14. Change?",
+        "answer": "₦6"
+      },
+      {
+        "prompt": "What unit is useful for book length: cm or L?",
+        "answer": "cm"
+      },
+      {
+        "prompt": "Draw a clock for 5:30.",
+        "answer": "Minute hand at 6; hour hand halfway from 5 to 6."
+      },
+      {
+        "prompt": "How many right angles has a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Compare two container capacities with one cup. Record and explain.",
+        "answer": "Correct recorded counts with a common unit and fair fill level."
+      },
+      {
+        "prompt": "Create rows for invented data red 2, blue 4, green 1. Explain the total.",
+        "answer": "Labelled 2/4/1 rows; 2 + 4 + 1 = 7 responses."
+      }
+    ]
+  },
+  {
+    "id": "P3-R1",
+    "after": "P3-08-practice",
+    "title": "Term 1 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Order 609, 690, 596.",
+        "answer": "596, 609, 690"
+      },
+      {
+        "prompt": "1/2 = __/6.",
+        "answer": "3"
+      },
+      {
+        "prompt": "3/5 + 1/5 = __.",
+        "answer": "4/5"
+      },
+      {
+        "prompt": "704 − 286 = __.",
+        "answer": "418"
+      },
+      {
+        "prompt": "287 + 156 = __. Show an exchange.",
+        "answer": "443; 7 + 6 = 13 exchanges a ten; tens total 14 exchanges a hundred."
+      },
+      {
+        "prompt": "5/6 − 2/6 = __. Explain.",
+        "answer": "3/6 or 1/2; subtract selected sixths, keep part size."
+      }
+    ]
+  },
+  {
+    "id": "P3-R2",
+    "after": "P3-16-practice",
+    "title": "Term 2 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "9 × 7 = __.",
+        "answer": "63"
+      },
+      {
+        "prompt": "34 × 2 = __.",
+        "answer": "68"
+      },
+      {
+        "prompt": "36 ÷ 6 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "List the factors of 10.",
+        "answer": "1, 2, 5, 10"
+      },
+      {
+        "prompt": "3 pretend items at ₦5 each. Pay ₦20. Change? Explain.",
+        "answer": "₦5; cost ₦15 and ₦20 − ₦15 = ₦5."
+      },
+      {
+        "prompt": "Rectangle 7 cm by 5 cm: perimeter? Show all sides.",
+        "answer": "24 cm; 7 + 5 + 7 + 5."
+      }
+    ]
+  },
+  {
+    "id": "P3-R3",
+    "after": "P3-24-practice",
+    "title": "Term 3 • revise and explain",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "From 10:15 to 10:50: minutes?",
+        "answer": "35"
+      },
+      {
+        "prompt": "2 kg = __ g.",
+        "answer": "2,000 g"
+      },
+      {
+        "prompt": "4 L + 3 L = __.",
+        "answer": "7 L"
+      },
+      {
+        "prompt": "How many symmetry lines has a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Draw a triangle with one right angle. Explain how you checked.",
+        "answer": "Three straight sides; one corner matches a paper square corner."
+      },
+      {
+        "prompt": "Invented data: ball 5, skip 3, clap 2. What is the mode? Explain.",
+        "answer": "Ball; its count 5 is highest."
+      }
+    ]
+  },
+  {
+    "id": "P3-A1",
+    "after": "P3-R3",
+    "title": "Primary 3 assessment • numbers",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "Value of 8 in 581?",
+        "answer": "80"
+      },
+      {
+        "prompt": "Write < or >: 708 __ 780.",
+        "answer": " <"
+      },
+      {
+        "prompt": "2/6 + 3/6 = __.",
+        "answer": "5/6"
+      },
+      {
+        "prompt": "615 − 278 = __.",
+        "answer": "337"
+      },
+      {
+        "prompt": "27 × 3 = __. Explain parts.",
+        "answer": "81; 20 × 3 = 60 and 7 × 3 = 21."
+      },
+      {
+        "prompt": "42 ÷ 6 = __. Check.",
+        "answer": "7; 6 × 7 = 42."
+      }
+    ]
+  },
+  {
+    "id": "P3-A2",
+    "after": "P3-A1",
+    "title": "Primary 3 assessment • our world",
+    "instruction": "Work independently first. Use objects, drawings or words to show a method. Ask for the question to be read aloud if needed.",
+    "questions": [
+      {
+        "prompt": "4 pretend items at ₦4 each. Total?",
+        "answer": "₦16"
+      },
+      {
+        "prompt": "Rectangle 5 m by 3 m: perimeter?",
+        "answer": "16 m"
+      },
+      {
+        "prompt": "1 kg − 250 g = __ g.",
+        "answer": "750 g"
+      },
+      {
+        "prompt": "9:40 plus 30 minutes: time?",
+        "answer": "10:10"
+      },
+      {
+        "prompt": "Measure a safe liquid using a marked container. Explain accuracy.",
+        "answer": "Read the liquid level at eye height on a level surface; record L."
+      },
+      {
+        "prompt": "Make a pictogram: ball 2, skip 4, clap 3. Explain key and mode.",
+        "answer": "One symbol per response; correct labelled counts; skip is mode with 4."
+      }
+    ]
+  }
+]

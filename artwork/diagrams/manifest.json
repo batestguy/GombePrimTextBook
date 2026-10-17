@@ -1,0 +1,124 @@
+[
+  {
+    "id": "count35",
+    "counts": {
+      "A": 3,
+      "B": 5
+    }
+  },
+  {
+    "id": "tens14",
+    "bundled": 10,
+    "ones": 4,
+    "total": 14
+  },
+  {
+    "id": "fractions",
+    "partitions": [
+      2,
+      4
+    ],
+    "selected": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": "setquarters",
+    "groups": 4,
+    "per_group": 2,
+    "total": 8
+  },
+  {
+    "id": "array34",
+    "rows": 3,
+    "columns": 4,
+    "total": 12
+  },
+  {
+    "id": "area34",
+    "rows": 3,
+    "columns": 4,
+    "total": 12
+  },
+  {
+    "id": "regroup",
+    "ones_groups": [
+      8,
+      7
+    ],
+    "total": 15
+  },
+  {
+    "id": "shapes"
+  },
+  {
+    "id": "solids"
+  },
+  {
+    "id": "clocks",
+    "times": [
+      "3:00",
+      "3:30"
+    ]
+  },
+  {
+    "id": "ruler",
+    "strip_start": 2,
+    "strip_end": 9,
+    "strip_length": 7
+  },
+  {
+    "id": "perimeter",
+    "sides": [
+      6,
+      4,
+      6,
+      4
+    ],
+    "perimeter": 20
+  },
+  {
+    "id": "symmetry",
+    "lines": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "fractionstrip",
+    "denominators": [
+      6
+    ],
+    "numerators": [
+      4
+    ]
+  },
+  {
+    "id": "equivalent",
+    "denominators": [
+      2,
+      4,
+      6
+    ],
+    "numerators": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "pictogram",
+    "counts": {
+      "ball": 4,
+      "skipping": 3,
+      "clapping": 2
+    },
+    "key": 1
+  },
+  {
+    "id": "calendar",
+    "start_weekday": "Monday",
+    "days": 30
+  }
+]

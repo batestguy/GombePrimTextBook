@@ -1,0 +1,820 @@
+[
+  {
+    "id": "P1-01",
+    "grade": 1,
+    "title": "One to five",
+    "topic": "Numbers 1–5",
+    "source_pages": [
+      1
+    ],
+    "goal": "Count, read, write and order 1 to 5.",
+    "look": "Amina sets out bottle tops for a school game. What can we count in our room? Touch each object once.",
+    "learn": "Put one top down. Say one. Add another and say two. The last number tells how many. Trace with a finger, then write: 1 2 3 4 5.",
+    "worked": "Touch the three dots in row A. Say 1, 2, 3. There are 3 dots.",
+    "play": "Use five large tops. A partner shows 1 to 5. Count them and choose the matching number card. Swap roles.",
+    "vocabulary": "count; number; how many",
+    "hint": "Move each object after counting it. Accept pointing or speaking before writing.",
+    "questions": [
+      {
+        "prompt": "Count row A. Write the number.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Count row B. Write the number.",
+        "answer": "5"
+      },
+      {
+        "prompt": "Draw 2 circles.",
+        "answer": "Two separate circles."
+      },
+      {
+        "prompt": "Write 1 to 5 in order.",
+        "answer": "1, 2, 3, 4, 5"
+      },
+      {
+        "prompt": "Show 4 fingers. How many?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Musa counts one top twice. Show a better way.",
+        "answer": "Touch or move each top exactly once."
+      }
+    ],
+    "diagram": "count35"
+  },
+  {
+    "id": "P1-02",
+    "grade": 1,
+    "title": "Sort, match and order",
+    "topic": "Numbers 1–5",
+    "source_pages": [
+      1
+    ],
+    "goal": "Sort collections and compare small sets.",
+    "look": "Zainab has leaves and bottle tops. How could she put things that are alike together?",
+    "learn": "A set is a collection. Sort by one rule, such as colour or shape. Match one object from each set. The set with unmatched objects has more.",
+    "worked": "A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.",
+    "play": "Sort six safe classroom objects by material. Explain your rule. Make sets of 1, 2, 3, 4 and 5 tops.",
+    "vocabulary": "sort; set; more; fewer",
+    "hint": "Ask for the sorting rule. Distinguish the number in a set from the size of its objects.",
+    "questions": [
+      {
+        "prompt": "Order: 4, 1, 3.",
+        "answer": "1, 3, 4"
+      },
+      {
+        "prompt": "Draw sets of 1 and 3 dots.",
+        "answer": "One dot in one set; three in the other."
+      },
+      {
+        "prompt": "Which has more: 2 tops or 5 tops?",
+        "answer": "5 tops"
+      },
+      {
+        "prompt": "Which has fewer: 4 leaves or 3 leaves?",
+        "answer": "3 leaves"
+      },
+      {
+        "prompt": "Make a set of 5 objects.",
+        "answer": "Exactly five objects."
+      },
+      {
+        "prompt": "Explain how to compare two sets.",
+        "answer": "Match one to one or count both sets."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-03",
+    "grade": 1,
+    "title": "Zero means none",
+    "topic": "Zero",
+    "source_pages": [
+      1
+    ],
+    "goal": "Recognise, read and write 0.",
+    "look": "Musa puts his last top away. How many tops are left on his mat?",
+    "learn": "Zero tells us there are none. An empty set has 0 objects. Say zero. Draw a large oval in the air. Write 0.",
+    "worked": "There are 2 tops. Take away 2. No tops remain: 2 − 2 = 0.",
+    "play": "Put 0 to 5 tops in cups. Include an empty cup. Match number cards to every cup.",
+    "vocabulary": "zero; none; empty",
+    "hint": "The cup still exists; zero describes the number of objects inside.",
+    "questions": [
+      {
+        "prompt": "Write the number for an empty set.",
+        "answer": "0"
+      },
+      {
+        "prompt": "Draw an empty box.",
+        "answer": "Box with nothing inside."
+      },
+      {
+        "prompt": "Complete: 0, 1, __, 3.",
+        "answer": "2"
+      },
+      {
+        "prompt": "Put all 3 tops away. How many remain?",
+        "answer": "0"
+      },
+      {
+        "prompt": "Say the word for 0.",
+        "answer": "zero"
+      },
+      {
+        "prompt": "Why does an empty basket have 0 oranges?",
+        "answer": "There are no oranges in it."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-04",
+    "grade": 1,
+    "title": "Six to nine",
+    "topic": "Numbers 6–9",
+    "source_pages": [
+      2
+    ],
+    "goal": "Count, read, write and order numbers to 9.",
+    "look": "Daniel brings more tops to the game. Count on after five together.",
+    "learn": "Five and one more make six. Count on: 6, 7, 8, 9. Give one number word to each object. Practise writing 6, 7, 8 and 9.",
+    "worked": "5 tops and 2 more make 7. Count: 1, 2, 3, 4, 5, 6, 7.",
+    "play": "Sort tops by colour. Make sets of 6, 7, 8 and 9. Swap mats and check. Order the mats from fewest to most.",
+    "vocabulary": "six; seven; eight; nine",
+    "hint": "Check that 6 and 9 face the correct way. Read numbers as well as copying them.",
+    "questions": [
+      {
+        "prompt": "Write the number after 6.",
+        "answer": "7"
+      },
+      {
+        "prompt": "Write the number before 9.",
+        "answer": "8"
+      },
+      {
+        "prompt": "Order: 9, 6, 8, 7.",
+        "answer": "6, 7, 8, 9"
+      },
+      {
+        "prompt": "Draw 6 dots.",
+        "answer": "Exactly six dots."
+      },
+      {
+        "prompt": "Count 9 objects for a partner.",
+        "answer": "Exactly nine objects counted once each."
+      },
+      {
+        "prompt": "How can you check a set of 8?",
+        "answer": "Recount once per object; the last word is eight."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-05",
+    "grade": 1,
+    "title": "A bundle of ten",
+    "topic": "Ten",
+    "source_pages": [
+      2
+    ],
+    "goal": "Make tens and ones, extending to 20.",
+    "look": "Amina ties counting sticks into bundles. Why might a bundle be easier to count?",
+    "learn": "Ten ones make one ten. A bundle of ten and 3 loose ones make 13. Ones are also called units. Say numbers from 10 to 20 aloud.",
+    "worked": "14 = 1 ten and 4 ones. Two bundles of ten make 20.",
+    "play": "Bundle ten paper strips. Show 11, 15, 18 and 20 using bundles and loose strips.",
+    "vocabulary": "ten; bundle; ones; units",
+    "hint": "Use blunt sticks or paper strips. Tie only bundles of exactly ten.",
+    "questions": [
+      {
+        "prompt": "1 ten and 2 ones make __.",
+        "answer": "12"
+      },
+      {
+        "prompt": "Write 16 as tens and ones.",
+        "answer": "1 ten and 6 ones"
+      },
+      {
+        "prompt": "How many ones make one ten?",
+        "answer": "10"
+      },
+      {
+        "prompt": "Complete: 17, 18, __, 20.",
+        "answer": "19"
+      },
+      {
+        "prompt": "Show 20 with bundles.",
+        "answer": "2 bundles of ten"
+      },
+      {
+        "prompt": "Explain why 10 and 1 differ.",
+        "answer": "Ten has ten ones; one has one one."
+      }
+    ],
+    "diagram": "tens14"
+  },
+  {
+    "id": "P1-06",
+    "grade": 1,
+    "title": "Numbers to ninety-nine",
+    "topic": "Numbers 1–99",
+    "source_pages": [
+      3
+    ],
+    "goal": "Recognise, read and write numbers to 99.",
+    "look": "The friends label classroom boxes. How do two digits help write bigger numbers?",
+    "learn": "The left digit in a two-digit number gives the tens. The right gives the ones. Say 42 as forty-two: 4 tens and 2 ones. Count through a new ten: 28, 29, 30, 31.",
+    "worked": "70 has 7 tens and 0 ones. 99 has 9 tens and 9 ones.",
+    "play": "Make digit cards 0 to 9. A partner names a number from 10 to 99. Build it, read it and show tens and ones.",
+    "vocabulary": "digit; tens; ninety-nine",
+    "hint": "Say teen and tens names clearly. Give oral practice before writing.",
+    "questions": [
+      {
+        "prompt": "Write forty-six in digits.",
+        "answer": "46"
+      },
+      {
+        "prompt": "Read 81 in words.",
+        "answer": "eighty-one"
+      },
+      {
+        "prompt": "Complete: 38, 39, __, __.",
+        "answer": "40, 41"
+      },
+      {
+        "prompt": "Write 93 as tens and ones.",
+        "answer": "9 tens and 3 ones"
+      },
+      {
+        "prompt": "Write 95 to 99.",
+        "answer": "95, 96, 97, 98, 99"
+      },
+      {
+        "prompt": "Why is 60 different from 6?",
+        "answer": "60 is six tens; 6 is six ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-07",
+    "grade": 1,
+    "title": "Equal halves and quarters",
+    "topic": "Fractions",
+    "source_pages": [
+      3
+    ],
+    "goal": "Recognise halves and quarters of objects and shapes.",
+    "look": "Zainab folds a paper sheet to share its space. Must fair pieces be equal?",
+    "learn": "A half is one of 2 equal parts of a whole. A quarter is one of 4 equal parts. Equal means the same amount. Unequal pieces are not halves or quarters.",
+    "worked": "Fold a rectangle in half. Fold again into 4 equal parts. One part is a quarter.",
+    "play": "Fold scrap paper into halves, then quarters. Shade a half on one sheet and a quarter on another. Point to half and quarter of a paper model of a fruit.",
+    "vocabulary": "whole; half; quarter; equal",
+    "hint": "Use paper instead of food. Accept different equal-area partitions.",
+    "questions": [
+      {
+        "prompt": "How many equal parts make halves?",
+        "answer": "2"
+      },
+      {
+        "prompt": "How many equal parts make quarters?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Draw two equal halves of a rectangle.",
+        "answer": "Rectangle divided into two equal-area parts."
+      },
+      {
+        "prompt": "Draw a square and shade one quarter.",
+        "answer": "Four equal-area parts; one shaded."
+      },
+      {
+        "prompt": "Are 2 unequal pieces halves?",
+        "answer": "No"
+      },
+      {
+        "prompt": "Explain why your shaded part is a quarter.",
+        "answer": "The whole has four equal parts and one is shaded."
+      }
+    ],
+    "diagram": "fractions"
+  },
+  {
+    "id": "P1-08",
+    "grade": 1,
+    "title": "Put small sets together",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two or three small sets.",
+    "look": "Musa has 2 tops. Amina gives him 1 more. What happens to his set?",
+    "learn": "Addition puts amounts together. The sign + means add. The sign = means has the same value as. Count all objects to find the total.",
+    "worked": "2 + 1 = 3. Two tops and one top make three tops. 1 + 1 + 2 = 4.",
+    "play": "Join two sets with 1 to 3 tops each, keeping totals below 5. Then join three small sets. Say and check each number sentence.",
+    "vocabulary": "add; plus; total; equals",
+    "hint": "Read the whole sentence aloud. Equals states the same value on both sides.",
+    "questions": [
+      {
+        "prompt": "1 + 2 = __.",
+        "answer": "3"
+      },
+      {
+        "prompt": "2 + 2 = __.",
+        "answer": "4"
+      },
+      {
+        "prompt": "1 + 1 + 1 = __.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Draw 2 dots and 1 more. Total?",
+        "answer": "3"
+      },
+      {
+        "prompt": "1 book and 3 more make how many?",
+        "answer": "4 books"
+      },
+      {
+        "prompt": "Show why 1 + 2 and 2 + 1 match.",
+        "answer": "Both combine one and two objects to make three."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-09",
+    "grade": 1,
+    "title": "Count on to add",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two or three numbers with totals to 18.",
+    "look": "The friends join sets. Can they start counting from the larger set?",
+    "learn": "Keep one number in your head and count on the other amount. Adding zero leaves the number unchanged. Check by counting all the objects.",
+    "worked": "8 + 5: start at 8; count 9, 10, 11, 12, 13. So 8 + 5 = 13. For 3 + 2 + 4, first make 5, then add 4 to get 9.",
+    "play": "Make sums with tops. First keep totals below 10, then try up to 18. A partner checks by grouping ten and ones.",
+    "vocabulary": "count on; sum; check",
+    "hint": "Keep every total within 18. Use objects before mental calculation.",
+    "questions": [
+      {
+        "prompt": "4 + 3 = __.",
+        "answer": "7"
+      },
+      {
+        "prompt": "6 + 0 = __.",
+        "answer": "6"
+      },
+      {
+        "prompt": "3 + 2 + 3 = __.",
+        "answer": "8"
+      },
+      {
+        "prompt": "9 + 9 = __.",
+        "answer": "18"
+      },
+      {
+        "prompt": "7 seeds and 5 more make how many?",
+        "answer": "12 seeds"
+      },
+      {
+        "prompt": "Explain how to check 8 + 6 = 14.",
+        "answer": "Count fourteen objects, or count on six from eight."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-10",
+    "grade": 1,
+    "title": "Add tens and ones",
+    "topic": "Addition",
+    "source_pages": [
+      4
+    ],
+    "goal": "Add two-digit numbers without regrouping, to 40.",
+    "look": "Class bundles hold ten sticks. Can we add bundles and loose sticks separately?",
+    "learn": "Line up tens with tens and ones with ones. Add the ones. Add the tens. Here each ones total stays below ten, so no new bundle is needed.",
+    "worked": "23 + 14: 3 + 4 = 7 ones; 2 + 1 = 3 tens. Total 37. Check with bundles.",
+    "play": "Build 12 and 15 with bundles and loose strips. Join tens and ones. Make another sum with a total no greater than 40.",
+    "vocabulary": "tens; ones; total",
+    "hint": "Align places. Do not read 23 as two plus three.",
+    "questions": [
+      {
+        "prompt": "12 + 13 = __.",
+        "answer": "25"
+      },
+      {
+        "prompt": "21 + 16 = __.",
+        "answer": "37"
+      },
+      {
+        "prompt": "30 + 10 = __.",
+        "answer": "40"
+      },
+      {
+        "prompt": "14 + 5 = __.",
+        "answer": "19"
+      },
+      {
+        "prompt": "22 pencils and 11 more make how many?",
+        "answer": "33 pencils"
+      },
+      {
+        "prompt": "Explain why 20 + 13 = 33.",
+        "answer": "Two tens plus one ten and three ones make three tens and three ones."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-11",
+    "grade": 1,
+    "title": "Take away",
+    "topic": "Subtraction",
+    "source_pages": [
+      5
+    ],
+    "goal": "Subtract within 9 and within 18.",
+    "look": "Musa puts some tops back in a box. Is the number on his mat getting larger or smaller?",
+    "learn": "Subtraction can take away. The sign − means subtract. Count what remains. Or count backwards one step per removed object.",
+    "worked": "8 − 3 = 5. Remove 3 from 8; 5 remain. Check: 5 + 3 = 8.",
+    "play": "Place up to 18 tops on a mat. A partner removes some while you watch. Say the subtraction and check by putting them back.",
+    "vocabulary": "subtract; take away; remain",
+    "hint": "Keep removed objects visible so pupils can undo the action.",
+    "questions": [
+      {
+        "prompt": "7 − 2 = __.",
+        "answer": "5"
+      },
+      {
+        "prompt": "9 − 9 = __.",
+        "answer": "0"
+      },
+      {
+        "prompt": "15 − 4 = __.",
+        "answer": "11"
+      },
+      {
+        "prompt": "18 − 9 = __.",
+        "answer": "9"
+      },
+      {
+        "prompt": "12 chalk pieces: use 3. How many remain?",
+        "answer": "9 pieces"
+      },
+      {
+        "prompt": "How does addition check 13 − 5 = 8?",
+        "answer": "8 + 5 = 13."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-12",
+    "grade": 1,
+    "title": "Find a missing part",
+    "topic": "Missing numbers",
+    "source_pages": [
+      6,
+      7
+    ],
+    "goal": "Find unknown numbers and check everyday calculations.",
+    "look": "Amina sees 3 tops. Some are hidden. There are 7 altogether. How can she find the hidden part?",
+    "learn": "A blank stands for a missing number. Find the value that makes both sides equal. Use objects or count on. Check by reading the completed sentence.",
+    "worked": "3 + __ = 7: count 4 more. The blank is 4. __ − 2 = 5: start with 7, since 7 − 2 = 5.",
+    "play": "Hide part of a set of up to 9 tops. Tell the whole and the visible part. Then make an everyday story about books with a missing amount.",
+    "vocabulary": "missing; part; whole; equal",
+    "hint": "Vary blank positions. Check by substituting in the original sentence.",
+    "questions": [
+      {
+        "prompt": "2 + __ = 6.",
+        "answer": "4"
+      },
+      {
+        "prompt": "__ + 3 = 8.",
+        "answer": "5"
+      },
+      {
+        "prompt": "9 − __ = 4.",
+        "answer": "5"
+      },
+      {
+        "prompt": "__ − 2 = 6.",
+        "answer": "8"
+      },
+      {
+        "prompt": "5 = __ + 1.",
+        "answer": "4"
+      },
+      {
+        "prompt": "Explain how to check 4 + __ = 9.",
+        "answer": "Use 5 in the blank and verify 4 + 5 = 9."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-13",
+    "grade": 1,
+    "title": "Pretend coins and change",
+    "topic": "Money",
+    "source_pages": [
+      8
+    ],
+    "goal": "Identify coin values and calculate with pretend kobo.",
+    "look": "Daniel makes paper tokens for a pretend shop. Why does a value label matter?",
+    "learn": "Nigerian money is called naira and kobo. 100 kobo = 1 naira. Use labelled pretend tokens: 1k, 5k, 10k and 25k. These are historical-value exercises, not real prices or a claim about money circulating today.",
+    "worked": "5k + 10k = 15k. Pay 10k for a pretend 6k item: change is 10k − 6k = 4k.",
+    "play": "Draw token outlines and label values. An adult may show a genuine coin for identification and supervised pencil tracing. Never mark or alter real money.",
+    "vocabulary": "naira; kobo; value; change",
+    "hint": "Use large paper tokens. Real prices and currently used denominations differ.",
+    "questions": [
+      {
+        "prompt": "5k + 5k = __.",
+        "answer": "10k"
+      },
+      {
+        "prompt": "10k + 10k + 5k = __.",
+        "answer": "25k"
+      },
+      {
+        "prompt": "Pay 10k. Cost 7k. Change?",
+        "answer": "3k"
+      },
+      {
+        "prompt": "Pay 5k. Cost 2k. Change?",
+        "answer": "3k"
+      },
+      {
+        "prompt": "Draw a token labelled 10k.",
+        "answer": "Outline with value 10k."
+      },
+      {
+        "prompt": "Why read a token value, not just count tokens?",
+        "answer": "Different tokens can have different values."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-14",
+    "grade": 1,
+    "title": "Longer, shorter and farther",
+    "topic": "Length",
+    "source_pages": [
+      9
+    ],
+    "goal": "Compare and order lengths and measure with body units.",
+    "look": "Zainab compares two strings for a garden bed. Where should their ends start?",
+    "learn": "Line up one end to compare. Longer means more length; shorter means less. Measure with equal hand spans or footsteps placed end to end with no gaps or overlaps.",
+    "worked": "One string is 4 of Amina’s spans; another is 6 of her spans. The second is longer by 2 of her spans.",
+    "play": "Measure a table in your spans and a safe path in your steps. Record whose units you used. A seated child can use a paper strip instead.",
+    "vocabulary": "longer; shorter; span; distance",
+    "hint": "Body units vary. Do not compare different pupils’ counts as if their spans were equal.",
+    "questions": [
+      {
+        "prompt": "Lengths are 3 and 5 equal strips. Which is longer?",
+        "answer": "The 5-strip length"
+      },
+      {
+        "prompt": "Order 2, 6, 4 spans from shortest.",
+        "answer": "2, 4, 6 spans"
+      },
+      {
+        "prompt": "Draw a line longer than your finger.",
+        "answer": "Line exceeds that pupil’s finger length."
+      },
+      {
+        "prompt": "A path is 8 steps out and 8 back. Total?",
+        "answer": "16 steps"
+      },
+      {
+        "prompt": "Measure a book with repeated paper-strip units.",
+        "answer": "Practical count, same unit repeated without gaps."
+      },
+      {
+        "prompt": "Why line up the string ends?",
+        "answer": "So the other ends show the difference fairly."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-15",
+    "grade": 1,
+    "title": "Our day in order",
+    "topic": "Time",
+    "source_pages": [
+      10
+    ],
+    "goal": "Sequence everyday activities and use time words.",
+    "look": "The friends describe a school day. What could you do before coming to school?",
+    "learn": "Time helps order events. Morning comes before afternoon. Evening comes before night. Routines differ. Use before and after to describe a day.",
+    "worked": "In Amina’s story: wake up, wash, eat, then go to school. Eating is before going to school.",
+    "play": "Draw three routine cards. A partner puts them in your chosen order. Tell a story using first, next and last.",
+    "vocabulary": "before; after; morning; night",
+    "hint": "Accept varied home routines. No pupil must disclose private home details.",
+    "questions": [
+      {
+        "prompt": "Which comes first: morning or afternoon?",
+        "answer": "morning"
+      },
+      {
+        "prompt": "Evening comes before __.",
+        "answer": "night"
+      },
+      {
+        "prompt": "Draw a morning activity.",
+        "answer": "Suitable example."
+      },
+      {
+        "prompt": "Draw two events in order.",
+        "answer": "Coherent sequence."
+      },
+      {
+        "prompt": "In Amina’s story, what follows washing?",
+        "answer": "eating"
+      },
+      {
+        "prompt": "Explain before with your own two events.",
+        "answer": "The first event occurs earlier than the second."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-16",
+    "grade": 1,
+    "title": "Heavy and light",
+    "topic": "Weight",
+    "source_pages": [
+      10
+    ],
+    "goal": "Compare familiar objects by weight.",
+    "look": "Musa lifts an empty bag and a bag with books. Which feels heavier?",
+    "learn": "Heavier and lighter compare weight. Size alone does not tell weight. Use small safe objects on a simple balance. The lower pan holds the heavier load.",
+    "worked": "On a balance, a stone side goes down and a leaf side goes up. The stone is heavier than the leaf.",
+    "play": "With an adult, balance a small stone, eraser and leaf. Predict, compare and order. Lift only light safe items.",
+    "vocabulary": "heavy; light; balance",
+    "hint": "Never ask pupils to lift heavy loads. Use observed results, not appearance.",
+    "questions": [
+      {
+        "prompt": "Which is heavier in the example?",
+        "answer": "stone"
+      },
+      {
+        "prompt": "Which is lighter in the example?",
+        "answer": "leaf"
+      },
+      {
+        "prompt": "Draw a safe light object.",
+        "answer": "Suitable example such as a leaf."
+      },
+      {
+        "prompt": "A balance is level. What can this show?",
+        "answer": "Equal weight on its pans"
+      },
+      {
+        "prompt": "Compare two safe objects and record a result.",
+        "answer": "Practical result supported by balance."
+      },
+      {
+        "prompt": "Does bigger always mean heavier? Explain.",
+        "answer": "No; a large empty box can be lighter than a small stone."
+      }
+    ],
+    "diagram": ""
+  },
+  {
+    "id": "P1-17",
+    "grade": 1,
+    "title": "Solid shapes around us",
+    "topic": "Solids",
+    "source_pages": [
+      11
+    ],
+    "goal": "Name and sort cubes, cuboids, cylinders and spheres.",
+    "look": "Daniel explores a ball, a box and a closed tin. Which can roll?",
+    "learn": "A sphere is ball-shaped. A cube has six equal square faces. A cuboid has six rectangular faces, with opposite faces matching. A cylinder has two flat circular faces and a curved surface.",
+    "worked": "A dice models a cube; a cereal box models a cuboid; a closed straight-sided tin models a cylinder; a ball models a sphere.",
+    "play": "Sort clean safe objects by solid shape. Test rolling and stacking. Remove sharp tins and small choking hazards.",
+    "vocabulary": "sphere; cube; cuboid; cylinder",
+    "hint": "A cube is a special cuboid. Use a clear non-cube cuboid for initial comparison.",
+    "questions": [
+      {
+        "prompt": "What solid does a ball model?",
+        "answer": "sphere"
+      },
+      {
+        "prompt": "Which solid has six equal square faces?",
+        "answer": "cube"
+      },
+      {
+        "prompt": "What solid does a closed straight-sided tin model?",
+        "answer": "cylinder"
+      },
+      {
+        "prompt": "Draw a cuboid-shaped object.",
+        "answer": "Recognisable rectangular box."
+      },
+      {
+        "prompt": "Sort a ball and box by smooth rolling.",
+        "answer": "Ball rolls smoothly; box does not."
+      },
+      {
+        "prompt": "Give a cube/non-cube cuboid difference.",
+        "answer": "Cube edges are all equal; the chosen non-cube cuboid has unequal adjacent edge lengths."
+      }
+    ],
+    "diagram": "solids"
+  },
+  {
+    "id": "P1-18",
+    "grade": 1,
+    "title": "Flat shapes and patterns",
+    "topic": "Flat shapes",
+    "source_pages": [
+      11
+    ],
+    "goal": "Match and name circles, squares and rectangles.",
+    "look": "Amina traces a box face. How does the flat drawing differ from the box?",
+    "learn": "A circle has a curved boundary and no corners. A square has 4 equal straight sides and 4 square corners. A rectangle has 4 square corners and opposite sides equal. A square is a special rectangle.",
+    "worked": "Circle, square, circle, square is a repeating pattern. A turned square is still a square.",
+    "play": "Trace safe flat faces. Match shapes after turning them. Make a repeating pattern for a pretend cloth border. Find square and rectangular faces in the classroom.",
+    "vocabulary": "circle; square; rectangle; corner",
+    "hint": "Orientation does not change a shape. Compare with a non-square rectangle.",
+    "questions": [
+      {
+        "prompt": "How many corners has a circle?",
+        "answer": "0"
+      },
+      {
+        "prompt": "How many equal sides has a square?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Continue: circle, square, circle, square, __.",
+        "answer": "circle"
+      },
+      {
+        "prompt": "Draw a non-square rectangle.",
+        "answer": "Four right angles, opposite equal sides, unequal adjacent lengths."
+      },
+      {
+        "prompt": "Name an object with a rectangular face.",
+        "answer": "Suitable example such as a book."
+      },
+      {
+        "prompt": "What stays the same when a square turns?",
+        "answer": "Its four equal sides and four right-angle corners."
+      }
+    ],
+    "diagram": "shapes"
+  },
+  {
+    "id": "P1-19",
+    "grade": 1,
+    "title": "Find out about our class",
+    "topic": "Data",
+    "source_pages": [
+      12
+    ],
+    "goal": "Collect and record ages and heights.",
+    "look": "The friends discuss how children grow. What could they record respectfully?",
+    "learn": "Data are pieces of information. Ask the same question each time. Record age in completed years. Compare heights from floor to head with marked paper strips. Use letters instead of names.",
+    "worked": "Invented practice data: pupil A is 6 years, B is 7, C is 6. Two pupils are 6 years old.",
+    "play": "Use the invented records or collect voluntary ages privately. Compare paper height strips without ranking children as better or worse. Record height with a consistent method.",
+    "vocabulary": "data; age; height; record",
+    "hint": "Participation is optional. Do not publish identifiable child data. Fictional data are acceptable.",
+    "questions": [
+      {
+        "prompt": "How old is practice pupil B?",
+        "answer": "7 years"
+      },
+      {
+        "prompt": "How many practice pupils are 6?",
+        "answer": "2"
+      },
+      {
+        "prompt": "Order the practice ages from least.",
+        "answer": "6, 6, 7"
+      },
+      {
+        "prompt": "Draw a pupil-letter/age table.",
+        "answer": "Two labelled columns."
+      },
+      {
+        "prompt": "Name a tool for comparing heights.",
+        "answer": "Marked paper strip or suitable measuring tape"
+      },
+      {
+        "prompt": "Why ask everyone the same age question?",
+        "answer": "To compare answers about the same thing."
+      }
+    ],
+    "diagram": ""
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "pages": 247,
+  "lessons": 63,
+  "lesson_questions": 378,
+  "revision_and_assessment_questions": 90,
+  "ai_questions": 8,
+  "supplementary_checks": 59,
+  "curriculum_objectives": 155,
+  "arithmetic_equations_checked": 87,
+  "arithmetic_failures": 0,
+  "deterministic_diagrams": 17,
+  "font_programs_embedded": 2,
+  "page_bounds_failures": 0,
+  "ai_pages": [
+    155,
+    156,
+    157,
+    158
+  ],
+  "original_brief_preserved": true,
+  "current_alignment": "unverified",
+  "physical_print_test": "not performed",
+  "local_educational_review": "not performed",
+  "press_ready": false,
+  "source_archive_rebuild": "passed; all 247 page texts matched",
+  "digital_visual_review": "all page contact sheets inspected; representative and changed pages inspected at larger scale"
+}

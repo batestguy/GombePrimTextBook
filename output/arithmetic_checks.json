@@ -1,0 +1,437 @@
+[
+  {
+    "id": "P1-08.worked",
+    "equation": "2 + 1 = 3",
+    "pass": true
+  },
+  {
+    "id": "P1-08.worked",
+    "equation": "1 + 1 + 2 = 4",
+    "pass": true
+  },
+  {
+    "id": "P1-09.worked",
+    "equation": "8 + 5 = 13",
+    "pass": true
+  },
+  {
+    "id": "P1-10.worked",
+    "equation": "3 + 4 = 7",
+    "pass": true
+  },
+  {
+    "id": "P1-10.worked",
+    "equation": "2 + 1 = 3",
+    "pass": true
+  },
+  {
+    "id": "P1-11.worked",
+    "equation": "5 + 3 = 8",
+    "pass": true
+  },
+  {
+    "id": "P2-02.worked",
+    "equation": "3 + 3 + 3 = 9",
+    "pass": true
+  },
+  {
+    "id": "P2-03.worked",
+    "equation": "3 + 5 = 8",
+    "pass": true
+  },
+  {
+    "id": "P2-03.worked",
+    "equation": "2 + 4 = 6",
+    "pass": true
+  },
+  {
+    "id": "P2-03.play",
+    "equation": "123 + 214 = 337",
+    "pass": true
+  },
+  {
+    "id": "P2-04.worked",
+    "equation": "8 + 7 = 15",
+    "pass": true
+  },
+  {
+    "id": "P2-04.worked",
+    "equation": "2 + 1 + 1 = 4",
+    "pass": true
+  },
+  {
+    "id": "P2-05.worked",
+    "equation": "12 + 7 = 19",
+    "pass": true
+  },
+  {
+    "id": "P2-05.worked",
+    "equation": "19 + 18 = 37",
+    "pass": true
+  },
+  {
+    "id": "P2-06.worked",
+    "equation": "35 + 23 = 58",
+    "pass": true
+  },
+  {
+    "id": "P2-07.worked",
+    "equation": "25 + 17 = 42",
+    "pass": true
+  },
+  {
+    "id": "P2-08.worked",
+    "equation": "4 + 4 + 4 = 12",
+    "pass": true
+  },
+  {
+    "id": "P2-09.worked",
+    "equation": "27 + 15 = 42",
+    "pass": true
+  },
+  {
+    "id": "P3-01.worked",
+    "equation": "406 = 400 + 0 + 6",
+    "pass": true
+  },
+  {
+    "id": "P3-01.worked",
+    "equation": "999 = 900 + 90 + 9",
+    "pass": true
+  },
+  {
+    "id": "P3-04.worked",
+    "equation": "1/2 = 2/4",
+    "pass": true
+  },
+  {
+    "id": "P3-05.worked",
+    "equation": "8 + 7 = 15",
+    "pass": true
+  },
+  {
+    "id": "P3-05.worked",
+    "equation": "6 + 5 + 1 = 12",
+    "pass": true
+  },
+  {
+    "id": "P3-05.worked",
+    "equation": "2 + 1 + 1 = 4",
+    "pass": true
+  },
+  {
+    "id": "P3-06.worked",
+    "equation": "1/5 + 2/5 = 3/5",
+    "pass": true
+  },
+  {
+    "id": "P3-06.worked",
+    "equation": "1/4 + 3/4 = 4/4",
+    "pass": true
+  },
+  {
+    "id": "P3-08.worked",
+    "equation": "5/6 − 2/6 = 3/6",
+    "pass": true
+  },
+  {
+    "id": "P3-08.worked",
+    "equation": "3/6 + 2/6 = 5/6",
+    "pass": true
+  },
+  {
+    "id": "P3-10.worked",
+    "equation": "60 + 12 = 72",
+    "pass": true
+  },
+  {
+    "id": "P3-16.worked",
+    "equation": "6 + 4 + 6 + 4 = 20",
+    "pass": true
+  },
+  {
+    "id": "P1-08.1",
+    "equation": "1 + 2 = 3",
+    "pass": true
+  },
+  {
+    "id": "P1-08.2",
+    "equation": "2 + 2 = 4",
+    "pass": true
+  },
+  {
+    "id": "P1-08.3",
+    "equation": "1 + 1 + 1 = 3",
+    "pass": true
+  },
+  {
+    "id": "P1-09.1",
+    "equation": "4 + 3 = 7",
+    "pass": true
+  },
+  {
+    "id": "P1-09.2",
+    "equation": "6 + 0 = 6",
+    "pass": true
+  },
+  {
+    "id": "P1-09.3",
+    "equation": "3 + 2 + 3 = 8",
+    "pass": true
+  },
+  {
+    "id": "P1-09.4",
+    "equation": "9 + 9 = 18",
+    "pass": true
+  },
+  {
+    "id": "P1-10.1",
+    "equation": "12 + 13 = 25",
+    "pass": true
+  },
+  {
+    "id": "P1-10.2",
+    "equation": "21 + 16 = 37",
+    "pass": true
+  },
+  {
+    "id": "P1-10.3",
+    "equation": "30 + 10 = 40",
+    "pass": true
+  },
+  {
+    "id": "P1-10.4",
+    "equation": "14 + 5 = 19",
+    "pass": true
+  },
+  {
+    "id": "P1-12.1",
+    "equation": "2 + 4 = 6",
+    "pass": true
+  },
+  {
+    "id": "P1-12.2",
+    "equation": "5 + 3 = 8",
+    "pass": true
+  },
+  {
+    "id": "P1-12.5",
+    "equation": "5 = 4 + 1",
+    "pass": true
+  },
+  {
+    "id": "P2-03.1",
+    "equation": "34 + 25 = 59",
+    "pass": true
+  },
+  {
+    "id": "P2-03.2",
+    "equation": "112 + 36 = 148",
+    "pass": true
+  },
+  {
+    "id": "P2-03.3",
+    "equation": "123 + 214 = 337",
+    "pass": true
+  },
+  {
+    "id": "P2-03.4",
+    "equation": "120 + 70 = 190",
+    "pass": true
+  },
+  {
+    "id": "P2-04.1",
+    "equation": "27 + 16 = 43",
+    "pass": true
+  },
+  {
+    "id": "P2-04.2",
+    "equation": "38 + 24 = 62",
+    "pass": true
+  },
+  {
+    "id": "P2-04.3",
+    "equation": "46 + 37 = 83",
+    "pass": true
+  },
+  {
+    "id": "P2-04.4",
+    "equation": "59 + 25 = 84",
+    "pass": true
+  },
+  {
+    "id": "P2-05.1",
+    "equation": "12 + 8 + 5 = 25",
+    "pass": true
+  },
+  {
+    "id": "P2-05.2",
+    "equation": "23 + 17 + 9 = 49",
+    "pass": true
+  },
+  {
+    "id": "P2-05.3",
+    "equation": "15 + 15 + 15 = 45",
+    "pass": true
+  },
+  {
+    "id": "P2-05.4",
+    "equation": "42 + 18 + 20 = 80",
+    "pass": true
+  },
+  {
+    "id": "P2-08.2",
+    "equation": "4 + 4 + 4 = 12",
+    "pass": true
+  },
+  {
+    "id": "P2-09.1",
+    "equation": "23 + 12 = 35",
+    "pass": true
+  },
+  {
+    "id": "P2-09.5",
+    "equation": "7 + 8 = 10 + 5",
+    "pass": true
+  },
+  {
+    "id": "P3-05.1",
+    "equation": "47 + 28 = 75",
+    "pass": true
+  },
+  {
+    "id": "P3-05.2",
+    "equation": "236 + 142 = 378",
+    "pass": true
+  },
+  {
+    "id": "P3-05.3",
+    "equation": "368 + 257 = 625",
+    "pass": true
+  },
+  {
+    "id": "P3-05.4",
+    "equation": "125 + 75 + 40 = 240",
+    "pass": true
+  },
+  {
+    "id": "P3-06.1",
+    "equation": "1/4 + 2/4 = 3/4",
+    "pass": true
+  },
+  {
+    "id": "P3-06.2",
+    "equation": "2/6 + 3/6 = 5/6",
+    "pass": true
+  },
+  {
+    "id": "P3-06.3",
+    "equation": "1/3 + 1/3 = 2/3",
+    "pass": true
+  },
+  {
+    "id": "P3-06.4",
+    "equation": "2/5 + 3/5 = 1",
+    "pass": true
+  },
+  {
+    "id": "P3-08.1",
+    "equation": "3/4 − 1/4 = 2/4",
+    "pass": true
+  },
+  {
+    "id": "P3-08.2",
+    "equation": "4/5 − 2/5 = 2/5",
+    "pass": true
+  },
+  {
+    "id": "P3-08.3",
+    "equation": "5/6 − 1/6 = 4/6",
+    "pass": true
+  },
+  {
+    "id": "P3-08.4",
+    "equation": "3/3 − 2/3 = 1/3",
+    "pass": true
+  },
+  {
+    "id": "P3-13.1",
+    "equation": "262 + 138 = 400",
+    "pass": true
+  },
+  {
+    "id": "P3-13.6",
+    "equation": "50 = 32 + 18",
+    "pass": true
+  },
+  {
+    "id": "P1-R2.1",
+    "equation": "3 + 4 + 1 = 8",
+    "pass": true
+  },
+  {
+    "id": "P1-R2.3",
+    "equation": "24 + 12 = 36",
+    "pass": true
+  },
+  {
+    "id": "P1-R2.4",
+    "equation": "6 + 4 = 10",
+    "pass": true
+  },
+  {
+    "id": "P1-A1.4",
+    "equation": "8 + 7 = 15",
+    "pass": true
+  },
+  {
+    "id": "P1-A1.6",
+    "equation": "5 + 4 = 9",
+    "pass": true
+  },
+  {
+    "id": "P2-R1.3",
+    "equation": "126 + 43 = 169",
+    "pass": true
+  },
+  {
+    "id": "P2-R1.4",
+    "equation": "47 + 26 = 73",
+    "pass": true
+  },
+  {
+    "id": "P2-R1.6",
+    "equation": "14 + 6 + 9 = 29",
+    "pass": true
+  },
+  {
+    "id": "P2-R2.2",
+    "equation": "27 + 18 = 45",
+    "pass": true
+  },
+  {
+    "id": "P2-A1.4",
+    "equation": "58 + 27 = 85",
+    "pass": true
+  },
+  {
+    "id": "P3-R1.3",
+    "equation": "3/5 + 1/5 = 4/5",
+    "pass": true
+  },
+  {
+    "id": "P3-R1.5",
+    "equation": "287 + 156 = 443",
+    "pass": true
+  },
+  {
+    "id": "P3-R1.6",
+    "equation": "5/6 − 2/6 = 3/6",
+    "pass": true
+  },
+  {
+    "id": "P3-A1.3",
+    "equation": "2/6 + 3/6 = 5/6",
+    "pass": true
+  }
+]

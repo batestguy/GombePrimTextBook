@@ -1,0 +1,1242 @@
+﻿[
+    {
+        "id":  "P1-p01-01",
+        "class":  1,
+        "page":  1,
+        "topic":  "Numbers 1–5",
+        "objective":  "Sort objects into groups and classify their quantities.",
+        "scope":  "Collections representing 1–5."
+    },
+    {
+        "id":  "P1-p01-02",
+        "class":  1,
+        "page":  1,
+        "topic":  "Numbers 1–5",
+        "objective":  "Identify how many objects a collection contains.",
+        "scope":  "Quantities 1–5."
+    },
+    {
+        "id":  "P1-p01-03",
+        "class":  1,
+        "page":  1,
+        "topic":  "Numbers 1–5",
+        "objective":  "Count objects correctly up to five.",
+        "scope":  "Upper bound 5."
+    },
+    {
+        "id":  "P1-p01-04",
+        "class":  1,
+        "page":  1,
+        "topic":  "Numbers 1–5",
+        "objective":  "Write the numerals one to five correctly.",
+        "scope":  "Numerals 1–5."
+    },
+    {
+        "id":  "P1-p01-05",
+        "class":  1,
+        "page":  1,
+        "topic":  "Numbers 1–5",
+        "objective":  "Put numbers in order by quantity.",
+        "scope":  "Numbers 1–5."
+    },
+    {
+        "id":  "P1-p01-06",
+        "class":  1,
+        "page":  1,
+        "topic":  "Zero",
+        "objective":  "Recognise zero as representing an empty collection.",
+        "scope":  "Symbol 0 and absence of objects."
+    },
+    {
+        "id":  "P1-p01-07",
+        "class":  1,
+        "page":  1,
+        "topic":  "Zero",
+        "objective":  "Read the numeral zero.",
+        "scope":  "Numeral 0."
+    },
+    {
+        "id":  "P1-p01-08",
+        "class":  1,
+        "page":  1,
+        "topic":  "Zero",
+        "objective":  "Write the numeral zero.",
+        "scope":  "Numeral 0."
+    },
+    {
+        "id":  "P1-p02-01",
+        "class":  1,
+        "page":  2,
+        "topic":  "Numbers 6–9",
+        "objective":  "Sort collections and classify their quantities.",
+        "scope":  "Collections representing 6–9."
+    },
+    {
+        "id":  "P1-p02-02",
+        "class":  1,
+        "page":  2,
+        "topic":  "Numbers 6–9",
+        "objective":  "Identify the quantity in a collection.",
+        "scope":  "Quantities 6–9."
+    },
+    {
+        "id":  "P1-p02-03",
+        "class":  1,
+        "page":  2,
+        "topic":  "Numbers 6–9",
+        "objective":  "Count and read numbers through nine correctly.",
+        "scope":  "Numbers 1–9."
+    },
+    {
+        "id":  "P1-p02-04",
+        "class":  1,
+        "page":  2,
+        "topic":  "Numbers 6–9",
+        "objective":  "Write the numerals six to nine correctly.",
+        "scope":  "Numerals 6–9."
+    },
+    {
+        "id":  "P1-p02-05",
+        "class":  1,
+        "page":  2,
+        "topic":  "Numbers 6–9",
+        "objective":  "Order numbers according to quantity.",
+        "scope":  "Numbers 6–9."
+    },
+    {
+        "id":  "P1-p02-06",
+        "class":  1,
+        "page":  2,
+        "topic":  "Ten",
+        "objective":  "Recognise ten objects as one group.",
+        "scope":  "A group of 10."
+    },
+    {
+        "id":  "P1-p02-07",
+        "class":  1,
+        "page":  2,
+        "topic":  "Ten",
+        "objective":  "Use place value in tens and ones.",
+        "scope":  "Tens/units only; activities and evaluation extend to 20."
+    },
+    {
+        "id":  "P1-p03-01",
+        "class":  1,
+        "page":  3,
+        "topic":  "Numbers 1–99",
+        "objective":  "Identify and read numbers through ninety-nine.",
+        "scope":  "Numbers 1–99."
+    },
+    {
+        "id":  "P1-p03-02",
+        "class":  1,
+        "page":  3,
+        "topic":  "Numbers 1–99",
+        "objective":  "Write numbers through ninety-nine correctly.",
+        "scope":  "Numerals 1–99."
+    },
+    {
+        "id":  "P1-p03-03",
+        "class":  1,
+        "page":  3,
+        "topic":  "Fractions",
+        "objective":  "Recognise a half and a quarter in objects and shapes.",
+        "scope":  "Fractions 1/2 and 1/4; concrete representations."
+    },
+    {
+        "id":  "P1-p04-01",
+        "class":  1,
+        "page":  4,
+        "topic":  "Addition",
+        "objective":  "Add two small whole numbers with a total below five.",
+        "scope":  "Each addend 1–3; total \u003c5."
+    },
+    {
+        "id":  "P1-p04-02",
+        "class":  1,
+        "page":  4,
+        "topic":  "Addition",
+        "objective":  "Add two or three whole numbers with a total below ten.",
+        "scope":  "Each addend 1–8; total \u003c10."
+    },
+    {
+        "id":  "P1-p04-03",
+        "class":  1,
+        "page":  4,
+        "topic":  "Addition",
+        "objective":  "Add two or three whole numbers with a total no greater than eighteen.",
+        "scope":  "Each addend 0–9; total ≤18. Content column instead states \u003c18."
+    },
+    {
+        "id":  "P1-p04-04",
+        "class":  1,
+        "page":  4,
+        "topic":  "Addition",
+        "objective":  "Add two-digit numbers without regrouping.",
+        "scope":  "Total ≤40; no exchanging/renaming."
+    },
+    {
+        "id":  "P1-p04-05",
+        "class":  1,
+        "page":  4,
+        "topic":  "Addition",
+        "objective":  "Check addition work for clarity and correctness.",
+        "scope":  "Objective wording unclear; activities and evaluation emphasise numerical accuracy."
+    },
+    {
+        "id":  "P1-p05-01",
+        "class":  1,
+        "page":  5,
+        "topic":  "Subtraction",
+        "objective":  "Subtract within single-digit quantities.",
+        "scope":  "Starting number ≤9."
+    },
+    {
+        "id":  "P1-p05-02",
+        "class":  1,
+        "page":  5,
+        "topic":  "Subtraction",
+        "objective":  "Subtract within quantities through eighteen.",
+        "scope":  "Starting number ≤18."
+    },
+    {
+        "id":  "P1-p05-03",
+        "class":  1,
+        "page":  5,
+        "topic":  "Subtraction",
+        "objective":  "Check subtraction results for accuracy.",
+        "scope":  "Accuracy in subtraction."
+    },
+    {
+        "id":  "P1-p06-01",
+        "class":  1,
+        "page":  6,
+        "topic":  "Missing-number addition",
+        "objective":  "Find a number missing from an addition statement.",
+        "scope":  "Concrete/simple addition statements."
+    },
+    {
+        "id":  "P1-p06-02",
+        "class":  1,
+        "page":  6,
+        "topic":  "Missing-number addition",
+        "objective":  "Check everyday addition calculations for correctness.",
+        "scope":  "Everyday addition."
+    },
+    {
+        "id":  "P1-p06-03",
+        "class":  1,
+        "page":  6,
+        "topic":  "Missing-number subtraction",
+        "objective":  "Find a number missing from a subtraction statement.",
+        "scope":  "Concrete/simple subtraction statements."
+    },
+    {
+        "id":  "P1-p06-04",
+        "class":  1,
+        "page":  6,
+        "topic":  "Missing-number subtraction",
+        "objective":  "Check everyday subtraction calculations for correctness.",
+        "scope":  "Everyday subtraction."
+    },
+    {
+        "id":  "P1-p07-01",
+        "class":  1,
+        "page":  7,
+        "topic":  "Open sentences",
+        "objective":  "Find a missing number in an open number statement.",
+        "scope":  "Simple open sentences."
+    },
+    {
+        "id":  "P1-p07-02",
+        "class":  1,
+        "page":  7,
+        "topic":  "Open sentences",
+        "objective":  "Solve related simple open number statements.",
+        "scope":  "Simple related open sentences."
+    },
+    {
+        "id":  "P1-p08-01",
+        "class":  1,
+        "page":  8,
+        "topic":  "Money",
+        "objective":  "Identify different Nigerian coin denominations.",
+        "scope":  "Historical Nigerian coin denominations."
+    },
+    {
+        "id":  "P1-p08-02",
+        "class":  1,
+        "page":  8,
+        "topic":  "Money",
+        "objective":  "Combine coins to make a given total.",
+        "scope":  "Total ≤25 kobo; historical source limit."
+    },
+    {
+        "id":  "P1-p08-03",
+        "class":  1,
+        "page":  8,
+        "topic":  "Money",
+        "objective":  "Work out change from a small payment.",
+        "scope":  "Payment ≤10 kobo; historical source limit."
+    },
+    {
+        "id":  "P1-p08-04",
+        "class":  1,
+        "page":  8,
+        "topic":  "Money",
+        "objective":  "Make coin tracings on paper.",
+        "scope":  "Brown and white paper specified by source."
+    },
+    {
+        "id":  "P1-p09-01",
+        "class":  1,
+        "page":  9,
+        "topic":  "Length",
+        "objective":  "Develop an understanding of length.",
+        "scope":  "Introductory length concept."
+    },
+    {
+        "id":  "P1-p09-02",
+        "class":  1,
+        "page":  9,
+        "topic":  "Length",
+        "objective":  "Compare the lengths of two or three objects.",
+        "scope":  "Two or three objects."
+    },
+    {
+        "id":  "P1-p09-03",
+        "class":  1,
+        "page":  9,
+        "topic":  "Length",
+        "objective":  "Arrange similar objects by length.",
+        "scope":  "Ordering lengths."
+    },
+    {
+        "id":  "P1-p09-04",
+        "class":  1,
+        "page":  9,
+        "topic":  "Length",
+        "objective":  "Measure length and distance with non-standard natural units.",
+        "scope":  "Hand spans, steps, arm lengths and similar units."
+    },
+    {
+        "id":  "P1-p09-05",
+        "class":  1,
+        "page":  9,
+        "topic":  "Length",
+        "objective":  "Apply length measurement and ordering to familiar surroundings.",
+        "scope":  "Objects and distances in the local environment."
+    },
+    {
+        "id":  "P1-p10-01",
+        "class":  1,
+        "page":  10,
+        "topic":  "Time",
+        "objective":  "Show an understanding of time.",
+        "scope":  "Everyday sequence and parts of the day."
+    },
+    {
+        "id":  "P1-p10-02",
+        "class":  1,
+        "page":  10,
+        "topic":  "Time",
+        "objective":  "Say when familiar activities happen at home and at school.",
+        "scope":  "Daily home/school activities."
+    },
+    {
+        "id":  "P1-p10-03",
+        "class":  1,
+        "page":  10,
+        "topic":  "Weight",
+        "objective":  "Compare familiar objects using light and heavy.",
+        "scope":  "Common school objects; qualitative comparison."
+    },
+    {
+        "id":  "P1-p11-01",
+        "class":  1,
+        "page":  11,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Sort objects into cubes, cuboids, cylinders and spheres.",
+        "scope":  "These four solids."
+    },
+    {
+        "id":  "P1-p11-02",
+        "class":  1,
+        "page":  11,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Recognise and name cubes, cuboids, cylinders and spheres.",
+        "scope":  "These four solids."
+    },
+    {
+        "id":  "P1-p11-03",
+        "class":  1,
+        "page":  11,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Tell a cube from a cuboid.",
+        "scope":  "Cube/cuboid distinction."
+    },
+    {
+        "id":  "P1-p11-04",
+        "class":  1,
+        "page":  11,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Give examples of solids found at home and nearby.",
+        "scope":  "Familiar solid-shaped objects."
+    },
+    {
+        "id":  "P1-p11-05",
+        "class":  1,
+        "page":  11,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Recognise a square, a rectangle and a circle.",
+        "scope":  "These three flat shapes."
+    },
+    {
+        "id":  "P1-p11-06",
+        "class":  1,
+        "page":  11,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Match shapes to the names square, rectangle and circle.",
+        "scope":  "These three flat shapes."
+    },
+    {
+        "id":  "P1-p11-07",
+        "class":  1,
+        "page":  11,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Tell a square from a rectangle.",
+        "scope":  "Square/rectangle distinction."
+    },
+    {
+        "id":  "P1-p11-08",
+        "class":  1,
+        "page":  11,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Give household examples of square, rectangular and circular shapes.",
+        "scope":  "Familiar flat faces and outlines."
+    },
+    {
+        "id":  "P1-p12-01",
+        "class":  1,
+        "page":  12,
+        "topic":  "Data collection",
+        "objective":  "Collect information about pupils\u0027 ages at home and school.",
+        "scope":  "Age data."
+    },
+    {
+        "id":  "P1-p12-02",
+        "class":  1,
+        "page":  12,
+        "topic":  "Data collection",
+        "objective":  "Collect information about pupils\u0027 heights.",
+        "scope":  "Height data."
+    },
+    {
+        "id":  "P2-p13-01",
+        "class":  2,
+        "page":  13,
+        "topic":  "Numbers 1–200",
+        "objective":  "Count correctly through two hundred.",
+        "scope":  "Numbers 1–200."
+    },
+    {
+        "id":  "P2-p13-02",
+        "class":  2,
+        "page":  13,
+        "topic":  "Numbers 1–200",
+        "objective":  "Identify and read numbers through two hundred.",
+        "scope":  "Numbers 1–200."
+    },
+    {
+        "id":  "P2-p13-03",
+        "class":  2,
+        "page":  13,
+        "topic":  "Numbers 1–200",
+        "objective":  "Identify, order and write numbers through two hundred.",
+        "scope":  "Numbers ≤200; place value additionally appears in content/activities."
+    },
+    {
+        "id":  "P2-p13-04",
+        "class":  2,
+        "page":  13,
+        "topic":  "Fractions",
+        "objective":  "Share a collection into two equal parts and four equal parts.",
+        "scope":  "Halves and quarters of concrete collections."
+    },
+    {
+        "id":  "P2-p13-05",
+        "class":  2,
+        "page":  13,
+        "topic":  "Fractions",
+        "objective":  "Obtain three quarters of a concrete object.",
+        "scope":  "Fraction 3/4; content/evaluation also use collections."
+    },
+    {
+        "id":  "P2-p14-01",
+        "class":  2,
+        "page":  14,
+        "topic":  "Addition",
+        "objective":  "Add two-digit numbers without regrouping.",
+        "scope":  "Two-digit addends; no exchanging/renaming."
+    },
+    {
+        "id":  "P2-p14-02",
+        "class":  2,
+        "page":  14,
+        "topic":  "Addition",
+        "objective":  "Add three-digit numbers without regrouping.",
+        "scope":  "Three-digit addends; no exchanging/renaming."
+    },
+    {
+        "id":  "P2-p14-03",
+        "class":  2,
+        "page":  14,
+        "topic":  "Addition",
+        "objective":  "Add two-digit numbers with regrouping.",
+        "scope":  "Two-digit addends; exchanging/renaming."
+    },
+    {
+        "id":  "P2-p14-04",
+        "class":  2,
+        "page":  14,
+        "topic":  "Addition",
+        "objective":  "Add three numbers by combining two at a time.",
+        "scope":  "Three addends."
+    },
+    {
+        "id":  "P2-p15-01",
+        "class":  2,
+        "page":  15,
+        "topic":  "Subtraction",
+        "objective":  "Subtract two-digit numbers without regrouping.",
+        "scope":  "Two-digit subtraction; no exchanging/renaming."
+    },
+    {
+        "id":  "P2-p15-02",
+        "class":  2,
+        "page":  15,
+        "topic":  "Subtraction",
+        "objective":  "Subtract two-digit numbers with regrouping.",
+        "scope":  "Two-digit subtraction; exchanging/renaming."
+    },
+    {
+        "id":  "P2-p15-03",
+        "class":  2,
+        "page":  15,
+        "topic":  "Subtraction",
+        "objective":  "Use addition and subtraction in familiar activities.",
+        "scope":  "Everyday applications of both operations."
+    },
+    {
+        "id":  "P2-p16-01",
+        "class":  2,
+        "page":  16,
+        "topic":  "Multiplication",
+        "objective":  "Multiply by using repeated addition.",
+        "scope":  "Introductory multiplication and its sign."
+    },
+    {
+        "id":  "P2-p16-02",
+        "class":  2,
+        "page":  16,
+        "topic":  "Multiplication",
+        "objective":  "Use accurate multiplication in familiar activities.",
+        "scope":  "Everyday applications; no explicit table limit in this objective."
+    },
+    {
+        "id":  "P2-p17-01",
+        "class":  2,
+        "page":  17,
+        "topic":  "Open sentences",
+        "objective":  "Find a missing number in an open number statement.",
+        "scope":  "Simple open sentences."
+    },
+    {
+        "id":  "P2-p17-02",
+        "class":  2,
+        "page":  17,
+        "topic":  "Open sentences",
+        "objective":  "Solve related simple quantitative reasoning problems.",
+        "scope":  "Source term: quantitative aptitude."
+    },
+    {
+        "id":  "P2-p18-01",
+        "class":  2,
+        "page":  18,
+        "topic":  "Money",
+        "objective":  "Describe uses of money.",
+        "scope":  "Everyday uses."
+    },
+    {
+        "id":  "P2-p18-02",
+        "class":  2,
+        "page":  18,
+        "topic":  "Money",
+        "objective":  "Recognise Nigerian coins and banknotes.",
+        "scope":  "All types referred to by the historical source."
+    },
+    {
+        "id":  "P2-p18-03",
+        "class":  2,
+        "page":  18,
+        "topic":  "Money",
+        "objective":  "Exchange money into smaller units and use it for shopping.",
+        "scope":  "Amounts ≤₦20; historical source limit."
+    },
+    {
+        "id":  "P2-p18-04",
+        "class":  2,
+        "page":  18,
+        "topic":  "Length",
+        "objective":  "Compare one person\u0027s natural length unit with another\u0027s.",
+        "scope":  "Examples include arm length."
+    },
+    {
+        "id":  "P2-p18-05",
+        "class":  2,
+        "page":  18,
+        "topic":  "Length",
+        "objective":  "Recognise that body-based measuring units differ between people.",
+        "scope":  "Arm length and other body measures."
+    },
+    {
+        "id":  "P2-p18-06",
+        "class":  2,
+        "page":  18,
+        "topic":  "Length",
+        "objective":  "Measure with metres and centimetres.",
+        "scope":  "Standard units m and cm."
+    },
+    {
+        "id":  "P2-p18-07",
+        "class":  2,
+        "page":  18,
+        "topic":  "Length",
+        "objective":  "Explain why standardised length measurement is needed.",
+        "scope":  "Need for consistent units."
+    },
+    {
+        "id":  "P2-p19-01",
+        "class":  2,
+        "page":  19,
+        "topic":  "Time",
+        "objective":  "Tell time to the hour and half-hour.",
+        "scope":  "Whole and half hours."
+    },
+    {
+        "id":  "P2-p19-02",
+        "class":  2,
+        "page":  19,
+        "topic":  "Time",
+        "objective":  "Name weekdays and put them in order.",
+        "scope":  "Seven days of the week."
+    },
+    {
+        "id":  "P2-p19-03",
+        "class":  2,
+        "page":  19,
+        "topic":  "Weight",
+        "objective":  "Arrange objects according to their weight.",
+        "scope":  "Relative ordering by weight."
+    },
+    {
+        "id":  "P2-p20-01",
+        "class":  2,
+        "page":  20,
+        "topic":  "Capacity",
+        "objective":  "Identify and name containers suitable for comparing capacity.",
+        "scope":  "Cups, empty containers, buckets and similar objects."
+    },
+    {
+        "id":  "P2-p20-02",
+        "class":  2,
+        "page":  20,
+        "topic":  "Capacity",
+        "objective":  "Arrange containers by capacity.",
+        "scope":  "Relative ordering of capacities."
+    },
+    {
+        "id":  "P2-p20-03",
+        "class":  2,
+        "page":  20,
+        "topic":  "Area",
+        "objective":  "Compare the areas of surfaces.",
+        "scope":  "Introductory comparison of surface coverage."
+    },
+    {
+        "id":  "P2-p20-04",
+        "class":  2,
+        "page":  20,
+        "topic":  "Area",
+        "objective":  "Recognise the use of standard measuring units.",
+        "scope":  "Source objective explicit; surrounding content stresses comparative area."
+    },
+    {
+        "id":  "P2-p21-01",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Identify and count a cube\u0027s and a cuboid\u0027s flat faces.",
+        "scope":  "Cube and cuboid faces."
+    },
+    {
+        "id":  "P2-p21-02",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Identify and count a cube\u0027s and a cuboid\u0027s corners.",
+        "scope":  "Cube and cuboid vertices/corners."
+    },
+    {
+        "id":  "P2-p21-03",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Identify and count a cube\u0027s and a cuboid\u0027s edges.",
+        "scope":  "Cube and cuboid edges."
+    },
+    {
+        "id":  "P2-p21-04",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Find household objects shaped like cubes and cuboids.",
+        "scope":  "Familiar cube/cuboid examples."
+    },
+    {
+        "id":  "P2-p21-05",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Recognise a cylinder\u0027s curved surface.",
+        "scope":  "Cylinder curved surface."
+    },
+    {
+        "id":  "P2-p21-06",
+        "class":  2,
+        "page":  21,
+        "topic":  "Three-dimensional shapes",
+        "objective":  "Give household examples shaped like cylinders and spheres.",
+        "scope":  "Familiar cylinder/sphere examples."
+    },
+    {
+        "id":  "P2-p22-01",
+        "class":  2,
+        "page":  22,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Recognise a square, rectangle, circle and triangle.",
+        "scope":  "These four flat shapes."
+    },
+    {
+        "id":  "P2-p22-02",
+        "class":  2,
+        "page":  22,
+        "topic":  "Two-dimensional shapes",
+        "objective":  "Identify a right-angle corner in a flat shape.",
+        "scope":  "Source describes a square corner."
+    },
+    {
+        "id":  "P2-p23-01",
+        "class":  2,
+        "page":  23,
+        "topic":  "Data collection",
+        "objective":  "Collect information and arrange it in arrays.",
+        "scope":  "Data arrays."
+    },
+    {
+        "id":  "P2-p23-02",
+        "class":  2,
+        "page":  23,
+        "topic":  "Data collection",
+        "objective":  "Collect information and sort it into groups.",
+        "scope":  "Categories; source examples include groups of boys and girls."
+    },
+    {
+        "id":  "P3-p24-01",
+        "class":  3,
+        "page":  24,
+        "topic":  "Numbers through 999",
+        "objective":  "Count numbers correctly through nine hundred and ninety-nine.",
+        "scope":  "Whole numbers ≤999."
+    },
+    {
+        "id":  "P3-p24-02",
+        "class":  3,
+        "page":  24,
+        "topic":  "Numbers through 999",
+        "objective":  "State the value of a digit in a three-digit number.",
+        "scope":  "Hundreds, tens and ones."
+    },
+    {
+        "id":  "P3-p24-03",
+        "class":  3,
+        "page":  24,
+        "topic":  "Numbers through 999",
+        "objective":  "Order whole numbers with comparison symbols.",
+        "scope":  "Symbols \u003c and \u003e; numbers ≤999."
+    },
+    {
+        "id":  "P3-p24-04",
+        "class":  3,
+        "page":  24,
+        "topic":  "Numbers through 999",
+        "objective":  "Describe why counting and ordering numbers are useful.",
+        "scope":  "Practical need for counting/ordering."
+    },
+    {
+        "id":  "P3-p25-01",
+        "class":  3,
+        "page":  25,
+        "topic":  "Fractions",
+        "objective":  "State the fraction represented by part of a collection.",
+        "scope":  "Concrete groups; content includes 1/2, 1/3, 1/4, 1/5 and 1/6."
+    },
+    {
+        "id":  "P3-p25-02",
+        "class":  3,
+        "page":  25,
+        "topic":  "Fractions",
+        "objective":  "Divide shapes into equal fractional parts.",
+        "scope":  "Examples 1/2, 1/3 and 1/4; source adds etc."
+    },
+    {
+        "id":  "P3-p25-03",
+        "class":  3,
+        "page":  25,
+        "topic":  "Fractions",
+        "objective":  "Write fractions equivalent to a given fraction.",
+        "scope":  "Equivalent fractions."
+    },
+    {
+        "id":  "P3-p25-04",
+        "class":  3,
+        "page":  25,
+        "topic":  "Fractions",
+        "objective":  "Order fractions with comparison symbols.",
+        "scope":  "Symbols \u003c and \u003e."
+    },
+    {
+        "id":  "P3-p26-01",
+        "class":  3,
+        "page":  26,
+        "topic":  "Addition",
+        "objective":  "Add two-digit numbers with regrouping.",
+        "scope":  "Two-digit addends; exchanging/renaming."
+    },
+    {
+        "id":  "P3-p26-02",
+        "class":  3,
+        "page":  26,
+        "topic":  "Addition",
+        "objective":  "Add three-digit numbers.",
+        "scope":  "Three-digit addends."
+    },
+    {
+        "id":  "P3-p26-03",
+        "class":  3,
+        "page":  26,
+        "topic":  "Addition",
+        "objective":  "Add three numbers by combining two at a time.",
+        "scope":  "Three addends."
+    },
+    {
+        "id":  "P3-p26-04",
+        "class":  3,
+        "page":  26,
+        "topic":  "Addition",
+        "objective":  "Add fractions that share a denominator.",
+        "scope":  "Like denominators."
+    },
+    {
+        "id":  "P3-p26-05",
+        "class":  3,
+        "page":  26,
+        "topic":  "Addition",
+        "objective":  "Explain why accurate addition of numbers and fractions matters.",
+        "scope":  "Everyday applications."
+    },
+    {
+        "id":  "P3-p27-01",
+        "class":  3,
+        "page":  27,
+        "topic":  "Subtraction",
+        "objective":  "Subtract two-digit numbers with regrouping.",
+        "scope":  "Two-digit subtraction; exchanging/renaming."
+    },
+    {
+        "id":  "P3-p27-02",
+        "class":  3,
+        "page":  27,
+        "topic":  "Subtraction",
+        "objective":  "Subtract three-digit numbers.",
+        "scope":  "Three-digit subtraction."
+    },
+    {
+        "id":  "P3-p27-03",
+        "class":  3,
+        "page":  27,
+        "topic":  "Subtraction",
+        "objective":  "Subtract three numbers in stages, two at a time.",
+        "scope":  "Three-number expressions; preserve operation order."
+    },
+    {
+        "id":  "P3-p27-04",
+        "class":  3,
+        "page":  27,
+        "topic":  "Subtraction",
+        "objective":  "Subtract fractions that share a denominator.",
+        "scope":  "Like denominators."
+    },
+    {
+        "id":  "P3-p27-05",
+        "class":  3,
+        "page":  27,
+        "topic":  "Subtraction",
+        "objective":  "Explain why accurate subtraction of numbers and fractions matters.",
+        "scope":  "Everyday applications."
+    },
+    {
+        "id":  "P3-p28-01",
+        "class":  3,
+        "page":  28,
+        "topic":  "Multiplication",
+        "objective":  "Use multiplication facts through nine times nine.",
+        "scope":  "Facts from 1×1 to 9×9."
+    },
+    {
+        "id":  "P3-p28-02",
+        "class":  3,
+        "page":  28,
+        "topic":  "Multiplication",
+        "objective":  "Multiply a two-digit number by a one-digit number.",
+        "scope":  "Two digits × one digit."
+    },
+    {
+        "id":  "P3-p28-03",
+        "class":  3,
+        "page":  28,
+        "topic":  "Multiplication",
+        "objective":  "Multiply three one-digit numbers in stages.",
+        "scope":  "Three one-digit factors; two at a time."
+    },
+    {
+        "id":  "P3-p28-04",
+        "class":  3,
+        "page":  28,
+        "topic":  "Multiplication",
+        "objective":  "Use accurate multiplication in familiar activities.",
+        "scope":  "Everyday applications."
+    },
+    {
+        "id":  "P3-p29-01",
+        "class":  3,
+        "page":  29,
+        "topic":  "Division",
+        "objective":  "Divide whole numbers exactly by two, three, four, five and six.",
+        "scope":  "Dividend ≤48; no remainder."
+    },
+    {
+        "id":  "P3-p29-02",
+        "class":  3,
+        "page":  29,
+        "topic":  "Division",
+        "objective":  "Express a whole number as a product of factors.",
+        "scope":  "Whole number ≤48."
+    },
+    {
+        "id":  "P3-p29-03",
+        "class":  3,
+        "page":  29,
+        "topic":  "Division",
+        "objective":  "Find an unknown factor in a multiplication statement.",
+        "scope":  "Missing-factor problems."
+    },
+    {
+        "id":  "P3-p29-04",
+        "class":  3,
+        "page":  29,
+        "topic":  "Division",
+        "objective":  "Tell factors from multiples.",
+        "scope":  "Factors/multiples distinction."
+    },
+    {
+        "id":  "P3-p29-05",
+        "class":  3,
+        "page":  29,
+        "topic":  "Division",
+        "objective":  "Use accurate division in familiar activities.",
+        "scope":  "Everyday applications."
+    },
+    {
+        "id":  "P3-p30-01",
+        "class":  3,
+        "page":  30,
+        "topic":  "Open sentences",
+        "objective":  "Find an unknown number in an open number statement.",
+        "scope":  "Open sentences."
+    },
+    {
+        "id":  "P3-p30-02",
+        "class":  3,
+        "page":  30,
+        "topic":  "Open sentences",
+        "objective":  "Recognise the relationship between addition and subtraction.",
+        "scope":  "Inverse relationship of these operations."
+    },
+    {
+        "id":  "P3-p30-03",
+        "class":  3,
+        "page":  30,
+        "topic":  "Open sentences",
+        "objective":  "Solve related quantitative reasoning problems.",
+        "scope":  "Source term: quantitative aptitude."
+    },
+    {
+        "id":  "P3-p31-01",
+        "class":  3,
+        "page":  31,
+        "topic":  "Money",
+        "objective":  "Exchange money into smaller denominations.",
+        "scope":  "Amount ≤₦20; historical source limit."
+    },
+    {
+        "id":  "P3-p31-02",
+        "class":  3,
+        "page":  31,
+        "topic":  "Money",
+        "objective":  "Shop using addition and subtraction of money.",
+        "scope":  "Amounts ≤₦20; historical source limit."
+    },
+    {
+        "id":  "P3-p31-03",
+        "class":  3,
+        "page":  31,
+        "topic":  "Money",
+        "objective":  "Solve simple multiplication involving money.",
+        "scope":  "Product ≤₦20; historical source limit."
+    },
+    {
+        "id":  "P3-p32-01",
+        "class":  3,
+        "page":  32,
+        "topic":  "Length",
+        "objective":  "Measure the length or width of familiar spaces and objects.",
+        "scope":  "Rooms, tables, buildings and straight-edged materials."
+    },
+    {
+        "id":  "P3-p32-02",
+        "class":  3,
+        "page":  32,
+        "topic":  "Length",
+        "objective":  "Describe benefits of standard length units.",
+        "scope":  "Standard measurement units."
+    },
+    {
+        "id":  "P3-p32-03",
+        "class":  3,
+        "page":  32,
+        "topic":  "Length",
+        "objective":  "Find a regular shape\u0027s perimeter by measurement.",
+        "scope":  "Metres and centimetres."
+    },
+    {
+        "id":  "P3-p32-04",
+        "class":  3,
+        "page":  32,
+        "topic":  "Length",
+        "objective":  "Recognise perimeters of regular shapes nearby.",
+        "scope":  "Familiar environmental examples."
+    },
+    {
+        "id":  "P3-p33-01",
+        "class":  3,
+        "page":  33,
+        "topic":  "Length II",
+        "objective":  "Compare body-based non-standard measures.",
+        "scope":  "Example: arm length."
+    },
+    {
+        "id":  "P3-p33-02",
+        "class":  3,
+        "page":  33,
+        "topic":  "Length II",
+        "objective":  "Identify variation in non-standard length measures.",
+        "scope":  "Differences between people\u0027s measures."
+    },
+    {
+        "id":  "P3-p33-03",
+        "class":  3,
+        "page":  33,
+        "topic":  "Length II",
+        "objective":  "Measure with metres and centimetres.",
+        "scope":  "Standard units m and cm."
+    },
+    {
+        "id":  "P3-p33-04",
+        "class":  3,
+        "page":  33,
+        "topic":  "Length II",
+        "objective":  "Explain why standard length units are needed.",
+        "scope":  "Need for consistent measurement."
+    },
+    {
+        "id":  "P3-p33-05",
+        "class":  3,
+        "page":  33,
+        "topic":  "Time",
+        "objective":  "Tell time accurately in hours and minutes.",
+        "scope":  "Clock reading."
+    },
+    {
+        "id":  "P3-p33-06",
+        "class":  3,
+        "page":  33,
+        "topic":  "Time",
+        "objective":  "Give a date using its day and month.",
+        "scope":  "Calendar dates; content additionally mentions years."
+    },
+    {
+        "id":  "P3-p33-07",
+        "class":  3,
+        "page":  33,
+        "topic":  "Time",
+        "objective":  "Describe the importance of time in everyday activities.",
+        "scope":  "Everyday time use."
+    },
+    {
+        "id":  "P3-p34-01",
+        "class":  3,
+        "page":  34,
+        "topic":  "Weight",
+        "objective":  "Measure objects in grams and kilograms.",
+        "scope":  "Standard units g and kg."
+    },
+    {
+        "id":  "P3-p34-02",
+        "class":  3,
+        "page":  34,
+        "topic":  "Weight",
+        "objective":  "Compare object weights meaningfully.",
+        "scope":  "Source examples include rocks and minerals."
+    },
+    {
+        "id":  "P3-p34-03",
+        "class":  3,
+        "page":  34,
+        "topic":  "Weight",
+        "objective":  "Explain why grams and kilograms are useful in transactions.",
+        "scope":  "Standard units in buying/selling and other transactions."
+    },
+    {
+        "id":  "P3-p35-01",
+        "class":  3,
+        "page":  35,
+        "topic":  "Capacity",
+        "objective":  "Recognise the litre as a capacity unit.",
+        "scope":  "Unit litre."
+    },
+    {
+        "id":  "P3-p35-02",
+        "class":  3,
+        "page":  35,
+        "topic":  "Capacity",
+        "objective":  "Measure a stated quantity of liquid with graduated apparatus.",
+        "scope":  "Source specifies a graduated cylinder and a stated number of litres."
+    },
+    {
+        "id":  "P3-p35-03",
+        "class":  3,
+        "page":  35,
+        "topic":  "Capacity",
+        "objective":  "Explain why accurate liquid measurement matters.",
+        "scope":  "Water, kerosene and petrol are source examples; pupil activities should use safe liquids."
+    },
+    {
+        "id":  "P3-p36-01",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Recognise shapes with one or more symmetry lines.",
+        "scope":  "Line symmetry."
+    },
+    {
+        "id":  "P3-p36-02",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Find examples of symmetry lines in everyday objects.",
+        "scope":  "Everyday line-symmetry examples."
+    },
+    {
+        "id":  "P3-p36-03",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Describe properties of squares, rectangles and triangles.",
+        "scope":  "These three polygons."
+    },
+    {
+        "id":  "P3-p36-04",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Recognise familiar objects with square, rectangular, triangular and circular outlines.",
+        "scope":  "Connect flat shapes with everyday surroundings."
+    },
+    {
+        "id":  "P3-p36-05",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Tell a straight line from a curve.",
+        "scope":  "Straight/curved distinction."
+    },
+    {
+        "id":  "P3-p36-06",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Find straight lines and curves in familiar situations.",
+        "scope":  "Everyday straight/curved examples."
+    },
+    {
+        "id":  "P3-p36-07",
+        "class":  3,
+        "page":  36,
+        "topic":  "Symmetry",
+        "objective":  "Draw squares, rectangles, triangles and circles.",
+        "scope":  "These four flat shapes."
+    },
+    {
+        "id":  "P3-p37-01",
+        "class":  3,
+        "page":  37,
+        "topic":  "Pictograms",
+        "objective":  "Read and show information using vertical and horizontal pictograms.",
+        "scope":  "Both orientations."
+    },
+    {
+        "id":  "P3-p37-02",
+        "class":  3,
+        "page":  37,
+        "topic":  "Pictograms",
+        "objective":  "Represent information with a pictogram.",
+        "scope":  "Separate source objective retained despite overlap with preceding objective."
+    },
+    {
+        "id":  "P3-p37-03",
+        "class":  3,
+        "page":  37,
+        "topic":  "Pictograms",
+        "objective":  "Identify the most frequent category in a pictogram.",
+        "scope":  "Mode/modal category."
+    },
+    {
+        "id":  "P3-p37-04",
+        "class":  3,
+        "page":  37,
+        "topic":  "Pictograms",
+        "objective":  "Describe how pictograms are useful.",
+        "scope":  "Source appends an ambiguous parenthetical reference to mode."
+    }
+]

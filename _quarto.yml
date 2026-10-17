@@ -1,0 +1,12 @@
+project:
+  type: default
+format:
+  typst:
+    papersize: a4
+    mainfont: DejaVu Sans
+    font-paths: [fonts]
+    keep-typ: true
+    toc: false
+    include-in-header: production/layout.typ
+execute:
+  enabled: false

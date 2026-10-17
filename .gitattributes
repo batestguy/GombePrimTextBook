@@ -1,0 +1,6 @@
+# Preserve exact source and delivery bytes, including the original brief.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.ttf binary
