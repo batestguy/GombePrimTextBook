@@ -1,0 +1,35 @@
+{
+  "introduction_asset": "artwork/redesign/references/lead-introductions-v7.png",
+  "characters": {
+    "aishatu": {
+      "intro_title": "The box-toy builder",
+      "pupil_intro_short": ["I'm Aishatu from Gombe. My cousins and I make toy shops from old boxes.", "I like building things and trying new ideas.", "I don't like long waits. Let's make something!"],
+      "likes": ["Building cardboard toys", "Trying new ideas"],
+      "dislikes": ["Long waits before trying an idea"],
+      "interaction_rule": "Shows excitement about her toy shop; the teacher helps her pause and count before starting."
+    },
+    "adamu": {
+      "intro_title": "The game storyteller",
+      "pupil_intro_short": ["I'm Adamu. My family is from Dukku. My cousins turn my funny stories into games.", "I like stories and fair turns.", "I don't like anyone being left out. Come and play!"],
+      "likes": ["Funny stories", "Games where everyone gets a turn"],
+      "dislikes": ["Anyone being left out of a game"],
+      "interaction_rule": "Asks for fair turns and another try; learns that excitement in a story still needs a checked count."
+    },
+    "grace": {
+      "intro_title": "The notebook explorer",
+      "pupil_intro_short": ["I'm Grace. My family is from Billiri. Grandfather and I keep a discovery notebook.", "I like neat drawings and tiny details.", "I don't like smudges. But I can try again!"],
+      "likes": ["Neat notebook drawings", "Noticing tiny details"],
+      "dislikes": ["Smudges on her notebook page"],
+      "visual": "Medium-dark brown skin; heart-shaped face; neat all-back cornrow plaits close to the scalp, running from forehead to nape with compact tucked ends; no loose twists or side braids. Clay top, green knee-length skirt and notebook. Updated at user request in v7.",
+      "interaction_rule": "Wants a neat cup record; accepts a smudge, recounts and corrects her first attempt."
+    },
+    "john": {
+      "intro_title": "The puzzle-map maker",
+      "pupil_intro_short": ["I'm John. My family is from Yamaltu/Deba. I make puzzle maps for my cousins.", "I use a wheelchair. I like drawing secret paths.", "I don't like answers before I've had a try!"],
+      "likes": ["Drawing secret paths", "Solving a puzzle for himself"],
+      "dislikes": ["Being told the answer before he has tried"],
+      "visual": "Dark-brown skin; square face; completely clean skin-cut shaved scalp with no visible hair, curls or stubble. Green shirt and ochre trousers. Consistent blue manual wheelchair with rear wheels, push rims, casters and foot support. Updated at user request in v7.",
+      "interaction_rule": "Requests thinking time before hints; connects cup counts to his puzzle book and explains his own method."
+    }
+  }
+}

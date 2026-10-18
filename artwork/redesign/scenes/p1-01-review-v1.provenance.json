@@ -1,0 +1,13 @@
+{
+  "asset": "artwork/redesign/scenes/p1-01-review-v1.png",
+  "id": "scene-p1-01-review-v1",
+  "status": "provisional-single-chapter-review",
+  "generated_on": "2026-10-18",
+  "tool": "built-in image_gen",
+  "reference": "artwork/redesign/references/lead-reference-proposal-v1.png",
+  "prompt": "Use case: illustration-story. Create one provisional story scene for a Primary 1 mathematics chapter 'One to five', a fictional learning club in Gombe, Nigeria. Use the supplied image only as character/style reference; do not reproduce its sheet layout or lettering. Warm expressive gouache children's picture-book illustration, cream paper texture, leaf green, savannah ochre, clay and river blue palette. Wide landscape composition. Four Black Nigerian children around 6-7 at a shaded outdoor school activity table, simple school walls and leafy tree behind. Aishatu with two hair puffs, ochre top, green trousers enthusiastically sliding one large round play counter toward a plain mat. Adamu close-cropped hair, blue shirt, clay shorts looking thoughtfully at her activity. Grace short twists, clay top, green skirt watching and holding a blank notebook. John short curls, green top, ochre trousers in a plausible blue manual wheelchair with push rims, rear wheels, front casters, supported feet; actively pointing toward the mat from a clear accessible approach, arms comfortably reaching table height. Equal friendly participation, natural hands and faces, no rescue scene. Table surface mostly clear; any loose counters are decorative, not a mathematical diagram. No visible numerals, letters, speech bubbles, logos, text, exact counting arrangements or flags. Keep heads, hands and wheelchair inside the frame. Warm lively atmosphere, generous uncluttered composition. This is a single-chapter review experiment; character approval remains pending.",
+  "authorization": "User requested: Lets do one chapter let me asses. Single-chapter experiment only; previous reference approval and full-prototype gates remain pending.",
+  "inspection": "Four leads visually match proposed faces, clothing and gouache style. John participates actively in a manual wheelchair. Decorative counters are not assessed. Wheelchair specialist/local educator review pending.",
+  "quantities": "All assessed dots generated deterministically by scripts/build_chapter_sample.py.",
+  "approval": "pending"
+}

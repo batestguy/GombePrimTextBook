@@ -1,0 +1,2146 @@
+{
+  "schema_version": 1,
+  "status": "proposed_for_prototype_review",
+  "editorial_audit": "Pending: integrate agreed personalities and recurring family guests throughout all 63 narratives; reconcile scene_roles with enacted actions; check each setting for sufficient local specificity without unsupported cultural claims. Mathematical objective strings and structural counts are validated; prose and role counts alone do not establish editorial acceptance.",
+  "generation_gate": "Review the character reference and representative prototype first. Remaining scene generation is pending explicit prototype review; no approval is asserted here.",
+  "pacing": "Term groups follow existing editorial lesson ranges, not an official scheme or a current NERDC alignment claim.",
+  "arcs": [
+    {
+      "id": "p1-t1",
+      "grade": 1,
+      "term": 1,
+      "title": "Welcome to our learning club",
+      "goal": "Build a shared counting and sorting kit.",
+      "motivation": "Everyone wants a useful job in the new club.",
+      "problem": "Mixed, empty and unlabelled materials are hard to share.",
+      "opening_text": "Aishatu, Adamu, Grace and John start a learning club. How can they organise a kit everyone can use?",
+      "activity": "Make, label and fairly share the club kit.",
+      "scene_id": "scene-p1-t1-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p1-t2",
+      "grade": 1,
+      "term": 2,
+      "title": "The paper-toy workshop",
+      "goal": "Make and run a pretend paper-toy stall.",
+      "motivation": "The friends want something they have made together to share.",
+      "problem": "Parts arrive in separate packets and the stall needs fair calculations.",
+      "opening_text": "The club's kit is ready. Now the friends want a paper-toy workshop. What must they count and check?",
+      "activity": "Assemble paper toys and check practice payments.",
+      "scene_id": "scene-p1-t2-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p1-t3",
+      "grade": 1,
+      "term": 3,
+      "title": "Our neighbourhood discovery album",
+      "goal": "Create an album of family messages and class discoveries.",
+      "motivation": "The friends want to learn about one another's everyday places.",
+      "problem": "Mixed pictures, materials and records need comparing and organising.",
+      "opening_text": "Family visits and messages bring new pictures. The club will make a discovery album. What will make each page clear?",
+      "activity": "Bind, sequence and share an album with a measured class record.",
+      "scene_id": "scene-p1-t3-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p2-t1",
+      "grade": 2,
+      "term": 1,
+      "title": "Building a seed library",
+      "goal": "Organise a fictional seed-envelope lending record.",
+      "motivation": "The friends want to save and share materials for future growing.",
+      "problem": "Envelope numbers, fair shares and changing stock need accurate records.",
+      "opening_text": "Grace brings a seed-envelope idea to the club. How can the friends organise a library that keeps a clear record?",
+      "activity": "Number envelopes and model loans using safe practice counters.",
+      "scene_id": "scene-p2-t1-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p2-t2",
+      "grade": 2,
+      "term": 2,
+      "title": "Friends-and-family activity day",
+      "goal": "Plan a welcoming activity day.",
+      "motivation": "The friends want relatives and friends to try their games.",
+      "problem": "Teams, pretend purchases and timings must be fair and clear.",
+      "opening_text": "The seed library has given the club a new idea: an activity day. What will help every visitor join in?",
+      "activity": "Prepare equal kits, a pretend shop and a weekday job plan.",
+      "scene_id": "scene-p2-t2-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p2-t3",
+      "grade": 2,
+      "term": 3,
+      "title": "Designing our reading corner",
+      "goal": "Design a useful and reachable reading corner.",
+      "motivation": "The club wants a comfortable place to share books and its album.",
+      "problem": "Storage, mats, plant care and class choices must fit the space.",
+      "opening_text": "After activity day, the club wants a reading corner. How can the friends measure, sort and ask what their class needs?",
+      "activity": "Compare materials and organise anonymous reading choices.",
+      "scene_id": "scene-p2-t3-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p3-t1",
+      "grade": 3,
+      "term": 1,
+      "title": "Community game-makers",
+      "goal": "Design, test and revise reusable maths games.",
+      "motivation": "The friends want to make games other children can enjoy.",
+      "problem": "Records and fraction paths must stay fair when games change.",
+      "opening_text": "The club has an album and a reading corner. Now it wants to make games to share. How will the friends test their ideas?",
+      "activity": "Make board mock-ups and check quantity and fraction records.",
+      "scene_id": "scene-p3-t1-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p3-t2",
+      "grade": 3,
+      "term": 2,
+      "title": "Our school garden project",
+      "goal": "Plan a model school garden and its supply records.",
+      "motivation": "The friends want to use their seed-library experience in a growing project.",
+      "problem": "Equal groups, unknown quantities and bed measurements need checking.",
+      "opening_text": "A family message gives the club a garden idea. How can maths help the friends plan before they plant?",
+      "activity": "Model equal rows, supplies, dimensions and borders without making crop-yield claims.",
+      "scene_id": "scene-p3-t2-opener",
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "id": "p3-t3",
+      "grade": 3,
+      "term": 3,
+      "title": "The Gombe story-and-data exhibition",
+      "goal": "Share the club's work through a welcoming exhibition.",
+      "motivation": "The friends want visitors to see their work and contribute opinions.",
+      "problem": "Times, dates, units, displays and graph keys must communicate accurately.",
+      "opening_text": "The club is ready to share its games, garden plans and stories. How can it make an exhibition visitors can understand?",
+      "activity": "Plan displays and graph anonymous feedback with an explicit key.",
+      "scene_id": "scene-p3-t3-opener",
+      "status": "proposed_for_prototype_review"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_id": "P1-01",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-01",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p1-01",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the club's shaded school table",
+      "practical_problem": "Give each new member a counter without counting anyone twice.",
+      "mathematical_objective": "Count, read, write and order 1 to 5.",
+      "narrative": "Aishatu welcomes her friends to the learning club. The counters slide about as she counts. How can the club give each counter one touch?",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu moves a large counter to a clear counting mat while the others watch. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-02",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-02",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p1-02",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's family activity table, shown in a photograph",
+      "practical_problem": "Sort the mixed materials before sending a club starter parcel.",
+      "mathematical_objective": "Sort collections and compare small sets.",
+      "narrative": "Adamu opens a photograph from his aunt in Dukku. Leaves and large bottle tops have become mixed. He wants to send the club tidy sets: which sorting rule could he use?",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu studies a printed family photograph and sorts safe materials on the club table. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-03",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-03",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "billiri-family-scene-p1-03",
+      "lga": "Billiri",
+      "fact_ids": [
+        "geo-billiri"
+      ],
+      "setting": "Grace's grandmother's storage shelf during a family visit",
+      "practical_problem": "Label an empty tray so it is not mistaken for a missing count.",
+      "mathematical_objective": "Recognise, read and write 0.",
+      "narrative": "Grace checks the club trays during a visit to her grandmother in Billiri. One tray is empty. She asks John how to record that there are none.",
+      "local_fact": "Billiri is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace holds an empty tray beside the album; John points to the label area. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-04",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-04",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "yamaltu-deba-family-scene-p1-04",
+      "lga": "Yamaltu-Deba",
+      "fact_ids": [
+        "geo-yamaltu-deba"
+      ],
+      "setting": "John's cousin's home workspace in a family picture message",
+      "practical_problem": "Finish number labels for a shared club kit.",
+      "mathematical_objective": "Count, read, write and order numbers to 9.",
+      "narrative": "John's cousin sends a picture of the club kit from Yamaltu-Deba. Some labels are missing. John wants to put the numbers from six to nine in order before the kit travels.",
+      "local_fact": "Yamaltu-Deba is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John arranges blank label cards at an accessible work surface beside a printed message. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-05",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-05",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p1-05",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a family friend's paper-label table during a visit",
+      "practical_problem": "Bundle loose labels so the total is easier to check.",
+      "mathematical_objective": "Make tens and ones, extending to 20.",
+      "narrative": "The friends visit a family friend in Akko to pack their labels. Aishatu keeps losing her place among the loose pieces. Could a bundle of ten help?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu uses a paper band around a bundle; friends leave clear hand space. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-06",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-06",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p1-06",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a cousin's parcel-packing corner, shown in an album",
+      "practical_problem": "Find the correct numbered pocket for each club message.",
+      "mathematical_objective": "Recognise, read and write numbers to 99.",
+      "narrative": "Adamu's cousin in Kwami has made pockets for the club's messages. Adamu checks the tens and ones on each label. How can he put the pockets in number order?",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu compares label spaces on a photographed pocket board; numerals are added later. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-07",
+      "grade": 1,
+      "arc_id": "p1-t1",
+      "scene_id": "scene-p1-07",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p1-07",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a family visit's craft table",
+      "practical_problem": "Share a paper sheet fairly for the workshop invitation.",
+      "mathematical_objective": "Recognise halves and quarters of objects and shapes.",
+      "narrative": "Grace brings the club's paper to a family craft table in Funakaye. A folded piece looks unequal. Grace asks her friends to check the halves and quarters before they make invitations.",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace compares folded plain paper with a friend; no fraction answer is encoded in artwork. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-08",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-08",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p1-08",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a cousin's paper-toy workshop, described in a letter",
+      "practical_problem": "Combine toy parts from separate trays without losing a group.",
+      "mathematical_objective": "Add two or three small sets.",
+      "narrative": "John reads a letter from his cousin in Nafada about a paper-toy workshop. The parts wait in separate trays. How can the club find how many parts there are altogether?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John gathers craft trays around the same accessible table; the letter establishes the family link. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-09",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-09",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p1-09",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's toy-testing mat during a visit",
+      "practical_problem": "Update the toy-part total when another small packet arrives.",
+      "mathematical_objective": "Add two or three numbers with totals to 18.",
+      "narrative": "Aishatu tests a paper toy with a family friend in Shongom. Another packet of parts arrives. She tries counting everything again; could counting on save work?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu pauses with a new packet while Adamu indicates the existing tray. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-10",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-10",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kaltungo-family-scene-p1-10",
+      "lga": "Kaltungo",
+      "fact_ids": [
+        "geo-kaltungo"
+      ],
+      "setting": "Grace's uncle's family craft bench",
+      "practical_problem": "Combine the toy labels while keeping tens and ones separate.",
+      "mathematical_objective": "Add two-digit numbers without regrouping, to 40.",
+      "narrative": "Adamu helps at Grace's uncle's craft bench in Kaltungo. The toy labels are in tens and loose ones. He asks Grace to check that his columns stay in the right places.",
+      "local_fact": "Kaltungo is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu and Grace align craft-label bundles on a plain work mat. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-11",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-11",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p1-11",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a cousin's repair-and-reuse table in a family album",
+      "practical_problem": "Record how many usable toy parts remain after damaged ones are removed.",
+      "mathematical_objective": "Subtract within 9 and within 18.",
+      "narrative": "Grace opens a cousin's album from Balanga. Some toy parts cannot be used. She explains that taking those away will show what is left for the club.",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace sets a damaged plain paper piece aside while friends discuss the remaining tray. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-12",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-12",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p1-12",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's workshop parcel station",
+      "practical_problem": "Find the missing number of parts before sealing a parcel.",
+      "mathematical_objective": "Find unknown numbers and check everyday calculations.",
+      "narrative": "John checks a workshop parcel prepared by Adamu's aunt in Dukku. The total is known, but one packet's label has rubbed away. What part is missing?",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John compares a parcel note and an unlabelled packet while Adamu checks alongside him. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-13",
+      "grade": 1,
+      "arc_id": "p1-t2",
+      "scene_id": "scene-p1-13",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p1-13",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the club's pretend paper-toy stall",
+      "practical_problem": "Check a pretend payment and the change for a finished toy.",
+      "mathematical_objective": "Identify coin values and calculate with pretend kobo.",
+      "narrative": "The club opens its pretend toy stall in Gombe. Aishatu offers practice kobo tokens and waits for change. How can the friends check the exchange fairly?",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu serves at a low pretend stall; blank practice tokens are rendered separately as exact diagrams. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-14",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-14",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p1-14",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a cousin's album-making table during a visit",
+      "practical_problem": "Choose a ribbon long enough to bind the discovery album.",
+      "mathematical_objective": "Compare and order lengths and measure with body units.",
+      "narrative": "Adamu takes the club's pages to his cousin in Akko. A short ribbon cannot bind them. Which ribbon is longer, and how can they compare fairly?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu lays ribbons against the same starting edge beside the growing album. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-15",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-15",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p1-15",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a family kitchen-table album session",
+      "practical_problem": "Put a family visit's events in the right order.",
+      "mathematical_objective": "Sequence everyday activities and use time words.",
+      "narrative": "Grace receives picture cards from a family visit in Kwami. The cards are jumbled. She asks the club to arrange what happened before and after lunch.",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace and John sequence unnumbered picture-card spaces on the album table. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-16",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-16",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p1-16",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a family friend's parcel table",
+      "practical_problem": "Choose how to compare the weight of album parcels.",
+      "mathematical_objective": "Compare familiar objects by weight.",
+      "narrative": "John helps a family friend pack album parcels in Funakaye. The larger parcel may not be heavier. What could the friends do to check?",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John compares parcels at a reachable table while a friend steadies a simple balance. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-17",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-17",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p1-17",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a cousin's household-object photo album",
+      "practical_problem": "Sort the photographed objects by solid shape.",
+      "mathematical_objective": "Name and sort cubes, cuboids, cylinders and spheres.",
+      "narrative": "Aishatu opens photographs from her cousin in Nafada for the discovery album. She spots boxes, tins and a ball. Which solid shapes could help the club sort the pictures?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu matches generic household-object picture cards to open album spaces. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-18",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-18",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p1-18",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's album-cover workspace",
+      "practical_problem": "Choose flat shapes for a repeating cover design.",
+      "mathematical_objective": "Match and name circles, squares and rectangles.",
+      "narrative": "Adamu and a family friend in Shongom design the club album cover. His pattern suddenly changes. Can Grace help him name the flat shapes and continue the rule?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu points to an unfinished decorative cover; mathematical shape strips are reserved for exact drawing. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P1-19",
+      "grade": 1,
+      "arc_id": "p1-t3",
+      "scene_id": "scene-p1-19",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kaltungo-family-scene-p1-19",
+      "lga": "Kaltungo",
+      "fact_ids": [
+        "geo-kaltungo"
+      ],
+      "setting": "a family gathering's album-sharing corner",
+      "practical_problem": "Collect a class record without guessing ages or heights from appearance.",
+      "mathematical_objective": "Collect and record ages and heights.",
+      "narrative": "Grace shares the finished discovery album with family in Kaltungo. The club wants to add a page about its class. What should they ask and measure instead of guessing?",
+      "local_fact": "Kaltungo is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace holds the closed album while John shows a blank record sheet at the gathering. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-01",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-01",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "billiri-family-scene-p2-01",
+      "lga": "Billiri",
+      "fact_ids": [
+        "geo-billiri"
+      ],
+      "setting": "Grace's grandmother's seed-envelope table",
+      "practical_problem": "Number the seed-library envelopes so none is lost.",
+      "mathematical_objective": "Count, read, write and order numbers to 200.",
+      "narrative": "Grace starts a seed library after a visit to her grandmother in Billiri. The envelopes need numbers up to two hundred. How can the friends arrange them so a missing number is easy to notice?",
+      "local_fact": "Billiri is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace places plain envelopes into a reachable sorting tray with her club notebook. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-02",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-02",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p2-02",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a family friend's seed-sharing table during a visit",
+      "practical_problem": "Make equal trial shares from a set of practice counters.",
+      "mathematical_objective": "Find one half, one quarter and three quarters.",
+      "narrative": "John visits a family friend in Balanga with the seed-library plan. He uses large practice counters to try fair shares before anyone handles real seeds. How can he show a half or a quarter of a set?",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John slides large counters on a work mat; real seeds remain in sealed labelled storage. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-03",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-03",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p2-03",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's envelope-packing corner",
+      "practical_problem": "Combine seed-envelope records without mixing place values.",
+      "mathematical_objective": "Add two- and three-digit numbers without regrouping.",
+      "narrative": "Aishatu reads Adamu's aunt's seed-envelope note from Dukku. The club has another record to add. She asks Adamu to check the hundreds, tens and ones together.",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu and Adamu compare plain record cards beside envelope trays. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-04",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-04",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "yamaltu-deba-family-scene-p2-04",
+      "lga": "Yamaltu-Deba",
+      "fact_ids": [
+        "geo-yamaltu-deba"
+      ],
+      "setting": "John's cousin's seed-card desk, shown in a message",
+      "practical_problem": "Exchange loose ones for a ten when the library total grows.",
+      "mathematical_objective": "Add two-digit numbers with regrouping.",
+      "narrative": "Adamu opens a seed-card message from John's cousin in Yamaltu-Deba. Adding the new cards makes enough ones for a new ten. Can he regroup them without changing the total?",
+      "local_fact": "Yamaltu-Deba is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu bands plain cards while John follows the cousin's printed message. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-05",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-05",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p2-05",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a cousin's family seed-library meeting",
+      "practical_problem": "Combine records from three contributors and check the result.",
+      "mathematical_objective": "Add three numbers in stages and check.",
+      "narrative": "Grace visits a cousin in Akko with the library notebook. Three families have offered envelopes. In what order could she add their recorded amounts and check the total?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace compares contributor-note spaces around the notebook; figures will be typeset separately. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-06",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-06",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p2-06",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a family friend's seed-loan ledger corner",
+      "practical_problem": "Find the envelopes remaining after a recorded loan.",
+      "mathematical_objective": "Subtract two-digit numbers without regrouping.",
+      "narrative": "John reads a seed-loan note from a family friend in Kwami. Some envelopes have gone out, but the library still needs an accurate record. How can he subtract tens and ones?",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John records a loan in a blank ledger beside a clearly fictional seed-library box. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-07",
+      "grade": 2,
+      "arc_id": "p2-t1",
+      "scene_id": "scene-p2-07",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p2-07",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a cousin's return-parcel table during a visit",
+      "practical_problem": "Exchange a ten to complete a subtraction in the stock record.",
+      "mathematical_objective": "Subtract two-digit numbers with regrouping.",
+      "narrative": "Aishatu checks the library parcel with a cousin in Funakaye. There are not enough loose ones to subtract the loan. What can she exchange while keeping the amount the same?",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu opens a banded practice bundle while friends compare ledger spaces. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-08",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-08",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p2-08",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a family courtyard's activity-day planning table",
+      "practical_problem": "Pack activity materials into equal groups.",
+      "mathematical_objective": "Use repeated addition and multiplication notation.",
+      "narrative": "Adamu's cousin in Nafada sends an activity-day idea. Each team needs the same kit. Adamu wants equal groups rather than a loose heap: how could multiplication help?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu sets out kit containers beside the seed-library notebook, now used for event planning. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-09",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-09",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p2-09",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's invitation-writing corner",
+      "practical_problem": "Recover a missing number in an activity-day puzzle.",
+      "mathematical_objective": "Find unknowns and explain simple number relationships.",
+      "narrative": "Grace reads an invitation from a family friend in Shongom. A number in the game puzzle is smudged. Can she explain what must go in its place?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace studies a deliberately blank puzzle card while Aishatu offers a checking method. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-10",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-10",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kaltungo-family-scene-p2-10",
+      "lga": "Kaltungo",
+      "fact_ids": [
+        "geo-kaltungo"
+      ],
+      "setting": "Grace's uncle's pretend token exchange table",
+      "practical_problem": "Offer different practice-token combinations of equal value.",
+      "mathematical_objective": "Name money uses and exchange equal values.",
+      "narrative": "John helps Grace's uncle prepare an activity-day token table in Kaltungo. The tokens have different values. How could two different handfuls stand for the same amount?",
+      "local_fact": "Kaltungo is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John compares blank practice-token trays; every printed value is added outside the decorative scene. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-11",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-11",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p2-11",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the club's family activity-day pretend stall",
+      "practical_problem": "Buy supplies and check change within the taught money range.",
+      "mathematical_objective": "Buy and give change within ₦20.",
+      "narrative": "Aishatu runs the club's pretend supply stall in Gombe. A friend pays for a paper badge. Aishatu asks the buyer to check the change with her.",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu and a friend exchange a plain paper badge across a reachable stall. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-12",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-12",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p2-12",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a cousin's activity-banner workspace",
+      "practical_problem": "Resolve different body-unit measurements of the same banner.",
+      "mathematical_objective": "Compare body units and recognise metres and centimetres.",
+      "narrative": "Adamu visits a cousin in Balanga to prepare the activity banner. Their hand-span measurements disagree. What shared standard could help them compare the length?",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu and Grace discuss a plain banner beside a metre rule, with markings drawn separately. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-13",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-13",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "billiri-family-scene-p2-13",
+      "lga": "Billiri",
+      "fact_ids": [
+        "geo-billiri"
+      ],
+      "setting": "Grace's grandmother's activity-day noticeboard",
+      "practical_problem": "Choose a clear whole-hour or half-hour starting time.",
+      "mathematical_objective": "Read whole-hour and half-hour times.",
+      "narrative": "Grace makes an activity-day notice at her grandmother's home in Billiri. A clock picture needs a clear starting time. How will the club read the hour and minute hands?",
+      "local_fact": "Billiri is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace points to an empty clock inset on a noticeboard; the assessed clock is drawn deterministically. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-14",
+      "grade": 2,
+      "arc_id": "p2-t2",
+      "scene_id": "scene-p2-14",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p2-14",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's family planning calendar",
+      "practical_problem": "Order the weekday jobs so the activity day is ready.",
+      "mathematical_objective": "Name and order weekdays.",
+      "narrative": "John reads Adamu's aunt's planning note from Dukku. The jobs are written on loose weekday cards. How can he put them in order for the activity day?",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John orders plain task cards while Adamu holds the event notebook. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-15",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-15",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "yamaltu-deba-family-scene-p2-15",
+      "lga": "Yamaltu-Deba",
+      "fact_ids": [
+        "geo-yamaltu-deba"
+      ],
+      "setting": "John's cousin's donated-book sorting table",
+      "practical_problem": "Put reading-corner parcels in weight order before moving them.",
+      "mathematical_objective": "Arrange objects from lightest to heaviest.",
+      "narrative": "The friends begin a reading corner with a book-parcel message from John's cousin in Yamaltu-Deba. Aishatu wants the lighter parcels moved first. How can the club order them by weight?",
+      "local_fact": "Yamaltu-Deba is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu and John discuss parcels at a reachable table; an adult handles lifting. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-16",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-16",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p2-16",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a family friend's reading-corner care station",
+      "practical_problem": "Choose and compare containers for watering a reading-corner plant.",
+      "mathematical_objective": "Identify containers and order capacities.",
+      "narrative": "Adamu visits a family friend in Akko to plan a plant-care station. The containers have different shapes. Which holds more, and how could he compare them safely?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu compares clean containers over a tray; no visible fill level answers a question. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-17",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-17",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p2-17",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a cousin's reading-mat planning desk",
+      "practical_problem": "Compare mat areas without leaving gaps or overlaps.",
+      "mathematical_objective": "Compare surface areas and recognise standard square units.",
+      "narrative": "Grace opens a mat plan sent by her cousin in Kwami. One cover leaves a gap beside the reading seat. How can equal square units help the club compare surfaces?",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace places blank paper tiles on a model mat; assessed tiling remains a separate exact diagram. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-18",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-18",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p2-18",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a family friend's storage-box repair table",
+      "practical_problem": "Describe the features of boxes to choose reading-corner storage.",
+      "mathematical_objective": "Count cube/cuboid features and recognise cylinder curvature.",
+      "narrative": "John visits a family friend in Funakaye to choose storage. He feels a box edge and checks its corners. How can the club describe a cube, a cuboid and a cylinder clearly?",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John examines a plain box on an accessible table while Aishatu records his description. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-19",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-19",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p2-19",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a cousin's reading-sign design table",
+      "practical_problem": "Choose flat shapes and square corners for signs.",
+      "mathematical_objective": "Name flat shapes and recognise right angles.",
+      "narrative": "Aishatu receives sign designs from her cousin in Nafada. One frame needs square corners. Which shapes could the club use, and how can they check a right angle?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu compares unlettered sign frames beside the recurring club notebook. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P2-20",
+      "grade": 2,
+      "arc_id": "p2-t3",
+      "scene_id": "scene-p2-20",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p2-20",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's reading-choice message board",
+      "practical_problem": "Group class choices before arranging the reading corner.",
+      "mathematical_objective": "Collect information and organise groups and arrays.",
+      "narrative": "Adamu opens reading-choice messages from a family friend in Shongom. The club will ask its own class too. How can he collect answers and arrange them in clear groups and arrays?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu invites friends to contribute anonymous choice cards to a blank board. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-01",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-01",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p3-01",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the club's community game-design table",
+      "practical_problem": "Catalogue game cards using hundreds, tens and ones.",
+      "mathematical_objective": "Read, count, write and explain numbers through 999.",
+      "narrative": "Aishatu proposes a community game-makers' club in Gombe. A box of reusable cards needs a clear number record. How can she show hundreds, tens and ones without losing track?",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu opens the recurring notebook beside plain card bundles. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-02",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-02",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p3-02",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a cousin's game-score message desk",
+      "practical_problem": "Order practice scores fairly rather than judging by a single digit.",
+      "mathematical_objective": "Order three-digit numbers using < and >.",
+      "narrative": "Adamu reads practice-score messages from his cousin in Balanga. A score with a large last digit looks tempting. Which place should the club compare first?",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu compares blank score-card spaces while Grace gestures to place-value columns. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-03",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-03",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "billiri-family-scene-p3-03",
+      "lga": "Billiri",
+      "fact_ids": [
+        "geo-billiri"
+      ],
+      "setting": "Grace's grandmother's game-board workspace",
+      "practical_problem": "Label equal parts of a game board accurately.",
+      "mathematical_objective": "Read fractions of shapes and collections.",
+      "narrative": "Grace visits her grandmother in Billiri with a game-board idea. The spaces must be equal before she names the fractions. How can her friends help her check?",
+      "local_fact": "Billiri is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace studies a folded board mock-up at a family work table. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-04",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-04",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p3-04",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's game-testing table",
+      "practical_problem": "Decide whether differently divided boards show equal fractions.",
+      "mathematical_objective": "Recognise equivalent fractions and compare fractions.",
+      "narrative": "John helps test a board from Adamu's aunt in Dukku. Different fold lines make the shares look different. Could the marked parts still represent the same fraction?",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John compares plain board mock-ups; fraction markings are reserved for exact diagrams. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-05",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-05",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "yamaltu-deba-family-scene-p3-05",
+      "lga": "Yamaltu-Deba",
+      "fact_ids": [
+        "geo-yamaltu-deba"
+      ],
+      "setting": "John's cousin's game-entry recording corner",
+      "practical_problem": "Combine game entries accurately when a place-value exchange is needed.",
+      "mathematical_objective": "Add with regrouping and add three amounts in stages.",
+      "narrative": "Aishatu checks a game-entry note sent by John's cousin in Yamaltu-Deba. The new entries must join the earlier record. Where will an exchange be needed when she adds?",
+      "local_fact": "Yamaltu-Deba is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu updates a blank record while John checks the cousin's message. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-06",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-06",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p3-06",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a family friend's game-path design table",
+      "practical_problem": "Combine equal-denominator sections of a game path.",
+      "mathematical_objective": "Add fractions with the same denominator.",
+      "narrative": "Adamu visits a family friend in Akko to test a game path. Two marked sections use the same-sized parts. How could he add those fractions to describe the combined section?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu joins plain path strips; assessed subdivisions and labels are drawn separately. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-07",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-07",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p3-07",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a cousin's game-kit stock desk",
+      "practical_problem": "Subtract issued game materials with place-value exchanges.",
+      "mathematical_objective": "Subtract with exchanges and in stages.",
+      "narrative": "Grace reads a game-kit stock note from her cousin in Kwami. Some kits have gone to testers. She asks John to check the exchanges in her subtraction.",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace and John discuss a ledger beside closed kit boxes. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-08",
+      "grade": 3,
+      "arc_id": "p3-t1",
+      "scene_id": "scene-p3-08",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p3-08",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a family friend's board-revision workspace",
+      "practical_problem": "Describe the fraction remaining when a marked section is removed.",
+      "mathematical_objective": "Subtract fractions with the same denominator.",
+      "narrative": "John receives a board-revision picture from a family friend in Funakaye. A marked part of the path will be removed. What fraction remains when the parts have the same denominator?",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John lifts a plain removable strip from a board mock-up at a clear work table. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-09",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-09",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p3-09",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a cousin's garden-tray planning desk",
+      "practical_problem": "Build multiplication facts for equal planting-tray groups.",
+      "mathematical_objective": "Build and recall facts through 9 × 9.",
+      "narrative": "Aishatu reads a garden idea from her cousin in Nafada. The club wants to try a school garden project using equal tray groups. How can repeated groups help her build multiplication facts?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu studies a printed garden idea beside unfilled tray models; no planting count is shown. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-10",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-10",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p3-10",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's garden-label workshop",
+      "practical_problem": "Scale up garden-label groups without repeated counting.",
+      "mathematical_objective": "Multiply two digits by one digit and three one-digit factors.",
+      "narrative": "Adamu visits a family friend in Shongom to make garden labels. The same label pack is needed again and again. Which multiplication method could help him plan the larger amount?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu bundles plain label strips beside the garden planning notebook. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-11",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-11",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kaltungo-family-scene-p3-11",
+      "lga": "Kaltungo",
+      "fact_ids": [
+        "geo-kaltungo"
+      ],
+      "setting": "Grace's uncle's seed-sharing table",
+      "practical_problem": "Share a practice total equally among garden teams.",
+      "mathematical_objective": "Divide exact totals up to 48 by 2 to 6.",
+      "narrative": "Grace helps her uncle prepare garden-team packets in Kaltungo. She uses large counters to practise equal sharing. How can the club check that every team receives the same amount?",
+      "local_fact": "Kaltungo is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace shares large practice counters on a mat; real seeds stay sealed away from small children. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-12",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-12",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p3-12",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the school garden's layout-model table",
+      "practical_problem": "Find equal-row arrangements using factors and multiples.",
+      "mathematical_objective": "Find factors, missing factors and multiples.",
+      "narrative": "John proposes different row arrangements for the club's school garden in Gombe. Some arrangements leave spaces. Which factors could help the club make complete equal rows?",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John rearranges blank tray models at a seated work surface with clear access. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-13",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-13",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p3-13",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a cousin's garden-supply message board",
+      "practical_problem": "Recover an unknown supply amount by balancing operations.",
+      "mathematical_objective": "Find unknowns using relationships between operations.",
+      "narrative": "Aishatu receives a garden-supply note from her cousin in Balanga. One amount is missing, but the two sides must balance. What relationship between operations could help her?",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu compares blank note panels while Adamu offers an inverse-operation check. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-14",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-14",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "billiri-family-scene-p3-14",
+      "lga": "Billiri",
+      "fact_ids": [
+        "geo-billiri"
+      ],
+      "setting": "Grace's grandmother's pretend garden-supply stall",
+      "practical_problem": "Compare practice payments when buying several garden labels.",
+      "mathematical_objective": "Exchange, add, subtract and multiply money values to ₦20.",
+      "narrative": "Adamu visits Grace's grandmother in Billiri with a pretend garden shop. The club needs several labels. How can he exchange, add or multiply the practice money values and check the change?",
+      "local_fact": "Billiri is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu serves a friend at a low pretend stall beside a garden label display. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-15",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-15",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "dukku-family-scene-p3-15",
+      "lga": "Dukku",
+      "fact_ids": [
+        "geo-dukku"
+      ],
+      "setting": "Adamu's aunt's garden-bed model bench",
+      "practical_problem": "Measure a model garden bed in a consistent standard unit.",
+      "mathematical_objective": "Measure dimensions in cm/m and explain standard units.",
+      "narrative": "Grace checks a garden-bed model at Adamu's aunt's home in Dukku. Her first measurement starts away from the ruler's zero. How can she measure the dimensions accurately?",
+      "local_fact": "Dukku is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace repositions a ruler at a plain model edge while John checks eye-level placement. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-16",
+      "grade": 3,
+      "arc_id": "p3-t2",
+      "scene_id": "scene-p3-16",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "yamaltu-deba-family-scene-p3-16",
+      "lga": "Yamaltu-Deba",
+      "fact_ids": [
+        "geo-yamaltu-deba"
+      ],
+      "setting": "John's cousin's garden-border planning table",
+      "practical_problem": "Find the full distance around a bed rather than one side.",
+      "mathematical_objective": "Measure and calculate perimeters.",
+      "narrative": "John receives a garden-border plan from his cousin in Yamaltu-Deba. The club needs edging all the way round. Which lengths must he include in the perimeter?",
+      "local_fact": "Yamaltu-Deba is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John traces a closed model boundary; exact lengths and arithmetic appear in a separate diagram. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-17",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-17",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "akko-family-scene-p3-17",
+      "lga": "Akko",
+      "fact_ids": [
+        "geo-akko"
+      ],
+      "setting": "a family friend's exhibition rehearsal corner",
+      "practical_problem": "Plan a demonstration interval using hours and minutes.",
+      "mathematical_objective": "Read minutes and calculate simple intervals.",
+      "narrative": "Aishatu visits a family friend in Akko to rehearse the Gombe story-and-data exhibition. A demonstration must finish before the next begins. How can she work out the interval in minutes?",
+      "local_fact": "Akko is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu rehearses with the recurring notebook and a blank clock inset. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-18",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-18",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kwami-family-scene-p3-18",
+      "lga": "Kwami",
+      "fact_ids": [
+        "geo-kwami"
+      ],
+      "setting": "a cousin's exhibition invitation desk",
+      "practical_problem": "Use a calendar to choose and communicate an exhibition date.",
+      "mathematical_objective": "Read calendar dates and explain their usefulness.",
+      "narrative": "Adamu reads an invitation idea from his cousin in Kwami. A weekday alone will not tell visitors the date. How can the club use a calendar to make the message clear?",
+      "local_fact": "Kwami is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu and Grace compare a blank calendar panel with an unlettered invitation. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-19",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-19",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "funakaye-family-scene-p3-19",
+      "lga": "Funakaye",
+      "fact_ids": [
+        "geo-funakaye"
+      ],
+      "setting": "a family friend's exhibition-packing table",
+      "practical_problem": "Record parcel mass with the appropriate gram or kilogram unit.",
+      "mathematical_objective": "Measure, compare and use grams and kilograms.",
+      "narrative": "Grace visits a family friend in Funakaye to pack the exhibition. A label says only a number, with no unit. Why should the club record grams or kilograms clearly?",
+      "local_fact": "Funakaye is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace checks a plain parcel label beside a scale with an unmarked display. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-20",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-20",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "nafada-family-scene-p3-20",
+      "lga": "Nafada",
+      "fact_ids": [
+        "geo-nafada"
+      ],
+      "setting": "a cousin's exhibition water-station plan",
+      "practical_problem": "Plan water measurement using litre containers and repeatable fills.",
+      "mathematical_objective": "Measure liquids accurately in litres.",
+      "narrative": "John receives a water-station plan from his cousin in Nafada for the exhibition. Containers look alike but need checking. How can the club measure liquid accurately in litres?",
+      "local_fact": "Nafada is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John discusses clean water containers over a tray at an accessible table; adult supervision is implied. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-21",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-21",
+      "lead_character": "aishatu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "shongom-family-scene-p3-21",
+      "lga": "Shongom",
+      "fact_ids": [
+        "geo-shongom"
+      ],
+      "setting": "a family friend's exhibition-poster workspace",
+      "practical_problem": "Check lines and symmetry in a poster design.",
+      "mathematical_objective": "Recognise lines and find lines of symmetry.",
+      "narrative": "Aishatu visits a family friend in Shongom to design an exhibition poster. Folding helps her test whether both sides match. Which lines are straight or curved, and where might symmetry appear?",
+      "local_fact": "Shongom is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Aishatu folds plain poster paper while friends compare outline spaces. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "john",
+        "struggles": "aishatu",
+        "explains": "adamu",
+        "helps": "grace"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-22",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-22",
+      "lead_character": "adamu",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "kaltungo-family-scene-p3-22",
+      "lga": "Kaltungo",
+      "fact_ids": [
+        "geo-kaltungo"
+      ],
+      "setting": "Grace's uncle's exhibition-sign table",
+      "practical_problem": "Draw shapes that match spoken descriptions for display frames.",
+      "mathematical_objective": "Draw and compare squares, rectangles, triangles and circles.",
+      "narrative": "Adamu helps Grace's uncle make exhibition frames in Kaltungo. A sketch does not match its description. What should he change when drawing the square, rectangle, triangle or circle?",
+      "local_fact": "Kaltungo is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Adamu reviews a plain sign mock-up; exact shapes are constructed in the teaching diagram. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "aishatu",
+        "struggles": "adamu",
+        "explains": "grace",
+        "helps": "john"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-23",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-23",
+      "lead_character": "grace",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "gombe-family-scene-p3-23",
+      "lga": "Gombe",
+      "fact_ids": [
+        "geo-gombe"
+      ],
+      "setting": "the club's story-and-data exhibition picture-graph stand",
+      "practical_problem": "Read a pictogram key before comparing categories.",
+      "mathematical_objective": "Interpret horizontal and vertical pictograms.",
+      "narrative": "Grace opens the exhibition's picture-graph stand in Gombe. A visitor counts the symbols without reading the key. How can she explain what the pictures represent?",
+      "local_fact": "Gombe is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "Grace welcomes visitors to a blank graph stand with room for the deterministic graph inset. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "adamu",
+        "struggles": "grace",
+        "explains": "john",
+        "helps": "aishatu"
+      },
+      "status": "proposed_for_prototype_review"
+    },
+    {
+      "lesson_id": "P3-24",
+      "grade": 3,
+      "arc_id": "p3-t3",
+      "scene_id": "scene-p3-24",
+      "lead_character": "john",
+      "character_ids": [
+        "aishatu",
+        "adamu",
+        "grace",
+        "john"
+      ],
+      "place_id": "balanga-family-scene-p3-24",
+      "lga": "Balanga",
+      "fact_ids": [
+        "geo-balanga"
+      ],
+      "setting": "a cousin's exhibition-feedback album, shared back with the club",
+      "practical_problem": "Turn anonymous visitor choices into a graph and identify the mode.",
+      "mathematical_objective": "Collect, graph and interpret data; identify the mode.",
+      "narrative": "John opens exhibition feedback sent back by his cousin in Balanga. The club wants to show the choices honestly. How can he make a graph and name the most frequent response?",
+      "local_fact": "Balanga is a local government area in Gombe State.",
+      "local_fact_scope": "Verified administrative geography; family relationships, visit, photograph/message, venue and activity are fictional.",
+      "illustration_brief": "John and friends review anonymous cards beside the completed discovery album and a blank graph sheet. Keep the four friends' faces, signature colours, John's manual wheelchair and reachable table consistent with characters.json and the approved reference when available. Carry the club notebook forward; the discovery album persists after P1. The place is an everyday fictional family/school setting, never a claimed landmark or ethnographic reconstruction. Show engagement and the practical problem, without resolving it. No assessed quantities, legible mathematical labels, coin values, clock hands, graph bars or fraction subdivisions in generated artwork; reserve clear space for deterministic diagrams. Follow scene_roles as the conversation develops, allowing the viewpoint child to ask for help.",
+      "scene_roles": {
+        "initiates": "grace",
+        "struggles": "john",
+        "explains": "aishatu",
+        "helps": "adamu"
+      },
+      "status": "proposed_for_prototype_review"
+    }
+  ],
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

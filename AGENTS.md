@@ -1,5 +1,9 @@
 # Contributor guide
 
+## Mandatory redesign standard
+
+Every new or materially revised chapter MUST follow [CHAPTER-STANDARD.md](docs/CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](docs/CHAPTER-REVIEW.md). Use [the handoff template](docs/HANDOFF-TEMPLATE.md) in every handoff. An independent reviewer must check every task, diagram and answer, teaching progression, instructions, character continuity, story logic and every rendered page. Record evidence in production/chapter-reviews.json; no author self-approval. Run python scripts/preflight.py and python scripts/check_chapter_standard.py; before calling a chapter reviewed, add --chapter ID --require-reviewed. Full redesigned-volume approval requires --require-reviewed without a filter. Pending or stale review blocks approval, not draft exploration. Legacy build/validation reproduces the old edition only. Never report all chapters compliant from one sample.
+
 Preserve `GombeTextbook.txt` byte for byte. This project produces an English-only, full-colour A4 write-in mathematics volume for Primary 1-3 in Gombe.
 
 Edit canonical lesson data in `production/p1.json`, `production/p2.json` and `production/p3.json`; regenerate sources with `python scripts/build_book.py`, then render with `quarto render book.qmd`. Keep exact counting diagrams deterministic. Never infer quantities from decorative AI artwork.

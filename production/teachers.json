@@ -1,0 +1,31 @@
+{
+  "status": "prototype-for-user-review",
+  "chapter_policy": "One named teacher leads a chapter. Alternate female and male teacher leads across subsequent chapters; retain the same clear modelling, warmth and mathematical authority for both. Future assignments remain editorial proposals.",
+  "teachers": [
+    {
+      "id": "ms-binta",
+      "name": "Mrs Binta",
+      "gender": "female",
+      "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+      "role": "Patient primary teacher who models an action, practises with the class, then asks pupils to recall and demonstrate it. Display title Mrs Binta at the user's request; internal stable ID retained.",
+      "memory_phrase": "Touch one. Say one number.",
+      "status": "illustrated-for-chapter-review"
+    },
+    {
+      "id": "mr-aliyu",
+      "name": "Mr Aliyu",
+      "gender": "male",
+      "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+      "role": "Warm, confident male teacher introduced as the next chapter's lead; welcomes the children's ideas.",
+      "visual": "Cream long-sleeved native kaftan and trousers, muted green neckline/chest embroidery, embroidered cream-and-green cap and brown shoes. Hausa-inspired styling at the user's request; no claim of universal or certified authentic attire.",
+      "status": "illustrated-for-user-review"
+    }
+  ],
+  "chapter_assignments": {
+    "P1-01": "ms-binta",
+    "P1-02": "mr-aliyu"
+  },
+  "fictional_status": "Fictional individuals. Names and clothes do not establish ethnicity, faith or a universal local teaching style.",
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

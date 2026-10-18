@@ -1,6 +1,7 @@
 from pathlib import Path
 import json,shutil,subprocess
 root=Path(__file__).resolve().parent.parent
+subprocess.run([__import__('sys').executable, str(root/'scripts/check_chapter_standard.py')], check=True)
 assert shutil.which('quarto'),'Quarto CLI is required'
 for p in ['production/p1.json','production/p2.json','production/p3.json','research/curriculum_objectives.json','research/coverage.csv','research/supplementary_assessments.json','production/layout.typ','fonts/DejaVuSans.ttf','fonts/DejaVuSans-Bold.ttf','fonts/LICENSE_DEJAVU.txt','artwork/PROVENANCE.json']:
  assert (root/p).is_file(),p

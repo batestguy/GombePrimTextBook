@@ -1,0 +1,68 @@
+{
+  "id": "P1-01",
+  "grade": 1,
+  "title": "One to five",
+  "goal": "Count, read, write and order 1 to 5.",
+  "status": "single_chapter_provisional_review",
+  "canonical_source": "production/p1.json",
+  "integration": "Isolated candidate overlay; canonical lessons and existing edition remain unchanged until review.",
+  "arc_id": "p1-t1",
+  "character_ids": ["aishatu", "adamu", "grace", "john"],
+  "scene_id": "scene-p1-01-hijab-v2",
+  "scene_asset": "artwork/redesign/scenes/p1-01-hijab-v2.png",
+  "setting": "A fictional shaded school activity table in Gombe",
+  "story_dialogue": [
+    ["Aishatu", "Let's make a counting game!"],
+    ["Adamu", "Oops! I counted that counter twice."],
+    ["Grace", "Touch each counter once. Say its number."],
+    ["John", "Slide it onto the mat. I'll check with you!"]
+  ],
+  "play": "A partner shows 1 to 5 large counters. Count them. Choose the matching number card. Swap roles.",
+  "clarity_revision": {
+    "version": 4,
+    "story_dialogue": [
+      ["Aishatu", "Can you help us count our game pieces?"],
+      ["Adamu", "Let's put them in a line."],
+      ["Grace", "Touch each one once."],
+      ["John", "Say one number each time you touch one!"]
+    ],
+    "worked_instruction": "Start at the left. Touch the first dot and say 'one'.",
+    "worked_say": "Touch the next dot and say 'two'.",
+    "worked_total": "Touch the last dot and say 'three'.",
+    "mistake_labels": ["1", "2, 3", "4"],
+    "mistake_explanation": "He gave the middle dot two numbers.",
+    "fresh_check": "Put 4 counters on the table for Grace.",
+    "recognition_instruction": "Ask a partner to say one number below. Point to it.",
+    "teacher_responses": [
+      {"notice": "A dot is skipped or counted twice.", "try": "Put counters in a line. Touch one while saying one number.", "recheck": "Give a fresh set of 2, then 3. Watch each touch."},
+      {"notice": "The child counts but cannot say how many.", "try": "Repeat the last number: 'Three. There are three.'", "recheck": "Count a fresh set and ask 'How many altogether?'"},
+      {"notice": "Numerals are copied but not recognised.", "try": "Match a small set to its number card. Say the number.", "recheck": "Shuffle the cards. Ask for 1, then 2, then 4."}
+    ]
+  },
+  "teaching_revision": {
+    "version": 3,
+    "basis": "research/TEXTBOOK-DESIGN-REVIEW.md",
+    "story_dialogue": [
+      ["Aishatu", "Let's count the counters for our game!"],
+      ["Adamu", "I keep losing my place."],
+      ["Grace", "Touch one. Say one number."],
+      ["John", "Move it onto the mat. We can check together!"]
+    ],
+    "mistake_touch_order": [0, 1, 1, 2],
+    "recognition_cards": [3, 1, 5, 2, 4],
+    "teacher_responses": [
+      {"notice": "A counter is skipped or counted twice.", "try": "Move one counter onto the mat for each number said.", "recheck": "Give a fresh set of 2, then 3. Watch each move."},
+      {"notice": "The child counts but cannot say how many.", "try": "Repeat the last number: 'Three. There are three.'", "recheck": "Count a fresh set and ask 'How many altogether?'"},
+      {"notice": "Numerals are copied but not recognised.", "try": "Match a small set to its number card. Say the number.", "recheck": "Shuffle the cards. Ask for 1, then 2, then 4."}
+    ],
+    "later_check": "Ask the child to give John 5 counters. Spread them out. Ask how many again. Offer the mat method if needed."
+  },
+  "questions": [
+    {"prompt": "Count row A. Write the number.", "answer": "3"},
+    {"prompt": "Count row B. Write the number.", "answer": "5"},
+    {"prompt": "Draw 2 circles.", "answer": "Two separate circles."},
+    {"prompt": "Write 1 to 5 in order.", "answer": "1, 2, 3, 4, 5"},
+    {"prompt": "Show 4 fingers. How many?", "answer": "4"},
+    {"prompt": "Adamu counts one counter twice. Show a better way.", "answer": "Touch or move each top exactly once."}
+  ]
+}

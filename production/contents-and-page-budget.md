@@ -1,5 +1,7 @@
 # Contents and page budget
 
+Redesigned chapter pacing and page counts are flexible under [CHAPTER-STANDARD.md](../docs/CHAPTER-STANDARD.md). Keep all required learning experiences and volume backmatter; apply [independent review](../docs/CHAPTER-REVIEW.md). Earlier page budgets below describe the legacy edition.
+
 Final digital review allocation; there was no fixed page cap. Term groupings are editorial, not an official scheme.
 
 | Section | Pages |

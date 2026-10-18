@@ -1,5 +1,7 @@
 # Local educational and production review
 
+For every redesigned chapter, first apply [CHAPTER-STANDARD.md](../docs/CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](../docs/CHAPTER-REVIEW.md). Record every-task mathematics, consistency, teaching and story-logic review in chapter-reviews.json; use this form for additional local/physical evidence. No blank or software-checked form constitutes approval.
+
 Edition: October 2026 review manuscript. Reviewer: __________________
 Role/school/community (optional): __________________ Date: __________
 

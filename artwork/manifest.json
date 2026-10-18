@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "status": "preparation-and-single-chapter-review",
+  "review_gate": "Reference approval required before scene generation; focused prototype review required before remaining artwork.",
+  "assets": [
+    {
+      "id": "reference-leads-v1",
+      "asset": "artwork/redesign/references/lead-reference-proposal-v1.png",
+      "type": "character-expression-reference",
+      "status": "proposed-awaiting-reference-review",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-17",
+      "prompt": "Use case: illustration-story. Asset: proposed character continuity reference sheet for a Primary 1-3 English mathematics book set in Gombe, Nigeria. Warm hand-painted children's editorial gouache illustration, clear expressive faces, calm cream #FFF9EE background, leaf green #2C5037, ochre #C48A2C, clay #AD5A3E, river blue #2B6A78, dark ink #25332B. Four fictional Black Nigerian children aged around 7 arranged in four clearly separated columns, full-body pose plus small expressive head portraits per child. Aishatu: energetic maker, two short natural hair puffs, ochre short-sleeve top, green trousers, practical shoes, holding blank cardboard toy; Adamu: sociable storyteller, close-cropped black hair, river-blue short sleeve shirt, clay shorts, practical shoes, open storytelling gesture; Grace: observant notebook keeper, short twists, clay short sleeve top, green skirt to knee, practical shoes, small blank notebook, thoughtful and then smiling portraits; John: cheerful puzzle enthusiast, short curls, green short sleeve shirt, ochre trousers, practical shoes, seated naturally in a functional manually propelled wheelchair with realistic large rear wheels, small front casters, push rims and footplate, drawing blank paper on accessible lap board. Equal visual prominence; John initiates by offering his drawing. Everyday individual clothing, no ethnic or religious labeling or ceremonial dress. Plain backgrounds. Correct hands and wheelchair geometry. Printed names only Aishatu, Adamu, Grace, John above their own columns. No mathematical counts, numbers or textbook layout. Reference proposal only, no government marks.",
+      "source_image": null,
+      "review": {
+        "visual_inspection": "Four named leads, distinct clothing and expressions; John seated in a manual wheelchair. Reference proposal only. Age progression and additional pose sheets remain to be developed.",
+        "reference_approval": "pending",
+        "wheelchair_specialist_review": "pending"
+      },
+      "quantities": "Decorative reference; no assessed quantities."
+    },
+    {
+      "asset": "artwork/redesign/scenes/p1-01-review-v1.png",
+      "id": "scene-p1-01-review-v1",
+      "status": "provisional-single-chapter-review",
+      "generated_on": "2026-10-18",
+      "tool": "built-in image_gen",
+      "reference": "artwork/redesign/references/lead-reference-proposal-v1.png",
+      "prompt": "Use case: illustration-story. Create one provisional story scene for a Primary 1 mathematics chapter 'One to five', a fictional learning club in Gombe, Nigeria. Use the supplied image only as character/style reference; do not reproduce its sheet layout or lettering. Warm expressive gouache children's picture-book illustration, cream paper texture, leaf green, savannah ochre, clay and river blue palette. Wide landscape composition. Four Black Nigerian children around 6-7 at a shaded outdoor school activity table, simple school walls and leafy tree behind. Aishatu with two hair puffs, ochre top, green trousers enthusiastically sliding one large round play counter toward a plain mat. Adamu close-cropped hair, blue shirt, clay shorts looking thoughtfully at her activity. Grace short twists, clay top, green skirt watching and holding a blank notebook. John short curls, green top, ochre trousers in a plausible blue manual wheelchair with push rims, rear wheels, front casters, supported feet; actively pointing toward the mat from a clear accessible approach, arms comfortably reaching table height. Equal friendly participation, natural hands and faces, no rescue scene. Table surface mostly clear; any loose counters are decorative, not a mathematical diagram. No visible numerals, letters, speech bubbles, logos, text, exact counting arrangements or flags. Keep heads, hands and wheelchair inside the frame. Warm lively atmosphere, generous uncluttered composition. This is a single-chapter review experiment; character approval remains pending.",
+      "authorization": "User requested: Lets do one chapter let me asses. Single-chapter experiment only; previous reference approval and full-prototype gates remain pending.",
+      "inspection": "Four leads visually match proposed faces, clothing and gouache style. John participates actively in a manual wheelchair. Decorative counters are not assessed. Wheelchair specialist/local educator review pending.",
+      "quantities": "All assessed dots generated deterministically by scripts/build_chapter_sample.py.",
+      "approval": "pending"
+    },
+    {
+      "id": "reference-introductions-hijab-v2",
+      "asset": "artwork/redesign/references/lead-introductions-hijab-v2.png",
+      "status": "revised-at-user-request-awaiting-review",
+      "generated_on": "2026-10-18",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: identity-preserve / illustration-story. Create a square character portrait asset for four children's introductions in a Gombe Primary 1 mathematics book. Input 1 older characters: use ONLY the first girl's mustard hijab and teal long-sleeved ankle-length dress as a clothing reference. Input 2 recent named sheet: preserve the four recent children's facial identities, gouache style, and the other three children's clothes. Aishatu is the first girl and must now wear a mustard hijab covering hair, neck and shoulders, teal full-length long-sleeved dress and practical shoes; no visible hair puffs. Four EXACTLY EQUAL SQUARE QUADRANTS arranged 2 by 2, isolated on warm cream #FFF9EE with generous clear margins inside EACH square; no borders, text, letters, labels or extra faces. Each quadrant independently contains one full-body child completely inside its square: TOP LEFT Aishatu, round face, dark-brown skin, mustard hijab teal dress, delighted to hold a small cardboard toy airplane. TOP RIGHT Adamu, deep brown skin, close-cropped hair, blue short-sleeve shirt clay shorts, practical shoes, friendly open storytelling gesture. BOTTOM LEFT Grace, medium-dark brown skin, short twists, clay shirt green skirt, notebook, warm thoughtful smile. BOTTOM RIGHT John, dark-brown skin, short curls, green shirt ochre trousers, cheerful puzzle drawing on lap board, seated in functional blue manual wheelchair with realistic large rear wheels push rims front casters foot support. Show John's entire wheelchair with comfortable margins, same visual prominence as friends. Hand-painted expressive gouache, leaf green, ochre, clay, river blue, cream background. Natural hands. Plain blank notebook/drawing, no numbers or assessed counts. These are everyday fictional individuals, no cultural universality or logos. Square overall image, no content crossing quadrant boundaries, full-body views only.",
+      "references": [
+        "artwork/characters.png",
+        "artwork/redesign/references/lead-reference-proposal-v1.png"
+      ],
+      "authorization": "User requested backstories first, restoration of the girl wearing a hijab, and nice introductions for all four children.",
+      "inspection": "Aishatu's mustard hijab and teal long-sleeved dress restored. Other three characters retain their proposed appearance. Faces, hands, clothing and complete character portraits visually inspected; specialist/local review pending.",
+      "quantities": "Decorative artwork; exact assessed quantities are rendered by code.",
+      "approval": "pending review of revised sample"
+    },
+    {
+      "id": "scene-p1-01-hijab-v2",
+      "asset": "artwork/redesign/scenes/p1-01-hijab-v2.png",
+      "status": "revised-at-user-request-awaiting-review",
+      "generated_on": "2026-10-18",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: precise-object-edit / identity-preserve. Image 1 is the target school counting scene. Image 2 is the revised character reference. Edit image 1: restore the hijab to Aishatu, the girl at far LEFT reaching for the red counter. She must wear the MUSTARD HIJAB fully covering hair, neck and shoulders and TEAL LONG-SLEEVED full-length dress from image 2 top-left portrait. No hair puffs. Preserve Aishatu's face, expression, pose, hand position and action; her sleeves must cover her arms to wrists and her dress extends below the table naturally. Keep the other three children, their identities, clothes, poses, wheelchair, entire table, mat, counters, tree and school setting, lighting and warm gouache style unchanged. No text, numbers, logos or added people. This is the same fictional scene with only her clothing corrected to match the updated reference.",
+      "references": [
+        "artwork/redesign/scenes/p1-01-review-v1.png",
+        "artwork/redesign/references/lead-introductions-hijab-v2.png"
+      ],
+      "authorization": "User requested backstories first, restoration of the girl wearing a hijab, and nice introductions for all four children.",
+      "inspection": "Aishatu's mustard hijab and teal long-sleeved dress restored. Other three characters retain their proposed appearance. Faces, hands, clothing and complete character portraits visually inspected; specialist/local review pending.",
+      "quantities": "Decorative artwork; exact assessed quantities are rendered by code.",
+      "approval": "pending review of revised sample"
+    },
+    {
+      "id": "reference-introductions-white-v4",
+      "asset": "artwork/redesign/references/lead-introductions-white-v4.png",
+      "tool": "built-in image_gen",
+      "type": "background-extraction",
+      "source_image": "artwork/redesign/references/lead-introductions-hijab-v2.png",
+      "prompt": "Use case: background-extraction. Edit the supplied four-character introduction sheet. Remove ONLY the cream paper background and the ground shadows to create a genuinely transparent background behind and between the characters. Preserve all four children's faces, expressions, hands, skin, clothing, props and wheelchair exactly: Aishatu top-left in mustard hijab and teal full-length long-sleeved dress holding cardboard airplane, Adamu top-right in blue shirt clay shorts, Grace bottom-left with notebook clay shirt green skirt, John bottom-right green shirt ochre trousers in blue manual wheelchair. Preserve the EXACT 2 by 2 equal quadrant layout, square image, each full-body figure entirely within its own quadrant at the same size and position, no cropping, no text or labels, no new details. All cream outside the figures becomes transparent; do not remove cream paper in notebook, drawing or toy. This cutout will be placed on pure white textbook pages.",
+      "generated_on": "2026-10-18",
+      "status": "sample-for-review",
+      "authorization": "User requested a white background instead of yellow for clearer printing.",
+      "inspection": "Four characters retain clothing, identities, poses and 2x2 layout, with Aishatu's hijab intact. Transparent background inspected; inspect page composites for cutout edges.",
+      "quantities": "Decorative portraits; no assessed quantities."
+    },
+    {
+      "id": "teacher-ms-binta-v5",
+      "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+      "type": "fictional-chapter-teacher-portrait",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: illustration-story. Create one friendly fictional female Nigerian primary school teacher named Ms Binta for a full-colour mathematics book called Maths with Friends. No text in the artwork. Warm expressive hand-painted gouache matching a contemporary children's storybook, dark-brown skin, kind attentive face, natural proportions and hands. Adult woman in her thirties, neat short natural braids, modest practical river-blue long-sleeved blouse and clay-coloured skirt, small plain green notebook tucked under one arm. Waist-up three-quarter pose facing toward viewer's left, one open hand gesturing gently down-left as if inviting children to watch a demonstration. Confident, warm and patient expression. Isolated on genuinely transparent background, entire head torso and hands inside frame with generous margins. No numbers, letters, logos, chalkboard, pupils, furniture, counters or counted objects. Individual everyday clothing, no claim of ethnic or religious identity. Clean cutout with no paper texture outside the figure, no ground shadow. Portrait used beside typeset teacher speech and exact code-drawn cup diagrams; do not draw the diagrams.",
+      "generated_on": "2026-10-18",
+      "status": "chapter-prototype-for-review",
+      "authorization": "User requested a clearer, more visual chapter led by a female or male teacher, with later opportunities to remember what the teacher taught.",
+      "inspection": "Friendly female adult teacher; blue blouse, clay skirt, green notebook, welcoming hand. No assessed quantity in artwork. Transparent background inspected.",
+      "quantities": "No assessed counts. Cup quantities rendered deterministically by chapter code.",
+      "reference_approval": "pending review of chapter"
+    },
+    {
+      "id": "teacher-mr-aliyu-source-v6",
+      "asset": "artwork/redesign/teachers/mr-aliyu-v6.png",
+      "type": "fictional-teacher-source-portrait",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-18",
+      "prompt": "Use case: illustration-story. A full-body portrait of Mr Aliyu, a fictional adult male Nigerian primary school teacher, friendly and confident, dark-brown skin, short neatly groomed beard, warm welcoming smile. Hausa-inspired native outfit as requested by the author: a handsome cream long-sleeved knee-length kaftan with restrained leaf-green embroidery around the neckline and chest, matching cream trousers, practical brown slip-on shoes, and a neatly fitted traditional embroidered cap (not a turban), cream and muted green geometric embroidery. Individual tasteful clothing, not a claim that all Hausa people dress alike; no religious symbols or flags. Holds a plain blue lesson folder under one arm, other hand open in a welcoming gesture. Warm expressive hand-painted gouache children's storybook style, consistent with Maths with Friends. Full head, cap, hands, complete outfit and shoes inside frame with generous margins. Genuinely transparent background, no shadow, no lettering, labels, numerals or counted objects. No extra people. Correct natural anatomy. This portrait introduces the next chapter teacher to Aishatu, Adamu, Grace and John.",
+      "references": [],
+      "status": "source-before-background-cleanup",
+      "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+      "inspection": "Mr Aliyu shown in cream embroidered native kaftan/trousers, embroidered cap and brown shoes. Cleaned cutout inspected on white PDF. Hausa-inspired clothing is an editorial choice at user request; local cultural review pending.",
+      "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+      "review": "User assessment pending."
+    },
+    {
+      "id": "teacher-mr-aliyu-white-v6",
+      "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+      "type": "fictional-teacher-background-extraction",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-18",
+      "prompt": "Use case: background-extraction. Edit this exact Mr Aliyu portrait. Keep the entire man, his exact smiling face, cream embroidered native kaftan, trousers, embroidered cap, blue book, hands, shoes, pose and proportions unchanged. Remove EVERY background pixel and every shadow/glow/gradient around and behind him so the background is genuinely fully transparent, clean edges, no halo. Preserve cream colour INSIDE his outfit. No paper texture, beige wash or vignette outside the body. Entire head cap and shoes stay in frame. This cutout must sit directly on a pure white textbook page without a coloured rectangle or glow.",
+      "references": [
+        "artwork/redesign/teachers/mr-aliyu-v6.png"
+      ],
+      "status": "chapter-prototype-for-user-review",
+      "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+      "inspection": "Mr Aliyu shown in cream embroidered native kaftan/trousers, embroidered cap and brown shoes. Cleaned cutout inspected on white PDF. Hausa-inspired clothing is an editorial choice at user request; local cultural review pending.",
+      "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+      "review": "User assessment pending."
+    },
+    {
+      "id": "scene-classroom-welcome-v6",
+      "asset": "artwork/redesign/scenes/classroom-welcome-v6.png",
+      "type": "fictional-classroom-opener",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-18",
+      "prompt": "Use case: illustration-story. Create an inviting wide landscape classroom opening illustration for Maths with Friends. Input 1 is the exact teacher appearance reference (Ms Binta in blue blouse and clay skirt). Input 2 is the four children's appearance reference in quadrants: top-left Aishatu mustard hijab teal long-sleeved ankle-length dress, top-right Adamu blue shirt clay shorts, bottom-left Grace short twists clay top green skirt and notebook, bottom-right John green shirt ochre trousers in blue manual wheelchair. Preserve these individual identities and clothing. Fictional bright welcoming primary classroom in Gombe, Nigeria, soft daylight from large windows, white plaster walls, restful green and clay accents, clean practical furniture. Important composition: camera from the BACK of the classroom looking toward the FRONT. The four children are SITTING at low desks facing Ms Binta and an exceptionally LARGE, perfectly front-facing rectangular WHITE TEACHING BOARD on the front wall. All four bodies and gazes clearly oriented toward the teacher, not facing the viewer; use back and three-quarter rear views with partial profiles so faces and clothing are recognisable. Aishatu sits front-left in hijab, Grace left-centre notebook ready, Adamu right-centre raises his hand slightly while seated, John sits at the right in his OWN blue manual wheelchair at an accessible desk, clear aisle and knee space. John's chair has plausible rear wheels push rims casters supported feet. Ms Binta stands to the LEFT of the large board, welcoming children and gesturing toward it. No other adults or pupils. Board must be PURE WHITE and COMPLETELY BLANK: no images, writing, numerals, tally marks or symbols; exact typeset instructions will be overlaid later. Reserve a clean board area roughly x=30%-90% across image and y=7%-40% down the image, unobstructed and not in perspective. No counted cups, mathematical quantities or text elsewhere. Warm expressive polished children's gouache, consistent with references; full classroom scene, calm joyful anticipation. No logos, flags, patterns claiming authenticity. Whole composition fits landscape 3:2 image.",
+      "references": [
+        "artwork/redesign/teachers/ms-binta-v5.png",
+        "artwork/redesign/references/lead-introductions-white-v4.png"
+      ],
+      "status": "chapter-prototype-for-user-review",
+      "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+      "inspection": "Four familiar children seated toward Ms Binta and large blank board; Aishatu's hijab retained and John in his wheelchair. Board text typeset by code after generation. No counts assessed from scene.",
+      "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+      "review": "User assessment pending."
+    },
+    {
+      "id": "lead-introductions-v7",
+      "asset": "artwork/redesign/references/lead-introductions-v7.png",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-18",
+      "type": "identity-preserving-hairstyle-edit",
+      "prompt": "Use case: identity-preserve / precise-object-edit. Edit the supplied 2-by-2 transparent character sheet, preserving EXACT four-quadrant layout, each child's facial identity, skin tone, body, clothing, props, expression, pose and size. ONLY TWO HAIR CHANGES. Bottom-left Grace: replace short loose twists with neat Nigerian-style ALL-BACK PLAITS: close-to-scalp cornrow braids in distinct orderly rows running from forehead straight back to nape; tiny neatly tucked ends at back, NO loose twists, no afro, no fringe, no beads or hanging side braids. Bottom-right John: replace all curly hair with a clean skin-cut shaved scalp, completely smooth closely shaved dark-brown head, NO visible hair, curls, hairline band or stubble. Preserve John's youthful facial identity, green shirt, ochre trousers, pose, drawing and complete blue manual wheelchair exactly. Top-left Aishatu keeps mustard hijab covering hair and teal long-sleeved full-length dress; top-right Adamu keeps cropped hair blue shirt clay shorts unchanged. Entire figures and wheelchair remain inside their quadrants with margins. Genuinely transparent background, no cream wash or shadow outside figures. No text, labels, numbers or new objects. Friendly children's gouache style unchanged.",
+      "source_image": "artwork/redesign/references/lead-introductions-white-v4.png",
+      "transparent_background": true,
+      "authorization": "User requested Grace with all-back Nigerian plaits and John with a clean skin-cut head with no hair; preserve short mobility mention, hijab and child identities.",
+      "inspection": "Grace has close-to-scalp all-back cornrow plaits without loose hanging twists. John has a smooth shaved scalp without visible hair; wheelchair retained. Aishatu hijab and Adamu appearance retained. Both revised assets viewed before use.",
+      "quantities": "Decorative reference/scene. All assessed cups remain deterministic code-drawn diagrams.",
+      "status": "revised-sample-for-user-review"
+    },
+    {
+      "id": "classroom-welcome-v7",
+      "asset": "artwork/redesign/scenes/classroom-welcome-v7.png",
+      "tool": "built-in image_gen",
+      "generated_on": "2026-10-18",
+      "type": "identity-preserving-hairstyle-edit",
+      "prompt": "Use case: identity-preserve / precise-object-edit. Edit this exact classroom scene while preserving the whole composition, furniture, enormous blank white teaching board, teacher Binta's face and blue blouse/clay skirt, lighting, four seated children facing the teacher and all poses. ONLY change Grace's and John's hairstyles. Grace is the child seated left-centre wearing the clay top and green skirt: replace dangling twists with neat all-back cornrow plaits, close to the scalp with clear rows from forehead straight back toward nape, compact tucked braided ends; no loose twists, no hanging side braids. John is the wheelchair user at far right wearing green: replace ALL hair with a completely smooth, clean skin-cut shaved scalp, dark-brown skin, NO curls, visible hair, hairline band or stubble. Same head shape, age and profile. Preserve Aishatu's mustard hijab and teal dress, Adamu's cropped hair/blue shirt/clay shorts and raised hand; preserve John's entire blue manual wheelchair, desk and access space. Board stays COMPLETELY BLANK PURE WHITE, no text or numbers: exact instructions will be typeset afterwards. No new people or objects. Warm expressive children's gouache style. Landscape dimensions unchanged.",
+      "source_image": "artwork/redesign/scenes/classroom-welcome-v6.png",
+      "transparent_background": false,
+      "authorization": "User requested Grace with all-back Nigerian plaits and John with a clean skin-cut head with no hair; preserve short mobility mention, hijab and child identities.",
+      "inspection": "Grace has close-to-scalp all-back cornrow plaits without loose hanging twists. John has a smooth shaved scalp without visible hair; wheelchair retained. Aishatu hijab and Adamu appearance retained. Both revised assets viewed before use.",
+      "quantities": "Decorative reference/scene. All assessed cups remain deterministic code-drawn diagrams.",
+      "status": "revised-sample-for-user-review"
+    }
+  ],
+  "latest_user_direction": "v7: Mrs Binta and Mr Aliyu introduced separately on one large page after the kids; short fun child stories and likes/dislikes enacted; Grace all-back plaits; John clean shaved scalp and brief mobility mention.",
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

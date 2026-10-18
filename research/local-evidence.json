@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-17",
+  "status": "geography_checked_cultural_review_pending",
+  "sources": [
+    {
+      "id": "gombe-lga-index",
+      "title": "Approved Gombe LGAs Approved 2025 Budgets",
+      "url": "https://www.mof.gm.gov.ng/approved-gombe-lgas-approved-2025-budgets/",
+      "access": "Official search-index excerpt read; direct page timed out on verification attempt.",
+      "supports": "The ministry index lists all eleven LGA budget headings; only administrative membership is used.",
+      "limitations": "Budget figures and present-day administrative changes are not teaching facts; index spelling Yalmatu Deba is normalised to Yamaltu-Deba."
+    },
+    {
+      "id": "development-plan",
+      "title": "Gombe State Development Plan 2021-2030",
+      "url": "https://www.mof.gm.gov.ng/download/gombe-state-development-plan-2/",
+      "access": "Official listing and search excerpt read; full plan not fetched or audited.",
+      "supports": "Existence of a state development-plan listing.",
+      "limitations": "2020-2030 abridged and 2021-2030 listings coexist. No detailed cultural or geographic claim is attributed to an unread edition."
+    },
+    {
+      "id": "forebears-gombe",
+      "title": "Gombe forenames",
+      "url": "https://forebears.io/nigeria/gombe/forenames",
+      "access": "Direct fetch returned HTTP 403.",
+      "supports": "User-supplied naming research lead only.",
+      "limitations": "No ranks, counts or representativeness claim verified; not evidence of a child's ethnicity, faith, language or LGA origin."
+    },
+    {
+      "id": "forebears-method",
+      "title": "Forebears name distribution and demographics methodology",
+      "url": "https://forebears.io/about/name-distribution-and-demographics",
+      "access": "Full methodology read.",
+      "supports": "The service describes approximate incidence and sampling limitations.",
+      "limitations": "Incomplete, uneven and dated samples can alter rankings; names are not a child-population census or proof of cultural identity."
+    },
+    {
+      "id": "tangale-heritage",
+      "title": "Tangale Cultural Heritage",
+      "url": "https://heritagemanagement.org/projects/p2/tangale-cultural-heritage/",
+      "access": "Project page read.",
+      "supports": "A documented 2023-2024 heritage project includes Tangale-language preservation and names Billiri, Kaltungo and Shongom among its areas.",
+      "limitations": "A project description does not verify specific garments, motifs, recipes, festivals or migration history for pupil narration. Named customs need community review and additional evidence."
+    }
+  ],
+  "facts": [
+    {
+      "id": "geo-akko",
+      "statement": "Akko is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-balanga",
+      "statement": "Balanga is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-billiri",
+      "statement": "Billiri is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-dukku",
+      "statement": "Dukku is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-funakaye",
+      "statement": "Funakaye is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-gombe",
+      "statement": "Gombe is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-kaltungo",
+      "statement": "Kaltungo is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-kwami",
+      "statement": "Kwami is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-nafada",
+      "statement": "Nafada is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-shongom",
+      "statement": "Shongom is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    },
+    {
+      "id": "geo-yamaltu-deba",
+      "statement": "Yamaltu-Deba is a local government area in Gombe State.",
+      "source_ids": [
+        "gombe-lga-index"
+      ],
+      "status": "verified_from_official_index",
+      "scope": "Administrative membership only; story household and school settings are fictional."
+    }
+  ],
+  "cultural_review": {
+    "status": "pending",
+    "required": [
+      "Local educators and families review names, clothing, household settings and speech.",
+      "Ask community knowledge holders before using named cultural practices or heritage motifs.",
+      "Check preferred local spellings and pronunciation with local reviewers.",
+      "Verify map geometry and any routes separately before publishing maps."
+    ]
+  },
+  "quantity_policy": "Every story amount is fictional teaching material, never real population, price, harvest, travel-time or capacity data. Exact assessed marks, coins, clocks, graphs, fractions and counters are deterministic diagrams."
+}

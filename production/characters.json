@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "status": "proposed_for_prototype_review",
+  "continuity": {
+    "age_progression": "Same four recurring children across Primary 1-3; show modest growth in confidence, responsibilities and proportions, retaining recognisable faces, palette and mobility equipment.",
+    "family_status": "Fictional family roots; all four belong equally to the club. Roots do not imply ethnicity, faith, occupation, language or a typical way of life.",
+    "role_rule": "Each child is allocated initiating, struggling, explaining and helping roles in every grade. A substantive narrative audit must reconcile those allocations with the enacted Look text before integration; counts are not proof of enacted roles.",
+    "reference_status": "v7 portraits and classroom apply user-requested all-back plaits for Grace and clean shaved scalp for John, with Aishatu hijab retained. User review pending.",
+    "introduction_asset": "artwork/redesign/references/lead-introductions-v7.png",
+    "recurring_guests": "Develop a small returning group rather than an unrelated new adult each lesson: Aishatu's cousins, Adamu's aunt, Grace's grandfather and John's cousin. Add a teacher, family friend and peer guest with distinct agency where needed. Guest names, specific backgrounds and visual references remain pending evidence and review. Family links may convey messages from other LGAs; no guest represents an entire community."
+  },
+  "characters": [
+    {
+      "id": "aishatu",
+      "name": "Aishatu",
+      "pronouns": "she/her",
+      "roots_lga": "Gombe",
+      "personality": "Energetic maker who builds cardboard toys with her cousins; often starts before planning.",
+      "strength": "Turns an idea into a practical model and invites friends to try it.",
+      "growth": "Learns to estimate, organise and check designs.",
+      "visual": "Dark-brown skin; round face; mustard hijab covering hair, neck and shoulders; teal long-sleeved ankle-length dress and practical shoes. Hijab restored at user request on 18 October 2026; use revised v2 portraits and scene, not the superseded hair-puff reference.",
+      "intro_title": "The box-toy builder",
+      "pupil_intro_short": [
+        "I'm Aishatu from Gombe. My cousins and I make toy shops from old boxes.",
+        "I like building things and trying new ideas.",
+        "I don't like long waits. Let's make something!"
+      ],
+      "pupil_intro": "I'm Aishatu from Gombe. My cousins and I make toy shops from old boxes. I like building things and trying new ideas. I don't like long waits. Let's make something!",
+      "signature_prop": "Shared club notebook; it can be passed to any friend.",
+      "voice": "Let's make it! What should we check first?",
+      "backstory": "Fictional family connections centre on Gombe town; cousins share her interest in making cardboard toys.",
+      "interests": [
+        "Cardboard toys",
+        "Making models with cousins",
+        "Trying a design"
+      ],
+      "relationships": "Invites Adamu to invent a game for her models; asks Grace to record trials and John to test a puzzle route.",
+      "grade_growth": {
+        "p1": "Makes simple toys; pauses to count and sort materials.",
+        "p2": "Plans shared kits and checks regrouped amounts.",
+        "p3": "Estimates supplies and revises measured designs with the group."
+      },
+      "likes": [
+        "Building cardboard toys",
+        "Trying new ideas"
+      ],
+      "dislikes": [
+        "Long waits before trying an idea"
+      ],
+      "interaction_rule": "Shows excitement about her toy shop; the teacher helps her pause and count before starting."
+    },
+    {
+      "id": "adamu",
+      "name": "Adamu",
+      "intro_title": "The game storyteller",
+      "pupil_intro_short": [
+        "I'm Adamu. My family is from Dukku. My cousins turn my funny stories into games.",
+        "I like stories and fair turns.",
+        "I don't like anyone being left out. Come and play!"
+      ],
+      "pupil_intro": "I'm Adamu. My family is from Dukku. My cousins turn my funny stories into games. I like stories and fair turns. I don't like anyone being left out. Come and play!",
+      "pronouns": "he/him",
+      "roots_lga": "Dukku",
+      "personality": "Sociable storyteller and game organiser; sometimes trusts a convincing guess.",
+      "strength": "Gives a problem a memorable story and helps everyone understand the rules.",
+      "growth": "Learns to test claims and explain fair rules.",
+      "visual": "Deep-brown skin; oval face; close-cropped black hair; blue shirt and clay-coloured shorts. Proposed reference palette, pending user approval.",
+      "signature_prop": "Small reusable craft pouch; no sharp tools shown.",
+      "voice": "I have a story for this game. Is the rule fair?",
+      "backstory": "Fictional family connections to Dukku; enjoys gathering cousins and friends for stories and games.",
+      "interests": [
+        "Stories",
+        "Organising games",
+        "Inventing fair rules"
+      ],
+      "relationships": "Turns Aishatu's models into games; listens to Grace's recorded evidence and trades puzzle jokes with John.",
+      "grade_growth": {
+        "p1": "Tells a short counting story and checks a guess with objects.",
+        "p2": "Organises equal teams and explains a checked result.",
+        "p3": "Tests a convincing claim and defends a fair rule using evidence."
+      },
+      "likes": [
+        "Funny stories",
+        "Games where everyone gets a turn"
+      ],
+      "dislikes": [
+        "Anyone being left out of a game"
+      ],
+      "interaction_rule": "Asks for fair turns and another try; learns that excitement in a story still needs a checked count."
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "intro_title": "The notebook explorer",
+      "pupil_intro_short": [
+        "I'm Grace. My family is from Billiri. Grandfather and I keep a discovery notebook.",
+        "I like neat drawings and tiny details.",
+        "I don't like smudges. But I can try again!"
+      ],
+      "pupil_intro": "I'm Grace. My family is from Billiri. Grandfather and I keep a discovery notebook. I like neat drawings and tiny details. I don't like smudges. But I can try again!",
+      "pronouns": "she/her",
+      "roots_lga": "Billiri",
+      "personality": "Determined observer who wants perfect results; learns to welcome rough attempts.",
+      "strength": "Notices changes and records useful details across repeated trials.",
+      "growth": "Learns through experiments, mistakes and alternative methods.",
+      "visual": "Medium-dark brown skin; heart-shaped face; neat all-back cornrow plaits close to the scalp, running from forehead to nape with compact tucked ends; no loose twists or side braids. Clay top, green knee-length skirt and notebook. Updated at user request in v7.",
+      "signature_prop": "The shared discovery album and club notebook.",
+      "voice": "Let me note that. What could we try next?",
+      "backstory": "Fictional family connections include Billiri; keeps a growing observation notebook with her grandfather.",
+      "interests": [
+        "Observing everyday things",
+        "Notebook entries with her grandfather",
+        "Testing another method"
+      ],
+      "relationships": "Records Aishatu's trials, questions Adamu's guesses kindly and asks John for a different puzzle strategy; grandfather is a recurring listener.",
+      "grade_growth": {
+        "p1": "Records observations through pictures and accepts a corrected count.",
+        "p2": "Keeps simple tables and compares methods despite an untidy first attempt.",
+        "p3": "Uses units and data carefully, discussing uncertainty and revising an explanation."
+      },
+      "likes": [
+        "Neat notebook drawings",
+        "Noticing tiny details"
+      ],
+      "dislikes": [
+        "Smudges on her notebook page"
+      ],
+      "interaction_rule": "Wants a neat cup record; accepts a smudge, recounts and corrects her first attempt."
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "intro_title": "The puzzle-map maker",
+      "pupil_intro_short": [
+        "I'm John. My family is from Yamaltu/Deba. I make puzzle maps for my cousins.",
+        "I use a wheelchair. I like drawing secret paths.",
+        "I don't like answers before I've had a try!"
+      ],
+      "pupil_intro": "I'm John. My family is from Yamaltu/Deba. I make puzzle maps for my cousins. I use a wheelchair. I like drawing secret paths. I don't like answers before I've had a try!",
+      "pronouns": "he/him",
+      "roots_lga": "Yamaltu-Deba",
+      "personality": "Humorous puzzle enthusiast who draws imaginary places; sometimes hesitates to request help.",
+      "strength": "Imagines playful routes and alternative solutions, using drawings and humour.",
+      "growth": "Develops confidence in collaboration and shared problem-solving, including asking for useful help.",
+      "visual": "Dark-brown skin; square face; completely clean skin-cut shaved scalp with no visible hair, curls or stubble. Green shirt and ochre trousers. Consistent blue manual wheelchair with rear wheels, push rims, casters and foot support. Updated at user request in v7.",
+      "signature_prop": "Manual wheelchair, always consistent; shared notebook and model boards within reach.",
+      "voice": "My imaginary town has a puzzle! Could you help me test it?",
+      "mobility": "Wheelchair user. Depict active self-directed participation and a practical clear approach to every table. Do not invent a diagnosis, require a rescue, or make disability his only story.",
+      "backstory": "Fictional family connections include Yamaltu-Deba; uses a manual wheelchair and enjoys collaborative puzzles.",
+      "interests": [
+        "Puzzles",
+        "Drawing imaginary places",
+        "Gentle jokes"
+      ],
+      "relationships": "Trades game ideas with Adamu, tests Aishatu's models and offers Grace an alternative drawing; also asks them for help.",
+      "grade_growth": {
+        "p1": "Shares a picture puzzle and practises asking a friend for help.",
+        "p2": "Collaborates on group arrangements and explains his own strategy.",
+        "p3": "Co-designs accessible displays and invites peers to challenge or improve a solution."
+      },
+      "likes": [
+        "Drawing secret paths",
+        "Solving a puzzle for himself"
+      ],
+      "dislikes": [
+        "Being told the answer before he has tried"
+      ],
+      "interaction_rule": "Requests thinking time before hints; connects cup counts to his puzzle book and explains his own method."
+    }
+  ],
+  "adult_guidance": "Adults may supervise cutting, water, travel and lifting. They do not answer the assessed maths. Family visits and messages are fictional, not records of actual people.",
+  "representation_checks": [
+    "Equal agency and conversational space for both girls and both boys.",
+    "Every child makes a recoverable mistake and explains a useful idea.",
+    "Reachable tables and clear wheelchair approach; do not touch or push John's chair without his request.",
+    "No religious, linguistic or ethnic identity inferred from names or clothing.",
+    "Everyday varied settings; do not reduce any LGA to a stereotype."
+  ],
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

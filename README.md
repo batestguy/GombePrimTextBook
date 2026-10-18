@@ -1,6 +1,38 @@
-# Gombe Mathematics — Book 1
+# Maths with Friends
+
+Current authoring authority: [CHAPTER-STANDARD.md](docs/CHAPTER-STANDARD.md), [independent review](docs/CHAPTER-REVIEW.md), and [handoff template](docs/HANDOFF-TEMPLATE.md). All 63 chapters are registered; independent approval against this standard is pending. Run `python scripts/check_chapter_standard.py`; use `--chapter P1-01 --require-reviewed` for the approval gate. Legacy full-book validation does not approve the redesign.
+
+Working title for the redesign: **Maths with Friends — Count. Explore. Discover.**
+The latest [interactive classroom chapter sample](output/pdf/Maths-with-Friends-One-to-five-v7.pdf)
+has short child stories with likes/dislikes, followed by one full page separately
+introducing Mrs Binta and Mr Aliyu. Grace has all-back plaits and John a clean
+shaved head; John's mobility is mentioned briefly. Their preferences shape the
+classroom dialogue around Aishatu's pretend tea shop.
+Mr Aliyu keeps his native clothing and cap as the next chapter teacher.
+White pages, exact cup illustrations, unnumbered pupil tasks and recall remain.
+Build with `python scripts/build_chapter_sample_v7.py`. Earlier review editions retain their
+existing names and remain available below.
 
 Complete **review edition** of one English-only, full-colour A4 write-in volume for Primary 1–3. It contains 63 lessons, 9 term revisions, 6 class assessment pages, a multiplication reference, exactly four final AI teaching pages, teacher guidance, worked examples and answers, 59 objective checks, a 155-objective historical curriculum crosswalk, glossary, credits and Book 2 topic outline.
+
+The character/story/visual revision is in preparation. Read the complete
+[redesign plan](docs/REDESIGN-PLAN.md) and current
+[session handoff](docs/SESSION-HANDOFF.md) before continuing. Proposed registries
+and reference artwork do not replace or approve the existing edition.
+
+The first isolated redesign sample is ready for assessment:
+[Primary 1: One to five, character revision](output/pdf/Maths-with-Friends-One-to-five-v7.pdf).
+It begins with two illustrated backstory pages for all four leads, with Aishatu's
+mustard hijab retained, followed by a full teacher-introduction page, a classroom
+opening, five counting pages and one teacher/answer page. Mrs Binta and the children
+count, discuss and practise together.
+Question IDs appear only in the teacher guide. All cup quantities are exact.
+Earlier PDFs
+are retained for comparison. Characters and artwork remain provisional.
+Build the latest sample with `python scripts/build_chapter_sample_v7.py`;
+the candidate lesson overlay is `production/prototypes/p1-01-v7.json`.
+This experiment uses the installed ReportLab/PyMuPDF tools and does not replace
+the canonical JSON-to-Quarto production workflow.
 
 Open `output/pdf/Gombe-Mathematics-Book-1.pdf`. Print `output/pdf/sample-lessons.pdf` at **Actual size / 100%**, with scaling disabled, for the Primary 1 counting, Primary 2 regrouping and Primary 3 measurement samples.
 

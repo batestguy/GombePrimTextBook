@@ -1,0 +1,16 @@
+{
+  "id": "scene-p1-01-hijab-v2",
+  "asset": "artwork/redesign/scenes/p1-01-hijab-v2.png",
+  "status": "revised-at-user-request-awaiting-review",
+  "generated_on": "2026-10-18",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit / identity-preserve. Image 1 is the target school counting scene. Image 2 is the revised character reference. Edit image 1: restore the hijab to Aishatu, the girl at far LEFT reaching for the red counter. She must wear the MUSTARD HIJAB fully covering hair, neck and shoulders and TEAL LONG-SLEEVED full-length dress from image 2 top-left portrait. No hair puffs. Preserve Aishatu's face, expression, pose, hand position and action; her sleeves must cover her arms to wrists and her dress extends below the table naturally. Keep the other three children, their identities, clothes, poses, wheelchair, entire table, mat, counters, tree and school setting, lighting and warm gouache style unchanged. No text, numbers, logos or added people. This is the same fictional scene with only her clothing corrected to match the updated reference.",
+  "references": [
+    "artwork/redesign/scenes/p1-01-review-v1.png",
+    "artwork/redesign/references/lead-introductions-hijab-v2.png"
+  ],
+  "authorization": "User requested backstories first, restoration of the girl wearing a hijab, and nice introductions for all four children.",
+  "inspection": "Aishatu's mustard hijab and teal long-sleeved dress restored. Other three characters retain their proposed appearance. Faces, hands, clothing and complete character portraits visually inspected; specialist/local review pending.",
+  "quantities": "Decorative artwork; exact assessed quantities are rendered by code.",
+  "approval": "pending review of revised sample"
+}

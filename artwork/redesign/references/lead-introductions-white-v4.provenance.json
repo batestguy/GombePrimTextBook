@@ -1,0 +1,13 @@
+{
+  "id": "reference-introductions-white-v4",
+  "asset": "artwork/redesign/references/lead-introductions-white-v4.png",
+  "tool": "built-in image_gen",
+  "type": "background-extraction",
+  "source_image": "artwork/redesign/references/lead-introductions-hijab-v2.png",
+  "prompt": "Use case: background-extraction. Edit the supplied four-character introduction sheet. Remove ONLY the cream paper background and the ground shadows to create a genuinely transparent background behind and between the characters. Preserve all four children's faces, expressions, hands, skin, clothing, props and wheelchair exactly: Aishatu top-left in mustard hijab and teal full-length long-sleeved dress holding cardboard airplane, Adamu top-right in blue shirt clay shorts, Grace bottom-left with notebook clay shirt green skirt, John bottom-right green shirt ochre trousers in blue manual wheelchair. Preserve the EXACT 2 by 2 equal quadrant layout, square image, each full-body figure entirely within its own quadrant at the same size and position, no cropping, no text or labels, no new details. All cream outside the figures becomes transparent; do not remove cream paper in notebook, drawing or toy. This cutout will be placed on pure white textbook pages.",
+  "generated_on": "2026-10-18",
+  "status": "sample-for-review",
+  "authorization": "User requested a white background instead of yellow for clearer printing.",
+  "inspection": "Four characters retain clothing, identities, poses and 2x2 layout, with Aishatu's hijab intact. Transparent background inspected; inspect page composites for cutout edges.",
+  "quantities": "Decorative portraits; no assessed quantities."
+}

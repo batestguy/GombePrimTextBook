@@ -1,0 +1,14 @@
+{
+  "id": "teacher-mr-aliyu-source-v6",
+  "asset": "artwork/redesign/teachers/mr-aliyu-v6.png",
+  "type": "fictional-teacher-source-portrait",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-18",
+  "prompt": "Use case: illustration-story. A full-body portrait of Mr Aliyu, a fictional adult male Nigerian primary school teacher, friendly and confident, dark-brown skin, short neatly groomed beard, warm welcoming smile. Hausa-inspired native outfit as requested by the author: a handsome cream long-sleeved knee-length kaftan with restrained leaf-green embroidery around the neckline and chest, matching cream trousers, practical brown slip-on shoes, and a neatly fitted traditional embroidered cap (not a turban), cream and muted green geometric embroidery. Individual tasteful clothing, not a claim that all Hausa people dress alike; no religious symbols or flags. Holds a plain blue lesson folder under one arm, other hand open in a welcoming gesture. Warm expressive hand-painted gouache children's storybook style, consistent with Maths with Friends. Full head, cap, hands, complete outfit and shoes inside frame with generous margins. Genuinely transparent background, no shadow, no lettering, labels, numerals or counted objects. No extra people. Correct natural anatomy. This portrait introduces the next chapter teacher to Aishatu, Adamu, Grace and John.",
+  "references": [],
+  "status": "source-before-background-cleanup",
+  "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+  "inspection": "Mr Aliyu shown in cream embroidered native kaftan/trousers, embroidered cap and brown shoes. Cleaned cutout inspected on white PDF. Hausa-inspired clothing is an editorial choice at user request; local cultural review pending.",
+  "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+  "review": "User assessment pending."
+}

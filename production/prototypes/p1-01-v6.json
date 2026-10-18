@@ -1,0 +1,28 @@
+{
+  "id": "P1-01",
+  "base_lesson": "production/prototypes/p1-01-v5.json",
+  "classroom_asset": "artwork/redesign/scenes/classroom-welcome-v6.png",
+  "visitor_teacher_id": "mr-aliyu",
+  "visitor_intro": "Hello! I am Mr Aliyu. I will teach our next chapter. First, show me what you learn with Ms Binta!",
+  "opening_teacher": "Welcome, friends! Face the board. Let's learn to count together.",
+  "opening_children": "We're ready, Ms Binta!",
+  "opening_aishatu": "Welcome, Mr Aliyu! You can join our learning club.",
+  "board_lines": ["Touch one.", "Say one number."],
+  "exchanges": {
+    "model": {"child": "aishatu", "teacher": "Aishatu, touch each cup and say one number.", "reply": "I will start at the left. Count with me!"},
+    "together": {"child": "grace", "teacher": "Grace, count the cups with me. Then tell us how many.", "reply": "I'll keep our cup record. Join in with us!"},
+    "write": {"child": "john", "teacher": "John, the written number can show how many cups you counted.", "reply": "Can we put our numbers in my picture book?"},
+    "recall": {"child": "adamu", "teacher": "Adamu, what do you remember about counting?",
+      "reply": "I touched one cup twice. Can we check together?"}
+  },
+  "task_dialogue": [
+    {"child": "aishatu", "heading": "Aishatu's cups", "prompt": "Count with me. Touch each cup once. Write how many."},
+    {"child": "grace", "heading": "Grace checks her record", "prompt": "Please check this group with me. Count the cups. Write how many."},
+    {"child": "john", "heading": "John's picture idea", "prompt": "Let's draw a circle for each cup. You will draw two circles."},
+    {"child": "grace", "heading": "Grace writes the numbers", "prompt": "Trace with me. Then write the numbers in the empty boxes."},
+    {"child": "john", "heading": "John counts on his hand", "prompt": "Hold up four fingers with me. Count them. Write how many."},
+    {"child": "adamu", "heading": "Help Adamu start again", "prompt": "I touched a cup twice. Show me how to count each cup just once."}
+  ],
+  "scene_scope": "Fictional classroom, four familiar pupils seated facing Ms Binta and the large board. Board instructions are typeset by code. No assessed quantities are taken from generated classroom artwork.",
+  "participation_scope": "Aishatu initiates, Grace records and checks, John proposes a drawing and finger strategy, Adamu requests a counting repair. Ms Binta responds and leads; Mr Aliyu is introduced for the next chapter."
+}

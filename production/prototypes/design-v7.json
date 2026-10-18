@@ -1,0 +1,31 @@
+{
+  "book_title": "Maths with Friends",
+  "subtitle": "Count. Explore. Discover.",
+  "page_background": "#FFFFFF",
+  "introduction_asset": "artwork/redesign/references/lead-introductions-v7.png",
+  "front_matter_order": [
+    "Children's stories",
+    "A full page with separate teacher introductions",
+    "Classroom chapter opening"
+  ],
+  "teacher_intro_page": {
+    "title": "Meet your teachers",
+    "subtitle": "Two friendly guides for our learning club.",
+    "introductions": [
+      {
+        "id": "ms-binta",
+        "name": "Mrs Binta",
+        "tagline": "Big ideas. Brave little tries.",
+        "intro": "Hello! I'm Mrs Binta. I turn everyday things into maths games. I like curious questions and brave tries. In my class, a mistake is a chance to learn. Bring your ideas!"
+      },
+      {
+        "id": "mr-aliyu",
+        "name": "Mr Aliyu",
+        "tagline": "Riddles, games and discoveries.",
+        "intro": "Hello! I'm Mr Aliyu. I enjoy number riddles and building games. I like asking, 'How did you know?' We will learn together in our next chapter. I can't wait to hear your ideas!"
+      }
+    ]
+  },
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

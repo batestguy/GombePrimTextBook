@@ -1,0 +1,14 @@
+{
+  "id": "lead-introductions-v7",
+  "asset": "artwork/redesign/references/lead-introductions-v7.png",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-18",
+  "type": "identity-preserving-hairstyle-edit",
+  "prompt": "Use case: identity-preserve / precise-object-edit. Edit the supplied 2-by-2 transparent character sheet, preserving EXACT four-quadrant layout, each child's facial identity, skin tone, body, clothing, props, expression, pose and size. ONLY TWO HAIR CHANGES. Bottom-left Grace: replace short loose twists with neat Nigerian-style ALL-BACK PLAITS: close-to-scalp cornrow braids in distinct orderly rows running from forehead straight back to nape; tiny neatly tucked ends at back, NO loose twists, no afro, no fringe, no beads or hanging side braids. Bottom-right John: replace all curly hair with a clean skin-cut shaved scalp, completely smooth closely shaved dark-brown head, NO visible hair, curls, hairline band or stubble. Preserve John's youthful facial identity, green shirt, ochre trousers, pose, drawing and complete blue manual wheelchair exactly. Top-left Aishatu keeps mustard hijab covering hair and teal long-sleeved full-length dress; top-right Adamu keeps cropped hair blue shirt clay shorts unchanged. Entire figures and wheelchair remain inside their quadrants with margins. Genuinely transparent background, no cream wash or shadow outside figures. No text, labels, numbers or new objects. Friendly children's gouache style unchanged.",
+  "source_image": "artwork/redesign/references/lead-introductions-white-v4.png",
+  "transparent_background": true,
+  "authorization": "User requested Grace with all-back Nigerian plaits and John with a clean skin-cut head with no hair; preserve short mobility mention, hijab and child identities.",
+  "inspection": "Grace has close-to-scalp all-back cornrow plaits without loose hanging twists. John has a smooth shaved scalp without visible hair; wheelchair retained. Aishatu hijab and Adamu appearance retained. Both revised assets viewed before use.",
+  "quantities": "Decorative reference/scene. All assessed cups remain deterministic code-drawn diagrams.",
+  "status": "revised-sample-for-user-review"
+}

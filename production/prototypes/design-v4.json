@@ -1,0 +1,11 @@
+{
+  "book_title": "Maths with Friends",
+  "subtitle": "Count. Explore. Discover.",
+  "status": "user-review-sample",
+  "page_background": "#FFFFFF",
+  "text_colour": "#18211C",
+  "panel_background": "#FFFFFF",
+  "writing_rule": "#707870",
+  "introduction_asset": "artwork/redesign/references/lead-introductions-white-v4.png",
+  "design_reason": "One action per instruction, explicit worked count, white writing surfaces, diagrams beside tasks, no unexplained frames or repeated counting snapshots."
+}

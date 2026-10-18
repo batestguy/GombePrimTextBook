@@ -1,0 +1,14 @@
+{
+  "id": "classroom-welcome-v7",
+  "asset": "artwork/redesign/scenes/classroom-welcome-v7.png",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-18",
+  "type": "identity-preserving-hairstyle-edit",
+  "prompt": "Use case: identity-preserve / precise-object-edit. Edit this exact classroom scene while preserving the whole composition, furniture, enormous blank white teaching board, teacher Binta's face and blue blouse/clay skirt, lighting, four seated children facing the teacher and all poses. ONLY change Grace's and John's hairstyles. Grace is the child seated left-centre wearing the clay top and green skirt: replace dangling twists with neat all-back cornrow plaits, close to the scalp with clear rows from forehead straight back toward nape, compact tucked braided ends; no loose twists, no hanging side braids. John is the wheelchair user at far right wearing green: replace ALL hair with a completely smooth, clean skin-cut shaved scalp, dark-brown skin, NO curls, visible hair, hairline band or stubble. Same head shape, age and profile. Preserve Aishatu's mustard hijab and teal dress, Adamu's cropped hair/blue shirt/clay shorts and raised hand; preserve John's entire blue manual wheelchair, desk and access space. Board stays COMPLETELY BLANK PURE WHITE, no text or numbers: exact instructions will be typeset afterwards. No new people or objects. Warm expressive children's gouache style. Landscape dimensions unchanged.",
+  "source_image": "artwork/redesign/scenes/classroom-welcome-v6.png",
+  "transparent_background": false,
+  "authorization": "User requested Grace with all-back Nigerian plaits and John with a clean skin-cut head with no hair; preserve short mobility mention, hijab and child identities.",
+  "inspection": "Grace has close-to-scalp all-back cornrow plaits without loose hanging twists. John has a smooth shaved scalp without visible hair; wheelchair retained. Aishatu hijab and Adamu appearance retained. Both revised assets viewed before use.",
+  "quantities": "Decorative reference/scene. All assessed cups remain deterministic code-drawn diagrams.",
+  "status": "revised-sample-for-user-review"
+}

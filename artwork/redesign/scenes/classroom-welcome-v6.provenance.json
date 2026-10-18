@@ -1,0 +1,17 @@
+{
+  "id": "scene-classroom-welcome-v6",
+  "asset": "artwork/redesign/scenes/classroom-welcome-v6.png",
+  "type": "fictional-classroom-opener",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-18",
+  "prompt": "Use case: illustration-story. Create an inviting wide landscape classroom opening illustration for Maths with Friends. Input 1 is the exact teacher appearance reference (Ms Binta in blue blouse and clay skirt). Input 2 is the four children's appearance reference in quadrants: top-left Aishatu mustard hijab teal long-sleeved ankle-length dress, top-right Adamu blue shirt clay shorts, bottom-left Grace short twists clay top green skirt and notebook, bottom-right John green shirt ochre trousers in blue manual wheelchair. Preserve these individual identities and clothing. Fictional bright welcoming primary classroom in Gombe, Nigeria, soft daylight from large windows, white plaster walls, restful green and clay accents, clean practical furniture. Important composition: camera from the BACK of the classroom looking toward the FRONT. The four children are SITTING at low desks facing Ms Binta and an exceptionally LARGE, perfectly front-facing rectangular WHITE TEACHING BOARD on the front wall. All four bodies and gazes clearly oriented toward the teacher, not facing the viewer; use back and three-quarter rear views with partial profiles so faces and clothing are recognisable. Aishatu sits front-left in hijab, Grace left-centre notebook ready, Adamu right-centre raises his hand slightly while seated, John sits at the right in his OWN blue manual wheelchair at an accessible desk, clear aisle and knee space. John's chair has plausible rear wheels push rims casters supported feet. Ms Binta stands to the LEFT of the large board, welcoming children and gesturing toward it. No other adults or pupils. Board must be PURE WHITE and COMPLETELY BLANK: no images, writing, numerals, tally marks or symbols; exact typeset instructions will be overlaid later. Reserve a clean board area roughly x=30%-90% across image and y=7%-40% down the image, unobstructed and not in perspective. No counted cups, mathematical quantities or text elsewhere. Warm expressive polished children's gouache, consistent with references; full classroom scene, calm joyful anticipation. No logos, flags, patterns claiming authenticity. Whole composition fits landscape 3:2 image.",
+  "references": [
+    "artwork/redesign/teachers/ms-binta-v5.png",
+    "artwork/redesign/references/lead-introductions-white-v4.png"
+  ],
+  "status": "chapter-prototype-for-user-review",
+  "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+  "inspection": "Four familiar children seated toward Ms Binta and large blank board; Aishatu's hijab retained and John in his wheelchair. Board text typeset by code after generation. No counts assessed from scene.",
+  "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+  "review": "User assessment pending."
+}

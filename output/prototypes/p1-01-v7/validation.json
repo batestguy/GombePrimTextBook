@@ -1,0 +1,94 @@
+{
+  "status": "automated_checks_passed_visual_review_required",
+  "pages": 10,
+  "introduction_pages": 2,
+  "teacher_introduction_pages": 1,
+  "classroom_opening_pages": 1,
+  "mathematics_pages": 5,
+  "teacher_guide_pages": 1,
+  "pupil_task_numbers": false,
+  "pupil_question_ids": false,
+  "pre_model_numerals": false,
+  "teacher": "Mrs Binta",
+  "teacher_gender": "female",
+  "visitor": "Mr Aliyu",
+  "child_participation_on_all_lesson_pages": true,
+  "likes_and_dislikes_in_introductions": true,
+  "brief_mobility_mention": true,
+  "exact_cup_counts": [
+    {
+      "page": 5,
+      "label": "teacher-model-three",
+      "count": 3
+    },
+    {
+      "page": 6,
+      "label": "ladder-1",
+      "count": 1
+    },
+    {
+      "page": 6,
+      "label": "ladder-2",
+      "count": 2
+    },
+    {
+      "page": 6,
+      "label": "ladder-3",
+      "count": 3
+    },
+    {
+      "page": 6,
+      "label": "ladder-4",
+      "count": 4
+    },
+    {
+      "page": 6,
+      "label": "ladder-5",
+      "count": 5
+    },
+    {
+      "page": 7,
+      "label": "Q1-three",
+      "count": 3
+    },
+    {
+      "page": 7,
+      "label": "Q2-five",
+      "count": 5
+    },
+    {
+      "page": 7,
+      "label": "Q3-two",
+      "count": 2
+    },
+    {
+      "page": 9,
+      "label": "Q6-three",
+      "count": 3
+    }
+  ],
+  "task_pages": {
+    "P1-01-Q1": 7,
+    "P1-01-Q2": 7,
+    "P1-01-Q3": 7,
+    "P1-01-Q4": 8,
+    "P1-01-Q5": 8,
+    "P1-01-Q6": 9
+  },
+  "original_question_ids_retained": true,
+  "original_source_answers_retained": true,
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "page_background": "#FFFFFF",
+  "assets": {
+    "artwork\\redesign\\references\\lead-introductions-v7.png": "19a1765a734275cf04d636900436302e3cddf8afbd74def0b1997396700d6412",
+    "artwork\\redesign\\teachers\\ms-binta-v5.png": "17e6fb607acf8b9857d29dc06cd2e2bd3c5b212d7975147f770801aa7313b2fe",
+    "artwork\\redesign\\teachers\\mr-aliyu-white-v6.png": "152b753a4592b82fc356d473917f5cc8c9a40177c640a67d291446b1ada23b77",
+    "artwork\\redesign\\scenes\\classroom-welcome-v7.png": "6c099cc627c0d5b00a4b672e1ec273c118e715489112e50295515e82f6ddd637"
+  },
+  "limits": [
+    "User assessment pending",
+    "No classroom or physical print trial",
+    "Current curriculum alignment unverified",
+    "No accessible-PDF certification"
+  ]
+}

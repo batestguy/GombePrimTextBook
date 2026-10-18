@@ -1,0 +1,83 @@
+{
+  "status": "automated_checks_passed_visual_review_required",
+  "pages": 7,
+  "introduction_pages": 2,
+  "counting_pages": 4,
+  "teacher_pages": 1,
+  "original_question_ids": 6,
+  "original_answer_meanings_retained": true,
+  "exact_original_answers_retained_in_source": true,
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "actual_pdf_green_marks_checked": true,
+  "diagram_counts": [
+    {
+      "page": 4,
+      "label": "worked-three",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "ladder-1",
+      "count": 1
+    },
+    {
+      "page": 4,
+      "label": "ladder-2",
+      "count": 2
+    },
+    {
+      "page": 4,
+      "label": "ladder-3",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "ladder-4",
+      "count": 4
+    },
+    {
+      "page": 4,
+      "label": "ladder-5",
+      "count": 5
+    },
+    {
+      "page": 5,
+      "label": "A",
+      "count": 3
+    },
+    {
+      "page": 5,
+      "label": "B",
+      "count": 5
+    },
+    {
+      "page": 6,
+      "label": "mistake-three",
+      "count": 3
+    }
+  ],
+  "book_title": "Maths with Friends",
+  "page_background": "#FFFFFF",
+  "mistake_labels": [
+    "1",
+    "2, 3",
+    "4"
+  ],
+  "recognition_cards": [
+    3,
+    1,
+    5,
+    2,
+    4
+  ],
+  "assets": {
+    "artwork\\redesign\\scenes\\p1-01-hijab-v2.png": "00629c9729972c04f9582511f9669c8c2396c963625411440c9ee03e64956b68",
+    "artwork\\redesign\\references\\lead-introductions-white-v4.png": "8066a5bac229b403bba08eb0a4971d42274078d0efaeb94f0c4b0d50a3d27321"
+  },
+  "limits": [
+    "User review pending",
+    "No classroom trial or physical print test",
+    "Current curriculum verification pending",
+    "No accessible PDF certification"
+  ]
+}

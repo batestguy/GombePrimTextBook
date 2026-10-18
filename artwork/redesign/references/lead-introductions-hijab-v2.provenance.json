@@ -1,0 +1,16 @@
+{
+  "id": "reference-introductions-hijab-v2",
+  "asset": "artwork/redesign/references/lead-introductions-hijab-v2.png",
+  "status": "revised-at-user-request-awaiting-review",
+  "generated_on": "2026-10-18",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: identity-preserve / illustration-story. Create a square character portrait asset for four children's introductions in a Gombe Primary 1 mathematics book. Input 1 older characters: use ONLY the first girl's mustard hijab and teal long-sleeved ankle-length dress as a clothing reference. Input 2 recent named sheet: preserve the four recent children's facial identities, gouache style, and the other three children's clothes. Aishatu is the first girl and must now wear a mustard hijab covering hair, neck and shoulders, teal full-length long-sleeved dress and practical shoes; no visible hair puffs. Four EXACTLY EQUAL SQUARE QUADRANTS arranged 2 by 2, isolated on warm cream #FFF9EE with generous clear margins inside EACH square; no borders, text, letters, labels or extra faces. Each quadrant independently contains one full-body child completely inside its square: TOP LEFT Aishatu, round face, dark-brown skin, mustard hijab teal dress, delighted to hold a small cardboard toy airplane. TOP RIGHT Adamu, deep brown skin, close-cropped hair, blue short-sleeve shirt clay shorts, practical shoes, friendly open storytelling gesture. BOTTOM LEFT Grace, medium-dark brown skin, short twists, clay shirt green skirt, notebook, warm thoughtful smile. BOTTOM RIGHT John, dark-brown skin, short curls, green shirt ochre trousers, cheerful puzzle drawing on lap board, seated in functional blue manual wheelchair with realistic large rear wheels push rims front casters foot support. Show John's entire wheelchair with comfortable margins, same visual prominence as friends. Hand-painted expressive gouache, leaf green, ochre, clay, river blue, cream background. Natural hands. Plain blank notebook/drawing, no numbers or assessed counts. These are everyday fictional individuals, no cultural universality or logos. Square overall image, no content crossing quadrant boundaries, full-body views only.",
+  "references": [
+    "artwork/characters.png",
+    "artwork/redesign/references/lead-reference-proposal-v1.png"
+  ],
+  "authorization": "User requested backstories first, restoration of the girl wearing a hijab, and nice introductions for all four children.",
+  "inspection": "Aishatu's mustard hijab and teal long-sleeved dress restored. Other three characters retain their proposed appearance. Faces, hands, clothing and complete character portraits visually inspected; specialist/local review pending.",
+  "quantities": "Decorative artwork; exact assessed quantities are rendered by code.",
+  "approval": "pending review of revised sample"
+}

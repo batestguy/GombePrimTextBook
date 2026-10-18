@@ -1,0 +1,107 @@
+{
+  "status": "automated_checks_passed_visual_review_required",
+  "pages": 7,
+  "introduction_pages": 2,
+  "counting_pages": 4,
+  "teacher_pages": 1,
+  "original_question_ids": 6,
+  "original_answer_meanings_retained": true,
+  "exact_original_answers_retained_in_source": true,
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "actual_pdf_green_marks_checked": true,
+  "diagram_counts": [
+    {
+      "page": 4,
+      "label": "move-1-waiting",
+      "count": 2
+    },
+    {
+      "page": 4,
+      "label": "move-1-counted",
+      "count": 1
+    },
+    {
+      "page": 4,
+      "label": "move-2-waiting",
+      "count": 1
+    },
+    {
+      "page": 4,
+      "label": "move-2-counted",
+      "count": 2
+    },
+    {
+      "page": 4,
+      "label": "move-3-waiting",
+      "count": 0
+    },
+    {
+      "page": 4,
+      "label": "move-3-counted",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "four-five-frame",
+      "count": 4
+    },
+    {
+      "page": 4,
+      "label": "four-scattered",
+      "count": 4
+    },
+    {
+      "page": 5,
+      "label": "A",
+      "count": 3
+    },
+    {
+      "page": 5,
+      "label": "B",
+      "count": 5
+    },
+    {
+      "page": 6,
+      "label": "error-step-1",
+      "count": 3
+    },
+    {
+      "page": 6,
+      "label": "error-step-2",
+      "count": 3
+    },
+    {
+      "page": 6,
+      "label": "error-step-3",
+      "count": 3
+    },
+    {
+      "page": 6,
+      "label": "error-step-4",
+      "count": 3
+    }
+  ],
+  "mistake_touch_order": [
+    0,
+    1,
+    1,
+    2
+  ],
+  "recognition_cards": [
+    3,
+    1,
+    5,
+    2,
+    4
+  ],
+  "assets": {
+    "artwork\\redesign\\scenes\\p1-01-hijab-v2.png": "00629c9729972c04f9582511f9669c8c2396c963625411440c9ee03e64956b68",
+    "artwork\\redesign\\references\\lead-introductions-hijab-v2.png": "be6d0dbb256721e3d32296ae2e972a454b2ef444b2f496c1f281be61ef858591"
+  },
+  "limits": [
+    "User review pending",
+    "No classroom trial or physical print test",
+    "Current curriculum verification pending",
+    "No accessible PDF certification"
+  ]
+}

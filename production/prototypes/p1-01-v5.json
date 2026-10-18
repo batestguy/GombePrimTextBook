@@ -1,0 +1,29 @@
+{
+  "id": "P1-01",
+  "goal": "Count, read, write and order 1 to 5.",
+  "base_lesson": "production/prototypes/p1-01.json",
+  "teacher_id": "ms-binta",
+  "teaching_object": "large unbreakable cups",
+  "pupil_task_numbering": false,
+  "teacher_modelling": {
+    "welcome": "Hello! I am Ms Binta. Today we will learn how to count.",
+    "prepare": "Ask an adult to put some large, unbreakable cups on a table.",
+    "watch": "Watch me touch each cup once. Listen: one, two, three.",
+    "total": "The last number I said was three. There are three cups.",
+    "memory_phrase": "Touch one. Say one number.",
+    "together": "Touch each cup picture and count with me. The number beside each group tells how many cups.",
+    "recall": "What did I show you? Tell a partner. Then show your way of counting."
+  },
+  "assessments": [
+    {"id": "P1-01-Q1", "heading": "Count the row", "prompt": "Touch each cup picture once. Count aloud. Write how many.", "count": 3, "source_answer": "3", "rubric": "Three cups; one touch and one number word per cup."},
+    {"id": "P1-01-Q2", "heading": "Count this group", "prompt": "Touch each cup picture once. Count aloud. Write how many.", "count": 5, "source_answer": "5", "rubric": "Five cups, despite their different positions."},
+    {"id": "P1-01-Q3", "heading": "Draw to show how many", "prompt": "Draw a circle for each cup. You will draw two circles.", "count": 2, "source_answer": "Two separate circles.", "rubric": "Two separate circles, one for each cup picture."},
+    {"id": "P1-01-Q4", "heading": "Write the numbers", "prompt": "Trace the numbers. Then write them in the empty boxes.", "source_answer": "1, 2, 3, 4, 5", "rubric": "The numerals one to five in order; observe independent formation separately from tracing."},
+    {"id": "P1-01-Q5", "heading": "Show with your hand", "prompt": "Hold up four fingers. Count them. Write how many.", "source_answer": "4", "rubric": "Four fingers and the numeral 4. Accept a set of four objects if a hand response is unsuitable."},
+    {"id": "P1-01-Q6", "heading": "Help Adamu start again", "prompt": "Adamu touched a cup twice. Show him how to count each cup just once.", "count": 3, "source_answer": "Touch or move each top exactly once.", "rubric": "Touch or move each cup exactly once, say one number per cup, and state three cups. Explain or demonstrate without requiring written prose."}
+  ],
+  "fresh_check": "Without a model, put four cups on the table for Ms Binta. Then identify a spoken numeral among shuffled cards.",
+  "recognition_cards": [3, 1, 5, 2, 4],
+  "later_recall": "On another day ask what Ms Binta showed the class. Invite a demonstration with a fresh small set before showing the model again.",
+  "preservation_note": "The teacher guide retains the six original question IDs and mathematical answer correspondence. Cups replace tops or abstract dots in the isolated teaching sample; canonical lesson files and old edition remain untouched."
+}

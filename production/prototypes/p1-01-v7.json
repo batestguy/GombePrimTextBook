@@ -1,0 +1,95 @@
+{
+  "id": "P1-01",
+  "base_lesson": "production/prototypes/p1-01-v5.json",
+  "classroom_asset": "artwork/redesign/scenes/classroom-welcome-v7.png",
+  "visitor_teacher_id": "mr-aliyu",
+  "later_recall": "On another day ask what Mrs Binta showed the class. Invite a demonstration with a fresh small set before showing the model again.",
+  "board_lines": [
+    "Touch one.",
+    "Say one number."
+  ],
+  "classroom_title": "Aishatu's toy tea shop",
+  "opening_dialogue": [
+    [
+      "Mrs Binta",
+      "Let's help Aishatu set up her pretend tea shop. We must count the cups."
+    ],
+    [
+      "Aishatu",
+      "I can't wait to open it!"
+    ],
+    [
+      "Adamu",
+      "Can everyone have a turn?"
+    ],
+    [
+      "Mrs Binta",
+      "Yes. We will take turns and help each other."
+    ],
+    [
+      "Grace",
+      "I'll make a neat cup record."
+    ],
+    [
+      "John",
+      "Make it a puzzle! Let me try before you tell me."
+    ]
+  ],
+  "exchanges": {
+    "model": {
+      "child": "aishatu",
+      "teacher": "I know you're eager, Aishatu. Let's count before we open the shop.",
+      "reply": "I'll slow down and touch each cup once!"
+    },
+    "together": {
+      "child": "grace",
+      "teacher": "A smudge is okay, Grace. Let's check your cup record.",
+      "reply": "I'll count again and fix it. Join me!"
+    },
+    "write": {
+      "child": "john",
+      "teacher": "Try this puzzle, John. How can a written number show a cup count?",
+      "reply": "Don't tell me yet! Let me count first."
+    },
+    "recall": {
+      "child": "adamu",
+      "teacher": "Everyone gets a turn, Adamu. What will help you count?",
+      "reply": "I rushed my story and touched a cup twice. May I try again?"
+    }
+  },
+  "task_dialogue": [
+    {
+      "child": "aishatu",
+      "heading": "Aishatu's shop cups",
+      "prompt": "Help stock my toy shop. Touch each cup once. Write how many."
+    },
+    {
+      "child": "grace",
+      "heading": "Grace checks her record",
+      "prompt": "A smudge! Help me count these cups. Write how many."
+    },
+    {
+      "child": "john",
+      "heading": "John's picture puzzle",
+      "prompt": "My puzzle needs a circle for each cup. Draw two circles."
+    },
+    {
+      "child": "grace",
+      "heading": "Grace has another try",
+      "prompt": "My first try need not be perfect. Trace, then write."
+    },
+    {
+      "child": "john",
+      "heading": "John tries before a hint",
+      "prompt": "No hints yet! Show four fingers. Count. Write how many."
+    },
+    {
+      "child": "adamu",
+      "heading": "Adamu gets another turn",
+      "prompt": "I touched one cup twice. Help me try again."
+    }
+  ],
+  "participation_scope": "Likes/dislikes are enacted: Aishatu wants to open her box-toy shop quickly but pauses to count; Adamu asks for fair turns; Grace corrects a smudged record; John asks for thinking time before hints. Mrs Binta responds constructively.",
+  "chapter_standard": "docs/CHAPTER-STANDARD.md",
+  "review_protocol": "docs/CHAPTER-REVIEW.md"
+}

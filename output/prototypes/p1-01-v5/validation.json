@@ -1,0 +1,86 @@
+{
+  "status": "automated_checks_passed_visual_review_required",
+  "pages": 8,
+  "introduction_pages": 2,
+  "mathematics_pages": 5,
+  "teacher_pages": 1,
+  "pupil_task_numbers": false,
+  "pupil_question_ids": false,
+  "pre_model_numerals": false,
+  "teacher": "Ms Binta",
+  "teacher_gender": "female",
+  "exact_cup_counts": [
+    {
+      "page": 3,
+      "label": "teacher-model-three",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "ladder-1",
+      "count": 1
+    },
+    {
+      "page": 4,
+      "label": "ladder-2",
+      "count": 2
+    },
+    {
+      "page": 4,
+      "label": "ladder-3",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "ladder-4",
+      "count": 4
+    },
+    {
+      "page": 4,
+      "label": "ladder-5",
+      "count": 5
+    },
+    {
+      "page": 5,
+      "label": "Q1-three",
+      "count": 3
+    },
+    {
+      "page": 5,
+      "label": "Q2-five",
+      "count": 5
+    },
+    {
+      "page": 5,
+      "label": "Q3-two",
+      "count": 2
+    },
+    {
+      "page": 7,
+      "label": "Q6-three",
+      "count": 3
+    }
+  ],
+  "task_pages": {
+    "P1-01-Q1": 5,
+    "P1-01-Q2": 5,
+    "P1-01-Q3": 5,
+    "P1-01-Q4": 6,
+    "P1-01-Q5": 6,
+    "P1-01-Q6": 7
+  },
+  "original_question_ids_retained": true,
+  "original_source_answers_retained": true,
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "page_background": "#FFFFFF",
+  "assets": {
+    "artwork\\redesign\\references\\lead-introductions-white-v4.png": "8066a5bac229b403bba08eb0a4971d42274078d0efaeb94f0c4b0d50a3d27321",
+    "artwork\\redesign\\teachers\\ms-binta-v5.png": "17e6fb607acf8b9857d29dc06cd2e2bd3c5b212d7975147f770801aa7313b2fe"
+  },
+  "limits": [
+    "User assessment pending",
+    "No classroom or physical print trial",
+    "Current curriculum alignment unverified",
+    "No accessible-PDF certification"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "teacher-mr-aliyu-white-v6",
+  "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+  "type": "fictional-teacher-background-extraction",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-18",
+  "prompt": "Use case: background-extraction. Edit this exact Mr Aliyu portrait. Keep the entire man, his exact smiling face, cream embroidered native kaftan, trousers, embroidered cap, blue book, hands, shoes, pose and proportions unchanged. Remove EVERY background pixel and every shadow/glow/gradient around and behind him so the background is genuinely fully transparent, clean edges, no halo. Preserve cream colour INSIDE his outfit. No paper texture, beige wash or vignette outside the body. Entire head cap and shoes stay in frame. This cutout must sit directly on a pure white textbook page without a coloured rectangle or glow.",
+  "references": [
+    "artwork/redesign/teachers/mr-aliyu-v6.png"
+  ],
+  "status": "chapter-prototype-for-user-review",
+  "authorization": "User requested a classroom opener, four children seated facing the female teacher and a large board, interactive pupil-teacher exchanges, and Mr Aliyu in Hausa-themed native clothing and a cap. User confirmed Mr Aliyu instead of Tunde.",
+  "inspection": "Mr Aliyu shown in cream embroidered native kaftan/trousers, embroidered cap and brown shoes. Cleaned cutout inspected on white PDF. Hausa-inspired clothing is an editorial choice at user request; local cultural review pending.",
+  "quantities": "Decorative asset. Assessed cups drawn and counted deterministically in chapter code.",
+  "review": "User assessment pending."
+}

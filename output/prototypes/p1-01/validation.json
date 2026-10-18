@@ -1,0 +1,62 @@
+{
+  "status": "automated_checks_passed_visual_review_required",
+  "pages": 7,
+  "introduction_pages": 2,
+  "counting_pages": 4,
+  "pupil_pages": 6,
+  "teacher_pages": 1,
+  "format": "A4 RGB review PDF",
+  "stable_question_ids": 6,
+  "answers_match_original": true,
+  "objective_matches_original": true,
+  "dots": [
+    {
+      "page": 4,
+      "label": "ladder-1",
+      "count": 1
+    },
+    {
+      "page": 4,
+      "label": "ladder-2",
+      "count": 2
+    },
+    {
+      "page": 4,
+      "label": "ladder-3",
+      "count": 3
+    },
+    {
+      "page": 4,
+      "label": "ladder-4",
+      "count": 4
+    },
+    {
+      "page": 4,
+      "label": "ladder-5",
+      "count": 5
+    },
+    {
+      "page": 5,
+      "label": "A",
+      "count": 3
+    },
+    {
+      "page": 5,
+      "label": "B",
+      "count": 5
+    }
+  ],
+  "fonts": [
+    "AAAAAA+DejaVuSans",
+    "AAAAAA+DejaVuSans-Bold"
+  ],
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "illustration_sha256": "00629c9729972c04f9582511f9669c8c2396c963625411440c9ee03e64956b68",
+  "portraits_sha256": "be6d0dbb256721e3d32296ae2e972a454b2ef444b2f496c1f281be61ef858591",
+  "limitations": [
+    "Provisional character and scene review",
+    "No current curriculum approval",
+    "No physical print test or printer approval",
+    "Not the full three-lesson prototype pack"
+  ]
+}

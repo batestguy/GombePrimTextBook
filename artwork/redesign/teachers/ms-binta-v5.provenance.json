@@ -1,0 +1,13 @@
+{
+  "id": "teacher-ms-binta-v5",
+  "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+  "type": "fictional-chapter-teacher-portrait",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: illustration-story. Create one friendly fictional female Nigerian primary school teacher named Ms Binta for a full-colour mathematics book called Maths with Friends. No text in the artwork. Warm expressive hand-painted gouache matching a contemporary children's storybook, dark-brown skin, kind attentive face, natural proportions and hands. Adult woman in her thirties, neat short natural braids, modest practical river-blue long-sleeved blouse and clay-coloured skirt, small plain green notebook tucked under one arm. Waist-up three-quarter pose facing toward viewer's left, one open hand gesturing gently down-left as if inviting children to watch a demonstration. Confident, warm and patient expression. Isolated on genuinely transparent background, entire head torso and hands inside frame with generous margins. No numbers, letters, logos, chalkboard, pupils, furniture, counters or counted objects. Individual everyday clothing, no claim of ethnic or religious identity. Clean cutout with no paper texture outside the figure, no ground shadow. Portrait used beside typeset teacher speech and exact code-drawn cup diagrams; do not draw the diagrams.",
+  "generated_on": "2026-10-18",
+  "status": "chapter-prototype-for-review",
+  "authorization": "User requested a clearer, more visual chapter led by a female or male teacher, with later opportunities to remember what the teacher taught.",
+  "inspection": "Friendly female adult teacher; blue blouse, clay skirt, green notebook, welcoming hand. No assessed quantity in artwork. Transparent background inspected.",
+  "quantities": "No assessed counts. Cup quantities rendered deterministically by chapter code.",
+  "reference_approval": "pending review of chapter"
+}
