@@ -1,5 +1,17 @@
 # Contents and page budget
 
+Opening-pair implementation: textbook 22 pages (4 front matter, 6 Chapter 1,
+7 Chapter 2, 5 adult guidance/answers/notes); workbook 10 pages (1 opening,
+4 Chapter 1, 5 Chapter 2). Both are review extracts. These counts are not an
+annual page budget. See output/primary-1-opening/HANDOFF.md and the active plan.
+
+Current Primary 1 scope is the **whole school year**, not nineteen weeks. Use
+[the active annual plan](../docs/PRIMARY-1-PRODUCTION-PLAN.md): three provisional
+terms with 30 teaching weeks plus revision/assessment/contingency allowances.
+The separate reusable textbook/workbook page budgets will follow assembly of the
+opening units; no new page total is fixed. The 247-page allocation below describes
+the historical combined edition and is not a budget for any new class book.
+
 Redesigned chapter pacing and page counts are flexible under [CHAPTER-STANDARD.md](../docs/CHAPTER-STANDARD.md). Keep all required learning experiences and volume backmatter; apply [independent review](../docs/CHAPTER-REVIEW.md). Earlier page budgets below describe the legacy edition.
 
 Final digital review allocation; there was no fixed page cap. Term groupings are editorial, not an official scheme.

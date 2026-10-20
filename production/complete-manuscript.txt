@@ -400,16 +400,22 @@ P1-02 • LEARN
 Sort, match and order
 Today: Sort collections and compare small sets.
 1 Look and Talk
-Zainab has leaves and bottle tops. How could she put things 
-that are alike together?
+Aishatu's toy shop is open. The club needs to tidy leaf 
+tickets and top counters for a new game. Mr Aliyu helps 
+them sort and compare.
 2 Learn Together
-A set is a collection. Sort by one rule, 
-such as colour or shape. Match one 
-object from each set. The set with 
-unmatched objects has more.
+A set is a collection. Sort by one rule: 
+leaves together and tops together. 
+Match one leaf to one top. Unmatched 
+tops show which set has more. Sets with 
+a partner for every object have the same 
+number. Count sets and put them in 
+order from fewest to most.
 WORKED EXAMPLE
-A set of 2 has fewer than a set of 4. In 
-number order: 2, 3, 4.
+Match 2 tops to 4 tops, one to one. Two tops 
+in the set of 4 have no partner. Four is more 
+than two; two is fewer than four. Sets of 2, 3 
+and 4 go in that order from fewest to most.
 Show the example with objects or a drawing.
 WORDS
 sort; set; more; fewer
@@ -419,10 +425,17 @@ number sentence or
 explain the comparison. 
 Check another way.
 TEACHER
-Ask for the sorting rule. 
-Distinguish the number 
-in a set from the size of 
-its objects.
+Read aloud and model 
+sorting before matching. 
+Put one object beside 
+one partner; spacing 
+and object size do not 
+decide which set has 
+more. Provide reachable 
+materials and allow 
+pointing, speaking or 
+moving objects. Recheck 
+later with fresh sets.
 13
 
 
@@ -437,8 +450,10 @@ Sort, match and order
 3. Which has more: 2 tops or 5 tops?
 4. Which has fewer: 4 leaves or 3 leaves?
 4 Play or Make
-Sort six safe classroom objects by material. Explain your rule. Make 
-sets of 1, 2, 3, 4 and 5 tops.
+Sort clean, large leaves and large tops into separate sets. Match one 
+leaf to one top. Say which set has more, fewer, or the same number. 
+Swap roles. Make sets of 1 to 5 tops and order them from fewest to 
+most.
 5 Check Yourself
 5. Make a set of 5 objects.
 6. Explain how to compare two sets.
@@ -4515,14 +4530,18 @@ P1-01.5  4
 P1-01.6  Touch or move each top exactly once.
 Practical observation: Move each object after counting it. Accept pointing or speaking before writing.
 P1-02 · Sort, match and order
-Worked method: A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.
+Worked method: Match 2 tops to 4 tops, one to one. Two tops in the set of 4 have no partner. 
+Four is more than two; two is fewer than four. Sets of 2, 3 and 4 go in that order from fewest to 
+most.
 P1-02.1  1, 3, 4
 P1-02.2  One dot in one set; three in the other.
 P1-02.3  5 tops
 P1-02.4  3 leaves
 P1-02.5  Exactly five objects.
 P1-02.6  Match one to one or count both sets.
-Practical observation: Ask for the sorting rule. Distinguish the number in a set from the size of its objects.
+Practical observation: Read aloud and model sorting before matching. Put one object beside one partner; 
+spacing and object size do not decide which set has more. Provide reachable materials and allow pointing, 
+speaking or moving objects. Recheck later with fresh sets.
 167
 
 

@@ -1,0 +1,126 @@
+{
+  "researched_on": "2026-10-20",
+  "target": "Separate Primary 1 mathematics materials for public and private schools in Gombe",
+  "current_alignment": "not established",
+  "gombe_scheme": "not acquired",
+  "original_reuse_circular": "not acquired",
+  "sources": [
+    {
+      "id": "NERDC-2012-BODY",
+      "url": "https://www.nerdc.gov.ng/content_manager/primary/pri1-3_maths.pdf",
+      "type": "Official historical curriculum",
+      "retrieval": "retrieved with web tool, 37 pages; P1 printed pp.1-12",
+      "limit": "Historical baseline; local register already paraphrases its objectives"
+    },
+    {
+      "id": "NERDC-2012-INTRO",
+      "url": "https://www.nerdc.gov.ng/content_manager/primary/pri1-3_maths_intro.pdf",
+      "type": "Official companion introduction",
+      "retrieval": "retrieved with web tool, 9 pages; printed p.iv identifies 2012",
+      "limit": "Edition evidence; not September 2025 contents"
+    },
+    {
+      "id": "NERDC-2025-NOTICE",
+      "url": "https://nerdc.gov.ng/content_manager/Press%20Release%20On%20New%20FG%20Curriculum.pdf",
+      "type": "Official policy notice dated 2025-09-08",
+      "retrieval": "retrieved full 3-page PDF with web tool",
+      "limit": "P1-3 subjects and entry-cycle rollout; not detailed mathematics objectives"
+    },
+    {
+      "id": "NERDC-NEW-LANDING",
+      "url": "https://www.nerdc.gov.ng/content_manager/new_curriculum_home.html",
+      "type": "Official revised-curriculum index",
+      "retrieval": "retrieved",
+      "limit": "Links individual class resources; does not authenticate inaccessible objective contents"
+    },
+    {
+      "id": "NERDC-P1-PORTAL",
+      "url": "https://lmis.nerdcportals.com.ng/pry_1",
+      "type": "Official linked Primary 1 curriculum destination",
+      "retrieval": "HTTP 403 via requests; web retrieval error",
+      "limit": "Current P1 full official contents unresolved"
+    },
+    {
+      "id": "FME-2025-RELEASE",
+      "url": "https://education.gov.ng/wp-content/uploads/2025/09/FG-OVERHAULS-CURRICULUM-1.pdf",
+      "type": "Official ministry release dated 2025-09-03",
+      "retrieval": "search-index text retrieved; direct web open error",
+      "limit": "Corroborates revision; use accessible NERDC 2025 notice as directly inspected policy evidence"
+    },
+    {
+      "id": "VON-GOMBE-INTERVIEW",
+      "url": "https://von.gov.ng/gombe-records-major-transformation-in-education-commissioner/",
+      "type": "Direct interview report dated 2025-10-08",
+      "retrieval": "full page retrieved",
+      "limit": "Commissioner states textbook/workbook separation; interview discusses private-school reforms; original circular not acquired"
+    },
+    {
+      "id": "TRUST-GOMBE-STATEMENT",
+      "url": "https://trustradio.com.ng/en/gombe-bans-yearly-purchase-of-textbooks-sign-out-ceremonies",
+      "type": "Secondary report of ministry statement dated 2025-09-26",
+      "retrieval": "full page retrieved",
+      "limit": "Reports 2026-09-15 effective date and all-schools wording; original signed instrument and present scope not verified"
+    },
+    {
+      "id": "TRIBUNE-GOMBE-STATEMENT",
+      "url": "https://tribuneonlineng.com/gombe-bans-sign-out-in-schools-limits-graduation-ceremony-to-terminal-classes/amp/",
+      "type": "Corroborating secondary report",
+      "retrieval": "search-index/article text retrieved",
+      "limit": "Corroborates textbook/workbook separation/date; not original circular"
+    },
+    {
+      "id": "P1-2025-MIRROR",
+      "url": "https://www.scribd.com/document/1074173676/Basic-1-Mathematics-2025-Curriculum",
+      "type": "Third-party hosted purported primary document, labelled September 2025",
+      "retrieval": "public rendered text inspected; no paywall bypass or download",
+      "limit": "Authenticity/completeness not independently verified; candidate changes only, no current-alignment claim"
+    },
+    {
+      "id": "CBN-CURRENCY",
+      "url": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "type": "Official currency resource",
+      "retrieval": "web search content retrieved",
+      "limit": "Resource verification starting point; not evidence of classroom availability or image reproduction permission"
+    },
+    {
+      "id": "NERDC-BOOKSHOPS",
+      "url": "https://www.nerdc.gov.ng/content_manager/book_shops.html",
+      "type": "Official acquisition route",
+      "retrieval": "full page retrieved",
+      "limit": "Current stock/prices/edition identifiers unverified; no contact or purchase"
+    },
+    {
+      "id": "NERDC-ASSESSMENT-MANUAL",
+      "url": "https://nerdc.gov.ng/content_manager/pdf_files/assessment_manual.pdf",
+      "type": "Official instructional-resource assessment manual",
+      "retrieval": "search indexed; web full fetch rejected 62918267-byte length; direct requests connection timeout",
+      "limit": "Specific criteria not fully inspected; obtain before formal compliance claim"
+    }
+  ],
+  "local_audit": {
+    "objectives": 54,
+    "topic_groups": 18,
+    "canonical_units": 19,
+    "original_questions": 114,
+    "supplement_links": 21,
+    "teaching_labels": {
+      "explicit": 47,
+      "partial": 6,
+      "resource_pending": 1
+    },
+    "assessment_labels": {
+      "supplement": 4,
+      "direct": 33,
+      "partial": 16,
+      "resource_pending": 1
+    }
+  },
+  "local_inputs": {
+    "research/curriculum_objectives.json": "bad4af7d356da791ea5e616580e1b48a7078cfd64035dcdb76f1676264e9e109",
+    "research/coverage.csv": "b3a9ae1c4cb53ea5c7cad6309726d0b9bdcb18bd4cb5edc917510c6a7331017d",
+    "research/supplementary_assessments.json": "e116d4f90e20fd8b54f0a46fb8d0957321f1124dbb342867c056242d305acaa8",
+    "production/p1.json": "41a0316c9790896c2c7d4391462d8f43a34104b0dad6f07aa83e61a60f59d5ae",
+    "production/reviews.json": "2907f96cdad5ae4ede73e4268a07795acb9307dd48d708973b80e42d7ba4e041"
+  },
+  "research_scope": "Evidence and plan only; no lesson, supplement or PDF edits. Prior approved P1-02 review archived and reopened because research changes conservative fingerprint."
+}

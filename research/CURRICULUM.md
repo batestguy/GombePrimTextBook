@@ -1,5 +1,11 @@
 ﻿# Curriculum evidence and objective register
 
+**20 October 2026 follow-up:** [Primary 1 requirements and completion research](PRIMARY-1-REQUIREMENTS-2026.md)
+adds an accessible official September 2025 rollout notice, explicitly provisional
+revision leads, the Gombe textbook/workbook policy question, and a 54-objective
+historical gap matrix. Current full P1 mathematics and Gombe scheme/circular remain
+unverified. The dated 17 October findings below remain historical evidence.
+
 Evidence checked on 17 October 2026. The register is a historical curriculum crosswalk for authoring. **Current NERDC alignment is not established.**
 
 ## Verified source and edition

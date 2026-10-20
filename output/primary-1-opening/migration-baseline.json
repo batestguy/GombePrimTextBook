@@ -1,0 +1,75 @@
+{
+  "questions": {
+    "P1-01": [
+      {
+        "prompt": "Count row A. Write the number.",
+        "answer": "3"
+      },
+      {
+        "prompt": "Count row B. Write the number.",
+        "answer": "5"
+      },
+      {
+        "prompt": "Draw 2 circles.",
+        "answer": "Two separate circles."
+      },
+      {
+        "prompt": "Write 1 to 5 in order.",
+        "answer": "1, 2, 3, 4, 5"
+      },
+      {
+        "prompt": "Show 4 fingers. How many?",
+        "answer": "4"
+      },
+      {
+        "prompt": "Musa counts one top twice. Show a better way.",
+        "answer": "Touch or move each top exactly once."
+      }
+    ],
+    "P1-02": [
+      {
+        "prompt": "Order: 4, 1, 3.",
+        "answer": "1, 3, 4",
+        "id": "P1-02-Q1"
+      },
+      {
+        "prompt": "Draw sets of 1 and 3 dots.",
+        "answer": "One dot in one set; three in the other.",
+        "id": "P1-02-Q2"
+      },
+      {
+        "prompt": "Which has more: 2 tops or 5 tops?",
+        "answer": "5 tops",
+        "id": "P1-02-Q3"
+      },
+      {
+        "prompt": "Which has fewer: 4 leaves or 3 leaves?",
+        "answer": "3 leaves",
+        "id": "P1-02-Q4"
+      },
+      {
+        "prompt": "Make a set of 5 objects.",
+        "answer": "Exactly five objects.",
+        "id": "P1-02-Q5"
+      },
+      {
+        "prompt": "Explain how to compare two sets.",
+        "answer": "Match one to one or count both sets.",
+        "id": "P1-02-Q6"
+      }
+    ]
+  },
+  "other_lessons_sha256": "1422b0558b21845755142df2a121496bfbb3f1e8682ea2ca750822c24b2fc4d7",
+  "old_pdfs": {
+    "output\\pdf\\Gombe-Mathematics-Book-1.pdf": "b4eaa34a9fb0e5deb3e020fbefde14dee5d99f6d56de59d7b42277e1c0ab6bae",
+    "output\\pdf\\Maths-with-Friends-One-to-five-v4.pdf": "de99d807dbebfe4fda1caef64ade3a1b4271a37968d3cac87b1576d312273a15",
+    "output\\pdf\\Maths-with-Friends-One-to-five-v5.pdf": "0243a13f3b010134398c7d9b40382ebb02b89ab913b9270b7f7d840fc02fb3b1",
+    "output\\pdf\\Maths-with-Friends-One-to-five-v6.pdf": "91647392f20ca79cf672256b1aba7e0869611c52a05c87cceb71b283e4b6e71f",
+    "output\\pdf\\Maths-with-Friends-One-to-five-v7.pdf": "72daf09b2143661a58ca4ed8f00f12514543efadbd4eb34c49109f12dcd104bb",
+    "output\\pdf\\Maths-with-Friends-Sort-match-and-order.pdf": "e1501153c3ec3974d4536eb4db307296153b8b646a7592339921c1cafe8e5939",
+    "output\\pdf\\P1-01-One-to-five-review-v2.pdf": "4ffc578e8ee186e890b997938107d50265f4c056c6bf5f3042cc9305f7f62e33",
+    "output\\pdf\\P1-01-One-to-five-review-v3.pdf": "179d67cf3a4d7e811b7c9340e2431df588d45ccbf15a9216e668f587bd16a6f8",
+    "output\\pdf\\P1-01-One-to-five-review.pdf": "efafe0ec5064a76d01508322060903dc33b869bfe92bb2acdd561c5726c0cef9",
+    "output\\pdf\\sample-lessons.pdf": "b565a32a74f63cc19c609d260fb24cdddcbc8d5f66d15717216c25315f24d8ae"
+  }
+}

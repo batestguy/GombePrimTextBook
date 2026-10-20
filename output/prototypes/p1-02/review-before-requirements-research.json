@@ -1,0 +1,75 @@
+{
+  "id": "P1-02",
+  "canonical": "production/p1.json",
+  "teacher_id": "mr-aliyu",
+  "artifact": "output/pdf/Maths-with-Friends-Sort-match-and-order.pdf",
+  "review": {
+    "status": "approved",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/sol_reviewer (independent agent session)",
+    "reviewed_on": "2026-10-20",
+    "fingerprint": "90d2cf4dbdf3ea22c12b5997e2d42007eef12760f74c73302a0ba53ebb1f4d89",
+    "stages": {
+      "S1": "p. 1: Aishatu opens her box toy shop; the mixed tray has 3 leaf tickets and 5 top counters to tidy for a shared game. The practical problem requires sorting and comparison.",
+      "S2": "p. 1 subtitle: We will sort things, match them and put small sets in order. The child-friendly goal covers the chapter objective and retained ordering.",
+      "S3": "pp. 2-4: Mr Aliyu sorts the same 3 leaves/5 tops by type; draws 2 matching lines for 2 versus 4 tops and circles the larger set; counts and orders dot sets 2, 3, 4 before independent ordering.",
+      "S4": "p. 2: Grace repairs her sorting error; a circled leaf models selection before pupils identify the other leaf/tops and tell the rule. p. 3: Adamu predicts by spacing; pupils match equal rows of 3 and explain that every object has a partner.",
+      "S5": "pp. 4-6: P1-02-Q1 through Q5 require independent ordering 4,1,3; drawing 1 and 3 dots; comparing 2/5 tops and 4/3 leaves; making 5 objects. Generous boxes or a reachable table provide response space.",
+      "S6": "p. 6: P1-02-Q6 asks pupils to recall and show/tell how to compare their own two sets before looking back or receiving support; drawing space and manipulatives permit explanation.",
+      "S7": "p. 6: smaller-step 2-versus-3 dot matching includes one given pair, then returns to the pupil's own sets. p. 8: targeted interventions and a fresh 1-versus-2 recheck with explicit 2 more/1 fewer answer.",
+      "S8": "p. 7: the original 3 leaves/5 tops become 3 matched pairs and 2 spare tops; children identify more, put the unmatched tops in a real spare box, and take fair turns. pp. 8-9 require the same inventory and putting spares away before reading the closure.",
+      "S9": "p. 7: independent fresh selection of leaves at positions 2 and 4, then comparing 4 tops with 5 leaves. p. 8: another-day recall, sort/compare 4 leaves and 2 tops, order 5,2,3; complete answers and observation categories supplied."
+    },
+    "checks": {
+      "pedagogy": {
+        "result": "pass",
+        "evidence": "Reviewed all nine pages against S1-S9. Counting to 5 from Chapter 1 is explicit on p. 8. Type sorting precedes correspondence, equal-row spacing challenges an error, ordering uses counted quantities before numerals, recall precedes support, and fresh/delayed checks differ from models. All stages above are enacted."
+      },
+      "mathematics": {
+        "result": "pass",
+        "evidence": "Independently solved every source ID and added example against canonical data, diagrams and pp. 8-9 answers: Q1=1,3,4; Q2=1 dot left/3 right; Q3=right set of 5 tops; Q4=right set of 3 leaves; Q5=exactly 5 objects; Q6=count both or pair one to one (valid demonstrations accepted). Opening/sorted inventory=3 leaves/5 tops. Guided sort=positions 2/4 leaves, 1/3 tops; position 2 already circled. Model=2 pairs/2 unmatched in 4, so 4 more/2 fewer. Equal rows=3 each; any bijection valid. Order model=2,3,4. Support=2 pairs/1 unmatched in lower 3; either free lower partner is valid. Ending=3 pairs/2 spare tops. Fresh sort=positions 2/4; fresh comparison=5 leaves more than 4 tops. Adult 1/2 recheck=2 more/1 fewer; delayed 4 leaves/2 tops=leaves more/tops fewer, ordering=2,3,5. All quantities are code-drawn vector objects, not inferred from portraits."
+      },
+      "instructions": {
+        "result": "pass",
+        "evidence": "Read every pupil instruction and adult answer. Tasks specify pointing, speaking, circling a whole set, line matching to different partners, writing in boxes or making objects on the table. Individual-leaf circle and whole-set circle are modelled on pp. 2-3. Pupil task numbering is absent. Read-aloud support and Chapter 1 numeral/counting prerequisite are explicit. Corrected p. 9 now identifies second/fourth object positions unambiguously."
+      },
+      "consistency": {
+        "result": "pass",
+        "evidence": "Mr Aliyu is the sole lead, matching the P1-02 alternating assignment, and is shown in cream native clothing and embroidered cap. Inspected p. 1 all four portraits and repeated portraits pp. 2-5 against characters.json: Aishatu mustard hijab/teal dress, Adamu blue/clay, Grace clay/green with all-back plaits, John smooth scalp/green/ochre/blue manual wheelchair. Grace retries; Adamu tests a spacing guess and shares turns; Aishatu practises pausing; John requests thinking time and then compares. All six stable source IDs and answer meanings retained. Full introductions are not repeated."
+      },
+      "logic": {
+        "result": "pass",
+        "evidence": "Tracked mixed p. 1 inventory through p. 2 sorted sets to p. 7 ending: always 3 leaves and 5 tops, giving 3 tickets/counters and 2 spares. p. 9 explicitly requires physical removal of those two spares before closure. Other quantities are separate practice examples. Every question is answerable; the 3/3 spacing trap is resolved by matching with teacher guidance, and fresh tasks have no supplied answer marks."
+      },
+      "layout": {
+        "result": "pass",
+        "evidence": "Visually inspected EVERY rendered page 1-9, including all diagrams and portraits; reinspected rebuilt pp. 8-9 after two adult-guide corrections. Independently confirmed all nine PNGs byte-match in-memory 1.2x rasterisation of the final PDF and all pages measure 595.28 x 841.89 pt (A4). White backgrounds, dark legible text, full-colour artwork, generous drawing/number/matching areas, clear reading order and no clipping/overlap observed. Adult guide text fits. Embedded-font/bounds/vector-count validation passed."
+      },
+      "teacher_support": {
+        "result": "pass",
+        "evidence": "pp. 8-9 supply read-aloud/prerequisite guidance, reachable large supervised manipulatives, type/colour and row-length misconceptions, count-once and one-partner support, fresh 1/2 recheck with corrected explicit answer, delayed 4/2 and 5,2,3 checks, complete six-ID and extra-task answer map, vocabulary, provenance and honest pending curriculum/educator/pupil/print/printer limits. Full-volume glossary/mapping/credits/Book 2 preview/four AI pages remain a separate legacy-volume context, not approval of other chapters."
+      }
+    },
+    "variations": [
+      "Toy-shop table/manipulative setting uses existing character portraits rather than a classroom panorama; the classroom-facing-board condition is therefore inapplicable. Reachable seated participation is explicit in adult guidance.",
+      "Seven pupil pages and two adult pages combine/repeat learning stages. No full character or teacher introductions are repeated.",
+      "S8 closure is physically enacted with the same real pieces and spare box; the write-in matching diagram shows how two spare tops are identified, and adult guidance delays closing dialogue until those pieces are away."
+    ],
+    "findings": [
+      {
+        "severity": "required",
+        "reference": "production/p1.json:988; PDF p. 9 Every example and added task; guided sort on p. 2",
+        "correction": "Replace ambiguous/incorrect second leaf already circled with explicit object positions: leaf in second position is circled; point to leaf in fourth position; tops are first and third.",
+        "resolved": true,
+        "recheck": "Author corrected canonical wording and rebuilt chapter. Independently reread p. 9 and inspected p. 2: top, circled leaf, top, uncircled leaf; p. 9 now matches positions exactly. Reinspected final p. 9 layout and exact PDF/PNG correspondence."
+      },
+      {
+        "severity": "required",
+        "reference": "production/p1.json:972; PDF p. 8 Recall and fresh checks; fresh 1-and-2 support recheck",
+        "correction": "Include the expected answer for the fixed-quantity support recheck: 2 has more and 1 has fewer.",
+        "resolved": true,
+        "recheck": "Author added explicit result and rebuilt chapter. Independently solved 1 versus 2 and verified final p. 8 contains 2 has more and 1 has fewer with no text overflow."
+      }
+    ]
+  }
+}

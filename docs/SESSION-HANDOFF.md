@@ -1,5 +1,160 @@
 # Session handoff: Gombe story and visual redesign
 
+## Chapter 1-2 paired adaptation (20 October 2026)
+
+User instruction: implement all described changes to Chapters 1 and 2. Canonical
+`paired_edition` data for P1-01/P1-02 and `production/p1-opening.json` now build a
+22-page reusable opening textbook and 10-page write-in workbook through
+`scripts/build_primary_one_opening.py`. Full template handoff, precise S1-S9 maps,
+every-task review coverage, commands, constraints and evidence:
+`output/primary-1-opening/HANDOFF.md`. Independent review completed for all 32
+rendered pages and every task, diagram and answer. Evidence is recorded in
+`output/primary-1-opening/REVIEW.md` and both chapter review objects. The required
+mixed-order numeral-reading correction was resolved. Both chapter-specific
+`--require-reviewed` gates and preflight passed; this approval covers only P1-01
+and P1-02 in the paired extract. Consult the register and strict gate after edits.
+
+Introductions appear once at the front. All twelve original question prompts,
+answers and order links are preserved; P1-01 now has explicit stable IDs.
+Writing/tracing/drawing/circling/matching responses are in workbook/exercise book.
+Textbook retains stories, exact models, oral/practical work, recall/support,
+visible endings and full guidance/answers/notes. No new art or dependencies.
+All old PDFs and other seventeen P1 lessons were hash-checked unchanged.
+
+Worker /root/sol_executor added paired-path validation/fingerprints and meaningful
+regressions: both PDFs required and distinct; either changing invalidates approval.
+Eleven gate tests ran: ten passed, one Windows symlink test skipped; same-file/hardlink
+aliases tested. Preflight passed. Canonical regeneration and Quarto render passed;
+247-page historical output text bounds passed. The Quarto output remains legacy
+layout, not the revised pair. Author inspected all 32 pages and rechecked navigation.
+
+This is only the opening of the annual Primary 1 product. Seventeen other units,
+annual revision/assessment and final four AI pages remain outside the extract.
+Current curriculum/adoption, educator/pupil trials, accessible-PDF certification,
+physical proof and printer approval remain pending. No publication, contact,
+purchase, commit or push requested. Preserve user edits and the protected brief.
+
+Mandatory authority: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+## Active whole-year Primary 1 plan (20 October 2026)
+
+The user asked to document the research, use the best approximation for inaccessible
+curriculum/format resources, then clarified: Primary 1 is the whole school year.
+Active source of truth: [PRIMARY-1-PRODUCTION-PLAN.md](PRIMARY-1-PRODUCTION-PLAN.md).
+Assumptions: `research/PRIMARY-1-ASSUMPTIONS.json`. Earlier acquisition blockers are
+superseded for drafting; none becomes fabricated verification.
+
+- Objective / ID / pupils / acceptance: full-year P1-01 through P1-19, both public
+  and private schools; retain 54 historical objective links, expand into multiple
+  lessons, keep all 114 source-question links, integrate 21 supplements, and plan
+  every teaching/revision/assessment stage across three terms.
+- Author: Codex /root. Independent documentation reviewer: /root/sol_reviewer;
+  documentation review confers no chapter approval.
+- Canonical/overlay/renderer/artwork: canonical lesson JSON and current PDFs/art
+  unchanged by this task. Plan selects a reusable textbook plus separate workbook;
+  shared two-output build and task/answer mapping are still implementation work.
+- Current artifacts/evidence: P1-01 draft sample and earlier independently reviewed
+  P1-02 PDF retained; neither has been converted to the new product pair. No new
+  rendered pages or S1-S9 page map exist for the pair.
+- Calendar: provisional full year of 36 weeks, three terms of 10 teaching plus
+  one revision and one assessment/contingency week. Nineteen units are not nineteen
+  weeks. Approximate four teaching sessions/week is workload planning, not policy.
+- S1-S9/continuity/math/instructions: unchanged learning and review requirements;
+  Mrs Binta/Mr Aliyu alternate by canonical unit order; all four children retain
+  continuity. Both output page sets and response locations require review.
+- Source/gate: reviews were already pending following the previous research reset.
+  No author self-approval or new chapter fingerprint claimed. Pending is not approval.
+- Open evidence: current official curriculum, Gombe scheme/original reuse circular,
+  local educator/pupil review, physical proof, accessibility and printer approval.
+  They do not block provisional authoring; missing resource-based demonstrations
+  remain conditional and cannot be marked performed.
+- Selected defaults: historical numeric bounds through 99, addition through 18
+  and non-regrouping two-digit totals through 40, subtraction through 18. Cautious
+  comparison-symbol/number-reasoning enrichment is labelled separately. Four final
+  pupil AI pages and same-textbook adult support retained as project requirements.
+- Next action / ownership: map every objective to models, supported/independent
+  tasks, workbook responses, answers, intervention and recall; build a shared
+  renderer and adapt the first two units. Preserve user edits and GombeTextbook.txt.
+  No purchases, external contact, publication, commit or push requested.
+- Validation: run `python scripts/preflight.py` and
+  `python scripts/check_chapter_standard.py`; pair-specific approval enforcement
+  still needs implementation before claiming either assembled book reviewed.
+
+Mandatory authority: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+## Primary 1 requirements research checkpoint (20 October 2026)
+
+User asked for research on the requirements and completion work for a separate
+Primary 1 book, and confirmed both public and private schools as intended users.
+See `research/PRIMARY-1-REQUIREMENTS-2026.md`, its 54-row gap matrix and 13-source
+evidence register. Current revised national policy is confirmed; the full official
+P1 mathematics document and Gombe scheme/circular are not acquired. A purported
+2025 mirror is only a verification lead. Reusable-textbook/separate-workbook
+direction is publicly reported in Gombe; exact official scope/enforcement needs
+confirmation. Recommend that architecture before final layout; no conversion done.
+
+Audit: 19 units/114 original questions, 54 historical objectives/18 topic groups,
+21 supplement links, five cumulative review/assessment sets with 30 items.
+Important work: gradual number/arithmetic progression, practical sorting,
+measurement/shapes/data collection, verified money resources, supplement text
+repairs, individual-book build/support and independent review. Full evidence and
+the dependency-ordered completion plan are in the research report. No lesson,
+supplement or chapter PDF changed during research.
+
+Research files are fingerprint inputs. Before adding them, prior P1-02 approval
+was archived in `output/prototypes/p1-02/review-before-requirements-research.json`
+and reset to pending with a reason, retaining the original independent evidence.
+Its exact reviewed PDF is unchanged. Fresh source-scope/series-layout review is
+pending; do not infer a pupil-page defect or a new approval from the reset.
+
+Next deliverable: Primary 1 objective-to-teaching-to-workbook plan, reconciled
+against the acquired current edition. Chapter authoring should not assume that
+the historical 19-unit count or the former single-volume packaging is final.
+
+Mandatory continuing authority: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+## Chapter 2 checkpoint (20 October 2026)
+
+User instruction: proceed to Chapter 2. P1-02 **Sort, match and order** now has a
+standalone nine-page chapter (seven pupil pages, two adult pages), with Mr Aliyu
+leading. It continues the toy-shop story, sorts three leaves and five tops,
+models one-to-one matching and equal sets, orders small sets, includes all six
+source tasks, recall/support, an enacted story ending and fresh independent tasks.
+
+Canonical lesson and page content: `production/p1.json`, P1-02/redesign. Renderer:
+`scripts/build_chapter_two.py`. PDF: `output/pdf/Maths-with-Friends-Sort-match-and-order.pdf`.
+Existing portraits/provenance reused; assessed quantities are deterministic vectors.
+No repeated introductions or new AI art. All original question answer meanings
+and their stable Q1-Q6 order retained, with explicit canonical IDs added.
+
+Authority remains [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). The template-compliant review packet is
+`output/prototypes/p1-02/HANDOFF.md`; final independent evidence and gate state go
+in that directory's `REVIEW.md` and `production/chapter-reviews.json`. Author is
+Codex /root; independent reviewer is /root/sol_reviewer. Consult the final register
+for approval; this checkpoint itself does not confer approval on any chapter.
+
+The chapter build, canonical source regeneration and Quarto full-volume render
+passed. Preflight passed. Author inspected all nine rendered pages, then added
+completed circling examples and an explicit two-spare-top ending and reinspected
+the affected pages. Exact vector counts, fonts, bounds and original-source hash
+passed. Full-volume validation evidence is recorded in the chapter REVIEW.md.
+No approval existed at edit start; all 63 records were pending. Other chapters
+have not been redesigned or approved by this work.
+
+Full volume retains legacy layout, glossary, mapping, credits, Book 2 preview and
+four final AI pupil pages. Current curriculum, local educator/pupil trials,
+physical print, accessibility certification and printer review remain pending.
+Next action: consult the independent review, resolve required findings and apply
+the strict P1-02 approval gate. No publication, commit or push requested this turn.
+
+Terminal sandbox startup failed with setup-refresh/helper_unknown_error. Approved
+terminal execution worked; no ACL or ownership changes were made. Normal sandbox
+recovery is separate from chapter work.
+
 ## Current task: chapter standard and review gate (18 October 2026)
 
 Authority: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1; [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md); [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). These supersede conflicting historical notes below.

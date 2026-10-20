@@ -6,6 +6,17 @@ sample. The implementation author supplies evidence; a separate reviewer checks 
 An independent agent can review editorial and technical correctness, but cannot
 stand in for a local educator, pupil trial or physical print proof.
 
+For the separate Primary 1 textbook/workbook, inspect both exact artifacts, their
+task/answer links and every rendered page. Verify that the reusable textbook is
+usable with an ordinary exercise book and never requires marking its pages.
+Record S1-S9 page references with artifact names. A complete review of one output
+does not approve the pair. Paired records use `format: "textbook-workbook"`,
+`artifacts: {"textbook": "relative.pdf", "workbook": "other-relative.pdf"}` and
+the legacy `artifact` equal to the textbook path. The checker requires both
+distinct in-workspace PDFs and fingerprints both; changing either invalidates
+approval. A legacy single-artifact review does not approve a pair. Record chapter
+page ranges and shared front/adult pages to make coverage explicit.
+
 ## Review packet
 
 Before editing or rebuilding an approved chapter, set its review `status` to

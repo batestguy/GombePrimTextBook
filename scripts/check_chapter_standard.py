@@ -31,14 +31,40 @@ def local_file(root, name):
     return path
 
 
+def artifact_files(root, chapter, required=False):
+    """Validate registered artifacts, including pending textbook/workbook pairs."""
+    if chapter.get('format') == 'textbook-workbook' or 'artifacts' in chapter:
+        cid = chapter['id']
+        require(chapter.get('format') == 'textbook-workbook',
+                f'{cid}: artifacts require textbook-workbook format')
+        artifacts = chapter.get('artifacts')
+        require(isinstance(artifacts, dict) and set(artifacts) == {'textbook', 'workbook'},
+                f'{cid}: textbook-workbook requires both artifacts')
+        require(chapter.get('artifact') == artifacts['textbook'],
+                f'{cid}: legacy artifact must match textbook path')
+        paths = []
+        for role in ('textbook', 'workbook'):
+            name = artifacts[role]
+            require(isinstance(name, str) and not Path(name).is_absolute()
+                    and Path(name).suffix.lower() == '.pdf',
+                    f'{cid}: {role} must be a relative PDF path')
+            paths.append(local_file(root, name))
+        require(not paths[0].samefile(paths[1]),
+                f'{cid}: textbook and workbook must be distinct files')
+        return paths
+    if chapter.get('artifact') is not None or required:
+        return [local_file(root, chapter.get('artifact'))]
+    return []
+
+
 def fingerprint(root, chapter):
     """Conservative closure of production, research, artwork and render sources.
 
     Exclude review records, generated outputs and caches. Include artifact path and
     bytes as well as chapter identity/assignment. No credential directories scanned.
     """
-    artifact = local_file(root, chapter['artifact'])
-    paths = {artifact, root / 'GombeTextbook.txt', root / 'AGENTS.md',
+    paths = {*artifact_files(root, chapter, required=True),
+             root / 'GombeTextbook.txt', root / 'AGENTS.md',
              root / 'docs/CHAPTER-STANDARD.md', root / 'docs/CHAPTER-REVIEW.md'}
     for pattern in ('*.qmd', '*.yml', '*.yaml', '*.typ', 'requirements*.txt'):
         paths.update(root.glob(pattern))
@@ -112,8 +138,7 @@ def validate(root=ROOT, chapter_id=None, require_reviewed=False):
         require((c['canonical'], c['teacher_id']) == expected[c['id']],
                 f"{c['id']}: canonical source/alternating teacher mismatch")
         require(c['review']['status'] in ('pending', 'approved'), 'Invalid review status')
-        if c.get('artifact') is not None:
-            local_file(root, c['artifact'])
+        artifact_files(root, c)
     selected = [c for c in chapters if chapter_id is None or c['id'] == chapter_id]
     require(bool(selected), f'Unknown chapter: {chapter_id}')
     for c in selected:

@@ -1,0 +1,785 @@
+{
+  "id": "p1-opening-pair-v1",
+  "scope": "Only front matter and Chapters 1-2 of the planned full-year Primary 1 book; not a completed annual book",
+  "textbook_front": [
+    {
+      "slug": "welcome",
+      "kicker": "Our full-year learning journey",
+      "title": "Maths with Friends",
+      "subtitle": "Primary One / Opening textbook / One to five; Sort, match and order.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 170,
+          "text": "<b>Count. Explore. Discover.</b>",
+          "size": 24,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 57,
+          "top": 240,
+          "width": 105,
+          "height": 105,
+          "preserve": true,
+          "index": 0
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 183,
+          "top": 240,
+          "width": 105,
+          "height": 105,
+          "preserve": true,
+          "index": 1
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 309,
+          "top": 240,
+          "width": 105,
+          "height": 105,
+          "preserve": true,
+          "index": 2
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 435,
+          "top": 240,
+          "width": 105,
+          "height": 105,
+          "preserve": true,
+          "index": 3
+        },
+        {
+          "type": "text",
+          "top": 385,
+          "text": "Welcome to our learning club. We can try an idea, ask a question and help one another.",
+          "size": 18,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 470,
+          "text": "<b>Keep this book for another learner.</b><br/>Point, speak and use real objects as you learn.<br/>Write or draw in your workbook or an exercise book.",
+          "size": 15,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 585,
+          "text": "<b>Find the same chapter name in your workbook.</b><br/>An adult can help you turn to the right place.<br/>Every written task can also be done in an exercise book.",
+          "size": 14,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 695,
+          "text": "<b>For the adult:</b> this review extract contains the first two chapters of a planned three-term Primary One book. Read pupil text aloud. Later chapters, revision and final AI pages are not included in this extract.",
+          "size": 10.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": true,
+      "adult": false
+    },
+    {
+      "slug": "friends-1",
+      "kicker": "Meet our learning club",
+      "title": "Meet your friends",
+      "subtitle": "An adult can read with you. There is a place for you too.",
+      "elements": [
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 45,
+          "top": 194,
+          "width": 180,
+          "height": 180,
+          "preserve": true,
+          "index": 0
+        },
+        {
+          "type": "text",
+          "top": 164,
+          "text": "Aishatu",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 207,
+          "text": "The box-toy builder",
+          "size": 11.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 241,
+          "text": "I'm Aishatu from Gombe. My cousins and I make toy shops from old boxes.<br/><br/>I like building things and trying new ideas.<br/><br/>I don't like long waits. Let's make something!",
+          "size": 13,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 45,
+          "top": 474,
+          "width": 180,
+          "height": 180,
+          "preserve": true,
+          "index": 1
+        },
+        {
+          "type": "text",
+          "top": 444,
+          "text": "Adamu",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 487,
+          "text": "The game storyteller",
+          "size": 11.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 521,
+          "text": "I'm Adamu. My family is from Dukku. My cousins turn my funny stories into games.<br/><br/>I like stories and fair turns.<br/><br/>I don't like anyone being left out. Come and play!",
+          "size": 13,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 750,
+          "text": "What do you like to make or play?",
+          "size": 12,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": true,
+      "adult": false
+    },
+    {
+      "slug": "friends-2",
+      "kicker": "Meet our learning club",
+      "title": "More friends to meet",
+      "subtitle": "An adult can read with you. There is a place for you too.",
+      "elements": [
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 45,
+          "top": 194,
+          "width": 180,
+          "height": 180,
+          "preserve": true,
+          "index": 2
+        },
+        {
+          "type": "text",
+          "top": 164,
+          "text": "Grace",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 207,
+          "text": "The notebook explorer",
+          "size": 11.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 241,
+          "text": "I'm Grace. My family is from Billiri. Grandfather and I keep a discovery notebook.<br/><br/>I like neat drawings and tiny details.<br/><br/>I don't like smudges. But I can try again!",
+          "size": 13,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 45,
+          "top": 474,
+          "width": 180,
+          "height": 180,
+          "preserve": true,
+          "index": 3
+        },
+        {
+          "type": "text",
+          "top": 444,
+          "text": "John",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 487,
+          "text": "The puzzle-map maker",
+          "size": 11.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 521,
+          "text": "I'm John. My family is from Yamaltu/Deba. I make puzzle maps for my cousins.<br/><br/>I use a wheelchair. I like drawing secret paths.<br/><br/>I don't like answers before I've had a try!",
+          "size": 13,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 750,
+          "text": "<b>You belong here too.</b> Let us learn and help one another.",
+          "size": 12,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": true,
+      "adult": false
+    },
+    {
+      "slug": "teachers",
+      "kicker": "Our two teachers",
+      "title": "Meet your teachers",
+      "subtitle": "Two friendly guides for our learning club.",
+      "elements": [
+        {
+          "type": "image",
+          "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+          "x": 45,
+          "top": 181,
+          "width": 173,
+          "height": 220,
+          "preserve": true
+        },
+        {
+          "type": "text",
+          "top": 166,
+          "text": "Mrs Binta",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 211,
+          "text": "Big ideas. Brave little tries.",
+          "size": 12,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 244,
+          "text": "Hello! I'm Mrs Binta. I turn everyday things into maths games. I like curious questions and brave tries. In my class, a mistake is a chance to learn. Bring your ideas!",
+          "size": 13.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+          "x": 45,
+          "top": 461,
+          "width": 173,
+          "height": 220,
+          "preserve": true
+        },
+        {
+          "type": "text",
+          "top": 446,
+          "text": "Mr Aliyu",
+          "size": 24,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 491,
+          "text": "Riddles, games and discoveries.",
+          "size": 12,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 524,
+          "text": "Hello! I'm Mr Aliyu. I enjoy number riddles and building games. I like asking, 'How did you know?' We will sort and match together. I can't wait to hear your ideas!",
+          "size": 13.5,
+          "x": 245,
+          "width": 302
+        },
+        {
+          "type": "text",
+          "top": 750,
+          "text": "You can ask questions, try an idea and have another go.",
+          "size": 12,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": true,
+      "adult": false
+    }
+  ],
+  "textbook_back": [
+    {
+      "slug": "guide-one",
+      "kicker": "For the teacher / One to five",
+      "title": "Teach, notice and return",
+      "subtitle": "Read pupil text aloud. Use several sessions; pace to the children.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 164,
+          "text": "<b>Prepare.</b> Large clean unbreakable cups, paper and numeral cards from 1 to 5. Put materials within reach for seated use. Front matter introduces children/teachers once. Mrs Binta leads the counting chapter. Mr Aliyu leads the next chapter.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 260,
+          "text": "<b>Suggested sessions.</b> Story/concrete model; guided counting and numeral meaning; count/draw and handwriting; recall, ending and fresh checks. Repeat or subdivide freely. Counting, numeral recognition, reading and formation are separate observations. Do not require children to read numbers to start counting.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 362,
+          "text": "<b>Model and guide.</b> Touch one cup while saying one number, then state the last number as the total. Invite a child to try. Use the cup/numeral ladder only after this model. Show one circle for each cup before drawing tasks. Form each numeral on paper before pupils trace, then ask for independent writing.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 466,
+          "text": "<b>Response surfaces.</b> Use the printed workbook references beside the textbook tasks. Count and draw, Trace and write, Show how you count and A fresh counting try are workbook pages. The textbook provides models and the same source tasks for an ordinary exercise book. Textbook Q5/6 are on Write, show and explain. No task requires a mark in the textbook.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 586,
+          "text": "<b>If needed.</b> For skipping/repeating, begin with two cups and move each counted cup aside. Recheck with a different small set. For failure to state the total, repeat the last number and ask how many altogether. For handwriting difficulty, accept spoken or pointed answers while practising formation separately.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 698,
+          "text": "<b>Later recall.</b> Another day, ask what Mrs Binta showed. Offer a fresh set of two or five objects without a model. Ask for the total and shuffled numeral recognition. Record independent / with help / not yet. Keep child records private.",
+          "size": 10.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": true
+    },
+    {
+      "slug": "answers-one",
+      "kicker": "For the teacher / One to five",
+      "title": "Answers and fresh checks",
+      "subtitle": "Adult IDs preserve source correspondence. Do not read answers before pupils try.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 165,
+          "text": "<b>P1-01-Q1:</b> 3 cups. One touch and one number word for each; accept oral total before written 3.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 226,
+          "text": "<b>P1-01-Q2:</b> 5 cups in the scattered group; arrangement does not change the count.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 287,
+          "text": "<b>P1-01-Q3:</b> Two separate circles, one for each of the two pictured cups. Any clear placement is valid.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 348,
+          "text": "<b>P1-01-Q4:</b> 1, 2, 3, 4, 5 in order. Observe independent formation after tracing, not tracing alone.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 420,
+          "text": "<b>P1-01-Q5:</b> 4. Four fingers or a set of four objects; accept pointing/speaking before writing.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 481,
+          "text": "<b>P1-01-Q6:</b> Touch or move each cup exactly once, say one number word per cup and state three. The source used tops; cups preserve its counting-method answer.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 579,
+          "text": "<b>Other exact examples.</b> Teacher model: 3 cups. Ladder: 1, 2, 3, 4, 5 cups. Drawing model: 2 cups and 2 circles. Ending: 4 friends, 4 cups, one cup per friend. Enact the ending with real cups before the closing dialogue.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 671,
+          "text": "<b>Fresh tasks.</b> The adult chooses each requested number from 1-5 and records it privately. Accept exactly that many objects/circles in any clear arrangement.<br/><b>Recognition:</b> with cards 3, 1, 5, 2, 4, name a value and ask the child to point.<br/><b>Reading:</b> point to a card in mixed order and ask the child to name its number. Accept speech or the child's usual communication method; do not give the value first. Use ordinary paper cards if needed. Record recognition, reading and formation separately.",
+          "size": 10.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": true
+    },
+    {
+      "slug": "guide-two",
+      "kicker": "For the teacher / Sort, match and order",
+      "title": "Teach, notice and return",
+      "subtitle": "Mr Aliyu leads. Keep the three-leaf/five-top story inventory consistent.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 164,
+          "text": "<b>Prepare.</b> Three clean large leaves and five large tops, a real tray/spare box, paper and safe larger counters. Use pieces too large to swallow and supervise. These are pretend game tickets and counters. Give seated children reachable materials. Do not ask pupils to move printed pictures.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 268,
+          "text": "<b>Suggested sessions.</b> Story and physical sorting; matching/equal sets and ordering; independent comparison; recall, support, ending and fresh checks. Change the pacing to the class. Sort by one rule before comparing quantities. Let every child place pieces and explain a rule.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 371,
+          "text": "<b>Model and guide.</b> Pair two tops to four: two unmatched lower tops show more. The completed oval demonstrates circling a whole set in the workbook. Equal rows have three each despite different spacing; any bijection is valid. The completed circle around the leaf in the second position shows circling one object.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 480,
+          "text": "<b>Help and recheck.</b> Restate the type rule; sort one and let the child place another. Pair objects physically when spacing misleads. After the 2-versus-3-dot support model, recheck with 1 and 2 objects: 2 has more, 1 fewer. Build small quantity sets before asking for numeral order.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 589,
+          "text": "<b>Ending and fresh checks.</b> Use the original 3 leaves and 5 tops. Make 3 pairs and put the 2 unmatched tops in the real spare box; then read the closing dialogue. Fresh printed tasks are the same tasks on either response surface, not two independent tests. Also ask pupils to sort a new physical mixed tray and count its groups.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 710,
+          "text": "<b>Delayed recall.</b> Another day give 4 leaves and 2 tops to sort/compare, then order 5, 2, 3. Answers: leaves/tops; 4 more, 2 fewer; 2, 3, 5. Record independent / with help / not yet.",
+          "size": 10.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": true
+    },
+    {
+      "slug": "answers-two",
+      "kicker": "For the teacher / Sort, match and order",
+      "title": "Answers and story checks",
+      "subtitle": "Read as a beginner; check the response surface and allow explanation.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 164,
+          "text": "<b>P1-02-Q1:</b> 1, 3, 4.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 207,
+          "text": "<b>P1-02-Q2:</b> One dot in the left set; three in the right set. Keep the sets separate.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 269,
+          "text": "<b>P1-02-Q3:</b> 5 tops, the right set.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 312,
+          "text": "<b>P1-02-Q4:</b> 3 leaves, the right set.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 355,
+          "text": "<b>P1-02-Q5:</b> Exactly five objects. Any safe larger objects and clear arrangement are valid.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 417,
+          "text": "<b>P1-02-Q6:</b> Match one to one or count both sets. Accept an accurate explanation, demonstration or drawing; check each object has only one partner.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 503,
+          "text": "<b>Other exact examples.</b> Mixed/sorted story tray: 3 leaves and 5 tops. Guided sort: second object is a leaf already circled; fourth object is the other leaf; tops first and third. Matching model: 2 pairs and 2 unmatched tops in the four-set. Equal rows: 3 each, all have partners. Order model: 2, 3, 4 dots.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 620,
+          "text": "<b>Support / ending / fresh.</b> Support dots: 2 upper, 3 lower; 2 pairs, 1 unmatched lower dot. Ending: 3 pairs and 2 spare tops. Fresh sort: leaves are second and fourth; tops first, third and fifth. Fresh comparison: 5 leaves more than 4 tops; right set. Do not reveal these answers before independent attempts.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 740,
+          "text": "For the fresh physical tray, the adult chooses quantities within 1-5 for each type, records them privately, then checks the child sorts by type and counts each group once.",
+          "size": 9.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": true
+    },
+    {
+      "slug": "notes",
+      "kicker": "For the teacher / Sources and next steps",
+      "title": "Words, evidence and credits",
+      "subtitle": "Opening two chapters only; later Primary One content remains in development.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 164,
+          "text": "<b>Words.</b> Count: give one number word to each object. Total: how many altogether. Numeral: a written number symbol. Sort: group by a rule. Set: a collection. Match: pair one with one. More/fewer: greater/smaller number of objects. Same number: all objects pair with none unmatched.",
+          "size": 11.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 276,
+          "text": "<b>Historical objective map.</b> One to five: P1-p01-02 (quantity), -03 (count), -04 (write), -05 (order); source tasks Q1-Q6 and additional recognition/fresh tasks. Sort/match/order: P1-p01-01 (sorting/classification), -05 (quantity order), with more/fewer/same as taught comparison. Practical sorting/counting must be observed, not inferred only from circling printed leaves.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 402,
+          "text": "<b>Provisional scope.</b> Research records 54 historical P1 objectives; these opening chapters do not complete them. Use the full-year three-term plan. Current applicable curriculum/Gombe adoption, educator review, pupil trials, accessible-PDF certification, physical print proof and printer approval remain pending. No learning outcomes or official approval are asserted.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 520,
+          "text": "<b>Artwork.</b> Existing fictional character/teacher/classroom images were generated with built-in image_gen; exact prompts, sources and asset records are in artwork/manifest.json and adjacent provenance files. No new AI art was required. Cups, tops, leaves, dots, circles and matching lines are deterministic vector drawings. Typeface: bundled DejaVu Sans, licence in fonts/LICENSE_DEJAVU.txt.",
+          "size": 10.5,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 641,
+          "text": "<b>Next class: Primary Two.</b> Planned topics include larger numbers, exchanging tens in addition/subtraction, equal groups and further measurement. Revisit these Primary One foundations first. This is a series preview, not a claim of verified current curriculum alignment.",
+          "size": 11,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 743,
+          "text": "The full Primary One textbook will retain four final offline-AI pupil teaching pages. They are outside this opening-chapter extract.",
+          "size": 9.5,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": true
+    }
+  ],
+  "workbook_front": [
+    {
+      "slug": "workbook-welcome",
+      "kicker": "Our learning club",
+      "title": "My maths workbook",
+      "subtitle": "Primary One / Opening chapters / An adult can read with you.",
+      "elements": [
+        {
+          "type": "text",
+          "top": 166,
+          "text": "My name: ____________________________",
+          "size": 17,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 64,
+          "top": 255,
+          "width": 90,
+          "height": 90,
+          "preserve": true,
+          "index": 0
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 190,
+          "top": 255,
+          "width": 90,
+          "height": 90,
+          "preserve": true,
+          "index": 1
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 316,
+          "top": 255,
+          "width": 90,
+          "height": 90,
+          "preserve": true,
+          "index": 2
+        },
+        {
+          "type": "image",
+          "asset": "artwork/redesign/references/lead-introductions-v7.png",
+          "x": 442,
+          "top": 255,
+          "width": 90,
+          "height": 90,
+          "preserve": true,
+          "index": 3
+        },
+        {
+          "type": "text",
+          "top": 401,
+          "text": "<b>Look at the textbook model first.</b><br/>Find the same chapter name in this workbook.<br/>Then try the task here.",
+          "size": 17,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 526,
+          "text": "You can point, speak or use real objects before writing.<br/>Your teacher can show you where to begin.<br/>It is fine to try again.",
+          "size": 15,
+          "x": 43,
+          "width": 509
+        },
+        {
+          "type": "text",
+          "top": 662,
+          "text": "Keep writing and drawing on these workbook pages.<br/>Keep the textbook clean for another learner.",
+          "size": 15,
+          "x": 43,
+          "width": 509
+        }
+      ],
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": false
+    }
+  ],
+  "workbook_back": [],
+  "limits": [
+    "Current curriculum/Gombe adoption unverified",
+    "Local educator/pupil trials pending",
+    "Physical print/printer approval pending",
+    "Full-year remainder and final AI pages not included in this opening extract"
+  ]
+}

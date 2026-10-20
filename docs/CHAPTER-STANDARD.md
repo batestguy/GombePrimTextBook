@@ -5,6 +5,14 @@ of **Maths with Friends**. Read it with [the review protocol](CHAPTER-REVIEW.md)
 It supersedes conflicting redesign proposals. Historical PDFs and the original
 63-lesson edition remain historical evidence; they have not passed this standard.
 
+**Packaging amendment, 20 October 2026:** the series now has separate class books.
+For Primary 1 use [the whole-year production plan](PRIMARY-1-PRODUCTION-PLAN.md):
+a reusable textbook plus separate write-in workbook. This amendment retains the
+version-1 learning/review record schema; it changes product packaging, not the
+S1-S9 or independent review requirements. Review the textbook and workbook together.
+Unavailable curriculum resources do not block provisional drafting under the
+documented assumptions and do not establish current alignment or adoption.
+
 ## Learning journey (S1–S9)
 
 Every chapter must provide the following experiences in this broad order.
@@ -84,15 +92,20 @@ and quantities through the story; its resolution must follow from the learning.
 
 ## Pages and teacher support (P1)
 
-Use a white background, dark readable text, full-colour A4 pages, clear hierarchy
-and generous write-in spaces. Inspect every rendered page for clipping, spacing,
+Use a white background, dark readable text, full-colour A4 pages and clear hierarchy.
+Provide generous write-in spaces in the Primary 1 workbook; direct responses to
+that workbook or an ordinary exercise book, never to the reusable textbook.
+Put necessary exact diagrams with each task and make cross-artifact response
+instructions explicit. Inspect every rendered page of both artifacts for clipping, spacing,
 board legibility, mathematical clarity and character continuity. Keep artwork
 provenance. A source-only review does not approve the PDF.
 
-Keep adult guidance, answers, misconceptions, a concrete intervention and fresh
-recheck, delayed recall, glossary, curriculum mapping, credits and Book 2 preview
-in the same volume. Retain the final four pupil teaching pages introducing AI
-offline. Do not claim current NERDC alignment without checking every applicable
+Keep adult guidance, complete textbook/workbook answers, misconceptions, a concrete
+intervention and fresh recheck, delayed recall, glossary, curriculum mapping,
+credits and a Primary 2 preview in the Primary 1 textbook. Retain its final four
+pupil teaching pages introducing AI offline, with responses outside the reusable
+textbook. Other class-book details follow their own agreed plans. Do not claim
+current NERDC alignment without checking every applicable
 objective. Local educational review, pupil trials, physical print tests and printer
 approval stay pending until actually performed.
 

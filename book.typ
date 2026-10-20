@@ -795,15 +795,15 @@
 #section("1", "Look and Talk")
 #image("artwork/school.png", width: 100%, height: 50mm, fit: "contain", alt: "Original illustrative artwork or exact teaching diagram; see credits and source manifest.")
 #v(2mm)
-#block(above: 0pt, below: 1mm)[#text("Amina sets out bottle tops for a school game. What can we count in our room? Touch each object once.")]
+#block(above: 0pt, below: 1mm)[#text("Aishatu's pretend tea shop needs a cup for every friend. Mrs Binta helps the club count carefully.")]
 
 #v(3mm)
 #grid(columns: (7fr, 3fr), gutter: 5mm, [#section("2", "Learn Together")
-#block(above: 0pt, below: 1mm)[#text("Put one top down. Say one. Add another and say two. The last number tells how many. Trace with a finger, then write: 1 2 3 4 5.")]
+#block(above: 0pt, below: 1mm)[#text("Touch each cup once. Say one number word as you touch it. The last number tells how many. Match each group to its numeral, then practise forming 1 to 5 in a workbook or exercise book.")]
 
 #v(3mm)
 #block(width: 100%, inset: 3mm, radius: 2mm, fill: rgb("eef4ef"))[#block(above: 0pt, below: 1mm)[#text(size: 10pt, weight: "bold", "WORKED EXAMPLE")]
-#block(above: 0pt, below: 1mm)[#text(size: 14pt, "Touch the three dots in row A. Say 1, 2, 3. There are 3 dots.")]
+#block(above: 0pt, below: 1mm)[#text(size: 14pt, "Touch three cups once each: one, two, three. There are 3 cups. A circle can represent each cup: two cups can be shown by two circles.")]
 ]
 #v(3mm)
 #image("artwork/diagrams/count35.svg", width: 100%, height: 35mm, fit: "contain", alt: "Original illustrative artwork or exact teaching diagram; see credits and source manifest.")
@@ -812,7 +812,7 @@
 #v(4mm)
 #note("HINT", "Use objects first. Say the number sentence or explain the comparison. Check another way.")
 #v(4mm)
-#note("TEACHER", "Move each object after counting it. Accept pointing or speaking before writing.")
+#note("TEACHER", "Model one touch and one number word per cup, then the total. Check quantity, numeral recognition and formation separately. Read aloud; allow speaking, pointing or moving objects before writing. Work in the workbook or an exercise book.")
 ])
 
 #pagebreak()
@@ -825,7 +825,7 @@
 #question("3", "Draw 2 circles.", space: 24mm)
 #question("4", "Write 1 to 5 in order.", space: 16mm)
 #section("4", "Play or Make")
-#block(above: 0pt, below: 1mm)[#text(size: 13.5pt, "Use five large tops. A partner shows 1 to 5. Count them and choose the matching number card. Swap roles.")]
+#block(above: 0pt, below: 1mm)[#text(size: 13.5pt, "Count large unbreakable cups with a partner. Make a requested set from 1 to 5; choose its numeral from shuffled cards. Give each friend one cup for the pretend shop. Swap roles.")]
 #v(2mm)
 #section("5", "Check Yourself")
 #question("5", "Show 4 fingers. How many?", space: 18mm)
@@ -840,15 +840,15 @@
 #section("1", "Look and Talk")
 #image("artwork/school.png", width: 100%, height: 50mm, fit: "contain", alt: "Original illustrative artwork or exact teaching diagram; see credits and source manifest.")
 #v(2mm)
-#block(above: 0pt, below: 1mm)[#text("Zainab has leaves and bottle tops. How could she put things that are alike together?")]
+#block(above: 0pt, below: 1mm)[#text("Aishatu's toy shop is open. The club needs to tidy leaf tickets and top counters for a new game. Mr Aliyu helps them sort and compare.")]
 
 #v(3mm)
 #grid(columns: (7fr, 3fr), gutter: 5mm, [#section("2", "Learn Together")
-#block(above: 0pt, below: 1mm)[#text("A set is a collection. Sort by one rule, such as colour or shape. Match one object from each set. The set with unmatched objects has more.")]
+#block(above: 0pt, below: 1mm)[#text("A set is a collection. Sort by one rule: leaves together and tops together. Match one leaf to one top. Unmatched tops show which set has more. Sets with a partner for every object have the same number. Count sets and put them in order from fewest to most.")]
 
 #v(3mm)
 #block(width: 100%, inset: 3mm, radius: 2mm, fill: rgb("eef4ef"))[#block(above: 0pt, below: 1mm)[#text(size: 10pt, weight: "bold", "WORKED EXAMPLE")]
-#block(above: 0pt, below: 1mm)[#text(size: 14pt, "A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.")]
+#block(above: 0pt, below: 1mm)[#text(size: 14pt, "Match 2 tops to 4 tops, one to one. Two tops in the set of 4 have no partner. Four is more than two; two is fewer than four. Sets of 2, 3 and 4 go in that order from fewest to most.")]
 ]
 #v(3mm)
 #block(above: 0pt, below: 1mm)[#text(size: 11pt, "Show the example with objects or a drawing.")]
@@ -857,7 +857,7 @@
 #v(4mm)
 #note("HINT", "Use objects first. Say the number sentence or explain the comparison. Check another way.")
 #v(4mm)
-#note("TEACHER", "Ask for the sorting rule. Distinguish the number in a set from the size of its objects.")
+#note("TEACHER", "Read aloud and model sorting before matching. Put one object beside one partner; spacing and object size do not decide which set has more. Provide reachable materials and allow pointing, speaking or moving objects. Recheck later with fresh sets.")
 ])
 
 #pagebreak()
@@ -870,7 +870,7 @@
 #question("3", "Which has more: 2 tops or 5 tops?", space: 16mm)
 #question("4", "Which has fewer: 4 leaves or 3 leaves?", space: 16mm)
 #section("4", "Play or Make")
-#block(above: 0pt, below: 1mm)[#text(size: 13.5pt, "Sort six safe classroom objects by material. Explain your rule. Make sets of 1, 2, 3, 4 and 5 tops.")]
+#block(above: 0pt, below: 1mm)[#text(size: 13.5pt, "Sort clean, large leaves and large tops into separate sets. Match one leaf to one top. Say which set has more, fewer, or the same number. Swap roles. Make sets of 1 to 5 tops and order them from fewest to most.")]
 #v(2mm)
 #section("5", "Check Yourself")
 #question("5", "Make a set of 5 objects.", space: 18mm)
@@ -4060,7 +4060,7 @@
 #metadata("answers1") <answers1>
 #titlebar("TEACHER ANSWERS", "Lesson answers and methods")
 #block(above: 0pt, below: 1mm)[#text(size: 13pt, weight: "bold", "P1-01 · One to five")]
-#block(above: 0pt, below: 1mm)[#text(size: 10pt, "Worked method: Touch the three dots in row A. Say 1, 2, 3. There are 3 dots.")]
+#block(above: 0pt, below: 1mm)[#text(size: 10pt, "Worked method: Touch three cups once each: one, two, three. There are 3 cups. A circle can represent each cup: two cups can be shown by two circles.")]
 #v(2mm)
 #block(above: 0pt, below: 1mm)[#text(size: 10pt, "P1-01.1  3")]
 #v(1.2mm)
@@ -4074,10 +4074,10 @@
 #v(1.2mm)
 #block(above: 0pt, below: 1mm)[#text(size: 10pt, "P1-01.6  Touch or move each top exactly once.")]
 #v(1.2mm)
-#block(above: 0pt, below: 1mm)[#text(size: 9pt, "Practical observation: Move each object after counting it. Accept pointing or speaking before writing.")]
+#block(above: 0pt, below: 1mm)[#text(size: 9pt, "Practical observation: Model one touch and one number word per cup, then the total. Check quantity, numeral recognition and formation separately. Read aloud; allow speaking, pointing or moving objects before writing. Work in the workbook or an exercise book.")]
 #v(5mm)
 #block(above: 0pt, below: 1mm)[#text(size: 13pt, weight: "bold", "P1-02 · Sort, match and order")]
-#block(above: 0pt, below: 1mm)[#text(size: 10pt, "Worked method: A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.")]
+#block(above: 0pt, below: 1mm)[#text(size: 10pt, "Worked method: Match 2 tops to 4 tops, one to one. Two tops in the set of 4 have no partner. Four is more than two; two is fewer than four. Sets of 2, 3 and 4 go in that order from fewest to most.")]
 #v(2mm)
 #block(above: 0pt, below: 1mm)[#text(size: 10pt, "P1-02.1  1, 3, 4")]
 #v(1.2mm)
@@ -4091,7 +4091,7 @@
 #v(1.2mm)
 #block(above: 0pt, below: 1mm)[#text(size: 10pt, "P1-02.6  Match one to one or count both sets.")]
 #v(1.2mm)
-#block(above: 0pt, below: 1mm)[#text(size: 9pt, "Practical observation: Ask for the sorting rule. Distinguish the number in a set from the size of its objects.")]
+#block(above: 0pt, below: 1mm)[#text(size: 9pt, "Practical observation: Read aloud and model sorting before matching. Put one object beside one partner; spacing and object size do not decide which set has more. Provide reachable materials and allow pointing, speaking or moving objects. Recheck later with fresh sets.")]
 #v(5mm)
 
 #pagebreak()

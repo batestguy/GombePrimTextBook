@@ -1,5 +1,11 @@
 # Gombe Mathematics: characters, stories and visual redesign
 
+**Current packaging and scope:** separate class books now supersede the combined
+volume below. For Primary 1, [the full-year production plan](PRIMARY-1-PRODUCTION-PLAN.md)
+sets the authorised provisional baseline and reusable textbook/separate workbook
+format. The user cannot obtain external resources now; proceed with labelled
+approximations, keeping current-alignment and adoption claims pending.
+
 Current authority: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and [handoff template](HANDOFF-TEMPLATE.md). The plan below is historical context where it conflicts; subsequent chapters must pass the current standard and independent review.
 
 **Latest character direction:** use Mrs Binta's requested title, introduce her and

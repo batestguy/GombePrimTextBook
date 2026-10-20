@@ -8,39 +8,1188 @@
       1
     ],
     "goal": "Count, read, write and order 1 to 5.",
-    "look": "Amina sets out bottle tops for a school game. What can we count in our room? Touch each object once.",
-    "learn": "Put one top down. Say one. Add another and say two. The last number tells how many. Trace with a finger, then write: 1 2 3 4 5.",
-    "worked": "Touch the three dots in row A. Say 1, 2, 3. There are 3 dots.",
-    "play": "Use five large tops. A partner shows 1 to 5. Count them and choose the matching number card. Swap roles.",
+    "look": "Aishatu's pretend tea shop needs a cup for every friend. Mrs Binta helps the club count carefully.",
+    "learn": "Touch each cup once. Say one number word as you touch it. The last number tells how many. Match each group to its numeral, then practise forming 1 to 5 in a workbook or exercise book.",
+    "worked": "Touch three cups once each: one, two, three. There are 3 cups. A circle can represent each cup: two cups can be shown by two circles.",
+    "play": "Count large unbreakable cups with a partner. Make a requested set from 1 to 5; choose its numeral from shuffled cards. Give each friend one cup for the pretend shop. Swap roles.",
     "vocabulary": "count; number; how many",
-    "hint": "Move each object after counting it. Accept pointing or speaking before writing.",
+    "hint": "Model one touch and one number word per cup, then the total. Check quantity, numeral recognition and formation separately. Read aloud; allow speaking, pointing or moving objects before writing. Work in the workbook or an exercise book.",
     "questions": [
       {
         "prompt": "Count row A. Write the number.",
-        "answer": "3"
+        "answer": "3",
+        "id": "P1-01-Q1"
       },
       {
         "prompt": "Count row B. Write the number.",
-        "answer": "5"
+        "answer": "5",
+        "id": "P1-01-Q2"
       },
       {
         "prompt": "Draw 2 circles.",
-        "answer": "Two separate circles."
+        "answer": "Two separate circles.",
+        "id": "P1-01-Q3"
       },
       {
         "prompt": "Write 1 to 5 in order.",
-        "answer": "1, 2, 3, 4, 5"
+        "answer": "1, 2, 3, 4, 5",
+        "id": "P1-01-Q4"
       },
       {
         "prompt": "Show 4 fingers. How many?",
-        "answer": "4"
+        "answer": "4",
+        "id": "P1-01-Q5"
       },
       {
         "prompt": "Musa counts one top twice. Show a better way.",
-        "answer": "Touch or move each top exactly once."
+        "answer": "Touch or move each top exactly once.",
+        "id": "P1-01-Q6"
       }
     ],
-    "diagram": "count35"
+    "diagram": "count35",
+    "paired_edition": {
+      "teacher_id": "ms-binta",
+      "source_tasks": [
+        {
+          "id": "P1-01-Q1",
+          "source_prompt": "Count row A. Write the number.",
+          "source_answer": "3"
+        },
+        {
+          "id": "P1-01-Q2",
+          "source_prompt": "Count row B. Write the number.",
+          "source_answer": "5"
+        },
+        {
+          "id": "P1-01-Q3",
+          "source_prompt": "Draw 2 circles.",
+          "source_answer": "Two separate circles."
+        },
+        {
+          "id": "P1-01-Q4",
+          "source_prompt": "Write 1 to 5 in order.",
+          "source_answer": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "P1-01-Q5",
+          "source_prompt": "Show 4 fingers. How many?",
+          "source_answer": "4"
+        },
+        {
+          "id": "P1-01-Q6",
+          "source_prompt": "Musa counts one top twice. Show a better way.",
+          "source_answer": "Touch or move each top exactly once."
+        }
+      ],
+      "textbook_pages": [
+        {
+          "slug": "c1-story",
+          "kicker": "Chapter one / One to five",
+          "title": "A cup for every friend",
+          "subtitle": "We will count, read, write and order one to five.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/scenes/classroom-welcome-v7.png",
+              "x": 43,
+              "top": 160,
+              "width": 509,
+              "height": 339,
+              "preserve": false
+            },
+            {
+              "type": "text",
+              "top": 214,
+              "text": "<b>Touch one.</b><br/><b>Say one number.</b>",
+              "size": 17,
+              "x": 263,
+              "width": 230
+            },
+            {
+              "type": "text",
+              "top": 517,
+              "text": "<b>Mrs Binta:</b> Let us help Aishatu open her pretend tea shop. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 724,
+              "text": "Mrs Binta leads our counting lesson.<br/>Use large unbreakable cups at a reachable table.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [],
+          "pre_numerals": true,
+          "adult": false
+        },
+        {
+          "slug": "c1-model",
+          "kicker": "Watch Mrs Binta",
+          "title": "Touch. Say. Count.",
+          "subtitle": "Start with real cups. Then look at these cup pictures.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+              "x": 43,
+              "top": 165,
+              "width": 105,
+              "height": 105,
+              "preserve": true
+            },
+            {
+              "type": "text",
+              "top": 170,
+              "text": "<b>Mrs Binta:</b> Watch me. I touch each cup once and say one number word.<br/><b>Aishatu:</b> I will slow down and watch.",
+              "size": 14,
+              "x": 165,
+              "width": 383
+            },
+            {
+              "type": "objects",
+              "id": "c1-model-three",
+              "kind": "cup",
+              "count": 3,
+              "x": 135,
+              "top": 374,
+              "gap": 160,
+              "scale": 1.3
+            },
+            {
+              "type": "text",
+              "top": 459,
+              "text": "<b>one</b>",
+              "size": 16,
+              "x": 115,
+              "width": 110
+            },
+            {
+              "type": "text",
+              "top": 459,
+              "text": "<b>two</b>",
+              "size": 16,
+              "x": 275,
+              "width": 110
+            },
+            {
+              "type": "text",
+              "top": 459,
+              "text": "<b>three</b>",
+              "size": 16,
+              "x": 435,
+              "width": 110
+            },
+            {
+              "type": "text",
+              "top": 530,
+              "text": "<b>Mrs Binta:</b> The last number was three.<br/>There are three cups.",
+              "size": 17,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 43,
+              "top": 630,
+              "width": 80,
+              "height": 80,
+              "preserve": true,
+              "index": 2
+            },
+            {
+              "type": "text",
+              "top": 631,
+              "text": "<b>Grace:</b> We can check again.<br/><b>Try together:</b> touch each cup picture once. Say its number word. Then say how many.",
+              "size": 14,
+              "x": 143,
+              "width": 404
+            },
+            {
+              "type": "text",
+              "top": 743,
+              "text": "Do this with real cups too. Move each counted cup aside.",
+              "size": 12,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [],
+          "pre_numerals": true,
+          "adult": false
+        },
+        {
+          "slug": "c1-numbers",
+          "kicker": "Count together, then show it",
+          "title": "Cups and numbers",
+          "subtitle": "Touch each cup. Say the number. Look at its numeral.",
+          "elements": [
+            {
+              "type": "objects",
+              "id": "c1-ladder-1",
+              "kind": "cup",
+              "count": 1,
+              "x": 115,
+              "top": 170,
+              "gap": 47,
+              "scale": 0.72
+            },
+            {
+              "type": "text",
+              "top": 171,
+              "text": "<b>one</b>",
+              "size": 14,
+              "x": 385,
+              "width": 90
+            },
+            {
+              "type": "text",
+              "top": 166,
+              "text": "<b>1</b>",
+              "size": 24,
+              "x": 490,
+              "width": 55
+            },
+            {
+              "type": "objects",
+              "id": "c1-ladder-2",
+              "kind": "cup",
+              "count": 2,
+              "x": 115,
+              "top": 237,
+              "gap": 47,
+              "scale": 0.72
+            },
+            {
+              "type": "text",
+              "top": 238,
+              "text": "<b>two</b>",
+              "size": 14,
+              "x": 385,
+              "width": 90
+            },
+            {
+              "type": "text",
+              "top": 233,
+              "text": "<b>2</b>",
+              "size": 24,
+              "x": 490,
+              "width": 55
+            },
+            {
+              "type": "objects",
+              "id": "c1-ladder-3",
+              "kind": "cup",
+              "count": 3,
+              "x": 115,
+              "top": 304,
+              "gap": 47,
+              "scale": 0.72
+            },
+            {
+              "type": "text",
+              "top": 305,
+              "text": "<b>three</b>",
+              "size": 14,
+              "x": 385,
+              "width": 90
+            },
+            {
+              "type": "text",
+              "top": 300,
+              "text": "<b>3</b>",
+              "size": 24,
+              "x": 490,
+              "width": 55
+            },
+            {
+              "type": "objects",
+              "id": "c1-ladder-4",
+              "kind": "cup",
+              "count": 4,
+              "x": 115,
+              "top": 371,
+              "gap": 47,
+              "scale": 0.72
+            },
+            {
+              "type": "text",
+              "top": 372,
+              "text": "<b>four</b>",
+              "size": 14,
+              "x": 385,
+              "width": 90
+            },
+            {
+              "type": "text",
+              "top": 367,
+              "text": "<b>4</b>",
+              "size": 24,
+              "x": 490,
+              "width": 55
+            },
+            {
+              "type": "objects",
+              "id": "c1-ladder-5",
+              "kind": "cup",
+              "count": 5,
+              "x": 115,
+              "top": 438,
+              "gap": 47,
+              "scale": 0.72
+            },
+            {
+              "type": "text",
+              "top": 439,
+              "text": "<b>five</b>",
+              "size": 14,
+              "x": 385,
+              "width": 90
+            },
+            {
+              "type": "text",
+              "top": 434,
+              "text": "<b>5</b>",
+              "size": 24,
+              "x": 490,
+              "width": 55
+            },
+            {
+              "type": "text",
+              "top": 533,
+              "text": "<b>John:</b> Can a drawing stand for a cup?<br/><b>Mrs Binta:</b> Yes. I draw one circle for each cup.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "c1-draw-model-cups",
+              "kind": "cup",
+              "count": 2,
+              "x": 135,
+              "top": 618,
+              "gap": 150,
+              "scale": 0.9
+            },
+            {
+              "type": "objects",
+              "id": "c1-draw-model-circles",
+              "kind": "circle",
+              "count": 2,
+              "x": 135,
+              "top": 710,
+              "gap": 150,
+              "scale": 1
+            },
+            {
+              "type": "line",
+              "x1": 135,
+              "top1": 659,
+              "x2": 135,
+              "top2": 691
+            },
+            {
+              "type": "line",
+              "x1": 285,
+              "top1": 659,
+              "x2": 285,
+              "top2": 691
+            },
+            {
+              "type": "text",
+              "top": 745,
+              "text": "Two cups. Two circles. One circle stands for each cup.",
+              "size": 12,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "c1-count-draw",
+          "kicker": "Your turn",
+          "title": "Count and draw",
+          "subtitle": "Try first. Use your workbook or an exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Aishatu:</b> Count these cups. Say how many.<br/>Write how many in your exercise book.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "c1-Q1-three",
+              "kind": "cup",
+              "count": 3,
+              "x": 125,
+              "top": 270,
+              "gap": 150,
+              "scale": 1.05
+            },
+            {
+              "type": "text",
+              "top": 364,
+              "text": "<b>Grace:</b> Check this scattered group. Say how many.<br/>Write how many in your exercise book.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "c1-Q2-five",
+              "kinds": [
+                "cup",
+                "cup",
+                "cup",
+                "cup",
+                "cup"
+              ],
+              "points": [
+                [
+                  105,
+                  468
+                ],
+                [
+                  195,
+                  501
+                ],
+                [
+                  290,
+                  460
+                ],
+                [
+                  390,
+                  501
+                ],
+                [
+                  480,
+                  468
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 590,
+              "text": "<b>John:</b> Draw two circles in your exercise book.<br/>You can draw one circle for each cup below.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "c1-Q3-two",
+              "kind": "cup",
+              "count": 2,
+              "x": 145,
+              "top": 686,
+              "gap": 165,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 755,
+              "text": "Workbook: Count and draw. Use that page instead if you have it.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [
+            "P1-01-Q1",
+            "P1-01-Q2",
+            "P1-01-Q3"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "c1-recall",
+          "kicker": "Remember and try",
+          "title": "Write, show and explain",
+          "subtitle": "Remember what Mrs Binta showed before looking back.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+              "x": 43,
+              "top": 160,
+              "width": 85,
+              "height": 85,
+              "preserve": true
+            },
+            {
+              "type": "text",
+              "top": 167,
+              "text": "<b>Mrs Binta:</b> Watch me form each numeral on paper. Then write these numerals in order in your exercise book.",
+              "size": 14,
+              "x": 145,
+              "width": 401
+            },
+            {
+              "type": "text",
+              "top": 283,
+              "text": "<b>1     2     3     4     5</b>",
+              "size": 28,
+              "x": 90,
+              "width": 450
+            },
+            {
+              "type": "text",
+              "top": 351,
+              "text": "<b>John:</b> I want to try before a hint.<br/>Show four fingers. Count them. Write how many in your exercise book. You can show four objects instead.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 468,
+              "text": "<b>Adamu:</b> I touched a cup twice. How can I check?<br/>Tell or show a partner how to count each cup just once.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "c1-Q6-three",
+              "kind": "cup",
+              "count": 3,
+              "x": 120,
+              "top": 560,
+              "gap": 160,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 642,
+              "text": "<b>Need help?</b> With an adult, use two cups. Move one cup aside as you say each number. Say how many. Then try a fresh small set.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 748,
+              "text": "Workbook: Trace and write; Show how you count.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [
+            "P1-01-Q4",
+            "P1-01-Q5",
+            "P1-01-Q6"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "c1-ending",
+          "kicker": "Finish our story / A fresh try",
+          "title": "Our tea shop is ready",
+          "subtitle": "Count the cups. Does every friend have a cup?",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 65,
+              "top": 168,
+              "width": 85,
+              "height": 85,
+              "preserve": true,
+              "index": 0
+            },
+            {
+              "type": "objects",
+              "id": "c1-ending-cup-0",
+              "kind": "cup",
+              "count": 1,
+              "x": 100,
+              "top": 300,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 190,
+              "top": 168,
+              "width": 85,
+              "height": 85,
+              "preserve": true,
+              "index": 1
+            },
+            {
+              "type": "objects",
+              "id": "c1-ending-cup-1",
+              "kind": "cup",
+              "count": 1,
+              "x": 225,
+              "top": 300,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 315,
+              "top": 168,
+              "width": 85,
+              "height": 85,
+              "preserve": true,
+              "index": 2
+            },
+            {
+              "type": "objects",
+              "id": "c1-ending-cup-2",
+              "kind": "cup",
+              "count": 1,
+              "x": 350,
+              "top": 300,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 440,
+              "top": 168,
+              "width": 85,
+              "height": 85,
+              "preserve": true,
+              "index": 3
+            },
+            {
+              "type": "objects",
+              "id": "c1-ending-cup-3",
+              "kind": "cup",
+              "count": 1,
+              "x": 475,
+              "top": 300,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 384,
+              "text": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now your pretend tea shop can open.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 566,
+              "text": "<b>A fresh try. Work on your own.</b><br/>Ask an adult to name a number from one to five.<br/>Make that many cups or counters at the table.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 645,
+              "text": "Ask the adult to mix numeral cards from one to five.<br/>Point to the numeral the adult says.<br/>Now the adult points to a mixed card. Say its number.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 755,
+              "text": "Workbook: A fresh counting try. The adult chooses the numbers.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [
+            "P1-01-FRESH-SET",
+            "P1-01-FRESH-READ",
+            "P1-01-FRESH-RECOGNISE"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        }
+      ],
+      "workbook_pages": [
+        {
+          "slug": "w1-count-draw",
+          "kicker": "One to five / Your turn",
+          "title": "Count and draw",
+          "subtitle": "Look at the textbook models first. Write and draw on this page.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "Touch each cup once. Count aloud.<br/>Write how many in the small box.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w1-Q1-three",
+              "kind": "cup",
+              "count": 3,
+              "x": 105,
+              "top": 260,
+              "gap": 125,
+              "scale": 1
+            },
+            {
+              "type": "box",
+              "x": 469,
+              "top": 251,
+              "width": 66,
+              "height": 61,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 362,
+              "text": "Count this scattered group.<br/>Write how many in the small box.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w1-Q2-five",
+              "kinds": [
+                "cup",
+                "cup",
+                "cup",
+                "cup",
+                "cup"
+              ],
+              "points": [
+                [
+                  80,
+                  451
+                ],
+                [
+                  160,
+                  479
+                ],
+                [
+                  240,
+                  445
+                ],
+                [
+                  325,
+                  479
+                ],
+                [
+                  410,
+                  451
+                ]
+              ]
+            },
+            {
+              "type": "box",
+              "x": 469,
+              "top": 455,
+              "width": 66,
+              "height": 61,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 566,
+              "text": "Draw two circles in the large box.<br/>A circle can stand for each cup.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w1-Q3-two",
+              "kind": "cup",
+              "count": 2,
+              "x": 389,
+              "top": 575,
+              "gap": 90,
+              "scale": 0.7
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 647,
+              "width": 509,
+              "height": 119,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-01-Q1",
+            "P1-01-Q2",
+            "P1-01-Q3"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "w1-trace",
+          "kicker": "One to five / Watch, then practise",
+          "title": "Trace and write",
+          "subtitle": "Watch your teacher form each numeral on paper first.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "Trace each light numeral. Then write it in the empty box beside it. Work from the top row down.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 252,
+              "text": "<b>1</b>",
+              "size": 34,
+              "x": 71,
+              "width": 80
+            },
+            {
+              "type": "trace",
+              "x": 241,
+              "top": 245,
+              "digit": 1,
+              "size": 45
+            },
+            {
+              "type": "box",
+              "x": 367,
+              "top": 243,
+              "width": 151,
+              "height": 70,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 350,
+              "text": "<b>2</b>",
+              "size": 34,
+              "x": 71,
+              "width": 80
+            },
+            {
+              "type": "trace",
+              "x": 241,
+              "top": 343,
+              "digit": 2,
+              "size": 45
+            },
+            {
+              "type": "box",
+              "x": 367,
+              "top": 341,
+              "width": 151,
+              "height": 70,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 448,
+              "text": "<b>3</b>",
+              "size": 34,
+              "x": 71,
+              "width": 80
+            },
+            {
+              "type": "trace",
+              "x": 241,
+              "top": 441,
+              "digit": 3,
+              "size": 45
+            },
+            {
+              "type": "box",
+              "x": 367,
+              "top": 439,
+              "width": 151,
+              "height": 70,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 546,
+              "text": "<b>4</b>",
+              "size": 34,
+              "x": 71,
+              "width": 80
+            },
+            {
+              "type": "trace",
+              "x": 241,
+              "top": 539,
+              "digit": 4,
+              "size": 45
+            },
+            {
+              "type": "box",
+              "x": 367,
+              "top": 537,
+              "width": 151,
+              "height": 70,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 644,
+              "text": "<b>5</b>",
+              "size": 34,
+              "x": 71,
+              "width": 80
+            },
+            {
+              "type": "trace",
+              "x": 241,
+              "top": 637,
+              "digit": 5,
+              "size": 45
+            },
+            {
+              "type": "box",
+              "x": 367,
+              "top": 635,
+              "width": 151,
+              "height": 70,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 752,
+              "text": "Now say the numerals in order. Try again on paper if you need to.",
+              "size": 11.5,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [
+            "P1-01-Q4"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "w1-recall",
+          "kicker": "One to five / Remember and help",
+          "title": "Show how you count",
+          "subtitle": "Try to remember Mrs Binta before looking back.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Show four fingers. Count them.<br/>Write how many in the box. You can use four objects instead.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 413,
+              "top": 255,
+              "width": 107,
+              "height": 68,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 374,
+              "text": "<b>Adamu:</b> I touched a cup twice.<br/>Show a partner how to count each cup just once.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w1-Q6-three",
+              "kind": "cup",
+              "count": 3,
+              "x": 120,
+              "top": 485,
+              "gap": 160,
+              "scale": 1.1
+            },
+            {
+              "type": "text",
+              "top": 588,
+              "text": "Tell or show your counting method. You can draw your idea below.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 648,
+              "width": 509,
+              "height": 117,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-01-Q5",
+            "P1-01-Q6"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "w1-fresh",
+          "kicker": "One to five / A fresh try",
+          "title": "A fresh counting try",
+          "subtitle": "An adult reads these instructions. Try before getting help.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 166,
+              "text": "Ask an adult to say a number from one to five.<br/>Make that many large objects at the table.<br/>Count once to check.",
+              "size": 16,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 321,
+              "text": "Ask the adult to say another number.<br/>Draw that many circles in the large box.",
+              "size": 16,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 412,
+              "width": 509,
+              "height": 156,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 620,
+              "text": "Point to the numeral the adult says.<br/>Then the adult points to a mixed card.<br/>Say its number. Try a different order next.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 704,
+              "width": 94,
+              "height": 63,
+              "response": false
+            },
+            {
+              "type": "text",
+              "top": 711,
+              "text": "<b>3</b>",
+              "size": 29,
+              "x": 73,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 146,
+              "top": 704,
+              "width": 94,
+              "height": 63,
+              "response": false
+            },
+            {
+              "type": "text",
+              "top": 711,
+              "text": "<b>1</b>",
+              "size": 29,
+              "x": 176,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 249,
+              "top": 704,
+              "width": 94,
+              "height": 63,
+              "response": false
+            },
+            {
+              "type": "text",
+              "top": 711,
+              "text": "<b>5</b>",
+              "size": 29,
+              "x": 279,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 352,
+              "top": 704,
+              "width": 94,
+              "height": 63,
+              "response": false
+            },
+            {
+              "type": "text",
+              "top": 711,
+              "text": "<b>2</b>",
+              "size": 29,
+              "x": 382,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 455,
+              "top": 704,
+              "width": 94,
+              "height": 63,
+              "response": false
+            },
+            {
+              "type": "text",
+              "top": 711,
+              "text": "<b>4</b>",
+              "size": 29,
+              "x": 485,
+              "width": 65
+            }
+          ],
+          "task_ids": [
+            "P1-01-FRESH-SET",
+            "P1-01-FRESH-READ",
+            "P1-01-FRESH-RECOGNISE"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        }
+      ],
+      "sessions": [
+        "Story and concrete model",
+        "Guided counting and numerals",
+        "Count/draw and numeral formation",
+        "Recall, story ending and fresh checks"
+      ],
+      "objective_ids": [
+        "P1-p01-02",
+        "P1-p01-03",
+        "P1-p01-04",
+        "P1-p01-05"
+      ],
+      "adaptation": "Cups replace source tops/dots; source answers retained in adult map. Introductions are front matter; written responses move to workbook/exercise book."
+    }
   },
   {
     "id": "P1-02",
@@ -51,39 +1200,2423 @@
       1
     ],
     "goal": "Sort collections and compare small sets.",
-    "look": "Zainab has leaves and bottle tops. How could she put things that are alike together?",
-    "learn": "A set is a collection. Sort by one rule, such as colour or shape. Match one object from each set. The set with unmatched objects has more.",
-    "worked": "A set of 2 has fewer than a set of 4. In number order: 2, 3, 4.",
-    "play": "Sort six safe classroom objects by material. Explain your rule. Make sets of 1, 2, 3, 4 and 5 tops.",
+    "look": "Aishatu's toy shop is open. The club needs to tidy leaf tickets and top counters for a new game. Mr Aliyu helps them sort and compare.",
+    "learn": "A set is a collection. Sort by one rule: leaves together and tops together. Match one leaf to one top. Unmatched tops show which set has more. Sets with a partner for every object have the same number. Count sets and put them in order from fewest to most.",
+    "worked": "Match 2 tops to 4 tops, one to one. Two tops in the set of 4 have no partner. Four is more than two; two is fewer than four. Sets of 2, 3 and 4 go in that order from fewest to most.",
+    "play": "Sort clean, large leaves and large tops into separate sets. Match one leaf to one top. Say which set has more, fewer, or the same number. Swap roles. Make sets of 1 to 5 tops and order them from fewest to most.",
     "vocabulary": "sort; set; more; fewer",
-    "hint": "Ask for the sorting rule. Distinguish the number in a set from the size of its objects.",
+    "hint": "Read aloud and model sorting before matching. Put one object beside one partner; spacing and object size do not decide which set has more. Provide reachable materials and allow pointing, speaking or moving objects. Recheck later with fresh sets.",
     "questions": [
       {
         "prompt": "Order: 4, 1, 3.",
-        "answer": "1, 3, 4"
+        "answer": "1, 3, 4",
+        "id": "P1-02-Q1"
       },
       {
         "prompt": "Draw sets of 1 and 3 dots.",
-        "answer": "One dot in one set; three in the other."
+        "answer": "One dot in one set; three in the other.",
+        "id": "P1-02-Q2"
       },
       {
         "prompt": "Which has more: 2 tops or 5 tops?",
-        "answer": "5 tops"
+        "answer": "5 tops",
+        "id": "P1-02-Q3"
       },
       {
         "prompt": "Which has fewer: 4 leaves or 3 leaves?",
-        "answer": "3 leaves"
+        "answer": "3 leaves",
+        "id": "P1-02-Q4"
       },
       {
         "prompt": "Make a set of 5 objects.",
-        "answer": "Exactly five objects."
+        "answer": "Exactly five objects.",
+        "id": "P1-02-Q5"
       },
       {
         "prompt": "Explain how to compare two sets.",
-        "answer": "Match one to one or count both sets."
+        "answer": "Match one to one or count both sets.",
+        "id": "P1-02-Q6"
       }
     ],
-    "diagram": ""
+    "diagram": "",
+    "redesign": {
+      "standard": "docs/CHAPTER-STANDARD.md",
+      "review_protocol": "docs/CHAPTER-REVIEW.md",
+      "author": "Codex /root",
+      "teacher_id": "mr-aliyu",
+      "pupil_pages": 7,
+      "story_inventory": {
+        "leaves": 3,
+        "tops": 5,
+        "matched_pairs": 3,
+        "spare_tops": 2
+      },
+      "limits": [
+        "Current applicable curriculum alignment unverified",
+        "Local educator and pupil trial pending",
+        "Physical print test and printer approval pending",
+        "Standalone chapter review PDF; full volume retains its legacy layout",
+        "Accessible PDF certification pending"
+      ],
+      "pages": [
+        {
+          "kicker": "Our toy shop / Chapter two",
+          "title": "Sort, match and order",
+          "subtitle": "We will sort things, match them and put small sets in order.",
+          "elements": [
+            {
+              "type": "teacher",
+              "x": 43,
+              "top": 164,
+              "size": 105
+            },
+            {
+              "type": "text",
+              "top": 170,
+              "text": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.",
+              "size": 14,
+              "x": 163,
+              "width": 380
+            },
+            {
+              "type": "portrait",
+              "index": 0,
+              "x": 67,
+              "top": 282,
+              "size": 82
+            },
+            {
+              "type": "portrait",
+              "index": 1,
+              "x": 192,
+              "top": 282,
+              "size": 82
+            },
+            {
+              "type": "portrait",
+              "index": 2,
+              "x": 317,
+              "top": 282,
+              "size": 82
+            },
+            {
+              "type": "portrait",
+              "index": 3,
+              "x": 442,
+              "top": 282,
+              "size": 82
+            },
+            {
+              "type": "text",
+              "top": 380,
+              "text": "<b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "story-tray",
+              "x": 43,
+              "top": 510,
+              "width": 509,
+              "height": 145
+            },
+            {
+              "type": "objects",
+              "id": "opening-tray",
+              "kinds": [
+                "leaf",
+                "top",
+                "top",
+                "leaf",
+                "top",
+                "leaf",
+                "top",
+                "top"
+              ],
+              "points": [
+                [
+                  95,
+                  552
+                ],
+                [
+                  185,
+                  550
+                ],
+                [
+                  287,
+                  550
+                ],
+                [
+                  390,
+                  552
+                ],
+                [
+                  485,
+                  550
+                ],
+                [
+                  140,
+                  615
+                ],
+                [
+                  285,
+                  615
+                ],
+                [
+                  435,
+                  615
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            }
+          ]
+        },
+        {
+          "kicker": "Watch and try together",
+          "title": "Give each set a place",
+          "subtitle": "A set is a collection. Sort by one rule.",
+          "elements": [
+            {
+              "type": "teacher",
+              "x": 43,
+              "top": 164,
+              "size": 85
+            },
+            {
+              "type": "text",
+              "top": 169,
+              "text": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
+              "size": 14,
+              "x": 145,
+              "width": 405
+            },
+            {
+              "type": "text",
+              "top": 282,
+              "text": "<b>Leaves together</b>",
+              "size": 14,
+              "x": 61,
+              "width": 220
+            },
+            {
+              "type": "text",
+              "top": 282,
+              "text": "<b>Tops together</b>",
+              "size": 14,
+              "x": 319,
+              "width": 220
+            },
+            {
+              "type": "box",
+              "id": "sorted-leaves",
+              "x": 43,
+              "top": 322,
+              "width": 230,
+              "height": 96
+            },
+            {
+              "type": "box",
+              "id": "sorted-tops",
+              "x": 298,
+              "top": 322,
+              "width": 254,
+              "height": 96
+            },
+            {
+              "type": "objects",
+              "id": "sort-model-leaves",
+              "kind": "leaf",
+              "count": 3,
+              "x": 89,
+              "top": 368,
+              "gap": 65,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "sort-model-tops",
+              "kind": "top",
+              "count": 5,
+              "x": 327,
+              "top": 368,
+              "gap": 49,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 446,
+              "text": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 550,
+              "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "guided-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf"
+              ],
+              "points": [
+                [
+                  106,
+                  625
+                ],
+                [
+                  232,
+                  625
+                ],
+                [
+                  358,
+                  625
+                ],
+                [
+                  484,
+                  625
+                ]
+              ]
+            },
+            {
+              "type": "portrait",
+              "index": 2,
+              "x": 43,
+              "top": 686,
+              "size": 68
+            },
+            {
+              "type": "text",
+              "top": 686,
+              "text": "<b>Grace:</b> Now I can keep the two sets tidy.<br/><b>Mr Aliyu:</b> Tell a partner our sorting rule.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "ellipse",
+              "x": 203,
+              "top": 598,
+              "width": 61,
+              "height": 54
+            }
+          ]
+        },
+        {
+          "kicker": "Watch and try together",
+          "title": "One partner for each",
+          "subtitle": "Match one object to one object to compare the sets.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 163,
+              "text": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "match-model-two",
+              "kind": "top",
+              "count": 2,
+              "x": 100,
+              "top": 255,
+              "gap": 85,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "match-model-four",
+              "kind": "top",
+              "count": 4,
+              "x": 100,
+              "top": 357,
+              "gap": 85,
+              "scale": 1
+            },
+            {
+              "type": "line",
+              "x1": 100,
+              "top1": 274,
+              "x2": 100,
+              "top2": 338
+            },
+            {
+              "type": "line",
+              "x1": 185,
+              "top1": 274,
+              "x2": 185,
+              "top2": 338
+            },
+            {
+              "type": "text",
+              "top": 395,
+              "text": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "portrait",
+              "index": 1,
+              "x": 43,
+              "top": 475,
+              "size": 68
+            },
+            {
+              "type": "text",
+              "top": 477,
+              "text": "<b>Adamu:</b> The long row must have more!<br/><b>Mr Aliyu:</b> Let us match and check.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "objects",
+              "id": "equal-close",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 585,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "equal-wide",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 685,
+              "gap": 160,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 726,
+              "text": "Draw one line from each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "ellipse",
+              "x": 66,
+              "top": 329,
+              "width": 322,
+              "height": 57
+            }
+          ]
+        },
+        {
+          "kicker": "Learn, then try",
+          "title": "From fewest to most",
+          "subtitle": "Count each set. Begin with the set that has the fewest.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 163,
+              "text": "<b>Mr Aliyu:</b> I count these sets: two, three, four. I put two first, then three, then four.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "order-model-two",
+              "kind": "dot",
+              "count": 2,
+              "x": 80,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "order-model-three",
+              "kind": "dot",
+              "count": 3,
+              "x": 235,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "order-model-four",
+              "kind": "dot",
+              "count": 4,
+              "x": 410,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>2</b>",
+              "size": 20,
+              "x": 83,
+              "width": 95
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>3</b>",
+              "size": 20,
+              "x": 264,
+              "width": 95
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>4</b>",
+              "size": 20,
+              "x": 446,
+              "width": 95
+            },
+            {
+              "type": "portrait",
+              "index": 0,
+              "x": 43,
+              "top": 349,
+              "size": 68
+            },
+            {
+              "type": "text",
+              "top": 352,
+              "text": "<b>Aishatu:</b> I want to rush to the game.<br/><b>Mr Aliyu:</b> Pause and count each set first.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "text",
+              "top": 448,
+              "text": "Write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q1-0",
+              "x": 88,
+              "top": 501,
+              "width": 104,
+              "height": 65
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q1-1",
+              "x": 246,
+              "top": 501,
+              "width": 104,
+              "height": 65
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q1-2",
+              "x": 404,
+              "top": 501,
+              "width": 104,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "top": 601,
+              "text": "Draw <b>1</b> dot in the left box.<br/>Draw <b>3</b> dots in the right box.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q2-left",
+              "x": 43,
+              "top": 676,
+              "width": 230,
+              "height": 97
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q2-right",
+              "x": 298,
+              "top": 676,
+              "width": 254,
+              "height": 97
+            }
+          ]
+        },
+        {
+          "kicker": "Your turn",
+          "title": "Which has more?",
+          "subtitle": "Use matching or counting. Try these on your own.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-two",
+              "x": 43,
+              "top": 242,
+              "width": 190,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-five",
+              "x": 253,
+              "top": 242,
+              "width": 299,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q3-two",
+              "kind": "top",
+              "count": 2,
+              "x": 103,
+              "top": 293,
+              "gap": 65,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q3-five",
+              "kind": "top",
+              "count": 5,
+              "x": 285,
+              "top": 293,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 403,
+              "text": "Point to the set with fewer leaves.<br/>Circle that whole set.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-four",
+              "x": 43,
+              "top": 483,
+              "width": 255,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-three",
+              "x": 322,
+              "top": 483,
+              "width": 230,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q4-four",
+              "kind": "leaf",
+              "count": 4,
+              "x": 80,
+              "top": 535,
+              "gap": 58,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q4-three",
+              "kind": "leaf",
+              "count": 3,
+              "x": 367,
+              "top": 535,
+              "gap": 67,
+              "scale": 1
+            },
+            {
+              "type": "portrait",
+              "index": 3,
+              "x": 43,
+              "top": 650,
+              "size": 68
+            },
+            {
+              "type": "text",
+              "top": 654,
+              "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+              "size": 14,
+              "x": 135,
+              "width": 414
+            }
+          ]
+        },
+        {
+          "kicker": "Remember, then get help",
+          "title": "Show how you know",
+          "subtitle": "Try to remember what Mr Aliyu showed you before looking back.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 166,
+              "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops or your own drawing in this space.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "P1-02-Q6",
+              "x": 43,
+              "top": 247,
+              "width": 509,
+              "height": 125
+            },
+            {
+              "type": "text",
+              "top": 396,
+              "text": "<b>Need a smaller step?</b> Match each dot in the upper row to a different dot below. Mr Aliyu has drawn one match.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "support-two",
+              "kind": "dot",
+              "count": 2,
+              "x": 110,
+              "top": 490,
+              "gap": 105,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "support-three",
+              "kind": "dot",
+              "count": 3,
+              "x": 110,
+              "top": 575,
+              "gap": 105,
+              "scale": 1
+            },
+            {
+              "type": "line",
+              "x1": 110,
+              "top1": 502,
+              "x2": 110,
+              "top2": 563
+            },
+            {
+              "type": "text",
+              "top": 605,
+              "text": "Finish the matching. Point to the set with more.<br/>Now try your own two sets again.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 669,
+              "text": "<b>Adamu:</b> Your turn, then mine!<br/>Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            }
+          ]
+        },
+        {
+          "kicker": "Finish the story / A fresh try",
+          "title": "Ready for our game",
+          "subtitle": "Use what you have learned to finish tidying the toy shop.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 162,
+              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "resolution-leaves",
+              "kind": "leaf",
+              "count": 3,
+              "x": 90,
+              "top": 263,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "resolution-tops",
+              "kind": "top",
+              "count": 5,
+              "x": 90,
+              "top": 350,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 391,
+              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Put the tops with no partner in the spare box.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 513,
+              "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "fresh-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf",
+                "top"
+              ],
+              "points": [
+                [
+                  95,
+                  605
+                ],
+                [
+                  195,
+                  605
+                ],
+                [
+                  295,
+                  605
+                ],
+                [
+                  395,
+                  605
+                ],
+                [
+                  495,
+                  605
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 645,
+              "text": "Which set has more? Circle that whole set.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "fresh-four-box",
+              "x": 43,
+              "top": 693,
+              "width": 235,
+              "height": 78
+            },
+            {
+              "type": "box",
+              "id": "fresh-five-box",
+              "x": 298,
+              "top": 693,
+              "width": 254,
+              "height": 78
+            },
+            {
+              "type": "objects",
+              "id": "fresh-four",
+              "kind": "top",
+              "count": 4,
+              "x": 75,
+              "top": 731,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "fresh-five",
+              "kind": "leaf",
+              "count": 5,
+              "x": 327,
+              "top": 731,
+              "gap": 49,
+              "scale": 1
+            }
+          ]
+        },
+        {
+          "kicker": "For the teacher",
+          "title": "Teach, notice and return",
+          "subtitle": "P1-02 / Sort, match and order / Mr Aliyu leads.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "<b>Objective.</b> Sort collections and compare small sets. Also retain the source ordering practice within 1 to 5. Read all pupil text aloud. Prerequisite: count objects to five; revisit the Chapter 1 model as needed. The pupil pages have no numbered instructions.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 251,
+              "text": "<b>Concrete start.</b> At a reachable table, provide three clean, large leaves and five large, clean tops. Use pieces too large to swallow; supervise use. These are pretend tickets and counters, not food. Sort by type in front of pupils, then invite them to sort a separate tray. A set means a collection. Reuse this same three-leaf/five-top tray for the ending. No pieces are added or removed.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 370,
+              "text": "<b>Model, practise, compare.</b> Enact p. 2 with real pieces before using the pictures. On p. 3 pair two tops with four, one to one, and point to the two unmatched tops. Name more and fewer. On the equal-row activity, invite a prediction, then match: all three have partners in both rows, so the sets have the same number even when spaced differently. On p. 4 count the dot sets 2, 3, 4 before connecting them to numerals. Read the numerals aloud.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 510,
+              "text": "<b>Observe and help.</b> Confuses type with colour: restate leaves together/tops together, sort one, then ask the child to place another. Counts twice: move each counted object aside. Chooses by row length: bring one object beside one partner. Gives a partner twice: physically move paired objects together. Cannot order: build sets of 1, 3 and 4, then compare adjacent sets. Recheck each difficulty with fresh small sets; accept speaking, pointing or moving objects before writing.",
+              "size": 11,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 651,
+              "text": "<b>Recall and fresh checks.</b> On p. 6 wait before offering help. After support, change the quantities (for example 1 and 2) and ask again. For this recheck, 2 has more and 1 has fewer. Keep p. 7 fresh tasks independent before feedback. On another day, ask what Mr Aliyu showed. Give four leaves and two tops to sort and compare, then ask pupils to order 5, 2, 3. Answers: leaves/tops; four leaves more, two tops fewer; 2, 3, 5. Record independent / with help / not yet.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "adult": true
+        },
+        {
+          "kicker": "For the teacher",
+          "title": "Answers and chapter notes",
+          "subtitle": "Adult task IDs preserve the six source questions; pupil tasks are unnumbered.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 160,
+              "text": "<b>Every example and added task</b><br/>p. 1 tray and p. 2 sort model: 3 leaves and 5 tops. Guided sort: the leaf in the second position is already circled; point to the leaf in the fourth position. Tops are first and third. Grace moves her leaf to the leaves.<br/>p. 3 model: 2 matched pairs, 2 unpaired tops in the four-set; 4 more, 2 fewer. Guided rows: 3 in each, every top has a partner; same number. Any one-to-one bijection is valid.<br/>p. 4 model: 2, 3, 4 dots in increasing order.<br/>p. 6 support: 2 pairs and 1 unmatched lower dot; lower set of 3 has more. Accept either valid line from the remaining upper dot to a free lower dot.<br/>p. 7 resolution: 3 pairs, 2 spare tops; tops more, leaves fewer. Put those 2 unmatched tops in a real spare box. Read the closing dialogue after doing this action.<br/>p. 7 fresh sort: circle second and fourth objects (leaves). Fresh comparison: 5 leaves more than 4 tops; circle the right set.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 438,
+              "text": "<b>P1-02-Q1 (p. 4):</b> 1, 3, 4",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 469,
+              "text": "<b>P1-02-Q2 (p. 4):</b> One dot in one set; three in the other.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 515,
+              "text": "<b>P1-02-Q3 (p. 5):</b> 5 tops",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 546,
+              "text": "<b>P1-02-Q4 (p. 5):</b> 3 leaves",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 577,
+              "text": "<b>P1-02-Q5 (p. 6):</b> Exactly five objects.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 608,
+              "text": "<b>P1-02-Q6 (p. 6):</b> Match one to one or count both sets.",
+              "size": 10.5,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 668,
+              "text": "<b>Words:</b> sort = group by a rule; set = collection; match = pair one with one; more/fewer = greater/smaller number; same number = no unmatched objects. Historical source: original p. 1; objective/question links retained. Current curriculum comparison and Gombe educator review pending.",
+              "size": 8.7,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 735,
+              "text": "<b>Credits and scope:</b> existing built-in image_gen portraits; prompts/licences in artwork/manifest.json and adjacent provenance. Exact leaves, tops, dots and lines drawn by code. A4 RGB review chapter. Classroom trials, physical print test and printer approval pending. Full-volume glossary, mapping, credits, Book 2 preview and four final AI pages retained in book.qmd.",
+              "size": 8.3,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "adult": true
+        }
+      ]
+    },
+    "paired_edition": {
+      "teacher_id": "mr-aliyu",
+      "source_tasks": [
+        {
+          "id": "P1-02-Q1",
+          "source_prompt": "Order: 4, 1, 3.",
+          "source_answer": "1, 3, 4"
+        },
+        {
+          "id": "P1-02-Q2",
+          "source_prompt": "Draw sets of 1 and 3 dots.",
+          "source_answer": "One dot in one set; three in the other."
+        },
+        {
+          "id": "P1-02-Q3",
+          "source_prompt": "Which has more: 2 tops or 5 tops?",
+          "source_answer": "5 tops"
+        },
+        {
+          "id": "P1-02-Q4",
+          "source_prompt": "Which has fewer: 4 leaves or 3 leaves?",
+          "source_answer": "3 leaves"
+        },
+        {
+          "id": "P1-02-Q5",
+          "source_prompt": "Make a set of 5 objects.",
+          "source_answer": "Exactly five objects."
+        },
+        {
+          "id": "P1-02-Q6",
+          "source_prompt": "Explain how to compare two sets.",
+          "source_answer": "Match one to one or count both sets."
+        }
+      ],
+      "textbook_pages": [
+        {
+          "kicker": "Our toy shop / Chapter two",
+          "title": "Sort, match and order",
+          "subtitle": "We will sort things, match them and put small sets in order.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+              "x": 43,
+              "top": 164,
+              "width": 105,
+              "height": 105
+            },
+            {
+              "type": "text",
+              "top": 170,
+              "text": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.",
+              "size": 14,
+              "x": 163,
+              "width": 380
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 0,
+              "x": 67,
+              "top": 282,
+              "width": 82,
+              "height": 82
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 1,
+              "x": 192,
+              "top": 282,
+              "width": 82,
+              "height": 82
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 2,
+              "x": 317,
+              "top": 282,
+              "width": 82,
+              "height": 82
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 3,
+              "x": 442,
+              "top": 282,
+              "width": 82,
+              "height": 82
+            },
+            {
+              "type": "text",
+              "top": 380,
+              "text": "<b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "story-tray",
+              "x": 43,
+              "top": 510,
+              "width": 509,
+              "height": 145
+            },
+            {
+              "type": "objects",
+              "id": "opening-tray",
+              "kinds": [
+                "leaf",
+                "top",
+                "top",
+                "leaf",
+                "top",
+                "leaf",
+                "top",
+                "top"
+              ],
+              "points": [
+                [
+                  95,
+                  552
+                ],
+                [
+                  185,
+                  550
+                ],
+                [
+                  287,
+                  550
+                ],
+                [
+                  390,
+                  552
+                ],
+                [
+                  485,
+                  550
+                ],
+                [
+                  140,
+                  615
+                ],
+                [
+                  285,
+                  615
+                ],
+                [
+                  435,
+                  615
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-1",
+          "task_ids": [],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Watch and try together",
+          "title": "Give each set a place",
+          "subtitle": "A set is a collection. Sort by one rule.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+              "x": 43,
+              "top": 164,
+              "width": 85,
+              "height": 85
+            },
+            {
+              "type": "text",
+              "top": 169,
+              "text": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
+              "size": 14,
+              "x": 145,
+              "width": 405
+            },
+            {
+              "type": "text",
+              "top": 282,
+              "text": "<b>Leaves together</b>",
+              "size": 14,
+              "x": 61,
+              "width": 220
+            },
+            {
+              "type": "text",
+              "top": 282,
+              "text": "<b>Tops together</b>",
+              "size": 14,
+              "x": 319,
+              "width": 220
+            },
+            {
+              "type": "box",
+              "id": "sorted-leaves",
+              "x": 43,
+              "top": 322,
+              "width": 230,
+              "height": 96
+            },
+            {
+              "type": "box",
+              "id": "sorted-tops",
+              "x": 298,
+              "top": 322,
+              "width": 254,
+              "height": 96
+            },
+            {
+              "type": "objects",
+              "id": "sort-model-leaves",
+              "kind": "leaf",
+              "count": 3,
+              "x": 89,
+              "top": 368,
+              "gap": 65,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "sort-model-tops",
+              "kind": "top",
+              "count": 5,
+              "x": 327,
+              "top": 368,
+              "gap": 49,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 446,
+              "text": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 550,
+              "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "guided-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf"
+              ],
+              "points": [
+                [
+                  106,
+                  625
+                ],
+                [
+                  232,
+                  625
+                ],
+                [
+                  358,
+                  625
+                ],
+                [
+                  484,
+                  625
+                ]
+              ]
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 2,
+              "x": 43,
+              "top": 686,
+              "width": 68,
+              "height": 68
+            },
+            {
+              "type": "text",
+              "top": 686,
+              "text": "<b>Mr Aliyu:</b> Sort real leaves and tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "ellipse",
+              "x": 203,
+              "top": 598,
+              "width": 61,
+              "height": 54
+            },
+            {
+              "type": "text",
+              "top": 775,
+              "text": "Workbook: Sort and match.",
+              "size": 10,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-2",
+          "task_ids": [
+            "P1-02-SORT"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Watch and try together",
+          "title": "One partner for each",
+          "subtitle": "Match one object to one object to compare the sets.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 163,
+              "text": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "match-model-two",
+              "kind": "top",
+              "count": 2,
+              "x": 100,
+              "top": 255,
+              "gap": 85,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "match-model-four",
+              "kind": "top",
+              "count": 4,
+              "x": 100,
+              "top": 357,
+              "gap": 85,
+              "scale": 1
+            },
+            {
+              "type": "line",
+              "x1": 100,
+              "top1": 274,
+              "x2": 100,
+              "top2": 338
+            },
+            {
+              "type": "line",
+              "x1": 185,
+              "top1": 274,
+              "x2": 185,
+              "top2": 338
+            },
+            {
+              "type": "text",
+              "top": 395,
+              "text": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 1,
+              "x": 43,
+              "top": 475,
+              "width": 68,
+              "height": 68
+            },
+            {
+              "type": "text",
+              "top": 477,
+              "text": "<b>Adamu:</b> The long row must have more!<br/><b>Mr Aliyu:</b> Let us match and check.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "objects",
+              "id": "equal-close",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 585,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "equal-wide",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 685,
+              "gap": 160,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 726,
+              "text": "Use your finger to match each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "ellipse",
+              "x": 66,
+              "top": 329,
+              "width": 322,
+              "height": 57
+            },
+            {
+              "type": "text",
+              "top": 775,
+              "text": "Workbook: Sort and match.",
+              "size": 10,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-3",
+          "task_ids": [
+            "P1-02-EQUAL"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Learn, then try",
+          "title": "From fewest to most",
+          "subtitle": "Count each set. Begin with the set that has the fewest.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 163,
+              "text": "<b>Mr Aliyu:</b> I count these sets: two, three, four. I put two first, then three, then four.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "order-model-two",
+              "kind": "dot",
+              "count": 2,
+              "x": 80,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "order-model-three",
+              "kind": "dot",
+              "count": 3,
+              "x": 235,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "order-model-four",
+              "kind": "dot",
+              "count": 4,
+              "x": 410,
+              "top": 258,
+              "gap": 30,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>2</b>",
+              "size": 20,
+              "x": 83,
+              "width": 95
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>3</b>",
+              "size": 20,
+              "x": 264,
+              "width": 95
+            },
+            {
+              "type": "text",
+              "top": 292,
+              "text": "<b>4</b>",
+              "size": 20,
+              "x": 446,
+              "width": 95
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 0,
+              "x": 43,
+              "top": 349,
+              "width": 68,
+              "height": 68
+            },
+            {
+              "type": "text",
+              "top": 352,
+              "text": "<b>Aishatu:</b> I want to rush to the game.<br/><b>Mr Aliyu:</b> Pause and count each set first.",
+              "size": 13,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "text",
+              "top": 448,
+              "text": "In your exercise book, write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 601,
+              "text": "In your exercise book, draw a set of <b>1</b> dot.<br/>Beside it, draw a separate set of <b>3</b> dots.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 718,
+              "text": "Use a space between your sets. Workbook: Order and draw.",
+              "size": 12,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-4",
+          "task_ids": [
+            "P1-02-Q1",
+            "P1-02-Q2"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Your turn",
+          "title": "Which has more?",
+          "subtitle": "Use matching or counting. Try these on your own.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Tell your partner which set you chose.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-two",
+              "x": 43,
+              "top": 242,
+              "width": 190,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-five",
+              "x": 253,
+              "top": 242,
+              "width": 299,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q3-two",
+              "kind": "top",
+              "count": 2,
+              "x": 103,
+              "top": 293,
+              "gap": 65,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q3-five",
+              "kind": "top",
+              "count": 5,
+              "x": 285,
+              "top": 293,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 403,
+              "text": "Point to the set with fewer leaves.<br/>Tell your partner which set you chose.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-four",
+              "x": 43,
+              "top": 483,
+              "width": 255,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-three",
+              "x": 322,
+              "top": 483,
+              "width": 230,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q4-four",
+              "kind": "leaf",
+              "count": 4,
+              "x": 80,
+              "top": 535,
+              "gap": 58,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q4-three",
+              "kind": "leaf",
+              "count": 3,
+              "x": 367,
+              "top": 535,
+              "gap": 67,
+              "scale": 1
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 3,
+              "x": 43,
+              "top": 650,
+              "width": 68,
+              "height": 68
+            },
+            {
+              "type": "text",
+              "top": 654,
+              "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+              "size": 14,
+              "x": 135,
+              "width": 414
+            },
+            {
+              "type": "text",
+              "top": 755,
+              "text": "Workbook: More and fewer.",
+              "size": 10,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-5",
+          "task_ids": [
+            "P1-02-Q3",
+            "P1-02-Q4"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Remember, then get help",
+          "title": "Show how you know",
+          "subtitle": "Try to remember what Mr Aliyu showed you before looking back.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 166,
+              "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops at the table or draw in your exercise book.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 396,
+              "text": "<b>Need a smaller step?</b> Point from each upper dot to a different lower dot. Mr Aliyu has shown one match.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "support-two",
+              "kind": "dot",
+              "count": 2,
+              "x": 110,
+              "top": 490,
+              "gap": 105,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "support-three",
+              "kind": "dot",
+              "count": 3,
+              "x": 110,
+              "top": 575,
+              "gap": 105,
+              "scale": 1
+            },
+            {
+              "type": "line",
+              "x1": 110,
+              "top1": 502,
+              "x2": 110,
+              "top2": 563
+            },
+            {
+              "type": "text",
+              "top": 605,
+              "text": "Finish matching with your finger. Point to the set with more.<br/>Now try your own two sets again.",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 669,
+              "text": "<b>Adamu:</b> Your turn, then mine!<br/>Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 755,
+              "text": "Workbook: Show how you compare.",
+              "size": 10,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "slug": "c2-6",
+          "task_ids": [
+            "P1-02-Q5",
+            "P1-02-Q6",
+            "P1-02-SUPPORT"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Finish the story / A fresh try",
+          "title": "Ready for our game",
+          "subtitle": "Use what you have learned to finish tidying the toy shop.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 162,
+              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Match with your finger.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "resolution-leaves",
+              "kind": "leaf",
+              "count": 3,
+              "x": 90,
+              "top": 263,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "resolution-tops",
+              "kind": "top",
+              "count": 5,
+              "x": 90,
+              "top": 350,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 391,
+              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 513,
+              "text": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every top.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "fresh-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf",
+                "top"
+              ],
+              "points": [
+                [
+                  95,
+                  605
+                ],
+                [
+                  195,
+                  605
+                ],
+                [
+                  295,
+                  605
+                ],
+                [
+                  395,
+                  605
+                ],
+                [
+                  495,
+                  605
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 645,
+              "text": "Which set has more? Point to that set. Say how you know.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "fresh-four-box",
+              "x": 43,
+              "top": 693,
+              "width": 235,
+              "height": 78
+            },
+            {
+              "type": "box",
+              "id": "fresh-five-box",
+              "x": 298,
+              "top": 693,
+              "width": 254,
+              "height": 78
+            },
+            {
+              "type": "objects",
+              "id": "fresh-four",
+              "kind": "top",
+              "count": 4,
+              "x": 75,
+              "top": 731,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "fresh-five",
+              "kind": "leaf",
+              "count": 5,
+              "x": 327,
+              "top": 731,
+              "gap": 49,
+              "scale": 1
+            }
+          ],
+          "slug": "c2-7",
+          "task_ids": [
+            "P1-02-ENDING",
+            "P1-02-FRESH-SORT",
+            "P1-02-FRESH-COMPARE"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        }
+      ],
+      "workbook_pages": [
+        {
+          "slug": "w2-sort-match",
+          "kicker": "Sort, match and order / Try together",
+          "title": "Sort and match",
+          "subtitle": "Watch Mr Aliyu first. You may mark this workbook.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the tops without circles.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w2-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf"
+              ],
+              "points": [
+                [
+                  100,
+                  277
+                ],
+                [
+                  230,
+                  277
+                ],
+                [
+                  360,
+                  277
+                ],
+                [
+                  490,
+                  277
+                ]
+              ]
+            },
+            {
+              "type": "ellipse",
+              "x": 200,
+              "top": 250,
+              "width": 61,
+              "height": 54
+            },
+            {
+              "type": "text",
+              "top": 355,
+              "text": "Mix real leaves and tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 456,
+              "text": "Draw one line from each top in the upper row to a different top below. Does every top have a partner?",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "w2-equal-upper",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 566,
+              "gap": 55,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "w2-equal-lower",
+              "kind": "top",
+              "count": 3,
+              "x": 100,
+              "top": 701,
+              "gap": 160,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 753,
+              "text": "Tell your partner: more, fewer, or the same number?",
+              "size": 12,
+              "x": 43,
+              "width": 509
+            }
+          ],
+          "task_ids": [
+            "P1-02-SORT",
+            "P1-02-EQUAL"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "w2-order",
+          "kicker": "Sort, match and order / Your turn",
+          "title": "Order and draw",
+          "subtitle": "Think about the number in each set.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+              "size": 16,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 74,
+              "top": 270,
+              "width": 110,
+              "height": 76,
+              "response": true
+            },
+            {
+              "type": "box",
+              "x": 242,
+              "top": 270,
+              "width": 110,
+              "height": 76,
+              "response": true
+            },
+            {
+              "type": "box",
+              "x": 410,
+              "top": 270,
+              "width": 110,
+              "height": 76,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 414,
+              "text": "Draw <b>1</b> dot in the left box.<br/>Draw <b>3</b> dots in the right box.",
+              "size": 16,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 539,
+              "width": 235,
+              "height": 204,
+              "response": true
+            },
+            {
+              "type": "box",
+              "x": 301,
+              "top": 539,
+              "width": 251,
+              "height": 204,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-02-Q1",
+            "P1-02-Q2"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Sort, match and order / Your turn",
+          "title": "More and fewer",
+          "subtitle": "Use matching or counting. Try these on your own.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 164,
+              "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-two",
+              "x": 43,
+              "top": 242,
+              "width": 190,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q3-set-five",
+              "x": 253,
+              "top": 242,
+              "width": 299,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q3-two",
+              "kind": "top",
+              "count": 2,
+              "x": 103,
+              "top": 293,
+              "gap": 65,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q3-five",
+              "kind": "top",
+              "count": 5,
+              "x": 285,
+              "top": 293,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 403,
+              "text": "Point to the set with fewer leaves.<br/>Circle that whole set.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-four",
+              "x": 43,
+              "top": 483,
+              "width": 255,
+              "height": 105
+            },
+            {
+              "type": "box",
+              "id": "Q4-set-three",
+              "x": 322,
+              "top": 483,
+              "width": 230,
+              "height": 105
+            },
+            {
+              "type": "objects",
+              "id": "Q4-four",
+              "kind": "leaf",
+              "count": 4,
+              "x": 80,
+              "top": 535,
+              "gap": 58,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "Q4-three",
+              "kind": "leaf",
+              "count": 3,
+              "x": 367,
+              "top": 535,
+              "gap": 67,
+              "scale": 1
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "index": 3,
+              "x": 43,
+              "top": 650,
+              "width": 68,
+              "height": 68
+            },
+            {
+              "type": "text",
+              "top": 654,
+              "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+              "size": 14,
+              "x": 135,
+              "width": 414
+            }
+          ],
+          "slug": "w2-more-fewer",
+          "task_ids": [
+            "P1-02-Q3",
+            "P1-02-Q4"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "slug": "w2-remember",
+          "kicker": "Sort, match and order / Remember",
+          "title": "Show how you compare",
+          "subtitle": "Try to remember Mr Aliyu before looking back.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Tell or show a partner how to compare two sets.<br/>Use real tops or draw your idea below.",
+              "size": 15,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 259,
+              "width": 509,
+              "height": 206,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 525,
+              "text": "Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+              "size": 16,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "image",
+              "asset": "artwork/redesign/references/lead-introductions-v7.png",
+              "x": 43,
+              "top": 654,
+              "width": 80,
+              "height": 80,
+              "preserve": true,
+              "index": 1
+            },
+            {
+              "type": "text",
+              "top": 658,
+              "text": "<b>Adamu:</b> Your turn, then mine!<br/>Give your partner time to think.",
+              "size": 14,
+              "x": 145,
+              "width": 405
+            }
+          ],
+          "task_ids": [
+            "P1-02-Q5",
+            "P1-02-Q6"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        },
+        {
+          "kicker": "Sort, match and order / A fresh try",
+          "title": "Ready for our game",
+          "subtitle": "Use what you have learned to finish tidying the toy shop.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 162,
+              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "resolution-leaves",
+              "kind": "leaf",
+              "count": 3,
+              "x": 90,
+              "top": 263,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "resolution-tops",
+              "kind": "top",
+              "count": 5,
+              "x": 90,
+              "top": 350,
+              "gap": 91,
+              "scale": 1
+            },
+            {
+              "type": "text",
+              "top": 391,
+              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+              "size": 13,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "text",
+              "top": 513,
+              "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "objects",
+              "id": "fresh-sort",
+              "kinds": [
+                "top",
+                "leaf",
+                "top",
+                "leaf",
+                "top"
+              ],
+              "points": [
+                [
+                  95,
+                  605
+                ],
+                [
+                  195,
+                  605
+                ],
+                [
+                  295,
+                  605
+                ],
+                [
+                  395,
+                  605
+                ],
+                [
+                  495,
+                  605
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 645,
+              "text": "Which set has more? Circle that whole set.",
+              "size": 14,
+              "x": 43,
+              "width": 509
+            },
+            {
+              "type": "box",
+              "id": "fresh-four-box",
+              "x": 43,
+              "top": 693,
+              "width": 235,
+              "height": 78
+            },
+            {
+              "type": "box",
+              "id": "fresh-five-box",
+              "x": 298,
+              "top": 693,
+              "width": 254,
+              "height": 78
+            },
+            {
+              "type": "objects",
+              "id": "fresh-four",
+              "kind": "top",
+              "count": 4,
+              "x": 75,
+              "top": 731,
+              "gap": 57,
+              "scale": 1
+            },
+            {
+              "type": "objects",
+              "id": "fresh-five",
+              "kind": "leaf",
+              "count": 5,
+              "x": 327,
+              "top": 731,
+              "gap": 49,
+              "scale": 1
+            }
+          ],
+          "slug": "w2-ending",
+          "task_ids": [
+            "P1-02-ENDING",
+            "P1-02-FRESH-SORT",
+            "P1-02-FRESH-COMPARE"
+          ],
+          "pre_numerals": false,
+          "adult": false
+        }
+      ],
+      "sessions": [
+        "Story and sorting",
+        "Matching, equality and ordering",
+        "Independent comparison",
+        "Recall, support, ending and fresh checks"
+      ],
+      "objective_ids": [
+        "P1-p01-01",
+        "P1-p01-05"
+      ],
+      "adaptation": "Story and models retained; textbook uses pointing, real objects and exercise-book responses. Workbook carries marking tasks and local exact diagrams."
+    }
   },
   {
     "id": "P1-03",

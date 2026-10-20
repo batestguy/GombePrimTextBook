@@ -1,0 +1,16 @@
+{
+  "artifacts": {
+    "textbook": "output\\pdf\\Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "workbook": "output\\pdf\\Maths-with-Friends-Primary-1-Opening-Workbook.pdf"
+  },
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "chapters": [
+    "P1-01",
+    "P1-02"
+  ],
+  "pages": {
+    "textbook": 22,
+    "workbook": 10
+  },
+  "status": "draft_pair_built_review_required"
+}
