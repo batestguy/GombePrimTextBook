@@ -1,0 +1,9655 @@
+{
+  "pages": 21,
+  "sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+  "page_manifest": [
+    {
+      "slug": "c6-story",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Labels for our game boxes",
+      "subtitle": "We will build, read and write numbers through ninety-nine.",
+      "task_ids": [],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-prior",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Bring back what we know",
+      "subtitle": "Build first. Say the name. Write in your workbook or exercise book.",
+      "task_ids": [
+        "P1-06-PRIOR",
+        "P1-06-FORM-MODEL"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-21",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Twenty-one to twenty-five",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-21-MODEL",
+        "P1-06-BAND-21-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-26",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Twenty-six to twenty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-26-MODEL",
+        "P1-06-BAND-26-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-30",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Thirty to thirty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-30-MODEL",
+        "P1-06-BAND-30-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-40",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Forty to forty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-40-MODEL",
+        "P1-06-BAND-40-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-50",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Fifty to fifty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-50-MODEL",
+        "P1-06-BAND-50-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-60",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Sixty to sixty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-60-MODEL",
+        "P1-06-BAND-60-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-70",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Seventy to seventy-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-70-MODEL",
+        "P1-06-BAND-70-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-80",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Eighty to eighty-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-80-MODEL",
+        "P1-06-BAND-80-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-band-90",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Ninety to ninety-nine",
+      "subtitle": "Take several short turns. Work through each number before moving on.",
+      "task_ids": [
+        "P1-06-BAND-90-MODEL",
+        "P1-06-BAND-90-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-names",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Hear the whole name",
+      "subtitle": "Listen, build and check. The word ending can change the number.",
+      "task_ids": [
+        "P1-06-NAMES"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-sequence-model",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Write places and count on",
+      "subtitle": "Watch Mr Aliyu. Then try together.",
+      "adult": false,
+      "pre_numerals": false,
+      "task_ids": [
+        "P1-06-SEQUENCE-MODEL",
+        "P1-06-PLACES-MODEL",
+        "P1-06-RANGE-MODEL"
+      ]
+    },
+    {
+      "slug": "c6-source-0",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Try what you have learned",
+      "subtitle": "Try alone. Use your workbook or an ordinary exercise book.",
+      "task_ids": [
+        "P1-06-Q1",
+        "P1-06-Q2",
+        "P1-06-Q3"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-source-1",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Places, order and meaning",
+      "subtitle": "Try alone. Use your workbook or an ordinary exercise book.",
+      "task_ids": [
+        "P1-06-Q4",
+        "P1-06-Q5",
+        "P1-06-Q6"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-recall",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "Remember and repair",
+      "subtitle": "Recall first. Get help after your own try.",
+      "task_ids": [
+        "P1-06-RECALL",
+        "P1-06-CHOOSE",
+        "P1-06-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-ending",
+      "kicker": "Chapter six / Numbers to ninety-nine",
+      "title": "The right labels are on",
+      "subtitle": "Finish the game-box job together. Then try fresh numbers alone.",
+      "task_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-guide",
+      "kicker": "For the teacher / Numbers to ninety-nine",
+      "title": "Teach across short sessions",
+      "subtitle": "Adult guidance / Read pupil instructions aloud. Keep assessment stimuli hidden.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-answers",
+      "kicker": "For the teacher / Numbers to ninety-nine",
+      "title": "Complete task and model answers",
+      "subtitle": "Adult use / All six historical prompts and answer meanings are retained.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-assessment",
+      "kicker": "For the teacher / Numbers to ninety-nine",
+      "title": "Help, recheck and return later",
+      "subtitle": "Adult use / Keep new stimuli off the pupil page.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c6-words",
+      "kicker": "For the teacher / Numbers to ninety-nine",
+      "title": "Words, evidence and next steps",
+      "subtitle": "Adult reference / Provisional extract, not the complete annual pair.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-06-PRIOR": [
+      2
+    ],
+    "P1-06-FORM-MODEL": [
+      2
+    ],
+    "P1-06-BAND-21-MODEL": [
+      3
+    ],
+    "P1-06-BAND-21-GUIDED": [
+      3
+    ],
+    "P1-06-BAND-26-MODEL": [
+      4
+    ],
+    "P1-06-BAND-26-GUIDED": [
+      4
+    ],
+    "P1-06-BAND-30-MODEL": [
+      5
+    ],
+    "P1-06-BAND-30-GUIDED": [
+      5
+    ],
+    "P1-06-BAND-40-MODEL": [
+      6
+    ],
+    "P1-06-BAND-40-GUIDED": [
+      6
+    ],
+    "P1-06-BAND-50-MODEL": [
+      7
+    ],
+    "P1-06-BAND-50-GUIDED": [
+      7
+    ],
+    "P1-06-BAND-60-MODEL": [
+      8
+    ],
+    "P1-06-BAND-60-GUIDED": [
+      8
+    ],
+    "P1-06-BAND-70-MODEL": [
+      9
+    ],
+    "P1-06-BAND-70-GUIDED": [
+      9
+    ],
+    "P1-06-BAND-80-MODEL": [
+      10
+    ],
+    "P1-06-BAND-80-GUIDED": [
+      10
+    ],
+    "P1-06-BAND-90-MODEL": [
+      11
+    ],
+    "P1-06-BAND-90-GUIDED": [
+      11
+    ],
+    "P1-06-NAMES": [
+      12
+    ],
+    "P1-06-SEQUENCE-MODEL": [
+      13
+    ],
+    "P1-06-PLACES-MODEL": [
+      13
+    ],
+    "P1-06-RANGE-MODEL": [
+      13
+    ],
+    "P1-06-Q1": [
+      14
+    ],
+    "P1-06-Q2": [
+      14
+    ],
+    "P1-06-Q3": [
+      14
+    ],
+    "P1-06-Q4": [
+      15
+    ],
+    "P1-06-Q5": [
+      15
+    ],
+    "P1-06-Q6": [
+      15
+    ],
+    "P1-06-RECALL": [
+      16
+    ],
+    "P1-06-CHOOSE": [
+      16
+    ],
+    "P1-06-SUPPORT": [
+      16
+    ],
+    "P1-06-ENDING": [
+      17
+    ],
+    "P1-06-FRESH-COUNT": [
+      17
+    ],
+    "P1-06-FRESH-BUILD": [
+      17
+    ],
+    "P1-06-FRESH-READ": [
+      17
+    ],
+    "P1-06-FRESH-RECOGNISE": [
+      17
+    ],
+    "P1-06-FRESH-WRITE": [
+      17
+    ]
+  },
+  "objects": [
+    {
+      "id": "prior-14-ten-0",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          245
+        ],
+        [
+          68.96,
+          245
+        ],
+        [
+          72.92,
+          245
+        ],
+        [
+          76.88,
+          245
+        ],
+        [
+          80.84,
+          245
+        ],
+        [
+          84.8,
+          245
+        ],
+        [
+          88.76,
+          245
+        ],
+        [
+          92.72,
+          245
+        ],
+        [
+          96.68,
+          245
+        ],
+        [
+          100.64,
+          245
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "prior-14-ones",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          299
+        ],
+        [
+          90,
+          299
+        ],
+        [
+          115,
+          299
+        ],
+        [
+          140,
+          299
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-21-model-21-ten-0",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-21-ten-1",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-21-ones",
+      "page": 3,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          319
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "band-21-model-23-ten-0",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-23-ten-1",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-23-ones",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "band-21-model-25-ten-0",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-25-ten-1",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-21-model-25-ones",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "band-26-model-26-ten-0",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-26-ten-1",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-26-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          319
+        ],
+        [
+          90,
+          319
+        ],
+        [
+          115,
+          319
+        ],
+        [
+          140,
+          319
+        ],
+        [
+          165,
+          319
+        ],
+        [
+          190,
+          319
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "band-26-model-27-ten-0",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-27-ten-1",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-27-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ],
+        [
+          165,
+          458
+        ],
+        [
+          190,
+          458
+        ],
+        [
+          215,
+          458
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "band-26-model-29-ten-0",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-29-ten-1",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-26-model-29-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-30-model-30-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-30-ten-1",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-30-ten-2",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-34-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-34-ten-1",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-34-ten-2",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-34-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-30-model-39-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-39-ten-1",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-39-ten-2",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-30-model-39-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-40-model-40-ten-0",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-40-ten-1",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-40-ten-2",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-40-ten-3",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-44-ten-0",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-44-ten-1",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-44-ten-2",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-44-ten-3",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-44-ones",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-40-model-49-ten-0",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-49-ten-1",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-49-ten-2",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-49-ten-3",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-40-model-49-ones",
+      "page": 6,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-50-model-50-ten-0",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-50-ten-1",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-50-ten-2",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-50-ten-3",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-50-ten-4",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          265
+        ],
+        [
+          280.42,
+          265
+        ],
+        [
+          283.84,
+          265
+        ],
+        [
+          287.26,
+          265
+        ],
+        [
+          290.68,
+          265
+        ],
+        [
+          294.1,
+          265
+        ],
+        [
+          297.52,
+          265
+        ],
+        [
+          300.94,
+          265
+        ],
+        [
+          304.36,
+          265
+        ],
+        [
+          307.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ten-0",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ten-1",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ten-2",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ten-3",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ten-4",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          404
+        ],
+        [
+          280.42,
+          404
+        ],
+        [
+          283.84,
+          404
+        ],
+        [
+          287.26,
+          404
+        ],
+        [
+          290.68,
+          404
+        ],
+        [
+          294.1,
+          404
+        ],
+        [
+          297.52,
+          404
+        ],
+        [
+          300.94,
+          404
+        ],
+        [
+          304.36,
+          404
+        ],
+        [
+          307.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-54-ones",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-50-model-59-ten-0",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-59-ten-1",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-59-ten-2",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-59-ten-3",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-59-ten-4",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          543
+        ],
+        [
+          280.42,
+          543
+        ],
+        [
+          283.84,
+          543
+        ],
+        [
+          287.26,
+          543
+        ],
+        [
+          290.68,
+          543
+        ],
+        [
+          294.1,
+          543
+        ],
+        [
+          297.52,
+          543
+        ],
+        [
+          300.94,
+          543
+        ],
+        [
+          304.36,
+          543
+        ],
+        [
+          307.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-50-model-59-ones",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-60-model-60-ten-0",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-60-ten-1",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-60-ten-2",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-60-ten-3",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-60-ten-4",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          265
+        ],
+        [
+          280.42,
+          265
+        ],
+        [
+          283.84,
+          265
+        ],
+        [
+          287.26,
+          265
+        ],
+        [
+          290.68,
+          265
+        ],
+        [
+          294.1,
+          265
+        ],
+        [
+          297.52,
+          265
+        ],
+        [
+          300.94,
+          265
+        ],
+        [
+          304.36,
+          265
+        ],
+        [
+          307.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-60-ten-5",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          265
+        ],
+        [
+          333.42,
+          265
+        ],
+        [
+          336.84,
+          265
+        ],
+        [
+          340.26,
+          265
+        ],
+        [
+          343.68,
+          265
+        ],
+        [
+          347.1,
+          265
+        ],
+        [
+          350.52,
+          265
+        ],
+        [
+          353.94,
+          265
+        ],
+        [
+          357.36,
+          265
+        ],
+        [
+          360.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-0",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-1",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-2",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-3",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-4",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          404
+        ],
+        [
+          280.42,
+          404
+        ],
+        [
+          283.84,
+          404
+        ],
+        [
+          287.26,
+          404
+        ],
+        [
+          290.68,
+          404
+        ],
+        [
+          294.1,
+          404
+        ],
+        [
+          297.52,
+          404
+        ],
+        [
+          300.94,
+          404
+        ],
+        [
+          304.36,
+          404
+        ],
+        [
+          307.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ten-5",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          404
+        ],
+        [
+          333.42,
+          404
+        ],
+        [
+          336.84,
+          404
+        ],
+        [
+          340.26,
+          404
+        ],
+        [
+          343.68,
+          404
+        ],
+        [
+          347.1,
+          404
+        ],
+        [
+          350.52,
+          404
+        ],
+        [
+          353.94,
+          404
+        ],
+        [
+          357.36,
+          404
+        ],
+        [
+          360.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-64-ones",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-60-model-69-ten-0",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ten-1",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ten-2",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ten-3",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ten-4",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          543
+        ],
+        [
+          280.42,
+          543
+        ],
+        [
+          283.84,
+          543
+        ],
+        [
+          287.26,
+          543
+        ],
+        [
+          290.68,
+          543
+        ],
+        [
+          294.1,
+          543
+        ],
+        [
+          297.52,
+          543
+        ],
+        [
+          300.94,
+          543
+        ],
+        [
+          304.36,
+          543
+        ],
+        [
+          307.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ten-5",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          543
+        ],
+        [
+          333.42,
+          543
+        ],
+        [
+          336.84,
+          543
+        ],
+        [
+          340.26,
+          543
+        ],
+        [
+          343.68,
+          543
+        ],
+        [
+          347.1,
+          543
+        ],
+        [
+          350.52,
+          543
+        ],
+        [
+          353.94,
+          543
+        ],
+        [
+          357.36,
+          543
+        ],
+        [
+          360.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-60-model-69-ones",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-70-model-70-ten-0",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-1",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-2",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-3",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-4",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          265
+        ],
+        [
+          280.42,
+          265
+        ],
+        [
+          283.84,
+          265
+        ],
+        [
+          287.26,
+          265
+        ],
+        [
+          290.68,
+          265
+        ],
+        [
+          294.1,
+          265
+        ],
+        [
+          297.52,
+          265
+        ],
+        [
+          300.94,
+          265
+        ],
+        [
+          304.36,
+          265
+        ],
+        [
+          307.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-5",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          265
+        ],
+        [
+          333.42,
+          265
+        ],
+        [
+          336.84,
+          265
+        ],
+        [
+          340.26,
+          265
+        ],
+        [
+          343.68,
+          265
+        ],
+        [
+          347.1,
+          265
+        ],
+        [
+          350.52,
+          265
+        ],
+        [
+          353.94,
+          265
+        ],
+        [
+          357.36,
+          265
+        ],
+        [
+          360.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-70-ten-6",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          265
+        ],
+        [
+          386.42,
+          265
+        ],
+        [
+          389.84,
+          265
+        ],
+        [
+          393.26,
+          265
+        ],
+        [
+          396.68,
+          265
+        ],
+        [
+          400.1,
+          265
+        ],
+        [
+          403.52,
+          265
+        ],
+        [
+          406.94,
+          265
+        ],
+        [
+          410.36,
+          265
+        ],
+        [
+          413.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-0",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-1",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-2",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-3",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-4",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          404
+        ],
+        [
+          280.42,
+          404
+        ],
+        [
+          283.84,
+          404
+        ],
+        [
+          287.26,
+          404
+        ],
+        [
+          290.68,
+          404
+        ],
+        [
+          294.1,
+          404
+        ],
+        [
+          297.52,
+          404
+        ],
+        [
+          300.94,
+          404
+        ],
+        [
+          304.36,
+          404
+        ],
+        [
+          307.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-5",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          404
+        ],
+        [
+          333.42,
+          404
+        ],
+        [
+          336.84,
+          404
+        ],
+        [
+          340.26,
+          404
+        ],
+        [
+          343.68,
+          404
+        ],
+        [
+          347.1,
+          404
+        ],
+        [
+          350.52,
+          404
+        ],
+        [
+          353.94,
+          404
+        ],
+        [
+          357.36,
+          404
+        ],
+        [
+          360.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ten-6",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          404
+        ],
+        [
+          386.42,
+          404
+        ],
+        [
+          389.84,
+          404
+        ],
+        [
+          393.26,
+          404
+        ],
+        [
+          396.68,
+          404
+        ],
+        [
+          400.1,
+          404
+        ],
+        [
+          403.52,
+          404
+        ],
+        [
+          406.94,
+          404
+        ],
+        [
+          410.36,
+          404
+        ],
+        [
+          413.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-74-ones",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-70-model-79-ten-0",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-1",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-2",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-3",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-4",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          543
+        ],
+        [
+          280.42,
+          543
+        ],
+        [
+          283.84,
+          543
+        ],
+        [
+          287.26,
+          543
+        ],
+        [
+          290.68,
+          543
+        ],
+        [
+          294.1,
+          543
+        ],
+        [
+          297.52,
+          543
+        ],
+        [
+          300.94,
+          543
+        ],
+        [
+          304.36,
+          543
+        ],
+        [
+          307.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-5",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          543
+        ],
+        [
+          333.42,
+          543
+        ],
+        [
+          336.84,
+          543
+        ],
+        [
+          340.26,
+          543
+        ],
+        [
+          343.68,
+          543
+        ],
+        [
+          347.1,
+          543
+        ],
+        [
+          350.52,
+          543
+        ],
+        [
+          353.94,
+          543
+        ],
+        [
+          357.36,
+          543
+        ],
+        [
+          360.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ten-6",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          543
+        ],
+        [
+          386.42,
+          543
+        ],
+        [
+          389.84,
+          543
+        ],
+        [
+          393.26,
+          543
+        ],
+        [
+          396.68,
+          543
+        ],
+        [
+          400.1,
+          543
+        ],
+        [
+          403.52,
+          543
+        ],
+        [
+          406.94,
+          543
+        ],
+        [
+          410.36,
+          543
+        ],
+        [
+          413.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-70-model-79-ones",
+      "page": 9,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-80-model-80-ten-0",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-1",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-2",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-3",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-4",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          265
+        ],
+        [
+          280.42,
+          265
+        ],
+        [
+          283.84,
+          265
+        ],
+        [
+          287.26,
+          265
+        ],
+        [
+          290.68,
+          265
+        ],
+        [
+          294.1,
+          265
+        ],
+        [
+          297.52,
+          265
+        ],
+        [
+          300.94,
+          265
+        ],
+        [
+          304.36,
+          265
+        ],
+        [
+          307.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-5",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          265
+        ],
+        [
+          333.42,
+          265
+        ],
+        [
+          336.84,
+          265
+        ],
+        [
+          340.26,
+          265
+        ],
+        [
+          343.68,
+          265
+        ],
+        [
+          347.1,
+          265
+        ],
+        [
+          350.52,
+          265
+        ],
+        [
+          353.94,
+          265
+        ],
+        [
+          357.36,
+          265
+        ],
+        [
+          360.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-6",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          265
+        ],
+        [
+          386.42,
+          265
+        ],
+        [
+          389.84,
+          265
+        ],
+        [
+          393.26,
+          265
+        ],
+        [
+          396.68,
+          265
+        ],
+        [
+          400.1,
+          265
+        ],
+        [
+          403.52,
+          265
+        ],
+        [
+          406.94,
+          265
+        ],
+        [
+          410.36,
+          265
+        ],
+        [
+          413.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-80-ten-7",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          265
+        ],
+        [
+          439.42,
+          265
+        ],
+        [
+          442.84,
+          265
+        ],
+        [
+          446.26,
+          265
+        ],
+        [
+          449.68,
+          265
+        ],
+        [
+          453.1,
+          265
+        ],
+        [
+          456.52,
+          265
+        ],
+        [
+          459.94,
+          265
+        ],
+        [
+          463.36,
+          265
+        ],
+        [
+          466.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-0",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-1",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-2",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-3",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-4",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          404
+        ],
+        [
+          280.42,
+          404
+        ],
+        [
+          283.84,
+          404
+        ],
+        [
+          287.26,
+          404
+        ],
+        [
+          290.68,
+          404
+        ],
+        [
+          294.1,
+          404
+        ],
+        [
+          297.52,
+          404
+        ],
+        [
+          300.94,
+          404
+        ],
+        [
+          304.36,
+          404
+        ],
+        [
+          307.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-5",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          404
+        ],
+        [
+          333.42,
+          404
+        ],
+        [
+          336.84,
+          404
+        ],
+        [
+          340.26,
+          404
+        ],
+        [
+          343.68,
+          404
+        ],
+        [
+          347.1,
+          404
+        ],
+        [
+          350.52,
+          404
+        ],
+        [
+          353.94,
+          404
+        ],
+        [
+          357.36,
+          404
+        ],
+        [
+          360.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-6",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          404
+        ],
+        [
+          386.42,
+          404
+        ],
+        [
+          389.84,
+          404
+        ],
+        [
+          393.26,
+          404
+        ],
+        [
+          396.68,
+          404
+        ],
+        [
+          400.1,
+          404
+        ],
+        [
+          403.52,
+          404
+        ],
+        [
+          406.94,
+          404
+        ],
+        [
+          410.36,
+          404
+        ],
+        [
+          413.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ten-7",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          404
+        ],
+        [
+          439.42,
+          404
+        ],
+        [
+          442.84,
+          404
+        ],
+        [
+          446.26,
+          404
+        ],
+        [
+          449.68,
+          404
+        ],
+        [
+          453.1,
+          404
+        ],
+        [
+          456.52,
+          404
+        ],
+        [
+          459.94,
+          404
+        ],
+        [
+          463.36,
+          404
+        ],
+        [
+          466.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-84-ones",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-80-model-89-ten-0",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-1",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-2",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-3",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-4",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          543
+        ],
+        [
+          280.42,
+          543
+        ],
+        [
+          283.84,
+          543
+        ],
+        [
+          287.26,
+          543
+        ],
+        [
+          290.68,
+          543
+        ],
+        [
+          294.1,
+          543
+        ],
+        [
+          297.52,
+          543
+        ],
+        [
+          300.94,
+          543
+        ],
+        [
+          304.36,
+          543
+        ],
+        [
+          307.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-5",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          543
+        ],
+        [
+          333.42,
+          543
+        ],
+        [
+          336.84,
+          543
+        ],
+        [
+          340.26,
+          543
+        ],
+        [
+          343.68,
+          543
+        ],
+        [
+          347.1,
+          543
+        ],
+        [
+          350.52,
+          543
+        ],
+        [
+          353.94,
+          543
+        ],
+        [
+          357.36,
+          543
+        ],
+        [
+          360.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-6",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          543
+        ],
+        [
+          386.42,
+          543
+        ],
+        [
+          389.84,
+          543
+        ],
+        [
+          393.26,
+          543
+        ],
+        [
+          396.68,
+          543
+        ],
+        [
+          400.1,
+          543
+        ],
+        [
+          403.52,
+          543
+        ],
+        [
+          406.94,
+          543
+        ],
+        [
+          410.36,
+          543
+        ],
+        [
+          413.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ten-7",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          543
+        ],
+        [
+          439.42,
+          543
+        ],
+        [
+          442.84,
+          543
+        ],
+        [
+          446.26,
+          543
+        ],
+        [
+          449.68,
+          543
+        ],
+        [
+          453.1,
+          543
+        ],
+        [
+          456.52,
+          543
+        ],
+        [
+          459.94,
+          543
+        ],
+        [
+          463.36,
+          543
+        ],
+        [
+          466.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-80-model-89-ones",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "band-90-model-90-ten-0",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          265
+        ],
+        [
+          68.42,
+          265
+        ],
+        [
+          71.84,
+          265
+        ],
+        [
+          75.26,
+          265
+        ],
+        [
+          78.68,
+          265
+        ],
+        [
+          82.1,
+          265
+        ],
+        [
+          85.52,
+          265
+        ],
+        [
+          88.94,
+          265
+        ],
+        [
+          92.36,
+          265
+        ],
+        [
+          95.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-1",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          265
+        ],
+        [
+          121.42,
+          265
+        ],
+        [
+          124.84,
+          265
+        ],
+        [
+          128.26,
+          265
+        ],
+        [
+          131.68,
+          265
+        ],
+        [
+          135.1,
+          265
+        ],
+        [
+          138.52,
+          265
+        ],
+        [
+          141.94,
+          265
+        ],
+        [
+          145.36,
+          265
+        ],
+        [
+          148.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-2",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          265
+        ],
+        [
+          174.42,
+          265
+        ],
+        [
+          177.84,
+          265
+        ],
+        [
+          181.26,
+          265
+        ],
+        [
+          184.68,
+          265
+        ],
+        [
+          188.1,
+          265
+        ],
+        [
+          191.52,
+          265
+        ],
+        [
+          194.94,
+          265
+        ],
+        [
+          198.36,
+          265
+        ],
+        [
+          201.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-3",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          265
+        ],
+        [
+          227.42,
+          265
+        ],
+        [
+          230.84,
+          265
+        ],
+        [
+          234.26,
+          265
+        ],
+        [
+          237.68,
+          265
+        ],
+        [
+          241.1,
+          265
+        ],
+        [
+          244.52,
+          265
+        ],
+        [
+          247.94,
+          265
+        ],
+        [
+          251.36,
+          265
+        ],
+        [
+          254.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-4",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          265
+        ],
+        [
+          280.42,
+          265
+        ],
+        [
+          283.84,
+          265
+        ],
+        [
+          287.26,
+          265
+        ],
+        [
+          290.68,
+          265
+        ],
+        [
+          294.1,
+          265
+        ],
+        [
+          297.52,
+          265
+        ],
+        [
+          300.94,
+          265
+        ],
+        [
+          304.36,
+          265
+        ],
+        [
+          307.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-5",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          265
+        ],
+        [
+          333.42,
+          265
+        ],
+        [
+          336.84,
+          265
+        ],
+        [
+          340.26,
+          265
+        ],
+        [
+          343.68,
+          265
+        ],
+        [
+          347.1,
+          265
+        ],
+        [
+          350.52,
+          265
+        ],
+        [
+          353.94,
+          265
+        ],
+        [
+          357.36,
+          265
+        ],
+        [
+          360.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-6",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          265
+        ],
+        [
+          386.42,
+          265
+        ],
+        [
+          389.84,
+          265
+        ],
+        [
+          393.26,
+          265
+        ],
+        [
+          396.68,
+          265
+        ],
+        [
+          400.1,
+          265
+        ],
+        [
+          403.52,
+          265
+        ],
+        [
+          406.94,
+          265
+        ],
+        [
+          410.36,
+          265
+        ],
+        [
+          413.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-7",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          265
+        ],
+        [
+          439.42,
+          265
+        ],
+        [
+          442.84,
+          265
+        ],
+        [
+          446.26,
+          265
+        ],
+        [
+          449.68,
+          265
+        ],
+        [
+          453.1,
+          265
+        ],
+        [
+          456.52,
+          265
+        ],
+        [
+          459.94,
+          265
+        ],
+        [
+          463.36,
+          265
+        ],
+        [
+          466.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-90-ten-8",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          489.0,
+          265
+        ],
+        [
+          492.42,
+          265
+        ],
+        [
+          495.84,
+          265
+        ],
+        [
+          499.26,
+          265
+        ],
+        [
+          502.68,
+          265
+        ],
+        [
+          506.1,
+          265
+        ],
+        [
+          509.52,
+          265
+        ],
+        [
+          512.94,
+          265
+        ],
+        [
+          516.36,
+          265
+        ],
+        [
+          519.78,
+          265
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-0",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          404
+        ],
+        [
+          68.42,
+          404
+        ],
+        [
+          71.84,
+          404
+        ],
+        [
+          75.26,
+          404
+        ],
+        [
+          78.68,
+          404
+        ],
+        [
+          82.1,
+          404
+        ],
+        [
+          85.52,
+          404
+        ],
+        [
+          88.94,
+          404
+        ],
+        [
+          92.36,
+          404
+        ],
+        [
+          95.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-1",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          404
+        ],
+        [
+          121.42,
+          404
+        ],
+        [
+          124.84,
+          404
+        ],
+        [
+          128.26,
+          404
+        ],
+        [
+          131.68,
+          404
+        ],
+        [
+          135.1,
+          404
+        ],
+        [
+          138.52,
+          404
+        ],
+        [
+          141.94,
+          404
+        ],
+        [
+          145.36,
+          404
+        ],
+        [
+          148.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-2",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          404
+        ],
+        [
+          174.42,
+          404
+        ],
+        [
+          177.84,
+          404
+        ],
+        [
+          181.26,
+          404
+        ],
+        [
+          184.68,
+          404
+        ],
+        [
+          188.1,
+          404
+        ],
+        [
+          191.52,
+          404
+        ],
+        [
+          194.94,
+          404
+        ],
+        [
+          198.36,
+          404
+        ],
+        [
+          201.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-3",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          404
+        ],
+        [
+          227.42,
+          404
+        ],
+        [
+          230.84,
+          404
+        ],
+        [
+          234.26,
+          404
+        ],
+        [
+          237.68,
+          404
+        ],
+        [
+          241.1,
+          404
+        ],
+        [
+          244.52,
+          404
+        ],
+        [
+          247.94,
+          404
+        ],
+        [
+          251.36,
+          404
+        ],
+        [
+          254.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-4",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          404
+        ],
+        [
+          280.42,
+          404
+        ],
+        [
+          283.84,
+          404
+        ],
+        [
+          287.26,
+          404
+        ],
+        [
+          290.68,
+          404
+        ],
+        [
+          294.1,
+          404
+        ],
+        [
+          297.52,
+          404
+        ],
+        [
+          300.94,
+          404
+        ],
+        [
+          304.36,
+          404
+        ],
+        [
+          307.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-5",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          404
+        ],
+        [
+          333.42,
+          404
+        ],
+        [
+          336.84,
+          404
+        ],
+        [
+          340.26,
+          404
+        ],
+        [
+          343.68,
+          404
+        ],
+        [
+          347.1,
+          404
+        ],
+        [
+          350.52,
+          404
+        ],
+        [
+          353.94,
+          404
+        ],
+        [
+          357.36,
+          404
+        ],
+        [
+          360.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-6",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          404
+        ],
+        [
+          386.42,
+          404
+        ],
+        [
+          389.84,
+          404
+        ],
+        [
+          393.26,
+          404
+        ],
+        [
+          396.68,
+          404
+        ],
+        [
+          400.1,
+          404
+        ],
+        [
+          403.52,
+          404
+        ],
+        [
+          406.94,
+          404
+        ],
+        [
+          410.36,
+          404
+        ],
+        [
+          413.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-7",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          404
+        ],
+        [
+          439.42,
+          404
+        ],
+        [
+          442.84,
+          404
+        ],
+        [
+          446.26,
+          404
+        ],
+        [
+          449.68,
+          404
+        ],
+        [
+          453.1,
+          404
+        ],
+        [
+          456.52,
+          404
+        ],
+        [
+          459.94,
+          404
+        ],
+        [
+          463.36,
+          404
+        ],
+        [
+          466.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ten-8",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          489.0,
+          404
+        ],
+        [
+          492.42,
+          404
+        ],
+        [
+          495.84,
+          404
+        ],
+        [
+          499.26,
+          404
+        ],
+        [
+          502.68,
+          404
+        ],
+        [
+          506.1,
+          404
+        ],
+        [
+          509.52,
+          404
+        ],
+        [
+          512.94,
+          404
+        ],
+        [
+          516.36,
+          404
+        ],
+        [
+          519.78,
+          404
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-94-ones",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          458
+        ],
+        [
+          90,
+          458
+        ],
+        [
+          115,
+          458
+        ],
+        [
+          140,
+          458
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "band-90-model-99-ten-0",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          543
+        ],
+        [
+          68.42,
+          543
+        ],
+        [
+          71.84,
+          543
+        ],
+        [
+          75.26,
+          543
+        ],
+        [
+          78.68,
+          543
+        ],
+        [
+          82.1,
+          543
+        ],
+        [
+          85.52,
+          543
+        ],
+        [
+          88.94,
+          543
+        ],
+        [
+          92.36,
+          543
+        ],
+        [
+          95.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-1",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          543
+        ],
+        [
+          121.42,
+          543
+        ],
+        [
+          124.84,
+          543
+        ],
+        [
+          128.26,
+          543
+        ],
+        [
+          131.68,
+          543
+        ],
+        [
+          135.1,
+          543
+        ],
+        [
+          138.52,
+          543
+        ],
+        [
+          141.94,
+          543
+        ],
+        [
+          145.36,
+          543
+        ],
+        [
+          148.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-2",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          543
+        ],
+        [
+          174.42,
+          543
+        ],
+        [
+          177.84,
+          543
+        ],
+        [
+          181.26,
+          543
+        ],
+        [
+          184.68,
+          543
+        ],
+        [
+          188.1,
+          543
+        ],
+        [
+          191.52,
+          543
+        ],
+        [
+          194.94,
+          543
+        ],
+        [
+          198.36,
+          543
+        ],
+        [
+          201.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-3",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          224.0,
+          543
+        ],
+        [
+          227.42,
+          543
+        ],
+        [
+          230.84,
+          543
+        ],
+        [
+          234.26,
+          543
+        ],
+        [
+          237.68,
+          543
+        ],
+        [
+          241.1,
+          543
+        ],
+        [
+          244.52,
+          543
+        ],
+        [
+          247.94,
+          543
+        ],
+        [
+          251.36,
+          543
+        ],
+        [
+          254.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-4",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          277.0,
+          543
+        ],
+        [
+          280.42,
+          543
+        ],
+        [
+          283.84,
+          543
+        ],
+        [
+          287.26,
+          543
+        ],
+        [
+          290.68,
+          543
+        ],
+        [
+          294.1,
+          543
+        ],
+        [
+          297.52,
+          543
+        ],
+        [
+          300.94,
+          543
+        ],
+        [
+          304.36,
+          543
+        ],
+        [
+          307.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-5",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330.0,
+          543
+        ],
+        [
+          333.42,
+          543
+        ],
+        [
+          336.84,
+          543
+        ],
+        [
+          340.26,
+          543
+        ],
+        [
+          343.68,
+          543
+        ],
+        [
+          347.1,
+          543
+        ],
+        [
+          350.52,
+          543
+        ],
+        [
+          353.94,
+          543
+        ],
+        [
+          357.36,
+          543
+        ],
+        [
+          360.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-6",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          383.0,
+          543
+        ],
+        [
+          386.42,
+          543
+        ],
+        [
+          389.84,
+          543
+        ],
+        [
+          393.26,
+          543
+        ],
+        [
+          396.68,
+          543
+        ],
+        [
+          400.1,
+          543
+        ],
+        [
+          403.52,
+          543
+        ],
+        [
+          406.94,
+          543
+        ],
+        [
+          410.36,
+          543
+        ],
+        [
+          413.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-7",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          436.0,
+          543
+        ],
+        [
+          439.42,
+          543
+        ],
+        [
+          442.84,
+          543
+        ],
+        [
+          446.26,
+          543
+        ],
+        [
+          449.68,
+          543
+        ],
+        [
+          453.1,
+          543
+        ],
+        [
+          456.52,
+          543
+        ],
+        [
+          459.94,
+          543
+        ],
+        [
+          463.36,
+          543
+        ],
+        [
+          466.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ten-8",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          489.0,
+          543
+        ],
+        [
+          492.42,
+          543
+        ],
+        [
+          495.84,
+          543
+        ],
+        [
+          499.26,
+          543
+        ],
+        [
+          502.68,
+          543
+        ],
+        [
+          506.1,
+          543
+        ],
+        [
+          509.52,
+          543
+        ],
+        [
+          512.94,
+          543
+        ],
+        [
+          516.36,
+          543
+        ],
+        [
+          519.78,
+          543
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "band-90-model-99-ones",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          597
+        ],
+        [
+          90,
+          597
+        ],
+        [
+          115,
+          597
+        ],
+        [
+          140,
+          597
+        ],
+        [
+          165,
+          597
+        ],
+        [
+          190,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          240,
+          597
+        ],
+        [
+          265,
+          597
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "names13-ten-0",
+      "page": 12,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          257
+        ],
+        [
+          68.96,
+          257
+        ],
+        [
+          72.92,
+          257
+        ],
+        [
+          76.88,
+          257
+        ],
+        [
+          80.84,
+          257
+        ],
+        [
+          84.8,
+          257
+        ],
+        [
+          88.76,
+          257
+        ],
+        [
+          92.72,
+          257
+        ],
+        [
+          96.68,
+          257
+        ],
+        [
+          100.64,
+          257
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "names13-ones",
+      "page": 12,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65,
+          311
+        ],
+        [
+          90,
+          311
+        ],
+        [
+          115,
+          311
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "names30-ten-0",
+      "page": 12,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          407
+        ],
+        [
+          68.96,
+          407
+        ],
+        [
+          72.92,
+          407
+        ],
+        [
+          76.88,
+          407
+        ],
+        [
+          80.84,
+          407
+        ],
+        [
+          84.8,
+          407
+        ],
+        [
+          88.76,
+          407
+        ],
+        [
+          92.72,
+          407
+        ],
+        [
+          96.68,
+          407
+        ],
+        [
+          100.64,
+          407
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "names30-ten-1",
+      "page": 12,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          118.0,
+          407
+        ],
+        [
+          121.96,
+          407
+        ],
+        [
+          125.92,
+          407
+        ],
+        [
+          129.88,
+          407
+        ],
+        [
+          133.84,
+          407
+        ],
+        [
+          137.8,
+          407
+        ],
+        [
+          141.76,
+          407
+        ],
+        [
+          145.72,
+          407
+        ],
+        [
+          149.68,
+          407
+        ],
+        [
+          153.64,
+          407
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "names30-ten-2",
+      "page": 12,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          171.0,
+          407
+        ],
+        [
+          174.96,
+          407
+        ],
+        [
+          178.92,
+          407
+        ],
+        [
+          182.88,
+          407
+        ],
+        [
+          186.84,
+          407
+        ],
+        [
+          190.8,
+          407
+        ],
+        [
+          194.76,
+          407
+        ],
+        [
+          198.72,
+          407
+        ],
+        [
+          202.68,
+          407
+        ],
+        [
+          206.64,
+          407
+        ]
+      ],
+      "count": 10
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

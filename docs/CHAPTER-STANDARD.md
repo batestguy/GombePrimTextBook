@@ -56,10 +56,16 @@ primary level, starting with Mrs Binta. The stable registry ID `ms-binta` means
 **Mrs Binta**, never a different teacher. Mr Aliyu wears Hausa-inspired native
 clothing and a cap. A visitor must not obscure who is teaching the chapter.
 
+Every chapter starts with its assigned lead teacher in front of a large, legible
+blackboard, with the four children seated facing the teacher. Put a short,
+child-friendly hint of that chapter's topic on the board, typeset clearly in
+high-contrast text. The opening must make the teacher's leadership visible;
+a portrait alone does not satisfy this requirement. Do not introduce numerals
+or notation before their prerequisites. Keep assessed quantities deterministic.
+The story may move into other meaningful settings after this classroom opening.
+
 All four children take meaningful roles across the chapter, interacting with the
-teacher and one another. The classroom opening shows seated children facing the
-teacher and a large, legible board when a classroom is the chosen setting.
-Other meaningful settings are allowed. Preferences must affect actions naturally.
+teacher and one another. Preferences must affect actions naturally.
 Rotate who succeeds, makes an error, explains and helps across chapters; never
 assign a permanent weak pupil or make disability a measure of ability.
 

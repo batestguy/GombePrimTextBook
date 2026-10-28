@@ -1,0 +1,273 @@
+{
+  "pages": 6,
+  "sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+  "page_manifest": [
+    {
+      "slug": "c5-wb-bundle",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Make and open a ten",
+      "subtitle": "Watch Mrs Binta. Try with real paper strips, then check the pictures.",
+      "task_ids": [
+        "P1-05-GUIDED-BUNDLE",
+        "P1-05-WB-BUILD-20"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-wb-source-a",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Build and record",
+      "subtitle": "Try on your own. Use real strips if you need them.",
+      "task_ids": [
+        "P1-05-Q1",
+        "P1-05-Q2",
+        "P1-05-Q3"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-wb-form",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Trace and write tens",
+      "subtitle": "Use textbook Read it. Write it. Watch the digit positions.",
+      "task_ids": [
+        "P1-05-FORM-PRACTICE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-wb-source-b",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Twenty, ten and one",
+      "subtitle": "Use real bundles. An adult may record your spoken explanation.",
+      "task_ids": [
+        "P1-05-Q4",
+        "P1-05-Q5",
+        "P1-05-Q6"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-wb-own",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Make your own number",
+      "subtitle": "Remember what makes a ten before looking back or asking for a hint.",
+      "task_ids": [
+        "P1-05-RECALL",
+        "P1-05-CHOOSE-BUILD",
+        "P1-05-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-wb-fresh",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "A fresh tens-and-ones try",
+      "subtitle": "Work on your own. An adult gives new materials, cards and spoken numbers.",
+      "task_ids": [
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-05-GUIDED-BUNDLE": [
+      1
+    ],
+    "P1-05-WB-BUILD-20": [
+      1
+    ],
+    "P1-05-Q1": [
+      2
+    ],
+    "P1-05-Q2": [
+      2
+    ],
+    "P1-05-Q3": [
+      2
+    ],
+    "P1-05-FORM-PRACTICE": [
+      3
+    ],
+    "P1-05-Q4": [
+      4
+    ],
+    "P1-05-Q5": [
+      4
+    ],
+    "P1-05-Q6": [
+      4
+    ],
+    "P1-05-RECALL": [
+      5
+    ],
+    "P1-05-CHOOSE-BUILD": [
+      5
+    ],
+    "P1-05-SUPPORT": [
+      5
+    ],
+    "P1-05-FRESH-BUILD": [
+      6
+    ],
+    "P1-05-FRESH-READ": [
+      6
+    ],
+    "P1-05-FRESH-RECOGNISE": [
+      6
+    ],
+    "P1-05-FRESH-WRITE": [
+      6
+    ]
+  },
+  "objects": [
+    {
+      "id": "c5-wb-ten-loose",
+      "page": 1,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          105,
+          263
+        ],
+        [
+          147,
+          263
+        ],
+        [
+          189,
+          263
+        ],
+        [
+          231,
+          263
+        ],
+        [
+          273,
+          263
+        ],
+        [
+          315,
+          263
+        ],
+        [
+          357,
+          263
+        ],
+        [
+          399,
+          263
+        ],
+        [
+          441,
+          263
+        ],
+        [
+          483,
+          263
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-wb-Q1-ten",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          125,
+          245
+        ],
+        [
+          131,
+          245
+        ],
+        [
+          137,
+          245
+        ],
+        [
+          143,
+          245
+        ],
+        [
+          149,
+          245
+        ],
+        [
+          155,
+          245
+        ],
+        [
+          161,
+          245
+        ],
+        [
+          167,
+          245
+        ],
+        [
+          173,
+          245
+        ],
+        [
+          179,
+          245
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-wb-Q1-ones",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          290,
+          245
+        ],
+        [
+          335,
+          245
+        ]
+      ],
+      "count": 2
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

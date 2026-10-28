@@ -11,11 +11,11 @@
       "review": {
         "status": "approved",
         "author": "Codex /root",
-        "reviewer": "Codex /root/sol_reviewer (independent agent session)",
-        "reviewed_on": "2026-10-20",
-        "fingerprint": "db8cc12c1cff456bb03459e05cd82e29ed665b80d426126ebf7f94c9c29bbeb1",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "432fccf9df769553578375e95097071605c3e31a7eac19b984145616be71be51",
         "stages": {
-          "S1": "Textbook 5: Aishatu wants to open her pretend tea shop; each of the four friends needs a cup. Mrs Binta leads and the practical one-cup-per-friend problem gives a reason to count.",
+          "S1": "Textbook 5: Mrs Binta introduces Aishatu's pretend tea-shop cup problem from the classroom blackboard, four seated children facing her; each of the four friends needs a cup. The board hint Touch one. Say one number. motivates the counting method without numerals.",
           "S2": "Textbook 5: We will count, read, write and order one to five. Numerals are not required before concrete modelling.",
           "S3": "Textbook 6: Mrs Binta touches three cups once each, says one/two/three and states the total; textbook 7 links exact sets 1-5 to numerals and models two cups/two circles. Textbook 9 and adult 18 require live numeral formation before workbook tracing.",
           "S4": "Textbook 6-7: Aishatu slows down, Grace checks, pupils touch/count with the teacher, and John asks whether a drawing can represent a cup. Adult 18 requires real-cup enactment and guided turns.",
@@ -28,31 +28,31 @@
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "S1-S9 enacted at the artifact-specific pages above. Concrete one-to-one counting precedes numeral meaning; one circle per cup precedes drawing; live formation precedes tracing/independent writing. Quantity, recognition, reading, order and formation are deliberately separated. Recall precedes smaller-step help, and fresh/delayed checks follow."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Independently solved EVERY task/example on both surfaces and adult pages. P1-01-Q1 textbook8/workbook2=3; Q2 same pages=5 despite scattering; Q3=2 separate circles, one per pictured cup; Q4 textbook9/workbook3=1,2,3,4,5, with tracing then independent boxes; Q5 textbook9/workbook4=4 fingers or objects; Q6 same pages=count each of 3 cups once and state 3. Teacher model textbook6=3 cups; ladder textbook7=1,2,3,4,5; representation=2 cups/2 circles; support=2; ending textbook10=4 friends/4 cups, bijection. Fresh set/drawing accepts exactly the adult's privately chosen 1-5 in any arrangement. Shuffled cards are 3,1,5,2,4; recognition selects named value and reading names pointed value (speech/usual communication accepted). Delayed two/five sets total 2/5 respectively. Original top-to-cup adaptation preserves the counting-method answer."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Q1-Q6=3;5;2circles;1,2,3,4,5;4;eachcup once,total3. All cup ladders/models/support/story/fresh/delayed solved;TB19 map agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read all textbook1-10/workbook1-5/adult18-19,22 instructions. Pupil tasks are unnumbered, adult IDs remain out of pupil tasks, and textbook1-6 has no premature numeral furniture. Every marking action goes to workbook/exercise book; touching/pointing and real cups work with the reusable textbook. Local workbook diagrams, named-page references and adult navigation support agree. Resolved fresh-check finding now explicitly asks mixed-card naming separately from adult-named pointing."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Shared textbook 1-4 introduces children once, then both teachers separately on one full page. Aishatu has mustard hijab/teal dress; Adamu blue shirt/clay shorts; Grace all-back cornrow plaits/clay top/green skirt; John smooth shaved scalp/green shirt/ochre trousers and blue manual wheelchair. John's mobility is mentioned once matter-of-factly; reachable seated use is explicit. All twelve original source prompts, answers and order match migration-baseline.json; the other seventeen P1 lessons and old PDFs retain their recorded hashes. Teacher alternation follows canonical units. Mrs Binta alone leads textbook5 classroom with children seated facing her and a large legible board. Aishatu practises pausing, Grace checks, Adamu asks fair turns and repairs a repeat count, John requests thinking time and asks the representation puzzle. Preferences have mathematical effects."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening each-friend-needs-a-cup problem resolves with four children and four cups on textbook10; adult19 requires real pairing before closure. Practice/model quantities are distinct sets, not an unexplained change to the ending inventory. Scattered group remains five. Two-circle representation matches two cups. Textbook remains usable without the workbook through ordinary paper, exercise book, objects and numeral cards."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Inspected every exact paired page: textbook 1-22 and workbook 1-10, including all artwork and adult support. Reinspected final corrected textbook 10,18,19 and workbook 5. All 32 final PNGs byte-match 1.15x in-memory rasterisation of the final PDFs; all are A4 (595.28 x 841.89 pt). White full-colour surfaces, dark legible text, complete diagrams, generous workbook response space, clear reading order and no clipping/overlap observed. Automated actual-vector-count, embedded-font and text-bounds checks passed. P1-01 chapter coverage textbook5-10/workbook2-5, shared fronts textbook1-4/workbook1, adult18-19/shared22."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Textbook18-19 provides materials, suggested flexible sessions, one-touch/last-number/drawing/formation models, task-location/answer map, misconceptions, two-cup intervention, fresh recheck, separate recognition/reading rubric and delayed recall. Textbook22 supplies glossary, historical objective mapping, existing-art provenance/font licence, Primary2 preview and honest limits; final four offline-AI pages explicitly belong to future full-year book outside this extract."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter1 pupilTB5-10/WB2-5, adultTB18-19/shared22. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
           }
         },
         "variations": [
@@ -63,10 +63,10 @@
         "findings": [
           {
             "severity": "required",
-            "reference": "P1-01-FRESH-READ; textbook10/workbook5; production/p1.json:703,1084 and production/p1-opening.json:374,481; adult textbook18-19",
+            "reference": "Historical resolved reading-assessment finding, rechecked now: P1-01-FRESH-READ; current textbook 10/workbook 5 and adult textbook 18-19",
             "correction": "Add a separate mixed-order numeral-naming check beside adult-named numeral recognition, available with ordinary paper cards; distinguish reading from recognition/formation in the adult rubric.",
             "resolved": true,
-            "recheck": "Author updated pupil tasks, task metadata and adult rubric, then rebuilt. Independently reread and visually reinspected final textbook10,18,19 and workbook5: adult points to mixed card, child names value without value being supplied; speech/usual communication accepted, separate observations explicit, no overflow. Final PDFs/PNGs verified and new paired fingerprints obtained."
+            "recheck": "Author updated pupil tasks, task metadata and adult rubric, then rebuilt. Independently reread and visually reinspected final textbook10,18,19 and workbook5: adult points to mixed card, child names value without value being supplied; speech/usual communication accepted, separate observations explicit, no overflow. Final PDFs/PNGs verified and new paired fingerprints obtained. Current full re-review confirms the separate shuffled recognition/reading tasks and complete rubric remain present and correct; no regression in this blackboard revision. Rechecked again on 23 October 2026 against all unchanged exact opening pages during chapter-three shared-source re-review; separate numeral naming remains present, no regression. Chapter-four re-review again confirmed this historical finding remains resolved; no opening page/PDF regression. Chapter-five full re-review confirms this finding remains resolved on the unchanged exact earlier pair, including all prior handwritten-answer coverage before memory writing. Chapter-six independent final re-review confirms the prior correction remains resolved on the exact unchanged pair; every earlier handwritten answer is covered before memory/dictation writing where applicable."
           }
         ]
       },
@@ -109,11 +109,11 @@
       "review": {
         "status": "approved",
         "author": "Codex /root",
-        "reviewer": "Codex /root/sol_reviewer (independent agent session)",
-        "reviewed_on": "2026-10-20",
-        "fingerprint": "e65e2beabfbe75ec232dee2dcea1e51b99c4b5fae7359ed4aa6606c00530edbf",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "96990123d64adb3d524960c6da7a50e9f19a1105e38767b9674c7189642adbe7",
         "stages": {
-          "S1": "Textbook11: Aishatu's toy shop needs its mixed game tray tidied; 3 leaf tickets and 5 top counters create a sorting/comparison problem.",
+          "S1": "Textbook 11: Mr Aliyu introduces Aishatu's toy-shop game tray problem from the classroom blackboard with four seated children facing him; the clear hint Sort. Match. Put in order. anticipates the method. Separate deterministic tray contains 3 leaf tickets and 5 top counters to tidy.",
           "S2": "Textbook11: We will sort things, match them and put small sets in order.",
           "S3": "Textbook12-14: Mr Aliyu sorts the 3/5 inventory by type; models 2-versus-4 one-to-one matching and whole-set circle; counts/labels increasing sets 2,3,4.",
           "S4": "Textbook12-13 / workbook6: Grace repairs a sorting error, children select the other leaf and physically sort/count; Adamu's long-row guess is tested by pairing equal sets of three despite spacing.",
@@ -126,36 +126,36 @@
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "S1-S9 enacted at pages above. P1-01 counting/numeral knowledge precedes sorting, correspondence/equality and quantity order. Individual and whole-set circles and line matching are modelled in textbook before workbook marking. Error-based guided practice leads to independent comparison, recall before help and fresh/delayed checks."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Independently solved EVERY task/model/extra on both surfaces and adult20-21. P1-02-Q1 textbook14/workbook7=1,3,4; Q2=one left dot/three right dots, separate sets; Q3 textbook15/workbook8=right 5 tops more than2; Q4=right3 leaves fewer than4; Q5 textbook16/workbook9=exactly5 safe objects; Q6=count both or match each object to one partner, accurate explanation/drawing accepted. Story/sort inventory=3 leaves/5 tops. Guided sort positions2,4 leaves (2 already circled),1,3 tops. Matching model2/4=2 pairs/2 unmatched;4 more/2 fewer. Equal spaced rows=3 each; any bijection. Order model=2,3,4 dots. Support2/3=2 pairs/1 unmatched lower; either free partner valid. Fresh1/2=2 more/1 fewer. Ending=3 pairs/2 spares; any injective leaf/top pairing valid. Fresh classification positions2,4 leaves/1,3,5 tops; fresh comparison=right5 leaves more than4 tops. New physical tray must sort by type/count exact privately recorded1-5 quantities. Delayed4leaves/2tops=leaves more/tops fewer, order5,2,3=2,3,5."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Q1-Q6=1,3,4;sets1/3;5tops;3leaves;5objects;count/bijective match. All sorting/matching/equal spacing/order/support/story/fresh/delayed solved;3leaves5tops conserved;TB20-21 map agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read textbook11-17/workbook6-10/adult20-22. Reusable textbook requires pointing, finger matching, speech, real pieces or exercise-book responses; independent circling/line drawing/writing is explicitly in workbook. Workbook has each needed diagram locally. Printed page-name references match workbook titles; no pupil task numbering. Partner uniqueness, whole-set versus individual circling, and separate dot sets are clear."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Shared textbook 1-4 introduces children once, then both teachers separately on one full page. Aishatu has mustard hijab/teal dress; Adamu blue shirt/clay shorts; Grace all-back cornrow plaits/clay top/green skirt; John smooth shaved scalp/green shirt/ochre trousers and blue manual wheelchair. John's mobility is mentioned once matter-of-factly; reachable seated use is explicit. All twelve original source prompts, answers and order match migration-baseline.json; the other seventeen P1 lessons and old PDFs retain their recorded hashes. Teacher alternation follows canonical units. Mr Aliyu alone leads in native cream clothing and cap, matching even canonical unit. Grace retries a sort, Adamu tests spacing and shares turns, Aishatu pauses/counts and puts spares away, John gets time to try and asks the comparison. No repeated full introductions."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Track textbook11 mixed tray through12 sorted sets and17 ending/workbook10: always3 leaves/5 tops. Three tickets obtain three counters; two unmatched tops are physically stored before closure as adult20 requires. Other sets are distinct practice. Equal rows disprove spacing guess. Same printed fresh task on textbook/workbook is explicitly one task, not two independent tests; a genuinely fresh physical tray and delayed check add independent evidence. All tasks answerable."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Inspected every exact paired page: textbook 1-22 and workbook 1-10, including all artwork and adult support. Reinspected final corrected textbook 10,18,19 and workbook 5. All 32 final PNGs byte-match 1.15x in-memory rasterisation of the final PDFs; all are A4 (595.28 x 841.89 pt). White full-colour surfaces, dark legible text, complete diagrams, generous workbook response space, clear reading order and no clipping/overlap observed. Automated actual-vector-count, embedded-font and text-bounds checks passed. P1-02 coverage textbook11-17/workbook6-10, shared fronts textbook1-4/workbook1, adult20-21/shared22. Matching rows and circling sets have adequate space; all exact objects visible."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Textbook20-21 provides safe large reachable materials, flexible sessions, type/colour and spacing interventions, paired-object support, explicit1/2 recheck answers, real-spare-box closure, fresh physical tray rubric, delayed4/2 and ordering answers, all six source/extra answers and variants. Shared22 covers glossary, historical mapping, provenance, Primary2 preview and pending curriculum/adoption/educator/pupil/accessibility/print limits; full-year final AI pages remain outside opening extract."
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Opening TB1-22/WB1-10, chapter2 pupilTB11-17/WB6-10, adultTB20-22. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
           }
         },
         "variations": [
-          "S1-S9 span reusable textbook11-17 and workbook6-10 plus shared front/adult pages; exercise-book alternatives are explicit. Toy-shop setting rather than classroom panorama is purposeful.",
-          "S8 is enacted with real pieces/spare box after matching identifies two spares; the same3/5 inventory is retained.",
+          "S1-S9 span reusable textbook 11-17 and workbook 6-10 plus shared front/adult pages; exercise-book alternatives are explicit. Required classroom blackboard opening leads into the toy-shop practical story.",
+          "S8 is enacted with real pieces/spare box after matching identifies two spares; the same 3-leaf/5-top inventory is retained.",
           "Opening extract only; later annual units and four final offline-AI pages explicitly remain outside scope. Shared introductions and adult notes are reviewed, not duplicated."
         ],
         "findings": []
@@ -195,85 +195,385 @@
       "id": "P1-03",
       "canonical": "production/p1.json",
       "teacher_id": "ms-binta",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
-        "findings": []
+        "status": "approved",
+        "author": "Codex /root",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "e92e93f2a2daf7940df25806298c66f74e0c516a5411583d0af1d0ec535f1359",
+        "stages": {
+          "S1": "Zero TB1: Mrs Binta leads four seated children at the blackboard. Aishatu wants to pack her box game; three game tops must be put away. Hint: Look inside. Is it empty?",
+          "S2": "Zero TB1: We will learn the number for none. We will read and write it. Words before the numeral; no subtraction prerequisite.",
+          "S3": "Zero TB2: actual two tops counted once, moved into storage, empty tray linked to 0/zero; Aishatu counts container and John explains contents. TB3 models closed oval start/direction and empty-box drawing, plus real none/one/two/three sequence.",
+          "S4": "Zero TB3/WB1-2: guided one-top removal, inspect empty tray, choose 0 among 0,2,1; air-write and form zero on own paper, draw empty outline after model; WB1 completed one-top/1 example, WB2 trace then cover.",
+          "S5": "Zero TB4-5/WB1-3: all six source tasks preserved in order/meaning; Q1 empty tops=0, Q2 empty box drawing, Q3 missing2, Q4 move all3 away=0, Q5 name zero, Q6 no oranges inside. Needed exact diagrams local to workbook; reusable textbook uses exercise book.",
+          "S6": "Zero TB5/WB3: remember Mrs Binta before looking back; show/name zero and explain empty contents; John requests thinking time before hints.",
+          "S7": "Zero TB5/WB3/adult TB7: one-counter move-away demonstration; new tray with two put away is independent recheck. For writing use large oval/air-write, cover then dictate zero; observe separate skills.",
+          "S8": "Zero TB6: children actually move three real game tops into storage, check empty mat before closing. Exact vector mat has0 and storage box3; Adamu shares turns, Grace checks, John records none, Aishatu closes game.",
+          "S9": "Zero TB6/WB4/adult TB7-8: fresh actual trays 0/2/4, shuffled 0-5 recognition followed by independent naming without supplied value. Before final memory writing cover all cards and earlier printed/written numerals, including the pupil first count answer 0. WB2 also covers earlier writing before final dictated-zero practice. Delayed TB7 removes 3, reads 2,0,4 and dictates 0; separate skill outcomes recorded."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Q1-Q6=0;emptyoutline;2;0;zero;noorangesinside. All2-to-none/1-to-none/formation/emptybox/recall/support/story/fresh/delayed solved;0onmat3stored;TB7-8 agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Zero TB1-9/WB1-4. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
+          }
+        },
+        "variations": [
+          "Continuation extract only: Zero textbook pupil1-6/adult7-9 and workbook1-4; full annual assembly and final four offline-AI pupil pages remain outside this pair. Existing shared introductions are used, not repeated.",
+          "S1-S9 span reusable textbook and write-in workbook with ordinary-exercise-book alternative. Real actions and adult-prepared trays/cards supplement deterministic printed diagrams.",
+          "Formation uses live model,air-writing/trace,covered model and memory dictation; zero is taught before subtraction/equality notation."
+        ],
+        "findings": [
+          {
+            "severity": "required",
+            "reference": "P1-03-FRESH-WRITE: Zero WB4 first written 0 remained visible for later memory writing; related WB2 practice and TB6/TB8 rubric.",
+            "correction": "Before memory or dictation writing explicitly cover all cards and earlier printed or handwritten numerals, including the pupil first count answer. Apply consistently to Zero TB6, TB8, WB2 and WB4.",
+            "resolved": true,
+            "recheck": "Author corrected canonical data and rebuilt. Independently visually rechecked all four changed pages: handwritten answers must now be covered before final writing; no overflow or response-space regression. Independent comparison confirms every other Zero page unchanged against the archived prior pair. All 13 final rasters match the exact PDFs. Numeric answers unchanged; final hashes in output/chapter-4/REVIEW.md. Chapter-five full re-review confirms this finding remains resolved on the unchanged exact earlier pair, including all prior handwritten-answer coverage before memory writing. Chapter-six independent final re-review confirms the prior correction remains resolved on the exact unchanged pair; every earlier handwritten answer is covered before memory/dictation writing where applicable."
+          }
+        ]
+      },
+      "format": "textbook-workbook",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf"
       }
     },
     {
       "id": "P1-04",
       "canonical": "production/p1.json",
       "teacher_id": "mr-aliyu",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
-        "findings": []
+        "status": "approved",
+        "author": "Codex /root",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "103a67da1bff876d16c975e30d1613a266e6453157697a4d1e0cdecbf8e15de1",
+        "stages": {
+          "S1": "Six-to-nine TB1: Mr Aliyu leads four seated children at the blackboard. Aishatu box-game pieces are mixed; four groups of 6/7/8/9 must be sorted, counted and checked before the game begins.",
+          "S2": "TB1: We will count, read, write and order six to nine. Board hint Count each one. Check the group. uses prerequisite-appropriate words.",
+          "S3": "TB2-3 exact counter models: 6 is 5 and 1, 7 is 5 and 2, 8 is 5 and 3, 9 is 5 and 4; names linked to numerals. TB4 live formation; TB5 sorting 6 round/7 square; TB6 real 6/7 pairing and before/after; TB7 two counters/two dots.",
+          "S4": "TB2-5/WB1: make and count 6, then 7, then 8 and 9; scatter without changing quantity; name mixed cards; air-write, trace and cover. Physically sort 8 triangles/9 non-square rectangles with support. Grace retries a smudge; Aishatu waits to help.",
+          "S5": "TB5-7/WB2-5: S002 independently sorts all 30 actual pieces, counts and orders groups. Q1 after 6=7; Q2 before 9=8; Q3 order 6,7,8,9; Q4 six dots; Q5 nine objects once each; Q6 check eight. Needed diagrams local; real materials explicit.",
+          "S6": "TB7/WB4: remember the method before looking back; explain and show how to check 8. John explains moving each counted piece after the pupil first attempt.",
+          "S7": "TB7/WB4/adult TB9: counted/uncounted mats, five plus one to model six, then independently count a fresh seven set. Sort two small groups before rebuilding target groups; air-write/trace one numeral, cover and dictate; later change order.",
+          "S8": "TB8: actually sort, count and arrange all 30 pieces into 6 round, 7 square, 8 triangle and 9 non-square rectangle groups before closure. Displayed groups follow increasing row order. All four children check and share turns before starting the game.",
+          "S9": "TB8/WB6/adult TB9-10: fresh scattered groups 8/9; S003 counts nine and independently names all shuffled 1-9 cards, with recognition 6-9 separate. Cover prior handwritten count answers, all cards and earlier numerals before S004 dictation 8,6,9,7. Delayed count 6/7/8, read 9/6/8/7, dictate 9/7/6/8, order 8/6/9 as 6/8/9, sort 7 tops/9 leaves."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Q1-Q6=7;8;6,7,8,9;6dots;9objectsonce;recount8once. All6-9 models/formation/S002sorting30pieces/S003mixed1-9reading/S004covereddictation/support/story/fresh/delayed solved;TB9-10 agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Six-to-nine TB1-11/WB1-6. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
+          }
+        },
+        "variations": [
+          "Continuation extract: pupil textbook 1-8/adult 9-11 and workbook 1-6. Shared introductions are not repeated. Annual assembly, assessment and final four offline-AI pupil pages remain unfinished.",
+          "S1-S9 span reusable textbook and write-in workbook; all written work also works in an ordinary exercise book. Actual safe cut-outs, counters, mats and cards required; printed vectors do not replace practical evidence.",
+          "Printed shape examples use one colour to isolate outline; actual S002 materials retain registered colours. Shape names are not assessed; use non-square rectangles and retain square-as-special-rectangle classification."
+        ],
+        "findings": [
+          {
+            "severity": "required",
+            "reference": "P1-04-S004: Six-to-nine WB6 handwritten count answers 8/9 remained visible for later independent dictation; adult TB10 covered printed numerals/cards only.",
+            "correction": "Explicitly cover prior handwritten count answers, all cards and all earlier numerals before dictation in WB6 and TB10 adult rubric.",
+            "resolved": true,
+            "recheck": "Author corrected canonical data and rebuilt. Independently visually rechecked final TB10/WB6: prior count answers and all earlier numerals must be hidden before dictation, with no overflow or response-space regression. Independent comparison of all 17 pages against pre-fix archived PDFs confirms only these two changed. All final rasters match exact PDFs; final hashes/fingerprint in output/chapter-4/REVIEW.md. Chapter-five full re-review confirms this finding remains resolved on the unchanged exact earlier pair, including all prior handwritten-answer coverage before memory writing. Chapter-six independent final re-review confirms the prior correction remains resolved on the exact unchanged pair; every earlier handwritten answer is covered before memory/dictation writing where applicable."
+          }
+        ]
+      },
+      "format": "textbook-workbook",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf"
       }
     },
     {
       "id": "P1-05",
       "canonical": "production/p1.json",
       "teacher_id": "ms-binta",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
+        "status": "approved",
+        "author": "Codex /root",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "3e69e5cd401dfc139f72d432f36fd96f92b65dc7e7b6219e2f9a09b4c50ccf91",
+        "stages": {
+          "S1": "Bundle-of-ten TB1: Mrs Binta leads four seated children at the blackboard. John path puzzle needs twenty paper markers; children must pack exactly the right number.",
+          "S2": "TB1: We will make tens and ones, then count, read and write through twenty. Board hint Make a bundle. Count the ones. uses words before the new numeral.",
+          "S3": "TB2 demonstrates ten loose ones tied as one ten and opened/recounted with quantity unchanged. TB3 models tens left/ones right using fourteen; TB4-5 model every quantity/name from eleven through twenty. TB6 live formation/reading models twelve and twenty, then all 10-20.",
+          "S4": "TB2-6/WB1,3: count, bundle and unbundle real ten; guided thirteen; each eleven-to-twenty model built before advancing. Live writing, air-writing, tracing, covering and trying again. All four children contribute checking, explanation and materials.",
+          "S5": "TB7-8/WB2,4: Q1 twelve, Q2 sixteen as one ten/six ones, Q3 ten ones, Q4 missing nineteen, Q5 show twenty with two verified real tens, Q6 distinguish ten ones from one one. Exact needed diagrams local; textbook uses exercise book.",
+          "S6": "TB9/WB5: recall how to verify one ten before looking back; choose any eleven-to-nineteen number, build it, record tens/ones and explain consistency before hints.",
+          "S7": "TB9/WB5/adult TB11: count nine then one more, bundle/open/recount ten. Adult privately supplies fresh eleven or thirteen for independent bundling/recording; specific rubric one ten/one or three loose ones. Model handwriting, cover all prior models/answers, dictate a different number.",
+          "S8": "TB10: bring back all twenty story markers, make two verified bundles of exactly ten, pack both and close the box only after everyone checks. Exact drawing has twenty separate strips, zero loose ones. Path-puzzle packing problem resolved through actual action.",
+          "S9": "TB10/WB6/adult TB11-12: fresh build seventeen/twenty, independently name all shuffled 10-20 cards, recognition of 10/16/20 separately. Cover all cards, printed numerals and prior handwritten answers including WB6 records before dictation 19/10/14/20. Delayed build 18/10, read 19/12/20/11, fully covered dictation 15/20/11."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Q1-Q6=12;1ten6ones;10;19;2checkedtens;10onesversus1one. Every11-20model/choice/support/story/fresh/delayed solved. DirectPDF232TB/22WBstriprectangles;18bundleseach10;TB11-12 agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Bundle-of-ten TB1-13/WB1-6. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
+          }
+        },
+        "variations": [
+          "Continuation extract: pupil textbook 1-10/adult 11-13 and workbook 1-6; shared introductions retained in opening pair rather than repeated. Annual completion/assessment/final four offline-AI pupil pages remain unfinished.",
+          "Ten is represented as ten distinct strips with two open binding lines, not an unverified single icon. Exact diagrams supplement actual safe strip bundling/unbundling and packing.",
+          "Quantity/naming/formation through 20 implements the authorised gradual annual progression; historical tens/ones objective activities extend to 20. No unsupported current-curriculum claim. All written work also works in an ordinary exercise book."
+        ],
         "findings": []
+      },
+      "format": "textbook-workbook",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf"
       }
     },
     {
       "id": "P1-06",
       "canonical": "production/p1.json",
       "teacher_id": "mr-aliyu",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
-        "findings": []
+        "status": "approved",
+        "author": "Codex /root/sol_executor",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "a2336ae04e4a5ad52f051dbb22a6f5c80ff03b54cdda4d459acd036de42a0093",
+        "stages": {
+          "S1": "Numbers-to-ninety-nine TB1: Mr Aliyu leads four seated children at large blackboard; game boxes need spoken labels forty-six,eighty-one,ninety-three, giving a practical number-label problem.",
+          "S2": "TB1: We will build, read and write numbers through ninety-nine. Legible white board hint Count the tens. Count the ones. uses taught tens/ones prerequisites.",
+          "S3": "TB2 prior14/ten/twenty and live formation; TB3-4 gradual21-25 then26-29; TB5-11 EACH successive decade with nine-loose-plus-one regrouping; TB12teen/tens contrast; TB13sequence29, guided50/51, places72/84, inclusive31-33 range before source tasks.",
+          "S4": "TB2-13/WB1-10: for EACH numeral in every band watch live build/name/formation, then build/say/air-write/copy together; mixed cards read together. Repeated short sessions and prerequisite re-teaching explicit; four children share and repair errors.",
+          "S5": "WB2-10 distributed independent build/count/read/recognise/covered dictation in each band. TB14-15/WB11-12 preserve all six original tasks Q1-Q6:46,eighty-one,40/41,9tens3ones,95-99,60versus6.",
+          "S6": "TB16/WB13: explain ten loose ones becoming a ten before looking back; choose21-99, build, draw/record places and whole name, with matching-model rubric.",
+          "S7": "TB16/WB13 concrete19to20 and29to30 support; TB20 fresh independent34/50, read17/70, coveredwrite32; contrast13/30 and place reversal support, usual communication/adapted writing accepted.",
+          "S8": "TB17: all four take turns to make/check actual46/81/93labels against4t6o/8t1o/9t3o and spoken names, count10insideeverybundle, then attach labels to three actual boxes before declaring job complete.",
+          "S9": "TB17/WB14/adultTB20: fresh count47,build36/82,read24/39/40/57/68/70/86/99,recognise53among35/53/50,fullycoveredwrite23/38/40/56/67/71/85/99. Delayed build58,count64,read31/49/50/62/79/80/95,recognise92,coveredwrite29/30/44/59/60/78/90/96."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Q1-Q6=46;eighty-one;40,41;9tens3ones;95..99;60onesversus6ones. EVERYband model/build/count/read/recognise/write plusprior/namecontrasts/sequence/recall/support/story/fresh/delayed solved. DirectPDF1559TB/485WBstrips,189bundleseach10. TB18-20 fullmap agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Numbers-to-ninety-nine TB1-21/WB1-14. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
+          }
+        },
+        "variations": [
+          "Continuation extract only:21textbookpages(17pupil/4adult)+14workbookpages. Annual assembly/revision/finalfourofflineAIpupilpages remain outside this pair. Earlier shared introductions used without repetition.",
+          "Full21-99range develops over repeated short live-model/guided sessions, eachnumber in eachband, with explicit distributed/fresh/delayed samples; no sample alone proves full-rangemastery.",
+          "S1-S9 span reusable textbook/write-in workbook; ordinaryexercisebook/realstrips/ordinarycards suffice offline; speaking/pointing/manipulation/adaptedwriting accepted."
+        ],
+        "findings": [
+          {
+            "severity": "required",
+            "reference": "P1-06 TB3,21caption:1 ones",
+            "correction": "Use singular1 one in the21model caption.",
+            "resolved": true,
+            "recheck": "Author corrected canonical data and rebuilt. Independently visually inspected finalTB3:1 one, correct2tens1one; all21/23/25 diagrams and response navigation unchanged, no clipping. Final exactPNGmatchesPDF."
+          },
+          {
+            "severity": "required",
+            "reference": "P1-06 adultTB18-19 undefined lo/hi and n//10,n%10 shorthand",
+            "correction": "Replace programming variables/operators with explicit per-band cards/recognition targets/dictation numbers and concrete plain-language model checking.",
+            "resolved": true,
+            "recheck": "Read every final list, independently solved all nine bands and checked WB task/answer correspondence. Personally visually inspected correctedTB18-19:legible explicit read/recognition lists,targetnumbers,plain-language tens/ones check; no overflow. Final exactPNGs matchPDFs."
+          },
+          {
+            "severity": "required",
+            "reference": "scripts/build_chapter_six.py:protected baseline path comparison",
+            "correction": "Normalize Windows baseline keys and prior registeredPDF paths before comparing protected literals; assert eight distinct registeredpriorPDFs and16actuallycheckedpaths. Document legacy sample regeneration exception.",
+            "resolved": true,
+            "recheck": "Independently inspected final normalizedguard and separatecount assertions; independently hashed explicit8registeredpriorPDFs+8protectedsources against before.json:all16match. Final build source hash matchesfreeze. validate_book.py118-122 independently confirms historicalsample regeneration; no broad ALLPDFbytesunchangedclaim remains."
+          },
+          {
+            "severity": "required",
+            "reference": "P1-06 TB21 artwork credit names artwork/PROVENANCE.json, which has no Mr Aliyu blackboard record.",
+            "correction": "Credit artwork/manifest.json and matching .provenance.json sidecar; narrow authorized canonical/PDF change, archive original and document preservation exception.",
+            "resolved": true,
+            "recheck": "Independently read actual Aliyu manifest/sidecar, visually opened correctedTB21; exactPNG=PDF. ArchivedoldTB SHAmatches untouchedbefore.json. Actualold/newPDF rendercomparison changesONLYTB21;other20TBpixels/all14WBpixels/wholeWBbytesunchanged. Canonicaldeepcomparison onlyauthorizedcreditstring. No layout/math regression."
+          }
+        ]
+      },
+      "format": "textbook-workbook",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf"
       }
     },
     {
       "id": "P1-07",
       "canonical": "production/p1.json",
       "teacher_id": "ms-binta",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
-        "findings": []
+        "status": "approved",
+        "author": "Codex /root/sol_executor",
+        "reviewer": "Codex /root/sol_reviewer (independent chapter-seven review session; all seven pairs)",
+        "reviewed_on": "2026-10-28",
+        "fingerprint": "3e1b9c1d6f6d2a6c7bce348a58f6bc8eed1f7f32f444223e172d97e349d27e30",
+        "stages": {
+          "S1": "TB1: Aishatu needs one paper display mat with equal drawing space for allfourfriends; Mrs Binta leads at largeblackboard with fourseatedchildren and Equal parts. Fair shares. hint.",
+          "S2": "TB1: share whole space into equal parts; concrete halves/quarters promise.",
+          "S3": "TB2 whole/half livefold;TB3 quarter perpendicularfolds;TB4diagonal;TB5rotation/fruit/notation onlyaftermeaning;TB6drawing/shading models.",
+          "S4": "TB2-6jointfold/match/turn/explain and WB1localguided half/quarter/unequal identification.",
+          "S5": "TB7/WB2-3: allsixoriginaltasks independentfirst, adequate workbook spaces, exercisebook alternative.",
+          "S6": "TB7Q6/WB3 explain ownshadedquarter, countparts and compareamount; TB10/WB6recall withoutlookingback.",
+          "S7": "TB8/WB4smallerrectanglehalf/squarequarter help, NEWtallrectangle/NEWsquare independentrecheck, alternatehalving investigation.",
+          "S8": "TB9/WB5: one squaremat/fourequalquarters/onedrawingperfriend; actualpaperdisplay resolves opening problem, noexcludedfriend.",
+          "S9": "TB10/WB6freshrotatedhalf/fruitquarter/unequalneither,newquarterconstruction and explanation;TB12nextsessionblankpaperfolds,diagonalsquare/unequalpaperorange delayedcheck."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. S1-S9 enacted and individuallyverified on stated pages:concrete prerequisite/model,guided,independent,recall,help,newrecheck,visibleresolution,fresh/delayed. Stage map independently rechecked; repeatedsurfaces countedonce."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Q1-Q6=2;4;equalarearectanglehalves;4equalsquareparts1shaded;No;4equalparts1shaded. Everyfold/compare/diagonal/rotated/fruit/notation/draw/guided/recall/support/newrecheck/extension/story/fresh/delayed solved inclalternatives. All24ACTUALPDFpolygons independently recomputed for containment,zerooverlap,wholecoverage,correctshading/ratios .5/.25/.3-.7;TB11-12 agrees. Everyadditional task/validalternative and adultanswer correspondence independentlyverified; complete coverage inREVIEW.md."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Read every pupil/adult instruction; unfamiliar actions modelledfirst; prerequisites taught; taskreferences and response locations clear. Unnumbered pupil tasks. Reusable textbook works with ordinaryexercisebook; localWBdiagrams/spaces,realmaterials,usualcommunication/adaptedwriting supported."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Correct Binta/Aliyu alternation and names; eachopening has leadteacher atlargeblackboard,fourseatedchildren,legiblehighcontrasthint. Character clothes/hair/bluechair matchregistry; preferences naturally affect actions,errors/successes/helps rotate; allfour meaningfulroles."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Opening practicalproblem and final actualaction agree; allobjects/quantities conserved or explicitlyseparated demonstrationmaterials. Everytask answerable. Storyresolutions enacted before dialogueclosure. DecorativeAIart never suppliesassessedcounts/areas."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Everyfinal page personally opened; all135finalPNGs equal exactPDFdecodedRGB at1.15x, all12PDFs A4/embeddedfonts/textbounds pass. White/dark fullcolour,clear readingorder,boardlegible,adequateresponse/drawingspaces. No clipping/overlap/missingdiagram. Ch6TB21onlypixelchange vsarchivedoldTB; wholeWB unchanged."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Independent chapter-seven review,28October2026,session /root/sol_reviewer. Personally visually opened EVERY135unique final exact pages across12PDFs plus supersededP1-06TB21; everytask/example/diagram/answer independently solved. No inheritedapproval. Full coverage/recalculations/finalhashes in output/chapter-7/REVIEW.md. Equal-halves-and-quarters TB1-13/WB1-6. Complete source/additional/model/guided/support/story/fresh/delayedanswer map checked; validalternatives,misconceptions,concreteinterventions,newindependentrechecks and delayedobservations. Glossary,historicalmapping,actualmanifest/sidecarprovenance,fontcredits,Primary2preview and limitations verified. AnnualAI/assembly,currentalignment/adoption,educator/pupiltrials,accessibilitycertification,physicalproof/printerapproval pending."
+          }
+        },
+        "variations": [
+          "Continuation extract only:13textbookpages(10pupil/3adult) plus6workbookpages; annualassembly/revision/finalfourofflineAIpupilpages remain annualwork.",
+          "Concrete matching/folding demonstrates equalarea; adultnotes acknowledge different-shaped equalareapieces and validalternativepartitions. Symbolsread aftermeaning; symbolwritingnotrequired.",
+          "Ordinaryexercisebook/scrappaper work offline; pointing/speaking/adultscribing or holdingpaper accepted. No learner outcomes orcurrentcurriculum/adoption verified."
+        ],
+        "findings": [
+          {
+            "severity": "required",
+            "reference": "P1-07 draftTB10 three diagram labels collapsed below left shape;root observation.",
+            "correction": "Centre Left whole,Middle whole,Right whole beneath their respective shapes.",
+            "resolved": true,
+            "recheck": "Personally opened finalexactTB10:three labels separatelycentred,nocollision,correct half/quarter/neither and localdiagrams. ExactRGB PNG/PDF equality and allgeometrypassed."
+          },
+          {
+            "severity": "required",
+            "reference": "P1-07 draftTB13 wrong artwork/PROVENANCE.json board provenance;root observation.",
+            "correction": "Credit actual artwork/manifest.json and matching .provenance.json sidecar.",
+            "resolved": true,
+            "recheck": "Personally read actualBinta manifest/sidecar and individuallyviewed finalTB13; correct readablecredit,nooverflow. Final exactPNG=PDF;source/artifactfreezehashesmatch."
+          }
+        ]
+      },
+      "format": "textbook-workbook",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf"
       }
     },
     {

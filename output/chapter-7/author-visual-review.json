@@ -1,0 +1,108 @@
+{
+  "author": "/root/sol_executor",
+  "status": "author_check_only_not_independent_approval",
+  "all_pages": [
+    {
+      "path": "output\\chapter-7\\textbook\\page-01.png",
+      "sha256": "6c4b18d9cb2910fcb1610ad29269d69524b0a93a4ff79004c04844b223d5ba26",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-02.png",
+      "sha256": "546f5dc07279170575f5fae81161fe9001bce17a338be9c00ce5f68abc96db79",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-03.png",
+      "sha256": "6cfb46bfc609610f8616c1ef5e24690bf96b5602d813372bcb2a41b848bfe1a8",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-04.png",
+      "sha256": "725ceddc97fec70e60dbf47c9e3696c2ad31cde324528519ade597e217dae444",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-05.png",
+      "sha256": "7e794a438741990402ca323d76b09b14c450290a41f85e382574f1e74cb2f6c2",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-06.png",
+      "sha256": "df8d8e2cc2501cf8c57dd47f610f9b7f6f75b717ad4986d4a84c7cf2114efef7",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-07.png",
+      "sha256": "d5af947f23e5bf800ebdfc5fb70bddd0269d43f90d350255da3cc674ded84aac",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-08.png",
+      "sha256": "486f7d374ee1b155f866aebcc475ed87a293bfce2bef80e51b51774ff6eaae4f",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-09.png",
+      "sha256": "eaf3beead80b0055c4aba3d458db0f09fabf5b99c67f17d7312d79876b5bc832",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-10.png",
+      "sha256": "2fd309b75c637c4f46bf2f9902c00203f1b13b255350f590fc1a1c671e130f15",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-11.png",
+      "sha256": "3c0d8498d7ece7258f1537e87a8085ec946f3f1a0307602d729bf80866545f6b",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-12.png",
+      "sha256": "1e828608483903b74e6881c4b49e6f52f5b99f12b7b763b35bc27d249919d807",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\textbook\\page-13.png",
+      "sha256": "b651e7964562fe7fffc55198e518990d35aaf3e95c119dead17619bccd194d8d",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-01.png",
+      "sha256": "c3ad9af4ec2b9078f733f597793037e9ec4a0f0379c52552f055e3a97ffb9683",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-02.png",
+      "sha256": "9e8565f3bc9c21b82dab573ffe092d15ac2a1bacfb9a8b9a0850b2a60c9d9538",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-03.png",
+      "sha256": "cd0e8a0c0f4c73c250b1ffbf0671d766d59bf0f88c8a16bcc974ddb73ab8af94",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-04.png",
+      "sha256": "1e03898007339093a679e53e4fd70b7eac07e76b45831979edae462e7a312f91",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-05.png",
+      "sha256": "99f9e56b02f9a4a1a3640037553a08bca2492fae2213f07be28c5b46f71d3b67",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    },
+    {
+      "path": "output\\chapter-7\\workbook\\page-06.png",
+      "sha256": "a93a3480ab99f1e479ea2d7bdea664b8043c3bf1c11db57adbd537ec5ad6b939",
+      "observed": "A4 white; legible, no clipping/overlap; correct diagram and response region"
+    }
+  ],
+  "inspection": "Contact sheets1-5 examined all19pages; final changed TB9,10,13/WB2,3 viewed individually; P1-06TB21 viewed individually after narrow correction",
+  "resolved": [
+    "TB10 collapsed labels now three separate positioned labels",
+    "TB9 four actual line drawings and names inside equal quarters",
+    "WB Q1-Q6 order restored",
+    "TB13 and P1-06TB21 actual board manifest/sidecar provenance credited"
+  ]
+}

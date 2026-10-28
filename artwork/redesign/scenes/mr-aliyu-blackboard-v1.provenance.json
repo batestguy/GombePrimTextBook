@@ -1,0 +1,19 @@
+{
+  "id": "mr-aliyu-blackboard-v1",
+  "asset": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-20",
+  "type": "identity-preserve",
+  "authorization": "User requested Mr Aliyu have his own moment in front of a blackboard like Mrs Binta.",
+  "references": [
+    "artwork/redesign/scenes/classroom-welcome-v7.png",
+    "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+    "artwork/redesign/references/lead-introductions-v7.png"
+  ],
+  "prompt": "Edit the first reference classroom illustration for a full-colour Primary One mathematics textbook in Gombe, Nigeria. Preserve the warm polished children's gouache style, same landscape 3:2 composition, sunlight/windows, desks and exactly four children seated facing the teacher/board. Replace Mrs Binta entirely with Mr Aliyu, whose exact face, short neat beard, cream native kaftan with green embroidered neckline, matching cream trousers, green/cream patterned Hausa cap, blue book and brown shoes are in reference 2. He stands prominently left in front of the board, smiling warmly, holding the blue book in his left hand and gesturing to the board with his right, clearly the only teacher and lesson leader. No female teacher, no fifth child. Keep the four identities from reference 3: Aishatu left mustard hijab and teal dress; Grace left-centre clay/orange blouse and green skirt, neat ALL-BACK cornrow plaits close to scalp with tucked ends (no hanging braids); Adamu right-centre blue shirt and clay shorts, cropped hair and raised hand; John far right green shirt ochre trousers, completely smooth shaved scalp NO visible hair, in his blue manual wheelchair at a reachable desk. Keep wheelchair clear and entire relevant chair structure believable. Replace the large whiteboard with a very large uniformly dark charcoal-black chalk BLACKBOARD with a warm wooden frame; leave the whole board completely BLANK with a clean flat charcoal surface, NO writing, NO symbols, NO letters, NO numbers, NO drawings. Preserve unobstructed empty board area in right upper half for deterministic white typeset instructions. No leaf/counter diagrams, no game pieces, no new decorative objects resembling mathematics. No text, no labels, no watermark anywhere. Output landscape 1536x1024 illustration.",
+  "transparent_background": false,
+  "inspection": "Author viewed full generated scene: Mr Aliyu alone leads at a dark blank blackboard in cream/green native clothing and patterned cap. All four children seated toward board; Aishatu's hijab, Grace's all-back plaits and John's smooth scalp/blue wheelchair retained. Exact white board text is typeset separately in canonical lesson data.",
+  "quantities": "Scene is narrative artwork only. The assessed three leaves and five tops remain deterministic vector objects below the scene; no counts are inferred from generated artwork.",
+  "status": "chapter-revision-for-independent-review",
+  "limits": "Local cultural/educational review and physical print proof remain pending."
+}

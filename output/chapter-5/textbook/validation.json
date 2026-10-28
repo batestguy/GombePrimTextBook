@@ -1,0 +1,1690 @@
+{
+  "pages": 13,
+  "sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+  "page_manifest": [
+    {
+      "slug": "c5-story",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Pack our path markers",
+      "subtitle": "We will make tens and ones, then count, read and write through twenty.",
+      "task_ids": [],
+      "adult": false,
+      "pre_numerals": true
+    },
+    {
+      "slug": "c5-ten",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Ten ones make one ten",
+      "subtitle": "Watch Mrs Binta. Count each paper strip once.",
+      "task_ids": [
+        "P1-05-TEN-MODEL",
+        "P1-05-GUIDED-BUNDLE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-place",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Tens and ones have places",
+      "subtitle": "Ones are also called units. A bundle of ten is one ten.",
+      "task_ids": [
+        "P1-05-PLACE-MODEL",
+        "P1-05-GUIDED-13"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-teens-a",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Eleven to fifteen",
+      "subtitle": "Mrs Binta models each number. Build it together before moving on.",
+      "task_ids": [
+        "P1-05-MODEL-11",
+        "P1-05-MODEL-12",
+        "P1-05-MODEL-13",
+        "P1-05-MODEL-14",
+        "P1-05-MODEL-15"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-teens-b",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Sixteen to twenty",
+      "subtitle": "Mrs Binta models each number. Build it together before moving on.",
+      "task_ids": [
+        "P1-05-MODEL-16",
+        "P1-05-MODEL-17",
+        "P1-05-MODEL-18",
+        "P1-05-MODEL-19",
+        "P1-05-MODEL-20"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-read-write",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Read it. Write it.",
+      "subtitle": "Watch Mrs Binta form the numerals before you try.",
+      "task_ids": [
+        "P1-05-FORM-MODEL",
+        "P1-05-GUIDED-READ"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-source-a",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Build and record",
+      "subtitle": "Try on your own. Write in your workbook or an exercise book.",
+      "task_ids": [
+        "P1-05-Q1",
+        "P1-05-Q2",
+        "P1-05-Q3"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-source-b",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Twenty, ten and one",
+      "subtitle": "Use your workbook or exercise book. Use real bundles too.",
+      "task_ids": [
+        "P1-05-Q4",
+        "P1-05-Q5",
+        "P1-05-Q6"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-recall",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Remember, explain and check",
+      "subtitle": "Remember what Mrs Binta showed before looking back.",
+      "task_ids": [
+        "P1-05-RECALL",
+        "P1-05-CHOOSE-BUILD",
+        "P1-05-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-ending",
+      "kicker": "Chapter five / A bundle of ten",
+      "title": "Our marker pack is ready",
+      "subtitle": "Bring back all twenty real game markers. Pack and check them before closing the box.",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-guide",
+      "kicker": "For the teacher / A bundle of ten",
+      "title": "Teach, notice and return",
+      "subtitle": "Adult guidance / Use several short sessions. Read instructions aloud.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-answers",
+      "kicker": "For the teacher / A bundle of ten",
+      "title": "Answers and fresh checks",
+      "subtitle": "Adult task map / TB = this extract; WB = its paired workbook.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c5-notes",
+      "kicker": "For the teacher / A bundle of ten",
+      "title": "Words, evidence and credits",
+      "subtitle": "Chapter five continuation / Not a completed annual book.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-05-TEN-MODEL": [
+      2
+    ],
+    "P1-05-GUIDED-BUNDLE": [
+      2
+    ],
+    "P1-05-PLACE-MODEL": [
+      3
+    ],
+    "P1-05-GUIDED-13": [
+      3
+    ],
+    "P1-05-MODEL-11": [
+      4
+    ],
+    "P1-05-MODEL-12": [
+      4
+    ],
+    "P1-05-MODEL-13": [
+      4
+    ],
+    "P1-05-MODEL-14": [
+      4
+    ],
+    "P1-05-MODEL-15": [
+      4
+    ],
+    "P1-05-MODEL-16": [
+      5
+    ],
+    "P1-05-MODEL-17": [
+      5
+    ],
+    "P1-05-MODEL-18": [
+      5
+    ],
+    "P1-05-MODEL-19": [
+      5
+    ],
+    "P1-05-MODEL-20": [
+      5
+    ],
+    "P1-05-FORM-MODEL": [
+      6
+    ],
+    "P1-05-GUIDED-READ": [
+      6
+    ],
+    "P1-05-Q1": [
+      7
+    ],
+    "P1-05-Q2": [
+      7
+    ],
+    "P1-05-Q3": [
+      7
+    ],
+    "P1-05-Q4": [
+      8
+    ],
+    "P1-05-Q5": [
+      8
+    ],
+    "P1-05-Q6": [
+      8
+    ],
+    "P1-05-RECALL": [
+      9
+    ],
+    "P1-05-CHOOSE-BUILD": [
+      9
+    ],
+    "P1-05-SUPPORT": [
+      9
+    ],
+    "P1-05-ENDING": [
+      10
+    ],
+    "P1-05-FRESH-BUILD": [
+      10
+    ],
+    "P1-05-FRESH-READ": [
+      10
+    ],
+    "P1-05-FRESH-RECOGNISE": [
+      10
+    ],
+    "P1-05-FRESH-WRITE": [
+      10
+    ]
+  },
+  "objects": [
+    {
+      "id": "c5-ten-loose",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          105,
+          259
+        ],
+        [
+          147,
+          259
+        ],
+        [
+          189,
+          259
+        ],
+        [
+          231,
+          259
+        ],
+        [
+          273,
+          259
+        ],
+        [
+          315,
+          259
+        ],
+        [
+          357,
+          259
+        ],
+        [
+          399,
+          259
+        ],
+        [
+          441,
+          259
+        ],
+        [
+          483,
+          259
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ten-bundle",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          531
+        ],
+        [
+          163.1,
+          531
+        ],
+        [
+          171.2,
+          531
+        ],
+        [
+          179.3,
+          531
+        ],
+        [
+          187.4,
+          531
+        ],
+        [
+          195.5,
+          531
+        ],
+        [
+          203.6,
+          531
+        ],
+        [
+          211.7,
+          531
+        ],
+        [
+          219.8,
+          531
+        ],
+        [
+          227.9,
+          531
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-fourteen-ten",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          120.0,
+          272
+        ],
+        [
+          126.6,
+          272
+        ],
+        [
+          133.2,
+          272
+        ],
+        [
+          139.8,
+          272
+        ],
+        [
+          146.4,
+          272
+        ],
+        [
+          153.0,
+          272
+        ],
+        [
+          159.6,
+          272
+        ],
+        [
+          166.2,
+          272
+        ],
+        [
+          172.8,
+          272
+        ],
+        [
+          179.4,
+          272
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-fourteen-ones",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          330,
+          272
+        ],
+        [
+          370,
+          272
+        ],
+        [
+          410,
+          272
+        ],
+        [
+          450,
+          272
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "c5-ladder-11-ten-a",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          185
+        ],
+        [
+          159.8,
+          185
+        ],
+        [
+          164.6,
+          185
+        ],
+        [
+          169.4,
+          185
+        ],
+        [
+          174.2,
+          185
+        ],
+        [
+          179.0,
+          185
+        ],
+        [
+          183.8,
+          185
+        ],
+        [
+          188.6,
+          185
+        ],
+        [
+          193.4,
+          185
+        ],
+        [
+          198.2,
+          185
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-11-ones",
+      "page": 4,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          185
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c5-ladder-12-ten-a",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          293
+        ],
+        [
+          159.8,
+          293
+        ],
+        [
+          164.6,
+          293
+        ],
+        [
+          169.4,
+          293
+        ],
+        [
+          174.2,
+          293
+        ],
+        [
+          179.0,
+          293
+        ],
+        [
+          183.8,
+          293
+        ],
+        [
+          188.6,
+          293
+        ],
+        [
+          193.4,
+          293
+        ],
+        [
+          198.2,
+          293
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-12-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          293
+        ],
+        [
+          333,
+          293
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "c5-ladder-13-ten-a",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          401
+        ],
+        [
+          159.8,
+          401
+        ],
+        [
+          164.6,
+          401
+        ],
+        [
+          169.4,
+          401
+        ],
+        [
+          174.2,
+          401
+        ],
+        [
+          179.0,
+          401
+        ],
+        [
+          183.8,
+          401
+        ],
+        [
+          188.6,
+          401
+        ],
+        [
+          193.4,
+          401
+        ],
+        [
+          198.2,
+          401
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-13-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          401
+        ],
+        [
+          333,
+          401
+        ],
+        [
+          356,
+          401
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "c5-ladder-14-ten-a",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          509
+        ],
+        [
+          159.8,
+          509
+        ],
+        [
+          164.6,
+          509
+        ],
+        [
+          169.4,
+          509
+        ],
+        [
+          174.2,
+          509
+        ],
+        [
+          179.0,
+          509
+        ],
+        [
+          183.8,
+          509
+        ],
+        [
+          188.6,
+          509
+        ],
+        [
+          193.4,
+          509
+        ],
+        [
+          198.2,
+          509
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-14-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          509
+        ],
+        [
+          333,
+          509
+        ],
+        [
+          356,
+          509
+        ],
+        [
+          379,
+          509
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "c5-ladder-15-ten-a",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          617
+        ],
+        [
+          159.8,
+          617
+        ],
+        [
+          164.6,
+          617
+        ],
+        [
+          169.4,
+          617
+        ],
+        [
+          174.2,
+          617
+        ],
+        [
+          179.0,
+          617
+        ],
+        [
+          183.8,
+          617
+        ],
+        [
+          188.6,
+          617
+        ],
+        [
+          193.4,
+          617
+        ],
+        [
+          198.2,
+          617
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-15-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          617
+        ],
+        [
+          333,
+          617
+        ],
+        [
+          356,
+          617
+        ],
+        [
+          379,
+          617
+        ],
+        [
+          402,
+          617
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "c5-ladder-16-ten-a",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          185
+        ],
+        [
+          159.8,
+          185
+        ],
+        [
+          164.6,
+          185
+        ],
+        [
+          169.4,
+          185
+        ],
+        [
+          174.2,
+          185
+        ],
+        [
+          179.0,
+          185
+        ],
+        [
+          183.8,
+          185
+        ],
+        [
+          188.6,
+          185
+        ],
+        [
+          193.4,
+          185
+        ],
+        [
+          198.2,
+          185
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-16-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          185
+        ],
+        [
+          333,
+          185
+        ],
+        [
+          356,
+          185
+        ],
+        [
+          379,
+          185
+        ],
+        [
+          402,
+          185
+        ],
+        [
+          425,
+          185
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "c5-ladder-17-ten-a",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          293
+        ],
+        [
+          159.8,
+          293
+        ],
+        [
+          164.6,
+          293
+        ],
+        [
+          169.4,
+          293
+        ],
+        [
+          174.2,
+          293
+        ],
+        [
+          179.0,
+          293
+        ],
+        [
+          183.8,
+          293
+        ],
+        [
+          188.6,
+          293
+        ],
+        [
+          193.4,
+          293
+        ],
+        [
+          198.2,
+          293
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-17-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          293
+        ],
+        [
+          333,
+          293
+        ],
+        [
+          356,
+          293
+        ],
+        [
+          379,
+          293
+        ],
+        [
+          402,
+          293
+        ],
+        [
+          425,
+          293
+        ],
+        [
+          448,
+          293
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "c5-ladder-18-ten-a",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          401
+        ],
+        [
+          159.8,
+          401
+        ],
+        [
+          164.6,
+          401
+        ],
+        [
+          169.4,
+          401
+        ],
+        [
+          174.2,
+          401
+        ],
+        [
+          179.0,
+          401
+        ],
+        [
+          183.8,
+          401
+        ],
+        [
+          188.6,
+          401
+        ],
+        [
+          193.4,
+          401
+        ],
+        [
+          198.2,
+          401
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-18-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          401
+        ],
+        [
+          333,
+          401
+        ],
+        [
+          356,
+          401
+        ],
+        [
+          379,
+          401
+        ],
+        [
+          402,
+          401
+        ],
+        [
+          425,
+          401
+        ],
+        [
+          448,
+          401
+        ],
+        [
+          471,
+          401
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "c5-ladder-19-ten-a",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          509
+        ],
+        [
+          159.8,
+          509
+        ],
+        [
+          164.6,
+          509
+        ],
+        [
+          169.4,
+          509
+        ],
+        [
+          174.2,
+          509
+        ],
+        [
+          179.0,
+          509
+        ],
+        [
+          183.8,
+          509
+        ],
+        [
+          188.6,
+          509
+        ],
+        [
+          193.4,
+          509
+        ],
+        [
+          198.2,
+          509
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-19-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          310,
+          509
+        ],
+        [
+          333,
+          509
+        ],
+        [
+          356,
+          509
+        ],
+        [
+          379,
+          509
+        ],
+        [
+          402,
+          509
+        ],
+        [
+          425,
+          509
+        ],
+        [
+          448,
+          509
+        ],
+        [
+          471,
+          509
+        ],
+        [
+          494,
+          509
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "c5-ladder-20-ten-a",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          155.0,
+          617
+        ],
+        [
+          159.8,
+          617
+        ],
+        [
+          164.6,
+          617
+        ],
+        [
+          169.4,
+          617
+        ],
+        [
+          174.2,
+          617
+        ],
+        [
+          179.0,
+          617
+        ],
+        [
+          183.8,
+          617
+        ],
+        [
+          188.6,
+          617
+        ],
+        [
+          193.4,
+          617
+        ],
+        [
+          198.2,
+          617
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ladder-20-ten-b",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          230.0,
+          617
+        ],
+        [
+          234.8,
+          617
+        ],
+        [
+          239.6,
+          617
+        ],
+        [
+          244.4,
+          617
+        ],
+        [
+          249.2,
+          617
+        ],
+        [
+          254.0,
+          617
+        ],
+        [
+          258.8,
+          617
+        ],
+        [
+          263.6,
+          617
+        ],
+        [
+          268.4,
+          617
+        ],
+        [
+          273.2,
+          617
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-Q1-ten",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          130,
+          263
+        ],
+        [
+          136,
+          263
+        ],
+        [
+          142,
+          263
+        ],
+        [
+          148,
+          263
+        ],
+        [
+          154,
+          263
+        ],
+        [
+          160,
+          263
+        ],
+        [
+          166,
+          263
+        ],
+        [
+          172,
+          263
+        ],
+        [
+          178,
+          263
+        ],
+        [
+          184,
+          263
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-Q1-ones",
+      "page": 7,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          345,
+          263
+        ],
+        [
+          395,
+          263
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "c5-Q6-ten",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          145.0,
+          510
+        ],
+        [
+          152.5,
+          510
+        ],
+        [
+          160.0,
+          510
+        ],
+        [
+          167.5,
+          510
+        ],
+        [
+          175.0,
+          510
+        ],
+        [
+          182.5,
+          510
+        ],
+        [
+          190.0,
+          510
+        ],
+        [
+          197.5,
+          510
+        ],
+        [
+          205.0,
+          510
+        ],
+        [
+          212.5,
+          510
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-Q6-one",
+      "page": 8,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          415,
+          510
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c5-ending-ten-a",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          165.0,
+          324
+        ],
+        [
+          173.1,
+          324
+        ],
+        [
+          181.2,
+          324
+        ],
+        [
+          189.3,
+          324
+        ],
+        [
+          197.4,
+          324
+        ],
+        [
+          205.5,
+          324
+        ],
+        [
+          213.6,
+          324
+        ],
+        [
+          221.7,
+          324
+        ],
+        [
+          229.8,
+          324
+        ],
+        [
+          237.9,
+          324
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "c5-ending-ten-b",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          350.0,
+          324
+        ],
+        [
+          358.1,
+          324
+        ],
+        [
+          366.2,
+          324
+        ],
+        [
+          374.3,
+          324
+        ],
+        [
+          382.4,
+          324
+        ],
+        [
+          390.5,
+          324
+        ],
+        [
+          398.6,
+          324
+        ],
+        [
+          406.7,
+          324
+        ],
+        [
+          414.8,
+          324
+        ],
+        [
+          422.9,
+          324
+        ]
+      ],
+      "count": 10
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

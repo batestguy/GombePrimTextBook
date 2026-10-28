@@ -1,0 +1,153 @@
+{
+  "pages": 4,
+  "sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+  "page_manifest": [
+    {
+      "slug": "c3-wb-empty",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Empty and not empty",
+      "subtitle": "Read aloud. Use the paired textbook Your turn with zero, or work here.",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-GUIDED"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-wb-make",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Make and order zero",
+      "subtitle": "Watch an adult write zero first. Use Say it. Make it. Write it. in the textbook for the direction.",
+      "task_ids": [
+        "P1-03-Q3",
+        "P1-03-FORM-PRACTICE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-wb-explain",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Put away and explain",
+      "subtitle": "Remember the lesson before looking back. Use large, safe real counters.",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-wb-fresh",
+      "kicker": "Chapter three / Zero means none",
+      "title": "A fresh zero try",
+      "subtitle": "Work on your own. An adult prepares fresh trays and cards.",
+      "task_ids": [
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-WRITE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-03-Q1": [
+      1
+    ],
+    "P1-03-Q2": [
+      1
+    ],
+    "P1-03-GUIDED": [
+      1
+    ],
+    "P1-03-Q3": [
+      2
+    ],
+    "P1-03-FORM-PRACTICE": [
+      2
+    ],
+    "P1-03-Q4": [
+      3
+    ],
+    "P1-03-Q5": [
+      3
+    ],
+    "P1-03-Q6": [
+      3
+    ],
+    "P1-03-RECALL": [
+      3
+    ],
+    "P1-03-SUPPORT": [
+      3
+    ],
+    "P1-03-FRESH-EMPTY": [
+      4
+    ],
+    "P1-03-FRESH-RECOGNISE": [
+      4
+    ],
+    "P1-03-FRESH-READ": [
+      4
+    ],
+    "P1-03-FRESH-WRITE": [
+      4
+    ]
+  },
+  "objects": [
+    {
+      "id": "c3-wb-example-one",
+      "page": 1,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          170,
+          269
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c3-wb-Q1-empty",
+      "page": 1,
+      "kinds": [],
+      "points": [],
+      "count": 0
+    },
+    {
+      "id": "c3-wb-Q4-three",
+      "page": 3,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          185,
+          285
+        ],
+        [
+          290,
+          285
+        ],
+        [
+          395,
+          285
+        ]
+      ],
+      "count": 3
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

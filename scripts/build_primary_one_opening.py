@@ -25,12 +25,13 @@ def read(path):
 
 
 class Renderer:
-    def __init__(self, role, pages, edition, lessons):
+    def __init__(self, role, pages, edition, lessons, *, output_dir=None, files=None, label='Opening'):
         self.role, self.pages, self.edition, self.lessons = role, pages, edition, lessons
-        self.out = OUT / role
+        self.files, self.label = files if files is not None else FILES, label
+        self.out = (output_dir if output_dir is not None else OUT) / role
         self.out.mkdir(parents=True, exist_ok=True)
-        self.c = canvas.Canvas(str(FILES[role]), pagesize=(W, H), initialFontName='Book', invariant=1)
-        self.c.setTitle(f'Maths with Friends | Primary One | Opening {role}')
+        self.c = canvas.Canvas(str(self.files[role]), pagesize=(W, H), initialFontName='Book', invariant=1)
+        self.c.setTitle(f'Maths with Friends | Primary One | {self.label} {role}')
         self.c.setAuthor('Maths with Friends project')
         self.ledger, self.tasks, self.assets = [], {}, {}
 
@@ -42,7 +43,8 @@ class Renderer:
     def para(self, el):
         size = el.get('size', 14)
         p = Paragraph(el['text'], ParagraphStyle('p', fontName='Book', fontSize=size,
-                      leading=el.get('leading', size*1.38), textColor=INK))
+                      leading=el.get('leading', size*1.38),
+                      textColor=colors.HexColor(el['color']) if 'color' in el else INK))
         x, top, width = el.get('x', M), el['top'], el.get('width', CW)
         _, height = p.wrap(width, H)
         assert top+height < H-48, (self.role, self.c.getPageNumber(), el['text'], top+height)
@@ -145,7 +147,7 @@ class Renderer:
             size = min(27, (CW/c.stringWidth(page['title'], 'BookBold', 27))*27)
             self.text(page['title'], M, 80, size, True, GREEN)
             self.para(dict(text=page['subtitle'], top=123, size=11))
-            self.text('Opening chapters / Educational review edition' if page.get('adult') else
+            self.text(self.edition.get('review_footer', self.label+' chapters / Educational review edition') if page.get('adult') else
                       ('Read together. Write in this workbook.' if self.role == 'workbook' else
                        'Read together. Keep this textbook reusable.'), M, H-28, 8, False, GREEN)
             for task_id in page.get('task_ids', []):
@@ -159,14 +161,14 @@ class Renderer:
         return self.verify()
 
     def verify(self):
-        doc = fitz.open(FILES[self.role])
+        doc = fitz.open(self.files[self.role])
         text = []
         for n, pg in enumerate(doc, 1):
             words = pg.get_text()
             assert abs(pg.rect.width-W) < .1 and abs(pg.rect.height-H) < .1
             assert '\ufffd' not in words
             if not self.pages[n-1].get('adult'):
-                assert not re.search(r'P1-0[12]-Q|^\s*\d+[.)]\s', words, re.M)
+                assert not re.search(r'P1-\d+-Q|^\s*\d+[.)]\s', words, re.M)
             if self.role == 'textbook' and self.pages[n-1].get('pre_numerals'):
                 assert not re.search(r'\d', words), (n, 'Premature numeral furniture')
             for block in pg.get_text('dict')['blocks']:
@@ -185,7 +187,7 @@ class Renderer:
         assert len(doc) == len(self.pages)
         assert len({d['id'] for d in self.ledger}) == len(self.ledger)
         (self.out/'extracted-text.txt').write_text('\n\n'.join(text), encoding='utf-8')
-        report = dict(pages=len(doc), sha256=hashlib.sha256(FILES[self.role].read_bytes()).hexdigest(),
+        report = dict(pages=len(doc), sha256=hashlib.sha256(self.files[self.role].read_bytes()).hexdigest(),
                       page_manifest=[{k: v for k, v in p.items() if k != 'elements'} for p in self.pages],
                       task_pages=self.tasks, objects=self.ledger, assets=self.assets,
                       automated_status='passed_independent_visual_and_every_task_review_required')

@@ -1,0 +1,18 @@
+{
+  "other_18_lessons_unchanged": true,
+  "all_source_prompts_answers_and_order_unchanged": true,
+  "protected_brief_unchanged": true,
+  "opening_pair_unchanged": true,
+  "default_renderer_regression": {
+    "textbook": {
+      "pages": 22,
+      "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "byte_identical": true
+    },
+    "workbook": {
+      "pages": 10,
+      "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "byte_identical": true
+    }
+  }
+}

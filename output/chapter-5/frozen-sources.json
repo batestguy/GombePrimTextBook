@@ -1,0 +1,10 @@
+{
+  "production/p1.json": "a0cc04cb341da05b2d1cad70038ef0ec08149a3d7f0e9b9684a7d0a28f79b642",
+  "production/lessons.json": "d53748ebb6635cfa6157369cdf881ef60c969842278a3cda8fb76a258de1b8d2",
+  "production/complete-manuscript.txt": "36f1458704f45bb2dcd964c178a6cbb386d0e726c2c6c9f10f56cad62f4233b8",
+  "scripts/build_primary_one_opening.py": "ea5b2a7355c084121386c6432b3bbd0095171c681f69f7e8d0935ef4531bf996",
+  "scripts/build_chapter_three.py": "3f5c8f757456cbb5ba444b111ce55ab8893188a3e38af76d911b12fc73dd8670",
+  "scripts/build_chapter_four.py": "42a7becce68705828c1870058fad201edfe81f89267df37f014680b79f4813f5",
+  "scripts/build_chapter_five.py": "998b88a80e186bbd02f053e4e26c78813973800635e708bea4718027828bf177",
+  "book.typ": "9824ba984b0e8d4a300e78b1e9be9cbbcf9431f364635f3b7ea71adadf5f8275"
+}

@@ -1,6 +1,6 @@
 {
   "pages": 22,
-  "sha256": "5e1f0f381420e9cd9247fbca3c65e20ce82f7eac41d0157a00d45df13c6c84ff",
+  "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
   "page_manifest": [
     {
       "slug": "welcome",
@@ -652,35 +652,35 @@
       "points": [
         [
           95,
-          552
+          655
         ],
         [
           185,
-          550
+          655
         ],
         [
           287,
-          550
+          655
         ],
         [
           390,
-          552
+          655
         ],
         [
           485,
-          550
+          655
         ],
         [
           140,
-          615
+          700
         ],
         [
           285,
-          615
+          700
         ],
         [
           435,
-          615
+          700
         ]
       ],
       "count": 8
@@ -1249,7 +1249,8 @@
     "artwork/redesign/references/lead-introductions-v7.png": "19a1765a734275cf04d636900436302e3cddf8afbd74def0b1997396700d6412",
     "artwork/redesign/teachers/ms-binta-v5.png": "17e6fb607acf8b9857d29dc06cd2e2bd3c5b212d7975147f770801aa7313b2fe",
     "artwork/redesign/teachers/mr-aliyu-white-v6.png": "152b753a4592b82fc356d473917f5cc8c9a40177c640a67d291446b1ada23b77",
-    "artwork/redesign/scenes/classroom-welcome-v7.png": "6c099cc627c0d5b00a4b672e1ec273c118e715489112e50295515e82f6ddd637"
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980",
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
   },
   "automated_status": "passed_independent_visual_and_every_task_review_required"
 }

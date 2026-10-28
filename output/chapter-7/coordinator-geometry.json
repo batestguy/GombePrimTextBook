@@ -1,0 +1,289 @@
+{
+  "status": "pass",
+  "source_sha256": "cd647513fe4ec4218a3ef8496aeba4de168a3b2141b9967ebebdee70b9358862",
+  "checks": "Independent polygon clipping: complete area, containment, no pairwise interior overlap, equality/non-equality, shaded indices",
+  "diagrams": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "id": "tb-whole",
+      "ratios": [
+        1.0
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "id": "tb-half",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "id": "tb-quarter-half",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "id": "tb-quarter",
+      "ratios": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "id": "tb-unequal",
+      "ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "id": "tb-equal",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "id": "tb-diagonal",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "id": "tb-rotated-model",
+      "ratios": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "id": "tb-fruit-half",
+      "ratios": [
+        0.5000000000000001,
+        0.5
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "id": "tb-draw-half",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "id": "tb-draw-quarter",
+      "ratios": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "id": "tb-help",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        1
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 9,
+      "id": "tb-story-resolution",
+      "ratios": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "shade": []
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "id": "tb-fresh-a",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        1
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "id": "tb-fresh-b",
+      "ratios": [
+        0.25000000000000006,
+        0.25000000000000006,
+        0.25000000000000006,
+        0.24999999999999997
+      ],
+      "shade": [
+        3
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "id": "tb-fresh-c",
+      "ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shade": [
+        0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "id": "wb-guided-half",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        1
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "id": "wb-guided-quarter",
+      "ratios": [
+        0.25000000000000006,
+        0.25000000000000006,
+        0.25000000000000006,
+        0.24999999999999997
+      ],
+      "shade": [
+        2
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "id": "wb-compare-unequal",
+      "ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shade": []
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "id": "wb-compare-equal",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": []
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "id": "wb-story-blank",
+      "ratios": [
+        1.0
+      ],
+      "shade": []
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "id": "wb-fresh-a",
+      "ratios": [
+        0.5,
+        0.5
+      ],
+      "shade": [
+        1
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "id": "wb-fresh-b",
+      "ratios": [
+        0.25000000000000006,
+        0.25000000000000006,
+        0.25000000000000006,
+        0.24999999999999997
+      ],
+      "shade": [
+        3
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "id": "wb-fresh-c",
+      "ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shade": [
+        0
+      ]
+    }
+  ]
+}

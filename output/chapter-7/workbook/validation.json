@@ -1,0 +1,252 @@
+{
+  "pages": 6,
+  "sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+  "page_manifest": [
+    {
+      "slug": "c7-wb-recognise",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "Check the parts",
+      "subtitle": "Try together / Match with textbook pages Check the amount and Turn it.",
+      "task_ids": [
+        "P1-07-WB-GUIDED",
+        "P1-07-COMPARE"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c7-wb-count",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "Remember the parts",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-07-Q1",
+        "P1-07-Q2",
+        "P1-07-Q3"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c7-wb-draw",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "Draw and explain",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-07-Q4",
+        "P1-07-Q5",
+        "P1-07-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c7-wb-retry",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "Fold, check and retry",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-07-SUPPORT",
+        "P1-07-RECHECK",
+        "P1-07-EXTENSION"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c7-wb-story",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "Our fair display",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-07-STORY"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c7-wb-fresh",
+      "kicker": "Chapter seven / Equal halves and quarters",
+      "title": "A fresh check",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-07-FRESH-IDENTIFY",
+        "P1-07-FRESH-DRAW",
+        "P1-07-RECALL"
+      ],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-07-WB-GUIDED": [
+      1
+    ],
+    "P1-07-COMPARE": [
+      1
+    ],
+    "P1-07-Q1": [
+      2
+    ],
+    "P1-07-Q2": [
+      2
+    ],
+    "P1-07-Q3": [
+      2
+    ],
+    "P1-07-Q4": [
+      3
+    ],
+    "P1-07-Q5": [
+      3
+    ],
+    "P1-07-Q6": [
+      3
+    ],
+    "P1-07-SUPPORT": [
+      4
+    ],
+    "P1-07-RECHECK": [
+      4
+    ],
+    "P1-07-EXTENSION": [
+      4
+    ],
+    "P1-07-STORY": [
+      5
+    ],
+    "P1-07-FRESH-IDENTIFY": [
+      6
+    ],
+    "P1-07-FRESH-DRAW": [
+      6
+    ],
+    "P1-07-RECALL": [
+      6
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required",
+  "fractions": [
+    {
+      "id": "wb-guided-half",
+      "page": 1,
+      "shape": "square",
+      "mode": "diagonal",
+      "area": 14400.0,
+      "part_ratios": [
+        0.5,
+        0.5
+      ],
+      "shaded": [
+        1
+      ],
+      "rotation": 45,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-guided-quarter",
+      "page": 1,
+      "shape": "fruit",
+      "mode": "quarters",
+      "area": 13858.0,
+      "part_ratios": [
+        0.25000000000000006,
+        0.25000000000000006,
+        0.25000000000000006,
+        0.24999999999999997
+      ],
+      "shaded": [
+        2
+      ],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-compare-unequal",
+      "page": 1,
+      "shape": "square",
+      "mode": "unequal",
+      "area": 16200.0,
+      "part_ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shaded": [],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-compare-equal",
+      "page": 1,
+      "shape": "square",
+      "mode": "horizontal",
+      "area": 16200.0,
+      "part_ratios": [
+        0.5,
+        0.5
+      ],
+      "shaded": [],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-story-blank",
+      "page": 5,
+      "shape": "square",
+      "mode": "whole",
+      "area": 81225.0,
+      "part_ratios": [
+        1.0
+      ],
+      "shaded": [],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-fresh-a",
+      "page": 6,
+      "shape": "square",
+      "mode": "horizontal",
+      "area": 14400.0,
+      "part_ratios": [
+        0.5,
+        0.5
+      ],
+      "shaded": [
+        1
+      ],
+      "rotation": 45,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-fresh-b",
+      "page": 6,
+      "shape": "fruit",
+      "mode": "quarters",
+      "area": 11807.999999999998,
+      "part_ratios": [
+        0.25000000000000006,
+        0.25000000000000006,
+        0.25000000000000006,
+        0.24999999999999997
+      ],
+      "shaded": [
+        3
+      ],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    },
+    {
+      "id": "wb-fresh-c",
+      "page": 6,
+      "shape": "square",
+      "mode": "unequal",
+      "area": 12000.0,
+      "part_ratios": [
+        0.30000000000000004,
+        0.7
+      ],
+      "shaded": [
+        0
+      ],
+      "rotation": 0,
+      "coverage": "within whole, zero pairwise overlap, total area equals whole"
+    }
+  ]
+}

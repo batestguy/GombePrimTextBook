@@ -1,0 +1,15 @@
+{
+  "chapters": [
+    "P1-03"
+  ],
+  "artifacts": {
+    "textbook": "output\\pdf\\Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "workbook": "output\\pdf\\Maths-with-Friends-Primary-1-Zero-Workbook.pdf"
+  },
+  "pages": {
+    "textbook": 9,
+    "workbook": 4
+  },
+  "source_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "status": "draft_continuation_pair_built_independent_review_required"
+}

@@ -1,0 +1,32 @@
+{
+  "pair_build": "passed",
+  "canonical_regeneration": "passed",
+  "legacy_quarto_render": "passed; historical layout only",
+  "preflight": "passed before independent review",
+  "gate_tests": {
+    "run": 11,
+    "passed": 10,
+    "skipped": 1,
+    "reason": "Windows symlink creation permission"
+  },
+  "changed_rendered_pages": [
+    "textbook5",
+    "textbook11",
+    "textbook22"
+  ],
+  "workbook_byte_identical": true,
+  "other_seventeen_p1_lessons_unchanged": true,
+  "original_twelve_source_questions_answers_unchanged": true,
+  "protected_source_unchanged": true,
+  "artifacts": {
+    "textbook": {
+      "pages": 22,
+      "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3"
+    },
+    "workbook": {
+      "pages": 10,
+      "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629"
+    }
+  },
+  "independent_review": "See REVIEW.md and production/chapter-reviews.json; automated checks do not approve chapters."
+}

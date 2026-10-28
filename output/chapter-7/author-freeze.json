@@ -1,0 +1,23 @@
+{
+  "author": "/root/sol_executor",
+  "reviewer": "/root/sol_reviewer",
+  "date": "2026-10-28",
+  "fingerprint": "3e1b9c1d6f6d2a6c7bce348a58f6bc8eed1f7f32f444223e172d97e349d27e30",
+  "hashes": {
+    "production/p1.json": "cd647513fe4ec4218a3ef8496aeba4de168a3b2141b9967ebebdee70b9358862",
+    "scripts/build_chapter_seven.py": "3c7af5c46ef8df1d86241dca4c39f3764481d77ecf6a7a6c71ec5fa5dcd3a9d4",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c"
+  },
+  "status": "frozen_for_independent_review_pending",
+  "source_preservation": "All114 original prompts/answers/order exact.17 other lessons whole unchanged; P1-06TB21 credit only differs. Old P1-06TB exact archived; nine other prior PDFs unchanged; P1-06WB exact unchanged;20 otherTB/all14WB rasters unchanged. Original before.json never modified.",
+  "validation": {
+    "chapter7_build": "passed13TB6WB,24 exact fraction diagrams with area/containment/overlap checks",
+    "legacy_build": "passed63lessons247plannedpages59supplementary",
+    "quarto_render": "passed historical247pagePDF",
+    "legacy_validate": "passed247pages378lessonquestions90revision8AI59supplementary155objectives87arithmetic0failures",
+    "preflight": "passed after final source/PDF edits",
+    "register_check": "passed63records pendingnotapproval",
+    "strict_chapter_gate": "pending independent review expected; not author-approved"
+  }
+}

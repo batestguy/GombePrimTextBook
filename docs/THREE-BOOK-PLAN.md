@@ -1,5 +1,11 @@
 # Three separate primary mathematics books
 
+Shared chapter opening: every chapter in each class book begins with its lead
+teacher at a large blackboard, all four children seated facing the teacher, and a
+short, legible topic hint on the board. Alternate Mrs Binta and Mr Aliyu within
+each class. Other story settings may follow this opening. This requirement applies
+to every chapter as it is developed; it does not approve the remaining legacy drafts.
+
 **Active Primary 1 decision, 20 October 2026:** follow the
 [full-year production plan](PRIMARY-1-PRODUCTION-PLAN.md). The user authorised best
 approximation while resources are inaccessible and clarified that Primary 1 is

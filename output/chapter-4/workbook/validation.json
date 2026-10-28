@@ -1,0 +1,229 @@
+{
+  "pages": 6,
+  "sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+  "page_manifest": [
+    {
+      "slug": "c4-wb-trace",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Trace, cover and write",
+      "subtitle": "Watch Mr Aliyu write each numeral. Then trace, cover and try.",
+      "task_ids": [
+        "P1-04-FORM-PRACTICE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-wb-order",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Before, after and order",
+      "subtitle": "Try on your own. Use real groups to check after you try.",
+      "task_ids": [
+        "P1-04-Q1",
+        "P1-04-Q2",
+        "P1-04-Q3"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-wb-draw",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Draw and count",
+      "subtitle": "Mr Aliyu has shown how one dot stands for one counter.",
+      "task_ids": [
+        "P1-04-Q4",
+        "P1-04-Q5"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-wb-check",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Check eight",
+      "subtitle": "Remember how to check before looking back.",
+      "task_ids": [
+        "P1-04-Q6",
+        "P1-04-RECALL",
+        "P1-04-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-wb-sort",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Sort and record",
+      "subtitle": "An adult prepares and mixes the pieces. Shape names are not required.",
+      "task_ids": [
+        "P1-04-S002"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-wb-fresh",
+      "kicker": "Chapter four / Six to nine",
+      "title": "A fresh number try",
+      "subtitle": "An adult supplies new groups and mixed cards. Work on your own.",
+      "task_ids": [
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-04-FORM-PRACTICE": [
+      1
+    ],
+    "P1-04-Q1": [
+      2
+    ],
+    "P1-04-Q2": [
+      2
+    ],
+    "P1-04-Q3": [
+      2
+    ],
+    "P1-04-Q4": [
+      3
+    ],
+    "P1-04-Q5": [
+      3
+    ],
+    "P1-04-Q6": [
+      4
+    ],
+    "P1-04-RECALL": [
+      4
+    ],
+    "P1-04-SUPPORT": [
+      4
+    ],
+    "P1-04-S002": [
+      5
+    ],
+    "P1-04-FRESH-COUNT": [
+      6
+    ],
+    "P1-04-S003": [
+      6
+    ],
+    "P1-04-S004": [
+      6
+    ]
+  },
+  "objects": [
+    {
+      "id": "c4-wb-eight",
+      "page": 4,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          130,
+          310
+        ],
+        [
+          230,
+          310
+        ],
+        [
+          330,
+          310
+        ],
+        [
+          430,
+          310
+        ],
+        [
+          130,
+          358
+        ],
+        [
+          230,
+          358
+        ],
+        [
+          330,
+          358
+        ],
+        [
+          430,
+          358
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "c4-wb-key-disc",
+      "page": 5,
+      "kinds": [
+        "disc"
+      ],
+      "points": [
+        [
+          125,
+          275
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c4-wb-key-square",
+      "page": 5,
+      "kinds": [
+        "square"
+      ],
+      "points": [
+        [
+          125,
+          365
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c4-wb-key-triangle",
+      "page": 5,
+      "kinds": [
+        "triangle"
+      ],
+      "points": [
+        [
+          125,
+          455
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "c4-wb-key-rectangle",
+      "page": 5,
+      "kinds": [
+        "rectangle"
+      ],
+      "points": [
+        [
+          125,
+          545
+        ]
+      ],
+      "count": 1
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

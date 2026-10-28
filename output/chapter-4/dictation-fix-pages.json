@@ -1,0 +1,13 @@
+{
+  "P1-04_changed_pages": [
+    "textbook/page-10.png",
+    "workbook/page-06.png"
+  ],
+  "P1-03_changed_pages": [
+    "textbook/page-06.png",
+    "textbook/page-08.png",
+    "workbook/page-02.png",
+    "workbook/page-04.png"
+  ],
+  "all_other_chapter_3_4_pages_identical": true
+}

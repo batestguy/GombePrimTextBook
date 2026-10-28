@@ -1,0 +1,15 @@
+{
+  "id": "mrs-binta-blackboard-v1",
+  "asset": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+  "tool": "built-in image_gen",
+  "generated_on": "2026-10-20",
+  "type": "precise-object-edit",
+  "authorization": "User requires every chapter to open with the teacher at a blackboard and a hint of the topic.",
+  "references": ["artwork/redesign/scenes/classroom-welcome-v7.png"],
+  "prompt": "Use case: precise-object-edit. Edit this exact fictional Primary One textbook classroom illustration. Change ONLY the large blank WHITE teaching board surface into a dark charcoal BLACKBOARD. Retain its wooden frame, exact size, location and perspective; make board uniformly dark charcoal, blank with NO text, letters, numbers, symbols, diagrams or marks. Keep EVERY other element unchanged: Mrs Binta's exact face, braided hair, blue blouse, clay skirt, green book and welcoming gesture; all four seated children and their exact poses/identities; Aishatu mustard hijab teal dress, Grace clay top green skirt all-back cornrow plaits with tucked ends, Adamu blue shirt clay shorts cropped hair raised hand, John green shirt ochre trousers completely smooth shaved scalp and blue manual wheelchair; desks, sunlight, windows, shelves, framing, warm polished children's gouache style. No additional people or objects. Board remains blank so crisp white topic-hint text can be typeset separately. Same landscape 1536x1024 output.",
+  "transparent_background": false,
+  "inspection": "Author viewed scene. Dark blank blackboard replaces white surface; Mrs Binta leads in her blue blouse and clay skirt. Four seated children's appearance, hairstyles, hijab and wheelchair retained. Exact topic hint remains separately typeset in white, without premature numerals.",
+  "quantities": "Narrative artwork only. No assessed quantities inferred from scene. Exact counting diagrams remain deterministic.",
+  "status": "chapter-revision-for-independent-review",
+  "limits": "Local educational review, physical print and printer approval remain pending."
+}

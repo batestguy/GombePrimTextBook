@@ -1,0 +1,470 @@
+[
+  {
+    "artifact": "textbook",
+    "id": "P1-07-HALF-MODEL",
+    "pages": [
+      2
+    ],
+    "author_solution": "Whole complete; two equal halves, shaded one half.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-HALF-GUIDED",
+    "pages": [
+      2
+    ],
+    "author_solution": "Matched edges; two equal parts remain halves when turned.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-QUARTER-MODEL",
+    "pages": [
+      3
+    ],
+    "author_solution": "Perpendicular folds produce four equal parts; one shaded quarter.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-QUARTER-GUIDED",
+    "pages": [
+      3
+    ],
+    "author_solution": "Fold twice perpendicularly; count/touch four equal parts; shade one.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-COMPARE",
+    "pages": [
+      4
+    ],
+    "author_solution": "Textbook p4/workbook p1: .3/.7 left not halves, .5/.5 right halves.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-DIAGONAL-GUIDED",
+    "pages": [
+      4
+    ],
+    "author_solution": "Opposite-corner diagonal of square makes two equal triangular halves.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-ROTATED-MODEL",
+    "pages": [
+      5
+    ],
+    "author_solution": "Tilted square four equal triangles; one shaded quarter.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-FRUIT-MODEL",
+    "pages": [
+      5
+    ],
+    "author_solution": "Symmetric paper fruit split into two equal halves; one shaded half.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-NOTATION",
+    "pages": [
+      5
+    ],
+    "author_solution": "1/2 reads one half, one of two equal parts; 1/4 one quarter, one of four equal parts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-DRAW-MODEL",
+    "pages": [
+      6
+    ],
+    "author_solution": "Rectangle centre line makes halves; square centre cross makes quarters; one shaded.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-DRAW-GUIDED",
+    "pages": [
+      6
+    ],
+    "author_solution": "Copy model on paper: two equal rectangle halves; four equal square parts, one shaded.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q1",
+    "pages": [
+      7
+    ],
+    "author_solution": "2 Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q2",
+    "pages": [
+      7
+    ],
+    "author_solution": "4 Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q3",
+    "pages": [
+      7
+    ],
+    "author_solution": "Rectangle divided into two equal-area parts. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q4",
+    "pages": [
+      7
+    ],
+    "author_solution": "Four equal-area parts; one shaded. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q5",
+    "pages": [
+      7
+    ],
+    "author_solution": "No Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-Q6",
+    "pages": [
+      7
+    ],
+    "author_solution": "The whole has four equal parts and one is shaded. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-SUPPORT",
+    "pages": [
+      8
+    ],
+    "author_solution": "Matched edges, overlay halves; perpendicular double fold quarters, one indicated.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-RECHECK",
+    "pages": [
+      8
+    ],
+    "author_solution": "NEW tall rectangle halves; NEW square quarters; point to one part and explain equal amounts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-EXTENSION",
+    "pages": [
+      8
+    ],
+    "author_solution": "Different equal half partitions e.g. horizontal/vertical/diagonal; equal-area alternatives accepted.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-STORY",
+    "pages": [
+      9
+    ],
+    "author_solution": "Four equal quarters, one named drawing per friend; full whole, no overlap/exclusion.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-FRESH-IDENTIFY",
+    "pages": [
+      10
+    ],
+    "author_solution": "Left half (rotated); middle quarter (paper fruit); right neither (.3/.7). Explain equal amounts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-FRESH-DRAW",
+    "pages": [
+      10
+    ],
+    "author_solution": "Four equal-area parts of a whole, exactly one shaded; explanation one of four equal parts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "id": "P1-07-RECALL",
+    "pages": [
+      10
+    ],
+    "author_solution": "Half one of two equal parts; quarter one of four equal parts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-WB-GUIDED",
+    "pages": [
+      1
+    ],
+    "author_solution": "Rotated square half; paper fruit quarter; amount and count explanation.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-COMPARE",
+    "pages": [
+      1
+    ],
+    "author_solution": "Textbook p4/workbook p1: .3/.7 left not halves, .5/.5 right halves.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q1",
+    "pages": [
+      2
+    ],
+    "author_solution": "2 Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q2",
+    "pages": [
+      2
+    ],
+    "author_solution": "4 Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q3",
+    "pages": [
+      2
+    ],
+    "author_solution": "Rectangle divided into two equal-area parts. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q4",
+    "pages": [
+      3
+    ],
+    "author_solution": "Four equal-area parts; one shaded. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q5",
+    "pages": [
+      3
+    ],
+    "author_solution": "No Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-Q6",
+    "pages": [
+      3
+    ],
+    "author_solution": "The whole has four equal parts and one is shaded. Accept mathematically equivalent wording/partitions where applicable.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-SUPPORT",
+    "pages": [
+      4
+    ],
+    "author_solution": "Matched edges, overlay halves; perpendicular double fold quarters, one indicated.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-RECHECK",
+    "pages": [
+      4
+    ],
+    "author_solution": "NEW tall rectangle halves; NEW square quarters; point to one part and explain equal amounts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-EXTENSION",
+    "pages": [
+      4
+    ],
+    "author_solution": "Different equal half partitions e.g. horizontal/vertical/diagonal; equal-area alternatives accepted.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-STORY",
+    "pages": [
+      5
+    ],
+    "author_solution": "Four equal quarters, one named drawing per friend; full whole, no overlap/exclusion.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-FRESH-IDENTIFY",
+    "pages": [
+      6
+    ],
+    "author_solution": "Left half (rotated); middle quarter (paper fruit); right neither (.3/.7). Explain equal amounts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-FRESH-DRAW",
+    "pages": [
+      6
+    ],
+    "author_solution": "Four equal-area parts of a whole, exactly one shaded; explanation one of four equal parts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  },
+  {
+    "artifact": "workbook",
+    "id": "P1-07-RECALL",
+    "pages": [
+      6
+    ],
+    "author_solution": "Half one of two equal parts; quarter one of four equal parts.",
+    "adult_answer_pages": [
+      11,
+      12
+    ]
+  }
+]

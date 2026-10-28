@@ -1,0 +1,7 @@
+{
+  "production/p1.json": "4cfce5782fa77f1bb998ab51a882d100e3dfa0deae40f1f5b0333eaa7e3b6d77",
+  "production/lessons.json": "a57f3ccc6105055580ffff20937d9571b51a8e8b25edeb8557c8a1d09fb28813",
+  "production/complete-manuscript.txt": "36f1458704f45bb2dcd964c178a6cbb386d0e726c2c6c9f10f56cad62f4233b8",
+  "scripts/build_primary_one_opening.py": "ea5b2a7355c084121386c6432b3bbd0095171c681f69f7e8d0935ef4531bf996",
+  "scripts/build_chapter_three.py": "3f5c8f757456cbb5ba444b111ce55ab8893188a3e38af76d911b12fc73dd8670"
+}

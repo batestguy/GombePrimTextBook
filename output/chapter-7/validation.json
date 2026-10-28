@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "textbook": 13,
+    "workbook": 6
+  },
+  "artifacts": {
+    "textbook": "output\\pdf\\Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+    "workbook": "output\\pdf\\Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf"
+  },
+  "checks": [
+    "114 original questions/prompts/answers/order preserved",
+    "17 other whole lessons preserved; P1-06 only authorized TB21 credit change",
+    "all protected source/renderers, nine previous PDFs unchanged; original P1-06 TB archived exact; other20TB/all14WB rasters and wholeWB bytes unchanged",
+    "polygon containment, zero overlap, shoelace total whole; equal partitions equal; unequal .3/.7",
+    "A4 embedded fonts text bounds; every page rendered"
+  ],
+  "status": "pending_independent_review"
+}

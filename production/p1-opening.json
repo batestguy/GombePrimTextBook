@@ -663,7 +663,7 @@
         {
           "type": "text",
           "top": 520,
-          "text": "<b>Artwork.</b> Existing fictional character/teacher/classroom images were generated with built-in image_gen; exact prompts, sources and asset records are in artwork/manifest.json and adjacent provenance files. No new AI art was required. Cups, tops, leaves, dots, circles and matching lines are deterministic vector drawings. Typeface: bundled DejaVu Sans, licence in fonts/LICENSE_DEJAVU.txt.",
+          "text": "<b>Artwork.</b> Fictional character/teacher/classroom images were generated with built-in image_gen; exact prompts, sources and asset records are in artwork/manifest.json and adjacent provenance files. The two blackboard scenes were revised with the same tool; their prompts and references are recorded beside the images. Cups, tops, leaves, dots, circles and matching lines are deterministic vector drawings. Typeface: bundled DejaVu Sans, licence in fonts/LICENSE_DEJAVU.txt.",
           "size": 10.5,
           "x": 43,
           "width": 509

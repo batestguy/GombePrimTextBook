@@ -11,6 +11,7 @@ Mandatory references: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1, and
   respective S1-S9 pages; a single artifact does not approve the pair):
 - S1–S9 page map; purposeful variations with reasons:
 - Lead teacher, child roles, preferences and cross-chapter continuity checks:
+- Opening page: lead teacher at the blackboard, four seated children facing the teacher, exact topic-hint wording and rendered-page legibility:
 - Every-task mathematics/diagram/answer check coverage:
 - Instruction, prerequisite and story-logic findings:
 - Fingerprint and review gate result; unresolved blocking/required findings:

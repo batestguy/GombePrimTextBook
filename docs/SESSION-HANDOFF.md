@@ -1,4 +1,323 @@
+# Chapter 7 completed - 28 October 2026
+
+P1-01 through P1-07 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` checked all135 unique final pages and every task, diagram and answer; three required findings were corrected and rechecked. Evidence: [Chapter7 review](../output/chapter-7/REVIEW.md). Root independently passed preflight, all seven strict chapter gates, exact frozen-source/PDF hashes, fingerprint and preservation checks; other56 records remain unchanged/pending.
+
+Chapter7 Equal halves and quarters: [13-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf) and [6-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf). All24 fraction diagrams pass independent area/coverage/nonoverlap checks. All114 original questions/prompts/answers/order preserved. The only earlier content correction is P1-06TB21 artwork-provenance credit; its old exact textbook is archived in output/chapter-7/prior-chapter-6/. Other20TB pages/all14WB pages and the complete chapter6 workbook bytes are unchanged. Current chapter6 approval supersedes earlier frozen-PDF evidence for this exact credit correction.
+
+Next: P1-08 Put small sets together, Mr Aliyu. Twelve P1 units, annual revision/assessment/assembly and final four offline-AI pupil pages remain. No complete annual book, current-curriculum/adoption, local classroom/pupil or physical/printer approval is implied. No publication/commit/push. Apply [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). Author-freeze notes below are historical and superseded by this final outcome.
+
+---
+
+## Chapter 7 checkpoint - 28 October 2026
+
+P1-07 authored and frozen for independent review: 13-page textbook and 6-page workbook, canonical paired data and isolated deterministic area renderer. Full packet: [chapter-7/HANDOFF.md](../output/chapter-7/HANDOFF.md). Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). All seven affected reviews pending at author handoff; /root/sol_reviewer owns independent decisions. Preflight, canonical/preservation build, historical build/render/validation passed. Authorized P1-06TB21 provenance-only correction archives the old exact PDF and proves other20TB/all14WB pixels and wholeWB bytes unchanged. No current-curriculum, classroom or print approval claimed.
+
+# Session handoff: chapter 6 author freeze (26 October 2026)
+
+Final outcome, 26 October 2026: independent reviewer /root/sol_reviewer checked
+every task, diagram and answer and all116unique final pages across the six
+registered chapters. Three required findings (singular-one wording, plain teacher
+card lists and Windows preservation-path normalization) were fixed and rechecked.
+Evidence: output/chapter-6/REVIEW.md. P1-01 through P1-06 are approved for their
+exact registered pairs; other57series records remain pending. Reviewer and root
+independently passed preflight and all six strict chapter gates. Root rechecked
+frozen source/PDF hashes and untouched other57records. Pending language in the
+author-freeze notes below is superseded by this outcome. Next: P1-07 Equal halves
+and quarters, Mrs Binta. No annual/current-curriculum/print approval is implied.
+
+Final outcome, 26 October 2026: independent reviewer /root/sol_reviewer checked
+every task, diagram and answer and all116unique final pages across the six
+registered chapters. Three required findings (singular-one wording, plain teacher
+card lists and Windows preservation-path normalization) were fixed and rechecked.
+Evidence: output/chapter-6/REVIEW.md. P1-01 through P1-06 are approved for their
+exact registered pairs; other57series records remain pending. Reviewer and root
+independently passed preflight and all six strict chapter gates. Root rechecked
+frozen source/PDF hashes and untouched other57records. Pending language in the
+author-freeze notes below is superseded by this outcome. Next: P1-07 Equal halves
+and quarters, Mrs Binta. No annual/current-curriculum/print approval is implied.
+
+P1-06 Numbers to ninety-nine, Mr Aliyu, is authored as a 21-page textbook
+(17 pupil / 4 adult) and 14-page workbook in canonical production/p1.json.
+Build with python scripts/build_chapter_six.py. Exact pair:
+output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf and
+...-Workbook.pdf. Full review packet: output/chapter-6/HANDOFF.md.
+
+Baseline archived output/chapter-6/before.json before five approval resets and
+source edits. All114 original P1 prompts/answers/order, other18 P1 lessons, eight
+registered earlier PDFs and protected original brief/renderers/standards/p2/p3
+remain unchanged. Only P1-06 gains paired content and stable question IDs.
+Historical build_book/Quarto247page reproduction and legacy validation pass;
+legacy sample-lessons.pdf regenerated as normal validation side effect, its six
+pages match the historical generating source text/bounds. Quarto's incidental
+.gitignore stanza removed preserving original text/LF. No gate/source weakening,
+new dependency, publication, commit, push, contact or purchase.
+
+Author inspected all35new pages individually; independent /root/sol_reviewer
+must inspect every task and all116 unique affected exact pages including shared
+front/adult pages. P1-01..06 remain pending until distinct reviewer completes
+current fingerprints and strict gates. Author never self-approves. See final
+freeze/handoff for exact hashes and validation. Next P1-07 Equal halves and
+quarters uses Mrs Binta. Thirteen units plus annual revision/assessment/AI/full
+assembly, current curriculum/adoption, local educator/pupil and print evidence
+remain pending. The earlier checkpoint below is retained as history.
+
+---
+
 # Session handoff: Gombe story and visual redesign
+
+## Chapter 5 paired continuation (23 October 2026, independently reviewed)
+
+User clarified that "next book" means next chapter: P1-05 A bundle of ten, Mrs
+Binta. Author /root will add canonical paired_edition and an isolated bundle/strip
+renderer, retaining all source prompts/answers/order and existing exact PDFs.
+Before edits preflight passed; source/register/PDF baseline archived in
+output/chapter-5/before.json. Four existing approvals reset pending BEFORE shared
+source edits; independent re-review required, no author self-approval.
+
+Acceptance: ten loose ones make one ten, actual bundling/unbundling, explicit
+tens/ones positions, gradually teach/build/read/write11-19 and20, two tens/zero
+ones, compare10and1, all six source tasks, recall/support, enacted20-marker
+packing story, separate fresh count/build/read/recognition/dictation and delayed
+recall. Mrs Binta blackboard, four seated children, clear prerequisite-safe hint;
+reuse artwork and deterministic quantities. Workbook/exercise book carries marks;
+adult guidance/answers/mapping/credits/preview stay in textbook. Cover ALL earlier
+handwritten answers as well as cards/printed models for memory-writing checks.
+Next: author/render/inspect; canonical/legacy regeneration, preflight and distinct
+every-task/every-page review before five strict gates. No publication, contact,
+purchase, commit or push. Full annual/curriculum/adoption/classroom/print pending.
+
+Author freeze: production/p1.json P1-05 paired_edition now builds a13page textbook
+(10pupil/3adult) and6page workbook via scripts/build_chapter_five.py. Exact PDFs:
+output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf and ...-Workbook.pdf.
+New isolated BundleRenderer expands each drawn ten to10distinct strip marks with
+binding lines; shared renderers and all earlier PDFs unchanged. Ten model,
+tens/ones14, guided13, every11-20quantity/name, formation12/20/liveall10-20,
+six source tasks, recall/own-choice11-19/support, actual20-marker packing,
+fresh build17/20/shuffledALL10-20reading/recognition/covered dictation19,10,14,20,
+delayed recall and complete adult answers/glossary/mapping/provenance/preview.
+Mrs Binta board hint: Make a bundle. Count the ones. All four children act;
+John revises a place-value mistake. Actual strips and existing artwork reused.
+
+Author inspected all19pages and rechecked TB4/11/12/13 after singular-one,
+counted-strip wording, glossary and adult-answer refinements. Build passed A4,
+fonts/bounds/filled marks/sourceIDs/everybundle10/allladdertotals/ending20.
+output/chapter-5/validate_preservation.py passed other18lesson content,
+all114source prompts/answers/order, old exactPDFs/renderers and protected brief;
+distinct strip positions/teen/source diagram counts checked. Canonical regeneration,
+Quarto247page historical render, legacy A4/font/bounds and preflight passed.
+Source closure frozen in output/chapter-5/frozen-sources.json. Template packet:
+output/chapter-5/HANDOFF.md. Reviewer /root/sol_reviewer is inspecting all81unique
+pages/everytask (19new+62unchanged). Five records remain pending until distinct
+approval; no author sign-off or full-year/current-curriculum/print claim.
+
+Final outcome: distinct reviewer /root/sol_reviewer inspected all81exact pages and
+every task/diagram/answer, rechecked prior resolved findings, and found no new
+blocking/required issue. Evidence/exact eightPDFhashes/fivefingerprints in
+output/chapter-5/REVIEW.md. P1-01 through P1-05 approved for exact registered
+pairs; reviewer and author independently ran all five strict gates and preflight:
+all passed. Source freeze intact; only five intended review records changed.
+All earlier PDFs remain byte-identical. Only five series records approved; other
+58pending. These are continuation extracts, not a complete annual assembly.
+
+Next production task: P1-06 Numbers to ninety-nine, Mr Aliyu. Expand by successive
+decades from21-29 onward, revisit teen/tens names and decade transitions; model
+tens/ones, shuffled reading and independent writing over the full adopted range.
+Do not jump from20straightto99. Preserve all source links and old exact PDFs,
+reset affected approvals before shared-source edits, and independently inspect
+every affected task/page. Fourteen P1 units, annual revision/assessment, final
+four offline-AI pupil pages and annual assembly remain unfinished. No publication,
+commit/push or adoption/current-curriculum/local classroom/physical/print approval.
+
+## Chapter 4 paired continuation (23 October 2026, independently reviewed)
+
+User asked to continue. Next unit is P1-04 Six to nine, led by Mr Aliyu in the
+confirmed alternating sequence. Author /root will edit only this canonical unit,
+add its paired builder and preserve all existing reviewed PDFs. Baseline lessons,
+register and source/artifact hashes archived in output/chapter-4/before.json.
+Preflight passed; approvals for P1-01/P1-02/P1-03 reset to pending BEFORE shared
+source edits. They need conservative independent re-review, not author sign-off.
+
+Acceptance: count/identify/read/write/order6-9 gradually, model handwriting and
+6/9 orientation, actually sort four types with quantities6/7/8/9 (S002), name
+shuffled1-9 (S003) and write dictated6-9 without copying (S004). Preserve all six
+source questions/answers and add explicit stable IDs. Model/guided/independent/
+recall/support/story-ending/fresh/delayed sequence; reusable textbook and separate
+workbook with local deterministic diagrams, same-textbook adult answers/support.
+Mr Aliyu classroom with four seated children and a typeset topic hint; reuse art.
+Next: author, render, inspect all pages, regenerate canonical/legacy sources,
+preflight and independent every-task/every-page review of all affected pairs.
+No publication, contact, purchase, commit or push. Full-year/current curriculum,
+educator/pupil, accessibility certification and physical/printer checks pending.
+
+Author freeze: production/p1.json now has P1-04 paired_edition, explicit Q1-Q6
+IDs and all original prompts/answers/order. New isolated ShapeRenderer in
+scripts/build_chapter_four.py extends the unchanged shared renderer only for
+deterministic paper shapes. Exact artifacts:
+output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf (11 A4 pages,
+8 pupil/3 adult) and ...-Six-to-nine-Workbook.pdf (6 A4 pages). All17pages inspected
+by author; before/after vocabulary added before source questions, adult guidance
+and workbook subtitle refined. Existing Mr Aliyu blackboard asset reused; white
+hint Count each one. Check the group. Actual four-group story accounts for all
+30pieces, sorted/counted/ordered6,7,8,9 before the game starts.
+
+Paired build passed exact counts/marks/A4/font/bounds/source-task/supplement-map
+checks. output/chapter-4/validate_preservation.py passed other18lesson content,
+all114source prompts/answers/order, shared renderers, protected brief and prior
+opening/zero PDF byte preservation. Canonical regeneration and Quarto247-page
+historical render passed; all legacy pages A4, text bounds/font checks passed.
+Preflight passed. No gate-code change or new dependency. Full evidence/commands,
+S1-S9/page/task maps and constraints in output/chapter-4/HANDOFF.md; frozen source
+hashes in frozen-sources.json. Reviewer /root/sol_reviewer is checking all62unique
+pages/every task across new and unchanged pairs. Four affected records remain
+pending until independent approval; old evidence archived, no self-approval.
+
+Required review correction: the new WB6 count totals could remain visible during
+S004 dictation. Reviewer agreed and found the same issue in P1-03 WB4's final
+zero-writing check. Corrected explicit cover-all-earlier-written/printed-numerals
+instructions, including the pupil's count responses. Changed pages only:
+Six-to-nine TB10/WB6; Zero TB6/TB8/WB2/WB4. All other new/Zero page PNGs remain
+byte-identical. Prior exact approved Zero PDFs/rasters/reports archived in
+output/chapter-4/prior-zero/ with original before.json hashes. This supersedes the
+initial claim that current Zero PDFs remain unchanged; opening PDFs/shared
+renderers still unchanged, all114source prompts/answers/order and other17lessons
+preserved. Author inspected all6corrected pages, rebuilt both affected pairs,
+regenerated/rendered legacy sources, passed preservation/preflight, and refroze
+source hashes. Reviewer rechecks corrected final evidence before approving.
+
+Final outcome: independent reviewer /root/sol_reviewer inspected all62unique final
+pages/every task, then rechecked all six corrected pages. Both required findings
+resolved; no blocking/required issue remains. Exact hashes, S1-S9 and task/page
+coverage in output/chapter-4/REVIEW.md. P1-01/P1-02/P1-03/P1-04 are approved for
+their exact registered pairs; reviewer and author independently passed all four
+strict gates plus preflight. Only four series records approved; other59pending.
+Original source and all114question prompts/answers/order preserved. Prior Zero
+review/handoff also archived in prior-zero/; old chapter3 review now has a clear
+supersession pointer. Latest corrected Zero files retain their original filenames.
+
+Next concrete production task: P1-05, A bundle of ten, with Mrs Binta. Continue
+teacher alternation:1Binta/2Aliyu/3Binta/4Aliyu/5Binta. Model ten loose ones as
+one bundle, teen quantities/names/recording through twenty and tens/ones; avoid
+leaping to99 or premature notation. Preserve existing exact artifacts and source
+tasks. Reset affected approvals before shared edits and independently re-review
+every affected task/page. Fifteen P1 units, annual revision/assessment, final four
+offline-AI pages and full-year assembly remain. No publication/commit/push or
+current-curriculum/adoption/classroom/physical/press approval implied.
+
+## Chapter 3 paired continuation (23 October 2026, independently reviewed)
+
+User asked to proceed after annual teaching allocation. Author /root is producing
+P1-03 Zero means none from production/p1.json/paired_edition. Existing opening
+PDFs remain separate exact artifacts. New renderer scripts/build_chapter_three.py
+uses the shared Renderer with optional output paths/label; no new dependencies
+or artwork. Original brief and all existing source question prompts/answers stay
+unchanged; stable IDs added to the six P1-03 questions.
+
+Before edits, preflight passed; full baseline including original register and P1
+lessons archived in output/chapter-3/before.json. P1-01/P1-02 approvals reset to
+pending before shared-source edits; their previous independent evidence is in the
+archive. Source fingerprints are conservative: fresh review of all affected
+chapters required, even though opening PDFs remain unchanged. No self-approval.
+
+Draft artifacts: output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf (9 A4
+pages: 6 pupil/3 adult) and ...-Workbook.pdf (4 A4 pages). Source: canonical P1-03;
+no repeated introductions. Mrs Binta blackboard hint: Look inside. Is it empty?
+All four children act; actual three-top packing story resolves with empty mat
+and three stored tops. Two-to-none model, guided one-to-none/formation, six source
+tasks, recall/support, separate fresh meaning/recognition/naming/writing checks,
+delayed recall and adult answers/mapping/credits/limits included. No subtraction
+notation assumed. Author inspected all 13 rendered pages and corrected workbook
+example direction, empty-box response instruction and cover-before-writing prompt.
+
+Next: finish canonical/legacy regeneration and tests, freeze sources, supply
+template review packet; independent reviewer checks every task/page of both new
+artifacts and unchanged opening pair before updating the three review objects.
+Annual map hashes describe the earlier frozen planning baseline and are not a
+claim that canonical content remains unchanged after this authoring step. Full
+year, current curriculum/adoption, local educational/pupil evidence and physical/
+printer approval remain pending. No publication, contact, purchase, commit or push.
+
+Author freeze: new paired build passed; original brief/all source prompts/answers
+and other 18 lessons unchanged. Final renderer defaults reproduced the exact
+original opening PDF bytes. Gate tests: 10 passed/1 Windows symlink skip. Canonical
+regeneration, Quarto 247-page historical render and full legacy validation passed
+(87 arithmetic checks, zero arithmetic/bounds failures, embedded fonts). Preflight
+and draft/register gate passed after generated sources froze. Reviewer
+/root/sol_reviewer is checking all 45 unique pages (13 new plus 32 unchanged)
+and every task/answer. Packet: output/chapter-3/HANDOFF.md. Old evidence stays
+archived; all three records remain pending until the reviewer completes its work.
+
+Final outcome: distinct reviewer /root/sol_reviewer inspected every one of the
+45 unique pages and every task/diagram/answer across both pairs. No blocking or
+required findings. Evidence in output/chapter-3/REVIEW.md; P1-01/P1-02/P1-03 now
+have current approved review objects. Reviewer and author independently ran all
+three --require-reviewed gates and preflight: all passed. Only three chapters are
+approved; other 60 series records remain pending. New output is a chapter-three
+continuation, not a combined three-chapter or completed annual book.
+
+Next production step: P1-04, Six to nine, with Mr Aliyu. Teachers alternate:
+P1-01 Mrs Binta, P1-02 Mr Aliyu, P1-03 Mrs Binta, P1-04 Mr Aliyu. User explicitly
+reconfirmed alternation while this review finished. Preserve all three existing
+exact reviewed extracts; reset affected approvals before shared-source edits and
+independently review their changed evidence. Sixteen P1 units still need paired
+development, plus annual revision/assessment, final four offline-AI pages and full
+assembly. No full-year/current-curriculum/adoption or print approval claimed.
+
+## Annual teaching allocation (23 October 2026, completed documentation step)
+
+Terminal access restored under the user-enabled full-access environment. No ACL
+change succeeded or was needed. Preflight and both P1-01/P1-02 strict review gates
+passed before work. Next unfinished deliverable B is the complete objective/model/
+task allocation, rather than another research round or a new annual PDF.
+
+Author /root owns docs/PRIMARY-1-TEACHING-MAP.json and its readable companion.
+Keep all 54 historical objectives, 114 original question links and 21 supplements;
+specify model, guided/independent response, answers, support and delayed recall.
+Treat these as proposed allocations, not taught/reviewed chapter evidence. Keep
+canonical sources, artwork, approved opening PDFs and their fingerprints unchanged.
+Use docs-only outputs so the planning step does not reopen unrelated approvals.
+Obtain independent read-only documentation review, resolve findings, verify source
+coverage/hashes and run preflight and both opening strict gates before handoff.
+No publication, commit, push, contact or purchase is authorised by this continuation.
+
+Completed: docs/PRIMARY-1-TEACHING-MAP.md and .json allocate 54 objectives, 114
+source questions and 21 supplements across 19 units. Each objective has a model,
+guided turn, fresh check/answer, support and delayed recall. Original source text
+and scope remain verbatim; S005/S007 operator repairs are explicit later-production
+corrections. Thirty source questions without historical direct objective links
+remain unit provenance rather than invented objective coverage. Suggested pacing,
+enrichments and resource-dependent genuine-coin evidence remain labelled.
+
+Independent reviewer /root/sol_reviewer checked every proposed example and answer,
+all source questions/supplements and coverage; no blocking/required findings.
+Evidence: output/annual-teaching-map/REVIEW.md and template-compliant HANDOFF.md.
+Reproducible validator: python output/annual-teaching-map/validate.py; all nine
+source/artifact hashes, text/order/IDs/scope and Markdown parity passed. Preflight
+and strict P1-01/P1-02 gates passed independently. No new chapter approval.
+
+Next concrete production task: author P1-03, Zero means none, with Mrs Binta's
+blackboard opening and gradual empty-set/recognition/reading/formation progression.
+Use the existing classroom artwork and deterministic quantities, preserve all
+six source questions/answers, avoid unexplained subtraction notation, extend paired
+rendering, then independently review both exact artifacts and every task/page.
+Any shared canonical/renderer edit requires resetting affected approvals before
+editing and re-reviewing the changed assembly. Remaining 17 units, annual
+assessment adaptation, final four offline-AI pages and annual assembly are still
+unfinished. No current-curriculum/adoption, local educator/pupil or print approval.
+
+## Blackboard openings (20 October 2026)
+
+User requires every chapter to begin with its lead teacher at a blackboard and a
+short hint of the topic. This is now mandatory in CHAPTER-STANDARD.md, the review
+protocol, handoff template, AGENTS.md and both production plans. Apply it to all
+remaining chapters as they are developed. Chapter 1 retains Mrs Binta's scene,
+with a charcoal board and white "Touch one. Say one number." hint. Chapter 2 now
+has Mr Aliyu's own scene and white "Sort. Match. Put in order." hint. The four
+children face each teacher; the exact three-leaf/five-top story tray stays separate.
+Canonical content and provenance live in production/p1.json and the new
+artwork/redesign/scenes/*-blackboard-v1 files. Both earlier approvals were archived
+and reset before revision. See output/primary-1-opening/mr-aliyu-board/HANDOFF.md
+and its REVIEW.md for final independent review and gate evidence; older records
+describe the prior pair. No other draft chapter is approved by this amendment.
 
 ## Chapter 1-2 paired adaptation (20 October 2026)
 

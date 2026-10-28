@@ -1,0 +1,632 @@
+{
+  "pages": 10,
+  "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+  "page_manifest": [
+    {
+      "slug": "workbook-welcome",
+      "kicker": "Our learning club",
+      "title": "My maths workbook",
+      "subtitle": "Primary One / Opening chapters / An adult can read with you.",
+      "task_ids": [],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w1-count-draw",
+      "kicker": "One to five / Your turn",
+      "title": "Count and draw",
+      "subtitle": "Look at the textbook models first. Write and draw on this page.",
+      "task_ids": [
+        "P1-01-Q1",
+        "P1-01-Q2",
+        "P1-01-Q3"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w1-trace",
+      "kicker": "One to five / Watch, then practise",
+      "title": "Trace and write",
+      "subtitle": "Watch your teacher form each numeral on paper first.",
+      "task_ids": [
+        "P1-01-Q4"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w1-recall",
+      "kicker": "One to five / Remember and help",
+      "title": "Show how you count",
+      "subtitle": "Try to remember Mrs Binta before looking back.",
+      "task_ids": [
+        "P1-01-Q5",
+        "P1-01-Q6"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w1-fresh",
+      "kicker": "One to five / A fresh try",
+      "title": "A fresh counting try",
+      "subtitle": "An adult reads these instructions. Try before getting help.",
+      "task_ids": [
+        "P1-01-FRESH-SET",
+        "P1-01-FRESH-READ",
+        "P1-01-FRESH-RECOGNISE"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w2-sort-match",
+      "kicker": "Sort, match and order / Try together",
+      "title": "Sort and match",
+      "subtitle": "Watch Mr Aliyu first. You may mark this workbook.",
+      "task_ids": [
+        "P1-02-SORT",
+        "P1-02-EQUAL"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w2-order",
+      "kicker": "Sort, match and order / Your turn",
+      "title": "Order and draw",
+      "subtitle": "Think about the number in each set.",
+      "task_ids": [
+        "P1-02-Q1",
+        "P1-02-Q2"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "kicker": "Sort, match and order / Your turn",
+      "title": "More and fewer",
+      "subtitle": "Use matching or counting. Try these on your own.",
+      "slug": "w2-more-fewer",
+      "task_ids": [
+        "P1-02-Q3",
+        "P1-02-Q4"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "slug": "w2-remember",
+      "kicker": "Sort, match and order / Remember",
+      "title": "Show how you compare",
+      "subtitle": "Try to remember Mr Aliyu before looking back.",
+      "task_ids": [
+        "P1-02-Q5",
+        "P1-02-Q6"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    },
+    {
+      "kicker": "Sort, match and order / A fresh try",
+      "title": "Ready for our game",
+      "subtitle": "Use what you have learned to finish tidying the toy shop.",
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "pre_numerals": false,
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-01-Q1": [
+      2
+    ],
+    "P1-01-Q2": [
+      2
+    ],
+    "P1-01-Q3": [
+      2
+    ],
+    "P1-01-Q4": [
+      3
+    ],
+    "P1-01-Q5": [
+      4
+    ],
+    "P1-01-Q6": [
+      4
+    ],
+    "P1-01-FRESH-SET": [
+      5
+    ],
+    "P1-01-FRESH-READ": [
+      5
+    ],
+    "P1-01-FRESH-RECOGNISE": [
+      5
+    ],
+    "P1-02-SORT": [
+      6
+    ],
+    "P1-02-EQUAL": [
+      6
+    ],
+    "P1-02-Q1": [
+      7
+    ],
+    "P1-02-Q2": [
+      7
+    ],
+    "P1-02-Q3": [
+      8
+    ],
+    "P1-02-Q4": [
+      8
+    ],
+    "P1-02-Q5": [
+      9
+    ],
+    "P1-02-Q6": [
+      9
+    ],
+    "P1-02-ENDING": [
+      10
+    ],
+    "P1-02-FRESH-SORT": [
+      10
+    ],
+    "P1-02-FRESH-COMPARE": [
+      10
+    ]
+  },
+  "objects": [
+    {
+      "id": "w1-Q1-three",
+      "page": 2,
+      "kinds": [
+        "cup",
+        "cup",
+        "cup"
+      ],
+      "points": [
+        [
+          105,
+          260
+        ],
+        [
+          230,
+          260
+        ],
+        [
+          355,
+          260
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "w1-Q2-five",
+      "page": 2,
+      "kinds": [
+        "cup",
+        "cup",
+        "cup",
+        "cup",
+        "cup"
+      ],
+      "points": [
+        [
+          80,
+          451
+        ],
+        [
+          160,
+          479
+        ],
+        [
+          240,
+          445
+        ],
+        [
+          325,
+          479
+        ],
+        [
+          410,
+          451
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "w1-Q3-two",
+      "page": 2,
+      "kinds": [
+        "cup",
+        "cup"
+      ],
+      "points": [
+        [
+          389,
+          575
+        ],
+        [
+          479,
+          575
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "w1-Q6-three",
+      "page": 4,
+      "kinds": [
+        "cup",
+        "cup",
+        "cup"
+      ],
+      "points": [
+        [
+          120,
+          485
+        ],
+        [
+          280,
+          485
+        ],
+        [
+          440,
+          485
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "w2-sort",
+      "page": 6,
+      "kinds": [
+        "top",
+        "leaf",
+        "top",
+        "leaf"
+      ],
+      "points": [
+        [
+          100,
+          277
+        ],
+        [
+          230,
+          277
+        ],
+        [
+          360,
+          277
+        ],
+        [
+          490,
+          277
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "w2-equal-upper",
+      "page": 6,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          100,
+          566
+        ],
+        [
+          155,
+          566
+        ],
+        [
+          210,
+          566
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "w2-equal-lower",
+      "page": 6,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          100,
+          701
+        ],
+        [
+          260,
+          701
+        ],
+        [
+          420,
+          701
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "Q3-two",
+      "page": 8,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          103,
+          293
+        ],
+        [
+          168,
+          293
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "Q3-five",
+      "page": 8,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          285,
+          293
+        ],
+        [
+          342,
+          293
+        ],
+        [
+          399,
+          293
+        ],
+        [
+          456,
+          293
+        ],
+        [
+          513,
+          293
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "Q4-four",
+      "page": 8,
+      "kinds": [
+        "leaf",
+        "leaf",
+        "leaf",
+        "leaf"
+      ],
+      "points": [
+        [
+          80,
+          535
+        ],
+        [
+          138,
+          535
+        ],
+        [
+          196,
+          535
+        ],
+        [
+          254,
+          535
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "Q4-three",
+      "page": 8,
+      "kinds": [
+        "leaf",
+        "leaf",
+        "leaf"
+      ],
+      "points": [
+        [
+          367,
+          535
+        ],
+        [
+          434,
+          535
+        ],
+        [
+          501,
+          535
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "resolution-leaves",
+      "page": 10,
+      "kinds": [
+        "leaf",
+        "leaf",
+        "leaf"
+      ],
+      "points": [
+        [
+          90,
+          263
+        ],
+        [
+          181,
+          263
+        ],
+        [
+          272,
+          263
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "resolution-tops",
+      "page": 10,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          90,
+          350
+        ],
+        [
+          181,
+          350
+        ],
+        [
+          272,
+          350
+        ],
+        [
+          363,
+          350
+        ],
+        [
+          454,
+          350
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "fresh-sort",
+      "page": 10,
+      "kinds": [
+        "top",
+        "leaf",
+        "top",
+        "leaf",
+        "top"
+      ],
+      "points": [
+        [
+          95,
+          605
+        ],
+        [
+          195,
+          605
+        ],
+        [
+          295,
+          605
+        ],
+        [
+          395,
+          605
+        ],
+        [
+          495,
+          605
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "fresh-four",
+      "page": 10,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          75,
+          731
+        ],
+        [
+          132,
+          731
+        ],
+        [
+          189,
+          731
+        ],
+        [
+          246,
+          731
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "fresh-five",
+      "page": 10,
+      "kinds": [
+        "leaf",
+        "leaf",
+        "leaf",
+        "leaf",
+        "leaf"
+      ],
+      "points": [
+        [
+          327,
+          731
+        ],
+        [
+          376,
+          731
+        ],
+        [
+          425,
+          731
+        ],
+        [
+          474,
+          731
+        ],
+        [
+          523,
+          731
+        ]
+      ],
+      "count": 5
+    }
+  ],
+  "assets": {
+    "artwork/redesign/references/lead-introductions-v7.png": "19a1765a734275cf04d636900436302e3cddf8afbd74def0b1997396700d6412"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

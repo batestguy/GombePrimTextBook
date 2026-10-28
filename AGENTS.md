@@ -2,6 +2,8 @@
 
 ## Mandatory redesign standard
 
+Every chapter must open with its assigned lead teacher at a large blackboard, the four children seated facing the teacher, and a short, clearly typeset hint of the chapter topic. Use Mrs Binta and Mr Aliyu alternately as specified in CHAPTER-STANDARD.md. Other story settings follow the classroom opening.
+
 Every new or materially revised chapter MUST follow [CHAPTER-STANDARD.md](docs/CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](docs/CHAPTER-REVIEW.md). Use [the handoff template](docs/HANDOFF-TEMPLATE.md) in every handoff. An independent reviewer must check every task, diagram and answer, teaching progression, instructions, character continuity, story logic and every rendered page. Record evidence in production/chapter-reviews.json; no author self-approval. Run python scripts/preflight.py and python scripts/check_chapter_standard.py; before calling a chapter reviewed, add --chapter ID --require-reviewed. Full redesigned-volume approval requires --require-reviewed without a filter. Pending or stale review blocks approval, not draft exploration. Legacy build/validation reproduces the old edition only. Never report all chapters compliant from one sample.
 
 Preserve `GombeTextbook.txt` byte for byte. This project now produces separate English-only, full-colour A4 mathematics books for Primary 1, Primary 2 and Primary 3 in Gombe. Primary 1 covers a whole school year, with a reusable textbook and a separate write-in workbook under [the active production plan](docs/PRIMARY-1-PRODUCTION-PLAN.md). The original combined edition remains historical evidence.

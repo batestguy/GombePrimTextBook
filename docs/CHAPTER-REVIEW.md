@@ -42,7 +42,7 @@ Record specific pages, task IDs, recalculations and observations for each key:
 | pedagogy | S1–S9 are enacted, not merely named; prerequisites, models, guided practice and fresh checks lead to the objective. |
 | mathematics | Independently solve EVERY task and example; verify every diagram and answer correspondence, units, ranges and valid alternatives. Record coverage by ID. |
 | instructions | Read as a beginner: each action, referent, response location and example is clear; no premature numbering or unexplained conventions. |
-| consistency | Teacher assignment, names, appearances, preferences, role rotation, vocabulary and source IDs agree. Inspect the artwork too. |
+| consistency | Teacher assignment, names, appearances, preferences, role rotation, vocabulary and source IDs agree. Inspect the artwork too. Every chapter opens with its lead teacher at a blackboard, four children seated facing the teacher, and a legible, prerequisite-appropriate topic hint. |
 | logic | Opening problem, dialogue, quantities, activity sequence and story resolution agree; tasks are answerable and assess what was taught. |
 | layout | Inspect EVERY rendered page, exact quantities, white A4 surfaces, text/board legibility, write-in space, clipping and reading order. |
 | teacher_support | Complete answer map, misconceptions, support/recheck, delayed recall and honest evidence/production limitations. |

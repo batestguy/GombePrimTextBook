@@ -1,3 +1,5 @@
+> Superseded by the Mr Aliyu blackboard revision. Both revised chapters passed independent review; current evidence is in mr-aliyu-board/REVIEW.md. The approval below describes the previous PDF only. See mr-aliyu-board/ for revision evidence.
+
 # Independent review: Primary One opening pair
 
 Authority: [CHAPTER-STANDARD.md](../../docs/CHAPTER-STANDARD.md), v1 with packaging amendment; [CHAPTER-REVIEW.md](../../docs/CHAPTER-REVIEW.md); [HANDOFF-TEMPLATE.md](../../docs/HANDOFF-TEMPLATE.md).
@@ -75,3 +77,5 @@ Both records were pending before edits; prior records/old approval remain histor
 Next action: author may present these exact two opening chapters as independently reviewed, with61otherchapter records still pending. Reset affected approvals before any source/artifact edit and re-review changed evidence. Continue full-year task allocation/renderer integration without transferring this approval to later units or a new assembly.
 
 Final validation: strict P1-01 gate PASSED; strict P1-02 gate PASSED; repository preflight PASSED (Quarto 1.9.38, Typst 0.14.2). Two chapters approved; 61 remain pending.
+
+Superseded for current artifacts by the [20 October 2026 blackboard-opening re-review](mr-aliyu-board/REVIEW.md). The archived review remains history; consult the new report and current register for fresh fingerprints and gates.

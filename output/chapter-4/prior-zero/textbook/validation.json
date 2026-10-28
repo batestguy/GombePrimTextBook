@@ -1,0 +1,252 @@
+{
+  "pages": 9,
+  "sha256": "1d24dcbfe223995def1147f196b38ac4905f5fd0a227d0d86aa20da36c9eeb18",
+  "page_manifest": [
+    {
+      "slug": "c3-story",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Is the game mat empty?",
+      "subtitle": "We will learn the number for none. We will read and write it.",
+      "task_ids": [],
+      "adult": false,
+      "pre_numerals": true
+    },
+    {
+      "slug": "c3-model",
+      "kicker": "Chapter three / Zero means none",
+      "title": "None has a number",
+      "subtitle": "Watch Mrs Binta with a tray and real counters.",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-guided",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Say it. Make it. Write it.",
+      "subtitle": "Try together before working on your own.",
+      "task_ids": [
+        "P1-03-GUIDED",
+        "P1-03-FORM-MODEL"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-independent",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Your turn with zero",
+      "subtitle": "Use workbook pages called Empty and not empty, and Make and order zero, or an exercise book.",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-Q3"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-recall",
+      "kicker": "Chapter three / Zero means none",
+      "title": "Remember and explain",
+      "subtitle": "Remember what Mrs Binta showed before looking back.",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-ending",
+      "kicker": "Chapter three / Zero means none",
+      "title": "The game is packed away",
+      "subtitle": "Use our three real game counters. Move them from the mat into the storage box.",
+      "task_ids": [
+        "P1-03-ENDING",
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-WRITE"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-guide",
+      "kicker": "For the teacher / Zero",
+      "title": "Teach, notice and return",
+      "subtitle": "Adult guidance / Read instructions aloud. Observe separate skills.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-answers",
+      "kicker": "For the teacher / Zero",
+      "title": "Answers and fresh checks",
+      "subtitle": "Adult task map / TB = this textbook extract; WB = its paired workbook.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c3-notes",
+      "kicker": "For the teacher / Zero",
+      "title": "Words, evidence and credits",
+      "subtitle": "Chapter three continuation extract / Not a completed annual book.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-03-MODEL": [
+      2
+    ],
+    "P1-03-GUIDED": [
+      3
+    ],
+    "P1-03-FORM-MODEL": [
+      3
+    ],
+    "P1-03-Q1": [
+      4
+    ],
+    "P1-03-Q2": [
+      4
+    ],
+    "P1-03-Q3": [
+      4
+    ],
+    "P1-03-Q4": [
+      5
+    ],
+    "P1-03-Q5": [
+      5
+    ],
+    "P1-03-Q6": [
+      5
+    ],
+    "P1-03-RECALL": [
+      5
+    ],
+    "P1-03-SUPPORT": [
+      5
+    ],
+    "P1-03-ENDING": [
+      6
+    ],
+    "P1-03-FRESH-EMPTY": [
+      6
+    ],
+    "P1-03-FRESH-RECOGNISE": [
+      6
+    ],
+    "P1-03-FRESH-READ": [
+      6
+    ],
+    "P1-03-FRESH-WRITE": [
+      6
+    ]
+  },
+  "objects": [
+    {
+      "id": "c3-model-two",
+      "page": 2,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          230,
+          320
+        ],
+        [
+          345,
+          320
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "c3-model-none",
+      "page": 2,
+      "kinds": [],
+      "points": [],
+      "count": 0
+    },
+    {
+      "id": "c3-Q1-empty",
+      "page": 4,
+      "kinds": [],
+      "points": [],
+      "count": 0
+    },
+    {
+      "id": "c3-Q4-three",
+      "page": 5,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          175,
+          315
+        ],
+        [
+          290,
+          315
+        ],
+        [
+          405,
+          315
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "c3-ending-none",
+      "page": 6,
+      "kinds": [],
+      "points": [],
+      "count": 0
+    },
+    {
+      "id": "c3-ending-stored",
+      "page": 6,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          350,
+          362
+        ],
+        [
+          415,
+          362
+        ],
+        [
+          480,
+          362
+        ]
+      ],
+      "count": 3
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

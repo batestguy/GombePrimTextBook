@@ -1,5 +1,11 @@
 # Primary 1: full-year production plan
 
+Series-wide opening requirement (20 October 2026): every chapter begins with its
+lead teacher at a large blackboard and the four children seated facing the teacher.
+The board carries a short, clearly typeset hint of the topic. Alternate Mrs Binta
+and Mr Aliyu; other story settings follow the opening. Apply this to each of the
+remaining units as it is developed; legacy drafts are not approved redesigned chapters.
+
 Implementation checkpoint: Chapters 1-2 are now adapted into an opening textbook
 and separate workbook, with canonical lesson content, shared rendering and
 paired-artifact review enforcement. See [the implementation/review packet](../output/primary-1-opening/HANDOFF.md)
@@ -224,6 +230,43 @@ the shared textbook/workbook opening section. Do not restart research or ask the
 user to obtain inaccessible materials before doing that authorised drafting work.
 No publishing, purchasing, school contact, commit or push is authorised by this
 documentation instruction.
+
+**23 October allocation checkpoint:** the [teaching/task map](PRIMARY-1-TEACHING-MAP.md)
+and [machine-readable allocation](PRIMARY-1-TEACHING-MAP.json) now assign all 54
+historical objectives, 114 retained source questions and 21 supplements to the
+19 units. Worked/guided/fresh-check examples, answers, support and delayed checks
+are proposed authoring specifications, not rendered or approved chapter content.
+Annual assessment item adaptation and final assembly remain unfinished. Consult
+`output/annual-teaching-map/REVIEW.md` for independent documentation review evidence.
+After that review, the next chapter-production step is P1-03, **Zero means none**,
+with Mrs Binta, followed by paired rendering and independent every-task/page review.
+The existing opening pair stays a separate exact reviewed extract.
+
+**23 October Chapter 3 checkpoint:** P1-03, **Zero means none**, now has an
+independently reviewed 9-page continuation textbook and 4-page workbook. Exact
+artifacts/every-task/every-page evidence: `output/chapter-3/REVIEW.md`. The opening
+pair remains byte-for-byte unchanged and passed shared-source re-review; strict
+P1-01/P1-02/P1-03 gates and preflight pass. Next unit is P1-04, **Six to nine**,
+led by Mr Aliyu, continuing the alternating lead-teacher sequence. Sixteen P1
+units, annual assessments, final four AI pages and full-year assembly remain.
+
+**23 October Chapter 4 checkpoint:** P1-04, **Six to nine**, has an independently
+reviewed 11-page continuation textbook and 6-page workbook, led by Mr Aliyu.
+Review also corrected instructions for covering prior written answers before
+memory writing in P1-03; prior exact Zero artifacts are archived, and current Zero
+files have fresh approval. See `output/chapter-4/REVIEW.md` for all62pages, every
+task and the two resolved findings. Strict P1-01 through P1-04 gates and preflight
+pass. Next is P1-05, **A bundle of ten**, with Mrs Binta. Fifteen P1 units plus
+annual assessment/AI pages/full assembly remain unfinished.
+
+**23 October Chapter 5 checkpoint:** P1-05, **A bundle of ten**, has an
+independently reviewed 13-page continuation textbook and 6-page workbook, led by
+Mrs Binta. It models ten countable ones per bundle, all quantities/names11-20,
+tens/ones, source tasks and distinct fresh skills. Exact artifacts and all81page/
+every-task evidence: `output/chapter-5/REVIEW.md`. Earlier PDFs are unchanged;
+strict P1-01 through P1-05 gates and preflight pass. Next P1-06, **Numbers to
+ninety-nine**, uses Mr Aliyu and gradual successive decades. Fourteen P1 units,
+annual revision/assessment, final four AI pages and annual assembly remain.
 
 ## 8. Assumptions, evidence and continuity
 

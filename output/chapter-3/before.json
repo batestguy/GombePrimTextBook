@@ -1,0 +1,5566 @@
+{
+  "hashes": {
+    "production/p1.json": "67102f9b9548f0bcbd26053c6009dbc3289a7c4829424f1f3ef33e582916098e",
+    "production/p1-opening.json": "66e0a842d5d1fcbf45015c76f8a8fd431369011d8cb228dcea8bfc01ae40dd3c",
+    "production/chapter-reviews.json": "89ddaeef22e5dcb1a63da3cb6e94ee76ee6d524c7c2d0d6d5aea4b25a3cf528a",
+    "scripts/build_primary_one_opening.py": "3e0a91ee708c4c676b99ae7ec8a0dfdbe7962199956d2ce3bf4e2bda233a43e2",
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+    "GombeTextbook.txt": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca"
+  },
+  "lessons": [
+    {
+      "id": "P1-01",
+      "grade": 1,
+      "title": "One to five",
+      "topic": "Numbers 1\u20135",
+      "source_pages": [
+        1
+      ],
+      "goal": "Count, read, write and order 1 to 5.",
+      "look": "Aishatu's pretend tea shop needs a cup for every friend. Mrs Binta helps the club count carefully.",
+      "learn": "Touch each cup once. Say one number word as you touch it. The last number tells how many. Match each group to its numeral, then practise forming 1 to 5 in a workbook or exercise book.",
+      "worked": "Touch three cups once each: one, two, three. There are 3 cups. A circle can represent each cup: two cups can be shown by two circles.",
+      "play": "Count large unbreakable cups with a partner. Make a requested set from 1 to 5; choose its numeral from shuffled cards. Give each friend one cup for the pretend shop. Swap roles.",
+      "vocabulary": "count; number; how many",
+      "hint": "Model one touch and one number word per cup, then the total. Check quantity, numeral recognition and formation separately. Read aloud; allow speaking, pointing or moving objects before writing. Work in the workbook or an exercise book.",
+      "questions": [
+        {
+          "prompt": "Count row A. Write the number.",
+          "answer": "3",
+          "id": "P1-01-Q1"
+        },
+        {
+          "prompt": "Count row B. Write the number.",
+          "answer": "5",
+          "id": "P1-01-Q2"
+        },
+        {
+          "prompt": "Draw 2 circles.",
+          "answer": "Two separate circles.",
+          "id": "P1-01-Q3"
+        },
+        {
+          "prompt": "Write 1 to 5 in order.",
+          "answer": "1, 2, 3, 4, 5",
+          "id": "P1-01-Q4"
+        },
+        {
+          "prompt": "Show 4 fingers. How many?",
+          "answer": "4",
+          "id": "P1-01-Q5"
+        },
+        {
+          "prompt": "Musa counts one top twice. Show a better way.",
+          "answer": "Touch or move each top exactly once.",
+          "id": "P1-01-Q6"
+        }
+      ],
+      "diagram": "count35",
+      "paired_edition": {
+        "teacher_id": "ms-binta",
+        "source_tasks": [
+          {
+            "id": "P1-01-Q1",
+            "source_prompt": "Count row A. Write the number.",
+            "source_answer": "3"
+          },
+          {
+            "id": "P1-01-Q2",
+            "source_prompt": "Count row B. Write the number.",
+            "source_answer": "5"
+          },
+          {
+            "id": "P1-01-Q3",
+            "source_prompt": "Draw 2 circles.",
+            "source_answer": "Two separate circles."
+          },
+          {
+            "id": "P1-01-Q4",
+            "source_prompt": "Write 1 to 5 in order.",
+            "source_answer": "1, 2, 3, 4, 5"
+          },
+          {
+            "id": "P1-01-Q5",
+            "source_prompt": "Show 4 fingers. How many?",
+            "source_answer": "4"
+          },
+          {
+            "id": "P1-01-Q6",
+            "source_prompt": "Musa counts one top twice. Show a better way.",
+            "source_answer": "Touch or move each top exactly once."
+          }
+        ],
+        "textbook_pages": [
+          {
+            "slug": "c1-story",
+            "kicker": "Chapter one / One to five",
+            "title": "A cup for every friend",
+            "subtitle": "We will count, read, write and order one to five.",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+                "x": 43,
+                "top": 160,
+                "width": 509,
+                "height": 339,
+                "preserve": false
+              },
+              {
+                "type": "text",
+                "top": 214,
+                "text": "<b>Touch one.</b><br/><b>Say one number.</b>",
+                "size": 17,
+                "x": 263,
+                "width": 230,
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "top": 517,
+                "text": "<b>Mrs Binta:</b> Let us help Aishatu open her pretend tea shop. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 724,
+                "text": "Mrs Binta leads our counting lesson.<br/>Use large unbreakable cups at a reachable table.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [],
+            "pre_numerals": true,
+            "adult": false
+          },
+          {
+            "slug": "c1-model",
+            "kicker": "Watch Mrs Binta",
+            "title": "Touch. Say. Count.",
+            "subtitle": "Start with real cups. Then look at these cup pictures.",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+                "x": 43,
+                "top": 165,
+                "width": 105,
+                "height": 105,
+                "preserve": true
+              },
+              {
+                "type": "text",
+                "top": 170,
+                "text": "<b>Mrs Binta:</b> Watch me. I touch each cup once and say one number word.<br/><b>Aishatu:</b> I will slow down and watch.",
+                "size": 14,
+                "x": 165,
+                "width": 383
+              },
+              {
+                "type": "objects",
+                "id": "c1-model-three",
+                "kind": "cup",
+                "count": 3,
+                "x": 135,
+                "top": 374,
+                "gap": 160,
+                "scale": 1.3
+              },
+              {
+                "type": "text",
+                "top": 459,
+                "text": "<b>one</b>",
+                "size": 16,
+                "x": 115,
+                "width": 110
+              },
+              {
+                "type": "text",
+                "top": 459,
+                "text": "<b>two</b>",
+                "size": 16,
+                "x": 275,
+                "width": 110
+              },
+              {
+                "type": "text",
+                "top": 459,
+                "text": "<b>three</b>",
+                "size": 16,
+                "x": 435,
+                "width": 110
+              },
+              {
+                "type": "text",
+                "top": 530,
+                "text": "<b>Mrs Binta:</b> The last number was three.<br/>There are three cups.",
+                "size": 17,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 43,
+                "top": 630,
+                "width": 80,
+                "height": 80,
+                "preserve": true,
+                "index": 2
+              },
+              {
+                "type": "text",
+                "top": 631,
+                "text": "<b>Grace:</b> We can check again.<br/><b>Try together:</b> touch each cup picture once. Say its number word. Then say how many.",
+                "size": 14,
+                "x": 143,
+                "width": 404
+              },
+              {
+                "type": "text",
+                "top": 743,
+                "text": "Do this with real cups too. Move each counted cup aside.",
+                "size": 12,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [],
+            "pre_numerals": true,
+            "adult": false
+          },
+          {
+            "slug": "c1-numbers",
+            "kicker": "Count together, then show it",
+            "title": "Cups and numbers",
+            "subtitle": "Touch each cup. Say the number. Look at its numeral.",
+            "elements": [
+              {
+                "type": "objects",
+                "id": "c1-ladder-1",
+                "kind": "cup",
+                "count": 1,
+                "x": 115,
+                "top": 170,
+                "gap": 47,
+                "scale": 0.72
+              },
+              {
+                "type": "text",
+                "top": 171,
+                "text": "<b>one</b>",
+                "size": 14,
+                "x": 385,
+                "width": 90
+              },
+              {
+                "type": "text",
+                "top": 166,
+                "text": "<b>1</b>",
+                "size": 24,
+                "x": 490,
+                "width": 55
+              },
+              {
+                "type": "objects",
+                "id": "c1-ladder-2",
+                "kind": "cup",
+                "count": 2,
+                "x": 115,
+                "top": 237,
+                "gap": 47,
+                "scale": 0.72
+              },
+              {
+                "type": "text",
+                "top": 238,
+                "text": "<b>two</b>",
+                "size": 14,
+                "x": 385,
+                "width": 90
+              },
+              {
+                "type": "text",
+                "top": 233,
+                "text": "<b>2</b>",
+                "size": 24,
+                "x": 490,
+                "width": 55
+              },
+              {
+                "type": "objects",
+                "id": "c1-ladder-3",
+                "kind": "cup",
+                "count": 3,
+                "x": 115,
+                "top": 304,
+                "gap": 47,
+                "scale": 0.72
+              },
+              {
+                "type": "text",
+                "top": 305,
+                "text": "<b>three</b>",
+                "size": 14,
+                "x": 385,
+                "width": 90
+              },
+              {
+                "type": "text",
+                "top": 300,
+                "text": "<b>3</b>",
+                "size": 24,
+                "x": 490,
+                "width": 55
+              },
+              {
+                "type": "objects",
+                "id": "c1-ladder-4",
+                "kind": "cup",
+                "count": 4,
+                "x": 115,
+                "top": 371,
+                "gap": 47,
+                "scale": 0.72
+              },
+              {
+                "type": "text",
+                "top": 372,
+                "text": "<b>four</b>",
+                "size": 14,
+                "x": 385,
+                "width": 90
+              },
+              {
+                "type": "text",
+                "top": 367,
+                "text": "<b>4</b>",
+                "size": 24,
+                "x": 490,
+                "width": 55
+              },
+              {
+                "type": "objects",
+                "id": "c1-ladder-5",
+                "kind": "cup",
+                "count": 5,
+                "x": 115,
+                "top": 438,
+                "gap": 47,
+                "scale": 0.72
+              },
+              {
+                "type": "text",
+                "top": 439,
+                "text": "<b>five</b>",
+                "size": 14,
+                "x": 385,
+                "width": 90
+              },
+              {
+                "type": "text",
+                "top": 434,
+                "text": "<b>5</b>",
+                "size": 24,
+                "x": 490,
+                "width": 55
+              },
+              {
+                "type": "text",
+                "top": 533,
+                "text": "<b>John:</b> Can a drawing stand for a cup?<br/><b>Mrs Binta:</b> Yes. I draw one circle for each cup.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "c1-draw-model-cups",
+                "kind": "cup",
+                "count": 2,
+                "x": 135,
+                "top": 618,
+                "gap": 150,
+                "scale": 0.9
+              },
+              {
+                "type": "objects",
+                "id": "c1-draw-model-circles",
+                "kind": "circle",
+                "count": 2,
+                "x": 135,
+                "top": 710,
+                "gap": 150,
+                "scale": 1
+              },
+              {
+                "type": "line",
+                "x1": 135,
+                "top1": 659,
+                "x2": 135,
+                "top2": 691
+              },
+              {
+                "type": "line",
+                "x1": 285,
+                "top1": 659,
+                "x2": 285,
+                "top2": 691
+              },
+              {
+                "type": "text",
+                "top": 745,
+                "text": "Two cups. Two circles. One circle stands for each cup.",
+                "size": 12,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "c1-count-draw",
+            "kicker": "Your turn",
+            "title": "Count and draw",
+            "subtitle": "Try first. Use your workbook or an exercise book.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 165,
+                "text": "<b>Aishatu:</b> Count these cups. Say how many.<br/>Write how many in your exercise book.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "c1-Q1-three",
+                "kind": "cup",
+                "count": 3,
+                "x": 125,
+                "top": 270,
+                "gap": 150,
+                "scale": 1.05
+              },
+              {
+                "type": "text",
+                "top": 364,
+                "text": "<b>Grace:</b> Check this scattered group. Say how many.<br/>Write how many in your exercise book.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "c1-Q2-five",
+                "kinds": [
+                  "cup",
+                  "cup",
+                  "cup",
+                  "cup",
+                  "cup"
+                ],
+                "points": [
+                  [
+                    105,
+                    468
+                  ],
+                  [
+                    195,
+                    501
+                  ],
+                  [
+                    290,
+                    460
+                  ],
+                  [
+                    390,
+                    501
+                  ],
+                  [
+                    480,
+                    468
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 590,
+                "text": "<b>John:</b> Draw two circles in your exercise book.<br/>You can draw one circle for each cup below.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "c1-Q3-two",
+                "kind": "cup",
+                "count": 2,
+                "x": 145,
+                "top": 686,
+                "gap": 165,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 755,
+                "text": "Workbook: Count and draw. Use that page instead if you have it.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [
+              "P1-01-Q1",
+              "P1-01-Q2",
+              "P1-01-Q3"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "c1-recall",
+            "kicker": "Remember and try",
+            "title": "Write, show and explain",
+            "subtitle": "Remember what Mrs Binta showed before looking back.",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/teachers/ms-binta-v5.png",
+                "x": 43,
+                "top": 160,
+                "width": 85,
+                "height": 85,
+                "preserve": true
+              },
+              {
+                "type": "text",
+                "top": 167,
+                "text": "<b>Mrs Binta:</b> Watch me form each numeral on paper. Then write these numerals in order in your exercise book.",
+                "size": 14,
+                "x": 145,
+                "width": 401
+              },
+              {
+                "type": "text",
+                "top": 283,
+                "text": "<b>1     2     3     4     5</b>",
+                "size": 28,
+                "x": 90,
+                "width": 450
+              },
+              {
+                "type": "text",
+                "top": 351,
+                "text": "<b>John:</b> I want to try before a hint.<br/>Show four fingers. Count them. Write how many in your exercise book. You can show four objects instead.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 468,
+                "text": "<b>Adamu:</b> I touched a cup twice. How can I check?<br/>Tell or show a partner how to count each cup just once.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "c1-Q6-three",
+                "kind": "cup",
+                "count": 3,
+                "x": 120,
+                "top": 560,
+                "gap": 160,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 642,
+                "text": "<b>Need help?</b> With an adult, use two cups. Move one cup aside as you say each number. Say how many. Then try a fresh small set.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 748,
+                "text": "Workbook: Trace and write; Show how you count.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [
+              "P1-01-Q4",
+              "P1-01-Q5",
+              "P1-01-Q6"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "c1-ending",
+            "kicker": "Finish our story / A fresh try",
+            "title": "Our tea shop is ready",
+            "subtitle": "Count the cups. Does every friend have a cup?",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 65,
+                "top": 168,
+                "width": 85,
+                "height": 85,
+                "preserve": true,
+                "index": 0
+              },
+              {
+                "type": "objects",
+                "id": "c1-ending-cup-0",
+                "kind": "cup",
+                "count": 1,
+                "x": 100,
+                "top": 300,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 190,
+                "top": 168,
+                "width": 85,
+                "height": 85,
+                "preserve": true,
+                "index": 1
+              },
+              {
+                "type": "objects",
+                "id": "c1-ending-cup-1",
+                "kind": "cup",
+                "count": 1,
+                "x": 225,
+                "top": 300,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 315,
+                "top": 168,
+                "width": 85,
+                "height": 85,
+                "preserve": true,
+                "index": 2
+              },
+              {
+                "type": "objects",
+                "id": "c1-ending-cup-2",
+                "kind": "cup",
+                "count": 1,
+                "x": 350,
+                "top": 300,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 440,
+                "top": 168,
+                "width": 85,
+                "height": 85,
+                "preserve": true,
+                "index": 3
+              },
+              {
+                "type": "objects",
+                "id": "c1-ending-cup-3",
+                "kind": "cup",
+                "count": 1,
+                "x": 475,
+                "top": 300,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 384,
+                "text": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now your pretend tea shop can open.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 566,
+                "text": "<b>A fresh try. Work on your own.</b><br/>Ask an adult to name a number from one to five.<br/>Make that many cups or counters at the table.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 645,
+                "text": "Ask the adult to mix numeral cards from one to five.<br/>Point to the numeral the adult says.<br/>Now the adult points to a mixed card. Say its number.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 755,
+                "text": "Workbook: A fresh counting try. The adult chooses the numbers.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [
+              "P1-01-FRESH-SET",
+              "P1-01-FRESH-READ",
+              "P1-01-FRESH-RECOGNISE"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          }
+        ],
+        "workbook_pages": [
+          {
+            "slug": "w1-count-draw",
+            "kicker": "One to five / Your turn",
+            "title": "Count and draw",
+            "subtitle": "Look at the textbook models first. Write and draw on this page.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "Touch each cup once. Count aloud.<br/>Write how many in the small box.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w1-Q1-three",
+                "kind": "cup",
+                "count": 3,
+                "x": 105,
+                "top": 260,
+                "gap": 125,
+                "scale": 1
+              },
+              {
+                "type": "box",
+                "x": 469,
+                "top": 251,
+                "width": 66,
+                "height": 61,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 362,
+                "text": "Count this scattered group.<br/>Write how many in the small box.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w1-Q2-five",
+                "kinds": [
+                  "cup",
+                  "cup",
+                  "cup",
+                  "cup",
+                  "cup"
+                ],
+                "points": [
+                  [
+                    80,
+                    451
+                  ],
+                  [
+                    160,
+                    479
+                  ],
+                  [
+                    240,
+                    445
+                  ],
+                  [
+                    325,
+                    479
+                  ],
+                  [
+                    410,
+                    451
+                  ]
+                ]
+              },
+              {
+                "type": "box",
+                "x": 469,
+                "top": 455,
+                "width": 66,
+                "height": 61,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 566,
+                "text": "Draw two circles in the large box.<br/>A circle can stand for each cup.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w1-Q3-two",
+                "kind": "cup",
+                "count": 2,
+                "x": 389,
+                "top": 575,
+                "gap": 90,
+                "scale": 0.7
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 647,
+                "width": 509,
+                "height": 119,
+                "response": true
+              }
+            ],
+            "task_ids": [
+              "P1-01-Q1",
+              "P1-01-Q2",
+              "P1-01-Q3"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "w1-trace",
+            "kicker": "One to five / Watch, then practise",
+            "title": "Trace and write",
+            "subtitle": "Watch your teacher form each numeral on paper first.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "Trace each light numeral. Then write it in the empty box beside it. Work from the top row down.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 252,
+                "text": "<b>1</b>",
+                "size": 34,
+                "x": 71,
+                "width": 80
+              },
+              {
+                "type": "trace",
+                "x": 241,
+                "top": 245,
+                "digit": 1,
+                "size": 45
+              },
+              {
+                "type": "box",
+                "x": 367,
+                "top": 243,
+                "width": 151,
+                "height": 70,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 350,
+                "text": "<b>2</b>",
+                "size": 34,
+                "x": 71,
+                "width": 80
+              },
+              {
+                "type": "trace",
+                "x": 241,
+                "top": 343,
+                "digit": 2,
+                "size": 45
+              },
+              {
+                "type": "box",
+                "x": 367,
+                "top": 341,
+                "width": 151,
+                "height": 70,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 448,
+                "text": "<b>3</b>",
+                "size": 34,
+                "x": 71,
+                "width": 80
+              },
+              {
+                "type": "trace",
+                "x": 241,
+                "top": 441,
+                "digit": 3,
+                "size": 45
+              },
+              {
+                "type": "box",
+                "x": 367,
+                "top": 439,
+                "width": 151,
+                "height": 70,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 546,
+                "text": "<b>4</b>",
+                "size": 34,
+                "x": 71,
+                "width": 80
+              },
+              {
+                "type": "trace",
+                "x": 241,
+                "top": 539,
+                "digit": 4,
+                "size": 45
+              },
+              {
+                "type": "box",
+                "x": 367,
+                "top": 537,
+                "width": 151,
+                "height": 70,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 644,
+                "text": "<b>5</b>",
+                "size": 34,
+                "x": 71,
+                "width": 80
+              },
+              {
+                "type": "trace",
+                "x": 241,
+                "top": 637,
+                "digit": 5,
+                "size": 45
+              },
+              {
+                "type": "box",
+                "x": 367,
+                "top": 635,
+                "width": 151,
+                "height": 70,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 752,
+                "text": "Now say the numerals in order. Try again on paper if you need to.",
+                "size": 11.5,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [
+              "P1-01-Q4"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "w1-recall",
+            "kicker": "One to five / Remember and help",
+            "title": "Show how you count",
+            "subtitle": "Try to remember Mrs Binta before looking back.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 165,
+                "text": "Show four fingers. Count them.<br/>Write how many in the box. You can use four objects instead.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 413,
+                "top": 255,
+                "width": 107,
+                "height": 68,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 374,
+                "text": "<b>Adamu:</b> I touched a cup twice.<br/>Show a partner how to count each cup just once.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w1-Q6-three",
+                "kind": "cup",
+                "count": 3,
+                "x": 120,
+                "top": 485,
+                "gap": 160,
+                "scale": 1.1
+              },
+              {
+                "type": "text",
+                "top": 588,
+                "text": "Tell or show your counting method. You can draw your idea below.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 648,
+                "width": 509,
+                "height": 117,
+                "response": true
+              }
+            ],
+            "task_ids": [
+              "P1-01-Q5",
+              "P1-01-Q6"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "w1-fresh",
+            "kicker": "One to five / A fresh try",
+            "title": "A fresh counting try",
+            "subtitle": "An adult reads these instructions. Try before getting help.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 166,
+                "text": "Ask an adult to say a number from one to five.<br/>Make that many large objects at the table.<br/>Count once to check.",
+                "size": 16,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 321,
+                "text": "Ask the adult to say another number.<br/>Draw that many circles in the large box.",
+                "size": 16,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 412,
+                "width": 509,
+                "height": 156,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 620,
+                "text": "Point to the numeral the adult says.<br/>Then the adult points to a mixed card.<br/>Say its number. Try a different order next.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 704,
+                "width": 94,
+                "height": 63,
+                "response": false
+              },
+              {
+                "type": "text",
+                "top": 711,
+                "text": "<b>3</b>",
+                "size": 29,
+                "x": 73,
+                "width": 65
+              },
+              {
+                "type": "box",
+                "x": 146,
+                "top": 704,
+                "width": 94,
+                "height": 63,
+                "response": false
+              },
+              {
+                "type": "text",
+                "top": 711,
+                "text": "<b>1</b>",
+                "size": 29,
+                "x": 176,
+                "width": 65
+              },
+              {
+                "type": "box",
+                "x": 249,
+                "top": 704,
+                "width": 94,
+                "height": 63,
+                "response": false
+              },
+              {
+                "type": "text",
+                "top": 711,
+                "text": "<b>5</b>",
+                "size": 29,
+                "x": 279,
+                "width": 65
+              },
+              {
+                "type": "box",
+                "x": 352,
+                "top": 704,
+                "width": 94,
+                "height": 63,
+                "response": false
+              },
+              {
+                "type": "text",
+                "top": 711,
+                "text": "<b>2</b>",
+                "size": 29,
+                "x": 382,
+                "width": 65
+              },
+              {
+                "type": "box",
+                "x": 455,
+                "top": 704,
+                "width": 94,
+                "height": 63,
+                "response": false
+              },
+              {
+                "type": "text",
+                "top": 711,
+                "text": "<b>4</b>",
+                "size": 29,
+                "x": 485,
+                "width": 65
+              }
+            ],
+            "task_ids": [
+              "P1-01-FRESH-SET",
+              "P1-01-FRESH-READ",
+              "P1-01-FRESH-RECOGNISE"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          }
+        ],
+        "sessions": [
+          "Story and concrete model",
+          "Guided counting and numerals",
+          "Count/draw and numeral formation",
+          "Recall, story ending and fresh checks"
+        ],
+        "objective_ids": [
+          "P1-p01-02",
+          "P1-p01-03",
+          "P1-p01-04",
+          "P1-p01-05"
+        ],
+        "adaptation": "Cups replace source tops/dots; source answers retained in adult map. Introductions are front matter; written responses move to workbook/exercise book."
+      }
+    },
+    {
+      "id": "P1-02",
+      "grade": 1,
+      "title": "Sort, match and order",
+      "topic": "Numbers 1\u20135",
+      "source_pages": [
+        1
+      ],
+      "goal": "Sort collections and compare small sets.",
+      "look": "Aishatu's toy shop is open. The club needs to tidy leaf tickets and top counters for a new game. Mr Aliyu helps them sort and compare.",
+      "learn": "A set is a collection. Sort by one rule: leaves together and tops together. Match one leaf to one top. Unmatched tops show which set has more. Sets with a partner for every object have the same number. Count sets and put them in order from fewest to most.",
+      "worked": "Match 2 tops to 4 tops, one to one. Two tops in the set of 4 have no partner. Four is more than two; two is fewer than four. Sets of 2, 3 and 4 go in that order from fewest to most.",
+      "play": "Sort clean, large leaves and large tops into separate sets. Match one leaf to one top. Say which set has more, fewer, or the same number. Swap roles. Make sets of 1 to 5 tops and order them from fewest to most.",
+      "vocabulary": "sort; set; more; fewer",
+      "hint": "Read aloud and model sorting before matching. Put one object beside one partner; spacing and object size do not decide which set has more. Provide reachable materials and allow pointing, speaking or moving objects. Recheck later with fresh sets.",
+      "questions": [
+        {
+          "prompt": "Order: 4, 1, 3.",
+          "answer": "1, 3, 4",
+          "id": "P1-02-Q1"
+        },
+        {
+          "prompt": "Draw sets of 1 and 3 dots.",
+          "answer": "One dot in one set; three in the other.",
+          "id": "P1-02-Q2"
+        },
+        {
+          "prompt": "Which has more: 2 tops or 5 tops?",
+          "answer": "5 tops",
+          "id": "P1-02-Q3"
+        },
+        {
+          "prompt": "Which has fewer: 4 leaves or 3 leaves?",
+          "answer": "3 leaves",
+          "id": "P1-02-Q4"
+        },
+        {
+          "prompt": "Make a set of 5 objects.",
+          "answer": "Exactly five objects.",
+          "id": "P1-02-Q5"
+        },
+        {
+          "prompt": "Explain how to compare two sets.",
+          "answer": "Match one to one or count both sets.",
+          "id": "P1-02-Q6"
+        }
+      ],
+      "diagram": "",
+      "redesign": {
+        "standard": "docs/CHAPTER-STANDARD.md",
+        "review_protocol": "docs/CHAPTER-REVIEW.md",
+        "author": "Codex /root",
+        "teacher_id": "mr-aliyu",
+        "pupil_pages": 7,
+        "story_inventory": {
+          "leaves": 3,
+          "tops": 5,
+          "matched_pairs": 3,
+          "spare_tops": 2
+        },
+        "limits": [
+          "Current applicable curriculum alignment unverified",
+          "Local educator and pupil trial pending",
+          "Physical print test and printer approval pending",
+          "Standalone chapter review PDF; full volume retains its legacy layout",
+          "Accessible PDF certification pending"
+        ],
+        "pages": [
+          {
+            "kicker": "Our toy shop / Chapter two",
+            "title": "Sort, match and order",
+            "subtitle": "We will sort things, match them and put small sets in order.",
+            "elements": [
+              {
+                "type": "teacher",
+                "x": 43,
+                "top": 164,
+                "size": 105
+              },
+              {
+                "type": "text",
+                "top": 170,
+                "text": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.",
+                "size": 14,
+                "x": 163,
+                "width": 380
+              },
+              {
+                "type": "portrait",
+                "index": 0,
+                "x": 67,
+                "top": 282,
+                "size": 82
+              },
+              {
+                "type": "portrait",
+                "index": 1,
+                "x": 192,
+                "top": 282,
+                "size": 82
+              },
+              {
+                "type": "portrait",
+                "index": 2,
+                "x": 317,
+                "top": 282,
+                "size": 82
+              },
+              {
+                "type": "portrait",
+                "index": 3,
+                "x": 442,
+                "top": 282,
+                "size": 82
+              },
+              {
+                "type": "text",
+                "top": 380,
+                "text": "<b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "story-tray",
+                "x": 43,
+                "top": 510,
+                "width": 509,
+                "height": 145
+              },
+              {
+                "type": "objects",
+                "id": "opening-tray",
+                "kinds": [
+                  "leaf",
+                  "top",
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf",
+                  "top",
+                  "top"
+                ],
+                "points": [
+                  [
+                    95,
+                    552
+                  ],
+                  [
+                    185,
+                    550
+                  ],
+                  [
+                    287,
+                    550
+                  ],
+                  [
+                    390,
+                    552
+                  ],
+                  [
+                    485,
+                    550
+                  ],
+                  [
+                    140,
+                    615
+                  ],
+                  [
+                    285,
+                    615
+                  ],
+                  [
+                    435,
+                    615
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 680,
+                "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              }
+            ]
+          },
+          {
+            "kicker": "Watch and try together",
+            "title": "Give each set a place",
+            "subtitle": "A set is a collection. Sort by one rule.",
+            "elements": [
+              {
+                "type": "teacher",
+                "x": 43,
+                "top": 164,
+                "size": 85
+              },
+              {
+                "type": "text",
+                "top": 169,
+                "text": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
+                "size": 14,
+                "x": 145,
+                "width": 405
+              },
+              {
+                "type": "text",
+                "top": 282,
+                "text": "<b>Leaves together</b>",
+                "size": 14,
+                "x": 61,
+                "width": 220
+              },
+              {
+                "type": "text",
+                "top": 282,
+                "text": "<b>Tops together</b>",
+                "size": 14,
+                "x": 319,
+                "width": 220
+              },
+              {
+                "type": "box",
+                "id": "sorted-leaves",
+                "x": 43,
+                "top": 322,
+                "width": 230,
+                "height": 96
+              },
+              {
+                "type": "box",
+                "id": "sorted-tops",
+                "x": 298,
+                "top": 322,
+                "width": 254,
+                "height": 96
+              },
+              {
+                "type": "objects",
+                "id": "sort-model-leaves",
+                "kind": "leaf",
+                "count": 3,
+                "x": 89,
+                "top": 368,
+                "gap": 65,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "sort-model-tops",
+                "kind": "top",
+                "count": 5,
+                "x": 327,
+                "top": 368,
+                "gap": 49,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 446,
+                "text": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 550,
+                "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "guided-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf"
+                ],
+                "points": [
+                  [
+                    106,
+                    625
+                  ],
+                  [
+                    232,
+                    625
+                  ],
+                  [
+                    358,
+                    625
+                  ],
+                  [
+                    484,
+                    625
+                  ]
+                ]
+              },
+              {
+                "type": "portrait",
+                "index": 2,
+                "x": 43,
+                "top": 686,
+                "size": 68
+              },
+              {
+                "type": "text",
+                "top": 686,
+                "text": "<b>Grace:</b> Now I can keep the two sets tidy.<br/><b>Mr Aliyu:</b> Tell a partner our sorting rule.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "ellipse",
+                "x": 203,
+                "top": 598,
+                "width": 61,
+                "height": 54
+              }
+            ]
+          },
+          {
+            "kicker": "Watch and try together",
+            "title": "One partner for each",
+            "subtitle": "Match one object to one object to compare the sets.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 163,
+                "text": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "match-model-two",
+                "kind": "top",
+                "count": 2,
+                "x": 100,
+                "top": 255,
+                "gap": 85,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "match-model-four",
+                "kind": "top",
+                "count": 4,
+                "x": 100,
+                "top": 357,
+                "gap": 85,
+                "scale": 1
+              },
+              {
+                "type": "line",
+                "x1": 100,
+                "top1": 274,
+                "x2": 100,
+                "top2": 338
+              },
+              {
+                "type": "line",
+                "x1": 185,
+                "top1": 274,
+                "x2": 185,
+                "top2": 338
+              },
+              {
+                "type": "text",
+                "top": 395,
+                "text": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "portrait",
+                "index": 1,
+                "x": 43,
+                "top": 475,
+                "size": 68
+              },
+              {
+                "type": "text",
+                "top": 477,
+                "text": "<b>Adamu:</b> The long row must have more!<br/><b>Mr Aliyu:</b> Let us match and check.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "objects",
+                "id": "equal-close",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 585,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "equal-wide",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 685,
+                "gap": 160,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 726,
+                "text": "Draw one line from each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "ellipse",
+                "x": 66,
+                "top": 329,
+                "width": 322,
+                "height": 57
+              }
+            ]
+          },
+          {
+            "kicker": "Learn, then try",
+            "title": "From fewest to most",
+            "subtitle": "Count each set. Begin with the set that has the fewest.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 163,
+                "text": "<b>Mr Aliyu:</b> I count these sets: two, three, four. I put two first, then three, then four.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "order-model-two",
+                "kind": "dot",
+                "count": 2,
+                "x": 80,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "order-model-three",
+                "kind": "dot",
+                "count": 3,
+                "x": 235,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "order-model-four",
+                "kind": "dot",
+                "count": 4,
+                "x": 410,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>2</b>",
+                "size": 20,
+                "x": 83,
+                "width": 95
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>3</b>",
+                "size": 20,
+                "x": 264,
+                "width": 95
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>4</b>",
+                "size": 20,
+                "x": 446,
+                "width": 95
+              },
+              {
+                "type": "portrait",
+                "index": 0,
+                "x": 43,
+                "top": 349,
+                "size": 68
+              },
+              {
+                "type": "text",
+                "top": 352,
+                "text": "<b>Aishatu:</b> I want to rush to the game.<br/><b>Mr Aliyu:</b> Pause and count each set first.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "text",
+                "top": 448,
+                "text": "Write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q1-0",
+                "x": 88,
+                "top": 501,
+                "width": 104,
+                "height": 65
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q1-1",
+                "x": 246,
+                "top": 501,
+                "width": 104,
+                "height": 65
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q1-2",
+                "x": 404,
+                "top": 501,
+                "width": 104,
+                "height": 65
+              },
+              {
+                "type": "text",
+                "top": 601,
+                "text": "Draw <b>1</b> dot in the left box.<br/>Draw <b>3</b> dots in the right box.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q2-left",
+                "x": 43,
+                "top": 676,
+                "width": 230,
+                "height": 97
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q2-right",
+                "x": 298,
+                "top": 676,
+                "width": 254,
+                "height": 97
+              }
+            ]
+          },
+          {
+            "kicker": "Your turn",
+            "title": "Which has more?",
+            "subtitle": "Use matching or counting. Try these on your own.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-two",
+                "x": 43,
+                "top": 242,
+                "width": 190,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-five",
+                "x": 253,
+                "top": 242,
+                "width": 299,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q3-two",
+                "kind": "top",
+                "count": 2,
+                "x": 103,
+                "top": 293,
+                "gap": 65,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q3-five",
+                "kind": "top",
+                "count": 5,
+                "x": 285,
+                "top": 293,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 403,
+                "text": "Point to the set with fewer leaves.<br/>Circle that whole set.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-four",
+                "x": 43,
+                "top": 483,
+                "width": 255,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-three",
+                "x": 322,
+                "top": 483,
+                "width": 230,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q4-four",
+                "kind": "leaf",
+                "count": 4,
+                "x": 80,
+                "top": 535,
+                "gap": 58,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q4-three",
+                "kind": "leaf",
+                "count": 3,
+                "x": 367,
+                "top": 535,
+                "gap": 67,
+                "scale": 1
+              },
+              {
+                "type": "portrait",
+                "index": 3,
+                "x": 43,
+                "top": 650,
+                "size": 68
+              },
+              {
+                "type": "text",
+                "top": 654,
+                "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+                "size": 14,
+                "x": 135,
+                "width": 414
+              }
+            ]
+          },
+          {
+            "kicker": "Remember, then get help",
+            "title": "Show how you know",
+            "subtitle": "Try to remember what Mr Aliyu showed you before looking back.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 166,
+                "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops or your own drawing in this space.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "P1-02-Q6",
+                "x": 43,
+                "top": 247,
+                "width": 509,
+                "height": 125
+              },
+              {
+                "type": "text",
+                "top": 396,
+                "text": "<b>Need a smaller step?</b> Match each dot in the upper row to a different dot below. Mr Aliyu has drawn one match.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "support-two",
+                "kind": "dot",
+                "count": 2,
+                "x": 110,
+                "top": 490,
+                "gap": 105,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "support-three",
+                "kind": "dot",
+                "count": 3,
+                "x": 110,
+                "top": 575,
+                "gap": 105,
+                "scale": 1
+              },
+              {
+                "type": "line",
+                "x1": 110,
+                "top1": 502,
+                "x2": 110,
+                "top2": 563
+              },
+              {
+                "type": "text",
+                "top": 605,
+                "text": "Finish the matching. Point to the set with more.<br/>Now try your own two sets again.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 669,
+                "text": "<b>Adamu:</b> Your turn, then mine!<br/>Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              }
+            ]
+          },
+          {
+            "kicker": "Finish the story / A fresh try",
+            "title": "Ready for our game",
+            "subtitle": "Use what you have learned to finish tidying the toy shop.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 162,
+                "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "resolution-leaves",
+                "kind": "leaf",
+                "count": 3,
+                "x": 90,
+                "top": 263,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "resolution-tops",
+                "kind": "top",
+                "count": 5,
+                "x": 90,
+                "top": 350,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 391,
+                "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Put the tops with no partner in the spare box.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 513,
+                "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "fresh-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf",
+                  "top"
+                ],
+                "points": [
+                  [
+                    95,
+                    605
+                  ],
+                  [
+                    195,
+                    605
+                  ],
+                  [
+                    295,
+                    605
+                  ],
+                  [
+                    395,
+                    605
+                  ],
+                  [
+                    495,
+                    605
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 645,
+                "text": "Which set has more? Circle that whole set.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "fresh-four-box",
+                "x": 43,
+                "top": 693,
+                "width": 235,
+                "height": 78
+              },
+              {
+                "type": "box",
+                "id": "fresh-five-box",
+                "x": 298,
+                "top": 693,
+                "width": 254,
+                "height": 78
+              },
+              {
+                "type": "objects",
+                "id": "fresh-four",
+                "kind": "top",
+                "count": 4,
+                "x": 75,
+                "top": 731,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "fresh-five",
+                "kind": "leaf",
+                "count": 5,
+                "x": 327,
+                "top": 731,
+                "gap": 49,
+                "scale": 1
+              }
+            ]
+          },
+          {
+            "kicker": "For the teacher",
+            "title": "Teach, notice and return",
+            "subtitle": "P1-02 / Sort, match and order / Mr Aliyu leads.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "<b>Objective.</b> Sort collections and compare small sets. Also retain the source ordering practice within 1 to 5. Read all pupil text aloud. Prerequisite: count objects to five; revisit the Chapter 1 model as needed. The pupil pages have no numbered instructions.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 251,
+                "text": "<b>Concrete start.</b> At a reachable table, provide three clean, large leaves and five large, clean tops. Use pieces too large to swallow; supervise use. These are pretend tickets and counters, not food. Sort by type in front of pupils, then invite them to sort a separate tray. A set means a collection. Reuse this same three-leaf/five-top tray for the ending. No pieces are added or removed.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 370,
+                "text": "<b>Model, practise, compare.</b> Enact p. 2 with real pieces before using the pictures. On p. 3 pair two tops with four, one to one, and point to the two unmatched tops. Name more and fewer. On the equal-row activity, invite a prediction, then match: all three have partners in both rows, so the sets have the same number even when spaced differently. On p. 4 count the dot sets 2, 3, 4 before connecting them to numerals. Read the numerals aloud.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 510,
+                "text": "<b>Observe and help.</b> Confuses type with colour: restate leaves together/tops together, sort one, then ask the child to place another. Counts twice: move each counted object aside. Chooses by row length: bring one object beside one partner. Gives a partner twice: physically move paired objects together. Cannot order: build sets of 1, 3 and 4, then compare adjacent sets. Recheck each difficulty with fresh small sets; accept speaking, pointing or moving objects before writing.",
+                "size": 11,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 651,
+                "text": "<b>Recall and fresh checks.</b> On p. 6 wait before offering help. After support, change the quantities (for example 1 and 2) and ask again. For this recheck, 2 has more and 1 has fewer. Keep p. 7 fresh tasks independent before feedback. On another day, ask what Mr Aliyu showed. Give four leaves and two tops to sort and compare, then ask pupils to order 5, 2, 3. Answers: leaves/tops; four leaves more, two tops fewer; 2, 3, 5. Record independent / with help / not yet.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "adult": true
+          },
+          {
+            "kicker": "For the teacher",
+            "title": "Answers and chapter notes",
+            "subtitle": "Adult task IDs preserve the six source questions; pupil tasks are unnumbered.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 160,
+                "text": "<b>Every example and added task</b><br/>p. 1 tray and p. 2 sort model: 3 leaves and 5 tops. Guided sort: the leaf in the second position is already circled; point to the leaf in the fourth position. Tops are first and third. Grace moves her leaf to the leaves.<br/>p. 3 model: 2 matched pairs, 2 unpaired tops in the four-set; 4 more, 2 fewer. Guided rows: 3 in each, every top has a partner; same number. Any one-to-one bijection is valid.<br/>p. 4 model: 2, 3, 4 dots in increasing order.<br/>p. 6 support: 2 pairs and 1 unmatched lower dot; lower set of 3 has more. Accept either valid line from the remaining upper dot to a free lower dot.<br/>p. 7 resolution: 3 pairs, 2 spare tops; tops more, leaves fewer. Put those 2 unmatched tops in a real spare box. Read the closing dialogue after doing this action.<br/>p. 7 fresh sort: circle second and fourth objects (leaves). Fresh comparison: 5 leaves more than 4 tops; circle the right set.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 438,
+                "text": "<b>P1-02-Q1 (p. 4):</b> 1, 3, 4",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 469,
+                "text": "<b>P1-02-Q2 (p. 4):</b> One dot in one set; three in the other.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 515,
+                "text": "<b>P1-02-Q3 (p. 5):</b> 5 tops",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 546,
+                "text": "<b>P1-02-Q4 (p. 5):</b> 3 leaves",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 577,
+                "text": "<b>P1-02-Q5 (p. 6):</b> Exactly five objects.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 608,
+                "text": "<b>P1-02-Q6 (p. 6):</b> Match one to one or count both sets.",
+                "size": 10.5,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 668,
+                "text": "<b>Words:</b> sort = group by a rule; set = collection; match = pair one with one; more/fewer = greater/smaller number; same number = no unmatched objects. Historical source: original p. 1; objective/question links retained. Current curriculum comparison and Gombe educator review pending.",
+                "size": 8.7,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 735,
+                "text": "<b>Credits and scope:</b> existing built-in image_gen portraits; prompts/licences in artwork/manifest.json and adjacent provenance. Exact leaves, tops, dots and lines drawn by code. A4 RGB review chapter. Classroom trials, physical print test and printer approval pending. Full-volume glossary, mapping, credits, Book 2 preview and four final AI pages retained in book.qmd.",
+                "size": 8.3,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "adult": true
+          }
+        ]
+      },
+      "paired_edition": {
+        "teacher_id": "mr-aliyu",
+        "source_tasks": [
+          {
+            "id": "P1-02-Q1",
+            "source_prompt": "Order: 4, 1, 3.",
+            "source_answer": "1, 3, 4"
+          },
+          {
+            "id": "P1-02-Q2",
+            "source_prompt": "Draw sets of 1 and 3 dots.",
+            "source_answer": "One dot in one set; three in the other."
+          },
+          {
+            "id": "P1-02-Q3",
+            "source_prompt": "Which has more: 2 tops or 5 tops?",
+            "source_answer": "5 tops"
+          },
+          {
+            "id": "P1-02-Q4",
+            "source_prompt": "Which has fewer: 4 leaves or 3 leaves?",
+            "source_answer": "3 leaves"
+          },
+          {
+            "id": "P1-02-Q5",
+            "source_prompt": "Make a set of 5 objects.",
+            "source_answer": "Exactly five objects."
+          },
+          {
+            "id": "P1-02-Q6",
+            "source_prompt": "Explain how to compare two sets.",
+            "source_answer": "Match one to one or count both sets."
+          }
+        ],
+        "textbook_pages": [
+          {
+            "kicker": "Our toy shop / Chapter two",
+            "title": "Sort, match and order",
+            "subtitle": "We will sort things, match them and put small sets in order.",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png",
+                "x": 43,
+                "top": 155,
+                "width": 509,
+                "height": 339,
+                "preserve": false
+              },
+              {
+                "type": "text",
+                "top": 190,
+                "x": 283,
+                "width": 230,
+                "size": 19,
+                "leading": 27,
+                "color": "#FFFFFF",
+                "text": "<b>Sort.</b><br/><b>Match.</b><br/><b>Put in order.</b>"
+              },
+              {
+                "type": "text",
+                "top": 510,
+                "x": 43,
+                "width": 509,
+                "size": 12,
+                "leading": 17,
+                "text": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.<br/><b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?"
+              },
+              {
+                "type": "box",
+                "id": "story-tray",
+                "x": 43,
+                "top": 629,
+                "width": 509,
+                "height": 94
+              },
+              {
+                "type": "objects",
+                "id": "opening-tray",
+                "kinds": [
+                  "leaf",
+                  "top",
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf",
+                  "top",
+                  "top"
+                ],
+                "points": [
+                  [
+                    95,
+                    655
+                  ],
+                  [
+                    185,
+                    655
+                  ],
+                  [
+                    287,
+                    655
+                  ],
+                  [
+                    390,
+                    655
+                  ],
+                  [
+                    485,
+                    655
+                  ],
+                  [
+                    140,
+                    700
+                  ],
+                  [
+                    285,
+                    700
+                  ],
+                  [
+                    435,
+                    700
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 739,
+                "x": 43,
+                "width": 509,
+                "size": 12,
+                "leading": 17,
+                "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?"
+              }
+            ],
+            "slug": "c2-1",
+            "task_ids": [],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Watch and try together",
+            "title": "Give each set a place",
+            "subtitle": "A set is a collection. Sort by one rule.",
+            "elements": [
+              {
+                "type": "image",
+                "asset": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+                "x": 43,
+                "top": 164,
+                "width": 85,
+                "height": 85
+              },
+              {
+                "type": "text",
+                "top": 169,
+                "text": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
+                "size": 14,
+                "x": 145,
+                "width": 405
+              },
+              {
+                "type": "text",
+                "top": 282,
+                "text": "<b>Leaves together</b>",
+                "size": 14,
+                "x": 61,
+                "width": 220
+              },
+              {
+                "type": "text",
+                "top": 282,
+                "text": "<b>Tops together</b>",
+                "size": 14,
+                "x": 319,
+                "width": 220
+              },
+              {
+                "type": "box",
+                "id": "sorted-leaves",
+                "x": 43,
+                "top": 322,
+                "width": 230,
+                "height": 96
+              },
+              {
+                "type": "box",
+                "id": "sorted-tops",
+                "x": 298,
+                "top": 322,
+                "width": 254,
+                "height": 96
+              },
+              {
+                "type": "objects",
+                "id": "sort-model-leaves",
+                "kind": "leaf",
+                "count": 3,
+                "x": 89,
+                "top": 368,
+                "gap": 65,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "sort-model-tops",
+                "kind": "top",
+                "count": 5,
+                "x": 327,
+                "top": 368,
+                "gap": 49,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 446,
+                "text": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 550,
+                "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "guided-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf"
+                ],
+                "points": [
+                  [
+                    106,
+                    625
+                  ],
+                  [
+                    232,
+                    625
+                  ],
+                  [
+                    358,
+                    625
+                  ],
+                  [
+                    484,
+                    625
+                  ]
+                ]
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "index": 2,
+                "x": 43,
+                "top": 686,
+                "width": 68,
+                "height": 68
+              },
+              {
+                "type": "text",
+                "top": 686,
+                "text": "<b>Mr Aliyu:</b> Sort real leaves and tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "ellipse",
+                "x": 203,
+                "top": 598,
+                "width": 61,
+                "height": 54
+              },
+              {
+                "type": "text",
+                "top": 775,
+                "text": "Workbook: Sort and match.",
+                "size": 10,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "slug": "c2-2",
+            "task_ids": [
+              "P1-02-SORT"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Watch and try together",
+            "title": "One partner for each",
+            "subtitle": "Match one object to one object to compare the sets.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 163,
+                "text": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "match-model-two",
+                "kind": "top",
+                "count": 2,
+                "x": 100,
+                "top": 255,
+                "gap": 85,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "match-model-four",
+                "kind": "top",
+                "count": 4,
+                "x": 100,
+                "top": 357,
+                "gap": 85,
+                "scale": 1
+              },
+              {
+                "type": "line",
+                "x1": 100,
+                "top1": 274,
+                "x2": 100,
+                "top2": 338
+              },
+              {
+                "type": "line",
+                "x1": 185,
+                "top1": 274,
+                "x2": 185,
+                "top2": 338
+              },
+              {
+                "type": "text",
+                "top": 395,
+                "text": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "index": 1,
+                "x": 43,
+                "top": 475,
+                "width": 68,
+                "height": 68
+              },
+              {
+                "type": "text",
+                "top": 477,
+                "text": "<b>Adamu:</b> The long row must have more!<br/><b>Mr Aliyu:</b> Let us match and check.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "objects",
+                "id": "equal-close",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 585,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "equal-wide",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 685,
+                "gap": 160,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 726,
+                "text": "Use your finger to match each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "ellipse",
+                "x": 66,
+                "top": 329,
+                "width": 322,
+                "height": 57
+              },
+              {
+                "type": "text",
+                "top": 775,
+                "text": "Workbook: Sort and match.",
+                "size": 10,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "slug": "c2-3",
+            "task_ids": [
+              "P1-02-EQUAL"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Learn, then try",
+            "title": "From fewest to most",
+            "subtitle": "Count each set. Begin with the set that has the fewest.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 163,
+                "text": "<b>Mr Aliyu:</b> I count these sets: two, three, four. I put two first, then three, then four.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "order-model-two",
+                "kind": "dot",
+                "count": 2,
+                "x": 80,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "order-model-three",
+                "kind": "dot",
+                "count": 3,
+                "x": 235,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "order-model-four",
+                "kind": "dot",
+                "count": 4,
+                "x": 410,
+                "top": 258,
+                "gap": 30,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>2</b>",
+                "size": 20,
+                "x": 83,
+                "width": 95
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>3</b>",
+                "size": 20,
+                "x": 264,
+                "width": 95
+              },
+              {
+                "type": "text",
+                "top": 292,
+                "text": "<b>4</b>",
+                "size": 20,
+                "x": 446,
+                "width": 95
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "index": 0,
+                "x": 43,
+                "top": 349,
+                "width": 68,
+                "height": 68
+              },
+              {
+                "type": "text",
+                "top": 352,
+                "text": "<b>Aishatu:</b> I want to rush to the game.<br/><b>Mr Aliyu:</b> Pause and count each set first.",
+                "size": 13,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "text",
+                "top": 448,
+                "text": "In your exercise book, write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 601,
+                "text": "In your exercise book, draw a set of <b>1</b> dot.<br/>Beside it, draw a separate set of <b>3</b> dots.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 718,
+                "text": "Use a space between your sets. Workbook: Order and draw.",
+                "size": 12,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "slug": "c2-4",
+            "task_ids": [
+              "P1-02-Q1",
+              "P1-02-Q2"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Your turn",
+            "title": "Which has more?",
+            "subtitle": "Use matching or counting. Try these on your own.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Tell your partner which set you chose.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-two",
+                "x": 43,
+                "top": 242,
+                "width": 190,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-five",
+                "x": 253,
+                "top": 242,
+                "width": 299,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q3-two",
+                "kind": "top",
+                "count": 2,
+                "x": 103,
+                "top": 293,
+                "gap": 65,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q3-five",
+                "kind": "top",
+                "count": 5,
+                "x": 285,
+                "top": 293,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 403,
+                "text": "Point to the set with fewer leaves.<br/>Tell your partner which set you chose.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-four",
+                "x": 43,
+                "top": 483,
+                "width": 255,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-three",
+                "x": 322,
+                "top": 483,
+                "width": 230,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q4-four",
+                "kind": "leaf",
+                "count": 4,
+                "x": 80,
+                "top": 535,
+                "gap": 58,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q4-three",
+                "kind": "leaf",
+                "count": 3,
+                "x": 367,
+                "top": 535,
+                "gap": 67,
+                "scale": 1
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "index": 3,
+                "x": 43,
+                "top": 650,
+                "width": 68,
+                "height": 68
+              },
+              {
+                "type": "text",
+                "top": 654,
+                "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+                "size": 14,
+                "x": 135,
+                "width": 414
+              },
+              {
+                "type": "text",
+                "top": 755,
+                "text": "Workbook: More and fewer.",
+                "size": 10,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "slug": "c2-5",
+            "task_ids": [
+              "P1-02-Q3",
+              "P1-02-Q4"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Remember, then get help",
+            "title": "Show how you know",
+            "subtitle": "Try to remember what Mr Aliyu showed you before looking back.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 166,
+                "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops at the table or draw in your exercise book.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 396,
+                "text": "<b>Need a smaller step?</b> Point from each upper dot to a different lower dot. Mr Aliyu has shown one match.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "support-two",
+                "kind": "dot",
+                "count": 2,
+                "x": 110,
+                "top": 490,
+                "gap": 105,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "support-three",
+                "kind": "dot",
+                "count": 3,
+                "x": 110,
+                "top": 575,
+                "gap": 105,
+                "scale": 1
+              },
+              {
+                "type": "line",
+                "x1": 110,
+                "top1": 502,
+                "x2": 110,
+                "top2": 563
+              },
+              {
+                "type": "text",
+                "top": 605,
+                "text": "Finish matching with your finger. Point to the set with more.<br/>Now try your own two sets again.",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 669,
+                "text": "<b>Adamu:</b> Your turn, then mine!<br/>Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 755,
+                "text": "Workbook: Show how you compare.",
+                "size": 10,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "slug": "c2-6",
+            "task_ids": [
+              "P1-02-Q5",
+              "P1-02-Q6",
+              "P1-02-SUPPORT"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Finish the story / A fresh try",
+            "title": "Ready for our game",
+            "subtitle": "Use what you have learned to finish tidying the toy shop.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 162,
+                "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Match with your finger.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "resolution-leaves",
+                "kind": "leaf",
+                "count": 3,
+                "x": 90,
+                "top": 263,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "resolution-tops",
+                "kind": "top",
+                "count": 5,
+                "x": 90,
+                "top": 350,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 391,
+                "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 513,
+                "text": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every top.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "fresh-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf",
+                  "top"
+                ],
+                "points": [
+                  [
+                    95,
+                    605
+                  ],
+                  [
+                    195,
+                    605
+                  ],
+                  [
+                    295,
+                    605
+                  ],
+                  [
+                    395,
+                    605
+                  ],
+                  [
+                    495,
+                    605
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 645,
+                "text": "Which set has more? Point to that set. Say how you know.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "fresh-four-box",
+                "x": 43,
+                "top": 693,
+                "width": 235,
+                "height": 78
+              },
+              {
+                "type": "box",
+                "id": "fresh-five-box",
+                "x": 298,
+                "top": 693,
+                "width": 254,
+                "height": 78
+              },
+              {
+                "type": "objects",
+                "id": "fresh-four",
+                "kind": "top",
+                "count": 4,
+                "x": 75,
+                "top": 731,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "fresh-five",
+                "kind": "leaf",
+                "count": 5,
+                "x": 327,
+                "top": 731,
+                "gap": 49,
+                "scale": 1
+              }
+            ],
+            "slug": "c2-7",
+            "task_ids": [
+              "P1-02-ENDING",
+              "P1-02-FRESH-SORT",
+              "P1-02-FRESH-COMPARE"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          }
+        ],
+        "workbook_pages": [
+          {
+            "slug": "w2-sort-match",
+            "kicker": "Sort, match and order / Try together",
+            "title": "Sort and match",
+            "subtitle": "Watch Mr Aliyu first. You may mark this workbook.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 165,
+                "text": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the tops without circles.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w2-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf"
+                ],
+                "points": [
+                  [
+                    100,
+                    277
+                  ],
+                  [
+                    230,
+                    277
+                  ],
+                  [
+                    360,
+                    277
+                  ],
+                  [
+                    490,
+                    277
+                  ]
+                ]
+              },
+              {
+                "type": "ellipse",
+                "x": 200,
+                "top": 250,
+                "width": 61,
+                "height": 54
+              },
+              {
+                "type": "text",
+                "top": 355,
+                "text": "Mix real leaves and tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 456,
+                "text": "Draw one line from each top in the upper row to a different top below. Does every top have a partner?",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "w2-equal-upper",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 566,
+                "gap": 55,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "w2-equal-lower",
+                "kind": "top",
+                "count": 3,
+                "x": 100,
+                "top": 701,
+                "gap": 160,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 753,
+                "text": "Tell your partner: more, fewer, or the same number?",
+                "size": 12,
+                "x": 43,
+                "width": 509
+              }
+            ],
+            "task_ids": [
+              "P1-02-SORT",
+              "P1-02-EQUAL"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "w2-order",
+            "kicker": "Sort, match and order / Your turn",
+            "title": "Order and draw",
+            "subtitle": "Think about the number in each set.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 165,
+                "text": "Write these numbers from smallest to largest: <b>4, 1, 3.</b>",
+                "size": 16,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 74,
+                "top": 270,
+                "width": 110,
+                "height": 76,
+                "response": true
+              },
+              {
+                "type": "box",
+                "x": 242,
+                "top": 270,
+                "width": 110,
+                "height": 76,
+                "response": true
+              },
+              {
+                "type": "box",
+                "x": 410,
+                "top": 270,
+                "width": 110,
+                "height": 76,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 414,
+                "text": "Draw <b>1</b> dot in the left box.<br/>Draw <b>3</b> dots in the right box.",
+                "size": 16,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 539,
+                "width": 235,
+                "height": 204,
+                "response": true
+              },
+              {
+                "type": "box",
+                "x": 301,
+                "top": 539,
+                "width": 251,
+                "height": 204,
+                "response": true
+              }
+            ],
+            "task_ids": [
+              "P1-02-Q1",
+              "P1-02-Q2"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Sort, match and order / Your turn",
+            "title": "More and fewer",
+            "subtitle": "Use matching or counting. Try these on your own.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 164,
+                "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-two",
+                "x": 43,
+                "top": 242,
+                "width": 190,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q3-set-five",
+                "x": 253,
+                "top": 242,
+                "width": 299,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q3-two",
+                "kind": "top",
+                "count": 2,
+                "x": 103,
+                "top": 293,
+                "gap": 65,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q3-five",
+                "kind": "top",
+                "count": 5,
+                "x": 285,
+                "top": 293,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 403,
+                "text": "Point to the set with fewer leaves.<br/>Circle that whole set.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-four",
+                "x": 43,
+                "top": 483,
+                "width": 255,
+                "height": 105
+              },
+              {
+                "type": "box",
+                "id": "Q4-set-three",
+                "x": 322,
+                "top": 483,
+                "width": 230,
+                "height": 105
+              },
+              {
+                "type": "objects",
+                "id": "Q4-four",
+                "kind": "leaf",
+                "count": 4,
+                "x": 80,
+                "top": 535,
+                "gap": 58,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "Q4-three",
+                "kind": "leaf",
+                "count": 3,
+                "x": 367,
+                "top": 535,
+                "gap": 67,
+                "scale": 1
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "index": 3,
+                "x": 43,
+                "top": 650,
+                "width": 68,
+                "height": 68
+              },
+              {
+                "type": "text",
+                "top": 654,
+                "text": "<b>John:</b> I want to try before a hint.<br/><b>Mr Aliyu:</b> Take your time. When you finish, tell me how you checked.",
+                "size": 14,
+                "x": 135,
+                "width": 414
+              }
+            ],
+            "slug": "w2-more-fewer",
+            "task_ids": [
+              "P1-02-Q3",
+              "P1-02-Q4"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "slug": "w2-remember",
+            "kicker": "Sort, match and order / Remember",
+            "title": "Show how you compare",
+            "subtitle": "Try to remember Mr Aliyu before looking back.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 165,
+                "text": "Tell or show a partner how to compare two sets.<br/>Use real tops or draw your idea below.",
+                "size": 15,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "x": 43,
+                "top": 259,
+                "width": 509,
+                "height": 206,
+                "response": true
+              },
+              {
+                "type": "text",
+                "top": 525,
+                "text": "Make a set of <b>5</b> large objects on the table.<br/>Ask your partner to check. Swap roles.",
+                "size": 16,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "image",
+                "asset": "artwork/redesign/references/lead-introductions-v7.png",
+                "x": 43,
+                "top": 654,
+                "width": 80,
+                "height": 80,
+                "preserve": true,
+                "index": 1
+              },
+              {
+                "type": "text",
+                "top": 658,
+                "text": "<b>Adamu:</b> Your turn, then mine!<br/>Give your partner time to think.",
+                "size": 14,
+                "x": 145,
+                "width": 405
+              }
+            ],
+            "task_ids": [
+              "P1-02-Q5",
+              "P1-02-Q6"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          },
+          {
+            "kicker": "Sort, match and order / A fresh try",
+            "title": "Ready for our game",
+            "subtitle": "Use what you have learned to finish tidying the toy shop.",
+            "elements": [
+              {
+                "type": "text",
+                "top": 162,
+                "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "resolution-leaves",
+                "kind": "leaf",
+                "count": 3,
+                "x": 90,
+                "top": 263,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "resolution-tops",
+                "kind": "top",
+                "count": 5,
+                "x": 90,
+                "top": 350,
+                "gap": 91,
+                "scale": 1
+              },
+              {
+                "type": "text",
+                "top": 391,
+                "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+                "size": 13,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "text",
+                "top": 513,
+                "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "objects",
+                "id": "fresh-sort",
+                "kinds": [
+                  "top",
+                  "leaf",
+                  "top",
+                  "leaf",
+                  "top"
+                ],
+                "points": [
+                  [
+                    95,
+                    605
+                  ],
+                  [
+                    195,
+                    605
+                  ],
+                  [
+                    295,
+                    605
+                  ],
+                  [
+                    395,
+                    605
+                  ],
+                  [
+                    495,
+                    605
+                  ]
+                ]
+              },
+              {
+                "type": "text",
+                "top": 645,
+                "text": "Which set has more? Circle that whole set.",
+                "size": 14,
+                "x": 43,
+                "width": 509
+              },
+              {
+                "type": "box",
+                "id": "fresh-four-box",
+                "x": 43,
+                "top": 693,
+                "width": 235,
+                "height": 78
+              },
+              {
+                "type": "box",
+                "id": "fresh-five-box",
+                "x": 298,
+                "top": 693,
+                "width": 254,
+                "height": 78
+              },
+              {
+                "type": "objects",
+                "id": "fresh-four",
+                "kind": "top",
+                "count": 4,
+                "x": 75,
+                "top": 731,
+                "gap": 57,
+                "scale": 1
+              },
+              {
+                "type": "objects",
+                "id": "fresh-five",
+                "kind": "leaf",
+                "count": 5,
+                "x": 327,
+                "top": 731,
+                "gap": 49,
+                "scale": 1
+              }
+            ],
+            "slug": "w2-ending",
+            "task_ids": [
+              "P1-02-ENDING",
+              "P1-02-FRESH-SORT",
+              "P1-02-FRESH-COMPARE"
+            ],
+            "pre_numerals": false,
+            "adult": false
+          }
+        ],
+        "sessions": [
+          "Story and sorting",
+          "Matching, equality and ordering",
+          "Independent comparison",
+          "Recall, support, ending and fresh checks"
+        ],
+        "objective_ids": [
+          "P1-p01-01",
+          "P1-p01-05"
+        ],
+        "adaptation": "Story and models retained; textbook uses pointing, real objects and exercise-book responses. Workbook carries marking tasks and local exact diagrams."
+      }
+    },
+    {
+      "id": "P1-03",
+      "grade": 1,
+      "title": "Zero means none",
+      "topic": "Zero",
+      "source_pages": [
+        1
+      ],
+      "goal": "Recognise, read and write 0.",
+      "look": "Musa puts his last top away. How many tops are left on his mat?",
+      "learn": "Zero tells us there are none. An empty set has 0 objects. Say zero. Draw a large oval in the air. Write 0.",
+      "worked": "There are 2 tops. Take away 2. No tops remain: 2 \u2212 2 = 0.",
+      "play": "Put 0 to 5 tops in cups. Include an empty cup. Match number cards to every cup.",
+      "vocabulary": "zero; none; empty",
+      "hint": "The cup still exists; zero describes the number of objects inside.",
+      "questions": [
+        {
+          "prompt": "Write the number for an empty set.",
+          "answer": "0"
+        },
+        {
+          "prompt": "Draw an empty box.",
+          "answer": "Box with nothing inside."
+        },
+        {
+          "prompt": "Complete: 0, 1, __, 3.",
+          "answer": "2"
+        },
+        {
+          "prompt": "Put all 3 tops away. How many remain?",
+          "answer": "0"
+        },
+        {
+          "prompt": "Say the word for 0.",
+          "answer": "zero"
+        },
+        {
+          "prompt": "Why does an empty basket have 0 oranges?",
+          "answer": "There are no oranges in it."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-04",
+      "grade": 1,
+      "title": "Six to nine",
+      "topic": "Numbers 6\u20139",
+      "source_pages": [
+        2
+      ],
+      "goal": "Count, read, write and order numbers to 9.",
+      "look": "Daniel brings more tops to the game. Count on after five together.",
+      "learn": "Five and one more make six. Count on: 6, 7, 8, 9. Give one number word to each object. Practise writing 6, 7, 8 and 9.",
+      "worked": "5 tops and 2 more make 7. Count: 1, 2, 3, 4, 5, 6, 7.",
+      "play": "Sort tops by colour. Make sets of 6, 7, 8 and 9. Swap mats and check. Order the mats from fewest to most.",
+      "vocabulary": "six; seven; eight; nine",
+      "hint": "Check that 6 and 9 face the correct way. Read numbers as well as copying them.",
+      "questions": [
+        {
+          "prompt": "Write the number after 6.",
+          "answer": "7"
+        },
+        {
+          "prompt": "Write the number before 9.",
+          "answer": "8"
+        },
+        {
+          "prompt": "Order: 9, 6, 8, 7.",
+          "answer": "6, 7, 8, 9"
+        },
+        {
+          "prompt": "Draw 6 dots.",
+          "answer": "Exactly six dots."
+        },
+        {
+          "prompt": "Count 9 objects for a partner.",
+          "answer": "Exactly nine objects counted once each."
+        },
+        {
+          "prompt": "How can you check a set of 8?",
+          "answer": "Recount once per object; the last word is eight."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-05",
+      "grade": 1,
+      "title": "A bundle of ten",
+      "topic": "Ten",
+      "source_pages": [
+        2
+      ],
+      "goal": "Make tens and ones, extending to 20.",
+      "look": "Amina ties counting sticks into bundles. Why might a bundle be easier to count?",
+      "learn": "Ten ones make one ten. A bundle of ten and 3 loose ones make 13. Ones are also called units. Say numbers from 10 to 20 aloud.",
+      "worked": "14 = 1 ten and 4 ones. Two bundles of ten make 20.",
+      "play": "Bundle ten paper strips. Show 11, 15, 18 and 20 using bundles and loose strips.",
+      "vocabulary": "ten; bundle; ones; units",
+      "hint": "Use blunt sticks or paper strips. Tie only bundles of exactly ten.",
+      "questions": [
+        {
+          "prompt": "1 ten and 2 ones make __.",
+          "answer": "12"
+        },
+        {
+          "prompt": "Write 16 as tens and ones.",
+          "answer": "1 ten and 6 ones"
+        },
+        {
+          "prompt": "How many ones make one ten?",
+          "answer": "10"
+        },
+        {
+          "prompt": "Complete: 17, 18, __, 20.",
+          "answer": "19"
+        },
+        {
+          "prompt": "Show 20 with bundles.",
+          "answer": "2 bundles of ten"
+        },
+        {
+          "prompt": "Explain why 10 and 1 differ.",
+          "answer": "Ten has ten ones; one has one one."
+        }
+      ],
+      "diagram": "tens14"
+    },
+    {
+      "id": "P1-06",
+      "grade": 1,
+      "title": "Numbers to ninety-nine",
+      "topic": "Numbers 1\u201399",
+      "source_pages": [
+        3
+      ],
+      "goal": "Recognise, read and write numbers to 99.",
+      "look": "The friends label classroom boxes. How do two digits help write bigger numbers?",
+      "learn": "The left digit in a two-digit number gives the tens. The right gives the ones. Say 42 as forty-two: 4 tens and 2 ones. Count through a new ten: 28, 29, 30, 31.",
+      "worked": "70 has 7 tens and 0 ones. 99 has 9 tens and 9 ones.",
+      "play": "Make digit cards 0 to 9. A partner names a number from 10 to 99. Build it, read it and show tens and ones.",
+      "vocabulary": "digit; tens; ninety-nine",
+      "hint": "Say teen and tens names clearly. Give oral practice before writing.",
+      "questions": [
+        {
+          "prompt": "Write forty-six in digits.",
+          "answer": "46"
+        },
+        {
+          "prompt": "Read 81 in words.",
+          "answer": "eighty-one"
+        },
+        {
+          "prompt": "Complete: 38, 39, __, __.",
+          "answer": "40, 41"
+        },
+        {
+          "prompt": "Write 93 as tens and ones.",
+          "answer": "9 tens and 3 ones"
+        },
+        {
+          "prompt": "Write 95 to 99.",
+          "answer": "95, 96, 97, 98, 99"
+        },
+        {
+          "prompt": "Why is 60 different from 6?",
+          "answer": "60 is six tens; 6 is six ones."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-07",
+      "grade": 1,
+      "title": "Equal halves and quarters",
+      "topic": "Fractions",
+      "source_pages": [
+        3
+      ],
+      "goal": "Recognise halves and quarters of objects and shapes.",
+      "look": "Zainab folds a paper sheet to share its space. Must fair pieces be equal?",
+      "learn": "A half is one of 2 equal parts of a whole. A quarter is one of 4 equal parts. Equal means the same amount. Unequal pieces are not halves or quarters.",
+      "worked": "Fold a rectangle in half. Fold again into 4 equal parts. One part is a quarter.",
+      "play": "Fold scrap paper into halves, then quarters. Shade a half on one sheet and a quarter on another. Point to half and quarter of a paper model of a fruit.",
+      "vocabulary": "whole; half; quarter; equal",
+      "hint": "Use paper instead of food. Accept different equal-area partitions.",
+      "questions": [
+        {
+          "prompt": "How many equal parts make halves?",
+          "answer": "2"
+        },
+        {
+          "prompt": "How many equal parts make quarters?",
+          "answer": "4"
+        },
+        {
+          "prompt": "Draw two equal halves of a rectangle.",
+          "answer": "Rectangle divided into two equal-area parts."
+        },
+        {
+          "prompt": "Draw a square and shade one quarter.",
+          "answer": "Four equal-area parts; one shaded."
+        },
+        {
+          "prompt": "Are 2 unequal pieces halves?",
+          "answer": "No"
+        },
+        {
+          "prompt": "Explain why your shaded part is a quarter.",
+          "answer": "The whole has four equal parts and one is shaded."
+        }
+      ],
+      "diagram": "fractions"
+    },
+    {
+      "id": "P1-08",
+      "grade": 1,
+      "title": "Put small sets together",
+      "topic": "Addition",
+      "source_pages": [
+        4
+      ],
+      "goal": "Add two or three small sets.",
+      "look": "Musa has 2 tops. Amina gives him 1 more. What happens to his set?",
+      "learn": "Addition puts amounts together. The sign + means add. The sign = means has the same value as. Count all objects to find the total.",
+      "worked": "2 + 1 = 3. Two tops and one top make three tops. 1 + 1 + 2 = 4.",
+      "play": "Join two sets with 1 to 3 tops each, keeping totals below 5. Then join three small sets. Say and check each number sentence.",
+      "vocabulary": "add; plus; total; equals",
+      "hint": "Read the whole sentence aloud. Equals states the same value on both sides.",
+      "questions": [
+        {
+          "prompt": "1 + 2 = __.",
+          "answer": "3"
+        },
+        {
+          "prompt": "2 + 2 = __.",
+          "answer": "4"
+        },
+        {
+          "prompt": "1 + 1 + 1 = __.",
+          "answer": "3"
+        },
+        {
+          "prompt": "Draw 2 dots and 1 more. Total?",
+          "answer": "3"
+        },
+        {
+          "prompt": "1 book and 3 more make how many?",
+          "answer": "4 books"
+        },
+        {
+          "prompt": "Show why 1 + 2 and 2 + 1 match.",
+          "answer": "Both combine one and two objects to make three."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-09",
+      "grade": 1,
+      "title": "Count on to add",
+      "topic": "Addition",
+      "source_pages": [
+        4
+      ],
+      "goal": "Add two or three numbers with totals to 18.",
+      "look": "The friends join sets. Can they start counting from the larger set?",
+      "learn": "Keep one number in your head and count on the other amount. Adding zero leaves the number unchanged. Check by counting all the objects.",
+      "worked": "8 + 5: start at 8; count 9, 10, 11, 12, 13. So 8 + 5 = 13. For 3 + 2 + 4, first make 5, then add 4 to get 9.",
+      "play": "Make sums with tops. First keep totals below 10, then try up to 18. A partner checks by grouping ten and ones.",
+      "vocabulary": "count on; sum; check",
+      "hint": "Keep every total within 18. Use objects before mental calculation.",
+      "questions": [
+        {
+          "prompt": "4 + 3 = __.",
+          "answer": "7"
+        },
+        {
+          "prompt": "6 + 0 = __.",
+          "answer": "6"
+        },
+        {
+          "prompt": "3 + 2 + 3 = __.",
+          "answer": "8"
+        },
+        {
+          "prompt": "9 + 9 = __.",
+          "answer": "18"
+        },
+        {
+          "prompt": "7 seeds and 5 more make how many?",
+          "answer": "12 seeds"
+        },
+        {
+          "prompt": "Explain how to check 8 + 6 = 14.",
+          "answer": "Count fourteen objects, or count on six from eight."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-10",
+      "grade": 1,
+      "title": "Add tens and ones",
+      "topic": "Addition",
+      "source_pages": [
+        4
+      ],
+      "goal": "Add two-digit numbers without regrouping, to 40.",
+      "look": "Class bundles hold ten sticks. Can we add bundles and loose sticks separately?",
+      "learn": "Line up tens with tens and ones with ones. Add the ones. Add the tens. Here each ones total stays below ten, so no new bundle is needed.",
+      "worked": "23 + 14: 3 + 4 = 7 ones; 2 + 1 = 3 tens. Total 37. Check with bundles.",
+      "play": "Build 12 and 15 with bundles and loose strips. Join tens and ones. Make another sum with a total no greater than 40.",
+      "vocabulary": "tens; ones; total",
+      "hint": "Align places. Do not read 23 as two plus three.",
+      "questions": [
+        {
+          "prompt": "12 + 13 = __.",
+          "answer": "25"
+        },
+        {
+          "prompt": "21 + 16 = __.",
+          "answer": "37"
+        },
+        {
+          "prompt": "30 + 10 = __.",
+          "answer": "40"
+        },
+        {
+          "prompt": "14 + 5 = __.",
+          "answer": "19"
+        },
+        {
+          "prompt": "22 pencils and 11 more make how many?",
+          "answer": "33 pencils"
+        },
+        {
+          "prompt": "Explain why 20 + 13 = 33.",
+          "answer": "Two tens plus one ten and three ones make three tens and three ones."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-11",
+      "grade": 1,
+      "title": "Take away",
+      "topic": "Subtraction",
+      "source_pages": [
+        5
+      ],
+      "goal": "Subtract within 9 and within 18.",
+      "look": "Musa puts some tops back in a box. Is the number on his mat getting larger or smaller?",
+      "learn": "Subtraction can take away. The sign \u2212 means subtract. Count what remains. Or count backwards one step per removed object.",
+      "worked": "8 \u2212 3 = 5. Remove 3 from 8; 5 remain. Check: 5 + 3 = 8.",
+      "play": "Place up to 18 tops on a mat. A partner removes some while you watch. Say the subtraction and check by putting them back.",
+      "vocabulary": "subtract; take away; remain",
+      "hint": "Keep removed objects visible so pupils can undo the action.",
+      "questions": [
+        {
+          "prompt": "7 \u2212 2 = __.",
+          "answer": "5"
+        },
+        {
+          "prompt": "9 \u2212 9 = __.",
+          "answer": "0"
+        },
+        {
+          "prompt": "15 \u2212 4 = __.",
+          "answer": "11"
+        },
+        {
+          "prompt": "18 \u2212 9 = __.",
+          "answer": "9"
+        },
+        {
+          "prompt": "12 chalk pieces: use 3. How many remain?",
+          "answer": "9 pieces"
+        },
+        {
+          "prompt": "How does addition check 13 \u2212 5 = 8?",
+          "answer": "8 + 5 = 13."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-12",
+      "grade": 1,
+      "title": "Find a missing part",
+      "topic": "Missing numbers",
+      "source_pages": [
+        6,
+        7
+      ],
+      "goal": "Find unknown numbers and check everyday calculations.",
+      "look": "Amina sees 3 tops. Some are hidden. There are 7 altogether. How can she find the hidden part?",
+      "learn": "A blank stands for a missing number. Find the value that makes both sides equal. Use objects or count on. Check by reading the completed sentence.",
+      "worked": "3 + __ = 7: count 4 more. The blank is 4. __ \u2212 2 = 5: start with 7, since 7 \u2212 2 = 5.",
+      "play": "Hide part of a set of up to 9 tops. Tell the whole and the visible part. Then make an everyday story about books with a missing amount.",
+      "vocabulary": "missing; part; whole; equal",
+      "hint": "Vary blank positions. Check by substituting in the original sentence.",
+      "questions": [
+        {
+          "prompt": "2 + __ = 6.",
+          "answer": "4"
+        },
+        {
+          "prompt": "__ + 3 = 8.",
+          "answer": "5"
+        },
+        {
+          "prompt": "9 \u2212 __ = 4.",
+          "answer": "5"
+        },
+        {
+          "prompt": "__ \u2212 2 = 6.",
+          "answer": "8"
+        },
+        {
+          "prompt": "5 = __ + 1.",
+          "answer": "4"
+        },
+        {
+          "prompt": "Explain how to check 4 + __ = 9.",
+          "answer": "Use 5 in the blank and verify 4 + 5 = 9."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-13",
+      "grade": 1,
+      "title": "Pretend coins and change",
+      "topic": "Money",
+      "source_pages": [
+        8
+      ],
+      "goal": "Identify coin values and calculate with pretend kobo.",
+      "look": "Daniel makes paper tokens for a pretend shop. Why does a value label matter?",
+      "learn": "Nigerian money is called naira and kobo. 100 kobo = 1 naira. Use labelled pretend tokens: 1k, 5k, 10k and 25k. These are historical-value exercises, not real prices or a claim about money circulating today.",
+      "worked": "5k + 10k = 15k. Pay 10k for a pretend 6k item: change is 10k \u2212 6k = 4k.",
+      "play": "Draw token outlines and label values. An adult may show a genuine coin for identification and supervised pencil tracing. Never mark or alter real money.",
+      "vocabulary": "naira; kobo; value; change",
+      "hint": "Use large paper tokens. Real prices and currently used denominations differ.",
+      "questions": [
+        {
+          "prompt": "5k + 5k = __.",
+          "answer": "10k"
+        },
+        {
+          "prompt": "10k + 10k + 5k = __.",
+          "answer": "25k"
+        },
+        {
+          "prompt": "Pay 10k. Cost 7k. Change?",
+          "answer": "3k"
+        },
+        {
+          "prompt": "Pay 5k. Cost 2k. Change?",
+          "answer": "3k"
+        },
+        {
+          "prompt": "Draw a token labelled 10k.",
+          "answer": "Outline with value 10k."
+        },
+        {
+          "prompt": "Why read a token value, not just count tokens?",
+          "answer": "Different tokens can have different values."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-14",
+      "grade": 1,
+      "title": "Longer, shorter and farther",
+      "topic": "Length",
+      "source_pages": [
+        9
+      ],
+      "goal": "Compare and order lengths and measure with body units.",
+      "look": "Zainab compares two strings for a garden bed. Where should their ends start?",
+      "learn": "Line up one end to compare. Longer means more length; shorter means less. Measure with equal hand spans or footsteps placed end to end with no gaps or overlaps.",
+      "worked": "One string is 4 of Amina\u2019s spans; another is 6 of her spans. The second is longer by 2 of her spans.",
+      "play": "Measure a table in your spans and a safe path in your steps. Record whose units you used. A seated child can use a paper strip instead.",
+      "vocabulary": "longer; shorter; span; distance",
+      "hint": "Body units vary. Do not compare different pupils\u2019 counts as if their spans were equal.",
+      "questions": [
+        {
+          "prompt": "Lengths are 3 and 5 equal strips. Which is longer?",
+          "answer": "The 5-strip length"
+        },
+        {
+          "prompt": "Order 2, 6, 4 spans from shortest.",
+          "answer": "2, 4, 6 spans"
+        },
+        {
+          "prompt": "Draw a line longer than your finger.",
+          "answer": "Line exceeds that pupil\u2019s finger length."
+        },
+        {
+          "prompt": "A path is 8 steps out and 8 back. Total?",
+          "answer": "16 steps"
+        },
+        {
+          "prompt": "Measure a book with repeated paper-strip units.",
+          "answer": "Practical count, same unit repeated without gaps."
+        },
+        {
+          "prompt": "Why line up the string ends?",
+          "answer": "So the other ends show the difference fairly."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-15",
+      "grade": 1,
+      "title": "Our day in order",
+      "topic": "Time",
+      "source_pages": [
+        10
+      ],
+      "goal": "Sequence everyday activities and use time words.",
+      "look": "The friends describe a school day. What could you do before coming to school?",
+      "learn": "Time helps order events. Morning comes before afternoon. Evening comes before night. Routines differ. Use before and after to describe a day.",
+      "worked": "In Amina\u2019s story: wake up, wash, eat, then go to school. Eating is before going to school.",
+      "play": "Draw three routine cards. A partner puts them in your chosen order. Tell a story using first, next and last.",
+      "vocabulary": "before; after; morning; night",
+      "hint": "Accept varied home routines. No pupil must disclose private home details.",
+      "questions": [
+        {
+          "prompt": "Which comes first: morning or afternoon?",
+          "answer": "morning"
+        },
+        {
+          "prompt": "Evening comes before __.",
+          "answer": "night"
+        },
+        {
+          "prompt": "Draw a morning activity.",
+          "answer": "Suitable example."
+        },
+        {
+          "prompt": "Draw two events in order.",
+          "answer": "Coherent sequence."
+        },
+        {
+          "prompt": "In Amina\u2019s story, what follows washing?",
+          "answer": "eating"
+        },
+        {
+          "prompt": "Explain before with your own two events.",
+          "answer": "The first event occurs earlier than the second."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-16",
+      "grade": 1,
+      "title": "Heavy and light",
+      "topic": "Weight",
+      "source_pages": [
+        10
+      ],
+      "goal": "Compare familiar objects by weight.",
+      "look": "Musa lifts an empty bag and a bag with books. Which feels heavier?",
+      "learn": "Heavier and lighter compare weight. Size alone does not tell weight. Use small safe objects on a simple balance. The lower pan holds the heavier load.",
+      "worked": "On a balance, a stone side goes down and a leaf side goes up. The stone is heavier than the leaf.",
+      "play": "With an adult, balance a small stone, eraser and leaf. Predict, compare and order. Lift only light safe items.",
+      "vocabulary": "heavy; light; balance",
+      "hint": "Never ask pupils to lift heavy loads. Use observed results, not appearance.",
+      "questions": [
+        {
+          "prompt": "Which is heavier in the example?",
+          "answer": "stone"
+        },
+        {
+          "prompt": "Which is lighter in the example?",
+          "answer": "leaf"
+        },
+        {
+          "prompt": "Draw a safe light object.",
+          "answer": "Suitable example such as a leaf."
+        },
+        {
+          "prompt": "A balance is level. What can this show?",
+          "answer": "Equal weight on its pans"
+        },
+        {
+          "prompt": "Compare two safe objects and record a result.",
+          "answer": "Practical result supported by balance."
+        },
+        {
+          "prompt": "Does bigger always mean heavier? Explain.",
+          "answer": "No; a large empty box can be lighter than a small stone."
+        }
+      ],
+      "diagram": ""
+    },
+    {
+      "id": "P1-17",
+      "grade": 1,
+      "title": "Solid shapes around us",
+      "topic": "Solids",
+      "source_pages": [
+        11
+      ],
+      "goal": "Name and sort cubes, cuboids, cylinders and spheres.",
+      "look": "Daniel explores a ball, a box and a closed tin. Which can roll?",
+      "learn": "A sphere is ball-shaped. A cube has six equal square faces. A cuboid has six rectangular faces, with opposite faces matching. A cylinder has two flat circular faces and a curved surface.",
+      "worked": "A dice models a cube; a cereal box models a cuboid; a closed straight-sided tin models a cylinder; a ball models a sphere.",
+      "play": "Sort clean safe objects by solid shape. Test rolling and stacking. Remove sharp tins and small choking hazards.",
+      "vocabulary": "sphere; cube; cuboid; cylinder",
+      "hint": "A cube is a special cuboid. Use a clear non-cube cuboid for initial comparison.",
+      "questions": [
+        {
+          "prompt": "What solid does a ball model?",
+          "answer": "sphere"
+        },
+        {
+          "prompt": "Which solid has six equal square faces?",
+          "answer": "cube"
+        },
+        {
+          "prompt": "What solid does a closed straight-sided tin model?",
+          "answer": "cylinder"
+        },
+        {
+          "prompt": "Draw a cuboid-shaped object.",
+          "answer": "Recognisable rectangular box."
+        },
+        {
+          "prompt": "Sort a ball and box by smooth rolling.",
+          "answer": "Ball rolls smoothly; box does not."
+        },
+        {
+          "prompt": "Give a cube/non-cube cuboid difference.",
+          "answer": "Cube edges are all equal; the chosen non-cube cuboid has unequal adjacent edge lengths."
+        }
+      ],
+      "diagram": "solids"
+    },
+    {
+      "id": "P1-18",
+      "grade": 1,
+      "title": "Flat shapes and patterns",
+      "topic": "Flat shapes",
+      "source_pages": [
+        11
+      ],
+      "goal": "Match and name circles, squares and rectangles.",
+      "look": "Amina traces a box face. How does the flat drawing differ from the box?",
+      "learn": "A circle has a curved boundary and no corners. A square has 4 equal straight sides and 4 square corners. A rectangle has 4 square corners and opposite sides equal. A square is a special rectangle.",
+      "worked": "Circle, square, circle, square is a repeating pattern. A turned square is still a square.",
+      "play": "Trace safe flat faces. Match shapes after turning them. Make a repeating pattern for a pretend cloth border. Find square and rectangular faces in the classroom.",
+      "vocabulary": "circle; square; rectangle; corner",
+      "hint": "Orientation does not change a shape. Compare with a non-square rectangle.",
+      "questions": [
+        {
+          "prompt": "How many corners has a circle?",
+          "answer": "0"
+        },
+        {
+          "prompt": "How many equal sides has a square?",
+          "answer": "4"
+        },
+        {
+          "prompt": "Continue: circle, square, circle, square, __.",
+          "answer": "circle"
+        },
+        {
+          "prompt": "Draw a non-square rectangle.",
+          "answer": "Four right angles, opposite equal sides, unequal adjacent lengths."
+        },
+        {
+          "prompt": "Name an object with a rectangular face.",
+          "answer": "Suitable example such as a book."
+        },
+        {
+          "prompt": "What stays the same when a square turns?",
+          "answer": "Its four equal sides and four right-angle corners."
+        }
+      ],
+      "diagram": "shapes"
+    },
+    {
+      "id": "P1-19",
+      "grade": 1,
+      "title": "Find out about our class",
+      "topic": "Data",
+      "source_pages": [
+        12
+      ],
+      "goal": "Collect and record ages and heights.",
+      "look": "The friends discuss how children grow. What could they record respectfully?",
+      "learn": "Data are pieces of information. Ask the same question each time. Record age in completed years. Compare heights from floor to head with marked paper strips. Use letters instead of names.",
+      "worked": "Invented practice data: pupil A is 6 years, B is 7, C is 6. Two pupils are 6 years old.",
+      "play": "Use the invented records or collect voluntary ages privately. Compare paper height strips without ranking children as better or worse. Record height with a consistent method.",
+      "vocabulary": "data; age; height; record",
+      "hint": "Participation is optional. Do not publish identifiable child data. Fictional data are acceptable.",
+      "questions": [
+        {
+          "prompt": "How old is practice pupil B?",
+          "answer": "7 years"
+        },
+        {
+          "prompt": "How many practice pupils are 6?",
+          "answer": "2"
+        },
+        {
+          "prompt": "Order the practice ages from least.",
+          "answer": "6, 6, 7"
+        },
+        {
+          "prompt": "Draw a pupil-letter/age table.",
+          "answer": "Two labelled columns."
+        },
+        {
+          "prompt": "Name a tool for comparing heights.",
+          "answer": "Marked paper strip or suitable measuring tape"
+        },
+        {
+          "prompt": "Why ask everyone the same age question?",
+          "answer": "To compare answers about the same thing."
+        }
+      ],
+      "diagram": ""
+    }
+  ],
+  "register": {
+    "standard_version": 1,
+    "standard": "docs/CHAPTER-STANDARD.md",
+    "review_protocol": "docs/CHAPTER-REVIEW.md",
+    "chapters": [
+      {
+        "id": "P1-01",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+        "review": {
+          "status": "approved",
+          "author": "Codex /root",
+          "reviewer": "Codex /root/sol_reviewer (independent agent session)",
+          "reviewed_on": "2026-10-20",
+          "fingerprint": "f4ec5c2aa4cf2a5b8a77400efa2871c78cc981a5e4579c1a72cfe81fade63039",
+          "stages": {
+            "S1": "Textbook 5: Mrs Binta introduces Aishatu's pretend tea-shop cup problem from the classroom blackboard, four seated children facing her; each of the four friends needs a cup. The board hint Touch one. Say one number. motivates the counting method without numerals.",
+            "S2": "Textbook 5: We will count, read, write and order one to five. Numerals are not required before concrete modelling.",
+            "S3": "Textbook 6: Mrs Binta touches three cups once each, says one/two/three and states the total; textbook 7 links exact sets 1-5 to numerals and models two cups/two circles. Textbook 9 and adult 18 require live numeral formation before workbook tracing.",
+            "S4": "Textbook 6-7: Aishatu slows down, Grace checks, pupils touch/count with the teacher, and John asks whether a drawing can represent a cup. Adult 18 requires real-cup enactment and guided turns.",
+            "S5": "Textbook 8-9 / workbook 2-4: all six source tasks independently count 3/5 cups, draw 2 circles, write 1-5, show 4 and demonstrate counting once. Workbook has local diagrams and ample response spaces; exercise-book alternatives are explicit.",
+            "S6": "Textbook 9 / workbook 4: recall Mrs Binta before looking back; show four, then explain/show how to avoid Adamu's repeat count on a three-cup set.",
+            "S7": "Textbook 9 and adult 18: smaller step uses two real cups moved aside once per number word, then a fresh small set; adult guidance also separates total, numeral recognition/reading and formation difficulties.",
+            "S8": "Textbook 10 / adult 19: four portraits and four exact cup drawings give each friend a cup; enact this pairing with real cups before the closing dialogue opens the shop.",
+            "S9": "Textbook 10 / workbook 5 / adult 18-19: adult-selected 1-5 physical set and drawing; shuffled numeral recognition followed by separate mixed-order numeral naming without giving the value. Another-day fresh two-or-five-object total and shuffled recognition supplied."
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. S1-S9 enacted at the artifact-specific pages above. Concrete one-to-one counting precedes numeral meaning; one circle per cup precedes drawing; live formation precedes tracing/independent writing. Quantity, recognition, reading, order and formation are deliberately separated. Recall precedes smaller-step help, and fresh/delayed checks follow."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Independently solved EVERY task/example on both surfaces and adult pages. P1-01-Q1 textbook8/workbook2=3; Q2 same pages=5 despite scattering; Q3=2 separate circles, one per pictured cup; Q4 textbook9/workbook3=1,2,3,4,5, with tracing then independent boxes; Q5 textbook9/workbook4=4 fingers or objects; Q6 same pages=count each of 3 cups once and state 3. Teacher model textbook6=3 cups; ladder textbook7=1,2,3,4,5; representation=2 cups/2 circles; support=2; ending textbook10=4 friends/4 cups, bijection. Fresh set/drawing accepts exactly the adult's privately chosen 1-5 in any arrangement. Shuffled cards are 3,1,5,2,4; recognition selects named value and reading names pointed value (speech/usual communication accepted). Delayed two/five sets total 2/5 respectively. Original top-to-cup adaptation preserves the counting-method answer."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Read all textbook1-10/workbook1-5/adult18-19,22 instructions. Pupil tasks are unnumbered, adult IDs remain out of pupil tasks, and textbook1-6 has no premature numeral furniture. Every marking action goes to workbook/exercise book; touching/pointing and real cups work with the reusable textbook. Local workbook diagrams, named-page references and adult navigation support agree. Resolved fresh-check finding now explicitly asks mixed-card naming separately from adult-named pointing."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Textbook 5: Mrs Binta alone stands at a dark blackboard, four children seated facing her. White 17 pt topic hint reads Touch one. Say one number. It is legible with high contrast, contains no premature numerals, and introduces the actual counting method. All four current classroom figures retain Aishatu mustard hijab/teal, Grace all-back plaits/clay-green, Adamu blue/clay/cropped hair and John smooth scalp/green-ochre/blue wheelchair; seated reachable desk and teacher leadership are clear. Shared textbook 2-4 introductions and all later character appearances/roles rechecked. Source IDs and answer correspondence retained; teacher alternation remains Mrs Binta then Mr Aliyu."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Opening each-friend-needs-a-cup problem resolves with four children and four cups on textbook10; adult19 requires real pairing before closure. Practice/model quantities are distinct sets, not an unexplained change to the ending inventory. Scattered group remains five. Two-circle representation matches two cups. Textbook remains usable without the workbook through ordinary paper, exercise book, objects and numeral cards."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Current exact-artifact re-review: independently inspected EVERY final textbook page 1-22 and workbook page 1-10, all artwork, all diagrams and adult pages. Independently compared archived page hashes: only textbook 5,11,22 changed; all ten workbook pages unchanged. All 32 current PNGs byte-match in-memory 1.15x rasterisation of both final PDFs; all are A4 (595.28 x 841.89 pt) with embedded fonts and matching asset hashes. White page surfaces, legible text/blackboard hints, clear reading order, generous workbook response space and no clipping/overlap observed. Both lead-teacher blackboard openings explicitly inspected under the new mandatory rule. Textbook 5: Mrs Binta alone stands at a dark blackboard, four children seated facing her. White 17 pt topic hint reads Touch one. Say one number. It is legible with high contrast, contains no premature numerals, and introduces the actual counting method."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Rechecked current adult pages and all answer variants after this revision. Textbook18-19 provides materials, suggested flexible sessions, one-touch/last-number/drawing/formation models, task-location/answer map, misconceptions, two-cup intervention, fresh recheck, separate recognition/reading rubric and delayed recall. Textbook22 supplies glossary, historical objective mapping, existing-art provenance/font licence, Primary2 preview and honest limits; final four offline-AI pages explicitly belong to future full-year book outside this extract. Current textbook 22 accurately credits both new blackboard scene revisions; inspected adjacent provenance and confirmed both manifest entries and registered asset hashes. No current curriculum, local education or print sign-off asserted."
+            }
+          },
+          "variations": [
+            "Opening extract only: textbook5-10/workbook2-5 plus shared front/adult pages; not a full annual volume. Final four AI pages and later units are explicitly outside this extract.",
+            "S1-S9 span a reusable textbook and separate workbook; every written task also works in an ordinary exercise book. Introductions occur once at shared front; pupil folios/task numbering omitted.",
+            "Live numeral formation and real-cup story pairing are explicitly enacted with adult support; exact drawn cups provide the visual mathematics."
+          ],
+          "findings": [
+            {
+              "severity": "required",
+              "reference": "Historical resolved reading-assessment finding, rechecked now: P1-01-FRESH-READ; current textbook 10/workbook 5 and adult textbook 18-19",
+              "correction": "Add a separate mixed-order numeral-naming check beside adult-named numeral recognition, available with ordinary paper cards; distinguish reading from recognition/formation in the adult rubric.",
+              "resolved": true,
+              "recheck": "Author updated pupil tasks, task metadata and adult rubric, then rebuilt. Independently reread and visually reinspected final textbook10,18,19 and workbook5: adult points to mixed card, child names value without value being supplied; speech/usual communication accepted, separate observations explicit, no overflow. Final PDFs/PNGs verified and new paired fingerprints obtained. Current full re-review confirms the separate shuffled recognition/reading tasks and complete rubric remain present and correct; no regression in this blackboard revision."
+            }
+          ]
+        },
+        "format": "textbook-workbook",
+        "edition": "p1-opening-pair-v1",
+        "artifacts": {
+          "textbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+          "workbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf"
+        },
+        "page_ranges": {
+          "textbook": [
+            5,
+            10
+          ],
+          "workbook": [
+            2,
+            5
+          ]
+        },
+        "shared_pages": {
+          "textbook": [
+            1,
+            2,
+            3,
+            4,
+            18,
+            19,
+            22
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-02",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+        "review": {
+          "status": "approved",
+          "author": "Codex /root",
+          "reviewer": "Codex /root/sol_reviewer (independent agent session)",
+          "reviewed_on": "2026-10-20",
+          "fingerprint": "7ef46a76872fd4d4d08ffdf2222301dfc76eb57b4db863eb8a000ca2dfd9b36c",
+          "stages": {
+            "S1": "Textbook 11: Mr Aliyu introduces Aishatu's toy-shop game tray problem from the classroom blackboard with four seated children facing him; the clear hint Sort. Match. Put in order. anticipates the method. Separate deterministic tray contains 3 leaf tickets and 5 top counters to tidy.",
+            "S2": "Textbook11: We will sort things, match them and put small sets in order.",
+            "S3": "Textbook12-14: Mr Aliyu sorts the 3/5 inventory by type; models 2-versus-4 one-to-one matching and whole-set circle; counts/labels increasing sets 2,3,4.",
+            "S4": "Textbook12-13 / workbook6: Grace repairs a sorting error, children select the other leaf and physically sort/count; Adamu's long-row guess is tested by pairing equal sets of three despite spacing.",
+            "S5": "Textbook14-16 / workbook7-9: source tasks independently order 4,1,3; draw 1/3 dots; compare 2/5 tops and 4/3 leaves; make 5 objects and explain a comparison. Response locations and diagrams are explicit.",
+            "S6": "Textbook16 / workbook9: remember Mr Aliyu before looking back; explain/show own comparison using real objects or drawing.",
+            "S7": "Textbook16 / adult20: smaller-step 2-versus-3-dot matching has one completed pair, returns to own sets, and teacher rechecks with fresh 1/2 objects.",
+            "S8": "Textbook17 / workbook10 / adult20-21: same 3 leaves and 5 tops yield 3 pairs and 2 spare tops. Put those real spares in a real box before reading closure; fair-turn game is ready.",
+            "S9": "Textbook17 / workbook10: fresh independent type classification (leaves positions2/4) and comparison 4 tops/5 leaves. Adult20-21 adds fresh physical sorting/counting with privately chosen 1-5 quantities and delayed 4-leaf/2-top sorting/comparison plus ordering5,2,3."
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. S1-S9 enacted at pages above. P1-01 counting/numeral knowledge precedes sorting, correspondence/equality and quantity order. Individual and whole-set circles and line matching are modelled in textbook before workbook marking. Error-based guided practice leads to independent comparison, recall before help and fresh/delayed checks."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Independently solved EVERY task/model/extra on both surfaces and adult20-21. P1-02-Q1 textbook14/workbook7=1,3,4; Q2=one left dot/three right dots, separate sets; Q3 textbook15/workbook8=right 5 tops more than2; Q4=right3 leaves fewer than4; Q5 textbook16/workbook9=exactly5 safe objects; Q6=count both or match each object to one partner, accurate explanation/drawing accepted. Story/sort inventory=3 leaves/5 tops. Guided sort positions2,4 leaves (2 already circled),1,3 tops. Matching model2/4=2 pairs/2 unmatched;4 more/2 fewer. Equal spaced rows=3 each; any bijection. Order model=2,3,4 dots. Support2/3=2 pairs/1 unmatched lower; either free partner valid. Fresh1/2=2 more/1 fewer. Ending=3 pairs/2 spares; any injective leaf/top pairing valid. Fresh classification positions2,4 leaves/1,3,5 tops; fresh comparison=right5 leaves more than4 tops. New physical tray must sort by type/count exact privately recorded1-5 quantities. Delayed4leaves/2tops=leaves more/tops fewer, order5,2,3=2,3,5."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Read textbook11-17/workbook6-10/adult20-22. Reusable textbook requires pointing, finger matching, speech, real pieces or exercise-book responses; independent circling/line drawing/writing is explicitly in workbook. Workbook has each needed diagram locally. Printed page-name references match workbook titles; no pupil task numbering. Partner uniqueness, whole-set versus individual circling, and separate dot sets are clear."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Textbook 11: Mr Aliyu alone stands at a dark blackboard in cream/green native clothing and patterned cap, four children seated facing him. White 19 pt topic hint reads Sort. Match. Put in order. High contrast, clear leadership, and no unexplained symbols. The separate vector tray below has exactly three leaves and five tops. All four current classroom figures retain Aishatu mustard hijab/teal, Grace all-back plaits/clay-green, Adamu blue/clay/cropped hair and John smooth scalp/green-ochre/blue wheelchair; seated reachable desk and teacher leadership are clear. Shared textbook 2-4 introductions and all later character appearances/roles rechecked. Source IDs and answer correspondence retained; teacher alternation remains Mrs Binta then Mr Aliyu."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Independently rechecked against the current exact pair after the blackboard revision; prior approval was reset and was not reused. Track textbook11 mixed tray through12 sorted sets and17 ending/workbook10: always3 leaves/5 tops. Three tickets obtain three counters; two unmatched tops are physically stored before closure as adult20 requires. Other sets are distinct practice. Equal rows disprove spacing guess. Same printed fresh task on textbook/workbook is explicitly one task, not two independent tests; a genuinely fresh physical tray and delayed check add independent evidence. All tasks answerable."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Current exact-artifact re-review: independently inspected EVERY final textbook page 1-22 and workbook page 1-10, all artwork, all diagrams and adult pages. Independently compared archived page hashes: only textbook 5,11,22 changed; all ten workbook pages unchanged. All 32 current PNGs byte-match in-memory 1.15x rasterisation of both final PDFs; all are A4 (595.28 x 841.89 pt) with embedded fonts and matching asset hashes. White page surfaces, legible text/blackboard hints, clear reading order, generous workbook response space and no clipping/overlap observed. Both lead-teacher blackboard openings explicitly inspected under the new mandatory rule. Textbook 11: Mr Aliyu alone stands at a dark blackboard in cream/green native clothing and patterned cap, four children seated facing him. White 19 pt topic hint reads Sort. Match. Put in order. High contrast, clear leadership, and no unexplained symbols. The separate vector tray below has exactly three leaves and five tops."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Rechecked current adult pages and all answer variants after this revision. Textbook20-21 provides safe large reachable materials, flexible sessions, type/colour and spacing interventions, paired-object support, explicit1/2 recheck answers, real-spare-box closure, fresh physical tray rubric, delayed4/2 and ordering answers, all six source/extra answers and variants. Shared22 covers glossary, historical mapping, provenance, Primary2 preview and pending curriculum/adoption/educator/pupil/accessibility/print limits; full-year final AI pages remain outside opening extract. Current textbook 22 accurately credits both new blackboard scene revisions; inspected adjacent provenance and confirmed both manifest entries and registered asset hashes. No current curriculum, local education or print sign-off asserted."
+            }
+          },
+          "variations": [
+            "S1-S9 span reusable textbook 11-17 and workbook 6-10 plus shared front/adult pages; exercise-book alternatives are explicit. Required classroom blackboard opening leads into the toy-shop practical story.",
+            "S8 is enacted with real pieces/spare box after matching identifies two spares; the same 3-leaf/5-top inventory is retained.",
+            "Opening extract only; later annual units and four final offline-AI pages explicitly remain outside scope. Shared introductions and adult notes are reviewed, not duplicated."
+          ],
+          "findings": []
+        },
+        "format": "textbook-workbook",
+        "edition": "p1-opening-pair-v1",
+        "artifacts": {
+          "textbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+          "workbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf"
+        },
+        "page_ranges": {
+          "textbook": [
+            11,
+            17
+          ],
+          "workbook": [
+            6,
+            10
+          ]
+        },
+        "shared_pages": {
+          "textbook": [
+            1,
+            2,
+            3,
+            4,
+            20,
+            21,
+            22
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-03",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-04",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-05",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-06",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-07",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-08",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-09",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-10",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-11",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-12",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-13",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-14",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-15",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-16",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-17",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-18",
+        "canonical": "production/p1.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P1-19",
+        "canonical": "production/p1.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-01",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-02",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-03",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-04",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-05",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-06",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-07",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-08",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-09",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-10",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-11",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-12",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-13",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-14",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-15",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-16",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-17",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-18",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-19",
+        "canonical": "production/p2.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P2-20",
+        "canonical": "production/p2.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-01",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-02",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-03",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-04",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-05",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-06",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-07",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-08",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-09",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-10",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-11",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-12",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-13",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-14",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-15",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-16",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-17",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-18",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-19",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-20",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-21",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-22",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-23",
+        "canonical": "production/p3.json",
+        "teacher_id": "ms-binta",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      },
+      {
+        "id": "P3-24",
+        "canonical": "production/p3.json",
+        "teacher_id": "mr-aliyu",
+        "artifact": null,
+        "review": {
+          "status": "pending",
+          "author": null,
+          "reviewer": null,
+          "reviewed_on": null,
+          "fingerprint": null,
+          "stages": {},
+          "checks": {},
+          "variations": [],
+          "findings": []
+        }
+      }
+    ]
+  }
+}

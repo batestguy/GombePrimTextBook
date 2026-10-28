@@ -1,0 +1,705 @@
+{
+  "pages": 11,
+  "sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+  "page_manifest": [
+    {
+      "slug": "c4-story",
+      "kicker": "Chapter four / Six to nine",
+      "title": "A place for every piece",
+      "subtitle": "We will count, read, write and order six to nine.",
+      "task_ids": [],
+      "adult": false,
+      "pre_numerals": true
+    },
+    {
+      "slug": "c4-six-seven",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Five, then one more",
+      "subtitle": "Watch Mr Aliyu move each top once. Count all the tops in each tray.",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-eight-nine",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Count eight. Count nine.",
+      "subtitle": "Touch each top once. Say how many. Read its numeral.",
+      "task_ids": [
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-GUIDED-READ"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-write",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Watch the pencil move",
+      "subtitle": "Mr Aliyu writes each numeral on paper first. Watch, then air-write.",
+      "task_ids": [
+        "P1-04-FORM-MODEL"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-sort",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Same kind, same group",
+      "subtitle": "Watch sorting before you sort the real game pieces.",
+      "task_ids": [
+        "P1-04-SORT-MODEL",
+        "P1-04-GUIDED-SORT",
+        "P1-04-S002"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-order",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Put the groups in order",
+      "subtitle": "Use real counters as well as numeral cards.",
+      "task_ids": [
+        "P1-04-Q1",
+        "P1-04-Q2",
+        "P1-04-Q3",
+        "P1-04-ORDER-MODEL"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-recall",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Draw, count and check",
+      "subtitle": "Remember the method before looking back. Try on your own first.",
+      "task_ids": [
+        "P1-04-Q4",
+        "P1-04-Q5",
+        "P1-04-Q6",
+        "P1-04-DRAW-MODEL",
+        "P1-04-RECALL",
+        "P1-04-SUPPORT"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-ending",
+      "kicker": "Chapter four / Six to nine",
+      "title": "Our box game is ready",
+      "subtitle": "Actually sort, count and arrange your four game groups before starting.",
+      "task_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "adult": false,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-guide",
+      "kicker": "For the teacher / Six to nine",
+      "title": "Teach, notice and return",
+      "subtitle": "Adult guidance / Several short sessions, not a race through four numerals.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-answers",
+      "kicker": "For the teacher / Six to nine",
+      "title": "Answers and independent checks",
+      "subtitle": "Adult task map / TB = this textbook; WB = its paired workbook.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    },
+    {
+      "slug": "c4-notes",
+      "kicker": "For the teacher / Six to nine",
+      "title": "Words, evidence and credits",
+      "subtitle": "Chapter four continuation / Not a completed annual book.",
+      "task_ids": [],
+      "adult": true,
+      "pre_numerals": false
+    }
+  ],
+  "task_pages": {
+    "P1-04-MODEL-6": [
+      2
+    ],
+    "P1-04-MODEL-7": [
+      2
+    ],
+    "P1-04-MODEL-8": [
+      3
+    ],
+    "P1-04-MODEL-9": [
+      3
+    ],
+    "P1-04-GUIDED-READ": [
+      3
+    ],
+    "P1-04-FORM-MODEL": [
+      4
+    ],
+    "P1-04-SORT-MODEL": [
+      5
+    ],
+    "P1-04-GUIDED-SORT": [
+      5
+    ],
+    "P1-04-S002": [
+      5
+    ],
+    "P1-04-Q1": [
+      6
+    ],
+    "P1-04-Q2": [
+      6
+    ],
+    "P1-04-Q3": [
+      6
+    ],
+    "P1-04-ORDER-MODEL": [
+      6
+    ],
+    "P1-04-Q4": [
+      7
+    ],
+    "P1-04-Q5": [
+      7
+    ],
+    "P1-04-Q6": [
+      7
+    ],
+    "P1-04-DRAW-MODEL": [
+      7
+    ],
+    "P1-04-RECALL": [
+      7
+    ],
+    "P1-04-SUPPORT": [
+      7
+    ],
+    "P1-04-ENDING": [
+      8
+    ],
+    "P1-04-FRESH-COUNT": [
+      8
+    ],
+    "P1-04-S003": [
+      8
+    ],
+    "P1-04-S004": [
+      8
+    ]
+  },
+  "objects": [
+    {
+      "id": "c4-model-six",
+      "page": 2,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          110,
+          278
+        ],
+        [
+          156,
+          278
+        ],
+        [
+          202,
+          278
+        ],
+        [
+          248,
+          278
+        ],
+        [
+          294,
+          278
+        ],
+        [
+          110,
+          326
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "c4-model-seven",
+      "page": 2,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          110,
+          507
+        ],
+        [
+          156,
+          507
+        ],
+        [
+          202,
+          507
+        ],
+        [
+          248,
+          507
+        ],
+        [
+          294,
+          507
+        ],
+        [
+          110,
+          555
+        ],
+        [
+          156,
+          555
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "c4-model-eight",
+      "page": 3,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          110,
+          282
+        ],
+        [
+          156,
+          282
+        ],
+        [
+          202,
+          282
+        ],
+        [
+          248,
+          282
+        ],
+        [
+          294,
+          282
+        ],
+        [
+          110,
+          330
+        ],
+        [
+          156,
+          330
+        ],
+        [
+          202,
+          330
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "c4-model-nine",
+      "page": 3,
+      "kinds": [
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          110,
+          511
+        ],
+        [
+          156,
+          511
+        ],
+        [
+          202,
+          511
+        ],
+        [
+          248,
+          511
+        ],
+        [
+          294,
+          511
+        ],
+        [
+          110,
+          559
+        ],
+        [
+          156,
+          559
+        ],
+        [
+          202,
+          559
+        ],
+        [
+          248,
+          559
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "c4-sort-six",
+      "page": 5,
+      "kinds": [
+        "disc",
+        "disc",
+        "disc",
+        "disc",
+        "disc",
+        "disc"
+      ],
+      "points": [
+        [
+          98,
+          287
+        ],
+        [
+          163,
+          287
+        ],
+        [
+          228,
+          287
+        ],
+        [
+          98,
+          335
+        ],
+        [
+          163,
+          335
+        ],
+        [
+          228,
+          335
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "c4-sort-seven",
+      "page": 5,
+      "kinds": [
+        "square",
+        "square",
+        "square",
+        "square",
+        "square",
+        "square",
+        "square"
+      ],
+      "points": [
+        [
+          341,
+          282
+        ],
+        [
+          393,
+          282
+        ],
+        [
+          445,
+          282
+        ],
+        [
+          497,
+          282
+        ],
+        [
+          341,
+          330
+        ],
+        [
+          393,
+          330
+        ],
+        [
+          445,
+          330
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "c4-draw-model-tops",
+      "page": 7,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          140,
+          260
+        ],
+        [
+          230,
+          260
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "c4-draw-model-dots",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          140,
+          322
+        ],
+        [
+          230,
+          322
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "c4-ending-six",
+      "page": 8,
+      "kinds": [
+        "disc",
+        "disc",
+        "disc",
+        "disc",
+        "disc",
+        "disc"
+      ],
+      "points": [
+        [
+          100,
+          351
+        ],
+        [
+          162,
+          351
+        ],
+        [
+          224,
+          351
+        ],
+        [
+          100,
+          399
+        ],
+        [
+          162,
+          399
+        ],
+        [
+          224,
+          399
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "c4-ending-seven",
+      "page": 8,
+      "kinds": [
+        "square",
+        "square",
+        "square",
+        "square",
+        "square",
+        "square",
+        "square"
+      ],
+      "points": [
+        [
+          340,
+          350
+        ],
+        [
+          392,
+          350
+        ],
+        [
+          444,
+          350
+        ],
+        [
+          496,
+          350
+        ],
+        [
+          340,
+          398
+        ],
+        [
+          392,
+          398
+        ],
+        [
+          444,
+          398
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "c4-ending-eight",
+      "page": 8,
+      "kinds": [
+        "triangle",
+        "triangle",
+        "triangle",
+        "triangle",
+        "triangle",
+        "triangle",
+        "triangle",
+        "triangle"
+      ],
+      "points": [
+        [
+          95,
+          522
+        ],
+        [
+          147,
+          522
+        ],
+        [
+          199,
+          522
+        ],
+        [
+          251,
+          522
+        ],
+        [
+          95,
+          570
+        ],
+        [
+          147,
+          570
+        ],
+        [
+          199,
+          570
+        ],
+        [
+          251,
+          570
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "c4-ending-nine",
+      "page": 8,
+      "kinds": [
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle"
+      ],
+      "points": [
+        [
+          345,
+          512
+        ],
+        [
+          384,
+          512
+        ],
+        [
+          423,
+          512
+        ],
+        [
+          462,
+          512
+        ],
+        [
+          501,
+          512
+        ],
+        [
+          345,
+          560
+        ],
+        [
+          384,
+          560
+        ],
+        [
+          423,
+          560
+        ],
+        [
+          462,
+          560
+        ]
+      ],
+      "count": 9
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

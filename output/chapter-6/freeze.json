@@ -1,0 +1,10 @@
+{
+  "sha256": {
+    "production/p1.json": "0b18d7617fe9438f999371bd127b3860393f1001a1095c2c4a65896b13132b9d",
+    "scripts/build_chapter_six.py": "b7968ec60d05eb957f2352a61b0bdb4e24bdf3cffb4dcf609931e2187332ac05",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf": "6641c8720bccadacf341c3b6e903a9be95b1db2aa774d0c9958f6d743e6e44f6",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0"
+  },
+  "chapter_fingerprint": "6d43966b7205cc70abd1c3b39cd70eb186c7521a27ceff4355eb34abb44a93f6",
+  "status": "author_frozen_pending_independent_review"
+}

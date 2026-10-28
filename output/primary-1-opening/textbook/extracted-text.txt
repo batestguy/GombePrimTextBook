@@ -202,14 +202,17 @@ OUR TOY SHOP / CHAPTER TWO
 Sort, match and order
 We will sort things, match them and put small sets in order.
 Read together. Keep this textbook reusable.
-Mr Aliyu: Your shop is open! Let us make a game.
-First, tidy the leaf tickets and top counters.
+Sort.
+Match.
+Put in order.
+Mr Aliyu: Your shop is open! Let us make a game. First, tidy the leaf tickets and top
+counters.
 Aishatu: My box shop needs a tidy game tray.
 Grace: I like things in their places.
 Adamu: Let us take fair turns.
 John: Can we find out which set has more?
-Mr Aliyu: These are our game pieces. Watch me sort them. Then
-we can check: are there more tops or leaves?
+Mr Aliyu: These are our game pieces. Watch me sort them. Then we can check: are
+there more tops or leaves?
 
 
 MATHS WITH FRIENDS
@@ -458,10 +461,11 @@ do not complete them. Use the full-year three-term plan. Current applicable
 curriculum/Gombe adoption, educator review, pupil trials, accessible-PDF certification,
 physical print proof and printer approval remain pending. No learning outcomes or official
 approval are asserted.
-Artwork. Existing fictional character/teacher/classroom images were generated with built-in
+Artwork. Fictional character/teacher/classroom images were generated with built-in
 image_gen; exact prompts, sources and asset records are in artwork/manifest.json and adjacent
-provenance files. No new AI art was required. Cups, tops, leaves, dots, circles and matching
-lines are deterministic vector drawings. Typeface: bundled DejaVu Sans, licence in
+provenance files. The two blackboard scenes were revised with the same tool; their prompts and
+references are recorded beside the images. Cups, tops, leaves, dots, circles and matching lines
+are deterministic vector drawings. Typeface: bundled DejaVu Sans, licence in
 fonts/LICENSE_DEJAVU.txt.
 Next class: Primary Two. Planned topics include larger numbers, exchanging tens in
 addition/subtraction, equal groups and further measurement. Revisit these Primary One
