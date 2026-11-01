@@ -10700,7 +10700,7 @@
             {
               "type": "text",
               "top": 476,
-              "text": "<b>Credits.</b> Existing Mr Aliyu classroom art: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png, provenance artwork/PROVENANCE.json. Character dress and leadership follow the series registry. All exact strips/bundles are deterministic vector marks, ten separate strips per bundle. DejaVu Sans fonts and licences in fonts/. No quantities are inferred from decorative art.",
+              "text": "<b>Credits.</b> Existing Mr Aliyu classroom art: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png, provenance artwork/manifest.json and the matching .provenance.json sidecar. Character dress and leadership follow the series registry. All exact strips/bundles are deterministic vector marks, ten separate strips per bundle. DejaVu Sans fonts and licences in fonts/. No quantities are inferred from decorative art.",
               "size": 11.5,
               "x": 43,
               "width": 509
@@ -13605,30 +13605,1078 @@
     "questions": [
       {
         "prompt": "1 + 2 = __.",
-        "answer": "3"
+        "answer": "3",
+        "id": "P1-08-Q1"
       },
       {
         "prompt": "2 + 2 = __.",
-        "answer": "4"
+        "answer": "4",
+        "id": "P1-08-Q2"
       },
       {
         "prompt": "1 + 1 + 1 = __.",
-        "answer": "3"
+        "answer": "3",
+        "id": "P1-08-Q3"
       },
       {
         "prompt": "Draw 2 dots and 1 more. Total?",
-        "answer": "3"
+        "answer": "3",
+        "id": "P1-08-Q4"
       },
       {
         "prompt": "1 book and 3 more make how many?",
-        "answer": "4 books"
+        "answer": "4 books",
+        "id": "P1-08-Q5"
       },
       {
         "prompt": "Show why 1 + 2 and 2 + 1 match.",
-        "answer": "Both combine one and two objects to make three."
+        "answer": "Both combine one and two objects to make three.",
+        "id": "P1-08-Q6"
       }
     ],
-    "diagram": ""
+    "diagram": "",
+    "paired_edition": {
+      "teacher_id": "mr-aliyu",
+      "source_tasks": [
+        {
+          "id": "P1-08-Q1",
+          "source_prompt": "1 + 2 = __.",
+          "source_answer": "3"
+        },
+        {
+          "id": "P1-08-Q2",
+          "source_prompt": "2 + 2 = __.",
+          "source_answer": "4"
+        },
+        {
+          "id": "P1-08-Q3",
+          "source_prompt": "1 + 1 + 1 = __.",
+          "source_answer": "3"
+        },
+        {
+          "id": "P1-08-Q4",
+          "source_prompt": "Draw 2 dots and 1 more. Total?",
+          "source_answer": "3"
+        },
+        {
+          "id": "P1-08-Q5",
+          "source_prompt": "1 book and 3 more make how many?",
+          "source_answer": "4 books"
+        },
+        {
+          "id": "P1-08-Q6",
+          "source_prompt": "Show why 1 + 2 and 2 + 1 match.",
+          "source_answer": "Both combine one and two objects to make three."
+        }
+      ],
+      "textbook_pages": [
+        {
+          "slug": "c8-story",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Tops for the box-toy stall",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png",
+              "x": 43,
+              "top": 160,
+              "width": 509,
+              "height": 339,
+              "preserve": false
+            },
+            {
+              "type": "text",
+              "top": 214,
+              "text": "<b>Put sets together.</b><br/><b>Count them all.</b>",
+              "size": 17,
+              "x": 263,
+              "width": 230,
+              "color": "#FFFFFF"
+            },
+            {
+              "type": "text",
+              "top": 516,
+              "text": "<b>Aishatu:</b> My box-toy stall needs all our tops in one tray. I have two. Adamu has one. I want to open now!<br/><b>Mr Aliyu:</b> Wait while we learn to join and count. Keep the tray within everyone's reach.<br/><b>Adamu:</b> We will all have a turn.<br/><b>Grace:</b> I will keep the tops in a neat row.<br/><b>John:</b> Let me find the total before you tell me.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 710,
+              "text": "We will put two or three small sets together and find how many altogether.",
+              "size": 14
+            }
+          ],
+          "task_ids": [],
+          "adult": false
+        },
+        {
+          "slug": "c8-join",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Watch: move, then count",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mr Aliyu:</b> Here are Aishatu's two tops and Adamu's one top. The pictures show the same tops before and after moving them.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 245,
+              "text": "Before: two tops",
+              "size": 13,
+              "x": 60,
+              "width": 250
+            },
+            {
+              "type": "text",
+              "top": 245,
+              "text": "and one top",
+              "size": 13,
+              "x": 355,
+              "width": 180
+            },
+            {
+              "type": "objects",
+              "id": "tb-before-a",
+              "count": 2,
+              "kind": "top",
+              "x": 85,
+              "top": 305,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-before-b",
+              "count": 1,
+              "kind": "top",
+              "x": 400,
+              "top": 305,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 365,
+              "text": "I move all the tops into one row. None is added or lost.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-after",
+              "count": 3,
+              "kind": "top",
+              "x": 150,
+              "top": 445,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 495,
+              "text": "I touch each top once: one, two, three. The last count tells how many altogether. Two and one make three tops.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 595,
+              "text": "<b>Try together.</b> Put one counter on a table and one nearby. Move them into one row. Touch and count all. Say the total.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 705,
+              "text": "Use large safe counters or paper circles. Work seated at a reachable table.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-JOIN-MODEL",
+            "P1-08-JOIN-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-signs",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Signs tell the joining story",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mr Aliyu:</b> We have joined the tops. Now we can write that story.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-sign-left",
+              "count": 2,
+              "kind": "top",
+              "x": 70,
+              "top": 275,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 255,
+              "text": "+",
+              "size": 28,
+              "x": 165,
+              "width": 40
+            },
+            {
+              "type": "objects",
+              "id": "tb-sign-right",
+              "count": 1,
+              "kind": "top",
+              "x": 235,
+              "top": 275,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 255,
+              "text": "=",
+              "size": 28,
+              "x": 305,
+              "width": 40
+            },
+            {
+              "type": "objects",
+              "id": "tb-sign-total",
+              "count": 3,
+              "kind": "top",
+              "x": 380,
+              "top": 275,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 335,
+              "text": "<b>2 + 1 = 3</b>",
+              "size": 26
+            },
+            {
+              "type": "text",
+              "top": 400,
+              "text": "The plus sign <b>+</b> means add: put amounts together.<br/>The equals sign <b>=</b> means has the same value as. Two plus one has the same value as three.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 520,
+              "text": "<b>Grace:</b> I thought equals meant \"write an answer next\".<br/><b>Mr Aliyu:</b> It tells us both sides have the same value. We can also write <b>3 = 2 + 1</b>.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 635,
+              "text": "<b>Try together.</b> Put one counter beside two counters. Count all. Say \"one plus two equals three\". Check both sides have three counters altogether.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-SIGNS-MODEL",
+            "P1-08-SIGNS-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-three",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Join three sets",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mr Aliyu:</b> Keep our three stall tops aside. Use separate practice counters now. Join one, one and two counters. Count all four. We write <b>1 + 1 + 2 = 4</b>.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-a",
+              "count": 1,
+              "kind": "top",
+              "x": 75,
+              "top": 285,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-b",
+              "count": 1,
+              "kind": "top",
+              "x": 215,
+              "top": 285,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-c",
+              "count": 2,
+              "kind": "top",
+              "x": 355,
+              "top": 285,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 350,
+              "text": "Now watch a larger three-set example with practice counters. Two, two and two join. Touch each once: one, two, three, four, five, six.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-large-a",
+              "count": 2,
+              "kind": "top",
+              "x": 70,
+              "top": 465,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-large-b",
+              "count": 2,
+              "kind": "top",
+              "x": 235,
+              "top": 465,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-large-c",
+              "count": 2,
+              "kind": "top",
+              "x": 400,
+              "top": 465,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 525,
+              "text": "<b>2 + 2 + 2 = 6</b>. Two plus two plus two has the same value as six.",
+              "size": 20
+            },
+            {
+              "type": "text",
+              "top": 625,
+              "text": "<b>John:</b> I counted the middle set twice. I will move each top to the row only once.<br/><b>Try together.</b> Join one, one and one counter. Count all and say the number sentence.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-THREE-MODEL",
+            "P1-08-THREE-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-draw",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Show the story with dots",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mr Aliyu:</b> Watch me draw one dot for each top. First I draw one dot, then one more. I count both dots. I write the total.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-dot-a",
+              "count": 1,
+              "kind": "dot",
+              "x": 100,
+              "top": 290,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-dot-b",
+              "count": 1,
+              "kind": "dot",
+              "x": 270,
+              "top": 290,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 345,
+              "text": "<b>1 + 1 = 2</b>",
+              "size": 24
+            },
+            {
+              "type": "text",
+              "top": 415,
+              "text": "Dots can stand for books too. Watch: two books and one more book make three books. I draw two dots and then one dot.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-book-a",
+              "count": 2,
+              "kind": "dot",
+              "x": 100,
+              "top": 525,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-book-b",
+              "count": 1,
+              "kind": "dot",
+              "x": 320,
+              "top": 525,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 580,
+              "text": "<b>2 + 1 = 3</b><br/>Three books.",
+              "size": 22
+            },
+            {
+              "type": "text",
+              "top": 655,
+              "text": "<b>Try together.</b> On the workbook page \"Try with Mr Aliyu\" or in your exercise book, draw one dot and two more dots. Count them all. Write the total.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-DRAW-MODEL",
+            "P1-08-DRAW-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-independent",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Your own joining stories",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Use the workbook pages \"Join and count\" and \"Draw and explain\", or your exercise book. Try on your own first. You may use counters. Draw one dot for each object. Write a total or say it to an adult.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 280,
+              "text": "<b>Join small sets.</b><br/>One plus two. How many altogether?<br/>Two plus two. How many altogether?<br/>One plus one plus one. How many altogether?",
+              "size": 17
+            },
+            {
+              "type": "text",
+              "top": 440,
+              "text": "<b>Draw and tell.</b><br/>Draw two dots and one more. What is the total?<br/>One book and three more make how many books?<br/>Show why one plus two and two plus one match.",
+              "size": 17
+            },
+            {
+              "type": "text",
+              "top": 660,
+              "text": "Count each object once. The equals sign means both sides have the same value. Keep your answers in your workbook or exercise book.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-Q1",
+            "P1-08-Q2",
+            "P1-08-Q3",
+            "P1-08-Q4",
+            "P1-08-Q5",
+            "P1-08-Q6"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-help",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Remember, then try a small step",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Remember.</b> Without looking back, tell a partner what plus means. Tell what equals means. Show how you check a total.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 280,
+              "text": "<b>Need help?</b> Put one counter in each of two little spaces. Move both to one row. Touch each once: one, two. Say \"one plus one equals two\".",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-help-a",
+              "count": 1,
+              "kind": "top",
+              "x": 100,
+              "top": 405,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "tb-help-b",
+              "count": 1,
+              "kind": "top",
+              "x": 300,
+              "top": 405,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 465,
+              "text": "<b>Try afresh.</b> Put two counters and one counter on the table. Join them. Say the total without copying the help example. Use the workbook page \"A smaller step, then a new try\", or your exercise book.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 585,
+              "text": "<b>Investigate.</b> Aishatu waits while Adamu tries. Make one set of one counter and another of two. Swap where the sets sit. Count again. Did the total change? Explain.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 710,
+              "text": "Pointing, moving objects and speaking can show your thinking.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-RECALL",
+            "P1-08-HELP",
+            "P1-08-RECHECK",
+            "P1-08-SWAP"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-finish",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "The stall can open",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Your turn:</b> Put the original two stall tops and one top on a reachable table. Move them into one tray. Touch each once and say the total. Then read the ending.<br/><b>Grace:</b> I keep them in a neat row.<br/><b>John:</b> Three tops altogether!<br/><b>Aishatu:</b> Waiting helped us check.<br/><b>Adamu:</b> All four friends can take turns with our three tops.",
+              "size": 13
+            },
+            {
+              "type": "objects",
+              "id": "tb-story-final",
+              "count": 3,
+              "kind": "top",
+              "x": 160,
+              "top": 390,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 445,
+              "text": "The same two tops and one top from the start are here. None is lost. <b>2 + 1 = 3</b>. The stall opens.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 555,
+              "text": "<b>Show learning afresh.</b> Use the workbook page \"Try afresh on your own\", or your exercise book. Join one counter and three counters. Record the number sentence. Then join one, two and two counters. Record the number sentence.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 695,
+              "text": "Explain how you know both sides of each equals sign have the same value.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-STORY",
+            "P1-08-FRESH-TWO",
+            "P1-08-FRESH-THREE",
+            "P1-08-FRESH-EQUALS"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-answers",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 162,
+              "text": "Textbook (TB) and workbook (WB) page links refer to this chapter pair. All original tasks retain their prompt/answer meanings. Oral, pointing or practical demonstrations are valid; accept any clear dot arrangement.",
+              "size": 11
+            },
+            {
+              "type": "text",
+              "top": 225,
+              "text": "<b>TB2:</b> JOIN-MODEL 2+1=3; the same three tops move. JOIN-GUIDED 1+1=2.<br/><b>TB3:</b> SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED 1+2=3.<br/><b>TB4:</b> THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.<br/><b>TB5 / WB1:</b> DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1 then 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 415,
+              "text": "<b>TB6 / WB2-3 originals:</b> Q1 1+2=3; Q2 2+2=4; Q3 1+1+1=3. Q4 two dots and one more, total 3. Q5 one dot and three more, total 4 books. Q6 draw 1+2 and 2+1; both total 3. Accept rearranged drawings with the correct counts and explanation.<br/><b>TB7 / WB4-5:</b> RECALL plus joins amounts; equals means same value; touch/count each once. HELP 1+1=2. RECHECK 2+1=3. SWAP both orders total 3 because no counter is added or removed.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 620,
+              "text": "<b>TB8 / WB5-6:</b> STORY 2+1=3 tops; all four take turns (not a top each). FRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4 or 5 respectively. Accept speech plus matching objects instead of fluent writing.<br/><b>DELAYED, TB10:</b> 2+2=4; 1+1+2=4; 4=2+2 is true.",
+              "size": 12
+            }
+          ],
+          "task_ids": [],
+          "adult": true
+        },
+        {
+          "slug": "c8-guidance",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Teach, observe and revisit",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Suggested sessions:</b> TB1-2 concrete joining; TB3 signs and equality; TB4 three sets; TB5 drawing; TB6 / WB2-3 independent tasks; TB7 help; TB8 and WB6 fresh checks. This is flexible editorial pacing, not an official timetable.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 275,
+              "text": "Read directions aloud. Use large safe counters or paper circles. Keep all materials reachable for seated participation. Allow touch, pointing, speech and drawing. Model the move into one row; do not introduce counting-on, carrying or totals through eighteen here.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 395,
+              "text": "<b>Observe:</b> Does the child preserve all objects, count each once, distinguish the separate sets from the total and read the entire number sentence? If a child counts a set twice, return to 1+1, moving each counter once into one row. Then use the new 2+1 recheck (TB7 / WB4). If equals is treated as an answer arrow, build 3 and 2+1 side by side and read 3=2+1.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 560,
+              "text": "<b>Delayed recall, next session:</b> Without showing earlier answers, ask the child to join two and two counters and record the total. Then join one, one and two. Ask whether 4=2+2 is true and why. Answers: 4; 4; yes, both sides have value 4. Record whether the child worked independently or with support.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 715,
+              "text": "Do not infer mastery from copied numerals. Return to concrete objects when needed.",
+              "size": 12
+            }
+          ],
+          "task_ids": [
+            "P1-08-DELAYED"
+          ],
+          "adult": true
+        },
+        {
+          "slug": "c8-credits",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Words, evidence and next learning",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Glossary:</b> set: a collection of objects. Join/add: put amounts together. Plus (+): the sign for adding. Total: how many altogether. Equals (=): has the same value as. Number sentence: numbers and signs that state a relationship.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 295,
+              "text": "<b>Historical mapping:</b> P1-p04-01: add two small sets, each 1 to 3, with total below 5. Core examples and Q1, Q2, Q4-Q6 keep that bound. Three-addend work is explicitly modelled (TB4); total 6 model and total 5 fresh check stay below 10. See docs/PRIMARY-1-TEACHING-MAP.json and research/PRIMARY-1-ASSUMPTIONS.json for the provisional annual allocation and retained source links.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 445,
+              "text": "<b>Credits and provenance:</b> Text and deterministic vector diagrams: project author, Codex /root/sol_executor. Existing Mr Aliyu classroom artwork: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png; provenance artwork/manifest.json and matching .provenance.json sidecar. Decorative art is never used to determine a task count. Fonts: DejaVu Sans; licence fonts/LICENSE_DEJAVU.txt.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 570,
+              "text": "<b>Primary 2 preview:</b> Later learning will extend addition through larger numbers, with concrete models and checks. This chapter prepares joining and equality only.<br/><b>Status:</b> Chapter continuation extract, not the annual book. Current curriculum/adoption checks, local educator review, pupil/accessibility trials, physical print tests and printer approval remain pending. Final four offline-AI pupil pages belong to the later annual assembly.",
+              "size": 12
+            }
+          ],
+          "task_ids": [],
+          "adult": true
+        }
+      ],
+      "workbook_pages": [
+        {
+          "slug": "c8-wb-guided",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Try with Mr Aliyu",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Read \"Watch: move, then count\", \"Signs tell the joining story\", \"Join three sets\" and \"Show the story with dots\" in the textbook together. Join one counter and one counter. Say the total. Write it here: ______",
+              "size": 12
+            },
+            {
+              "type": "objects",
+              "id": "wb-guide-one",
+              "count": 1,
+              "kind": "top",
+              "x": 100,
+              "top": 280,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-guide-two",
+              "count": 1,
+              "kind": "top",
+              "x": 310,
+              "top": 280,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 355,
+              "text": "Now draw one dot and two more dots in the space below. Count all your dots. Write the total below them.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 445,
+              "width": 509,
+              "height": 210,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-08-WB-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-wb-join",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Join and count",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Try on your own. Use the tops or counters. Write each missing total.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-q1-a",
+              "count": 1,
+              "kind": "top",
+              "x": 75,
+              "top": 265,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-q1-b",
+              "count": 2,
+              "kind": "top",
+              "x": 285,
+              "top": 265,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 310,
+              "text": "1 + 2 = ______",
+              "size": 21
+            },
+            {
+              "type": "objects",
+              "id": "wb-q2-a",
+              "count": 2,
+              "kind": "top",
+              "x": 75,
+              "top": 430,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-q2-b",
+              "count": 2,
+              "kind": "top",
+              "x": 285,
+              "top": 430,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 475,
+              "text": "2 + 2 = ______",
+              "size": 21
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-a",
+              "count": 1,
+              "kind": "top",
+              "x": 75,
+              "top": 605,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-b",
+              "count": 1,
+              "kind": "top",
+              "x": 245,
+              "top": 605,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-c",
+              "count": 1,
+              "kind": "top",
+              "x": 415,
+              "top": 605,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 655,
+              "text": "1 + 1 + 1 = ______",
+              "size": 21
+            }
+          ],
+          "task_ids": [
+            "P1-08-Q1",
+            "P1-08-Q2",
+            "P1-08-Q3"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-wb-draw",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Draw and explain",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Draw 2 dots and 1 more in this space. Write the total.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 210,
+              "width": 509,
+              "height": 115,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 345,
+              "text": "1 book and 3 more make how many books? Draw one dot for each book here. Write the total with \"books\".",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 405,
+              "width": 509,
+              "height": 115,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 540,
+              "text": "Show why 1 + 2 and 2 + 1 match. Draw dots for each story below. Write each total. Tell an adult why they match.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 605,
+              "width": 509,
+              "height": 140,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-08-Q4",
+            "P1-08-Q5",
+            "P1-08-Q6"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-wb-help",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "A smaller step, then a new try",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "With an adult, join one counter and one counter. Touch each once. Say the total.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-help-a",
+              "count": 1,
+              "kind": "top",
+              "x": 100,
+              "top": 290,
+              "gap": 45
+            },
+            {
+              "type": "objects",
+              "id": "wb-help-b",
+              "count": 1,
+              "kind": "top",
+              "x": 310,
+              "top": 290,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 355,
+              "text": "Now try on your own: join two counters and one counter. Draw them here and write the total.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 430,
+              "width": 509,
+              "height": 140,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 605,
+              "text": "Make a set of one and a set of two counters. Swap their places. Say whether the total changed and why.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-HELP",
+            "P1-08-RECHECK",
+            "P1-08-SWAP"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-wb-story",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Check the stall tray",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "These are the same two tops and one top from the start of the story. Count all the tops.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-story",
+              "count": 3,
+              "kind": "top",
+              "x": 160,
+              "top": 295,
+              "gap": 45
+            },
+            {
+              "type": "text",
+              "top": 365,
+              "text": "Write the missing total: 2 + 1 = ______",
+              "size": 20
+            },
+            {
+              "type": "text",
+              "top": 440,
+              "text": "Tell an adult how all four friends can enjoy three tops fairly.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 540,
+              "text": "Remember without looking back. Say what plus means. Say what equals means. Show how to check a total.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-STORY",
+            "P1-08-RECALL"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c8-wb-fresh",
+          "kicker": "Chapter eight / Put small sets together",
+          "title": "Try afresh on your own",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Join one counter and three counters. Draw them here. Write the complete number sentence with + and =.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 245,
+              "width": 509,
+              "height": 145,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 420,
+              "text": "Join one counter, two counters and two counters. Draw them here. Write the complete number sentence with + and =.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 500,
+              "width": 509,
+              "height": 145,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "Tell an adult how each side of each equals sign has the same value.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-08-FRESH-TWO",
+            "P1-08-FRESH-THREE",
+            "P1-08-FRESH-EQUALS"
+          ],
+          "adult": false
+        }
+      ]
+    }
   },
   {
     "id": "P1-09",
@@ -13648,30 +14696,2082 @@
     "questions": [
       {
         "prompt": "4 + 3 = __.",
-        "answer": "7"
+        "answer": "7",
+        "id": "P1-09-Q1"
       },
       {
         "prompt": "6 + 0 = __.",
-        "answer": "6"
+        "answer": "6",
+        "id": "P1-09-Q2"
       },
       {
         "prompt": "3 + 2 + 3 = __.",
-        "answer": "8"
+        "answer": "8",
+        "id": "P1-09-Q3"
       },
       {
         "prompt": "9 + 9 = __.",
-        "answer": "18"
+        "answer": "18",
+        "id": "P1-09-Q4"
       },
       {
         "prompt": "7 seeds and 5 more make how many?",
-        "answer": "12 seeds"
+        "answer": "12 seeds",
+        "id": "P1-09-Q5"
       },
       {
         "prompt": "Explain how to check 8 + 6 = 14.",
-        "answer": "Count fourteen objects, or count on six from eight."
+        "answer": "Count fourteen objects, or count on six from eight.",
+        "id": "P1-09-Q6"
       }
     ],
-    "diagram": ""
+    "diagram": "",
+    "paired_edition": {
+      "teacher_id": "ms-binta",
+      "source_tasks": [
+        {
+          "id": "P1-09-Q1",
+          "source_prompt": "4 + 3 = __.",
+          "source_answer": "7"
+        },
+        {
+          "id": "P1-09-Q2",
+          "source_prompt": "6 + 0 = __.",
+          "source_answer": "6"
+        },
+        {
+          "id": "P1-09-Q3",
+          "source_prompt": "3 + 2 + 3 = __.",
+          "source_answer": "8"
+        },
+        {
+          "id": "P1-09-Q4",
+          "source_prompt": "9 + 9 = __.",
+          "source_answer": "18"
+        },
+        {
+          "id": "P1-09-Q5",
+          "source_prompt": "7 seeds and 5 more make how many?",
+          "source_answer": "12 seeds"
+        },
+        {
+          "id": "P1-09-Q6",
+          "source_prompt": "Explain how to check 8 + 6 = 14.",
+          "source_answer": "Count fourteen objects, or count on six from eight."
+        }
+      ],
+      "supplementary_tasks": [
+        {
+          "id": "S005",
+          "source_prompt": "Find 4 + 5 + 6 and 9 + 0 + 8. Show a counter or count-on check.",
+          "source_answer": "15 and 17; all three addends included once; correct check."
+        }
+      ],
+      "textbook_pages": [
+        {
+          "slug": "c9-story",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "A path for the toy garden",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+              "x": 43,
+              "top": 160,
+              "width": 509,
+              "height": 339,
+              "preserve": false
+            },
+            {
+              "type": "text",
+              "top": 214,
+              "text": "<b>Keep the first number.</b><br/><b>Count on from there.</b>",
+              "size": 16,
+              "x": 263,
+              "width": 240,
+              "color": "#FFFFFF"
+            },
+            {
+              "type": "text",
+              "top": 514,
+              "text": "<b>John:</b> Our toy-garden path has eight paper counters. Aishatu brings five more. Let me find the total before anyone tells me!<br/><b>Aishatu:</b> The path will lead to my box-toy school.<br/><b>Grace:</b> I will lay the counters neatly.<br/><b>Adamu:</b> We can take turns moving them.<br/><b>Mrs Binta:</b> Keep them on a reachable table. We can count on instead of starting again at one.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 720,
+              "text": "We will count on to add two or three amounts, including zero.",
+              "size": 14
+            }
+          ],
+          "task_ids": [],
+          "adult": false
+        },
+        {
+          "slug": "c9-small",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Hold four, count on two",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mrs Binta:</b> Keep our garden-path counters aside. Use separate practice counters. You already know how to join sets and count all. Four counters and two counters make six.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-small-held",
+              "kind": "dot",
+              "count": 4,
+              "points": [
+                [
+                  75,
+                  300
+                ],
+                [
+                  111,
+                  300
+                ],
+                [
+                  147,
+                  300
+                ],
+                [
+                  183,
+                  300
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-small-add",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  365,
+                  300
+                ],
+                [
+                  425,
+                  300
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 365,
+              "text": "Now watch a shorter way. Count the first set: four. Keep <b>four</b> in your head. Touch each of the two new counters once. Say <b>five, six</b>. Start AFTER four.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 505,
+              "text": "<b>4 + 2 = 6</b>",
+              "size": 25
+            },
+            {
+              "type": "text",
+              "top": 570,
+              "text": "<b>Try together.</b> Hold two in your head. Touch three new counters, saying three, four, five. Say the total. Then join all five to check.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-small-guided-held",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  75,
+                  715
+                ],
+                [
+                  111,
+                  715
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-small-guided-add",
+              "kind": "dot",
+              "count": 3,
+              "points": [
+                [
+                  320,
+                  715
+                ],
+                [
+                  356,
+                  715
+                ],
+                [
+                  392,
+                  715
+                ]
+              ]
+            }
+          ],
+          "task_ids": [
+            "P1-09-COUNT-MODEL",
+            "P1-09-COUNT-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-small-three",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Use every amount once",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mrs Binta:</b> Here are three sets. First join three and two. Hold three, then say four, five. Keep that total, five. Add the last four: six, seven, eight, nine.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-a",
+              "kind": "dot",
+              "count": 3,
+              "points": [
+                [
+                  70,
+                  310
+                ],
+                [
+                  106,
+                  310
+                ],
+                [
+                  142,
+                  310
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-b",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  255,
+                  310
+                ],
+                [
+                  291,
+                  310
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-three-small-c",
+              "kind": "dot",
+              "count": 4,
+              "points": [
+                [
+                  400,
+                  310
+                ],
+                [
+                  436,
+                  310
+                ],
+                [
+                  400,
+                  346
+                ],
+                [
+                  436,
+                  346
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 415,
+              "text": "<b>3 + 2 + 4 = 9</b>",
+              "size": 25
+            },
+            {
+              "type": "text",
+              "top": 490,
+              "text": "I used each set once. Count all nine counters to check. The equals sign says both sides have the same value.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 600,
+              "text": "<b>Try together.</b> Join one, two and three counters. First find one plus two. Then add three. Tell a partner how you used all three amounts.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-small-three-guide",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  135,
+                  730
+                ],
+                [
+                  190,
+                  730
+                ],
+                [
+                  245,
+                  730
+                ],
+                [
+                  300,
+                  730
+                ],
+                [
+                  355,
+                  730
+                ],
+                [
+                  410,
+                  730
+                ]
+              ]
+            }
+          ],
+          "task_ids": [
+            "P1-09-THREE-SMALL-MODEL",
+            "P1-09-THREE-SMALL-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-zero",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Zero adds no counters",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mrs Binta:</b> Count this set of six. The other space is empty. It has zero counters. Adding zero means moving no extra counters.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-zero-six",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  80,
+                  310
+                ],
+                [
+                  116,
+                  310
+                ],
+                [
+                  152,
+                  310
+                ],
+                [
+                  80,
+                  346
+                ],
+                [
+                  116,
+                  346
+                ],
+                [
+                  152,
+                  346
+                ]
+              ]
+            },
+            {
+              "type": "ellipse",
+              "x": 355,
+              "top": 265,
+              "width": 150,
+              "height": 120
+            },
+            {
+              "type": "text",
+              "top": 400,
+              "text": "six counters",
+              "size": 14,
+              "x": 65,
+              "width": 220
+            },
+            {
+              "type": "text",
+              "top": 400,
+              "text": "zero counters",
+              "size": 14,
+              "x": 355,
+              "width": 180
+            },
+            {
+              "type": "text",
+              "top": 465,
+              "text": "<b>6 + 0 = 6</b>. Keep six. There is nothing to count on.",
+              "size": 22
+            },
+            {
+              "type": "text",
+              "top": 565,
+              "text": "Watch the other order: zero counters and three counters make three. <b>0 + 3 = 3</b>. Zero does not change the amount.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 670,
+              "text": "<b>Try together.</b> Use five counters and an empty space. Say five plus zero. Check that you still have five.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-ZERO-MODEL",
+            "P1-09-ZERO-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-cross",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Count through ten",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mrs Binta:</b> Our story has eight path counters and five more. Here is a model of that joining. Keep eight in your head. Touch the five added counters one at a time.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-cross-held",
+              "kind": "dot",
+              "count": 8,
+              "points": [
+                [
+                  70,
+                  310
+                ],
+                [
+                  106,
+                  310
+                ],
+                [
+                  142,
+                  310
+                ],
+                [
+                  178,
+                  310
+                ],
+                [
+                  70,
+                  346
+                ],
+                [
+                  106,
+                  346
+                ],
+                [
+                  142,
+                  346
+                ],
+                [
+                  178,
+                  346
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-cross-added",
+              "kind": "dot",
+              "count": 5,
+              "points": [
+                [
+                  320,
+                  310
+                ],
+                [
+                  363,
+                  310
+                ],
+                [
+                  406,
+                  310
+                ],
+                [
+                  449,
+                  310
+                ],
+                [
+                  492,
+                  310
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 390,
+              "text": "Start: eight",
+              "size": 15,
+              "x": 65,
+              "width": 220
+            },
+            {
+              "type": "text",
+              "top": 390,
+              "text": "Say: nine, ten, eleven,<br/>twelve, thirteen.",
+              "size": 15,
+              "x": 305,
+              "width": 245
+            },
+            {
+              "type": "text",
+              "top": 480,
+              "text": "<b>8 + 5 = 13</b>",
+              "size": 26
+            },
+            {
+              "type": "text",
+              "top": 555,
+              "text": "<b>Aishatu:</b> Five touches, five new count words. I cross ten and keep going.<br/><b>Grace:</b> I can join all thirteen in a neat row and count from one to check.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "<b>Try together.</b> Start at seven. Touch four added counters: eight, nine, ten, eleven. Check with all eleven counters.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-CROSS-MODEL",
+            "P1-09-CROSS-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-large-three",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Three sets can cross ten",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Mrs Binta:</b> Use separate practice counters: four, five and six. First hold four and count on five: five, six, seven, eight, nine. Keep nine.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-large-a",
+              "kind": "dot",
+              "count": 4,
+              "points": [
+                [
+                  65,
+                  290
+                ],
+                [
+                  101,
+                  290
+                ],
+                [
+                  65,
+                  326
+                ],
+                [
+                  101,
+                  326
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-large-b",
+              "kind": "dot",
+              "count": 5,
+              "points": [
+                [
+                  250,
+                  290
+                ],
+                [
+                  286,
+                  290
+                ],
+                [
+                  322,
+                  290
+                ],
+                [
+                  250,
+                  326
+                ],
+                [
+                  286,
+                  326
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-large-c",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  425,
+                  290
+                ],
+                [
+                  461,
+                  290
+                ],
+                [
+                  497,
+                  290
+                ],
+                [
+                  425,
+                  326
+                ],
+                [
+                  461,
+                  326
+                ],
+                [
+                  497,
+                  326
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 410,
+              "text": "Now add the last six. Start AFTER nine: ten, eleven, twelve, thirteen, fourteen, fifteen. I have used all three sets once.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 515,
+              "text": "<b>4 + 5 + 6 = 15</b>",
+              "size": 25
+            },
+            {
+              "type": "text",
+              "top": 590,
+              "text": "<b>Try together.</b> Start with nine counters. Add zero: still nine. Add eight. Touch eight new counters, saying ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 715,
+              "text": "<b>9 + 0 + 8 = 17</b>. Count all seventeen to check.",
+              "size": 19
+            }
+          ],
+          "task_ids": [
+            "P1-09-THREE-LARGE-MODEL",
+            "P1-09-THREE-LARGE-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-check",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Check the start and the total",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Adamu:</b> For eight plus six, I said eight, nine, ten, eleven, twelve, thirteen. My answer was thirteen.<br/><b>Mrs Binta:</b> You used eight again. Eight is the held number. The first added counter needs the NEXT number, nine.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-check-held",
+              "kind": "dot",
+              "count": 8,
+              "points": [
+                [
+                  65,
+                  340
+                ],
+                [
+                  101,
+                  340
+                ],
+                [
+                  137,
+                  340
+                ],
+                [
+                  173,
+                  340
+                ],
+                [
+                  65,
+                  376
+                ],
+                [
+                  101,
+                  376
+                ],
+                [
+                  137,
+                  376
+                ],
+                [
+                  173,
+                  376
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-check-new",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  350,
+                  340
+                ],
+                [
+                  386,
+                  340
+                ],
+                [
+                  422,
+                  340
+                ],
+                [
+                  350,
+                  376
+                ],
+                [
+                  386,
+                  376
+                ],
+                [
+                  422,
+                  376
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 450,
+              "text": "Touch the six new counters: nine, ten, eleven, twelve, thirteen, fourteen. <b>8 + 6 = 14</b>. Now count ALL the counters from one: fourteen. This is a different check.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 590,
+              "text": "<b>Adamu:</b> I will let a partner check my turn. I start after eight.<br/><b>Try together.</b> Someone says 5 + 2 = 6. Use five counters and two more. Count on correctly, then count all. Explain the mistake.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-CHECK-MODEL",
+            "P1-09-CHECK-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-independent",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Try your own additions",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Use the workbook pages \"Small sums\", \"Larger sums\" and \"Explain your check\", or your exercise book. Try first without looking back. You may move counters. Write the totals and tell how you checked.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 295,
+              "text": "<b>Small sums</b><br/>Four plus three.<br/>Six plus zero.<br/>Three plus two plus three.",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 465,
+              "text": "<b>Larger sums</b><br/>Nine plus nine.<br/>Seven seeds and five more. How many seeds?",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 610,
+              "text": "<b>Explain your check</b><br/>Explain how to check eight plus six equals fourteen. Show all the objects or touch each new object as you count on.",
+              "size": 17
+            }
+          ],
+          "task_ids": [
+            "P1-09-Q1",
+            "P1-09-Q2",
+            "P1-09-Q3",
+            "P1-09-Q4",
+            "P1-09-Q5",
+            "P1-09-Q6"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-supplement",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Show that the total is right",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "You have watched both of these sums. Now cover those worked answers. Use the workbook page \"Use all three amounts\", or your exercise book. Show the method yourself.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 300,
+              "text": "Find 4 + 5 + 6 and 9 + 0 + 8. Show a counter or count-on check.",
+              "size": 20
+            },
+            {
+              "type": "text",
+              "top": 420,
+              "text": "For each sum, draw or move a counter for each object. Explain which amount you hold, what happens next and how a count-all check confirms the total.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 550,
+              "text": "<b>Grace:</b> Neat rows help me count each counter once. I keep the sets apart first, then join them for the check.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "Ask an adult to listen without telling you the answer.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "S005"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-help",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Remember and take a smaller step",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Remember without looking back.</b> What number do you say for the first new counter? What happens when you add zero? How do you check a sum?",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 290,
+              "text": "<b>Need help?</b> Put out two counters. Count them: two. Keep two. Touch one new counter and say three. Two plus one equals three. Count all to check.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "tb-help-held",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  95,
+                  430
+                ],
+                [
+                  131,
+                  430
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "tb-help-add",
+              "kind": "dot",
+              "count": 1,
+              "points": [
+                [
+                  375,
+                  430
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 495,
+              "text": "<b>New try.</b> Start with three counters. Add two more. Count on, then check by counting all. Use the workbook page \"A smaller step\", or your exercise book.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 620,
+              "text": "If you forget the third amount, place its counters in a separate space. Join one set at a time. If zero puzzles you, point to the empty space and move nothing.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-RECALL",
+            "P1-09-HELP",
+            "P1-09-RECHECK"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-finish",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Build the garden path",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Your turn.</b> Bring back the original eight paper path counters and Aishatu's five more. Keep eight. Move the five into the path, one at a time, counting on. Check by counting all. Work on a reachable table before reading the ending.",
+              "size": 14
+            },
+            {
+              "type": "line",
+              "x1": 70,
+              "top1": 320,
+              "x2": 460,
+              "top2": 320
+            },
+            {
+              "type": "line",
+              "x1": 460,
+              "top1": 320,
+              "x2": 460,
+              "top2": 370
+            },
+            {
+              "type": "line",
+              "x1": 460,
+              "top1": 370,
+              "x2": 135,
+              "top2": 370
+            },
+            {
+              "type": "objects",
+              "id": "tb-story-path",
+              "kind": "dot",
+              "count": 13,
+              "points": [
+                [
+                  70,
+                  320
+                ],
+                [
+                  135,
+                  320
+                ],
+                [
+                  200,
+                  320
+                ],
+                [
+                  265,
+                  320
+                ],
+                [
+                  330,
+                  320
+                ],
+                [
+                  395,
+                  320
+                ],
+                [
+                  460,
+                  320
+                ],
+                [
+                  460,
+                  370
+                ],
+                [
+                  395,
+                  370
+                ],
+                [
+                  330,
+                  370
+                ],
+                [
+                  265,
+                  370
+                ],
+                [
+                  200,
+                  370
+                ],
+                [
+                  135,
+                  370
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 410,
+              "text": "The same counters, now joined in one path.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 460,
+              "text": "<b>John:</b> Thirteen counters for our puzzle path! I checked it myself.<br/><b>Grace:</b> They are all here in a neat path.<br/><b>Aishatu:</b> My box-toy school has its garden path.<br/><b>Adamu:</b> We each helped. We can take turns playing.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 635,
+              "text": "The original eight and five are all present. No counter was added or lost. <b>8 + 5 = 13</b>. Say how you checked. Use \"The garden-path check\" in the workbook if you want to record it.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-STORY"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-fresh",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Show learning afresh",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Try on your own before looking back. Use the workbook page \"Try afresh\", or your exercise book. Use real counters or draw dots. Write a number sentence for each story.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 295,
+              "text": "<b>Join two sets.</b><br/>Start with five counters. Add seven counters. Count on and check by counting all.",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 435,
+              "text": "<b>Join three sets.</b><br/>Start with two counters. Add zero, then nine counters. Show that you used all three amounts.",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 585,
+              "text": "<b>Check a claim.</b><br/>Someone says six plus three equals eight. Decide if that is right. Show a counter check and explain.",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 730,
+              "text": "Tell an adult what equals means in your correct sentences.",
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-09-FRESH-TWO",
+            "P1-09-FRESH-THREE",
+            "P1-09-FRESH-CHECK"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-answers",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Every task and answer",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Page numbers here are PDF ordinals for adults; pupil links use printed titles. Any clear correct dot arrangement, oral explanation or practical demonstration is valid. Count-on words must begin AFTER the held number.",
+              "size": 11
+            },
+            {
+              "type": "text",
+              "top": 245,
+              "text": "<b>TB2 / WB1:</b> COUNT-MODEL 4+2=6 (5,6); count all 6. COUNT-GUIDED 2+3=5 (3,4,5); all 5.<br/><b>TB3 / WB1:</b> THREE-SMALL-MODEL 3+2=5, then 5+4=9. THREE-SMALL-GUIDED 1+2+3=6; first 3, then 6. Each amount once.<br/><b>TB4:</b> ZERO-MODEL 6+0=6 and0+3=3; ZERO-GUIDED 5+0=5. Move nothing for zero.<br/><b>TB5:</b> CROSS-MODEL 8+5=13 (9..13); CROSS-GUIDED 7+4=11 (8..11). Count-all checks 13 and 11.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 445,
+              "text": "<b>TB6 / TB9 / WB5:</b> THREE-LARGE-MODEL 4+5+6=15: hold 4, count 5..9, then 10..15. THREE-LARGE-GUIDED 9+0+8=17: still 9, then 10..17. S005 exact answers 15 and 17, all three addends once; correct count-on or count-all demonstration.<br/><b>TB7 / WB4:</b> CHECK-MODEL 8+6=14, six new count words 9..14; incorrect 13 repeats starting 8. Count all 14. CHECK-GUIDED 5+2=7 (6,7); wrong 6 is one too few.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 635,
+              "text": "<b>TB8 / WB2-4 originals:</b> Q1=7; Q2=6; Q3=8 (first 5, then 8); Q4=18; Q5=12 seeds; Q6 count all 14 objects OR count on six from 8 (9..14). Both are valid; comparing both methods strengthens checking.",
+              "size": 12
+            }
+          ],
+          "task_ids": [],
+          "adult": true
+        },
+        {
+          "slug": "c9-guidance",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Support, fresh checks and recall",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>TB10 / WB6-7:</b> RECALL first new word is the next number after held start; zero adds none; count-all checks. HELP 2+1=3 (say 3); RECHECK 3+2=5 (4,5), then count all 5.<br/><b>TB11 / WB7:</b> STORY 8+5=13, count 9..13; all 13 original counters conserved. The printed pictures are a model of the same inventory, not extra counters.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 325,
+              "text": "<b>TB12 / WB8:</b> FRESH-TWO 5+7=12 (6..12); FRESH-THREE 2+0+9=11 (still 2, then 3..11); FRESH-CHECK 6+3=9, claim 8 is false;7,8,9 and all 9. Equals means same value on both sides. Accept counters, dots and oral explanations, with accurate totals.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 470,
+              "text": "<b>Suggested teaching:</b> distribute TB2-7 over short sessions with movement and turns. If the held number is counted again, use TB10 two-plus-one intervention and different three-plus-two recheck. If a third set is missed, keep it separate until its turn. For zero, point to an empty space and move no object. Do not introduce column addition or counting beyond 18 here.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 630,
+              "text": "<b>DELAYED next session:</b> Cover earlier answers. Privately give six counters and five more: 11. Then three, zero and seven: 10. Ask whether 7+2=8 is true: no, correct 9. Ask the child to count on and then check all. Record independence/support. Read aloud and accept pointing, speech or seated action.",
+              "size": 12
+            }
+          ],
+          "task_ids": [
+            "P1-09-DELAYED"
+          ],
+          "adult": true
+        },
+        {
+          "slug": "c9-credits",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Words, evidence and next learning",
+          "subtitle": "Read together. Adult guidance and answers.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "<b>Glossary:</b> count on: keep a known amount and say the next numbers for added objects. Sum/total: how many altogether. Addend (adult term): an amount being added. Zero: no objects in the set. Check: use a method to see whether a result is right. Equals (=): has the same value as.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 295,
+              "text": "<b>Historical mapping:</b> P1-p04-02 two/three addends below 10; P1-p04-03 two/three totals through 18 under the documented inclusive provisional bound; P1-p04-05 checking accuracy. S005 retained exactly. Later teaching-map checking examples with totals 23/25 are deferred to Chapter 10 because they need place-value addition. No objective is claimed completed by those deferred examples here.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 445,
+              "text": "<b>Credits:</b> Text and deterministic vectors: Codex /root/sol_executor. Existing Mrs Binta board artwork artwork/redesign/scenes/mrs-binta-blackboard-v1.png; provenance artwork/manifest.json and matching .provenance.json sidecar. DejaVu Sans fonts; licence fonts/LICENSE_DEJAVU.txt. Decorative art never supplies an assessed count.",
+              "size": 12
+            },
+            {
+              "type": "text",
+              "top": 575,
+              "text": "<b>Primary 2 preview:</b> Later learning builds addition with larger numbers using concrete models and checks.<br/><b>Evidence limits:</b> This is a continuation extract, not the annual book. Current curriculum/adoption verification, local educator/pupil/accessibility trials or certification, actual-size print proof and printer approval remain pending. The historical provisional baseline is documented in research/PRIMARY-1-ASSUMPTIONS.json. Final four offline-AI pupil pages belong to annual assembly.",
+              "size": 12
+            }
+          ],
+          "task_ids": [],
+          "adult": true
+        }
+      ],
+      "workbook_pages": [
+        {
+          "slug": "c9-wb-guide",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Try with Mrs Binta",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Read \"Hold four, count on two\" in the textbook together. Count these four counters. Keep four. Touch the two new counters. Say five, six.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-guide-held",
+              "kind": "dot",
+              "count": 4,
+              "points": [
+                [
+                  65,
+                  300
+                ],
+                [
+                  101,
+                  300
+                ],
+                [
+                  137,
+                  300
+                ],
+                [
+                  173,
+                  300
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-guide-add",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  370,
+                  300
+                ],
+                [
+                  430,
+                  300
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 380,
+              "text": "Write the total: 4 + 2 = ______",
+              "size": 20
+            },
+            {
+              "type": "text",
+              "top": 465,
+              "text": "Try together with your own counters: one plus two plus three. Draw the three sets below and write the total.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 555,
+              "width": 509,
+              "height": 170,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-09-COUNT-MODEL",
+            "P1-09-THREE-SMALL-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-small",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Small sums",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Try on your own. Keep the first amount. Count on the added amount. Write each missing total.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-q1-held",
+              "kind": "dot",
+              "count": 4,
+              "points": [
+                [
+                  65,
+                  285
+                ],
+                [
+                  101,
+                  285
+                ],
+                [
+                  137,
+                  285
+                ],
+                [
+                  173,
+                  285
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q1-new",
+              "kind": "dot",
+              "count": 3,
+              "points": [
+                [
+                  350,
+                  285
+                ],
+                [
+                  386,
+                  285
+                ],
+                [
+                  422,
+                  285
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 340,
+              "text": "4 + 3 = ______",
+              "size": 22
+            },
+            {
+              "type": "objects",
+              "id": "wb-q2-held",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  65,
+                  455
+                ],
+                [
+                  101,
+                  455
+                ],
+                [
+                  137,
+                  455
+                ],
+                [
+                  65,
+                  491
+                ],
+                [
+                  101,
+                  491
+                ],
+                [
+                  137,
+                  491
+                ]
+              ]
+            },
+            {
+              "type": "ellipse",
+              "x": 350,
+              "top": 420,
+              "width": 150,
+              "height": 95
+            },
+            {
+              "type": "text",
+              "top": 525,
+              "text": "6 + 0 = ______",
+              "size": 22
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-a",
+              "kind": "dot",
+              "count": 3,
+              "points": [
+                [
+                  65,
+                  650
+                ],
+                [
+                  101,
+                  650
+                ],
+                [
+                  137,
+                  650
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-b",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  255,
+                  650
+                ],
+                [
+                  291,
+                  650
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q3-c",
+              "kind": "dot",
+              "count": 3,
+              "points": [
+                [
+                  400,
+                  650
+                ],
+                [
+                  436,
+                  650
+                ],
+                [
+                  472,
+                  650
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 710,
+              "text": "3 + 2 + 3 = ______",
+              "size": 22
+            }
+          ],
+          "task_ids": [
+            "P1-09-Q1",
+            "P1-09-Q2",
+            "P1-09-Q3"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-large",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Larger sums",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Use the counters or your own objects. Write the missing total. Check by counting all.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-q4-a",
+              "kind": "dot",
+              "count": 9,
+              "points": [
+                [
+                  65,
+                  270
+                ],
+                [
+                  101,
+                  270
+                ],
+                [
+                  137,
+                  270
+                ],
+                [
+                  65,
+                  306
+                ],
+                [
+                  101,
+                  306
+                ],
+                [
+                  137,
+                  306
+                ],
+                [
+                  65,
+                  342
+                ],
+                [
+                  101,
+                  342
+                ],
+                [
+                  137,
+                  342
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q4-b",
+              "kind": "dot",
+              "count": 9,
+              "points": [
+                [
+                  350,
+                  270
+                ],
+                [
+                  386,
+                  270
+                ],
+                [
+                  422,
+                  270
+                ],
+                [
+                  350,
+                  306
+                ],
+                [
+                  386,
+                  306
+                ],
+                [
+                  422,
+                  306
+                ],
+                [
+                  350,
+                  342
+                ],
+                [
+                  386,
+                  342
+                ],
+                [
+                  422,
+                  342
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 390,
+              "text": "9 + 9 = ______",
+              "size": 22
+            },
+            {
+              "type": "text",
+              "top": 475,
+              "text": "7 seeds and 5 more make how many? Each dot below stands for one seed. Write the total with \"seeds\".",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-q5-a",
+              "kind": "dot",
+              "count": 7,
+              "points": [
+                [
+                  65,
+                  575
+                ],
+                [
+                  101,
+                  575
+                ],
+                [
+                  137,
+                  575
+                ],
+                [
+                  173,
+                  575
+                ],
+                [
+                  65,
+                  611
+                ],
+                [
+                  101,
+                  611
+                ],
+                [
+                  137,
+                  611
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q5-b",
+              "kind": "dot",
+              "count": 5,
+              "points": [
+                [
+                  350,
+                  575
+                ],
+                [
+                  386,
+                  575
+                ],
+                [
+                  422,
+                  575
+                ],
+                [
+                  350,
+                  611
+                ],
+                [
+                  386,
+                  611
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 690,
+              "text": "Total: ____________________",
+              "size": 22
+            }
+          ],
+          "task_ids": [
+            "P1-09-Q4",
+            "P1-09-Q5"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-check",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Explain your check",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Explain how to check 8 + 6 = 14. Use these counters or your own. Tell an adult how you count on correctly. Then count all from one.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-q6-a",
+              "kind": "dot",
+              "count": 8,
+              "points": [
+                [
+                  65,
+                  300
+                ],
+                [
+                  101,
+                  300
+                ],
+                [
+                  137,
+                  300
+                ],
+                [
+                  173,
+                  300
+                ],
+                [
+                  65,
+                  336
+                ],
+                [
+                  101,
+                  336
+                ],
+                [
+                  137,
+                  336
+                ],
+                [
+                  173,
+                  336
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-q6-b",
+              "kind": "dot",
+              "count": 6,
+              "points": [
+                [
+                  350,
+                  300
+                ],
+                [
+                  386,
+                  300
+                ],
+                [
+                  422,
+                  300
+                ],
+                [
+                  350,
+                  336
+                ],
+                [
+                  386,
+                  336
+                ],
+                [
+                  422,
+                  336
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 410,
+              "text": "Draw or write your check here. You may also explain it aloud.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 470,
+              "width": 509,
+              "height": 160,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 665,
+              "text": "Try together: someone says 5 + 2 = 6. Use counters. Say the correct total and explain how you know.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-Q6",
+            "P1-09-CHECK-GUIDED"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-s005",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Use all three amounts",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Cover the textbook worked answers. Show each method yourself.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 230,
+              "text": "Find 4 + 5 + 6 and 9 + 0 + 8. Show a counter or count-on check.",
+              "size": 18
+            },
+            {
+              "type": "text",
+              "top": 325,
+              "text": "Show 4 + 5 + 6 here. Write the total. Show a count-all check.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 380,
+              "width": 509,
+              "height": 135,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 545,
+              "text": "Show 9 + 0 + 8 here. Write the total. Show a count-all check.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 600,
+              "width": 509,
+              "height": 135,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "S005"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-help",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "A smaller step",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "With an adult: count these two counters. Keep two. Touch the one new counter. Say three. Count all to check.",
+              "size": 14
+            },
+            {
+              "type": "objects",
+              "id": "wb-help-a",
+              "kind": "dot",
+              "count": 2,
+              "points": [
+                [
+                  95,
+                  290
+                ],
+                [
+                  131,
+                  290
+                ]
+              ]
+            },
+            {
+              "type": "objects",
+              "id": "wb-help-b",
+              "kind": "dot",
+              "count": 1,
+              "points": [
+                [
+                  380,
+                  290
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 365,
+              "text": "Now try on your own with three counters and two more. Draw them here. Write the total. Tell how you counted on.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 450,
+              "width": 509,
+              "height": 180,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 680,
+              "text": "Remember: say the NEXT number for the first new counter.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-HELP",
+            "P1-09-RECHECK"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-story",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "The garden-path check",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Use the original eight path counters and five more. Count on as you move the five. Check by counting all.",
+              "size": 14
+            },
+            {
+              "type": "line",
+              "x1": 70,
+              "top1": 320,
+              "x2": 460,
+              "top2": 320
+            },
+            {
+              "type": "line",
+              "x1": 460,
+              "top1": 320,
+              "x2": 460,
+              "top2": 370
+            },
+            {
+              "type": "line",
+              "x1": 460,
+              "top1": 370,
+              "x2": 135,
+              "top2": 370
+            },
+            {
+              "type": "objects",
+              "id": "wb-story-path",
+              "kind": "dot",
+              "count": 13,
+              "points": [
+                [
+                  70,
+                  320
+                ],
+                [
+                  135,
+                  320
+                ],
+                [
+                  200,
+                  320
+                ],
+                [
+                  265,
+                  320
+                ],
+                [
+                  330,
+                  320
+                ],
+                [
+                  395,
+                  320
+                ],
+                [
+                  460,
+                  320
+                ],
+                [
+                  460,
+                  370
+                ],
+                [
+                  395,
+                  370
+                ],
+                [
+                  330,
+                  370
+                ],
+                [
+                  265,
+                  370
+                ],
+                [
+                  200,
+                  370
+                ],
+                [
+                  135,
+                  370
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "top": 410,
+              "text": "The same counters, now joined in one path.",
+              "size": 13
+            },
+            {
+              "type": "text",
+              "top": 465,
+              "text": "Write the total: 8 + 5 = ______",
+              "size": 22
+            },
+            {
+              "type": "text",
+              "top": 555,
+              "text": "Tell an adult how you know no path counter was lost or added. All the original counters must be present.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 660,
+              "text": "Without looking back, say how to start counting on. Say what adding zero does. Explain how to check a total.",
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-09-STORY",
+            "P1-09-RECALL"
+          ],
+          "adult": false
+        },
+        {
+          "slug": "c9-wb-fresh",
+          "kicker": "Chapter nine / Count on to add",
+          "title": "Try afresh",
+          "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+          "elements": [
+            {
+              "type": "text",
+              "top": 165,
+              "text": "Try on your own. Use your counters or dots. Write a number sentence and show a check for each story.",
+              "size": 14
+            },
+            {
+              "type": "text",
+              "top": 245,
+              "text": "Start with five counters. Add seven counters.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 290,
+              "width": 509,
+              "height": 110,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 425,
+              "text": "Start with two counters. Add zero, then nine counters.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 470,
+              "width": 509,
+              "height": 110,
+              "response": true
+            },
+            {
+              "type": "text",
+              "top": 605,
+              "text": "Someone says 6 + 3 = 8. Is it right? Show a counter check and write the correct number sentence.",
+              "size": 14
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 670,
+              "width": 509,
+              "height": 85,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-09-FRESH-TWO",
+            "P1-09-FRESH-THREE",
+            "P1-09-FRESH-CHECK"
+          ],
+          "adult": false
+        }
+      ]
+    }
   },
   {
     "id": "P1-10",

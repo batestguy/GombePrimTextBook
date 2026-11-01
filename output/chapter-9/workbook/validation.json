@@ -1,0 +1,740 @@
+{
+  "pages": 8,
+  "sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+  "page_manifest": [
+    {
+      "slug": "c9-wb-guide",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Try with Mrs Binta",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-COUNT-MODEL",
+        "P1-09-THREE-SMALL-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-small",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Small sums",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-Q1",
+        "P1-09-Q2",
+        "P1-09-Q3"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-large",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Larger sums",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-Q4",
+        "P1-09-Q5"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-check",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Explain your check",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-Q6",
+        "P1-09-CHECK-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-s005",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Use all three amounts",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "S005"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-help",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "A smaller step",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-HELP",
+        "P1-09-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-story",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "The garden-path check",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-wb-fresh",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Try afresh",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-FRESH-TWO",
+        "P1-09-FRESH-THREE",
+        "P1-09-FRESH-CHECK"
+      ],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-09-COUNT-MODEL": [
+      1
+    ],
+    "P1-09-THREE-SMALL-GUIDED": [
+      1
+    ],
+    "P1-09-Q1": [
+      2
+    ],
+    "P1-09-Q2": [
+      2
+    ],
+    "P1-09-Q3": [
+      2
+    ],
+    "P1-09-Q4": [
+      3
+    ],
+    "P1-09-Q5": [
+      3
+    ],
+    "P1-09-Q6": [
+      4
+    ],
+    "P1-09-CHECK-GUIDED": [
+      4
+    ],
+    "S005": [
+      5
+    ],
+    "P1-09-HELP": [
+      6
+    ],
+    "P1-09-RECHECK": [
+      6
+    ],
+    "P1-09-STORY": [
+      7
+    ],
+    "P1-09-RECALL": [
+      7
+    ],
+    "P1-09-FRESH-TWO": [
+      8
+    ],
+    "P1-09-FRESH-THREE": [
+      8
+    ],
+    "P1-09-FRESH-CHECK": [
+      8
+    ]
+  },
+  "objects": [
+    {
+      "id": "wb-guide-held",
+      "page": 1,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          300
+        ],
+        [
+          101,
+          300
+        ],
+        [
+          137,
+          300
+        ],
+        [
+          173,
+          300
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "wb-guide-add",
+      "page": 1,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          370,
+          300
+        ],
+        [
+          430,
+          300
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "wb-q1-held",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          285
+        ],
+        [
+          101,
+          285
+        ],
+        [
+          137,
+          285
+        ],
+        [
+          173,
+          285
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "wb-q1-new",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          350,
+          285
+        ],
+        [
+          386,
+          285
+        ],
+        [
+          422,
+          285
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "wb-q2-held",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          455
+        ],
+        [
+          101,
+          455
+        ],
+        [
+          137,
+          455
+        ],
+        [
+          65,
+          491
+        ],
+        [
+          101,
+          491
+        ],
+        [
+          137,
+          491
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "wb-q3-a",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          650
+        ],
+        [
+          101,
+          650
+        ],
+        [
+          137,
+          650
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "wb-q3-b",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          255,
+          650
+        ],
+        [
+          291,
+          650
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "wb-q3-c",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          400,
+          650
+        ],
+        [
+          436,
+          650
+        ],
+        [
+          472,
+          650
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "wb-q4-a",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          270
+        ],
+        [
+          101,
+          270
+        ],
+        [
+          137,
+          270
+        ],
+        [
+          65,
+          306
+        ],
+        [
+          101,
+          306
+        ],
+        [
+          137,
+          306
+        ],
+        [
+          65,
+          342
+        ],
+        [
+          101,
+          342
+        ],
+        [
+          137,
+          342
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "wb-q4-b",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          350,
+          270
+        ],
+        [
+          386,
+          270
+        ],
+        [
+          422,
+          270
+        ],
+        [
+          350,
+          306
+        ],
+        [
+          386,
+          306
+        ],
+        [
+          422,
+          306
+        ],
+        [
+          350,
+          342
+        ],
+        [
+          386,
+          342
+        ],
+        [
+          422,
+          342
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "wb-q5-a",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          575
+        ],
+        [
+          101,
+          575
+        ],
+        [
+          137,
+          575
+        ],
+        [
+          173,
+          575
+        ],
+        [
+          65,
+          611
+        ],
+        [
+          101,
+          611
+        ],
+        [
+          137,
+          611
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "wb-q5-b",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          350,
+          575
+        ],
+        [
+          386,
+          575
+        ],
+        [
+          422,
+          575
+        ],
+        [
+          350,
+          611
+        ],
+        [
+          386,
+          611
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "wb-q6-a",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          300
+        ],
+        [
+          101,
+          300
+        ],
+        [
+          137,
+          300
+        ],
+        [
+          173,
+          300
+        ],
+        [
+          65,
+          336
+        ],
+        [
+          101,
+          336
+        ],
+        [
+          137,
+          336
+        ],
+        [
+          173,
+          336
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "wb-q6-b",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          350,
+          300
+        ],
+        [
+          386,
+          300
+        ],
+        [
+          422,
+          300
+        ],
+        [
+          350,
+          336
+        ],
+        [
+          386,
+          336
+        ],
+        [
+          422,
+          336
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "wb-help-a",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          95,
+          290
+        ],
+        [
+          131,
+          290
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "wb-help-b",
+      "page": 6,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          380,
+          290
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "wb-story-path",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          70,
+          320
+        ],
+        [
+          135,
+          320
+        ],
+        [
+          200,
+          320
+        ],
+        [
+          265,
+          320
+        ],
+        [
+          330,
+          320
+        ],
+        [
+          395,
+          320
+        ],
+        [
+          460,
+          320
+        ],
+        [
+          460,
+          370
+        ],
+        [
+          395,
+          370
+        ],
+        [
+          330,
+          370
+        ],
+        [
+          265,
+          370
+        ],
+        [
+          200,
+          370
+        ],
+        [
+          135,
+          370
+        ]
+      ],
+      "count": 13
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "textbook": 11,
+    "workbook": 6
+  },
+  "artifacts": {
+    "textbook": "output\\pdf\\Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "workbook": "output\\pdf\\Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf"
+  },
+  "checks": [
+    "114 source prompts/answers/order preserved",
+    "18 other lessons unchanged",
+    "protected shared sources, original brief and all12 earlier PDFs unchanged",
+    "exact vector object counts verified against actual PDF fills",
+    "all task IDs covered with answers; A4 embedded fonts text bounds; every page rendered"
+  ],
+  "status": "pending_independent_review"
+}

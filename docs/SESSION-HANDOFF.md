@@ -1,3 +1,45 @@
+# Chapter 9 completed - 1 November 2026
+
+P1-01 through P1-09 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` freshly inspected all 175 unique pages across 16 PDFs and independently solved every task, diagram, example and answer. No unresolved blocking or required finding remains. Evidence: [Chapter 9 review](../output/chapter-9/REVIEW.md). Root separately passed all nine strict chapter gates, preflight, frozen-source/PDF and preservation checks; [coordinator validation](../output/chapter-9/root-validation.json). Other 54 chapter records remain unchanged and pending.
+
+Chapter 9, Count on to add, Mrs Binta: [15-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf) and [8-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf). All 27 task IDs, including S005, are covered. Count-on starts after the held number; zero, crossing ten, three addends above nine and count-all checking are modelled. All totals remain within the provisional inclusive 18 bound. The original brief, all 114 original prompt/answer pairs in order, 18 other lessons including Chapter 8, 14 earlier registered PDFs and protected shared sources remain unchanged. Historical sample/contact bytes restored from current pre-edit backups after legacy validation.
+
+Next: P1-10 Add tens and ones, Mr Aliyu. Ten P1 units, annual revision/assessment/assembly and final four offline-AI pupil pages remain. Chapter 9 defers the teaching map's checking examples with totals 23/25 to Chapter 10 place-value teaching. Current curriculum/adoption, local educator/pupil/accessibility certification, physical print tests and printer approval remain pending. No annual-completion or press-ready claim. No publication, commit or push. Apply [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). Author-checkpoint notes below are historical and superseded by this outcome.
+
+---
+
+# Chapter 9 completed - 1 November 2026
+
+P1-01 through P1-09 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` freshly inspected all 175 unique pages across 16 PDFs and independently solved every task, diagram, example and answer. No unresolved blocking or required finding remains. Evidence: [Chapter 9 review](../output/chapter-9/REVIEW.md). Root separately passed all nine strict chapter gates, preflight, frozen-source/PDF and preservation checks; [coordinator validation](../output/chapter-9/root-validation.json). Other 54 chapter records remain unchanged and pending.
+
+Chapter 9, Count on to add, Mrs Binta: [15-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf) and [8-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf). All 27 task IDs, including S005, are covered. Count-on starts after the held number; zero, crossing ten, three addends above nine and count-all checking are modelled. All totals remain within the provisional inclusive 18 bound. The original brief, all 114 original prompt/answer pairs in order, 18 other lessons including Chapter 8, 14 earlier registered PDFs and protected shared sources remain unchanged. Historical sample/contact bytes restored from current pre-edit backups after legacy validation.
+
+Next: P1-10 Add tens and ones, Mr Aliyu. Ten P1 units, annual revision/assessment/assembly and final four offline-AI pupil pages remain. Chapter 9 defers the teaching map's checking examples with totals 23/25 to Chapter 10 place-value teaching. Current curriculum/adoption, local educator/pupil/accessibility certification, physical print tests and printer approval remain pending. No annual-completion or press-ready claim. No publication, commit or push. Apply [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). Author-checkpoint notes below are historical and superseded by this outcome.
+
+---
+
+# Chapter 9 author checkpoint - 1 November 2026
+
+P1-09 Count on to add authored as15-page textbook/8-page workbook with canonical paired data and isolated scripts/build_chapter_nine.py. Every23newpages inspected by author/root; exact counters,27taskIDs includingS005 and full answers/fresh/delayed checks. Review packet output/chapter-9/HANDOFF.md. Nine affected records pending at author freeze; independent /root/sol_reviewer owns decisions. Completed uncommitted chapter8,18otherlessons/all114originalquestions/all14earlierPDFs preserved. Current curriculum/local trials/physical print/annual assembly remain pending. No publication/commit/push.
+
+---
+
+# Chapter 8 completed - 1 November 2026
+
+P1-01 through P1-08 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` freshly inspected all 152 unique exact pages across 14 PDFs and independently solved every task, diagram, example and answer. No blocking or required finding remains. Evidence: [Chapter 8 review](../output/chapter-8/REVIEW.md). Root independently passed all eight strict chapter gates, preflight, frozen-source/PDF and preservation checks; [coordinator validation](../output/chapter-8/root-validation.json). Other 55 chapter records remain unchanged and pending.
+
+Chapter 8, Put small sets together, Mr Aliyu: [11-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf) and [6-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf). Original brief, all 114 source prompt/answer pairs in order, 18 other complete lessons, 12 earlier registered PDFs and protected shared sources are preserved. Legacy validation regenerated the historical sample; root restored its exact original bytes afterward. No earlier chapter PDF changed.
+
+Next: P1-09 Count on to add, Mrs Binta. Eleven P1 units, annual revision/assessment/assembly and final four offline-AI pupil pages remain. Current curriculum/adoption, local educator/pupil/accessibility certification, physical print tests and printer approval remain pending. No complete annual-book or press-ready claim. No publication, commit or push. Apply [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md) and [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md). Author-freeze notes below are historical and superseded by this outcome.
+
+---
+
+# Chapter 8 author freeze - 1 November 2026
+
+P1-08 Put small sets together is authored as an 11-page textbook and 6-page workbook, with canonical paired data and isolated scripts/build_chapter_eight.py. All17pages individually inspected by author and root; every-task solved coverage, exact vector ledger, preservation checks and freeze in output/chapter-8/HANDOFF.md. Eight affected records remain pending at this author checkpoint; independent /root/sol_reviewer owns review and strict gates. Historical build/render/validation and preflight passed. Other18lessons/all114original prompt-answer pairs/all12earlierPDFs preserved. Full annual/current curriculum/local pupil/physical printer approval remain pending. No publication/commit/push.
+
+---
+
 # Chapter 7 completed - 28 October 2026
 
 P1-01 through P1-07 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` checked all135 unique final pages and every task, diagram and answer; three required findings were corrected and rechecked. Evidence: [Chapter7 review](../output/chapter-7/REVIEW.md). Root independently passed preflight, all seven strict chapter gates, exact frozen-source/PDF hashes, fingerprint and preservation checks; other56 records remain unchanged/pending.

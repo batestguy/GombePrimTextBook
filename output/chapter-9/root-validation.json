@@ -1,0 +1,35 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "Original brief and protected baseline hashes unchanged",
+    "114 original prompts/answers/order and 18 other whole lessons preserved",
+    "Generated lesson data equals the final three canonical class sources",
+    "14 earlier registered PDFs unchanged",
+    "54 other chapter records unchanged",
+    "Final frozen source/builder/PDF hashes unchanged",
+    "All nine independent strict review gates passed",
+    "Baseline-aware whitespace check passed"
+  ],
+  "strict_gate_fingerprints": {
+    "P1-01": "bfb11d44cd37d4d1e85136c0affcf009131994ce9a37e22922740ab4667687f9",
+    "P1-02": "c0371f821dc62a02a8bafe4c2567b78f32c8b1ecf89e3a7214f4559aa0f3db96",
+    "P1-03": "98f07f495f930ea5d76d95fac653c61f009b5c519d20dc452ffcbde727994143",
+    "P1-04": "00b1d7da67d07ceda864b456f608dfd1b24a88014e7d00a86886b1e59f5df2a4",
+    "P1-05": "68113e9d18494f9ec6d0c1e9341a59fbfe3ec90e5964da4b2697eaeb08235d43",
+    "P1-06": "82da5d9c7b3d07ba68ccb2f305c1bd8246d8b6d41e193d61701abde1a2cb36bb",
+    "P1-07": "ce7b981e8cd1830328547af782eba5737f463a0ff6e70f157c13a970d60953dc",
+    "P1-08": "f012a9f009df67b44582e7adc9844fced4dcec1039912d7e805870f230a869a9",
+    "P1-09": "a10e3f4e2e99e8ef587ffb1189abcb9f106ea8acd21c5c03eeb07feaf45e6bc6"
+  },
+  "new_artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35"
+    }
+  },
+  "limits": "Chapter extracts. Annual assembly, current curriculum verification, local trials and physical print/printer approval pending."
+}

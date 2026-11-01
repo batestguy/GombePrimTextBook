@@ -1,0 +1,34 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "Original brief and all protected before hashes unchanged",
+    "114 source tasks and 18 other whole lessons preserved",
+    "12 earlier registered PDFs unchanged",
+    "Historical sample PDF restored byte for byte after legacy validation",
+    "55 other chapter records unchanged",
+    "Frozen author source/PDF hashes unchanged",
+    "Eight independent strict chapter gates passed",
+    "Original gitignore bytes retained; baseline-aware whitespace check passed"
+  ],
+  "strict_gate_fingerprints": {
+    "P1-01": "499c71f3f0de7e3ed1900bb07d173f622883276527a3eaaba864360a98b305d7",
+    "P1-02": "778df7d130541424099943b091aaa30fd3daa8649054bdba76958a03637a362d",
+    "P1-03": "3ff36f65b28047a882f7fae8dccaa01575d8a375667de42037dec737be832eb8",
+    "P1-04": "9daf12591f05b7468cfd0d33a116acbe2a7c0959f5a667c1b6724735de139c5e",
+    "P1-05": "3770d15af6f1d6cde09f3d9ba7a744ed25826ae57b74e0235b895816e0e8eec8",
+    "P1-06": "9455e25c20cddffd20419629a97460dde9eb2e6a00dbab77f36d3255fa28d4d5",
+    "P1-07": "39b4a300f00cb114a796a66adb7d2647af41d07783414b24ec54573f588fa0dc",
+    "P1-08": "5b86de66342c9bff2f35650b75eea684100547557a4a91b2d780c55445031e45"
+  },
+  "new_artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a"
+    }
+  },
+  "limits": "Chapter extracts only. Annual assembly/current curriculum/local classroom/physical print/printer approval pending."
+}

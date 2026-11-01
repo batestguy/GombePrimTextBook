@@ -6,11 +6,13 @@ The board carries a short, clearly typeset hint of the topic. Alternate Mrs Bint
 and Mr Aliyu; other story settings follow the opening. Apply this to each of the
 remaining units as it is developed; legacy drafts are not approved redesigned chapters.
 
-Implementation checkpoint: Chapters 1-2 are now adapted into an opening textbook
-and separate workbook, with canonical lesson content, shared rendering and
-paired-artifact review enforcement. See [the implementation/review packet](../output/primary-1-opening/HANDOFF.md)
-and its review evidence for exact status. The first two chapters do not complete
-this annual plan; seventeen existing units and full-year assembly remain.
+Implementation checkpoint, 1 November 2026: Chapters 1-9 have independently
+approved exact textbook/workbook pairs, with canonical lesson content and
+paired-artifact review enforcement. Chapter 9, Count on to add, has a
+15-page textbook and 8-page workbook. See [the latest review](../output/chapter-9/REVIEW.md)
+and [the session checkpoint](SESSION-HANDOFF.md). Ten existing units, annual
+revision/assessment, the final four offline-AI pupil pages and full-year assembly
+remain. These extracts do not complete this annual plan.
 
 Working decision recorded **20 October 2026**. User direction: document the
 research and completion work, use the best available approximation because

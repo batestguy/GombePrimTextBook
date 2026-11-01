@@ -1,0 +1,284 @@
+[
+  {
+    "id": "P1-08-JOIN-MODEL",
+    "answer": "2 and 1 make 3 tops; the same three objects move, none lost.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-08-JOIN-GUIDED",
+    "answer": "1 and 1 make 2 counters.",
+    "mode": "guided practical",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-08-SIGNS-MODEL",
+    "answer": "2+1=3 and 3=2+1 are true: both sides have value3.",
+    "mode": "worked equality",
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-08-SIGNS-GUIDED",
+    "answer": "1+2=3; compare three counters with the joined1and2.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-08-THREE-MODEL",
+    "answer": "1+1+2=4;2+2+2=6.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-08-THREE-GUIDED",
+    "answer": "1+1+1=3; move/count each once.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-08-DRAW-MODEL",
+    "answer": "1dot+1dot=2;2books+1book=3books, represented by3dots.",
+    "mode": "worked drawing",
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-08-DRAW-GUIDED",
+    "answer": "Draw1dot then2dots;3 total.",
+    "mode": "guided drawing",
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-08-RECALL",
+    "answer": "Plus joins amounts; equals means same value; count each once.",
+    "mode": "oral recall",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-08-HELP",
+    "answer": "1+1=2.",
+    "mode": "intervention",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-08-RECHECK",
+    "answer": "2+1=3.",
+    "mode": "fresh support recheck",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-08-SWAP",
+    "answer": "1+2=2+1=3; moving/swapping sets loses or adds no object.",
+    "mode": "investigation",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-08-STORY",
+    "answer": "2+1=3tops; three shared across fair turns, not one each.",
+    "mode": "story resolution",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-08-FRESH-TWO",
+    "answer": "1+3=4.",
+    "mode": "fresh independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-08-FRESH-THREE",
+    "answer": "1+2+2=5.",
+    "mode": "fresh independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-08-FRESH-EQUALS",
+    "answer": "Both sides represent the same total:4and5 respectively.",
+    "mode": "fresh explanation",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-08-WB-GUIDED",
+    "answer": "1+1=2;draw1then2dots,total3.",
+    "mode": "guided workbook",
+    "pages": {
+      "workbook": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q1",
+    "answer": "3",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q2",
+    "answer": "4",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q3",
+    "answer": "3",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q4",
+    "answer": "3",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q5",
+    "answer": "4 books",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-08-Q6",
+    "answer": "Both combine one and two objects to make three.",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-08-DELAYED",
+    "answer": "Next session:2+2=4;1+1+2=4;4=2+2 true; count each once and same value.",
+    "mode": "delayed oral/practical",
+    "pages": {
+      "textbook": [
+        10
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "author": "/root/sol_executor",
+  "reviewer": "/root/sol_reviewer",
+  "date": "2026-11-01",
+  "fingerprint": "a10e3f4e2e99e8ef587ffb1189abcb9f106ea8acd21c5c03eeb07feaf45e6bc6",
+  "hashes": {
+    "production/p1.json": "fd2ec16ccc38bd79fe06b9a50094d6f5f12e1801afe7890e6ed5937270d36f1d",
+    "production/lessons.json": "d582aae46f20cc2406558c0527076f61ec5f6f9b68b88bce2b3bf2a3af8e985f",
+    "scripts/build_chapter_nine.py": "feeb37edfeee0fdadcb2ff9ff6f503579a2fcec3ddf59451a6c45c3c1248f178",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35"
+  },
+  "status": "frozen_for_independent_review_pending",
+  "source_preservation": "All114originalprompt/answerpairs/order;18othercomplete lessons including uncommittedchapter8;14earlierPDFs andprotectedsharedsources unchanged. Sampleandcontacts restoredfromexactcurrentbeforebackups;neverHEAD.",
+  "validation": {
+    "chapter9_build": "passed15TB8WB27IDs;exactvectorcount/A4/font/bounds/taskcoverage",
+    "legacy_build": "passed63lessons247plannedpages59supplements;generatedlessonsfinalcanonical",
+    "quarto_render": "passed historical247pagePDF; paired-only finalcorrections leavehistoricalpupilcontent unchanged",
+    "legacy_validate": "passed247pages378lessonquestions90revision8AI59supplementary155objectives87arithmetic0failures;6pagesampletext/pixelsexactsource,thenrestoredcurrentbaselinebytes",
+    "preflight": "passedafterfinalsource/PDFedits;rerunbeforehandoff",
+    "register_check": "passed63records;pendingnotapproval",
+    "strict_gate": "pendingindependentreview;authorneverapproves",
+    "whitespace": "baselineCRLF preserved;git -c core.whitespace=cr-at-eol diff --check"
+  }
+}

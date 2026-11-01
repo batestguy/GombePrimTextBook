@@ -1,0 +1,323 @@
+[
+  {
+    "id": "P1-09-COUNT-MODEL",
+    "answer": "4+2=6;hold4, count5,6; countall6 confirms.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        2
+      ],
+      "workbook": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "P1-09-COUNT-GUIDED",
+    "answer": "2+3=5;hold2,count3,4,5;countall5.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-09-THREE-SMALL-MODEL",
+    "answer": "3+2=5;5+4=9;countall9.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-09-THREE-SMALL-GUIDED",
+    "answer": "1+2+3=6;first3,then6;each amount once.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        3
+      ],
+      "workbook": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "P1-09-ZERO-MODEL",
+    "answer": "6+0=6 and0+3=3;empty set adds no objects.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-09-ZERO-GUIDED",
+    "answer": "5+0=5;no count-on words needed.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-09-CROSS-MODEL",
+    "answer": "8+5=13;count9,10,11,12,13;countall13.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-09-CROSS-GUIDED",
+    "answer": "7+4=11;count8,9,10,11;countall11.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-09-THREE-LARGE-MODEL",
+    "answer": "4+5=9;9+6=15; all15 counters check.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-09-THREE-LARGE-GUIDED",
+    "answer": "9+0+8=17;zero leaves9;count10..17over8newobjects.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-09-CHECK-MODEL",
+    "answer": "8+6=14;wrong13 repeats held8 as first added count;6newwords9..14;countall14.",
+    "mode": "worked error/check",
+    "pages": {
+      "textbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-09-CHECK-GUIDED",
+    "answer": "5+2=7;6,7;countall7;wrong6 is one too few.",
+    "mode": "guided error correction",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "S005",
+    "answer": "15 and 17; all three addends included once; correct check.",
+    "mode": "supported-to-independent demonstration of previously modelled sums",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-09-RECALL",
+    "answer": "Firstnewword is next number afterheldstart;zero addsnone;countall checks.",
+    "mode": "recall",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-09-HELP",
+    "answer": "2+1=3;hold2,say3;countall3.",
+    "mode": "intervention",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-09-RECHECK",
+    "answer": "3+2=5;hold3,say4,5;countall5.",
+    "mode": "fresh support recheck",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-09-STORY",
+    "answer": "Original8+5=13;count9..13andcountall13;all conserved.",
+    "mode": "enacted story resolution",
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-09-FRESH-TWO",
+    "answer": "5+7=12;count6..12,all12.",
+    "mode": "fresh independent",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-09-FRESH-THREE",
+    "answer": "2+0+9=11;zero leaves2;count3..11,all11.",
+    "mode": "fresh independent",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-09-FRESH-CHECK",
+    "answer": "6+3=9;claim8false;count7,8,9thenall9.",
+    "mode": "fresh error/check",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q1",
+    "answer": "7",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q2",
+    "answer": "6",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q3",
+    "answer": "8",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q4",
+    "answer": "18",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q5",
+    "answer": "12 seeds",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-09-Q6",
+    "answer": "Count fourteen objects, or count on six from eight.",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-09-DELAYED",
+    "answer": "Nextsession6+5=11;3+0+7=10;7+2=8false,correct9;countonthenall.",
+    "mode": "delayed practical/oral",
+    "pages": {
+      "textbook": [
+        14
+      ]
+    }
+  }
+]

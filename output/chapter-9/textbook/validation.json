@@ -1,0 +1,875 @@
+{
+  "pages": 15,
+  "sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+  "page_manifest": [
+    {
+      "slug": "c9-story",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "A path for the toy garden",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "c9-small",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Hold four, count on two",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-COUNT-MODEL",
+        "P1-09-COUNT-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-small-three",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Use every amount once",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-THREE-SMALL-MODEL",
+        "P1-09-THREE-SMALL-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-zero",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Zero adds no counters",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-ZERO-MODEL",
+        "P1-09-ZERO-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-cross",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Count through ten",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-CROSS-MODEL",
+        "P1-09-CROSS-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-large-three",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Three sets can cross ten",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-THREE-LARGE-MODEL",
+        "P1-09-THREE-LARGE-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-check",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Check the start and the total",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-CHECK-MODEL",
+        "P1-09-CHECK-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-independent",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Try your own additions",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-Q1",
+        "P1-09-Q2",
+        "P1-09-Q3",
+        "P1-09-Q4",
+        "P1-09-Q5",
+        "P1-09-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-supplement",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Show that the total is right",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "S005"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-help",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Remember and take a smaller step",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-RECALL",
+        "P1-09-HELP",
+        "P1-09-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-finish",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Build the garden path",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-fresh",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Show learning afresh",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-09-FRESH-TWO",
+        "P1-09-FRESH-THREE",
+        "P1-09-FRESH-CHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c9-answers",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Every task and answer",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c9-guidance",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Support, fresh checks and recall",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [
+        "P1-09-DELAYED"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "c9-credits",
+      "kicker": "Chapter nine / Count on to add",
+      "title": "Words, evidence and next learning",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-09-COUNT-MODEL": [
+      2
+    ],
+    "P1-09-COUNT-GUIDED": [
+      2
+    ],
+    "P1-09-THREE-SMALL-MODEL": [
+      3
+    ],
+    "P1-09-THREE-SMALL-GUIDED": [
+      3
+    ],
+    "P1-09-ZERO-MODEL": [
+      4
+    ],
+    "P1-09-ZERO-GUIDED": [
+      4
+    ],
+    "P1-09-CROSS-MODEL": [
+      5
+    ],
+    "P1-09-CROSS-GUIDED": [
+      5
+    ],
+    "P1-09-THREE-LARGE-MODEL": [
+      6
+    ],
+    "P1-09-THREE-LARGE-GUIDED": [
+      6
+    ],
+    "P1-09-CHECK-MODEL": [
+      7
+    ],
+    "P1-09-CHECK-GUIDED": [
+      7
+    ],
+    "P1-09-Q1": [
+      8
+    ],
+    "P1-09-Q2": [
+      8
+    ],
+    "P1-09-Q3": [
+      8
+    ],
+    "P1-09-Q4": [
+      8
+    ],
+    "P1-09-Q5": [
+      8
+    ],
+    "P1-09-Q6": [
+      8
+    ],
+    "S005": [
+      9
+    ],
+    "P1-09-RECALL": [
+      10
+    ],
+    "P1-09-HELP": [
+      10
+    ],
+    "P1-09-RECHECK": [
+      10
+    ],
+    "P1-09-STORY": [
+      11
+    ],
+    "P1-09-FRESH-TWO": [
+      12
+    ],
+    "P1-09-FRESH-THREE": [
+      12
+    ],
+    "P1-09-FRESH-CHECK": [
+      12
+    ],
+    "P1-09-DELAYED": [
+      14
+    ]
+  },
+  "objects": [
+    {
+      "id": "tb-small-held",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          75,
+          300
+        ],
+        [
+          111,
+          300
+        ],
+        [
+          147,
+          300
+        ],
+        [
+          183,
+          300
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-small-add",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          365,
+          300
+        ],
+        [
+          425,
+          300
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-small-guided-held",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          75,
+          715
+        ],
+        [
+          111,
+          715
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-small-guided-add",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          320,
+          715
+        ],
+        [
+          356,
+          715
+        ],
+        [
+          392,
+          715
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-three-small-a",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          70,
+          310
+        ],
+        [
+          106,
+          310
+        ],
+        [
+          142,
+          310
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-three-small-b",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          255,
+          310
+        ],
+        [
+          291,
+          310
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-three-small-c",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          400,
+          310
+        ],
+        [
+          436,
+          310
+        ],
+        [
+          400,
+          346
+        ],
+        [
+          436,
+          346
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-small-three-guide",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          135,
+          730
+        ],
+        [
+          190,
+          730
+        ],
+        [
+          245,
+          730
+        ],
+        [
+          300,
+          730
+        ],
+        [
+          355,
+          730
+        ],
+        [
+          410,
+          730
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "tb-zero-six",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          80,
+          310
+        ],
+        [
+          116,
+          310
+        ],
+        [
+          152,
+          310
+        ],
+        [
+          80,
+          346
+        ],
+        [
+          116,
+          346
+        ],
+        [
+          152,
+          346
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "tb-cross-held",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          70,
+          310
+        ],
+        [
+          106,
+          310
+        ],
+        [
+          142,
+          310
+        ],
+        [
+          178,
+          310
+        ],
+        [
+          70,
+          346
+        ],
+        [
+          106,
+          346
+        ],
+        [
+          142,
+          346
+        ],
+        [
+          178,
+          346
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "tb-cross-added",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          320,
+          310
+        ],
+        [
+          363,
+          310
+        ],
+        [
+          406,
+          310
+        ],
+        [
+          449,
+          310
+        ],
+        [
+          492,
+          310
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-large-a",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          290
+        ],
+        [
+          101,
+          290
+        ],
+        [
+          65,
+          326
+        ],
+        [
+          101,
+          326
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-large-b",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          250,
+          290
+        ],
+        [
+          286,
+          290
+        ],
+        [
+          322,
+          290
+        ],
+        [
+          250,
+          326
+        ],
+        [
+          286,
+          326
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-large-c",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          425,
+          290
+        ],
+        [
+          461,
+          290
+        ],
+        [
+          497,
+          290
+        ],
+        [
+          425,
+          326
+        ],
+        [
+          461,
+          326
+        ],
+        [
+          497,
+          326
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "tb-check-held",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          340
+        ],
+        [
+          101,
+          340
+        ],
+        [
+          137,
+          340
+        ],
+        [
+          173,
+          340
+        ],
+        [
+          65,
+          376
+        ],
+        [
+          101,
+          376
+        ],
+        [
+          137,
+          376
+        ],
+        [
+          173,
+          376
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "tb-check-new",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          350,
+          340
+        ],
+        [
+          386,
+          340
+        ],
+        [
+          422,
+          340
+        ],
+        [
+          350,
+          376
+        ],
+        [
+          386,
+          376
+        ],
+        [
+          422,
+          376
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "tb-help-held",
+      "page": 10,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          95,
+          430
+        ],
+        [
+          131,
+          430
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-help-add",
+      "page": 10,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          375,
+          430
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-story-path",
+      "page": 11,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          70,
+          320
+        ],
+        [
+          135,
+          320
+        ],
+        [
+          200,
+          320
+        ],
+        [
+          265,
+          320
+        ],
+        [
+          330,
+          320
+        ],
+        [
+          395,
+          320
+        ],
+        [
+          460,
+          320
+        ],
+        [
+          460,
+          370
+        ],
+        [
+          395,
+          370
+        ],
+        [
+          330,
+          370
+        ],
+        [
+          265,
+          370
+        ],
+        [
+          200,
+          370
+        ],
+        [
+          135,
+          370
+        ]
+      ],
+      "count": 13
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

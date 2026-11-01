@@ -1,0 +1,533 @@
+{
+  "pages": 11,
+  "sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+  "page_manifest": [
+    {
+      "slug": "c8-story",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Tops for the box-toy stall",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "c8-join",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Watch: move, then count",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-signs",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Signs tell the joining story",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-SIGNS-MODEL",
+        "P1-08-SIGNS-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-three",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Join three sets",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-THREE-MODEL",
+        "P1-08-THREE-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-draw",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Show the story with dots",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-DRAW-MODEL",
+        "P1-08-DRAW-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-independent",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Your own joining stories",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-Q1",
+        "P1-08-Q2",
+        "P1-08-Q3",
+        "P1-08-Q4",
+        "P1-08-Q5",
+        "P1-08-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-help",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Remember, then try a small step",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-RECALL",
+        "P1-08-HELP",
+        "P1-08-RECHECK",
+        "P1-08-SWAP"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-finish",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "The stall can open",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-FRESH-TWO",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-EQUALS"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c8-answers",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c8-guidance",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Teach, observe and revisit",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [
+        "P1-08-DELAYED"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "c8-credits",
+      "kicker": "Chapter eight / Put small sets together",
+      "title": "Words, evidence and next learning",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-08-JOIN-MODEL": [
+      2
+    ],
+    "P1-08-JOIN-GUIDED": [
+      2
+    ],
+    "P1-08-SIGNS-MODEL": [
+      3
+    ],
+    "P1-08-SIGNS-GUIDED": [
+      3
+    ],
+    "P1-08-THREE-MODEL": [
+      4
+    ],
+    "P1-08-THREE-GUIDED": [
+      4
+    ],
+    "P1-08-DRAW-MODEL": [
+      5
+    ],
+    "P1-08-DRAW-GUIDED": [
+      5
+    ],
+    "P1-08-Q1": [
+      6
+    ],
+    "P1-08-Q2": [
+      6
+    ],
+    "P1-08-Q3": [
+      6
+    ],
+    "P1-08-Q4": [
+      6
+    ],
+    "P1-08-Q5": [
+      6
+    ],
+    "P1-08-Q6": [
+      6
+    ],
+    "P1-08-RECALL": [
+      7
+    ],
+    "P1-08-HELP": [
+      7
+    ],
+    "P1-08-RECHECK": [
+      7
+    ],
+    "P1-08-SWAP": [
+      7
+    ],
+    "P1-08-STORY": [
+      8
+    ],
+    "P1-08-FRESH-TWO": [
+      8
+    ],
+    "P1-08-FRESH-THREE": [
+      8
+    ],
+    "P1-08-FRESH-EQUALS": [
+      8
+    ],
+    "P1-08-DELAYED": [
+      10
+    ]
+  },
+  "objects": [
+    {
+      "id": "tb-before-a",
+      "page": 2,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          85,
+          305
+        ],
+        [
+          130,
+          305
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-before-b",
+      "page": 2,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          400,
+          305
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-after",
+      "page": 2,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          150,
+          445
+        ],
+        [
+          195,
+          445
+        ],
+        [
+          240,
+          445
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-sign-left",
+      "page": 3,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          70,
+          275
+        ],
+        [
+          115,
+          275
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-sign-right",
+      "page": 3,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          235,
+          275
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-sign-total",
+      "page": 3,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          380,
+          275
+        ],
+        [
+          425,
+          275
+        ],
+        [
+          470,
+          275
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-three-small-a",
+      "page": 4,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          75,
+          285
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-three-small-b",
+      "page": 4,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          215,
+          285
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-three-small-c",
+      "page": 4,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          355,
+          285
+        ],
+        [
+          400,
+          285
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-three-large-a",
+      "page": 4,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          70,
+          465
+        ],
+        [
+          115,
+          465
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-three-large-b",
+      "page": 4,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          235,
+          465
+        ],
+        [
+          280,
+          465
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-three-large-c",
+      "page": 4,
+      "kinds": [
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          400,
+          465
+        ],
+        [
+          445,
+          465
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-dot-a",
+      "page": 5,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          100,
+          290
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-dot-b",
+      "page": 5,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          270,
+          290
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-book-a",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          100,
+          525
+        ],
+        [
+          145,
+          525
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-book-b",
+      "page": 5,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          320,
+          525
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-help-a",
+      "page": 7,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          100,
+          405
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-help-b",
+      "page": 7,
+      "kinds": [
+        "top"
+      ],
+      "points": [
+        [
+          300,
+          405
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-story-final",
+      "page": 8,
+      "kinds": [
+        "top",
+        "top",
+        "top"
+      ],
+      "points": [
+        [
+          160,
+          390
+        ],
+        [
+          205,
+          390
+        ],
+        [
+          250,
+          390
+        ]
+      ],
+      "count": 3
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

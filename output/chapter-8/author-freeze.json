@@ -1,0 +1,25 @@
+{
+  "author": "/root/sol_executor",
+  "reviewer": "/root/sol_reviewer",
+  "date": "2026-11-01",
+  "fingerprint": "5b86de66342c9bff2f35650b75eea684100547557a4a91b2d780c55445031e45",
+  "hashes": {
+    "production/p1.json": "caaf048a86c0ee777393c712d8d2b99eda10fa873b80cb6cc9be8385efe1905b",
+    "production/lessons.json": "e3fbe8d33c73bbdf8738e40ba1f9adffcf56df3b52f5a31f0438b52b46a592f8",
+    "scripts/build_chapter_eight.py": "2be52443184fb942efd72bdf183eb3283c633f47caf182dfe87db0c8e6ac5f25",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a"
+  },
+  "status": "frozen_for_independent_review_pending",
+  "validation": {
+    "chapter8_build": "passed11TB6WB; vector count and task coverage; preservation checks",
+    "legacy_build": "passed63lessons247plannedpages59supplements",
+    "quarto_render": "passed historical247pagePDF",
+    "legacy_validate": "passed247pages378lessonquestions90revision8AI59supplementary155objectives87arithmetic0failures; sample6pages exact pixel/text match source pages",
+    "preflight": "passed after final source/PDF edits",
+    "register_check": "passed63pendingrecords; not approval",
+    "whitespace": "git -c core.whitespace=cr-at-eol diff --check passed; original CRLF preserved",
+    "strict_chapter_gate": "pending independent review; author never approves"
+  },
+  "source_preservation": "114 original prompt/answer pairs/order,18other whole lessons,all12 earlier PDFs and protected shared files unchanged. Baseline .gitignore exact. Legacy sample regenerated routinely; no tracked contact image changes."
+}
