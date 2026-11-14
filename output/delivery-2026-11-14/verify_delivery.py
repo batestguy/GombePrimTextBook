@@ -59,7 +59,8 @@ for name in manifest['handoffs']:
     assert raw.count(b'<!-- current-handoff-status:start -->') == 1, name
     prefix, body = raw.split(b'<!-- current-handoff-status:end -->', 1)
     for target in re.findall(rb'\]\(([^)]+)\)', prefix):
-        assert (path.parent / target.decode()).resolve().is_file(), (name, target)
+        if not target.startswith((b'https://', b'http://')):
+            assert (path.parent / target.decode()).resolve().is_file(), (name, target)
     original = subprocess.run(['git', 'show', f'03d03f5:{name}'], cwd=ROOT, capture_output=True)
     if original.returncode == 0:
         assert body.lstrip(b'\r\n') == original.stdout.lstrip(b'\r\n'), name

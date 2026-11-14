@@ -1,0 +1,10 @@
+{
+  "repository": "batestguy/GombePrimTextBook",
+  "chapter_commit": "e37f11e3e59c12c51b2f8417ccb6453fa23df4fc",
+  "remote_ref": "refs/heads/main",
+  "verified_remote_hash": "e37f11e3e59c12c51b2f8417ccb6453fa23df4fc",
+  "verification": "git ls-remote origin refs/heads/main returned exact chapter commit after successful git push",
+  "handoffs_updated": 35,
+  "session_handoff_updated": true,
+  "documentation_followup": true
+}

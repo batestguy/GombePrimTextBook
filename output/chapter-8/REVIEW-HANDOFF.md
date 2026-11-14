@@ -3,7 +3,7 @@
 >
 > **Next:** P1-16 Heavy and light, Mr Aliyu. Four units remain, followed by annual revision/assessment, four offline-AI pupil pages and full-year assembly. Current curriculum/adoption, local educator/pupil/accessibility evidence and physical print/printer approval remain pending.
 >
-> **Delivery:** the user authorized committing and pushing the reviewed Length/Time checkpoint. Final delivery status and current evidence: [session handoff](../../docs/SESSION-HANDOFF.md), [independent Time review](../chapter-15/REVIEW.md) and [current chapter register](../../production/chapter-reviews.json).
+> **Delivery verified:** reviewed Length/Time commit [e37f11e](https://github.com/batestguy/GombePrimTextBook/commit/e37f11e3e59c12c51b2f8417ccb6453fa23df4fc) was pushed to `origin/main`; a separate remote check matched its full hash. This follow-up handoff update records that verified result. Current status and evidence: [session handoff](../../docs/SESSION-HANDOFF.md), [independent Time review](../chapter-15/REVIEW.md) and [current chapter register](../../production/chapter-reviews.json).
 <!-- current-handoff-status:end -->
 
 # Chapter 8 independent review handoff

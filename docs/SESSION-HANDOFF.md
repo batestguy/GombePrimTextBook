@@ -4,8 +4,26 @@ The user authorized committing and pushing the completed, independently reviewed
 Length and Time work and updating all handoffs. All 35 handoff documents now carry
 a current checkpoint linked here; their original briefs and review notes remain
 historical evidence. The current chapter register approves P1-01 through P1-15.
-Delivery is being prepared; the final delivery result will replace this paragraph
-after the remote commit has been verified. No website or external publication.
+Reviewed chapter commit [e37f11e](https://github.com/batestguy/GombePrimTextBook/commit/e37f11e3e59c12c51b2f8417ccb6453fa23df4fc) was pushed to
+`origin/main`. A separate `git ls-remote` check returned the exact full hash
+`e37f11e3e59c12c51b2f8417ccb6453fa23df4fc`. This follow-up documentation update records
+that verified chapter delivery; identify its own commit with `git log -1`.
+No website or external publication was performed.
+
+Final validation: all 15 strict chapter gates and preflight passed; all 35 handoff
+headers/links were checked and 29 tracked original handoff bodies were preserved.
+All reviewed source/PDF fingerprints, 26 prior PDFs, 114 original prompt/answer pairs,
+18 other lesson objects and 21 historical generated backups remain unchanged. The
+README current-status update is an explicitly authorized documentation exception
+to its historical baseline hash. Existing trailing whitespace in four immutable
+historical backup text files is preserved; all other committed changes pass the
+whitespace check.
+
+Current delivery check: `python output/delivery-2026-11-14/verify_delivery.py`.
+The original authoring snapshots and old verifier scripts retain their earlier
+baseline hashes; the delivery check records the authorized README update without
+rewriting those snapshots. Before P1-16, take a new baseline from this committed
+state and reopen shared approvals before canonical edits.
 
 Next authoring task: **P1-16 Heavy and light**, Mr Aliyu. Four units remain,
 followed by annual revision/assessment, four offline-AI pupil pages and full-year

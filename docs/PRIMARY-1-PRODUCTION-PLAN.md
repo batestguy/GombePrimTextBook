@@ -25,8 +25,8 @@ actions; printed activities and adaptations are not claims of pupil mastery.
 Next is **P1-16 Heavy and light**, Mr Aliyu. Four existing units, annual
 revision/assessment, final four offline-AI pupil pages and full-year assembly
 remain. Current curriculum/adoption, local trials and physical print/printer
-approval remain pending. Commit/push of this reviewed checkpoint is authorized;
-see the session handoff for delivery verification.
+approval remain pending. Reviewed chapter checkpoint [e37f11e](https://github.com/batestguy/GombePrimTextBook/commit/e37f11e3e59c12c51b2f8417ccb6453fa23df4fc) was pushed and independently
+verified on `origin/main`; see the session handoff for delivery evidence.
 
 Working decision recorded **20 October 2026**. User direction: document the
 research and completion work, use the best available approximation because
