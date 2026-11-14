@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "P1-12-EQUAL-MODEL",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "The blank names one missing number. Equal means the same amount on both sides.",
+    "answer": "2 + 3 = 5 and 5 = 2 + 3 describe equal amounts. Blank in 2 + __ = 5 is 3.",
+    "equations": [
+      "2+3=5",
+      "5=2+3"
+    ],
+    "pages": {
+      "textbook": [
+        2,
+        29
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "P1-12-ADD-LAST-MODEL",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Find <b>1 + __ = 4</b>. Put out 1 counter. Count on: 2, 3, 4. We added 3 counters. Replace the blank: <b>1 + 3 = 4</b>. Both sides make 4.",
+    "answer": "3; substitute 1+3=4.",
+    "equations": [
+      "1+3=4"
+    ],
+    "pages": {
+      "textbook": [
+        3,
+        29
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "P1-12-ADD-LAST-GUIDED",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "Aishatu puts out 3 counters. Find 3 + __ = 8. Add counters one at a time. How many did you add?",
+    "answer": "5; 3+5=8.",
+    "equations": [
+      "3+5=8"
+    ],
+    "pages": {
+      "textbook": [
+        3,
+        29
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "P1-12-ADD-FIRST-MODEL",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Find <b>__ + 2 = 6</b>. Lay out 6 counters. Slide 2 to the right for the known part. Count the other 4. Replace the blank: <b>4 + 2 = 6</b>. The blank comes first, but still names one part.",
+    "answer": "4; 4+2=6.",
+    "equations": [
+      "4+2=6"
+    ],
+    "pages": {
+      "textbook": [
+        4,
+        29
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "P1-12-ADD-FIRST-GUIDED",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "John keeps the answer secret while you try __ + 4 = 6. Make 6. Move 4 aside. Count the first part.",
+    "answer": "2; 2+4=6.",
+    "equations": [
+      "2+4=6"
+    ],
+    "pages": {
+      "textbook": [
+        4,
+        29
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "P1-12-REMOVE-MODEL",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Find <b>8 - __ = 3</b>. Start with 8 counters. Keep 3 on the mat. Move the others aside, one at a time. We moved 5. Replace the blank: <b>8 - 5 = 3</b>. Check: <b>3 + 5 = 8</b>.",
+    "answer": "5; 8-5=3;3+5=8.",
+    "equations": [
+      "8-5=3",
+      "3+5=8"
+    ],
+    "pages": {
+      "textbook": [
+        5,
+        30
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "P1-12-REMOVE-GUIDED",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "Grace starts with 7 counters and keeps 4. Find 7 - __ = 4. Count what you move aside. Add back to check.",
+    "answer": "3;7-3=4;4+3=7.",
+    "equations": [
+      "7-3=4",
+      "4+3=7"
+    ],
+    "pages": {
+      "textbook": [
+        5,
+        30
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "P1-12-START-MODEL",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Find <b>__ - 3 = 4</b>. The starting amount is unknown. Here are 4 still on the mat and 3 taken aside. Put them back together: <b>4 + 3 = 7</b>. The start was 7. Check the original sentence: <b>7 - 3 = 4</b>.",
+    "answer": "7;4+3=7;7-3=4.",
+    "equations": [
+      "4+3=7",
+      "7-3=4"
+    ],
+    "pages": {
+      "textbook": [
+        6,
+        30
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "P1-12-START-GUIDED",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "Adamu says there are 5 left after taking away 1. Find __ - 1 = 5. Rebuild the start, then use it in the subtraction.",
+    "answer": "6;5+1=6;6-1=5.",
+    "equations": [
+      "5+1=6",
+      "6-1=5"
+    ],
+    "pages": {
+      "textbook": [
+        6,
+        30
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "P1-12-REVERSE-MODEL",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> The whole 6 is the same as parts 2 and 4. <b>2 + 4 = 6</b> and <b>6 = 2 + 4</b> say the same thing in opposite reading order. For <b>6 = 2 + __</b>, use 4. Check: both sides make 6.",
+    "answer": "4;6=2+4.",
+    "equations": [
+      "2+4=6",
+      "6=2+4"
+    ],
+    "pages": {
+      "textbook": [
+        7,
+        30
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "P1-12-REVERSE-GUIDED",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "John reads 7 = __ + 2. Build 7. Keep 2 as one part. Find the other part. Read the completed sentence in both directions.",
+    "answer": "5;7=5+2;5+2=7.",
+    "equations": [
+      "7=5+2",
+      "5+2=7"
+    ],
+    "pages": {
+      "textbook": [
+        7,
+        31
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "P1-12-CHECK-MODEL",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> For <b>4 + __ = 7</b>, try 3. Replace only the blank. Read <b>4 + 3 = 7</b>. Count both parts: 7. It works! Trying 2 gives 6, so 2 does not work. Grace retries neatly instead of hiding a mistake.",
+    "answer": "3;4+3=7;4+2=6 does not equal7.",
+    "equations": [
+      "4+3=7",
+      "4+2=6"
+    ],
+    "pages": {
+      "textbook": [
+        8,
+        31
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "P1-12-CHECK-GUIDED",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "Grace tries 4 in 2 + __ = 7. Count to check. Does 4 work? Find a number that does. Replace the blank and read the sentence.",
+    "answer": "4 fails:2+4=6;5 works:2+5=7.",
+    "equations": [
+      "2+4=6",
+      "2+5=7"
+    ],
+    "pages": {
+      "textbook": [
+        8,
+        31
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "P1-12-FAMILY-MODEL",
+    "objectives": [
+      "P1-p07-02",
+      "P1-p07-01"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Build one set of 7 counters. Separate it into 2 and 5. Join it: <b>2 + 5 = 7</b>. Swap the parts: <b>5 + 2 = 7</b>. From the same 7, take 2 away: <b>7 - 2 = 5</b>. Put them back; then take 5 away: <b>7 - 5 = 2</b>.",
+    "answer": "2+5=7;5+2=7;7-2=5;7-5=2.",
+    "equations": [
+      "2+5=7",
+      "5+2=7",
+      "7-2=5",
+      "7-5=2"
+    ],
+    "pages": {
+      "textbook": [
+        9,
+        31
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "P1-12-FAMILY-GUIDED",
+    "objectives": [
+      "P1-p07-02",
+      "P1-p07-01"
+    ],
+    "mode": "guided",
+    "prompt": "Adamu makes one whole of 7, split into 3 and 4. Complete 3 + __ = 7 and 7 - 3 = __. Say how the same counters help both times.",
+    "answer": "4 and4;3+4=7;7-3=4.",
+    "equations": [
+      "3+4=7",
+      "7-3=4"
+    ],
+    "pages": {
+      "textbook": [
+        9,
+        31
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "P1-12-EVERY-ADD-MODEL",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> Our story card says: 2 books, then 3 more. Someone claims 6 books. Use counters for books. Join 2 and 3. Count once: <b>2 + 3 = 5</b>. The claim is wrong. There are 5 books, not 6. A check can also show a claim is correct.",
+    "answer": "Claim6 wrong;2+3=5.",
+    "equations": [
+      "2+3=5"
+    ],
+    "pages": {
+      "textbook": [
+        10,
+        32
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "P1-12-EVERY-ADD-GUIDED",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "guided",
+    "prompt": "Aishatu reads a new card: 3 books and 2 more. It claims 5. Is the claim right? Join counters and check. Explain why.",
+    "answer": "Claim5 correct;3+2=5.",
+    "equations": [
+      "3+2=5"
+    ],
+    "pages": {
+      "textbook": [
+        10,
+        32
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "P1-12-EVERY-SUB-MODEL",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "model",
+    "prompt": "<b>Mr Aliyu:</b> There are 7 chalk pieces. We use 2. A card claims 4 remain. Move 2 counters aside. Count the 5 left: <b>7 - 2 = 5</b>. Add back: <b>5 + 2 = 7</b>. The claim is wrong. There are 5 left.",
+    "answer": "Claim4 wrong;7-2=5;5+2=7.",
+    "equations": [
+      "7-2=5",
+      "5+2=7"
+    ],
+    "pages": {
+      "textbook": [
+        11,
+        32
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "P1-12-EVERY-SUB-GUIDED",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "guided",
+    "prompt": "Grace checks 8 chalk pieces with 3 used. A card claims 5 remain. Is the claim right? Take away, count, then add back.",
+    "answer": "Claim5 correct;8-3=5;5+3=8.",
+    "equations": [
+      "8-3=5",
+      "5+3=8"
+    ],
+    "pages": {
+      "textbook": [
+        11,
+        32
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q1",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Find the missing number: <b>2 + __ = 6</b>.",
+    "answer": "4;2+4=6.",
+    "equations": [
+      "2+4=6"
+    ],
+    "pages": {
+      "textbook": [
+        12,
+        32
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q2",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Find the missing number: <b>__ + 3 = 8</b>.",
+    "answer": "5;5+3=8.",
+    "equations": [
+      "5+3=8"
+    ],
+    "pages": {
+      "textbook": [
+        12,
+        33
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q3",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Find the missing number: <b>9 - __ = 4</b>.",
+    "answer": "5;9-5=4;4+5=9.",
+    "equations": [
+      "9-5=4",
+      "4+5=9"
+    ],
+    "pages": {
+      "textbook": [
+        13,
+        33
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q4",
+    "objectives": [
+      "P1-p06-03",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Find the missing number: <b>__ - 2 = 6</b>.",
+    "answer": "8;6+2=8;8-2=6.",
+    "equations": [
+      "6+2=8",
+      "8-2=6"
+    ],
+    "pages": {
+      "textbook": [
+        13,
+        33
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q5",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Find the missing number: <b>5 = __ + 1</b>.",
+    "answer": "4;5=4+1.",
+    "equations": [
+      "5=4+1"
+    ],
+    "pages": {
+      "textbook": [
+        14,
+        33
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "P1-12-Q6",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "independent",
+    "prompt": "Explain how to check <b>4 + __ = 9</b>. Replace the blank, then read the whole sentence.",
+    "answer": "5;4+5=9;both sides equal9.",
+    "equations": [
+      "4+5=9"
+    ],
+    "pages": {
+      "textbook": [
+        14,
+        33
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "S006",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "independent",
+    "prompt": "<b>A story card:</b> Amina has 4 books and gets 3 more. Musa says 8 books. Check his addition using objects and correct it.",
+    "answer": "4+3=7;claim8 is wrong.",
+    "equations": [
+      "4+3=7"
+    ],
+    "pages": {
+      "textbook": [
+        15,
+        34
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        34
+      ]
+    }
+  },
+  {
+    "id": "S007",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "independent",
+    "prompt": "<b>A story card:</b> There are 9 chalk pieces and 4 are used. Musa says 6 remain. Check with objects and correct him.",
+    "answer": "9-4=5;5+4=9;claim6 is wrong.",
+    "equations": [
+      "9-4=5",
+      "5+4=9"
+    ],
+    "pages": {
+      "textbook": [
+        15,
+        34
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        34
+      ]
+    }
+  },
+  {
+    "id": "P1-12-FAMILY-INDEPENDENT",
+    "objectives": [
+      "P1-p07-02"
+    ],
+    "mode": "independent",
+    "prompt": "Make 9 counters. Split them into 4 and 5. Complete <b>4 + __ = 9</b>, <b>5 + __ = 9</b>, <b>9 - 4 = __</b> and <b>9 - 5 = __</b>. Keep the same whole.",
+    "answer": "5,4,5,4;4+5=9;5+4=9;9-4=5;9-5=4.",
+    "equations": [
+      "4+5=9",
+      "5+4=9",
+      "9-4=5",
+      "9-5=4"
+    ],
+    "pages": {
+      "textbook": [
+        16,
+        34
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        34
+      ]
+    }
+  },
+  {
+    "id": "P1-12-A-HELP",
+    "objectives": [
+      "P1-p06-01"
+    ],
+    "mode": "help",
+    "prompt": "Make 3 counters. Keep 1 as the known part. Count the other 2: <b>1 + 2 = 3</b>. Replace the blank in 1 + __ = 3 with 2.",
+    "answer": "2;1+2=3.",
+    "equations": [
+      "1+2=3"
+    ],
+    "pages": {
+      "textbook": [
+        17,
+        34
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        34
+      ]
+    }
+  },
+  {
+    "id": "P1-12-A-RECHECK",
+    "objectives": [
+      "P1-p06-01"
+    ],
+    "mode": "recheck",
+    "prompt": "Use a new set. Find <b>1 + __ = 5</b>. Replace the blank and check.",
+    "answer": "4;1+4=5.",
+    "equations": [
+      "1+4=5"
+    ],
+    "pages": {
+      "textbook": [
+        17,
+        34
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        34
+      ]
+    }
+  },
+  {
+    "id": "P1-12-B-HELP",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "help",
+    "prompt": "A card claims 1 book and 1 more make 3. Join two counters: <b>1 + 1 = 2</b>. The claim is wrong.",
+    "answer": "2;claim3 wrong.",
+    "equations": [
+      "1+1=2"
+    ],
+    "pages": {
+      "textbook": [
+        18,
+        35
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "P1-12-B-RECHECK",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "recheck",
+    "prompt": "A new card claims 1 book and 3 more make 5. Check with counters and correct it.",
+    "answer": "4;claim5 wrong;1+3=4.",
+    "equations": [
+      "1+3=4"
+    ],
+    "pages": {
+      "textbook": [
+        18,
+        35
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "P1-12-C-HELP",
+    "objectives": [
+      "P1-p06-03"
+    ],
+    "mode": "help",
+    "prompt": "Start with 4 counters. Keep 1; move 3 aside: <b>4 - 3 = 1</b>. For an unknown start, join the 1 left and 3 removed: <b>1 + 3 = 4</b>.",
+    "answer": "3 removed;4 start.",
+    "equations": [
+      "4-3=1",
+      "1+3=4"
+    ],
+    "pages": {
+      "textbook": [
+        19,
+        35
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "P1-12-C-RECHECK",
+    "objectives": [
+      "P1-p06-03"
+    ],
+    "mode": "recheck",
+    "prompt": "Use new sets. Find <b>6 - __ = 2</b> and <b>__ - 2 = 3</b>. Check both original sentences.",
+    "answer": "4 and5;6-4=2;5-2=3.",
+    "equations": [
+      "6-4=2",
+      "5-2=3"
+    ],
+    "pages": {
+      "textbook": [
+        19,
+        35
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "P1-12-D-HELP",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "help",
+    "prompt": "Take 1 counter from 3. Two remain: <b>3 - 1 = 2</b>. A claim of 1 remaining is wrong. Put it back: <b>2 + 1 = 3</b>.",
+    "answer": "2;claim1 wrong.",
+    "equations": [
+      "3-1=2",
+      "2+1=3"
+    ],
+    "pages": {
+      "textbook": [
+        20,
+        35
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "P1-12-D-RECHECK",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "recheck",
+    "prompt": "A new card says 5 chalk pieces, 3 used, 3 left. Check and correct it. Add back.",
+    "answer": "2;5-3=2;2+3=5.",
+    "equations": [
+      "5-3=2",
+      "2+3=5"
+    ],
+    "pages": {
+      "textbook": [
+        20,
+        36
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "P1-12-E-HELP",
+    "objectives": [
+      "P1-p07-01"
+    ],
+    "mode": "help",
+    "prompt": "Make 3 counters in parts 1 and 2. <b>3 = 1 + 2</b>. Both sides have 3. In 3 = __ + 2 the blank is 1.",
+    "answer": "1;3=1+2.",
+    "equations": [
+      "3=1+2"
+    ],
+    "pages": {
+      "textbook": [
+        21,
+        36
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "P1-12-E-RECHECK",
+    "objectives": [
+      "P1-p07-01"
+    ],
+    "mode": "recheck",
+    "prompt": "Find <b>4 = __ + 1</b>. Replace the blank. Tell why both sides are equal.",
+    "answer": "3;4=3+1.",
+    "equations": [
+      "4=3+1"
+    ],
+    "pages": {
+      "textbook": [
+        21,
+        36
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "P1-12-F-HELP",
+    "objectives": [
+      "P1-p07-02"
+    ],
+    "mode": "help",
+    "prompt": "Make 3 counters in parts 1 and 2. Join: <b>1 + 2 = 3</b>. Remove 1 from that same whole: <b>3 - 1 = 2</b>.",
+    "answer": "2 and2.",
+    "equations": [
+      "1+2=3",
+      "3-1=2"
+    ],
+    "pages": {
+      "textbook": [
+        22,
+        36
+      ],
+      "workbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "P1-12-F-RECHECK",
+    "objectives": [
+      "P1-p07-02"
+    ],
+    "mode": "recheck",
+    "prompt": "Make 6 counters in parts 2 and 4. Complete <b>2 + __ = 6</b> and <b>6 - 2 = __</b>. Explain how the parts help.",
+    "answer": "4 and4;2+4=6;6-2=4.",
+    "equations": [
+      "2+4=6",
+      "6-2=4"
+    ],
+    "pages": {
+      "textbook": [
+        22,
+        36
+      ],
+      "workbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "P1-12-STORY",
+    "objectives": [
+      "P1-p06-01",
+      "P1-p07-01"
+    ],
+    "mode": "resolution",
+    "prompt": "Find the hidden part in 3 + __ = 7.",
+    "answer": "4 hidden;3+4=7.",
+    "equations": [
+      "3+4=7"
+    ],
+    "pages": {
+      "textbook": [
+        23,
+        37
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "P1-12-A-FRESH",
+    "objectives": [
+      "P1-p06-01"
+    ],
+    "mode": "fresh",
+    "prompt": "There are 9 toy wheels altogether. One tray has 2. Find the missing part: <b>__ + 2 = 9</b>. Check.",
+    "answer": "7;7+2=9.",
+    "equations": [
+      "7+2=9"
+    ],
+    "pages": {
+      "textbook": [
+        24,
+        37
+      ],
+      "workbook": [
+        12
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "P1-12-B-FRESH",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "fresh",
+    "prompt": "A shelf has 6 books. We add 3. A new card claims 8 books. Check with objects and correct it.",
+    "answer": "9;6+3=9;claim8 wrong.",
+    "equations": [
+      "6+3=9"
+    ],
+    "pages": {
+      "textbook": [
+        24,
+        37
+      ],
+      "workbook": [
+        12
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "P1-12-C-FRESH",
+    "objectives": [
+      "P1-p06-03"
+    ],
+    "mode": "fresh",
+    "prompt": "We start with 9 lids and finish with 2. Find <b>9 - __ = 2</b>. Then find the start in <b>__ - 4 = 3</b>. Check both.",
+    "answer": "7 and7;9-7=2;7-4=3.",
+    "equations": [
+      "9-7=2",
+      "7-4=3"
+    ],
+    "pages": {
+      "textbook": [
+        25,
+        37
+      ],
+      "workbook": [
+        13
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "P1-12-D-FRESH",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "fresh",
+    "prompt": "We have 8 chalk pieces and use 6. A new card claims 3 remain. Check it and correct it. Add back.",
+    "answer": "2;8-6=2;2+6=8;claim3 wrong.",
+    "equations": [
+      "8-6=2",
+      "2+6=8"
+    ],
+    "pages": {
+      "textbook": [
+        25,
+        37
+      ],
+      "workbook": [
+        13
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "P1-12-E-FRESH",
+    "objectives": [
+      "P1-p07-01"
+    ],
+    "mode": "fresh",
+    "prompt": "Find <b>8 = __ + 1</b>. Replace the blank and explain why both sides are equal.",
+    "answer": "7;8=7+1.",
+    "equations": [
+      "8=7+1"
+    ],
+    "pages": {
+      "textbook": [
+        26,
+        38
+      ],
+      "workbook": [
+        14
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        38
+      ]
+    }
+  },
+  {
+    "id": "P1-12-F-FRESH",
+    "objectives": [
+      "P1-p07-02"
+    ],
+    "mode": "fresh",
+    "prompt": "Build 7 counters in parts 1 and 6. Complete <b>1 + __ = 7</b> and <b>7 - 1 = __</b>. Explain why the same part fills both blanks.",
+    "answer": "6 and6;1+6=7;7-1=6.",
+    "equations": [
+      "1+6=7",
+      "7-1=6"
+    ],
+    "pages": {
+      "textbook": [
+        26,
+        38
+      ],
+      "workbook": [
+        14
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        38
+      ]
+    }
+  },
+  {
+    "id": "P1-12-A-DELAYED",
+    "objectives": [
+      "P1-p06-01"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session, with models closed: find 4 + __ = 8. Substitute and check.",
+    "answer": "4;4+4=8.",
+    "equations": [
+      "4+4=8"
+    ],
+    "pages": {
+      "textbook": [
+        38
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        38
+      ]
+    }
+  },
+  {
+    "id": "P1-12-B-DELAYED",
+    "objectives": [
+      "P1-p06-02"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session: a child has 2 books and receives 6 more. Someone claims 7. Check with objects and correct.",
+    "answer": "8;2+6=8;claim7 wrong.",
+    "equations": [
+      "2+6=8"
+    ],
+    "pages": {
+      "textbook": [
+        38
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        38
+      ]
+    }
+  },
+  {
+    "id": "P1-12-C-DELAYED",
+    "objectives": [
+      "P1-p06-03"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session: find 9 - __ = 6 and __ - 5 = 3. Reconstruct and check the original sentences.",
+    "answer": "3 and8;9-3=6;8-5=3.",
+    "equations": [
+      "9-3=6",
+      "8-5=3"
+    ],
+    "pages": {
+      "textbook": [
+        38
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        38
+      ]
+    }
+  },
+  {
+    "id": "P1-12-D-DELAYED",
+    "objectives": [
+      "P1-p06-04"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session: 9 chalk pieces, 2 used; someone claims 8 remain. Check and correct, then add back.",
+    "answer": "7;9-2=7;7+2=9;claim8 wrong.",
+    "equations": [
+      "9-2=7",
+      "7+2=9"
+    ],
+    "pages": {
+      "textbook": [
+        39
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        39
+      ]
+    }
+  },
+  {
+    "id": "P1-12-E-DELAYED",
+    "objectives": [
+      "P1-p07-01"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session: find 9 = __ + 4. Explain equality after substitution.",
+    "answer": "5;9=5+4.",
+    "equations": [
+      "9=5+4"
+    ],
+    "pages": {
+      "textbook": [
+        39
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        39
+      ]
+    }
+  },
+  {
+    "id": "P1-12-F-DELAYED",
+    "objectives": [
+      "P1-p07-02"
+    ],
+    "mode": "delayed",
+    "prompt": "At a later session: build 8 counters in parts 3 and 5. Complete 3 + __ = 8 and 8 - 3 = __. Explain the relationship.",
+    "answer": "5 and5;3+5=8;8-3=5.",
+    "equations": [
+      "3+5=8",
+      "8-3=5"
+    ],
+    "pages": {
+      "textbook": [
+        39
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        39
+      ]
+    }
+  }
+]

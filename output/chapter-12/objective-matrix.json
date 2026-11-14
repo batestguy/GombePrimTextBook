@@ -1,0 +1,921 @@
+{
+  "P1-p06-01": {
+    "model": [
+      {
+        "id": "P1-12-EQUAL-MODEL",
+        "answer": "2 + 3 = 5 and 5 = 2 + 3 describe equal amounts. Blank in 2 + __ = 5 is 3.",
+        "pages": {
+          "textbook": [
+            2,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-LAST-MODEL",
+        "answer": "3; substitute 1+3=4.",
+        "pages": {
+          "textbook": [
+            3,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-FIRST-MODEL",
+        "answer": "4; 4+2=6.",
+        "pages": {
+          "textbook": [
+            4,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REVERSE-MODEL",
+        "answer": "4;6=2+4.",
+        "pages": {
+          "textbook": [
+            7,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-CHECK-MODEL",
+        "answer": "3;4+3=7;4+2=6 does not equal7.",
+        "pages": {
+          "textbook": [
+            8,
+            31
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-ADD-LAST-GUIDED",
+        "answer": "5; 3+5=8.",
+        "pages": {
+          "textbook": [
+            3,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-FIRST-GUIDED",
+        "answer": "2; 2+4=6.",
+        "pages": {
+          "textbook": [
+            4,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REVERSE-GUIDED",
+        "answer": "5;7=5+2;5+2=7.",
+        "pages": {
+          "textbook": [
+            7,
+            31
+          ]
+        }
+      },
+      {
+        "id": "P1-12-CHECK-GUIDED",
+        "answer": "4 fails:2+4=6;5 works:2+5=7.",
+        "pages": {
+          "textbook": [
+            8,
+            31
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-12-Q1",
+        "answer": "4;2+4=6.",
+        "pages": {
+          "textbook": [
+            12,
+            32
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q2",
+        "answer": "5;5+3=8.",
+        "pages": {
+          "textbook": [
+            12,
+            33
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q5",
+        "answer": "4;5=4+1.",
+        "pages": {
+          "textbook": [
+            14,
+            33
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q6",
+        "answer": "5;4+5=9;both sides equal9.",
+        "pages": {
+          "textbook": [
+            14,
+            33
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-A-HELP",
+        "answer": "2;1+2=3.",
+        "pages": {
+          "textbook": [
+            17,
+            34
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-A-RECHECK",
+        "answer": "4;1+4=5.",
+        "pages": {
+          "textbook": [
+            17,
+            34
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-A-FRESH",
+        "answer": "7;7+2=9.",
+        "pages": {
+          "textbook": [
+            24,
+            37
+          ],
+          "workbook": [
+            12
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-A-DELAYED",
+        "answer": "4;4+4=8.",
+        "pages": {
+          "textbook": [
+            38
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p06-02": {
+    "model": [
+      {
+        "id": "P1-12-EVERY-ADD-MODEL",
+        "answer": "Claim6 wrong;2+3=5.",
+        "pages": {
+          "textbook": [
+            10,
+            32
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-EVERY-ADD-GUIDED",
+        "answer": "Claim5 correct;3+2=5.",
+        "pages": {
+          "textbook": [
+            10,
+            32
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "S006",
+        "answer": "4+3=7;claim8 is wrong.",
+        "pages": {
+          "textbook": [
+            15,
+            34
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-B-HELP",
+        "answer": "2;claim3 wrong.",
+        "pages": {
+          "textbook": [
+            18,
+            35
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-B-RECHECK",
+        "answer": "4;claim5 wrong;1+3=4.",
+        "pages": {
+          "textbook": [
+            18,
+            35
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-B-FRESH",
+        "answer": "9;6+3=9;claim8 wrong.",
+        "pages": {
+          "textbook": [
+            24,
+            37
+          ],
+          "workbook": [
+            12
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-B-DELAYED",
+        "answer": "8;2+6=8;claim7 wrong.",
+        "pages": {
+          "textbook": [
+            38
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p06-03": {
+    "model": [
+      {
+        "id": "P1-12-REMOVE-MODEL",
+        "answer": "5; 8-5=3;3+5=8.",
+        "pages": {
+          "textbook": [
+            5,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-START-MODEL",
+        "answer": "7;4+3=7;7-3=4.",
+        "pages": {
+          "textbook": [
+            6,
+            30
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-REMOVE-GUIDED",
+        "answer": "3;7-3=4;4+3=7.",
+        "pages": {
+          "textbook": [
+            5,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-START-GUIDED",
+        "answer": "6;5+1=6;6-1=5.",
+        "pages": {
+          "textbook": [
+            6,
+            30
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-12-Q3",
+        "answer": "5;9-5=4;4+5=9.",
+        "pages": {
+          "textbook": [
+            13,
+            33
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q4",
+        "answer": "8;6+2=8;8-2=6.",
+        "pages": {
+          "textbook": [
+            13,
+            33
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-C-HELP",
+        "answer": "3 removed;4 start.",
+        "pages": {
+          "textbook": [
+            19,
+            35
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-C-RECHECK",
+        "answer": "4 and5;6-4=2;5-2=3.",
+        "pages": {
+          "textbook": [
+            19,
+            35
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-C-FRESH",
+        "answer": "7 and7;9-7=2;7-4=3.",
+        "pages": {
+          "textbook": [
+            25,
+            37
+          ],
+          "workbook": [
+            13
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-C-DELAYED",
+        "answer": "3 and8;9-3=6;8-5=3.",
+        "pages": {
+          "textbook": [
+            38
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p06-04": {
+    "model": [
+      {
+        "id": "P1-12-EVERY-SUB-MODEL",
+        "answer": "Claim4 wrong;7-2=5;5+2=7.",
+        "pages": {
+          "textbook": [
+            11,
+            32
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-EVERY-SUB-GUIDED",
+        "answer": "Claim5 correct;8-3=5;5+3=8.",
+        "pages": {
+          "textbook": [
+            11,
+            32
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "S007",
+        "answer": "9-4=5;5+4=9;claim6 is wrong.",
+        "pages": {
+          "textbook": [
+            15,
+            34
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-D-HELP",
+        "answer": "2;claim1 wrong.",
+        "pages": {
+          "textbook": [
+            20,
+            35
+          ],
+          "workbook": [
+            9
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-D-RECHECK",
+        "answer": "2;5-3=2;2+3=5.",
+        "pages": {
+          "textbook": [
+            20,
+            36
+          ],
+          "workbook": [
+            9
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-D-FRESH",
+        "answer": "2;8-6=2;2+6=8;claim3 wrong.",
+        "pages": {
+          "textbook": [
+            25,
+            37
+          ],
+          "workbook": [
+            13
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-D-DELAYED",
+        "answer": "7;9-2=7;7+2=9;claim8 wrong.",
+        "pages": {
+          "textbook": [
+            39
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p07-01": {
+    "model": [
+      {
+        "id": "P1-12-EQUAL-MODEL",
+        "answer": "2 + 3 = 5 and 5 = 2 + 3 describe equal amounts. Blank in 2 + __ = 5 is 3.",
+        "pages": {
+          "textbook": [
+            2,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-LAST-MODEL",
+        "answer": "3; substitute 1+3=4.",
+        "pages": {
+          "textbook": [
+            3,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-FIRST-MODEL",
+        "answer": "4; 4+2=6.",
+        "pages": {
+          "textbook": [
+            4,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REMOVE-MODEL",
+        "answer": "5; 8-5=3;3+5=8.",
+        "pages": {
+          "textbook": [
+            5,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-START-MODEL",
+        "answer": "7;4+3=7;7-3=4.",
+        "pages": {
+          "textbook": [
+            6,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REVERSE-MODEL",
+        "answer": "4;6=2+4.",
+        "pages": {
+          "textbook": [
+            7,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-CHECK-MODEL",
+        "answer": "3;4+3=7;4+2=6 does not equal7.",
+        "pages": {
+          "textbook": [
+            8,
+            31
+          ]
+        }
+      },
+      {
+        "id": "P1-12-FAMILY-MODEL",
+        "answer": "2+5=7;5+2=7;7-2=5;7-5=2.",
+        "pages": {
+          "textbook": [
+            9,
+            31
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-ADD-LAST-GUIDED",
+        "answer": "5; 3+5=8.",
+        "pages": {
+          "textbook": [
+            3,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-ADD-FIRST-GUIDED",
+        "answer": "2; 2+4=6.",
+        "pages": {
+          "textbook": [
+            4,
+            29
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REMOVE-GUIDED",
+        "answer": "3;7-3=4;4+3=7.",
+        "pages": {
+          "textbook": [
+            5,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-START-GUIDED",
+        "answer": "6;5+1=6;6-1=5.",
+        "pages": {
+          "textbook": [
+            6,
+            30
+          ]
+        }
+      },
+      {
+        "id": "P1-12-REVERSE-GUIDED",
+        "answer": "5;7=5+2;5+2=7.",
+        "pages": {
+          "textbook": [
+            7,
+            31
+          ]
+        }
+      },
+      {
+        "id": "P1-12-CHECK-GUIDED",
+        "answer": "4 fails:2+4=6;5 works:2+5=7.",
+        "pages": {
+          "textbook": [
+            8,
+            31
+          ]
+        }
+      },
+      {
+        "id": "P1-12-FAMILY-GUIDED",
+        "answer": "4 and4;3+4=7;7-3=4.",
+        "pages": {
+          "textbook": [
+            9,
+            31
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-12-Q1",
+        "answer": "4;2+4=6.",
+        "pages": {
+          "textbook": [
+            12,
+            32
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q2",
+        "answer": "5;5+3=8.",
+        "pages": {
+          "textbook": [
+            12,
+            33
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q3",
+        "answer": "5;9-5=4;4+5=9.",
+        "pages": {
+          "textbook": [
+            13,
+            33
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q4",
+        "answer": "8;6+2=8;8-2=6.",
+        "pages": {
+          "textbook": [
+            13,
+            33
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q5",
+        "answer": "4;5=4+1.",
+        "pages": {
+          "textbook": [
+            14,
+            33
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-12-Q6",
+        "answer": "5;4+5=9;both sides equal9.",
+        "pages": {
+          "textbook": [
+            14,
+            33
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-E-HELP",
+        "answer": "1;3=1+2.",
+        "pages": {
+          "textbook": [
+            21,
+            36
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-E-RECHECK",
+        "answer": "3;4=3+1.",
+        "pages": {
+          "textbook": [
+            21,
+            36
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-E-FRESH",
+        "answer": "7;8=7+1.",
+        "pages": {
+          "textbook": [
+            26,
+            38
+          ],
+          "workbook": [
+            14
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-E-DELAYED",
+        "answer": "5;9=5+4.",
+        "pages": {
+          "textbook": [
+            39
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p07-02": {
+    "model": [
+      {
+        "id": "P1-12-FAMILY-MODEL",
+        "answer": "2+5=7;5+2=7;7-2=5;7-5=2.",
+        "pages": {
+          "textbook": [
+            9,
+            31
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-12-FAMILY-GUIDED",
+        "answer": "4 and4;3+4=7;7-3=4.",
+        "pages": {
+          "textbook": [
+            9,
+            31
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-12-FAMILY-INDEPENDENT",
+        "answer": "5,4,5,4;4+5=9;5+4=9;9-4=5;9-5=4.",
+        "pages": {
+          "textbook": [
+            16,
+            34
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-12-F-HELP",
+        "answer": "2 and2.",
+        "pages": {
+          "textbook": [
+            22,
+            36
+          ],
+          "workbook": [
+            11
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-12-F-RECHECK",
+        "answer": "4 and4;2+4=6;6-2=4.",
+        "pages": {
+          "textbook": [
+            22,
+            36
+          ],
+          "workbook": [
+            11
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-12-F-FRESH",
+        "answer": "6 and6;1+6=7;7-1=6.",
+        "pages": {
+          "textbook": [
+            26,
+            38
+          ],
+          "workbook": [
+            14
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-12-F-DELAYED",
+        "answer": "5 and5;3+5=8;8-3=5.",
+        "pages": {
+          "textbook": [
+            39
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "pages": 14,
+  "sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+  "page_manifest": [
+    {
+      "slug": "c12-13",
+      "kicker": "Find a missing part / Workbook page 1",
+      "title": "Find each missing part",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-Q1",
+        "P1-12-Q2"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-15",
+      "kicker": "Find a missing part / Workbook page 2",
+      "title": "Find what changed",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-Q3",
+        "P1-12-Q4"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-17",
+      "kicker": "Find a missing part / Workbook page 3",
+      "title": "Equal amounts; check again",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-Q5",
+        "P1-12-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-19",
+      "kicker": "Find a missing part / Workbook page 4",
+      "title": "Check the story cards",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "S006",
+        "S007"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-21",
+      "kicker": "Find a missing part / Workbook page 5",
+      "title": "Keep the whole; find both parts",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-FAMILY-INDEPENDENT"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-23",
+      "kicker": "Find a missing part / Workbook page 6",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-A-HELP",
+        "P1-12-A-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-25",
+      "kicker": "Find a missing part / Workbook page 7",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-B-HELP",
+        "P1-12-B-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-27",
+      "kicker": "Find a missing part / Workbook page 8",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-C-HELP",
+        "P1-12-C-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-29",
+      "kicker": "Find a missing part / Workbook page 9",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-D-HELP",
+        "P1-12-D-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-31",
+      "kicker": "Find a missing part / Workbook page 10",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-E-HELP",
+        "P1-12-E-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-33",
+      "kicker": "Find a missing part / Workbook page 11",
+      "title": "A smaller step; a new try",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-F-HELP",
+        "P1-12-F-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-36",
+      "kicker": "Find a missing part / Workbook page 12",
+      "title": "Show what you can do afresh",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-A-FRESH",
+        "P1-12-B-FRESH"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-38",
+      "kicker": "Find a missing part / Workbook page 13",
+      "title": "Show what you can do afresh",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-C-FRESH",
+        "P1-12-D-FRESH"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-40",
+      "kicker": "Find a missing part / Workbook page 14",
+      "title": "Show what you can do afresh",
+      "subtitle": "Write or draw in the spaces. Say your check.",
+      "task_ids": [
+        "P1-12-E-FRESH",
+        "P1-12-F-FRESH"
+      ],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-12-Q1": [
+      1
+    ],
+    "P1-12-Q2": [
+      1
+    ],
+    "P1-12-Q3": [
+      2
+    ],
+    "P1-12-Q4": [
+      2
+    ],
+    "P1-12-Q5": [
+      3
+    ],
+    "P1-12-Q6": [
+      3
+    ],
+    "S006": [
+      4
+    ],
+    "S007": [
+      4
+    ],
+    "P1-12-FAMILY-INDEPENDENT": [
+      5
+    ],
+    "P1-12-A-HELP": [
+      6
+    ],
+    "P1-12-A-RECHECK": [
+      6
+    ],
+    "P1-12-B-HELP": [
+      7
+    ],
+    "P1-12-B-RECHECK": [
+      7
+    ],
+    "P1-12-C-HELP": [
+      8
+    ],
+    "P1-12-C-RECHECK": [
+      8
+    ],
+    "P1-12-D-HELP": [
+      9
+    ],
+    "P1-12-D-RECHECK": [
+      9
+    ],
+    "P1-12-E-HELP": [
+      10
+    ],
+    "P1-12-E-RECHECK": [
+      10
+    ],
+    "P1-12-F-HELP": [
+      11
+    ],
+    "P1-12-F-RECHECK": [
+      11
+    ],
+    "P1-12-A-FRESH": [
+      12
+    ],
+    "P1-12-B-FRESH": [
+      12
+    ],
+    "P1-12-C-FRESH": [
+      13
+    ],
+    "P1-12-D-FRESH": [
+      13
+    ],
+    "P1-12-E-FRESH": [
+      14
+    ],
+    "P1-12-F-FRESH": [
+      14
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

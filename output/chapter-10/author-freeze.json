@@ -1,0 +1,20 @@
+{
+  "author": "Codex /root",
+  "date": "2026-11-02",
+  "fingerprint": "35d15258dc61f707eeda19cb543878f6ea66d66184adeaf29cc8c7e3158ace8d",
+  "hashes": {
+    "production/p1.json": "044a42b5f4bc34dc424997b0556f8261e0181c7294bd774e19f7563869febaed",
+    "production/lessons.json": "cd75a3a7fd6e6f5e23e0e64b785b6f694e93c6acb87e6146b7c827ca663d3204",
+    "scripts/build_chapter_ten.py": "f5587b171089ae68eaa44b3595c231842fb7895e2d879c2e8c30bc03669c1a92",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39"
+  },
+  "status": "pending_independent_review",
+  "author_visual": "All22individualPNGpages opened with view_image, in addition to five contact sheets. Checked board/characters, countable strips, placecolumns, text hierarchy, response areas and clipping. No visual defects found by author; independent review pending.",
+  "validation": [
+    "chapter build15TB7WB25taskIDs;exactvectorcounts,A4,fonts,bounds",
+    "canonical63lessons247pages;historicalQuarto247page build",
+    "legacyvalidate;samplematcheshistoricalsource textandpixels,then restoredexactcurrentbackup",
+    "114originalP1prompts/answers/order;18otherlessons;16earlierPDFs;protectedsharedsources unchanged"
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "checks": [
+    "Independently parsed all arithmetic as integer addition/subtraction",
+    "All six objectives have page-specific model/guided/independent/help/recheck/fresh/delayed records",
+    "Actual PDF dot centres match every ledger coordinate one-to-one; no extra assessment dots"
+  ],
+  "task_count": 53,
+  "equations": [
+    {
+      "task": "P1-12-EQUAL-MODEL",
+      "equation": "2+3=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-EQUAL-MODEL",
+      "equation": "5=2+3",
+      "value": 5
+    },
+    {
+      "task": "P1-12-ADD-LAST-MODEL",
+      "equation": "1+3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-ADD-LAST-GUIDED",
+      "equation": "3+5=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-ADD-FIRST-MODEL",
+      "equation": "4+2=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-ADD-FIRST-GUIDED",
+      "equation": "2+4=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-REMOVE-MODEL",
+      "equation": "8-5=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-REMOVE-MODEL",
+      "equation": "3+5=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-REMOVE-GUIDED",
+      "equation": "7-3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-REMOVE-GUIDED",
+      "equation": "4+3=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-START-MODEL",
+      "equation": "4+3=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-START-MODEL",
+      "equation": "7-3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-START-GUIDED",
+      "equation": "5+1=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-START-GUIDED",
+      "equation": "6-1=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-REVERSE-MODEL",
+      "equation": "2+4=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-REVERSE-MODEL",
+      "equation": "6=2+4",
+      "value": 6
+    },
+    {
+      "task": "P1-12-REVERSE-GUIDED",
+      "equation": "7=5+2",
+      "value": 7
+    },
+    {
+      "task": "P1-12-REVERSE-GUIDED",
+      "equation": "5+2=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-CHECK-MODEL",
+      "equation": "4+3=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-CHECK-MODEL",
+      "equation": "4+2=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-CHECK-GUIDED",
+      "equation": "2+4=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-CHECK-GUIDED",
+      "equation": "2+5=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-FAMILY-MODEL",
+      "equation": "2+5=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-FAMILY-MODEL",
+      "equation": "5+2=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-FAMILY-MODEL",
+      "equation": "7-2=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-FAMILY-MODEL",
+      "equation": "7-5=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-FAMILY-GUIDED",
+      "equation": "3+4=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-FAMILY-GUIDED",
+      "equation": "7-3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-EVERY-ADD-MODEL",
+      "equation": "2+3=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-EVERY-ADD-GUIDED",
+      "equation": "3+2=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-EVERY-SUB-MODEL",
+      "equation": "7-2=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-EVERY-SUB-MODEL",
+      "equation": "5+2=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-EVERY-SUB-GUIDED",
+      "equation": "8-3=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-EVERY-SUB-GUIDED",
+      "equation": "5+3=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-Q1",
+      "equation": "2+4=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-Q2",
+      "equation": "5+3=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-Q3",
+      "equation": "9-5=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-Q3",
+      "equation": "4+5=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-Q4",
+      "equation": "6+2=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-Q4",
+      "equation": "8-2=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-Q5",
+      "equation": "5=4+1",
+      "value": 5
+    },
+    {
+      "task": "P1-12-Q6",
+      "equation": "4+5=9",
+      "value": 9
+    },
+    {
+      "task": "S006",
+      "equation": "4+3=7",
+      "value": 7
+    },
+    {
+      "task": "S007",
+      "equation": "9-4=5",
+      "value": 5
+    },
+    {
+      "task": "S007",
+      "equation": "5+4=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-FAMILY-INDEPENDENT",
+      "equation": "4+5=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-FAMILY-INDEPENDENT",
+      "equation": "5+4=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-FAMILY-INDEPENDENT",
+      "equation": "9-4=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-FAMILY-INDEPENDENT",
+      "equation": "9-5=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-A-HELP",
+      "equation": "1+2=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-A-RECHECK",
+      "equation": "1+4=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-B-HELP",
+      "equation": "1+1=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-B-RECHECK",
+      "equation": "1+3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-C-HELP",
+      "equation": "4-3=1",
+      "value": 1
+    },
+    {
+      "task": "P1-12-C-HELP",
+      "equation": "1+3=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-C-RECHECK",
+      "equation": "6-4=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-C-RECHECK",
+      "equation": "5-2=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-D-HELP",
+      "equation": "3-1=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-D-HELP",
+      "equation": "2+1=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-D-RECHECK",
+      "equation": "5-3=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-D-RECHECK",
+      "equation": "2+3=5",
+      "value": 5
+    },
+    {
+      "task": "P1-12-E-HELP",
+      "equation": "3=1+2",
+      "value": 3
+    },
+    {
+      "task": "P1-12-E-RECHECK",
+      "equation": "4=3+1",
+      "value": 4
+    },
+    {
+      "task": "P1-12-F-HELP",
+      "equation": "1+2=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-F-HELP",
+      "equation": "3-1=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-F-RECHECK",
+      "equation": "2+4=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-F-RECHECK",
+      "equation": "6-2=4",
+      "value": 4
+    },
+    {
+      "task": "P1-12-STORY",
+      "equation": "3+4=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-A-FRESH",
+      "equation": "7+2=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-B-FRESH",
+      "equation": "6+3=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-C-FRESH",
+      "equation": "9-7=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-C-FRESH",
+      "equation": "7-4=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-D-FRESH",
+      "equation": "8-6=2",
+      "value": 2
+    },
+    {
+      "task": "P1-12-D-FRESH",
+      "equation": "2+6=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-E-FRESH",
+      "equation": "8=7+1",
+      "value": 8
+    },
+    {
+      "task": "P1-12-F-FRESH",
+      "equation": "1+6=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-F-FRESH",
+      "equation": "7-1=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-A-DELAYED",
+      "equation": "4+4=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-B-DELAYED",
+      "equation": "2+6=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-C-DELAYED",
+      "equation": "9-3=6",
+      "value": 6
+    },
+    {
+      "task": "P1-12-C-DELAYED",
+      "equation": "8-5=3",
+      "value": 3
+    },
+    {
+      "task": "P1-12-D-DELAYED",
+      "equation": "9-2=7",
+      "value": 7
+    },
+    {
+      "task": "P1-12-D-DELAYED",
+      "equation": "7+2=9",
+      "value": 9
+    },
+    {
+      "task": "P1-12-E-DELAYED",
+      "equation": "9=5+4",
+      "value": 9
+    },
+    {
+      "task": "P1-12-F-DELAYED",
+      "equation": "3+5=8",
+      "value": 8
+    },
+    {
+      "task": "P1-12-F-DELAYED",
+      "equation": "8-3=5",
+      "value": 5
+    }
+  ],
+  "artifacts": [
+    {
+      "role": "textbook",
+      "pages": 40,
+      "actual_dot_centres": 69,
+      "sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c"
+    },
+    {
+      "role": "workbook",
+      "pages": 14,
+      "actual_dot_centres": 0,
+      "sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b"
+    }
+  ],
+  "task_coverage_sha256": "a993cfca4d15f8883e90414bf479083d15525ee18191f0170dfdf87fe96801a0"
+}

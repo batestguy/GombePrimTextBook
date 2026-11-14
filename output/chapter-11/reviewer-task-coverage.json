@@ -1,0 +1,2420 @@
+[
+  {
+    "chapter": "P1-01",
+    "source_tasks": [
+      {
+        "id": "P1-01-Q1",
+        "source_prompt": "Count row A. Write the number.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-01-Q2",
+        "source_prompt": "Count row B. Write the number.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-01-Q3",
+        "source_prompt": "Draw 2 circles.",
+        "source_answer": "Two separate circles."
+      },
+      {
+        "id": "P1-01-Q4",
+        "source_prompt": "Write 1 to 5 in order.",
+        "source_answer": "1, 2, 3, 4, 5"
+      },
+      {
+        "id": "P1-01-Q5",
+        "source_prompt": "Show 4 fingers. How many?",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-01-Q6",
+        "source_prompt": "Musa counts one top twice. Show a better way.",
+        "source_answer": "Touch or move each top exactly once."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-01-Q1": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-01-Q2": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-01-Q3": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-01-Q4": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-01-Q5": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-01-Q6": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-01-FRESH-SET": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-01-FRESH-READ": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-01-FRESH-RECOGNISE": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=3,5,2circles,1..5,4,count once/state3;model3,ladder1..5,2cup/2circle;fresh requested1..5 must match;story4cups/4friends."
+  },
+  {
+    "chapter": "P1-02",
+    "source_tasks": [
+      {
+        "id": "P1-02-Q1",
+        "source_prompt": "Order: 4, 1, 3.",
+        "source_answer": "1, 3, 4"
+      },
+      {
+        "id": "P1-02-Q2",
+        "source_prompt": "Draw sets of 1 and 3 dots.",
+        "source_answer": "One dot in one set; three in the other."
+      },
+      {
+        "id": "P1-02-Q3",
+        "source_prompt": "Which has more: 2 tops or 5 tops?",
+        "source_answer": "5 tops"
+      },
+      {
+        "id": "P1-02-Q4",
+        "source_prompt": "Which has fewer: 4 leaves or 3 leaves?",
+        "source_answer": "3 leaves"
+      },
+      {
+        "id": "P1-02-Q5",
+        "source_prompt": "Make a set of 5 objects.",
+        "source_answer": "Exactly five objects."
+      },
+      {
+        "id": "P1-02-Q6",
+        "source_prompt": "Explain how to compare two sets.",
+        "source_answer": "Match one to one or count both sets."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-02-SORT": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-02-EQUAL": {
+        "textbook": [
+          13
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-02-Q1": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-02-Q2": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-02-Q3": {
+        "textbook": [
+          15
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-02-Q4": {
+        "textbook": [
+          15
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-02-Q5": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "P1-02-Q6": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "P1-02-SUPPORT": {
+        "textbook": [
+          16
+        ]
+      },
+      "P1-02-ENDING": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "P1-02-FRESH-SORT": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "P1-02-FRESH-COMPARE": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          10
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=1/3/4,separate1and3dots,5tops right,3leaves right,5objects,bijective matching/count both;2vs4 leaves2unmatched;3vs3 equal;fresh5leaves>4tops."
+  },
+  {
+    "chapter": "P1-03",
+    "source_tasks": [
+      {
+        "id": "P1-03-Q1",
+        "source_prompt": "Write the number for an empty set.",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-03-Q2",
+        "source_prompt": "Draw an empty box.",
+        "source_answer": "Box with nothing inside."
+      },
+      {
+        "id": "P1-03-Q3",
+        "source_prompt": "Complete: 0, 1, __, 3.",
+        "source_answer": "2"
+      },
+      {
+        "id": "P1-03-Q4",
+        "source_prompt": "Put all 3 tops away. How many remain?",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-03-Q5",
+        "source_prompt": "Say the word for 0.",
+        "source_answer": "zero"
+      },
+      {
+        "id": "P1-03-Q6",
+        "source_prompt": "Why does an empty basket have 0 oranges?",
+        "source_answer": "There are no oranges in it."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-03-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-03-GUIDED": {
+        "textbook": [
+          3
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-03-FORM-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-03-Q1": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-03-Q2": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-03-Q3": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-03-Q4": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-03-Q5": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-03-Q6": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-03-RECALL": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-03-SUPPORT": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-03-ENDING": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-03-FRESH-EMPTY": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-03-FRESH-RECOGNISE": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-03-FRESH-READ": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-03-FRESH-WRITE": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-03-FORM-PRACTICE": {
+        "workbook": [
+          2
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=0,empty outline,2,0,zero,no oranges;model2-to0/guided1-to0;story3stored/0mat;fresh0/2/4trays and covered0."
+  },
+  {
+    "chapter": "P1-04",
+    "source_tasks": [
+      {
+        "id": "P1-04-Q1",
+        "source_prompt": "Write the number after 6.",
+        "source_answer": "7"
+      },
+      {
+        "id": "P1-04-Q2",
+        "source_prompt": "Write the number before 9.",
+        "source_answer": "8"
+      },
+      {
+        "id": "P1-04-Q3",
+        "source_prompt": "Order: 9, 6, 8, 7.",
+        "source_answer": "6, 7, 8, 9"
+      },
+      {
+        "id": "P1-04-Q4",
+        "source_prompt": "Draw 6 dots.",
+        "source_answer": "Exactly six dots."
+      },
+      {
+        "id": "P1-04-Q5",
+        "source_prompt": "Count 9 objects for a partner.",
+        "source_answer": "Exactly nine objects counted once each."
+      },
+      {
+        "id": "P1-04-Q6",
+        "source_prompt": "How can you check a set of 8?",
+        "source_answer": "Recount once per object; the last word is eight."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-04-MODEL-6": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-04-MODEL-7": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-04-MODEL-8": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-04-MODEL-9": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-04-GUIDED-READ": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-04-FORM-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-04-SORT-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-04-GUIDED-SORT": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-04-S002": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-04-Q1": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-04-Q2": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-04-Q3": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-04-ORDER-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-04-Q4": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-04-Q5": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-04-Q6": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-04-DRAW-MODEL": {
+        "textbook": [
+          7
+        ]
+      },
+      "P1-04-RECALL": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-04-SUPPORT": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-04-ENDING": {
+        "textbook": [
+          8
+        ]
+      },
+      "P1-04-FRESH-COUNT": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-04-S003": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-04-S004": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-04-FORM-PRACTICE": {
+        "workbook": [
+          1
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=7,8,6/7/8/9,6dots,9objects,recount8;5+1..4=6..9;6+7+8+9=30pieces;new7afterhelp6;fresh8/9."
+  },
+  {
+    "chapter": "P1-05",
+    "source_tasks": [
+      {
+        "id": "P1-05-Q1",
+        "source_prompt": "1 ten and 2 ones make __.",
+        "source_answer": "12"
+      },
+      {
+        "id": "P1-05-Q2",
+        "source_prompt": "Write 16 as tens and ones.",
+        "source_answer": "1 ten and 6 ones"
+      },
+      {
+        "id": "P1-05-Q3",
+        "source_prompt": "How many ones make one ten?",
+        "source_answer": "10"
+      },
+      {
+        "id": "P1-05-Q4",
+        "source_prompt": "Complete: 17, 18, __, 20.",
+        "source_answer": "19"
+      },
+      {
+        "id": "P1-05-Q5",
+        "source_prompt": "Show 20 with bundles.",
+        "source_answer": "2 bundles of ten"
+      },
+      {
+        "id": "P1-05-Q6",
+        "source_prompt": "Explain why 10 and 1 differ.",
+        "source_answer": "Ten has ten ones; one has one one."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-05-TEN-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-05-GUIDED-BUNDLE": {
+        "textbook": [
+          2
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-05-PLACE-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-05-GUIDED-13": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-05-MODEL-11": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-05-MODEL-12": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-05-MODEL-13": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-05-MODEL-14": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-05-MODEL-15": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-05-MODEL-16": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-05-MODEL-17": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-05-MODEL-18": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-05-MODEL-19": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-05-MODEL-20": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-05-FORM-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-05-GUIDED-READ": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-05-Q1": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-05-Q2": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-05-Q3": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-05-Q4": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-05-Q5": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-05-Q6": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-05-RECALL": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-05-CHOOSE-BUILD": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-05-SUPPORT": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-05-ENDING": {
+        "textbook": [
+          10
+        ]
+      },
+      "P1-05-FRESH-BUILD": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-05-FRESH-READ": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-05-FRESH-RECOGNISE": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-05-FRESH-WRITE": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-05-WB-BUILD-20": {
+        "workbook": [
+          1
+        ]
+      },
+      "P1-05-FORM-PRACTICE": {
+        "workbook": [
+          3
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=12,1t6o,10,19,2t0o,tenonesversusone;every11..19=1t1..9o,20=2t0o;254 actual PDF strips/33groups;story20."
+  },
+  {
+    "chapter": "P1-06",
+    "source_tasks": [
+      {
+        "id": "P1-06-Q1",
+        "source_prompt": "Write forty-six in digits.",
+        "source_answer": "46"
+      },
+      {
+        "id": "P1-06-Q2",
+        "source_prompt": "Read 81 in words.",
+        "source_answer": "eighty-one"
+      },
+      {
+        "id": "P1-06-Q3",
+        "source_prompt": "Complete: 38, 39, __, __.",
+        "source_answer": "40, 41"
+      },
+      {
+        "id": "P1-06-Q4",
+        "source_prompt": "Write 93 as tens and ones.",
+        "source_answer": "9 tens and 3 ones"
+      },
+      {
+        "id": "P1-06-Q5",
+        "source_prompt": "Write 95 to 99.",
+        "source_answer": "95, 96, 97, 98, 99"
+      },
+      {
+        "id": "P1-06-Q6",
+        "source_prompt": "Why is 60 different from 6?",
+        "source_answer": "60 is six tens; 6 is six ones."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-06-PRIOR": {
+        "textbook": [
+          2
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-06-FORM-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-21-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-21-GUIDED": {
+        "textbook": [
+          3
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-26-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-26-GUIDED": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-30-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-30-GUIDED": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-40-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-40-GUIDED": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-50-MODEL": {
+        "textbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-50-GUIDED": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-60-MODEL": {
+        "textbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-60-GUIDED": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-70-MODEL": {
+        "textbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-70-GUIDED": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-80-MODEL": {
+        "textbook": [
+          10
+        ]
+      },
+      "P1-06-BAND-80-GUIDED": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-90-MODEL": {
+        "textbook": [
+          11
+        ]
+      },
+      "P1-06-BAND-90-GUIDED": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "P1-06-NAMES": {
+        "textbook": [
+          12
+        ]
+      },
+      "P1-06-SEQUENCE-MODEL": {
+        "textbook": [
+          13
+        ]
+      },
+      "P1-06-PLACES-MODEL": {
+        "textbook": [
+          13
+        ]
+      },
+      "P1-06-RANGE-MODEL": {
+        "textbook": [
+          13
+        ]
+      },
+      "P1-06-Q1": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          11
+        ]
+      },
+      "P1-06-Q2": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          11
+        ]
+      },
+      "P1-06-Q3": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          11
+        ]
+      },
+      "P1-06-Q4": {
+        "textbook": [
+          15
+        ],
+        "workbook": [
+          12
+        ]
+      },
+      "P1-06-Q5": {
+        "textbook": [
+          15
+        ],
+        "workbook": [
+          12
+        ]
+      },
+      "P1-06-Q6": {
+        "textbook": [
+          15
+        ],
+        "workbook": [
+          12
+        ]
+      },
+      "P1-06-RECALL": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          13
+        ]
+      },
+      "P1-06-CHOOSE": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          13
+        ]
+      },
+      "P1-06-SUPPORT": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          13
+        ]
+      },
+      "P1-06-ENDING": {
+        "textbook": [
+          17
+        ]
+      },
+      "P1-06-FRESH-COUNT": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          14
+        ]
+      },
+      "P1-06-FRESH-BUILD": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          14
+        ]
+      },
+      "P1-06-FRESH-READ": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          14
+        ]
+      },
+      "P1-06-FRESH-RECOGNISE": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          14
+        ]
+      },
+      "P1-06-FRESH-WRITE": {
+        "textbook": [
+          17
+        ],
+        "workbook": [
+          14
+        ]
+      },
+      "P1-06-BAND-21-BUILD": {
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-21-COUNT": {
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-21-READ": {
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-21-RECOGNISE": {
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-21-WRITE": {
+        "workbook": [
+          2
+        ]
+      },
+      "P1-06-BAND-26-BUILD": {
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-26-COUNT": {
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-26-READ": {
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-26-RECOGNISE": {
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-26-WRITE": {
+        "workbook": [
+          3
+        ]
+      },
+      "P1-06-BAND-30-BUILD": {
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-30-COUNT": {
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-30-READ": {
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-30-RECOGNISE": {
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-30-WRITE": {
+        "workbook": [
+          4
+        ]
+      },
+      "P1-06-BAND-40-BUILD": {
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-40-COUNT": {
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-40-READ": {
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-40-RECOGNISE": {
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-40-WRITE": {
+        "workbook": [
+          5
+        ]
+      },
+      "P1-06-BAND-50-BUILD": {
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-50-COUNT": {
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-50-READ": {
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-50-RECOGNISE": {
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-50-WRITE": {
+        "workbook": [
+          6
+        ]
+      },
+      "P1-06-BAND-60-BUILD": {
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-60-COUNT": {
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-60-READ": {
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-60-RECOGNISE": {
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-60-WRITE": {
+        "workbook": [
+          7
+        ]
+      },
+      "P1-06-BAND-70-BUILD": {
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-70-COUNT": {
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-70-READ": {
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-70-RECOGNISE": {
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-70-WRITE": {
+        "workbook": [
+          8
+        ]
+      },
+      "P1-06-BAND-80-BUILD": {
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-80-COUNT": {
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-80-READ": {
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-80-RECOGNISE": {
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-80-WRITE": {
+        "workbook": [
+          9
+        ]
+      },
+      "P1-06-BAND-90-BUILD": {
+        "workbook": [
+          10
+        ]
+      },
+      "P1-06-BAND-90-COUNT": {
+        "workbook": [
+          10
+        ]
+      },
+      "P1-06-BAND-90-READ": {
+        "workbook": [
+          10
+        ]
+      },
+      "P1-06-BAND-90-RECOGNISE": {
+        "workbook": [
+          10
+        ]
+      },
+      "P1-06-BAND-90-WRITE": {
+        "workbook": [
+          10
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=46,eighty-one,40/41,9t3o,95..99,60vs6ones;every band21..99/name/place checked;2044actualPDFstrips/220groups;fresh47/36/82;delayed58/64."
+  },
+  {
+    "chapter": "P1-07",
+    "source_tasks": [
+      {
+        "id": "P1-07-Q1",
+        "source_prompt": "How many equal parts make halves?",
+        "source_answer": "2"
+      },
+      {
+        "id": "P1-07-Q2",
+        "source_prompt": "How many equal parts make quarters?",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-07-Q3",
+        "source_prompt": "Draw two equal halves of a rectangle.",
+        "source_answer": "Rectangle divided into two equal-area parts."
+      },
+      {
+        "id": "P1-07-Q4",
+        "source_prompt": "Draw a square and shade one quarter.",
+        "source_answer": "Four equal-area parts; one shaded."
+      },
+      {
+        "id": "P1-07-Q5",
+        "source_prompt": "Are 2 unequal pieces halves?",
+        "source_answer": "No"
+      },
+      {
+        "id": "P1-07-Q6",
+        "source_prompt": "Explain why your shaded part is a quarter.",
+        "source_answer": "The whole has four equal parts and one is shaded."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-07-HALF-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-07-HALF-GUIDED": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-07-QUARTER-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-07-QUARTER-GUIDED": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-07-COMPARE": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-07-DIAGONAL-GUIDED": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-07-ROTATED-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-07-FRUIT-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-07-NOTATION": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-07-DRAW-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-07-DRAW-GUIDED": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-07-Q1": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-07-Q2": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-07-Q3": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-07-Q4": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-07-Q5": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-07-Q6": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-07-SUPPORT": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-07-RECHECK": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-07-EXTENSION": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-07-STORY": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-07-FRESH-IDENTIFY": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-07-FRESH-DRAW": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-07-RECALL": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-07-WB-GUIDED": {
+        "workbook": [
+          1
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=2,4,equalrectanglehalves,equalquarteredsquare/1shaded,No,4equalparts/1shaded;60actualpolygonparts/24diagrams area ratios.5/.25/.3+.7;freshhalf/quarter/neither."
+  },
+  {
+    "chapter": "P1-08",
+    "source_tasks": [
+      {
+        "id": "P1-08-Q1",
+        "source_prompt": "1 + 2 = __.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q2",
+        "source_prompt": "2 + 2 = __.",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-08-Q3",
+        "source_prompt": "1 + 1 + 1 = __.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q4",
+        "source_prompt": "Draw 2 dots and 1 more. Total?",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q5",
+        "source_prompt": "1 book and 3 more make how many?",
+        "source_answer": "4 books"
+      },
+      {
+        "id": "P1-08-Q6",
+        "source_prompt": "Show why 1 + 2 and 2 + 1 match.",
+        "source_answer": "Both combine one and two objects to make three."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-08-JOIN-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-08-JOIN-GUIDED": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-08-SIGNS-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-08-SIGNS-GUIDED": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-08-THREE-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-08-THREE-GUIDED": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-08-DRAW-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-08-DRAW-GUIDED": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-08-Q1": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-08-Q2": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-08-Q3": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-08-Q4": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-08-Q5": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-08-Q6": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-08-RECALL": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-08-HELP": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-08-RECHECK": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-08-SWAP": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-08-STORY": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-08-FRESH-TWO": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-08-FRESH-THREE": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-08-FRESH-EQUALS": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-08-DELAYED": {
+        "textbook": [
+          10
+        ]
+      },
+      "P1-08-WB-GUIDED": {
+        "workbook": [
+          1
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=3,4,3,3,4books,both3;models2+1=3,1+1=2,1+1+2=4,2+2+2=6;fresh1+3=4/1+2+2=5;delayed2+2=4/1+1+2=4;story3tops."
+  },
+  {
+    "chapter": "P1-09",
+    "source_tasks": [
+      {
+        "id": "P1-09-Q1",
+        "source_prompt": "4 + 3 = __.",
+        "source_answer": "7"
+      },
+      {
+        "id": "P1-09-Q2",
+        "source_prompt": "6 + 0 = __.",
+        "source_answer": "6"
+      },
+      {
+        "id": "P1-09-Q3",
+        "source_prompt": "3 + 2 + 3 = __.",
+        "source_answer": "8"
+      },
+      {
+        "id": "P1-09-Q4",
+        "source_prompt": "9 + 9 = __.",
+        "source_answer": "18"
+      },
+      {
+        "id": "P1-09-Q5",
+        "source_prompt": "7 seeds and 5 more make how many?",
+        "source_answer": "12 seeds"
+      },
+      {
+        "id": "P1-09-Q6",
+        "source_prompt": "Explain how to check 8 + 6 = 14.",
+        "source_answer": "Count fourteen objects, or count on six from eight."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-09-COUNT-MODEL": {
+        "textbook": [
+          2
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-09-COUNT-GUIDED": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-09-THREE-SMALL-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-09-THREE-SMALL-GUIDED": {
+        "textbook": [
+          3
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-09-ZERO-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-09-ZERO-GUIDED": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-09-CROSS-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-09-CROSS-GUIDED": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-09-THREE-LARGE-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-09-THREE-LARGE-GUIDED": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-09-CHECK-MODEL": {
+        "textbook": [
+          7
+        ]
+      },
+      "P1-09-CHECK-GUIDED": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-09-Q1": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-09-Q2": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-09-Q3": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-09-Q4": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-09-Q5": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-09-Q6": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "S005": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-09-RECALL": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-09-HELP": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-09-RECHECK": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-09-STORY": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-09-FRESH-TWO": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-09-FRESH-THREE": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-09-FRESH-CHECK": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-09-DELAYED": {
+        "textbook": [
+          14
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=7,6,8,18,12seeds,check14;models4+2=6,3+2+4=9,6+0=6,0+3=3,8+5=13,4+5+6=15,9+0+8=17;fresh12/11/9;177actualdots/36groups."
+  },
+  {
+    "chapter": "P1-10",
+    "source_tasks": [
+      {
+        "id": "P1-10-Q1",
+        "source_prompt": "12 + 13 = __.",
+        "source_answer": "25"
+      },
+      {
+        "id": "P1-10-Q2",
+        "source_prompt": "21 + 16 = __.",
+        "source_answer": "37"
+      },
+      {
+        "id": "P1-10-Q3",
+        "source_prompt": "30 + 10 = __.",
+        "source_answer": "40"
+      },
+      {
+        "id": "P1-10-Q4",
+        "source_prompt": "14 + 5 = __.",
+        "source_answer": "19"
+      },
+      {
+        "id": "P1-10-Q5",
+        "source_prompt": "22 pencils and 11 more make how many?",
+        "source_answer": "33 pencils"
+      },
+      {
+        "id": "P1-10-Q6",
+        "source_prompt": "Explain why 20 + 13 = 33.",
+        "source_answer": "Two tens plus one ten and three ones make three tens and three ones."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-10-PLACE": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-10-JOIN-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-10-COLUMN-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-10-GUIDED": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-10-LARGE-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-10-ZERO-MODEL": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-10-ZERO-GUIDED": {
+        "textbook": [
+          6
+        ]
+      },
+      "P1-10-ONE-DIGIT-MODEL": {
+        "textbook": [
+          7
+        ]
+      },
+      "P1-10-CHECK-MODEL": {
+        "textbook": [
+          8
+        ]
+      },
+      "P1-10-CHECK-GUIDED": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-10-Q1": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-10-Q2": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-10-Q3": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-10-Q4": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          2,
+          3
+        ]
+      },
+      "P1-10-Q5": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-10-Q6": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-10-RECALL": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-10-HELP": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-10-RECHECK": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "P1-10-STORY": {
+        "textbook": [
+          11
+        ]
+      },
+      "P1-10-FRESH-TWO": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-10-FRESH-ZERO": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-10-FRESH-CHECK": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-10-EXPLAIN": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "P1-10-DELAYED": {
+        "textbook": [
+          14
+        ]
+      }
+    },
+    "mathematical_evidence": "Q1..6=25,37,40,19,33pencils,3t3o;models27/23/37/40/33/19;wrong24corrected23or25;fresh37/40/17not62;ones7/0/7<10;225actualstrips/35groups."
+  },
+  {
+    "chapter": "P1-11",
+    "source_tasks": [
+      {
+        "id": "P1-11-Q1",
+        "source_prompt": "7 − 2 = __.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-11-Q2",
+        "source_prompt": "9 − 9 = __.",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-11-Q3",
+        "source_prompt": "15 − 4 = __.",
+        "source_answer": "11"
+      },
+      {
+        "id": "P1-11-Q4",
+        "source_prompt": "18 − 9 = __.",
+        "source_answer": "9"
+      },
+      {
+        "id": "P1-11-Q5",
+        "source_prompt": "12 chalk pieces: use 3. How many remain?",
+        "source_answer": "9 pieces"
+      },
+      {
+        "id": "P1-11-Q6",
+        "source_prompt": "How does addition check 13 − 5 = 8?",
+        "source_answer": "8 + 5 = 13."
+      }
+    ],
+    "actual_reviewed_task_pages": {
+      "P1-11-SMALL-MODEL": {
+        "textbook": [
+          2
+        ]
+      },
+      "P1-11-SMALL-GUIDED": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-11-ALL-MODEL": {
+        "textbook": [
+          3
+        ]
+      },
+      "P1-11-BACK-MODEL": {
+        "textbook": [
+          4
+        ]
+      },
+      "P1-11-CROSS-MODEL": {
+        "textbook": [
+          5
+        ]
+      },
+      "P1-11-CROSS-GUIDED": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "P1-11-CHECK-MODEL": {
+        "textbook": [
+          7
+        ]
+      },
+      "P1-11-Q1": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-11-Q2": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "P1-11-Q3": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-11-Q4": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "P1-11-Q5": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-11-Q6": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "P1-11-RECALL": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-11-SMALL-HELP": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-11-SMALL-RECHECK": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-11-CROSS-HELP": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-11-CROSS-RECHECK": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "P1-11-STORY": {
+        "textbook": [
+          11
+        ]
+      },
+      "P1-11-FRESH-SMALL": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          6,
+          6
+        ]
+      },
+      "P1-11-FRESH-CROSS": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7,
+          7
+        ]
+      },
+      "P1-11-FRESH-CHECK": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-11-CHECK-RECHECK": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "P1-11-DELAYED": {
+        "textbook": [
+          14
+        ]
+      },
+      "P1-11-CROSSOUT-MODEL": {
+        "workbook": [
+          1
+        ]
+      }
+    },
+    "mathematical_evidence": "All25IDs/28triples independently solved:Q1..6=5,0,11,9,9pieces,8+5=13;fresh3/3/8/9;16-7=9not10;recheck6-3=3;273actualdots/34groups;all addbacks restore start. See REVIEW.md task table."
+  }
+]

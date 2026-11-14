@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "P1-01",
+    "fingerprint": "7a4fe4ee73b5ce5392a03c40ddcfa4f6de133924bead73667d8747e0c7cf8cd0",
+    "returncode": 0,
+    "stdout": "P1-01 7a4fe4ee73b5ce5392a03c40ddcfa4f6de133924bead73667d8747e0c7cf8cd0\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-02",
+    "fingerprint": "77d2ea1906b8fc602afedac97a0530e4a641ffe07d904f4b4002cd15b3d73059",
+    "returncode": 0,
+    "stdout": "P1-02 77d2ea1906b8fc602afedac97a0530e4a641ffe07d904f4b4002cd15b3d73059\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-03",
+    "fingerprint": "e183d4b3eced0229ec7114c15aca52d17140555892233d84f0514eacda8cfdba",
+    "returncode": 0,
+    "stdout": "P1-03 e183d4b3eced0229ec7114c15aca52d17140555892233d84f0514eacda8cfdba\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-04",
+    "fingerprint": "a05cc718d2451d506d3a71e98170d75577d4f07cabb41efdca41832413f40dc3",
+    "returncode": 0,
+    "stdout": "P1-04 a05cc718d2451d506d3a71e98170d75577d4f07cabb41efdca41832413f40dc3\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-05",
+    "fingerprint": "9db3201e69007b8ae9c478c47558684fe717935002998f224bd8be0ca1eca2c3",
+    "returncode": 0,
+    "stdout": "P1-05 9db3201e69007b8ae9c478c47558684fe717935002998f224bd8be0ca1eca2c3\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-06",
+    "fingerprint": "e7af2003617bfad12b2440865aae0edd77ad5fe728a5acc7f2588ef4fc6beef6",
+    "returncode": 0,
+    "stdout": "P1-06 e7af2003617bfad12b2440865aae0edd77ad5fe728a5acc7f2588ef4fc6beef6\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-07",
+    "fingerprint": "2d1afb5797b8355bd226e6cf5165558d9ebbac84273c02dad1b74a0689199195",
+    "returncode": 0,
+    "stdout": "P1-07 2d1afb5797b8355bd226e6cf5165558d9ebbac84273c02dad1b74a0689199195\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-08",
+    "fingerprint": "114f0440876bc370588523a7318d9055ba84d45ddffa8c9a1d32ead11155e3cb",
+    "returncode": 0,
+    "stdout": "P1-08 114f0440876bc370588523a7318d9055ba84d45ddffa8c9a1d32ead11155e3cb\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-09",
+    "fingerprint": "b4974aed970970e7133d19140048ed0deb755b692b9d125268dd4bd37e139250",
+    "returncode": 0,
+    "stdout": "P1-09 b4974aed970970e7133d19140048ed0deb755b692b9d125268dd4bd37e139250\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-10",
+    "fingerprint": "0aee0abbb6fbab8a16fa7ae1929b4f03b03fe072ceaa7c34471f369998fbd47b",
+    "returncode": 0,
+    "stdout": "P1-10 0aee0abbb6fbab8a16fa7ae1929b4f03b03fe072ceaa7c34471f369998fbd47b\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-11",
+    "fingerprint": "3b346e529b58b80a4b348d1842d6d3ea53d935bea9bc83ff4807378c0b4bd46d",
+    "returncode": 0,
+    "stdout": "P1-11 3b346e529b58b80a4b348d1842d6d3ea53d935bea9bc83ff4807378c0b4bd46d\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  },
+  {
+    "chapter": "P1-12",
+    "fingerprint": "7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba",
+    "returncode": 0,
+    "stdout": "P1-12 7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n",
+    "stderr": ""
+  }
+]

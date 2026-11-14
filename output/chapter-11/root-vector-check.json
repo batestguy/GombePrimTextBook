@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "role": "textbook",
+      "pages": 15,
+      "exact_dot_centres": 96,
+      "sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418"
+    },
+    {
+      "role": "workbook",
+      "pages": 8,
+      "exact_dot_centres": 177,
+      "sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703"
+    }
+  ],
+  "method": "Final actual filled PDF drawing centres matched one-to-one to every ledger dot coordinate; no extra coloured assessment dots."
+}

@@ -1,0 +1,13 @@
+{
+  "path": "Gombe-Mathematics-Book-1.pdf",
+  "starting_sha256": "a8c528bd59cd1a1b0f48ffc9cae0036733e57c13b3c94a073a823eaf7370ef72",
+  "current_sha256": "79d80c76d810db2b208df4c310c4c96ad796500088af4ca7826ecf87c9e41aec",
+  "reason": "Authorized legacy Quarto build regenerates the ignored root historical PDF. Exact prebuild bytes were not backed up; bounded metadata recovery failed. All historical source/rendering inputs including book.qmd and book.typ match starting bytes. No claim of direct old/new PDF pixel equality is made because exact old root PDF is unavailable. All18previous independently reviewed paired PDFs remain exact.",
+  "review_effect": "Historical combined export only; does not confer redesigned chapter approval or change original manuscript.",
+  "recovery": "Git has no tracked root PDF; no workspace PDF/archive exact match; metadata-only Nov2 recovery did not match.",
+  "source_checks": {
+    "book.qmd": "a19d2658cf7ee8c69d30625e851004c56ecbfe52e876757f668a7b201cf04f9d",
+    "book.typ": "9824ba984b0e8d4a300e78b1e9be9cbbcf9431f364635f3b7ea71adadf5f8275",
+    "GombeTextbook.txt": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca"
+  }
+}

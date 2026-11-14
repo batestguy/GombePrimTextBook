@@ -1,0 +1,8 @@
+[
+  {
+    "id": "S007",
+    "field": "answer",
+    "before": "9 ? 4 = 5; 5 + 4 = 9 or a correct take-away check.",
+    "after": "9 - 4 = 5; 5 + 4 = 9 or a correct take-away check."
+  }
+]

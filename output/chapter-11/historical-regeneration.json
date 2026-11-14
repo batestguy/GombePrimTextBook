@@ -1,0 +1,8 @@
+[
+  {
+    "path": "Gombe-Mathematics-Book-1.pdf",
+    "before_sha256": "a8c528bd59cd1a1b0f48ffc9cae0036733e57c13b3c94a073a823eaf7370ef72",
+    "after_sha256": "79d80c76d810db2b208df4c310c4c96ad796500088af4ca7826ecf87c9e41aec",
+    "reason": "Required legacy Quarto rebuild regenerated historical duplicate; no byte backup exists. Original book.typ and all other protected shared files unchanged. All four metadata timestamp replacements across Nov2 failed exact recovery. Root informed; no preserved paired PDF affected."
+  }
+]

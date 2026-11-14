@@ -1,0 +1,57 @@
+[
+  {
+    "chapter": "P1-01",
+    "fingerprint": "fc9ebb99a4ab08fa9a74bf8357519ab67b6f2cf4aa5b3cb46263420420a10e3c",
+    "fingerprint_command_result": "P1-01 fc9ebb99a4ab08fa9a74bf8357519ab67b6f2cf4aa5b3cb46263420420a10e3c\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-02",
+    "fingerprint": "3ac5d1974d4c2a0a7a637f82c29c7b2791f42de64753fc3c8ea03f348b575ae5",
+    "fingerprint_command_result": "P1-02 3ac5d1974d4c2a0a7a637f82c29c7b2791f42de64753fc3c8ea03f348b575ae5\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-03",
+    "fingerprint": "1c323d89d7e96375f4c91dbc1a29415eaa51e21e88035726aa8209ded10fc76b",
+    "fingerprint_command_result": "P1-03 1c323d89d7e96375f4c91dbc1a29415eaa51e21e88035726aa8209ded10fc76b\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-04",
+    "fingerprint": "e4df8efba0eb1da8424458d3b82c418d906282a99cc042a6d0cef206e9fee742",
+    "fingerprint_command_result": "P1-04 e4df8efba0eb1da8424458d3b82c418d906282a99cc042a6d0cef206e9fee742\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-05",
+    "fingerprint": "4daee9718082a15b3fb96ff76a3793341758e390adde2b2b93a83e17d2d0e259",
+    "fingerprint_command_result": "P1-05 4daee9718082a15b3fb96ff76a3793341758e390adde2b2b93a83e17d2d0e259\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-06",
+    "fingerprint": "fdcf50508be3dc6896f419c48383535bc104dbc5bc536fbf8e6cf9e6284aa55e",
+    "fingerprint_command_result": "P1-06 fdcf50508be3dc6896f419c48383535bc104dbc5bc536fbf8e6cf9e6284aa55e\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-07",
+    "fingerprint": "81a9e8e2faa2c4c46d90348f9f11d6b2441f721fb0e6465ba0a92927a893d046",
+    "fingerprint_command_result": "P1-07 81a9e8e2faa2c4c46d90348f9f11d6b2441f721fb0e6465ba0a92927a893d046\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-08",
+    "fingerprint": "e03b1d26cafc0adf3a2b63c516224ea648a5ab12446131ae2126b19ec914ecd3",
+    "fingerprint_command_result": "P1-08 e03b1d26cafc0adf3a2b63c516224ea648a5ab12446131ae2126b19ec914ecd3\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-09",
+    "fingerprint": "9013ca632a551468787dfd41902f0a91b3076dd4ffcef87363aa4cf6380b901f",
+    "fingerprint_command_result": "P1-09 9013ca632a551468787dfd41902f0a91b3076dd4ffcef87363aa4cf6380b901f\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-10",
+    "fingerprint": "08fa185282896da9990740b0ea781a49deeec6237ef13e6aaf911ef5bbecb0ae",
+    "fingerprint_command_result": "P1-10 08fa185282896da9990740b0ea781a49deeec6237ef13e6aaf911ef5bbecb0ae\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  },
+  {
+    "chapter": "P1-11",
+    "fingerprint": "ae96c353c77c2de8ba1ba21ce57f8df7ac1e681d2b68fa720e7b80d9c49f17f7",
+    "fingerprint_command_result": "P1-11 ae96c353c77c2de8ba1ba21ce57f8df7ac1e681d2b68fa720e7b80d9c49f17f7\n1 chapter records checked; draft/register check only; pending chapters are NOT approved.\n"
+  }
+]

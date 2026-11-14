@@ -1,0 +1,10 @@
+{
+  "final_freeze_confirmed_by_coordinator": true,
+  "frozen_files_match": 17,
+  "protected_hashes_match": 156,
+  "historical_backup_bytes_match": 21,
+  "previous_pdfs_exact": 20,
+  "individually_inspected_final_ch12_pngs_match": 54,
+  "generated_lessons_match_canonical": true,
+  "chapter12_fingerprint_expected": "7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba"
+}

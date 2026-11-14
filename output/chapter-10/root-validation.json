@@ -1,0 +1,36 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "Original brief and protected baseline hashes unchanged",
+    "114 original prompts/answers/order and 18 other whole lessons preserved",
+    "Generated lesson data equals the final three canonical class sources",
+    "16 earlier registered PDFs unchanged",
+    "53 other chapter records unchanged",
+    "Final frozen source/builder/PDF hashes unchanged",
+    "All ten independent strict review gates passed",
+    "Baseline-aware whitespace check passed"
+  ],
+  "strict_gate_fingerprints": {
+    "P1-01": "fc99b9ca356736045930ed9bb846b73da8600cd3242cf7959ccee5cde3f33951",
+    "P1-02": "efdd31698b8db79302d90dab1754ea69be0717db80e17f31b6ea431a045d3c39",
+    "P1-03": "4a8d32435130988625762846e0609bbf76a7d83f1a95479755e59dadb2426259",
+    "P1-04": "6d4cbf3823f1f16c3bbb5e0097cf9871a9ef6a8f658358de692b6de6f8323f4d",
+    "P1-05": "db363dea2329571a43046e3b323711ee8296377225f030416e01d1c6c94dc9e8",
+    "P1-06": "c451203020cc49ed917837860830138b642687539d205e11a10480cd2a67621c",
+    "P1-07": "a218ad60eaf5f30ea9ef25646acef686dc2df3851d4658b074b0b798a4cc8ecc",
+    "P1-08": "6b1108d030875742d1ad2677968277f400cdc15635be390abcea8c3c7583191b",
+    "P1-09": "114bae55bd5696ba14a947315edeabba7305632686641b7710ab9c1947cef949",
+    "P1-10": "35d15258dc61f707eeda19cb543878f6ea66d66184adeaf29cc8c7e3158ace8d"
+  },
+  "new_artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39"
+    }
+  },
+  "limits": "Chapter extracts. Annual assembly, current curriculum verification, local trials and physical print/printer approval pending."
+}

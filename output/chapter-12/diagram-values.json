@@ -1,0 +1,90 @@
+[
+  {
+    "id": "EQUAL-LEFT",
+    "count": 2
+  },
+  {
+    "id": "EQUAL-RIGHT",
+    "count": 3
+  },
+  {
+    "id": "P1-12-ADD-LAST-MODEL-D1",
+    "count": 1
+  },
+  {
+    "id": "P1-12-ADD-LAST-MODEL-D2",
+    "count": 3
+  },
+  {
+    "id": "P1-12-ADD-FIRST-MODEL-D1",
+    "count": 4
+  },
+  {
+    "id": "P1-12-ADD-FIRST-MODEL-D2",
+    "count": 2
+  },
+  {
+    "id": "P1-12-REMOVE-MODEL-D1",
+    "count": 3
+  },
+  {
+    "id": "P1-12-REMOVE-MODEL-D2",
+    "count": 5
+  },
+  {
+    "id": "P1-12-START-MODEL-D1",
+    "count": 4
+  },
+  {
+    "id": "P1-12-START-MODEL-D2",
+    "count": 3
+  },
+  {
+    "id": "P1-12-REVERSE-MODEL-D1",
+    "count": 2
+  },
+  {
+    "id": "P1-12-REVERSE-MODEL-D2",
+    "count": 4
+  },
+  {
+    "id": "P1-12-CHECK-MODEL-D1",
+    "count": 4
+  },
+  {
+    "id": "P1-12-CHECK-MODEL-D2",
+    "count": 3
+  },
+  {
+    "id": "P1-12-FAMILY-MODEL-D1",
+    "count": 2
+  },
+  {
+    "id": "P1-12-FAMILY-MODEL-D2",
+    "count": 5
+  },
+  {
+    "id": "P1-12-EVERY-ADD-MODEL-D1",
+    "count": 2
+  },
+  {
+    "id": "P1-12-EVERY-ADD-MODEL-D2",
+    "count": 3
+  },
+  {
+    "id": "P1-12-EVERY-SUB-MODEL-D1",
+    "count": 5
+  },
+  {
+    "id": "P1-12-EVERY-SUB-MODEL-D2",
+    "count": 2
+  },
+  {
+    "id": "STORY-VISIBLE",
+    "count": 3
+  },
+  {
+    "id": "STORY-FOUND",
+    "count": 4
+  }
+]

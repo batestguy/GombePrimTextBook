@@ -1,0 +1,1294 @@
+{
+  "pages": 40,
+  "sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+  "page_manifest": [
+    {
+      "slug": "c12-1",
+      "kicker": "Find a missing part",
+      "title": "The hidden toy pieces",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "c12-2",
+      "kicker": "Find a missing part",
+      "title": "What does a blank mean?",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-EQUAL-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-3",
+      "kicker": "Find a missing part",
+      "title": "Find the second part",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-ADD-LAST-MODEL",
+        "P1-12-ADD-LAST-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-4",
+      "kicker": "Find a missing part",
+      "title": "Find the first part",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-ADD-FIRST-MODEL",
+        "P1-12-ADD-FIRST-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-5",
+      "kicker": "Find a missing part",
+      "title": "How many were taken away?",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-REMOVE-MODEL",
+        "P1-12-REMOVE-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-6",
+      "kicker": "Find a missing part",
+      "title": "How many at the start?",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-START-MODEL",
+        "P1-12-START-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-7",
+      "kicker": "Find a missing part",
+      "title": "Read equality both ways",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-REVERSE-MODEL",
+        "P1-12-REVERSE-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-8",
+      "kicker": "Find a missing part",
+      "title": "Put the number back",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-CHECK-MODEL",
+        "P1-12-CHECK-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-9",
+      "kicker": "Find a missing part",
+      "title": "One whole, two parts",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-FAMILY-MODEL",
+        "P1-12-FAMILY-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-10",
+      "kicker": "Find a missing part",
+      "title": "Check the book story",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-EVERY-ADD-MODEL",
+        "P1-12-EVERY-ADD-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-11",
+      "kicker": "Find a missing part",
+      "title": "Check the chalk story",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-EVERY-SUB-MODEL",
+        "P1-12-EVERY-SUB-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-12",
+      "kicker": "Find a missing part",
+      "title": "Find each missing part",
+      "subtitle": "Use workbook page 1 or your exercise book.",
+      "task_ids": [
+        "P1-12-Q1",
+        "P1-12-Q2"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-14",
+      "kicker": "Find a missing part",
+      "title": "Find what changed",
+      "subtitle": "Use workbook page 2 or your exercise book.",
+      "task_ids": [
+        "P1-12-Q3",
+        "P1-12-Q4"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-16",
+      "kicker": "Find a missing part",
+      "title": "Equal amounts; check again",
+      "subtitle": "Use workbook page 3 or your exercise book.",
+      "task_ids": [
+        "P1-12-Q5",
+        "P1-12-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-18",
+      "kicker": "Find a missing part",
+      "title": "Check the story cards",
+      "subtitle": "Use workbook page 4 or your exercise book.",
+      "task_ids": [
+        "S006",
+        "S007"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-20",
+      "kicker": "Find a missing part",
+      "title": "Keep the whole; find both parts",
+      "subtitle": "Use workbook page 5 or your exercise book.",
+      "task_ids": [
+        "P1-12-FAMILY-INDEPENDENT"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-22",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 6 or your exercise book.",
+      "task_ids": [
+        "P1-12-A-HELP",
+        "P1-12-A-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-24",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 7 or your exercise book.",
+      "task_ids": [
+        "P1-12-B-HELP",
+        "P1-12-B-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-26",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 8 or your exercise book.",
+      "task_ids": [
+        "P1-12-C-HELP",
+        "P1-12-C-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-28",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 9 or your exercise book.",
+      "task_ids": [
+        "P1-12-D-HELP",
+        "P1-12-D-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-30",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 10 or your exercise book.",
+      "task_ids": [
+        "P1-12-E-HELP",
+        "P1-12-E-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-32",
+      "kicker": "Find a missing part",
+      "title": "A smaller step; a new try",
+      "subtitle": "Use workbook page 11 or your exercise book.",
+      "task_ids": [
+        "P1-12-F-HELP",
+        "P1-12-F-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-34",
+      "kicker": "Find a missing part",
+      "title": "The bag opens",
+      "subtitle": "Read together. Use a workbook or exercise book.",
+      "task_ids": [
+        "P1-12-STORY"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-35",
+      "kicker": "Find a missing part",
+      "title": "Show what you can do afresh",
+      "subtitle": "Use workbook page 12 or your exercise book.",
+      "task_ids": [
+        "P1-12-A-FRESH",
+        "P1-12-B-FRESH"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-37",
+      "kicker": "Find a missing part",
+      "title": "Show what you can do afresh",
+      "subtitle": "Use workbook page 13 or your exercise book.",
+      "task_ids": [
+        "P1-12-C-FRESH",
+        "P1-12-D-FRESH"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-39",
+      "kicker": "Find a missing part",
+      "title": "Show what you can do afresh",
+      "subtitle": "Use workbook page 14 or your exercise book.",
+      "task_ids": [
+        "P1-12-E-FRESH",
+        "P1-12-F-FRESH"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c12-41",
+      "kicker": "Find a missing part",
+      "title": "Teaching across short sessions",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c12-42",
+      "kicker": "Find a missing part",
+      "title": "Notice, help and check later",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c12-43",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-EQUAL-MODEL",
+        "P1-12-ADD-LAST-MODEL",
+        "P1-12-ADD-LAST-GUIDED",
+        "P1-12-ADD-FIRST-MODEL",
+        "P1-12-ADD-FIRST-GUIDED"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-EQUAL-MODEL",
+        "P1-12-ADD-LAST-MODEL",
+        "P1-12-ADD-LAST-GUIDED",
+        "P1-12-ADD-FIRST-MODEL",
+        "P1-12-ADD-FIRST-GUIDED"
+      ]
+    },
+    {
+      "slug": "c12-44",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-REMOVE-MODEL",
+        "P1-12-REMOVE-GUIDED",
+        "P1-12-START-MODEL",
+        "P1-12-START-GUIDED",
+        "P1-12-REVERSE-MODEL"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-REMOVE-MODEL",
+        "P1-12-REMOVE-GUIDED",
+        "P1-12-START-MODEL",
+        "P1-12-START-GUIDED",
+        "P1-12-REVERSE-MODEL"
+      ]
+    },
+    {
+      "slug": "c12-45",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-REVERSE-GUIDED",
+        "P1-12-CHECK-MODEL",
+        "P1-12-CHECK-GUIDED",
+        "P1-12-FAMILY-MODEL",
+        "P1-12-FAMILY-GUIDED"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-REVERSE-GUIDED",
+        "P1-12-CHECK-MODEL",
+        "P1-12-CHECK-GUIDED",
+        "P1-12-FAMILY-MODEL",
+        "P1-12-FAMILY-GUIDED"
+      ]
+    },
+    {
+      "slug": "c12-46",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-EVERY-ADD-MODEL",
+        "P1-12-EVERY-ADD-GUIDED",
+        "P1-12-EVERY-SUB-MODEL",
+        "P1-12-EVERY-SUB-GUIDED",
+        "P1-12-Q1"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-EVERY-ADD-MODEL",
+        "P1-12-EVERY-ADD-GUIDED",
+        "P1-12-EVERY-SUB-MODEL",
+        "P1-12-EVERY-SUB-GUIDED",
+        "P1-12-Q1"
+      ]
+    },
+    {
+      "slug": "c12-47",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-Q2",
+        "P1-12-Q3",
+        "P1-12-Q4",
+        "P1-12-Q5",
+        "P1-12-Q6"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-Q2",
+        "P1-12-Q3",
+        "P1-12-Q4",
+        "P1-12-Q5",
+        "P1-12-Q6"
+      ]
+    },
+    {
+      "slug": "c12-48",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "S006",
+        "S007",
+        "P1-12-FAMILY-INDEPENDENT",
+        "P1-12-A-HELP",
+        "P1-12-A-RECHECK"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "S006",
+        "S007",
+        "P1-12-FAMILY-INDEPENDENT",
+        "P1-12-A-HELP",
+        "P1-12-A-RECHECK"
+      ]
+    },
+    {
+      "slug": "c12-49",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-B-HELP",
+        "P1-12-B-RECHECK",
+        "P1-12-C-HELP",
+        "P1-12-C-RECHECK",
+        "P1-12-D-HELP"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-B-HELP",
+        "P1-12-B-RECHECK",
+        "P1-12-C-HELP",
+        "P1-12-C-RECHECK",
+        "P1-12-D-HELP"
+      ]
+    },
+    {
+      "slug": "c12-50",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-D-RECHECK",
+        "P1-12-E-HELP",
+        "P1-12-E-RECHECK",
+        "P1-12-F-HELP",
+        "P1-12-F-RECHECK"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-D-RECHECK",
+        "P1-12-E-HELP",
+        "P1-12-E-RECHECK",
+        "P1-12-F-HELP",
+        "P1-12-F-RECHECK"
+      ]
+    },
+    {
+      "slug": "c12-51",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-STORY",
+        "P1-12-A-FRESH",
+        "P1-12-B-FRESH",
+        "P1-12-C-FRESH",
+        "P1-12-D-FRESH"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-STORY",
+        "P1-12-A-FRESH",
+        "P1-12-B-FRESH",
+        "P1-12-C-FRESH",
+        "P1-12-D-FRESH"
+      ]
+    },
+    {
+      "slug": "c12-52",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-E-FRESH",
+        "P1-12-F-FRESH",
+        "P1-12-A-DELAYED",
+        "P1-12-B-DELAYED",
+        "P1-12-C-DELAYED"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-E-FRESH",
+        "P1-12-F-FRESH",
+        "P1-12-A-DELAYED",
+        "P1-12-B-DELAYED",
+        "P1-12-C-DELAYED"
+      ]
+    },
+    {
+      "slug": "c12-53",
+      "kicker": "Find a missing part",
+      "title": "Complete task and answer map",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [
+        "P1-12-D-DELAYED",
+        "P1-12-E-DELAYED",
+        "P1-12-F-DELAYED"
+      ],
+      "adult": true,
+      "answer_ids": [
+        "P1-12-D-DELAYED",
+        "P1-12-E-DELAYED",
+        "P1-12-F-DELAYED"
+      ]
+    },
+    {
+      "slug": "c12-54",
+      "kicker": "Find a missing part",
+      "title": "Words, evidence and next year",
+      "subtitle": "Adult guidance / Read pupil prompts aloud.",
+      "task_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-12-EQUAL-MODEL": [
+      2,
+      29
+    ],
+    "P1-12-ADD-LAST-MODEL": [
+      3,
+      29
+    ],
+    "P1-12-ADD-LAST-GUIDED": [
+      3,
+      29
+    ],
+    "P1-12-ADD-FIRST-MODEL": [
+      4,
+      29
+    ],
+    "P1-12-ADD-FIRST-GUIDED": [
+      4,
+      29
+    ],
+    "P1-12-REMOVE-MODEL": [
+      5,
+      30
+    ],
+    "P1-12-REMOVE-GUIDED": [
+      5,
+      30
+    ],
+    "P1-12-START-MODEL": [
+      6,
+      30
+    ],
+    "P1-12-START-GUIDED": [
+      6,
+      30
+    ],
+    "P1-12-REVERSE-MODEL": [
+      7,
+      30
+    ],
+    "P1-12-REVERSE-GUIDED": [
+      7,
+      31
+    ],
+    "P1-12-CHECK-MODEL": [
+      8,
+      31
+    ],
+    "P1-12-CHECK-GUIDED": [
+      8,
+      31
+    ],
+    "P1-12-FAMILY-MODEL": [
+      9,
+      31
+    ],
+    "P1-12-FAMILY-GUIDED": [
+      9,
+      31
+    ],
+    "P1-12-EVERY-ADD-MODEL": [
+      10,
+      32
+    ],
+    "P1-12-EVERY-ADD-GUIDED": [
+      10,
+      32
+    ],
+    "P1-12-EVERY-SUB-MODEL": [
+      11,
+      32
+    ],
+    "P1-12-EVERY-SUB-GUIDED": [
+      11,
+      32
+    ],
+    "P1-12-Q1": [
+      12,
+      32
+    ],
+    "P1-12-Q2": [
+      12,
+      33
+    ],
+    "P1-12-Q3": [
+      13,
+      33
+    ],
+    "P1-12-Q4": [
+      13,
+      33
+    ],
+    "P1-12-Q5": [
+      14,
+      33
+    ],
+    "P1-12-Q6": [
+      14,
+      33
+    ],
+    "S006": [
+      15,
+      34
+    ],
+    "S007": [
+      15,
+      34
+    ],
+    "P1-12-FAMILY-INDEPENDENT": [
+      16,
+      34
+    ],
+    "P1-12-A-HELP": [
+      17,
+      34
+    ],
+    "P1-12-A-RECHECK": [
+      17,
+      34
+    ],
+    "P1-12-B-HELP": [
+      18,
+      35
+    ],
+    "P1-12-B-RECHECK": [
+      18,
+      35
+    ],
+    "P1-12-C-HELP": [
+      19,
+      35
+    ],
+    "P1-12-C-RECHECK": [
+      19,
+      35
+    ],
+    "P1-12-D-HELP": [
+      20,
+      35
+    ],
+    "P1-12-D-RECHECK": [
+      20,
+      36
+    ],
+    "P1-12-E-HELP": [
+      21,
+      36
+    ],
+    "P1-12-E-RECHECK": [
+      21,
+      36
+    ],
+    "P1-12-F-HELP": [
+      22,
+      36
+    ],
+    "P1-12-F-RECHECK": [
+      22,
+      36
+    ],
+    "P1-12-STORY": [
+      23,
+      37
+    ],
+    "P1-12-A-FRESH": [
+      24,
+      37
+    ],
+    "P1-12-B-FRESH": [
+      24,
+      37
+    ],
+    "P1-12-C-FRESH": [
+      25,
+      37
+    ],
+    "P1-12-D-FRESH": [
+      25,
+      37
+    ],
+    "P1-12-E-FRESH": [
+      26,
+      38
+    ],
+    "P1-12-F-FRESH": [
+      26,
+      38
+    ],
+    "P1-12-A-DELAYED": [
+      38
+    ],
+    "P1-12-B-DELAYED": [
+      38
+    ],
+    "P1-12-C-DELAYED": [
+      38
+    ],
+    "P1-12-D-DELAYED": [
+      39
+    ],
+    "P1-12-E-DELAYED": [
+      39
+    ],
+    "P1-12-F-DELAYED": [
+      39
+    ]
+  },
+  "objects": [
+    {
+      "id": "EQUAL-LEFT",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          322
+        ],
+        [
+          97,
+          322
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "EQUAL-RIGHT",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          407
+        ],
+        [
+          97,
+          407
+        ],
+        [
+          129,
+          407
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-ADD-LAST-MODEL-D1",
+      "page": 3,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "P1-12-ADD-LAST-MODEL-D2",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-ADD-FIRST-MODEL-D1",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ],
+        [
+          129,
+          395
+        ],
+        [
+          161,
+          395
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "P1-12-ADD-FIRST-MODEL-D2",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "P1-12-REMOVE-MODEL-D1",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ],
+        [
+          129,
+          395
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-REMOVE-MODEL-D2",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ],
+        [
+          161,
+          485
+        ],
+        [
+          193,
+          485
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "P1-12-START-MODEL-D1",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ],
+        [
+          129,
+          395
+        ],
+        [
+          161,
+          395
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "P1-12-START-MODEL-D2",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-REVERSE-MODEL-D1",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "P1-12-REVERSE-MODEL-D2",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ],
+        [
+          161,
+          485
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "P1-12-CHECK-MODEL-D1",
+      "page": 8,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ],
+        [
+          129,
+          395
+        ],
+        [
+          161,
+          395
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "P1-12-CHECK-MODEL-D2",
+      "page": 8,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-FAMILY-MODEL-D1",
+      "page": 9,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "P1-12-FAMILY-MODEL-D2",
+      "page": 9,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ],
+        [
+          161,
+          485
+        ],
+        [
+          193,
+          485
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "P1-12-EVERY-ADD-MODEL-D1",
+      "page": 10,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "P1-12-EVERY-ADD-MODEL-D2",
+      "page": 10,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ],
+        [
+          129,
+          485
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "P1-12-EVERY-SUB-MODEL-D1",
+      "page": 11,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          395
+        ],
+        [
+          97,
+          395
+        ],
+        [
+          129,
+          395
+        ],
+        [
+          161,
+          395
+        ],
+        [
+          193,
+          395
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "P1-12-EVERY-SUB-MODEL-D2",
+      "page": 11,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          485
+        ],
+        [
+          97,
+          485
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "STORY-VISIBLE",
+      "page": 23,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          505
+        ],
+        [
+          97,
+          505
+        ],
+        [
+          129,
+          505
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "STORY-FOUND",
+      "page": 23,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          589
+        ],
+        [
+          97,
+          589
+        ],
+        [
+          129,
+          589
+        ],
+        [
+          161,
+          589
+        ]
+      ],
+      "count": 4
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

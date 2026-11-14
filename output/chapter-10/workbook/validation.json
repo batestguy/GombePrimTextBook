@@ -1,0 +1,659 @@
+{
+  "pages": 7,
+  "sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+  "page_manifest": [
+    {
+      "slug": "c10-wb-guided",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Try with Mr Aliyu",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-practice",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Add and show the places",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-Q1",
+        "P1-10-Q2",
+        "P1-10-Q3",
+        "P1-10-Q4"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-place",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Show the single-digit sum",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-Q4"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-story",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Pencils and an explanation",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-Q5",
+        "P1-10-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-check",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Check the amount",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-CHECK-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-help",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Remember and try again",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-RECALL",
+        "P1-10-HELP",
+        "P1-10-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-wb-fresh",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Try afresh",
+      "subtitle": "Read together. Say, point or write in this workbook.",
+      "task_ids": [
+        "P1-10-FRESH-TWO",
+        "P1-10-FRESH-ZERO",
+        "P1-10-FRESH-CHECK",
+        "P1-10-EXPLAIN"
+      ],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-10-GUIDED": [
+      1
+    ],
+    "P1-10-Q1": [
+      2
+    ],
+    "P1-10-Q2": [
+      2
+    ],
+    "P1-10-Q3": [
+      2
+    ],
+    "P1-10-Q4": [
+      2,
+      3
+    ],
+    "P1-10-Q5": [
+      4
+    ],
+    "P1-10-Q6": [
+      4
+    ],
+    "P1-10-CHECK-GUIDED": [
+      5
+    ],
+    "P1-10-RECALL": [
+      6
+    ],
+    "P1-10-HELP": [
+      6
+    ],
+    "P1-10-RECHECK": [
+      6
+    ],
+    "P1-10-FRESH-TWO": [
+      7
+    ],
+    "P1-10-FRESH-ZERO": [
+      7
+    ],
+    "P1-10-FRESH-CHECK": [
+      7
+    ],
+    "P1-10-EXPLAIN": [
+      7
+    ]
+  },
+  "objects": [
+    {
+      "id": "wb-guide11-ten-0",
+      "page": 1,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          315
+        ],
+        [
+          69.32,
+          315
+        ],
+        [
+          73.64,
+          315
+        ],
+        [
+          77.96,
+          315
+        ],
+        [
+          82.28,
+          315
+        ],
+        [
+          86.6,
+          315
+        ],
+        [
+          90.92,
+          315
+        ],
+        [
+          95.24,
+          315
+        ],
+        [
+          99.56,
+          315
+        ],
+        [
+          103.88,
+          315
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-guide11-ones",
+      "page": 1,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          315
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "wb-guide12-ten-0",
+      "page": 1,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          460
+        ],
+        [
+          69.32,
+          460
+        ],
+        [
+          73.64,
+          460
+        ],
+        [
+          77.96,
+          460
+        ],
+        [
+          82.28,
+          460
+        ],
+        [
+          86.6,
+          460
+        ],
+        [
+          90.92,
+          460
+        ],
+        [
+          95.24,
+          460
+        ],
+        [
+          99.56,
+          460
+        ],
+        [
+          103.88,
+          460
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-guide12-ones",
+      "page": 1,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          460
+        ],
+        [
+          386,
+          460
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "wb-story22-ten-0",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          300
+        ],
+        [
+          69.32,
+          300
+        ],
+        [
+          73.64,
+          300
+        ],
+        [
+          77.96,
+          300
+        ],
+        [
+          82.28,
+          300
+        ],
+        [
+          86.6,
+          300
+        ],
+        [
+          90.92,
+          300
+        ],
+        [
+          95.24,
+          300
+        ],
+        [
+          99.56,
+          300
+        ],
+        [
+          103.88,
+          300
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-story22-ten-1",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          132.0,
+          300
+        ],
+        [
+          136.32,
+          300
+        ],
+        [
+          140.64,
+          300
+        ],
+        [
+          144.96,
+          300
+        ],
+        [
+          149.28,
+          300
+        ],
+        [
+          153.6,
+          300
+        ],
+        [
+          157.92,
+          300
+        ],
+        [
+          162.24,
+          300
+        ],
+        [
+          166.56,
+          300
+        ],
+        [
+          170.88,
+          300
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-story22-ones",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          300
+        ],
+        [
+          386,
+          300
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "wb-story11-ten-0",
+      "page": 4,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          440
+        ],
+        [
+          69.32,
+          440
+        ],
+        [
+          73.64,
+          440
+        ],
+        [
+          77.96,
+          440
+        ],
+        [
+          82.28,
+          440
+        ],
+        [
+          86.6,
+          440
+        ],
+        [
+          90.92,
+          440
+        ],
+        [
+          95.24,
+          440
+        ],
+        [
+          99.56,
+          440
+        ],
+        [
+          103.88,
+          440
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-story11-ones",
+      "page": 4,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          440
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "wb-check13-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          315
+        ],
+        [
+          69.32,
+          315
+        ],
+        [
+          73.64,
+          315
+        ],
+        [
+          77.96,
+          315
+        ],
+        [
+          82.28,
+          315
+        ],
+        [
+          86.6,
+          315
+        ],
+        [
+          90.92,
+          315
+        ],
+        [
+          95.24,
+          315
+        ],
+        [
+          99.56,
+          315
+        ],
+        [
+          103.88,
+          315
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-check13-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          315
+        ],
+        [
+          386,
+          315
+        ],
+        [
+          407,
+          315
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "wb-check12-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          460
+        ],
+        [
+          69.32,
+          460
+        ],
+        [
+          73.64,
+          460
+        ],
+        [
+          77.96,
+          460
+        ],
+        [
+          82.28,
+          460
+        ],
+        [
+          86.6,
+          460
+        ],
+        [
+          90.92,
+          460
+        ],
+        [
+          95.24,
+          460
+        ],
+        [
+          99.56,
+          460
+        ],
+        [
+          103.88,
+          460
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "wb-check12-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          460
+        ],
+        [
+          386,
+          460
+        ]
+      ],
+      "count": 2
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

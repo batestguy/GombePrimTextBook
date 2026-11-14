@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "textbook": 15,
+    "workbook": 8
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf"
+  },
+  "checks": [
+    "114 original prompts/answers and 18 other lessons preserved",
+    "protected baseline hashes preserved",
+    "all deterministic dot counts verified against vector PDF marks",
+    "A4,embedded fonts,text bounds;all pages rendered",
+    "25 tasks matched;all subtraction/addback arithmetic recalculated"
+  ],
+  "status": "pending_independent_review"
+}

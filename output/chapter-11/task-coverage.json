@@ -1,0 +1,491 @@
+[
+  {
+    "id": "P1-11-SMALL-MODEL",
+    "answer": "7\u22123=4;4+3=7;four still on mat and three taken aside.",
+    "mode": "worked",
+    "calculations": [
+      [
+        7,
+        3,
+        4
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-11-SMALL-GUIDED",
+    "answer": "6\u22122=4;4+2=6.",
+    "mode": "guided",
+    "calculations": [
+      [
+        6,
+        2,
+        4
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-11-ALL-MODEL",
+    "answer": "4\u22124=0;0+4=4;empty remaining mat.",
+    "mode": "worked",
+    "calculations": [
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-11-BACK-MODEL",
+    "answer": "First step after8 is7;three steps7,6,5;8\u22123=5;5+3=8.",
+    "mode": "worked",
+    "calculations": [
+      [
+        8,
+        3,
+        5
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CROSS-MODEL",
+    "answer": "14\u22126=8;remove4 to10 then2 to8;8+6=14.",
+    "mode": "worked",
+    "calculations": [
+      [
+        14,
+        6,
+        8
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CROSS-GUIDED",
+    "answer": "12\u22125=7;11,10,9,8,7;8+5=13 fails;7+5=12.",
+    "mode": "guided",
+    "calculations": [
+      [
+        12,
+        5,
+        7
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CHECK-MODEL",
+    "answer": "9\u22124=5;5+4=9 restores starting amount.",
+    "mode": "worked",
+    "calculations": [
+      [
+        9,
+        4,
+        5
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q1",
+    "answer": "5",
+    "mode": "original independent",
+    "calculations": [
+      [
+        7,
+        2,
+        5
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q2",
+    "answer": "0",
+    "mode": "original independent",
+    "calculations": [
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q3",
+    "answer": "11",
+    "mode": "original independent",
+    "calculations": [
+      [
+        15,
+        4,
+        11
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q4",
+    "answer": "9",
+    "mode": "original independent",
+    "calculations": [
+      [
+        18,
+        9,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q5",
+    "answer": "9 pieces",
+    "mode": "original independent",
+    "calculations": [
+      [
+        12,
+        3,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-11-Q6",
+    "answer": "8 + 5 = 13.",
+    "mode": "original independent",
+    "calculations": [
+      [
+        13,
+        5,
+        8
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-11-RECALL",
+    "answer": "Subtract means take away;first backwards step is after start;remaining+removed=start.",
+    "mode": "recall",
+    "calculations": [],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-SMALL-HELP",
+    "answer": "3\u22121=2;2+1=3.",
+    "mode": "supported",
+    "calculations": [
+      [
+        3,
+        1,
+        2
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-SMALL-RECHECK",
+    "answer": "5\u22122=3;3+2=5.",
+    "mode": "fresh recheck",
+    "calculations": [
+      [
+        5,
+        2,
+        3
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CROSS-HELP",
+    "answer": "11\u22122=9;remove1 to10 then1 to9;9+2=11.",
+    "mode": "supported",
+    "calculations": [
+      [
+        11,
+        2,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CROSS-RECHECK",
+    "answer": "11\u22123=8;8+3=11.",
+    "mode": "fresh recheck",
+    "calculations": [
+      [
+        11,
+        3,
+        8
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-11-STORY",
+    "answer": "12\u22123=9pieces;9+3=12;three on tray,nine on mat.",
+    "mode": "story",
+    "calculations": [
+      [
+        12,
+        3,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        11
+      ]
+    }
+  },
+  {
+    "id": "P1-11-FRESH-SMALL",
+    "answer": "8\u22125=3;9\u22126=3;3+5=8;3+6=9.",
+    "mode": "fresh",
+    "calculations": [
+      [
+        8,
+        5,
+        3
+      ],
+      [
+        9,
+        6,
+        3
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-11-FRESH-CROSS",
+    "answer": "15\u22127=8;17\u22128=9;8+7=15;9+8=17.",
+    "mode": "fresh",
+    "calculations": [
+      [
+        15,
+        7,
+        8
+      ],
+      [
+        17,
+        8,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7,
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-11-FRESH-CHECK",
+    "answer": "16\u22127=9,not10;10+7=17 fails;9+7=16.",
+    "mode": "fresh",
+    "calculations": [
+      [
+        16,
+        7,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CHECK-RECHECK",
+    "answer": "6\u22123=3;3+3=6;fresh after support.",
+    "mode": "recheck",
+    "calculations": [
+      [
+        6,
+        3,
+        3
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-11-DELAYED",
+    "answer": "Nextsession:7\u22124=3;16\u22128=8;13\u22124=9;checks3+4=7,8+8=16,9+4=13.",
+    "mode": "delayed",
+    "calculations": [
+      [
+        7,
+        4,
+        3
+      ],
+      [
+        16,
+        8,
+        8
+      ],
+      [
+        13,
+        4,
+        9
+      ]
+    ],
+    "pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-11-CROSSOUT-MODEL",
+    "answer": "4\u22121=3;3+1=4;one crossed dot,three uncrossed.",
+    "mode": "worked",
+    "calculations": [
+      [
+        4,
+        1,
+        3
+      ]
+    ],
+    "pages": {
+      "workbook": [
+        1
+      ]
+    }
+  }
+]

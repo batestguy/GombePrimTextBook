@@ -1,0 +1,1164 @@
+{
+  "pages": 15,
+  "sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+  "page_manifest": [
+    {
+      "slug": "c10-story",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Pencils for the box-toy school",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "c10-review",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Ten ones make one ten",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-PLACE"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-join",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Watch: join like places",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-JOIN-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-columns",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "The same sum in columns",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-COLUMN-MODEL",
+        "P1-10-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-larger",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Watch: two tens and one ten",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-LARGE-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-zero",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Zero holds a place",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-ZERO-MODEL",
+        "P1-10-ZERO-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-one-digit",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Five goes in the ones place",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-ONE-DIGIT-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-check",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Check before you pack",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-CHECK-MODEL",
+        "P1-10-CHECK-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-practice",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Try it yourself",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-Q1",
+        "P1-10-Q2",
+        "P1-10-Q3",
+        "P1-10-Q4",
+        "P1-10-Q5",
+        "P1-10-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-recall",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Remember, then try a smaller step",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-RECALL",
+        "P1-10-HELP",
+        "P1-10-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-ending",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Now the pencils can be packed",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-STORY"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-fresh",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Show what you can do",
+      "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+      "task_ids": [
+        "P1-10-FRESH-TWO",
+        "P1-10-FRESH-ZERO",
+        "P1-10-FRESH-CHECK",
+        "P1-10-EXPLAIN"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c10-answers",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Answers to every task",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c10-guidance",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Support, checks and delayed recall",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [
+        "P1-10-DELAYED"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "c10-credits",
+      "kicker": "Chapter ten / Add tens and ones",
+      "title": "Words, evidence and next learning",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-10-PLACE": [
+      2
+    ],
+    "P1-10-JOIN-MODEL": [
+      3
+    ],
+    "P1-10-COLUMN-MODEL": [
+      4
+    ],
+    "P1-10-GUIDED": [
+      4
+    ],
+    "P1-10-LARGE-MODEL": [
+      5
+    ],
+    "P1-10-ZERO-MODEL": [
+      6
+    ],
+    "P1-10-ZERO-GUIDED": [
+      6
+    ],
+    "P1-10-ONE-DIGIT-MODEL": [
+      7
+    ],
+    "P1-10-CHECK-MODEL": [
+      8
+    ],
+    "P1-10-CHECK-GUIDED": [
+      8
+    ],
+    "P1-10-Q1": [
+      9
+    ],
+    "P1-10-Q2": [
+      9
+    ],
+    "P1-10-Q3": [
+      9
+    ],
+    "P1-10-Q4": [
+      9
+    ],
+    "P1-10-Q5": [
+      9
+    ],
+    "P1-10-Q6": [
+      9
+    ],
+    "P1-10-RECALL": [
+      10
+    ],
+    "P1-10-HELP": [
+      10
+    ],
+    "P1-10-RECHECK": [
+      10
+    ],
+    "P1-10-STORY": [
+      11
+    ],
+    "P1-10-FRESH-TWO": [
+      12
+    ],
+    "P1-10-FRESH-ZERO": [
+      12
+    ],
+    "P1-10-FRESH-CHECK": [
+      12
+    ],
+    "P1-10-EXPLAIN": [
+      12
+    ],
+    "P1-10-DELAYED": [
+      14
+    ]
+  },
+  "objects": [
+    {
+      "id": "tb-review12-ten-0",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          325
+        ],
+        [
+          69.32,
+          325
+        ],
+        [
+          73.64,
+          325
+        ],
+        [
+          77.96,
+          325
+        ],
+        [
+          82.28,
+          325
+        ],
+        [
+          86.6,
+          325
+        ],
+        [
+          90.92,
+          325
+        ],
+        [
+          95.24,
+          325
+        ],
+        [
+          99.56,
+          325
+        ],
+        [
+          103.88,
+          325
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-review12-ones",
+      "page": 2,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          325
+        ],
+        [
+          386,
+          325
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-join12-ten-0",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          295
+        ],
+        [
+          69.32,
+          295
+        ],
+        [
+          73.64,
+          295
+        ],
+        [
+          77.96,
+          295
+        ],
+        [
+          82.28,
+          295
+        ],
+        [
+          86.6,
+          295
+        ],
+        [
+          90.92,
+          295
+        ],
+        [
+          95.24,
+          295
+        ],
+        [
+          99.56,
+          295
+        ],
+        [
+          103.88,
+          295
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-join12-ones",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          295
+        ],
+        [
+          386,
+          295
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-join15-ten-0",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          440
+        ],
+        [
+          69.32,
+          440
+        ],
+        [
+          73.64,
+          440
+        ],
+        [
+          77.96,
+          440
+        ],
+        [
+          82.28,
+          440
+        ],
+        [
+          86.6,
+          440
+        ],
+        [
+          90.92,
+          440
+        ],
+        [
+          95.24,
+          440
+        ],
+        [
+          99.56,
+          440
+        ],
+        [
+          103.88,
+          440
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-join15-ones",
+      "page": 3,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          440
+        ],
+        [
+          386,
+          440
+        ],
+        [
+          407,
+          440
+        ],
+        [
+          428,
+          440
+        ],
+        [
+          449,
+          440
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-large23-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          285
+        ],
+        [
+          69.32,
+          285
+        ],
+        [
+          73.64,
+          285
+        ],
+        [
+          77.96,
+          285
+        ],
+        [
+          82.28,
+          285
+        ],
+        [
+          86.6,
+          285
+        ],
+        [
+          90.92,
+          285
+        ],
+        [
+          95.24,
+          285
+        ],
+        [
+          99.56,
+          285
+        ],
+        [
+          103.88,
+          285
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-large23-ten-1",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          132.0,
+          285
+        ],
+        [
+          136.32,
+          285
+        ],
+        [
+          140.64,
+          285
+        ],
+        [
+          144.96,
+          285
+        ],
+        [
+          149.28,
+          285
+        ],
+        [
+          153.6,
+          285
+        ],
+        [
+          157.92,
+          285
+        ],
+        [
+          162.24,
+          285
+        ],
+        [
+          166.56,
+          285
+        ],
+        [
+          170.88,
+          285
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-large23-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          285
+        ],
+        [
+          386,
+          285
+        ],
+        [
+          407,
+          285
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-large14-ten-0",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          430
+        ],
+        [
+          69.32,
+          430
+        ],
+        [
+          73.64,
+          430
+        ],
+        [
+          77.96,
+          430
+        ],
+        [
+          82.28,
+          430
+        ],
+        [
+          86.6,
+          430
+        ],
+        [
+          90.92,
+          430
+        ],
+        [
+          95.24,
+          430
+        ],
+        [
+          99.56,
+          430
+        ],
+        [
+          103.88,
+          430
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-large14-ones",
+      "page": 5,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          430
+        ],
+        [
+          386,
+          430
+        ],
+        [
+          407,
+          430
+        ],
+        [
+          428,
+          430
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-check12-ten-0",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          330
+        ],
+        [
+          69.32,
+          330
+        ],
+        [
+          73.64,
+          330
+        ],
+        [
+          77.96,
+          330
+        ],
+        [
+          82.28,
+          330
+        ],
+        [
+          86.6,
+          330
+        ],
+        [
+          90.92,
+          330
+        ],
+        [
+          95.24,
+          330
+        ],
+        [
+          99.56,
+          330
+        ],
+        [
+          103.88,
+          330
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-check12-ones",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          330
+        ],
+        [
+          386,
+          330
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-check11-ten-0",
+      "page": 8,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          475
+        ],
+        [
+          69.32,
+          475
+        ],
+        [
+          73.64,
+          475
+        ],
+        [
+          77.96,
+          475
+        ],
+        [
+          82.28,
+          475
+        ],
+        [
+          86.6,
+          475
+        ],
+        [
+          90.92,
+          475
+        ],
+        [
+          95.24,
+          475
+        ],
+        [
+          99.56,
+          475
+        ],
+        [
+          103.88,
+          475
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-check11-ones",
+      "page": 8,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          475
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-help12-ten-0",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          465
+        ],
+        [
+          69.32,
+          465
+        ],
+        [
+          73.64,
+          465
+        ],
+        [
+          77.96,
+          465
+        ],
+        [
+          82.28,
+          465
+        ],
+        [
+          86.6,
+          465
+        ],
+        [
+          90.92,
+          465
+        ],
+        [
+          95.24,
+          465
+        ],
+        [
+          99.56,
+          465
+        ],
+        [
+          103.88,
+          465
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-help12-ones",
+      "page": 10,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          465
+        ],
+        [
+          386,
+          465
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-story22-ten-0",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          310
+        ],
+        [
+          69.32,
+          310
+        ],
+        [
+          73.64,
+          310
+        ],
+        [
+          77.96,
+          310
+        ],
+        [
+          82.28,
+          310
+        ],
+        [
+          86.6,
+          310
+        ],
+        [
+          90.92,
+          310
+        ],
+        [
+          95.24,
+          310
+        ],
+        [
+          99.56,
+          310
+        ],
+        [
+          103.88,
+          310
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-story22-ten-1",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          132.0,
+          310
+        ],
+        [
+          136.32,
+          310
+        ],
+        [
+          140.64,
+          310
+        ],
+        [
+          144.96,
+          310
+        ],
+        [
+          149.28,
+          310
+        ],
+        [
+          153.6,
+          310
+        ],
+        [
+          157.92,
+          310
+        ],
+        [
+          162.24,
+          310
+        ],
+        [
+          166.56,
+          310
+        ],
+        [
+          170.88,
+          310
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-story22-ones",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          310
+        ],
+        [
+          386,
+          310
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-story11-ten-0",
+      "page": 11,
+      "kinds": [
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip",
+        "strip"
+      ],
+      "points": [
+        [
+          65.0,
+          460
+        ],
+        [
+          69.32,
+          460
+        ],
+        [
+          73.64,
+          460
+        ],
+        [
+          77.96,
+          460
+        ],
+        [
+          82.28,
+          460
+        ],
+        [
+          86.6,
+          460
+        ],
+        [
+          90.92,
+          460
+        ],
+        [
+          95.24,
+          460
+        ],
+        [
+          99.56,
+          460
+        ],
+        [
+          103.88,
+          460
+        ]
+      ],
+      "count": 10
+    },
+    {
+      "id": "tb-story11-ones",
+      "page": 11,
+      "kinds": [
+        "strip"
+      ],
+      "points": [
+        [
+          365,
+          460
+        ]
+      ],
+      "count": 1
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

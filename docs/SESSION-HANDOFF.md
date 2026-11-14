@@ -1,3 +1,127 @@
+# Chapter 12 completed - 14 November 2026
+
+P1-01 through P1-12 are independently approved for their exact current
+textbook/workbook pairs. The interrupted review was recovered by distinct reviewer
+`/root/chapter12_recovery_review`, who freshly inspected all 274 unique pages
+across 22 PDFs and independently solved every task, example, diagram and answer.
+The prior review evidence remains attributed to its original reviewer. Five draft
+refinements were confirmed resolved; no blocking or required finding remains.
+Evidence: [Chapter 12 independent review](../output/chapter-12/REVIEW.md).
+Root separately passed all twelve strict review gates, preflight, arithmetic,
+vector, frozen-file and preservation checks:
+[coordinator validation](../output/chapter-12/root-validation.json).
+
+Chapter 12, **Find a missing part**, Mr Aliyu:
+[40-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf)
+and [14-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; builder
+`python scripts/build_chapter_twelve.py`. All 53 task records, 86 true equations,
+22 counted diagram groups and six historical objectives are checked. Separate
+models teach both missing addends, missing removal, missing start, reversed
+equality, substitution and related families. Recall precedes help; each objective
+has support, a new recheck, fresh transfer and delayed recall. Textbook responses
+work in the workbook or an ordinary exercise book. Story stock resolves as
+three visible plus four hidden toy tops, making seven.
+
+All 114 original ordered Primary 1 prompts/answers, 18 other complete lessons,
+20 earlier reviewed paired PDFs, 156 protected file hashes and the other 51
+chapter records are preserved. All 21 historical generated files match their
+exact prebuild backups. The only supplementary change repairs S007's missing
+subtraction operator; all other supplementary fields/items are unchanged.
+
+Next: **P1-13 Money**, Mrs Binta. Seven existing units remain, plus annual
+revision/assessment, full-year assembly and the final four offline-AI pupil pages.
+These are reviewed continuation extracts, not a complete annual book. Current
+curriculum/adoption, local educator/pupil/accessibility evidence, physical print
+tests and printer approval remain pending. No publication, commit or push.
+Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Before future source changes, archive
+and reset affected approvals to pending; shared changes invalidate conservative
+fingerprints. Historical checkpoints below do not override this final state.
+
+---
+
+# Chapter 12 in progress - 13 November 2026
+
+User authorized proceeding with **P1-12 Find a missing part**, led by Mr Aliyu.
+Author `/root/chapter12_author` owns the new canonical pair, isolated builder,
+two PDFs, author evidence and the narrow S007 subtraction-operator repair.
+Distinct reviewer `/root/chapter12_review` is freshly examining the 220 previous
+pages across 20 exact PDFs while the author builds Chapter 12. Both sessions
+reported scope/current evidence before work. Native session state must be checked
+on recovery; file records alone do not prove a process is still running.
+
+Starting preflight passed. Root archived/reset all eleven shared approvals to
+pending before new canonical edits. Root saved immutable lessons/register/
+supplement snapshots, 156 protected file hashes and 21 exact historical backups
+under `output/chapter-12/`. Author must restore all historical bytes after legacy
+validation, including the root PDF, qmd and typ files. No new regeneration exception
+is authorized. Root owns final preservation/math/diagram/gate checks and tracking.
+
+Chapter 12 is not yet approved. Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Seven Primary 1 units remain after
+this one, plus annual revision/assessment, final four offline-AI pupil pages and
+whole-year assembly. Current curriculum/adoption, local trials and print/printer
+approval remain pending. No publication, commit or push.
+
+---
+
+# Chapter 11 completed - 13 November 2026
+
+P1-01 through P1-11 are independently approved for their exact current
+textbook/workbook pairs. Distinct reviewer `/root/chapter11_review` freshly
+inspected all 220 unique pages across 20 PDFs and independently solved every
+task, example, diagram and answer. One required evidence-encoding finding was
+corrected and independently rechecked; no blocking or required finding remains.
+Evidence: [Chapter 11 review](../output/chapter-11/REVIEW.md). Root separately
+passed all eleven strict review gates, preflight, frozen hashes and preservation
+checks: [coordinator validation](../output/chapter-11/root-validation.json).
+
+Chapter 11, **Take away**, Mrs Binta:
+[15-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf)
+and [8-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; build with
+`python scripts/build_chapter_eleven.py`. All 25 task IDs and 28 subtraction/
+add-back triples checked. Single-digit removal, zero, first backwards step,
+crossing ten and addition checks are modelled before independent work. Fresh
+transfer questions differ from taught/source examples. Workbook crossing out has
+a completed model; textbook supports an ordinary exercise book. The story's 12
+chalk pieces resolve as nine on the mat and three on the tray.
+
+All 114 original ordered Primary 1 prompts/answers, 18 other complete lessons,
+18 earlier reviewed paired PDFs, 135 protected original/shared inputs and the
+other 52 review records remain unchanged. Exact historical sample/contact and
+ignore-file backups were restored after legacy validation. One explicit exception:
+the authorized legacy build regenerated the ignored root historical combined PDF;
+its exact previous bytes were not backed up and could not be recovered. Historical
+rendering source remains byte-identical. No old/new PDF pixel equality is claimed.
+See [regeneration evidence](../output/chapter-11/historical-export-regeneration.json).
+
+Next: **P1-12 Find a missing part**, Mr Aliyu. Eight Primary 1 units, annual
+revision/assessment, full assembly and the final four offline-AI pupil pages remain.
+Current curriculum/adoption, local educator/pupil/accessibility certification,
+physical print tests and printer approval remain pending. No annual-completion
+or press-ready claim. No publication, commit or push. Follow
+[CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Reset approvals before future shared
+source changes; never reuse stale approval. Historical notes below describe their
+then-current artifacts and do not override the latest review.
+
+---
+
+# Chapter 10 completed - 2 November 2026
+
+P1-01 through P1-10 are independently approved for their exact registered textbook/workbook pairs. Distinct reviewer `/root/sol_reviewer` freshly inspected all 197 unique pages across 18 PDFs and independently solved every task, diagram, example and answer. No blocking or required finding remains. Evidence: [Chapter 10 review](../output/chapter-10/REVIEW.md). Root independently passed the ten strict chapter gates, preflight, frozen hashes and preservation checks: [coordinator validation](../output/chapter-10/root-validation.json).
+
+Chapter 10, Add tens and ones, Mr Aliyu: [15-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf) and [7-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf). Canonical production/p1.json paired_edition; build with `python scripts/build_chapter_ten.py`. All 25 task IDs are covered; actual sums are at most 40 and need no exchanging. Concrete tens/ones, labelled columns, zero ones, single-digit alignment and the Chapter 9 deferred checking totals 23/25 are modelled before fresh checks. Original brief, all 114 ordered original Primary 1 prompt/answer pairs, 18 other complete lessons, 16 earlier registered PDFs and protected shared sources remain unchanged. Historical sample/contact bytes were restored from current pre-edit backups after legacy validation. Other 53 review records remain unchanged and pending.
+
+Next: P1-11 Take away, Mrs Binta. Nine Primary 1 units, annual revision/assessment, full assembly and the final four offline-AI pupil pages remain. Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), [CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Reset approvals before source edits; do not reuse stale review. Current curriculum/adoption, local educator/pupil/accessibility certification, physical print tests and printer approval remain pending. No annual-completion or press-ready claim. No publication, commit or push.
+
+---
+
 # Chapter 9 completed - 1 November 2026
 
 P1-01 through P1-09 are independently approved for their exact registered textbook/workbook pairs. Reviewer `/root/sol_reviewer` freshly inspected all 175 unique pages across 16 PDFs and independently solved every task, diagram, example and answer. No unresolved blocking or required finding remains. Evidence: [Chapter 9 review](../output/chapter-9/REVIEW.md). Root separately passed all nine strict chapter gates, preflight, frozen-source/PDF and preservation checks; [coordinator validation](../output/chapter-9/root-validation.json). Other 54 chapter records remain unchanged and pending.

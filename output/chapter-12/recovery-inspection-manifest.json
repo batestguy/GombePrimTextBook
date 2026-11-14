@@ -1,0 +1,1930 @@
+{
+  "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+  "reviewed_on": "2026-11-14",
+  "all_pages_personally_opened_and_read": 274,
+  "personal_evidence": "recovery-progress.md; REVIEW.md",
+  "pages": [
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 1,
+      "png": "output/primary-1-opening/textbook/page-01.png",
+      "png_sha256": "71c31575592f8d7848db6c5af9a5f813db7035a8af99cdfcec1fb7081d52947d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 2,
+      "png": "output/primary-1-opening/textbook/page-02.png",
+      "png_sha256": "0e6100037c15061db87653bf90120c2638f5874213a96bd692948c0a00593ddf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 3,
+      "png": "output/primary-1-opening/textbook/page-03.png",
+      "png_sha256": "ae3c160d2cc2ca067165de436b8e6a4102f58c8de5961abafc35fc36af90ea4e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 4,
+      "png": "output/primary-1-opening/textbook/page-04.png",
+      "png_sha256": "93e55b022cd3e6c51c6e6a8d0f7c4f8275ab23877af3838dc059313feaa6d8db"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 5,
+      "png": "output/primary-1-opening/textbook/page-05.png",
+      "png_sha256": "5a2e6f083fb778444ac8deeca96dfbf55530f0c124403c92feb6bff0ab6a674d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 6,
+      "png": "output/primary-1-opening/textbook/page-06.png",
+      "png_sha256": "3eb63217cbccefd47d4fb5fefa4fe7526f554ea0a39a1c9030f47adb2bc36208"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 7,
+      "png": "output/primary-1-opening/textbook/page-07.png",
+      "png_sha256": "886bce1cdfa9edaa4402dc85ef5d9955ead7ed8661f4a9b24c6e78523acb6693"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 8,
+      "png": "output/primary-1-opening/textbook/page-08.png",
+      "png_sha256": "46701d8f99ea7a2125114518d708a3b0f9e52a144145cae24f254265a45b4d7f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 9,
+      "png": "output/primary-1-opening/textbook/page-09.png",
+      "png_sha256": "8b7be3f14478d0e4947450e4e8be309aafb61238fb843fb318b79ef594de8c15"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 10,
+      "png": "output/primary-1-opening/textbook/page-10.png",
+      "png_sha256": "4ca3d94ffc2ffe23f3ddb18ef525b86a2ce572c420523546f5f273f8aca0bed7"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 11,
+      "png": "output/primary-1-opening/textbook/page-11.png",
+      "png_sha256": "60f0ff4d5e2cba0f4d84be59baa65f1bb59746fd436e5e7b779957969f274500"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 12,
+      "png": "output/primary-1-opening/textbook/page-12.png",
+      "png_sha256": "2e37ce266ff63d92d020380f7629c63a109494951ec70752b77085c7914e69cd"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 13,
+      "png": "output/primary-1-opening/textbook/page-13.png",
+      "png_sha256": "90d8db78f0cb383423bc518c7440ee3e30ca23e0e8594f3e9b05eb031e6715c4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 14,
+      "png": "output/primary-1-opening/textbook/page-14.png",
+      "png_sha256": "b46822b831277d937d19012a7342cbfdff8ac16e7e47184cd63425de7039fc42"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 15,
+      "png": "output/primary-1-opening/textbook/page-15.png",
+      "png_sha256": "be74a26f74a5261231a7138afad26d209ccc9c8a5a1ebd2ab1a07a6f487d181b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 16,
+      "png": "output/primary-1-opening/textbook/page-16.png",
+      "png_sha256": "a0708c577172d0a28415afd8bb4b63fe51bef5560990cd58ef85c58268077329"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 17,
+      "png": "output/primary-1-opening/textbook/page-17.png",
+      "png_sha256": "57cb355a9983d72f7c5b9eb36996930b8554fa8e2e62ecf42e5655aaa6109020"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 18,
+      "png": "output/primary-1-opening/textbook/page-18.png",
+      "png_sha256": "9c6cbe761e3528598500d357aa44d3dedd49d1399e8338742dc76dbd461cea50"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 19,
+      "png": "output/primary-1-opening/textbook/page-19.png",
+      "png_sha256": "509ec21337581c7461de8fe2116b9b31ec1567f0609a71b3dfd2692653c78f75"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 20,
+      "png": "output/primary-1-opening/textbook/page-20.png",
+      "png_sha256": "ebec46f914af5e4f13e5eeeceff591f091f4e6ecd29f81de24cf26b9edc3835b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 21,
+      "png": "output/primary-1-opening/textbook/page-21.png",
+      "png_sha256": "93c5e40884f622382999501f4dfca108fdfd58fca6fa2a6cf5345428840b9c90"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pdf_sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+      "page": 22,
+      "png": "output/primary-1-opening/textbook/page-22.png",
+      "png_sha256": "e99e2f9e0049e47d812ad8bb80798f7ef09524467834625fca0718f36542a1b0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 1,
+      "png": "output/primary-1-opening/workbook/page-01.png",
+      "png_sha256": "a4867ace7d7722960d12f210eef1fff24d2f738085b330b8f72b2e5c169afb5f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 2,
+      "png": "output/primary-1-opening/workbook/page-02.png",
+      "png_sha256": "923ba66d556584f32877723b4b73b5943a99669b0c58bd06dec522fd4e356e2a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 3,
+      "png": "output/primary-1-opening/workbook/page-03.png",
+      "png_sha256": "8e226c07998fb0d41ea9de324afd74c19c0d8dad09b085ead57fb70866aa6346"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 4,
+      "png": "output/primary-1-opening/workbook/page-04.png",
+      "png_sha256": "83ed968649c6d356842aa1d120626f4f2882b94f0a4235378ea974aa2478d775"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 5,
+      "png": "output/primary-1-opening/workbook/page-05.png",
+      "png_sha256": "a627a80fc32da2f3b35ecc673701b403cd30c078310847cedcaf87e8c395c79a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 6,
+      "png": "output/primary-1-opening/workbook/page-06.png",
+      "png_sha256": "abd87cf995116d82ad75e1007e378e52950c0c43bedbe8e320f8ad99f1788674"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 7,
+      "png": "output/primary-1-opening/workbook/page-07.png",
+      "png_sha256": "5e1ed913e74917d6f0a9c9ce97bf3838f46af98fc7aa93b9f8262727f76e1116"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 8,
+      "png": "output/primary-1-opening/workbook/page-08.png",
+      "png_sha256": "214f4678822e0f5a80fd344b5bd6bbdc1224a21f617e19f720ace9e548b8e97f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 9,
+      "png": "output/primary-1-opening/workbook/page-09.png",
+      "png_sha256": "15709cbbcf4be6b98fdab3e0ad2d4a9e1a704849ed9fcafe5830aa6f9b50e5c5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pdf_sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+      "page": 10,
+      "png": "output/primary-1-opening/workbook/page-10.png",
+      "png_sha256": "f9e31c99a3a8b3daa48f9929c2f59a1eb1222de73862b2f42ed9bd98c3f9c87f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 1,
+      "png": "output/chapter-3/textbook/page-01.png",
+      "png_sha256": "c51d03ec0afe1dbce53f03f2cbb3b52d6e9656ccdd644d78918837a95f202ee0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 2,
+      "png": "output/chapter-3/textbook/page-02.png",
+      "png_sha256": "1a024b6568809d2321911bd86bf84a7435b38d1e1cf556e7731e7026b67dba10"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 3,
+      "png": "output/chapter-3/textbook/page-03.png",
+      "png_sha256": "2d984ef2d613b9a31a50ecf058ee5a18e7c8538bee36ae026c26847a39f87ee4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 4,
+      "png": "output/chapter-3/textbook/page-04.png",
+      "png_sha256": "28dd0466bf7f5fa33bc632469327480df4cc4992669698ecac15509d28bc2bf8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 5,
+      "png": "output/chapter-3/textbook/page-05.png",
+      "png_sha256": "5ecc8959777cdd422e64b45cad6e8cdf8bf4ccb11e8b01bf59bd4b7d3d8bddc1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 6,
+      "png": "output/chapter-3/textbook/page-06.png",
+      "png_sha256": "202016cb2ebec67dcf3a12ae5cda3c091cd80d3d0c1bff17ab69522ef8dc95bf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 7,
+      "png": "output/chapter-3/textbook/page-07.png",
+      "png_sha256": "ead158b53a496f3d3b2c62f209812a71c68f4ae23befaa447c5fe400d41401ab"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 8,
+      "png": "output/chapter-3/textbook/page-08.png",
+      "png_sha256": "bfa3d7c79ff37afd6e902546b6fae4e3e861cd467dee9857addede8210a31785"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pdf_sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+      "page": 9,
+      "png": "output/chapter-3/textbook/page-09.png",
+      "png_sha256": "1673a730f29b73089b221a9d836d430c366a8add1f9a445886ad3cd7d1bc7836"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "pdf_sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+      "page": 1,
+      "png": "output/chapter-3/workbook/page-01.png",
+      "png_sha256": "f24c0a203302cb5c63d41d15105a538eb9e982f1986504518debb44f3224d6be"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "pdf_sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+      "page": 2,
+      "png": "output/chapter-3/workbook/page-02.png",
+      "png_sha256": "772e1b5f6ca0975aed334060e47d3693a065c4d8748bc212d3e568eec12f4475"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "pdf_sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+      "page": 3,
+      "png": "output/chapter-3/workbook/page-03.png",
+      "png_sha256": "e233606db17ef2a1e21feb9d8a0b0b9a828f4c348f61a187cedf246adde8fbdf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "pdf_sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+      "page": 4,
+      "png": "output/chapter-3/workbook/page-04.png",
+      "png_sha256": "55f87183e0e0fac518c9d3d30a3ace7b16b8a33c225923e02a17f167b690cf5c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 1,
+      "png": "output/chapter-4/textbook/page-01.png",
+      "png_sha256": "d6af5ea0b2532f9a3f216429b341e53cec309831ece0c9ab7032f18a9fb1a6c0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 2,
+      "png": "output/chapter-4/textbook/page-02.png",
+      "png_sha256": "8a35bb818f2f93372cb476db9fa44c11d8b562e0199e8be6e3441f24b81c639e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 3,
+      "png": "output/chapter-4/textbook/page-03.png",
+      "png_sha256": "31a8a6bfcc8ca2f3c861a9ef70fcd6f09ed206aa16e1b6fcf301cb19dfe2bd9f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 4,
+      "png": "output/chapter-4/textbook/page-04.png",
+      "png_sha256": "3b627933bdb401f8fe9718c9a718952faad81cb672af12899ddfc3a1c29fb229"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 5,
+      "png": "output/chapter-4/textbook/page-05.png",
+      "png_sha256": "df3c964c4f2f727c66508e4e0afb0d415fdd44b2d6fea42281c8299fe8a2eae8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 6,
+      "png": "output/chapter-4/textbook/page-06.png",
+      "png_sha256": "094c54af7731dc7796072244bd053ecf214c199608ad1a07b3d2ebe82b7ebf55"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 7,
+      "png": "output/chapter-4/textbook/page-07.png",
+      "png_sha256": "084c60461cf69fdbcb2ee606e1f3183ca2985c4f7e9014c19ee03d787b8b8ec4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 8,
+      "png": "output/chapter-4/textbook/page-08.png",
+      "png_sha256": "deae12d141230d9c8541fe62d8994901b28713dee10e2681db74753803e9fca2"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 9,
+      "png": "output/chapter-4/textbook/page-09.png",
+      "png_sha256": "8962d4cb9638c0b2b21ec4e097724bcbbcb36a75f5e7add89c74554909d151be"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 10,
+      "png": "output/chapter-4/textbook/page-10.png",
+      "png_sha256": "d8796cb2db16d008cfc44ca1db615dc1c7728b2611199a84440eb264c542f673"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pdf_sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+      "page": 11,
+      "png": "output/chapter-4/textbook/page-11.png",
+      "png_sha256": "967b00026bf05851bdca68d62db8335e475c958b14eaafc4f7ac15fd091d517c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 1,
+      "png": "output/chapter-4/workbook/page-01.png",
+      "png_sha256": "720d146d0ccf2a59c06276b7c2c8307dca75f50587e2c04dc8bba42ddebc94b1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 2,
+      "png": "output/chapter-4/workbook/page-02.png",
+      "png_sha256": "62aaa7626a9db2bdfd4a49c155c1ce81949e77798bc75777b43d2e53980d813f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 3,
+      "png": "output/chapter-4/workbook/page-03.png",
+      "png_sha256": "5dae2e965fdcd6a7a6bedc3a017353ca5ec2f44416febb921e159a8a4837b5c5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 4,
+      "png": "output/chapter-4/workbook/page-04.png",
+      "png_sha256": "b234dba3609e2f7c367f93b49aab75459946bb924bfab721864dbc19130d53fe"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 5,
+      "png": "output/chapter-4/workbook/page-05.png",
+      "png_sha256": "cff424bd2252d99476aca1c291cdf9fdff12bccba2822dcedc3d5bfabdb248ac"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pdf_sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+      "page": 6,
+      "png": "output/chapter-4/workbook/page-06.png",
+      "png_sha256": "32116887015e419521916781a947f563222e564a289c0c2bd665148961b39259"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 1,
+      "png": "output/chapter-5/textbook/page-01.png",
+      "png_sha256": "705e452d467c2d3c75b405e5749fded948578a0da18f7384d587c8ebc2254030"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 2,
+      "png": "output/chapter-5/textbook/page-02.png",
+      "png_sha256": "c648aca43843aa10fe6e451d44ccb7b6fd3046f61c68f319c2da22b08f64fd3d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 3,
+      "png": "output/chapter-5/textbook/page-03.png",
+      "png_sha256": "160bcb10e47ae5217fb75a2ab4366810a6fd730e20cf1211d33aa9c5261466a0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 4,
+      "png": "output/chapter-5/textbook/page-04.png",
+      "png_sha256": "32b27f06e4ef0f7ebf3ed3ae3f1726692f11226b58e41dd32c1235fc74532abc"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 5,
+      "png": "output/chapter-5/textbook/page-05.png",
+      "png_sha256": "3a2e2d91561d880692c2f3b918738084bbca0effed0e193e824f5a5b150cf52e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 6,
+      "png": "output/chapter-5/textbook/page-06.png",
+      "png_sha256": "27bb4256048ff71265c3c5b5c7a0ac2c49455fc2b0f167b0afedca009cc771d5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 7,
+      "png": "output/chapter-5/textbook/page-07.png",
+      "png_sha256": "b183246eb2b94401acac83b3fade2c171f775e49465746ff442d8b9ed92342fc"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 8,
+      "png": "output/chapter-5/textbook/page-08.png",
+      "png_sha256": "f1431cc1f5b68282534b99e819c11cb2d9be03a0f9582f83b64d405fe51ab02a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 9,
+      "png": "output/chapter-5/textbook/page-09.png",
+      "png_sha256": "1e7facc09f996ffe5a339f0480832c59b9b678b73748c1d7396dc155954fd658"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 10,
+      "png": "output/chapter-5/textbook/page-10.png",
+      "png_sha256": "f7be5e0b50ede71f6068eef1eaea5f958544aeba350180df7956b36bcd3b6381"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 11,
+      "png": "output/chapter-5/textbook/page-11.png",
+      "png_sha256": "95885eafae5426b20c7399ca06b64b2d71b21ee458d7a930c94ab8c01ced07ed"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 12,
+      "png": "output/chapter-5/textbook/page-12.png",
+      "png_sha256": "463aca79f69e8c83d709f9ccdc231cd4509a3683be48ebff90f68c3ec428026e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pdf_sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+      "page": 13,
+      "png": "output/chapter-5/textbook/page-13.png",
+      "png_sha256": "145052413dc2f8496dc8bce6568eb8b879145406d488e1564971ef38991af604"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 1,
+      "png": "output/chapter-5/workbook/page-01.png",
+      "png_sha256": "2b6e930f64a91bf5afeadd26b53a43f9942366b2e35ab48adde9a7c7d10c1ca4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 2,
+      "png": "output/chapter-5/workbook/page-02.png",
+      "png_sha256": "68e9ddebc41ad6eca0fdfa746e853207c00d89095cf20d6c1178ae406640e1d5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 3,
+      "png": "output/chapter-5/workbook/page-03.png",
+      "png_sha256": "3a82fd046043cb547022d9faebb35b30cbc2e33a580b9b79ff69ec002d51ee61"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 4,
+      "png": "output/chapter-5/workbook/page-04.png",
+      "png_sha256": "16453ccce8ae6f9e0afc5e99b95165ca3bf9a048daad72d822e6285a47570929"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 5,
+      "png": "output/chapter-5/workbook/page-05.png",
+      "png_sha256": "cc76076407a9963f78a5e4fbde6dddb4f12c0b86b7a01ff7c4588f14dcc4a372"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pdf_sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+      "page": 6,
+      "png": "output/chapter-5/workbook/page-06.png",
+      "png_sha256": "f1de9059f7b6084b563c850ccb58b4374cb6b6b5c2c465d5ebc40487744a031a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 1,
+      "png": "output/chapter-6/textbook/page-01.png",
+      "png_sha256": "da91c443eddd908213befec0f2e0f454a2470a1b6daef60eb94b29ff988996a4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 2,
+      "png": "output/chapter-6/textbook/page-02.png",
+      "png_sha256": "74099204f5c2be660fc955e9d2ab7df43b5beb5803f7ce5b3afa74297a1885f8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 3,
+      "png": "output/chapter-6/textbook/page-03.png",
+      "png_sha256": "2e230cd7cddbbb40d336ca50caee47bfb4c64eaf45d7d0bf8918f546d1faf598"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 4,
+      "png": "output/chapter-6/textbook/page-04.png",
+      "png_sha256": "52343ba6d040615a21693d7ad56b679eef93fead6cbd4d887fcf4e6b2c422e71"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 5,
+      "png": "output/chapter-6/textbook/page-05.png",
+      "png_sha256": "cda2507eb8a107638126fb6967178832f12c5f9f01320a7ac550fc95c0d18cca"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 6,
+      "png": "output/chapter-6/textbook/page-06.png",
+      "png_sha256": "1bdd988a74ac9bff9670a4782e655430d785a4e09c67439ab2b7744bb5284e03"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 7,
+      "png": "output/chapter-6/textbook/page-07.png",
+      "png_sha256": "98ba446728ed7f82f59b44e1d8b80f688dcc0d029f69ea6699cb0fcddb7083eb"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 8,
+      "png": "output/chapter-6/textbook/page-08.png",
+      "png_sha256": "fa1da718c40b4552c77adf1cdcb4a47d5fe59467ead33a9fda30e871154becee"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 9,
+      "png": "output/chapter-6/textbook/page-09.png",
+      "png_sha256": "b18b987c5d67265f7e3b8f1464668bfd63e329cbdf9139e95f2a300ec0412621"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 10,
+      "png": "output/chapter-6/textbook/page-10.png",
+      "png_sha256": "3fd7965768c78792f630da89b840520fd43b1294c9118d8214cbf1d949d43e18"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 11,
+      "png": "output/chapter-6/textbook/page-11.png",
+      "png_sha256": "178c4bf08d088e4706e51da7aa8bbf75d39b16fdfc36458390cbc7b2e4dfe7ee"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 12,
+      "png": "output/chapter-6/textbook/page-12.png",
+      "png_sha256": "3b71c16fac978de145e7b0180c0d433059edef441eacfeb7d77de0453424c148"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 13,
+      "png": "output/chapter-6/textbook/page-13.png",
+      "png_sha256": "fec3b95cb67c38e94f4a26d7aad7aa8cab47494ab6f5c8d244e89666b2497869"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 14,
+      "png": "output/chapter-6/textbook/page-14.png",
+      "png_sha256": "134f7ef2eac6805f1b82cd7686e01d72659ced886023cd46c0104fd6e74bf73a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 15,
+      "png": "output/chapter-6/textbook/page-15.png",
+      "png_sha256": "ccaa2e38eb9786198972818ede256a9da8e851bc9e9c7f51ad3a53c4c8ec6c12"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 16,
+      "png": "output/chapter-6/textbook/page-16.png",
+      "png_sha256": "ee6549e232e208c80d9d0c2b5d08c93195411a0ac976dc98c317d58744c951e5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 17,
+      "png": "output/chapter-6/textbook/page-17.png",
+      "png_sha256": "d5c6be8b3a8e492e4f591849f9c1f0675d2333660d6ab68b1b556a3b5b7c76ba"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 18,
+      "png": "output/chapter-6/textbook/page-18.png",
+      "png_sha256": "b86186de41004ecd2bc0bb9233c370fbbef8a01bea57fe15d5826ffe38989d4e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 19,
+      "png": "output/chapter-6/textbook/page-19.png",
+      "png_sha256": "46075296518c28460c93c85f9005d93338fd473564a2866018ed9db48d2ebbdd"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 20,
+      "png": "output/chapter-6/textbook/page-20.png",
+      "png_sha256": "73800b0a10d1cc2a8c61b468547d52c95d9078f75dd511335fabdd624c6cfe2b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pdf_sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+      "page": 21,
+      "png": "output/chapter-6/textbook/page-21.png",
+      "png_sha256": "969df07632d48fe5e932d3f2bae86fe542ce6b241f134ff59d08b92394f4398b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 1,
+      "png": "output/chapter-6/workbook/page-01.png",
+      "png_sha256": "4c32479f5942b97f207a25c3962daddfae5de27f4d662b1d8aee8b8320a4e25b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 2,
+      "png": "output/chapter-6/workbook/page-02.png",
+      "png_sha256": "6d9684c2955314d1afda18391f0a8de81b8362acebe7022ffcdf04b050ea5178"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 3,
+      "png": "output/chapter-6/workbook/page-03.png",
+      "png_sha256": "54123398d1154b72d403d294d30799f3f3aec3b63bba5b4f11a04447474a60e1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 4,
+      "png": "output/chapter-6/workbook/page-04.png",
+      "png_sha256": "94450325162192c84c33b897da1c21dfae2c5ab4f1152d5aa19715352ca820a1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 5,
+      "png": "output/chapter-6/workbook/page-05.png",
+      "png_sha256": "1be361d903b202b7bfab16324f08b5a311f1de5978e8a8ce3eed40cbda83626f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 6,
+      "png": "output/chapter-6/workbook/page-06.png",
+      "png_sha256": "d1f1e3babe39a35b54d49c0ce18c275bbaf9ac9368b62f85e3d7e77d04c6cb82"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 7,
+      "png": "output/chapter-6/workbook/page-07.png",
+      "png_sha256": "fb06db1edea873262e2f3aa362c98033e7c01e01340d96f6b3a8d411c496d8c9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 8,
+      "png": "output/chapter-6/workbook/page-08.png",
+      "png_sha256": "de820000df73aa961e0fb91cb5c715d81708fadc0bda8689aedeb2b3810d6351"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 9,
+      "png": "output/chapter-6/workbook/page-09.png",
+      "png_sha256": "57a1b38ee9f341b19240f13273f5333442170b91d6134278c008d506927995ce"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 10,
+      "png": "output/chapter-6/workbook/page-10.png",
+      "png_sha256": "c7a5fc621051e20b0d6b0e751a8947a2453f0bcce7a7c20f3c32a0250b7205c3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 11,
+      "png": "output/chapter-6/workbook/page-11.png",
+      "png_sha256": "5e69540eed73388de138ed7b2a9c8ad179a9e87912bcc2dbe4ed9a83bbd8e5e5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 12,
+      "png": "output/chapter-6/workbook/page-12.png",
+      "png_sha256": "9d89271def64b5e7b866cd4ce6d25f190eddbbd5a423c96f6185862d5ab2340c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 13,
+      "png": "output/chapter-6/workbook/page-13.png",
+      "png_sha256": "889735f9b684ce77598cbcb5a6217ce2e5ee323e848d1c7491546f082d81be9b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pdf_sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+      "page": 14,
+      "png": "output/chapter-6/workbook/page-14.png",
+      "png_sha256": "c4148705ad96ec65ad22fc63cfb54af9afea78811b560a85fa4fb1cde1eacf84"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 1,
+      "png": "output/chapter-7/textbook/page-01.png",
+      "png_sha256": "6c4b18d9cb2910fcb1610ad29269d69524b0a93a4ff79004c04844b223d5ba26"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 2,
+      "png": "output/chapter-7/textbook/page-02.png",
+      "png_sha256": "546f5dc07279170575f5fae81161fe9001bce17a338be9c00ce5f68abc96db79"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 3,
+      "png": "output/chapter-7/textbook/page-03.png",
+      "png_sha256": "6cfb46bfc609610f8616c1ef5e24690bf96b5602d813372bcb2a41b848bfe1a8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 4,
+      "png": "output/chapter-7/textbook/page-04.png",
+      "png_sha256": "725ceddc97fec70e60dbf47c9e3696c2ad31cde324528519ade597e217dae444"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 5,
+      "png": "output/chapter-7/textbook/page-05.png",
+      "png_sha256": "7e794a438741990402ca323d76b09b14c450290a41f85e382574f1e74cb2f6c2"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 6,
+      "png": "output/chapter-7/textbook/page-06.png",
+      "png_sha256": "df8d8e2cc2501cf8c57dd47f610f9b7f6f75b717ad4986d4a84c7cf2114efef7"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 7,
+      "png": "output/chapter-7/textbook/page-07.png",
+      "png_sha256": "d5af947f23e5bf800ebdfc5fb70bddd0269d43f90d350255da3cc674ded84aac"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 8,
+      "png": "output/chapter-7/textbook/page-08.png",
+      "png_sha256": "486f7d374ee1b155f866aebcc475ed87a293bfce2bef80e51b51774ff6eaae4f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 9,
+      "png": "output/chapter-7/textbook/page-09.png",
+      "png_sha256": "eaf3beead80b0055c4aba3d458db0f09fabf5b99c67f17d7312d79876b5bc832"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 10,
+      "png": "output/chapter-7/textbook/page-10.png",
+      "png_sha256": "2fd309b75c637c4f46bf2f9902c00203f1b13b255350f590fc1a1c671e130f15"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 11,
+      "png": "output/chapter-7/textbook/page-11.png",
+      "png_sha256": "3c0d8498d7ece7258f1537e87a8085ec946f3f1a0307602d729bf80866545f6b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 12,
+      "png": "output/chapter-7/textbook/page-12.png",
+      "png_sha256": "1e828608483903b74e6881c4b49e6f52f5b99f12b7b763b35bc27d249919d807"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pdf_sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+      "page": 13,
+      "png": "output/chapter-7/textbook/page-13.png",
+      "png_sha256": "b651e7964562fe7fffc55198e518990d35aaf3e95c119dead17619bccd194d8d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 1,
+      "png": "output/chapter-7/workbook/page-01.png",
+      "png_sha256": "c3ad9af4ec2b9078f733f597793037e9ec4a0f0379c52552f055e3a97ffb9683"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 2,
+      "png": "output/chapter-7/workbook/page-02.png",
+      "png_sha256": "9e8565f3bc9c21b82dab573ffe092d15ac2a1bacfb9a8b9a0850b2a60c9d9538"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 3,
+      "png": "output/chapter-7/workbook/page-03.png",
+      "png_sha256": "cd0e8a0c0f4c73c250b1ffbf0671d766d59bf0f88c8a16bcc974ddb73ab8af94"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 4,
+      "png": "output/chapter-7/workbook/page-04.png",
+      "png_sha256": "1e03898007339093a679e53e4fd70b7eac07e76b45831979edae462e7a312f91"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 5,
+      "png": "output/chapter-7/workbook/page-05.png",
+      "png_sha256": "99f9e56b02f9a4a1a3640037553a08bca2492fae2213f07be28c5b46f71d3b67"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pdf_sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+      "page": 6,
+      "png": "output/chapter-7/workbook/page-06.png",
+      "png_sha256": "a93a3480ab99f1e479ea2d7bdea664b8043c3bf1c11db57adbd537ec5ad6b939"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 1,
+      "png": "output/chapter-8/textbook/page-01.png",
+      "png_sha256": "50b1fe6165f53085dd95e812688da37492b5be52699eadf30f99002d7c6b7ec4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 2,
+      "png": "output/chapter-8/textbook/page-02.png",
+      "png_sha256": "e3c5b9ece788380fe58e2b0374649aec19d3a0e8c0f0dcb21b193a203b2d571c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 3,
+      "png": "output/chapter-8/textbook/page-03.png",
+      "png_sha256": "6f9430520a466176f54e7da01ddb3c2d3c06a19752fdff9f20793f902d262325"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 4,
+      "png": "output/chapter-8/textbook/page-04.png",
+      "png_sha256": "c2bad3d8826539cd5359c237ee5aef04519373e91c60df9fc0de83eece71554d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 5,
+      "png": "output/chapter-8/textbook/page-05.png",
+      "png_sha256": "572dcc4a9d0e07a0dc8324b24a479b957b3f9795519b620188b8ded0251c7ca3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 6,
+      "png": "output/chapter-8/textbook/page-06.png",
+      "png_sha256": "7fc8f2ae9406130f6dc0f390c6856d3108adf841a4d67100517db054eb046be5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 7,
+      "png": "output/chapter-8/textbook/page-07.png",
+      "png_sha256": "e7bab974f25dd11f22edebbafb45488e2d1d15dd1fa6f542e77e394b6f0a9af2"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 8,
+      "png": "output/chapter-8/textbook/page-08.png",
+      "png_sha256": "709fc43cb118473bd54ce0980e5c360689a769316130a29ed888c8f449d8b1a6"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 9,
+      "png": "output/chapter-8/textbook/page-09.png",
+      "png_sha256": "4180ca0df38db112d8939bd88933953a45c69e6da1c842338bccc57c7013ab14"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 10,
+      "png": "output/chapter-8/textbook/page-10.png",
+      "png_sha256": "7b0bf1ff4a747cdad8e0195a1c178bb6d8472384d2fd3368fa7d99bab3646306"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pdf_sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+      "page": 11,
+      "png": "output/chapter-8/textbook/page-11.png",
+      "png_sha256": "213c4d945b28d23cfe9d78c780908b2c41c8db4e244c04aec0315ee0cc80e414"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 1,
+      "png": "output/chapter-8/workbook/page-01.png",
+      "png_sha256": "4567000f14e2b3af8ad78d8e8f89ce264b38397c5915ca0d862c476145a07a4b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 2,
+      "png": "output/chapter-8/workbook/page-02.png",
+      "png_sha256": "f3fd4241fea9b0c6ab2acc6cec4ee945bef0f7fd73feb44a136834b6bd045bf0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 3,
+      "png": "output/chapter-8/workbook/page-03.png",
+      "png_sha256": "f796934534a9346387a1b4ca2e58a7e5883f6eff3c8b00d64b75e68ab43d7be1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 4,
+      "png": "output/chapter-8/workbook/page-04.png",
+      "png_sha256": "c572797bffef2fb8d4e88268992ab3b2f23d96cf2a69cd14f2fa4e12f665c627"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 5,
+      "png": "output/chapter-8/workbook/page-05.png",
+      "png_sha256": "64d9ab7e7824b0871d202eb6b7b4b71af66993bec211fd94cc4c82cc9998e9c9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pdf_sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+      "page": 6,
+      "png": "output/chapter-8/workbook/page-06.png",
+      "png_sha256": "23805effd57f7f0efb64a6c2097b99db655c9b040e861b3b9eb2860e8f32781b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 1,
+      "png": "output/chapter-9/textbook/page-01.png",
+      "png_sha256": "6e7dce3a8cbd90e97e9038ec21d7e755791367ef5a5dd94b30bd2fcd5973d932"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 2,
+      "png": "output/chapter-9/textbook/page-02.png",
+      "png_sha256": "d1323ca369a438497a7bf025959aad4516a1fc440f70cd6537e4ae862a9c0132"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 3,
+      "png": "output/chapter-9/textbook/page-03.png",
+      "png_sha256": "09cc03b2653ea492956eac86180512574b044aa1cb5b9eb6d8277309fe29cba8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 4,
+      "png": "output/chapter-9/textbook/page-04.png",
+      "png_sha256": "3145d993ef3e03e3e5d175e992e7968eb3d2a12b8732234b1099f9d849ab060b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 5,
+      "png": "output/chapter-9/textbook/page-05.png",
+      "png_sha256": "d1f7f6122b66289ee880b174a02b07805025178477db6817969a51598b5c3daa"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 6,
+      "png": "output/chapter-9/textbook/page-06.png",
+      "png_sha256": "b7ed2371ea88c028093fca6bdddd4918db1b1e99a3d77c289fbdf06b3b6c1568"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 7,
+      "png": "output/chapter-9/textbook/page-07.png",
+      "png_sha256": "7a3696316f0bf31ae6615b37e9f0b045e0941c82045fb40b947cabf5ebec0d3d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 8,
+      "png": "output/chapter-9/textbook/page-08.png",
+      "png_sha256": "bfc0d84c23502f494767846f4e7df5b0219f45fb36425afca1bd2b04a3cbcb69"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 9,
+      "png": "output/chapter-9/textbook/page-09.png",
+      "png_sha256": "a27f1c7d8be0ecabf841d38fb582b242140631624a4970305e49f945d615cd01"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 10,
+      "png": "output/chapter-9/textbook/page-10.png",
+      "png_sha256": "cdaa7a0c3c1d541ec4d65d75ee7b941eb6170152a0b7d66e37fed93b4f840c9b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 11,
+      "png": "output/chapter-9/textbook/page-11.png",
+      "png_sha256": "97b1848e0992e919029dc793769716b6a34ef7c099af47a69aea49b84a71c381"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 12,
+      "png": "output/chapter-9/textbook/page-12.png",
+      "png_sha256": "35e6df0ceaa01622522cdce9e8312fcd84730cee59e13b35bb299b95cbf37109"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 13,
+      "png": "output/chapter-9/textbook/page-13.png",
+      "png_sha256": "e9924661ca52a0c62918e22cfa8f9334ed6f2ebcd2991488a4b5d525c5f107db"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 14,
+      "png": "output/chapter-9/textbook/page-14.png",
+      "png_sha256": "47d80f79f6156679177822d6e973b5aafa9152132a3c4908445896ef0a0cd481"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pdf_sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+      "page": 15,
+      "png": "output/chapter-9/textbook/page-15.png",
+      "png_sha256": "6cc61fffed61ababed1eb825825fe7e454ea0ad03d836d2f9460c10a441cd64a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 1,
+      "png": "output/chapter-9/workbook/page-01.png",
+      "png_sha256": "562f85cf874f80d7d2880e60b1d0e39bbe5aea9eca0a2cc110b64ca701ee7f48"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 2,
+      "png": "output/chapter-9/workbook/page-02.png",
+      "png_sha256": "9bd437e148aa00dcd83b54cca79362ac430fa99522b8d69036bc158ffc0d1c6f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 3,
+      "png": "output/chapter-9/workbook/page-03.png",
+      "png_sha256": "8db05c45d5e97e1884a09de9ac7927ac815b083f3d96b34ac7d3241130e69cc9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 4,
+      "png": "output/chapter-9/workbook/page-04.png",
+      "png_sha256": "a94af05fd21df565ace8344320eee5a63e4b1c87ecc28ef161280ed497558249"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 5,
+      "png": "output/chapter-9/workbook/page-05.png",
+      "png_sha256": "b292491d26478fccbead16d1199fe96e9aedab9e70083ce6324daa313fc046c3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 6,
+      "png": "output/chapter-9/workbook/page-06.png",
+      "png_sha256": "57296dcdfad02464b53d7770a5f5717da855b322f86c1d6c5c051fb1dbee2045"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 7,
+      "png": "output/chapter-9/workbook/page-07.png",
+      "png_sha256": "5910a602ae62939ce717ad66bd855db3ed6a34f1ec7d237bc46f584c30b6cd68"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pdf_sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+      "page": 8,
+      "png": "output/chapter-9/workbook/page-08.png",
+      "png_sha256": "9e7e8476f94c4d63ae5be88f32dc4ef08a56b6ba42a0ac04fad811c7e5ef75cf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 1,
+      "png": "output/chapter-10/textbook/page-01.png",
+      "png_sha256": "909fce53c400e0ce13c4bfab0a099611c08e473a8667f3e1e311764a88926816"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 2,
+      "png": "output/chapter-10/textbook/page-02.png",
+      "png_sha256": "99dd33e77de061cee0bfaa13ce8d3e17b05fdadb1e5c3e366e6db53058164085"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 3,
+      "png": "output/chapter-10/textbook/page-03.png",
+      "png_sha256": "14df02bf1edf281b2ef5caff4f99c4f1d1c2416ff5525e29cdf56d2ee3ced16f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 4,
+      "png": "output/chapter-10/textbook/page-04.png",
+      "png_sha256": "71fd1d63e95ba34f187c007a4a499fa1d0120c89f78da84b7c172cdfb27ace40"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 5,
+      "png": "output/chapter-10/textbook/page-05.png",
+      "png_sha256": "487093f3b2b97716fe401aa92438f18d4d185e653ae9f8f653726836859c5758"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 6,
+      "png": "output/chapter-10/textbook/page-06.png",
+      "png_sha256": "2df6c61b6a97f035d15ec516fa73d929bd6cccbd4e194d8bb3c526cd25901f28"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 7,
+      "png": "output/chapter-10/textbook/page-07.png",
+      "png_sha256": "c609fc1baade62b8df4b3276df99d4671220f25caa628def10cd580ef4a81394"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 8,
+      "png": "output/chapter-10/textbook/page-08.png",
+      "png_sha256": "ecae3c6afb84eb1de1cfa2592818d073b939ca0ce5013c25db67a246c01fa3fb"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 9,
+      "png": "output/chapter-10/textbook/page-09.png",
+      "png_sha256": "0205317232d11c0e41b7f9073cf181df4dde46af8d39a4f696b6f0456f4f5af4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 10,
+      "png": "output/chapter-10/textbook/page-10.png",
+      "png_sha256": "6e0f22815c21df7f43c0d7ef0a51641c0009737c1e91aa3cf5af97cd1df56825"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 11,
+      "png": "output/chapter-10/textbook/page-11.png",
+      "png_sha256": "ab3cb467c9de623b5cc7b73d44cb256230ca6917ba77c4dbf3c496d556263395"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 12,
+      "png": "output/chapter-10/textbook/page-12.png",
+      "png_sha256": "c26ff697958fd285ac5ad085108ffc708233422104d8d5bdc072053bcb81345d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 13,
+      "png": "output/chapter-10/textbook/page-13.png",
+      "png_sha256": "af58bdfc3ad1c5009f6f974022e9e91533e715567ba75f22995c4fcd51f7bd2f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 14,
+      "png": "output/chapter-10/textbook/page-14.png",
+      "png_sha256": "ec539eb42efc7e22a8bfc1096809eb394c50efb5d7f46f57dafba35ae6044b7d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pdf_sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+      "page": 15,
+      "png": "output/chapter-10/textbook/page-15.png",
+      "png_sha256": "4cfb788768eb2e242040250101c63b26082d24a783962ae805d2b73b0ed26a32"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 1,
+      "png": "output/chapter-10/workbook/page-01.png",
+      "png_sha256": "a4e1e60c29be700048413ec1098d07454780edec4eca2c5cef9b76e9eab93600"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 2,
+      "png": "output/chapter-10/workbook/page-02.png",
+      "png_sha256": "48d8194f0f3c4298f3077f47c06e5dfb75bb18c8c5f3d57bdf842d5bb67a8979"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 3,
+      "png": "output/chapter-10/workbook/page-03.png",
+      "png_sha256": "88718e50155c2ecc2ca06765afc602fd396f68ee2f96103080b00b82aa71df02"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 4,
+      "png": "output/chapter-10/workbook/page-04.png",
+      "png_sha256": "e2862c24aed0f73d7c90a507c53fcd46f878996e212ae189c61259dfa1dc8c32"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 5,
+      "png": "output/chapter-10/workbook/page-05.png",
+      "png_sha256": "b67f642085f64f7d38aa5a15a414a4ea8ba6a5d72de1dd6810196d6479bbb313"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 6,
+      "png": "output/chapter-10/workbook/page-06.png",
+      "png_sha256": "d1ecac9a22902779e1fc7acc1c40f33c82448de75aee41264768576c827dcc67"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pdf_sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+      "page": 7,
+      "png": "output/chapter-10/workbook/page-07.png",
+      "png_sha256": "374e58a2aae7c78ad73ac74992bfebc45cb655b19cf907087733d74478cee13b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 1,
+      "png": "output/chapter-11/textbook/page-01.png",
+      "png_sha256": "bf6b89173e4bfd2d42039b9057edd761e92154fed6cf4857b14b390afe83226f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 2,
+      "png": "output/chapter-11/textbook/page-02.png",
+      "png_sha256": "2df9518afc3e85701d1968dee3ac0a3b64032f1d1453ac89ecb57fd7f9b7acee"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 3,
+      "png": "output/chapter-11/textbook/page-03.png",
+      "png_sha256": "35b5ef4cfbd8e41db06cd49093650ca515ac55419ef769201fe4f50429133936"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 4,
+      "png": "output/chapter-11/textbook/page-04.png",
+      "png_sha256": "215b27662f3c8f4e0723014a50557c618b0b819a3b046cfbc131fdc4ebb9efb3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 5,
+      "png": "output/chapter-11/textbook/page-05.png",
+      "png_sha256": "0f8709edf360d90d315257add540a288be259f2675368e795782d7130353a42f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 6,
+      "png": "output/chapter-11/textbook/page-06.png",
+      "png_sha256": "ca179ad9a3fe0d4074fbd5d397f708c57a0f6e3528d3c06e61bdfaa201639912"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 7,
+      "png": "output/chapter-11/textbook/page-07.png",
+      "png_sha256": "d5b1323cea0967c34738503bfae5022480a44e60d42cfa164677b16ed8305b48"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 8,
+      "png": "output/chapter-11/textbook/page-08.png",
+      "png_sha256": "8461f70a2351074e9590a599847591f6dfcab76129afdf1a18a865b1a399bfd9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 9,
+      "png": "output/chapter-11/textbook/page-09.png",
+      "png_sha256": "407aa50d40efc68f8a38ade71cdabf3af9eac0dc6d60e236a69f24e1ba7b2be9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 10,
+      "png": "output/chapter-11/textbook/page-10.png",
+      "png_sha256": "4c280b1e3f57da9af9d2208ad280612ff39aa77a7bab3adcdf54c07334826def"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 11,
+      "png": "output/chapter-11/textbook/page-11.png",
+      "png_sha256": "73352c1e7acf9b6078a800d2e846121b9b5a02a7648002b37e69f16e6db08d42"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 12,
+      "png": "output/chapter-11/textbook/page-12.png",
+      "png_sha256": "2a320d3273fa24c4d323ae8719afb5c09f734b62c60c3082bc1ebfcdcdb9aade"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 13,
+      "png": "output/chapter-11/textbook/page-13.png",
+      "png_sha256": "a3b488228664421e2bead60fe58001b8f4879f7ea242b5d7086d34bc24cf0475"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 14,
+      "png": "output/chapter-11/textbook/page-14.png",
+      "png_sha256": "0b55ca50cf26222fee70f793cb5ca656fe8b9fc78ee31fb1ead1cbcb771e28fb"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pdf_sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+      "page": 15,
+      "png": "output/chapter-11/textbook/page-15.png",
+      "png_sha256": "8aebd20c4e65ca2df8303cb1f89f7dc858ece96bece40b0f18bfb946ee1fad36"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 1,
+      "png": "output/chapter-11/workbook/page-01.png",
+      "png_sha256": "8c9ac099ab242d214c7df4e6bb52d50b176f003eee98591c9aeab17c4efb7255"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 2,
+      "png": "output/chapter-11/workbook/page-02.png",
+      "png_sha256": "a2d23b382561d7aa8ae11df95e4db0a882c166e5760acbf535e7b41192052e98"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 3,
+      "png": "output/chapter-11/workbook/page-03.png",
+      "png_sha256": "3c31e480bc71de414b1d85db813a9302a07ffb870cbc49ad57c747d089cdde4c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 4,
+      "png": "output/chapter-11/workbook/page-04.png",
+      "png_sha256": "cc2671713e30b1aec8257ee5909fea148e6ec963b35233db3144f1c2704a2033"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 5,
+      "png": "output/chapter-11/workbook/page-05.png",
+      "png_sha256": "2ba01f5d7bd4ef56a56768731aaea76c4dc132a49f87c505a10bc5491dc87281"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 6,
+      "png": "output/chapter-11/workbook/page-06.png",
+      "png_sha256": "af28de9b0b0a8ad5d91212483f917d9acce5b43095a168fdfa52628030823e55"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 7,
+      "png": "output/chapter-11/workbook/page-07.png",
+      "png_sha256": "339a0e1199d7d4f09d92941616902821ad3106601e0f80d391ec6f40ff5413f2"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pdf_sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+      "page": 8,
+      "png": "output/chapter-11/workbook/page-08.png",
+      "png_sha256": "dfe8196a43f03abfa8e6104917572867d2680b57c48153a9ccca8175d7ad04aa"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 1,
+      "png": "output/chapter-12/textbook/page-01.png",
+      "png_sha256": "9d797e1d049fba5e15958d7fadf54264855d5fc3e201f9fb1ebb63d1221f7d44"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 2,
+      "png": "output/chapter-12/textbook/page-02.png",
+      "png_sha256": "ebd520dfa2766584e6e7526daf62dd9f58350dd3bb57513fe258368c7bfbf269"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 3,
+      "png": "output/chapter-12/textbook/page-03.png",
+      "png_sha256": "806d069411217c1a63f9c63ec83c6be6c215f8c40e0ca4839af233ec0d9acb97"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 4,
+      "png": "output/chapter-12/textbook/page-04.png",
+      "png_sha256": "fd383e0ce6ef1de923f28faeda63567aae7a8c361ad13d21cdcd92d17e335ac3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 5,
+      "png": "output/chapter-12/textbook/page-05.png",
+      "png_sha256": "7cb51d497c22eeccba668894dc2debdf998b002c804b67284e4fbbbe0db10d17"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 6,
+      "png": "output/chapter-12/textbook/page-06.png",
+      "png_sha256": "d7e92a476f5fcda57e04cecddfa9c411c7bcbbe4f94ef1f2a30eb2e5164bbdd3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 7,
+      "png": "output/chapter-12/textbook/page-07.png",
+      "png_sha256": "9f90d428161d64448867fdc488e9a4924b854eb26f4608419d776a9dc908a639"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 8,
+      "png": "output/chapter-12/textbook/page-08.png",
+      "png_sha256": "d33e49245e647ffb178b5d419afbf84e241553bb849e2faa6c98c1ed3e7ad97b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 9,
+      "png": "output/chapter-12/textbook/page-09.png",
+      "png_sha256": "2aff166d60841b7671fbb2b3df910dd41bc2782f1836760bb70e6c96e7a7b248"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 10,
+      "png": "output/chapter-12/textbook/page-10.png",
+      "png_sha256": "13fbeefea7f32ec4ca9722884e74409e1e0ad0326819c651a655cea05aeae12b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 11,
+      "png": "output/chapter-12/textbook/page-11.png",
+      "png_sha256": "f0ee964f40cecfb3e5f223a51c772edf2c365312cccce617ddf50b5510135a53"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 12,
+      "png": "output/chapter-12/textbook/page-12.png",
+      "png_sha256": "0f8341a62bce783f6f8c2f3df211c6589e9e20b711d54875f09dddf604bc5541"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 13,
+      "png": "output/chapter-12/textbook/page-13.png",
+      "png_sha256": "0a42e5cb31ee2e81832bc6e8ced136544c308994e8443b6e1f3c4ad28a02a763"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 14,
+      "png": "output/chapter-12/textbook/page-14.png",
+      "png_sha256": "1b1b29740349e24bbb7cc275be165f31affb456f6c91e37bae89269c843cda3a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 15,
+      "png": "output/chapter-12/textbook/page-15.png",
+      "png_sha256": "671112c4c9849123c90a1e8abe4fa91207c95704785374d9ebd641fc88e92777"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 16,
+      "png": "output/chapter-12/textbook/page-16.png",
+      "png_sha256": "0c8884107227b16530b7791c44563293e18679f39317fb85e00cbf25ed20ff21"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 17,
+      "png": "output/chapter-12/textbook/page-17.png",
+      "png_sha256": "f52aa7aca51dfac9373c9cf11f6702191a3c2459fb3e015de386a731654dadbf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 18,
+      "png": "output/chapter-12/textbook/page-18.png",
+      "png_sha256": "7087396b3f88b8733033cb5edbaf6cd2e233b076e51540c038ca9e38cffd446a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 19,
+      "png": "output/chapter-12/textbook/page-19.png",
+      "png_sha256": "f297570e958c575dbd4fbc9dd9249ac968f32bd2c470362113e67cd2cf2faed8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 20,
+      "png": "output/chapter-12/textbook/page-20.png",
+      "png_sha256": "8c84a81a019cd6aa2ad9852b0cb22db3d7a3de050789ebd87b19864e049c2458"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 21,
+      "png": "output/chapter-12/textbook/page-21.png",
+      "png_sha256": "e01fa5c27b33e516c46d1b9d8dd8de439311d9cb9115ec5e0bf86cd28dfa9bea"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 22,
+      "png": "output/chapter-12/textbook/page-22.png",
+      "png_sha256": "fd6bce0bbfb893870753b7f4938ed37be5e0c89f1fd33004e59606ce9a4150ee"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 23,
+      "png": "output/chapter-12/textbook/page-23.png",
+      "png_sha256": "1b915dd95fc2144d436b05ad9b7bb21390d8d9bf32e1e379adbcad82839423e8"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 24,
+      "png": "output/chapter-12/textbook/page-24.png",
+      "png_sha256": "c034011ffa48cc7355d8a23360e5d227bbd30561039ec1f6b0283ca782dabba7"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 25,
+      "png": "output/chapter-12/textbook/page-25.png",
+      "png_sha256": "3eaaf16741928809214183f3faa2e49207ea7c7a398e4e4c9e2d2b9b11431b1e"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 26,
+      "png": "output/chapter-12/textbook/page-26.png",
+      "png_sha256": "804b97b516bc4875583dcb48909dc3299f700bb905adb4f4a19863fbcaa5dea3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 27,
+      "png": "output/chapter-12/textbook/page-27.png",
+      "png_sha256": "cc785d697cb5a4c437b942f91bff92954445aabc92376b2eecd3e8e3b8488274"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 28,
+      "png": "output/chapter-12/textbook/page-28.png",
+      "png_sha256": "afec9b96c2ad3039f15e6aac3adc310a4b8b9f11a9b8d0bfc64c620a3d9a35d9"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 29,
+      "png": "output/chapter-12/textbook/page-29.png",
+      "png_sha256": "c479f6dbe9a0f13600097ea68eab1664d11e4d01c040768205987cec28449536"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 30,
+      "png": "output/chapter-12/textbook/page-30.png",
+      "png_sha256": "8239d903809f1d0a92247e2a8c532e52a67d191e365093ba730135d27acd8a49"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 31,
+      "png": "output/chapter-12/textbook/page-31.png",
+      "png_sha256": "7db7fc0e72e845bc7fb3779800a655c8bd5ebabeceeeaaae00b6570036190dc0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 32,
+      "png": "output/chapter-12/textbook/page-32.png",
+      "png_sha256": "bbb133bd655b5fef17a3f63e5d23c1ba2cf9fc3f1caae6d3be13a162001dd87b"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 33,
+      "png": "output/chapter-12/textbook/page-33.png",
+      "png_sha256": "000a3c9af85077cf20bc4fe525ea658ca3d2e1b50348616d507fca3e0a926ddf"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 34,
+      "png": "output/chapter-12/textbook/page-34.png",
+      "png_sha256": "5afa3b3c10d5d3b4dc8a9e61e202bd11304f91e4dae44d29ae356fd3115534d1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 35,
+      "png": "output/chapter-12/textbook/page-35.png",
+      "png_sha256": "1909ac66ba166f9aaf1eccb4af09608c2fa519b1359c9c29b8d7d55785b5aa8d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 36,
+      "png": "output/chapter-12/textbook/page-36.png",
+      "png_sha256": "373ee4ac1c3aec124833540cbf305bde3f15580c765c6fa87f41e33197a7740c"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 37,
+      "png": "output/chapter-12/textbook/page-37.png",
+      "png_sha256": "c3fc00c809396f36cd1565940f18ddda89ec7d7b274b2be0b653ae6a4d3a269a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 38,
+      "png": "output/chapter-12/textbook/page-38.png",
+      "png_sha256": "480ea9333248185a39eefd8a5ef32a6199626ae86fa6face1e1f93f8bd743af6"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 39,
+      "png": "output/chapter-12/textbook/page-39.png",
+      "png_sha256": "91a9118325b04ff634caa2d277bd3e6a5a6a3ea2981790497997ec2169d3f218"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pdf_sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+      "page": 40,
+      "png": "output/chapter-12/textbook/page-40.png",
+      "png_sha256": "b63c0ac9fb738f8c26dcf7ead990438128eec6abbf6ec2b5edcf9d747daf904a"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 1,
+      "png": "output/chapter-12/workbook/page-01.png",
+      "png_sha256": "15ff0547d4bf3835cdc64696e98981a701c93e4ddf1bacbebd2992bb6e9fbe20"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 2,
+      "png": "output/chapter-12/workbook/page-02.png",
+      "png_sha256": "6209f5c6219fca10e36d40c9f036e4b58f0ae41f6a975de6f262a305c01760a1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 3,
+      "png": "output/chapter-12/workbook/page-03.png",
+      "png_sha256": "a7745c14594ba73be74886fd75734c886d9a67cd3900d182deb46afa6ae37e3d"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 4,
+      "png": "output/chapter-12/workbook/page-04.png",
+      "png_sha256": "9709bafdc3981ce4f1d630b278a1eb06ffcae665593494fb5b8b6fb3d8f0dcb3"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 5,
+      "png": "output/chapter-12/workbook/page-05.png",
+      "png_sha256": "43ca560de90d4f175dd7941787bbaff75a9110ae1b859c2226261bfd64b00ff1"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 6,
+      "png": "output/chapter-12/workbook/page-06.png",
+      "png_sha256": "845e686430e9e471ee391af819b6337f466bf023ebf97906c9914f2e89333b01"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 7,
+      "png": "output/chapter-12/workbook/page-07.png",
+      "png_sha256": "17130d2d65a2b617582969d9b5b632352ac69a0aff51b7410365a78a5fcc2c4f"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 8,
+      "png": "output/chapter-12/workbook/page-08.png",
+      "png_sha256": "69a5a823bbd9ff8d20e0f553471aa2926c18664d65f1f06d5dd31ed918c10fe0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 9,
+      "png": "output/chapter-12/workbook/page-09.png",
+      "png_sha256": "85b5bfc06abd9f253b248110dcffdd746f492a39a915671e9c70c8eb26d6b9ca"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 10,
+      "png": "output/chapter-12/workbook/page-10.png",
+      "png_sha256": "979d6f4bf4c2c694120e06a4a2e756a9eee873cafaecb4f68a863f8a1a4b5744"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 11,
+      "png": "output/chapter-12/workbook/page-11.png",
+      "png_sha256": "8ad070565a681d9942f8a6f19f077ad06ff445d34e139a7b224c5e29885e7fd0"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 12,
+      "png": "output/chapter-12/workbook/page-12.png",
+      "png_sha256": "8b28e4e5212aedceb3bce91bf0506a115b97a9a9a85f3e5425b544a2587c10f4"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 13,
+      "png": "output/chapter-12/workbook/page-13.png",
+      "png_sha256": "70eff21fd58d62900869741657a54d072cf2511046b351dc69c594c260f90fe5"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pdf_sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+      "page": 14,
+      "png": "output/chapter-12/workbook/page-14.png",
+      "png_sha256": "453c8c689b0721b3bd60e95c8cd875381cc1275596bdd72ec469a7946116fdc4"
+    }
+  ],
+  "frozen_files_match": 17,
+  "protected_files_match": 156,
+  "historical_backup_bytes_match": 21,
+  "generated_lessons_match_canonical": true
+}

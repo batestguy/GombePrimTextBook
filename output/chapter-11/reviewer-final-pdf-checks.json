@@ -1,0 +1,2362 @@
+[
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+    "pages": 22,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/primary-1-opening/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/primary-1-opening/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/primary-1-opening/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/primary-1-opening/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/primary-1-opening/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/primary-1-opening/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/primary-1-opening/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/primary-1-opening/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/primary-1-opening/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/primary-1-opening/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/primary-1-opening/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/primary-1-opening/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/primary-1-opening/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/primary-1-opening/textbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 15,
+        "png": "output/primary-1-opening/textbook/page-15.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 16,
+        "png": "output/primary-1-opening/textbook/page-16.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 17,
+        "png": "output/primary-1-opening/textbook/page-17.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 18,
+        "png": "output/primary-1-opening/textbook/page-18.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 19,
+        "png": "output/primary-1-opening/textbook/page-19.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 20,
+        "png": "output/primary-1-opening/textbook/page-20.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 21,
+        "png": "output/primary-1-opening/textbook/page-21.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 22,
+        "png": "output/primary-1-opening/textbook/page-22.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+    "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+    "pages": 10,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/primary-1-opening/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/primary-1-opening/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/primary-1-opening/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/primary-1-opening/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/primary-1-opening/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/primary-1-opening/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/primary-1-opening/workbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/primary-1-opening/workbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/primary-1-opening/workbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/primary-1-opening/workbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+    "pages": 9,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-3/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-3/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-3/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-3/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-3/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-3/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-3/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-3/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-3/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+    "sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+    "pages": 4,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-3/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-3/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-3/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-3/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+    "pages": 11,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-4/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-4/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-4/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-4/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-4/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-4/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-4/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-4/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-4/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-4/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-4/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+    "sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+    "pages": 6,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-4/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-4/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-4/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-4/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-4/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-4/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+    "sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+    "pages": 13,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-5/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-5/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-5/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-5/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-5/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-5/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-5/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-5/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-5/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-5/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-5/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-5/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-5/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+    "sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+    "pages": 6,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-5/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-5/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-5/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-5/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-5/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-5/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+    "sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+    "pages": 21,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-6/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-6/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-6/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-6/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-6/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-6/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-6/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-6/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-6/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-6/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-6/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-6/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-6/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/chapter-6/textbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 15,
+        "png": "output/chapter-6/textbook/page-15.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 16,
+        "png": "output/chapter-6/textbook/page-16.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 17,
+        "png": "output/chapter-6/textbook/page-17.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 18,
+        "png": "output/chapter-6/textbook/page-18.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 19,
+        "png": "output/chapter-6/textbook/page-19.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 20,
+        "png": "output/chapter-6/textbook/page-20.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 21,
+        "png": "output/chapter-6/textbook/page-21.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+    "sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+    "pages": 14,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-6/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-6/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-6/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-6/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-6/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-6/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-6/workbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-6/workbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-6/workbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-6/workbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-6/workbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-6/workbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-6/workbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/chapter-6/workbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+    "sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+    "pages": 13,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-7/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-7/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-7/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-7/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-7/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-7/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-7/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-7/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-7/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-7/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-7/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-7/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-7/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+    "sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+    "pages": 6,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-7/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-7/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-7/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-7/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-7/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-7/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+    "pages": 11,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-8/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-8/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-8/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-8/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-8/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-8/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-8/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-8/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-8/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-8/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-8/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+    "sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+    "pages": 6,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-8/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-8/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-8/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-8/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-8/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-8/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+    "sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+    "pages": 15,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-9/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-9/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-9/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-9/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-9/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-9/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-9/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-9/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-9/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-9/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-9/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-9/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-9/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/chapter-9/textbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 15,
+        "png": "output/chapter-9/textbook/page-15.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+    "sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+    "pages": 8,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-9/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-9/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-9/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-9/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-9/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-9/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-9/workbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-9/workbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+    "sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+    "pages": 15,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-10/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-10/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-10/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-10/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-10/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-10/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-10/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-10/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-10/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-10/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-10/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-10/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-10/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/chapter-10/textbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 15,
+        "png": "output/chapter-10/textbook/page-15.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+    "sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+    "pages": 7,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-10/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-10/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-10/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-10/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-10/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-10/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-10/workbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+    "sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+    "pages": 15,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-11/textbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-11/textbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-11/textbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-11/textbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-11/textbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-11/textbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-11/textbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-11/textbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 9,
+        "png": "output/chapter-11/textbook/page-09.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 10,
+        "png": "output/chapter-11/textbook/page-10.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 11,
+        "png": "output/chapter-11/textbook/page-11.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 12,
+        "png": "output/chapter-11/textbook/page-12.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 13,
+        "png": "output/chapter-11/textbook/page-13.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 14,
+        "png": "output/chapter-11/textbook/page-14.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 15,
+        "png": "output/chapter-11/textbook/page-15.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+    "sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+    "pages": 8,
+    "a4": true,
+    "page_checks": [
+      {
+        "page": 1,
+        "png": "output/chapter-11/workbook/page-01.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 2,
+        "png": "output/chapter-11/workbook/page-02.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 3,
+        "png": "output/chapter-11/workbook/page-03.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 4,
+        "png": "output/chapter-11/workbook/page-04.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 5,
+        "png": "output/chapter-11/workbook/page-05.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 6,
+        "png": "output/chapter-11/workbook/page-06.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 7,
+        "png": "output/chapter-11/workbook/page-07.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      },
+      {
+        "page": 8,
+        "png": "output/chapter-11/workbook/page-08.png",
+        "pixel_match": true,
+        "size": [
+          685,
+          969
+        ],
+        "outside_text": []
+      }
+    ]
+  }
+]

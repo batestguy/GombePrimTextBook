@@ -76,7 +76,7 @@
     "grade": 1,
     "objective_id": "P1-p06-04",
     "prompt": "There are 9 chalk pieces and 4 are used. Musa says 6 remain. Check with objects and correct him.",
-    "answer": "9 ? 4 = 5; 5 + 4 = 9 or a correct take-away check.",
+    "answer": "9 - 4 = 5; 5 + 4 = 9 or a correct take-away check.",
     "resource_status": "classroom_materials_required",
     "status": "proposed_not_administered",
     "teaching_notes": "After taking some objects away, remaining plus removed must equal the starting amount. Use that addition to check the subtraction.",

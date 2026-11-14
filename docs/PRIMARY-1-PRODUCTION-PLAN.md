@@ -6,13 +6,22 @@ The board carries a short, clearly typeset hint of the topic. Alternate Mrs Bint
 and Mr Aliyu; other story settings follow the opening. Apply this to each of the
 remaining units as it is developed; legacy drafts are not approved redesigned chapters.
 
-Implementation checkpoint, 1 November 2026: Chapters 1-9 have independently
-approved exact textbook/workbook pairs, with canonical lesson content and
-paired-artifact review enforcement. Chapter 9, Count on to add, has a
-15-page textbook and 8-page workbook. See [the latest review](../output/chapter-9/REVIEW.md)
-and [the session checkpoint](SESSION-HANDOFF.md). Ten existing units, annual
+Implementation checkpoint, 14 November 2026: Chapters 1-12 have independently
+approved exact textbook/workbook pairs. Chapter 12, Find a missing part, has a
+40-page textbook and 14-page workbook, led by Mr Aliyu. A distinct recovery
+reviewer freshly inspected all 274 unique affected pages across 22 PDFs and
+independently solved every task, diagram, example and answer. Five draft
+refinements are resolved; no required finding remains. All twelve strict chapter
+gates, coordinator preservation checks and preflight passed. See
+[the latest review](../output/chapter-12/REVIEW.md) and
+[the session checkpoint](SESSION-HANDOFF.md). Seven existing units, annual
 revision/assessment, the final four offline-AI pupil pages and full-year assembly
-remain. These extracts do not complete this annual plan.
+remain. These extracts do not complete this annual plan. Next is P1-13, Money,
+led by Mrs Binta. All earlier reviewed PDFs, original prompts/answers and protected
+inputs are preserved; all 21 historical generated files were restored exactly.
+S007's missing subtraction operator is the sole supplementary-source repair.
+Current curriculum/adoption, local trials and physical print/printer approval
+remain pending.
 
 Working decision recorded **20 October 2026**. User direction: document the
 research and completion work, use the best available approximation because

@@ -1,0 +1,23 @@
+{
+  "Gombe-Mathematics-Book-1.pdf": "output/chapter-12/baseline-generated/00-Gombe-Mathematics-Book-1.pdf",
+  "book.qmd": "output/chapter-12/baseline-generated/01-book.qmd",
+  "book.typ": "output/chapter-12/baseline-generated/02-book.typ",
+  ".gitignore": "output/chapter-12/baseline-generated/03-.gitignore",
+  "production/complete-manuscript.txt": "output/chapter-12/baseline-generated/04-complete-manuscript.txt",
+  "production/page_manifest.json": "output/chapter-12/baseline-generated/05-page_manifest.json",
+  "output/pdf/sample-lessons.pdf": "output/chapter-12/baseline-generated/06-sample-lessons.pdf",
+  "output/validation.json": "output/chapter-12/baseline-generated/07-validation.json",
+  "output/page-review/contact-01.png": "output/chapter-12/baseline-generated/08-contact-01.png",
+  "output/page-review/contact-02.png": "output/chapter-12/baseline-generated/09-contact-02.png",
+  "output/page-review/contact-03.png": "output/chapter-12/baseline-generated/10-contact-03.png",
+  "output/page-review/contact-04.png": "output/chapter-12/baseline-generated/11-contact-04.png",
+  "output/page-review/contact-05.png": "output/chapter-12/baseline-generated/12-contact-05.png",
+  "output/page-review/contact-06.png": "output/chapter-12/baseline-generated/13-contact-06.png",
+  "output/page-review/contact-07.png": "output/chapter-12/baseline-generated/14-contact-07.png",
+  "output/page-review/contact-08.png": "output/chapter-12/baseline-generated/15-contact-08.png",
+  "output/page-review/contact-09.png": "output/chapter-12/baseline-generated/16-contact-09.png",
+  "output/page-review/contact-10.png": "output/chapter-12/baseline-generated/17-contact-10.png",
+  "output/page-review/contact-11.png": "output/chapter-12/baseline-generated/18-contact-11.png",
+  "output/page-review/contact-12.png": "output/chapter-12/baseline-generated/19-contact-12.png",
+  "output/page-review/contact-13.png": "output/chapter-12/baseline-generated/20-contact-13.png"
+}

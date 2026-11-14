@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "textbook": 15,
+    "workbook": 7
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf"
+  },
+  "checks": [
+    "114 original prompts/answers/order and18otherlessons preserved",
+    "16previousPDFs and protected source hashes preserved",
+    "each bundle ten actual vectors;each represented quantity recalculated",
+    "A4,embeddedfonts,textbounds,perpagevectorcounts;allpages rendered",
+    "25taskIDs matched to solved coverage"
+  ],
+  "status": "pending_independent_review"
+}

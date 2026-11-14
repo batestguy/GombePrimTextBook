@@ -1,0 +1,157 @@
+{
+  "author": "Codex /root/chapter11_author",
+  "date": "2026-11-13",
+  "method": "Viewed each separate full-page PNG with view_image; no contact sheet substituted. Re-viewed changed pages after edits.",
+  "pages": {
+    "textbook": [
+      {
+        "page": 1,
+        "image": "output/chapter-11/textbook/page-01.png",
+        "image_sha256": "bf6b89173e4bfd2d42039b9057edd761e92154fed6cf4857b14b390afe83226f",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 2,
+        "image": "output/chapter-11/textbook/page-02.png",
+        "image_sha256": "2df9518afc3e85701d1968dee3ac0a3b64032f1d1453ac89ecb57fd7f9b7acee",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 3,
+        "image": "output/chapter-11/textbook/page-03.png",
+        "image_sha256": "35b5ef4cfbd8e41db06cd49093650ca515ac55419ef769201fe4f50429133936",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 4,
+        "image": "output/chapter-11/textbook/page-04.png",
+        "image_sha256": "215b27662f3c8f4e0723014a50557c618b0b819a3b046cfbc131fdc4ebb9efb3",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 5,
+        "image": "output/chapter-11/textbook/page-05.png",
+        "image_sha256": "0f8709edf360d90d315257add540a288be259f2675368e795782d7130353a42f",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 6,
+        "image": "output/chapter-11/textbook/page-06.png",
+        "image_sha256": "ca179ad9a3fe0d4074fbd5d397f708c57a0f6e3528d3c06e61bdfaa201639912",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 7,
+        "image": "output/chapter-11/textbook/page-07.png",
+        "image_sha256": "d5b1323cea0967c34738503bfae5022480a44e60d42cfa164677b16ed8305b48",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 8,
+        "image": "output/chapter-11/textbook/page-08.png",
+        "image_sha256": "8461f70a2351074e9590a599847591f6dfcab76129afdf1a18a865b1a399bfd9",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 9,
+        "image": "output/chapter-11/textbook/page-09.png",
+        "image_sha256": "407aa50d40efc68f8a38ade71cdabf3af9eac0dc6d60e236a69f24e1ba7b2be9",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 10,
+        "image": "output/chapter-11/textbook/page-10.png",
+        "image_sha256": "4c280b1e3f57da9af9d2208ad280612ff39aa77a7bab3adcdf54c07334826def",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 11,
+        "image": "output/chapter-11/textbook/page-11.png",
+        "image_sha256": "73352c1e7acf9b6078a800d2e846121b9b5a02a7648002b37e69f16e6db08d42",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 12,
+        "image": "output/chapter-11/textbook/page-12.png",
+        "image_sha256": "2a320d3273fa24c4d323ae8719afb5c09f734b62c60c3082bc1ebfcdcdb9aade",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 13,
+        "image": "output/chapter-11/textbook/page-13.png",
+        "image_sha256": "a3b488228664421e2bead60fe58001b8f4879f7ea242b5d7086d34bc24cf0475",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 14,
+        "image": "output/chapter-11/textbook/page-14.png",
+        "image_sha256": "0b55ca50cf26222fee70f793cb5ca656fe8b9fc78ee31fb1ead1cbcb771e28fb",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 15,
+        "image": "output/chapter-11/textbook/page-15.png",
+        "image_sha256": "8aebd20c4e65ca2df8303cb1f89f7dc858ece96bece40b0f18bfb946ee1fad36",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      }
+    ],
+    "workbook": [
+      {
+        "page": 1,
+        "image": "output/chapter-11/workbook/page-01.png",
+        "image_sha256": "8c9ac099ab242d214c7df4e6bb52d50b176f003eee98591c9aeab17c4efb7255",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 2,
+        "image": "output/chapter-11/workbook/page-02.png",
+        "image_sha256": "a2d23b382561d7aa8ae11df95e4db0a882c166e5760acbf535e7b41192052e98",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 3,
+        "image": "output/chapter-11/workbook/page-03.png",
+        "image_sha256": "3c31e480bc71de414b1d85db813a9302a07ffb870cbc49ad57c747d089cdde4c",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 4,
+        "image": "output/chapter-11/workbook/page-04.png",
+        "image_sha256": "cc2671713e30b1aec8257ee5909fea148e6ec963b35233db3144f1c2704a2033",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 5,
+        "image": "output/chapter-11/workbook/page-05.png",
+        "image_sha256": "2ba01f5d7bd4ef56a56768731aaea76c4dc132a49f87c505a10bc5491dc87281",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 6,
+        "image": "output/chapter-11/workbook/page-06.png",
+        "image_sha256": "af28de9b0b0a8ad5d91212483f917d9acce5b43095a168fdfa52628030823e55",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 7,
+        "image": "output/chapter-11/workbook/page-07.png",
+        "image_sha256": "339a0e1199d7d4f09d92941616902821ad3106601e0f80d391ec6f40ff5413f2",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      },
+      {
+        "page": 8,
+        "image": "output/chapter-11/workbook/page-08.png",
+        "image_sha256": "dfe8196a43f03abfa8e6104917572867d2680b57c48153a9ccca8175d7ad04aa",
+        "observations": "Readable white A4 page; no clipping or overlaps; appropriate response location; counts and labelled groups agree with task ledger."
+      }
+    ]
+  },
+  "specific": [
+    "TB1 board hint clear; Mrs Binta/four seated children; correct wheelchair/attire",
+    "TB4 first move8to7 explicit;TB5 full14 plus final8and6;TB6 visible7and5",
+    "WB1 four dots,one diagonal crossing,three left;12-dot guided crossing follows",
+    "WB2-8 all local dot sets and writing spaces checked;WB4 lower response line clear",
+    "TB13-15 complete adult answers,help,delayed recall and honest limitations"
+  ],
+  "status": "author inspection only; independent review pending"
+}

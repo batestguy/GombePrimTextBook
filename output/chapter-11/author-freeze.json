@@ -1,0 +1,22 @@
+{
+  "author": "Codex /root/chapter11_author",
+  "date": "2026-11-13",
+  "fingerprint": "ae96c353c77c2de8ba1ba21ce57f8df7ac1e681d2b68fa720e7b80d9c49f17f7",
+  "hashes": {
+    "production/p1.json": "164b945b2be18b5400befd0b3d99838c12dee661d61e308b0040cc8918cf5878",
+    "production/lessons.json": "4b6b4acf2f5c5b2111c907f74c001464338fc6a5060b005fc90e2c0707be5b4f",
+    "scripts/build_chapter_eleven.py": "f519c276c514846077dee3bd61f2dfcf391cf46450a2b760dd7b851104b2be51",
+    "output/chapter-11/task-coverage.json": "e8a6aee027a01929af98f3402bdba92c29c3b813824054250227d2a93c4246ed",
+    "output/chapter-11/diagram-values.json": "dbf06995321eec9af9a9500ae3e00a5d1913c34b6f7776452d3a9bdfb870d077",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703"
+  },
+  "status": "pending_independent_review",
+  "author_visual": "Every exact page individually viewed: TB1-15,WB1-8;changed pages re-viewed;see author-visual.json.",
+  "validation": [
+    "chapter build15TB8WB25tasks;allvectors,A4,fonts,bounds",
+    "63lessons247historicalpages;Quarto and legacyvalidate pass",
+    "87legacyarithmeticchecks zero failures;historical sample text/pixels verified then exact bytes restored",
+    "114 original P1 prompts/answers/order;18otherlessons;18earlierPDFs;135protectedinputs preserved; ignored historical rootPDF regenerated, exception in historical-export-regeneration.json"
+  ]
+}

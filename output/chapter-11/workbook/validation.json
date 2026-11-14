@@ -1,0 +1,1185 @@
+{
+  "pages": 8,
+  "sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+  "page_manifest": [
+    {
+      "slug": "c11-wb-guided",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Cross ten together",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-CROSS-GUIDED",
+        "P1-11-CROSSOUT-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-own-small",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Take away on your own",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-Q1",
+        "P1-11-Q2"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-own-large",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Take away through eighteen",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-Q3",
+        "P1-11-Q4"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-chalk",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Chalk and an addition check",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-Q5",
+        "P1-11-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-help",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Help and a fresh try",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-RECALL",
+        "P1-11-SMALL-HELP",
+        "P1-11-SMALL-RECHECK",
+        "P1-11-CROSS-HELP",
+        "P1-11-CROSS-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-fresh-small",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Try afresh: small amounts",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-FRESH-SMALL",
+        "P1-11-FRESH-SMALL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-fresh-large",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Try afresh: cross ten",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-FRESH-CROSS",
+        "P1-11-FRESH-CROSS"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-wb-fresh-check",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Check a claim afresh",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-11-FRESH-CHECK",
+        "P1-11-CHECK-RECHECK"
+      ],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-11-CROSS-GUIDED": [
+      1
+    ],
+    "P1-11-CROSSOUT-MODEL": [
+      1
+    ],
+    "P1-11-Q1": [
+      2
+    ],
+    "P1-11-Q2": [
+      2
+    ],
+    "P1-11-Q3": [
+      3
+    ],
+    "P1-11-Q4": [
+      3
+    ],
+    "P1-11-Q5": [
+      4
+    ],
+    "P1-11-Q6": [
+      4
+    ],
+    "P1-11-RECALL": [
+      5
+    ],
+    "P1-11-SMALL-HELP": [
+      5
+    ],
+    "P1-11-SMALL-RECHECK": [
+      5
+    ],
+    "P1-11-CROSS-HELP": [
+      5
+    ],
+    "P1-11-CROSS-RECHECK": [
+      5
+    ],
+    "P1-11-FRESH-SMALL": [
+      6,
+      6
+    ],
+    "P1-11-FRESH-CROSS": [
+      7,
+      7
+    ],
+    "P1-11-FRESH-CHECK": [
+      8
+    ],
+    "P1-11-CHECK-RECHECK": [
+      8
+    ]
+  },
+  "objects": [
+    {
+      "id": "wb-cross-example",
+      "page": 1,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          265
+        ],
+        [
+          111,
+          265
+        ],
+        [
+          157,
+          265
+        ],
+        [
+          203,
+          265
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "wb-guide12",
+      "page": 1,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          470
+        ],
+        [
+          111,
+          470
+        ],
+        [
+          157,
+          470
+        ],
+        [
+          203,
+          470
+        ],
+        [
+          249,
+          470
+        ],
+        [
+          295,
+          470
+        ],
+        [
+          341,
+          470
+        ],
+        [
+          387,
+          470
+        ],
+        [
+          433,
+          470
+        ],
+        [
+          479,
+          470
+        ],
+        [
+          65,
+          508
+        ],
+        [
+          111,
+          508
+        ]
+      ],
+      "count": 12
+    },
+    {
+      "id": "wb-own-small-0",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "wb-own-small-1",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          570
+        ],
+        [
+          111,
+          570
+        ],
+        [
+          157,
+          570
+        ],
+        [
+          203,
+          570
+        ],
+        [
+          249,
+          570
+        ],
+        [
+          295,
+          570
+        ],
+        [
+          341,
+          570
+        ],
+        [
+          387,
+          570
+        ],
+        [
+          433,
+          570
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "wb-own-large-0",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ],
+        [
+          387,
+          325
+        ],
+        [
+          433,
+          325
+        ],
+        [
+          479,
+          325
+        ],
+        [
+          65,
+          363
+        ],
+        [
+          111,
+          363
+        ],
+        [
+          157,
+          363
+        ],
+        [
+          203,
+          363
+        ],
+        [
+          249,
+          363
+        ]
+      ],
+      "count": 15
+    },
+    {
+      "id": "wb-own-large-1",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          570
+        ],
+        [
+          111,
+          570
+        ],
+        [
+          157,
+          570
+        ],
+        [
+          203,
+          570
+        ],
+        [
+          249,
+          570
+        ],
+        [
+          295,
+          570
+        ],
+        [
+          341,
+          570
+        ],
+        [
+          387,
+          570
+        ],
+        [
+          433,
+          570
+        ],
+        [
+          479,
+          570
+        ],
+        [
+          65,
+          608
+        ],
+        [
+          111,
+          608
+        ],
+        [
+          157,
+          608
+        ],
+        [
+          203,
+          608
+        ],
+        [
+          249,
+          608
+        ],
+        [
+          295,
+          608
+        ],
+        [
+          341,
+          608
+        ],
+        [
+          387,
+          608
+        ]
+      ],
+      "count": 18
+    },
+    {
+      "id": "wb-chalk12",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          295
+        ],
+        [
+          111,
+          295
+        ],
+        [
+          157,
+          295
+        ],
+        [
+          203,
+          295
+        ],
+        [
+          249,
+          295
+        ],
+        [
+          295,
+          295
+        ],
+        [
+          341,
+          295
+        ],
+        [
+          387,
+          295
+        ],
+        [
+          433,
+          295
+        ],
+        [
+          479,
+          295
+        ],
+        [
+          65,
+          333
+        ],
+        [
+          111,
+          333
+        ]
+      ],
+      "count": 12
+    },
+    {
+      "id": "wb-check13",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          665
+        ],
+        [
+          111,
+          665
+        ],
+        [
+          157,
+          665
+        ],
+        [
+          203,
+          665
+        ],
+        [
+          249,
+          665
+        ],
+        [
+          295,
+          665
+        ],
+        [
+          341,
+          665
+        ],
+        [
+          387,
+          665
+        ],
+        [
+          433,
+          665
+        ],
+        [
+          479,
+          665
+        ],
+        [
+          65,
+          703
+        ],
+        [
+          111,
+          703
+        ],
+        [
+          157,
+          703
+        ]
+      ],
+      "count": 13
+    },
+    {
+      "id": "wb-help5",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          450
+        ],
+        [
+          111,
+          450
+        ],
+        [
+          157,
+          450
+        ],
+        [
+          203,
+          450
+        ],
+        [
+          249,
+          450
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "wb-help11",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          680
+        ],
+        [
+          111,
+          680
+        ],
+        [
+          157,
+          680
+        ],
+        [
+          203,
+          680
+        ],
+        [
+          249,
+          680
+        ],
+        [
+          295,
+          680
+        ],
+        [
+          341,
+          680
+        ],
+        [
+          387,
+          680
+        ],
+        [
+          433,
+          680
+        ],
+        [
+          479,
+          680
+        ],
+        [
+          65,
+          718
+        ]
+      ],
+      "count": 11
+    },
+    {
+      "id": "wb-fresh-small-0",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ],
+        [
+          387,
+          325
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "wb-fresh-small-1",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          570
+        ],
+        [
+          111,
+          570
+        ],
+        [
+          157,
+          570
+        ],
+        [
+          203,
+          570
+        ],
+        [
+          249,
+          570
+        ],
+        [
+          295,
+          570
+        ],
+        [
+          341,
+          570
+        ],
+        [
+          387,
+          570
+        ],
+        [
+          433,
+          570
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "wb-fresh-large-0",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ],
+        [
+          387,
+          325
+        ],
+        [
+          433,
+          325
+        ],
+        [
+          479,
+          325
+        ],
+        [
+          65,
+          363
+        ],
+        [
+          111,
+          363
+        ],
+        [
+          157,
+          363
+        ],
+        [
+          203,
+          363
+        ],
+        [
+          249,
+          363
+        ]
+      ],
+      "count": 15
+    },
+    {
+      "id": "wb-fresh-large-1",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          570
+        ],
+        [
+          111,
+          570
+        ],
+        [
+          157,
+          570
+        ],
+        [
+          203,
+          570
+        ],
+        [
+          249,
+          570
+        ],
+        [
+          295,
+          570
+        ],
+        [
+          341,
+          570
+        ],
+        [
+          387,
+          570
+        ],
+        [
+          433,
+          570
+        ],
+        [
+          479,
+          570
+        ],
+        [
+          65,
+          608
+        ],
+        [
+          111,
+          608
+        ],
+        [
+          157,
+          608
+        ],
+        [
+          203,
+          608
+        ],
+        [
+          249,
+          608
+        ],
+        [
+          295,
+          608
+        ],
+        [
+          341,
+          608
+        ]
+      ],
+      "count": 17
+    },
+    {
+      "id": "wb-fresh14",
+      "page": 8,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ],
+        [
+          387,
+          325
+        ],
+        [
+          433,
+          325
+        ],
+        [
+          479,
+          325
+        ],
+        [
+          65,
+          363
+        ],
+        [
+          111,
+          363
+        ],
+        [
+          157,
+          363
+        ],
+        [
+          203,
+          363
+        ],
+        [
+          249,
+          363
+        ],
+        [
+          295,
+          363
+        ]
+      ],
+      "count": 16
+    },
+    {
+      "id": "wb-recheck8",
+      "page": 8,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          690
+        ],
+        [
+          111,
+          690
+        ],
+        [
+          157,
+          690
+        ],
+        [
+          203,
+          690
+        ],
+        [
+          249,
+          690
+        ],
+        [
+          295,
+          690
+        ]
+      ],
+      "count": 6
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

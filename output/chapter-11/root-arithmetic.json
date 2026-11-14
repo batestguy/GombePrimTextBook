@@ -1,0 +1,372 @@
+{
+  "stage": "Final frozen author source checked; independent editorial review pending",
+  "tasks": 25,
+  "calculations": [
+    {
+      "id": "P1-11-SMALL-MODEL",
+      "subtraction": [
+        7,
+        3,
+        4
+      ],
+      "addition_check": [
+        4,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "P1-11-SMALL-GUIDED",
+      "subtraction": [
+        6,
+        2,
+        4
+      ],
+      "addition_check": [
+        4,
+        2,
+        6
+      ]
+    },
+    {
+      "id": "P1-11-ALL-MODEL",
+      "subtraction": [
+        4,
+        4,
+        0
+      ],
+      "addition_check": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "P1-11-BACK-MODEL",
+      "subtraction": [
+        8,
+        3,
+        5
+      ],
+      "addition_check": [
+        5,
+        3,
+        8
+      ]
+    },
+    {
+      "id": "P1-11-CROSS-MODEL",
+      "subtraction": [
+        14,
+        6,
+        8
+      ],
+      "addition_check": [
+        8,
+        6,
+        14
+      ]
+    },
+    {
+      "id": "P1-11-CROSS-GUIDED",
+      "subtraction": [
+        12,
+        5,
+        7
+      ],
+      "addition_check": [
+        7,
+        5,
+        12
+      ]
+    },
+    {
+      "id": "P1-11-CHECK-MODEL",
+      "subtraction": [
+        9,
+        4,
+        5
+      ],
+      "addition_check": [
+        5,
+        4,
+        9
+      ]
+    },
+    {
+      "id": "P1-11-Q1",
+      "subtraction": [
+        7,
+        2,
+        5
+      ],
+      "addition_check": [
+        5,
+        2,
+        7
+      ]
+    },
+    {
+      "id": "P1-11-Q2",
+      "subtraction": [
+        9,
+        9,
+        0
+      ],
+      "addition_check": [
+        0,
+        9,
+        9
+      ]
+    },
+    {
+      "id": "P1-11-Q3",
+      "subtraction": [
+        15,
+        4,
+        11
+      ],
+      "addition_check": [
+        11,
+        4,
+        15
+      ]
+    },
+    {
+      "id": "P1-11-Q4",
+      "subtraction": [
+        18,
+        9,
+        9
+      ],
+      "addition_check": [
+        9,
+        9,
+        18
+      ]
+    },
+    {
+      "id": "P1-11-Q5",
+      "subtraction": [
+        12,
+        3,
+        9
+      ],
+      "addition_check": [
+        9,
+        3,
+        12
+      ]
+    },
+    {
+      "id": "P1-11-Q6",
+      "subtraction": [
+        13,
+        5,
+        8
+      ],
+      "addition_check": [
+        8,
+        5,
+        13
+      ]
+    },
+    {
+      "id": "P1-11-SMALL-HELP",
+      "subtraction": [
+        3,
+        1,
+        2
+      ],
+      "addition_check": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "P1-11-SMALL-RECHECK",
+      "subtraction": [
+        5,
+        2,
+        3
+      ],
+      "addition_check": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "P1-11-CROSS-HELP",
+      "subtraction": [
+        11,
+        2,
+        9
+      ],
+      "addition_check": [
+        9,
+        2,
+        11
+      ]
+    },
+    {
+      "id": "P1-11-CROSS-RECHECK",
+      "subtraction": [
+        11,
+        3,
+        8
+      ],
+      "addition_check": [
+        8,
+        3,
+        11
+      ]
+    },
+    {
+      "id": "P1-11-STORY",
+      "subtraction": [
+        12,
+        3,
+        9
+      ],
+      "addition_check": [
+        9,
+        3,
+        12
+      ]
+    },
+    {
+      "id": "P1-11-FRESH-SMALL",
+      "subtraction": [
+        8,
+        5,
+        3
+      ],
+      "addition_check": [
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "P1-11-FRESH-SMALL",
+      "subtraction": [
+        9,
+        6,
+        3
+      ],
+      "addition_check": [
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "P1-11-FRESH-CROSS",
+      "subtraction": [
+        15,
+        7,
+        8
+      ],
+      "addition_check": [
+        8,
+        7,
+        15
+      ]
+    },
+    {
+      "id": "P1-11-FRESH-CROSS",
+      "subtraction": [
+        17,
+        8,
+        9
+      ],
+      "addition_check": [
+        9,
+        8,
+        17
+      ]
+    },
+    {
+      "id": "P1-11-FRESH-CHECK",
+      "subtraction": [
+        16,
+        7,
+        9
+      ],
+      "addition_check": [
+        9,
+        7,
+        16
+      ]
+    },
+    {
+      "id": "P1-11-CHECK-RECHECK",
+      "subtraction": [
+        6,
+        3,
+        3
+      ],
+      "addition_check": [
+        3,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "P1-11-DELAYED",
+      "subtraction": [
+        7,
+        4,
+        3
+      ],
+      "addition_check": [
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "P1-11-DELAYED",
+      "subtraction": [
+        16,
+        8,
+        8
+      ],
+      "addition_check": [
+        8,
+        8,
+        16
+      ]
+    },
+    {
+      "id": "P1-11-DELAYED",
+      "subtraction": [
+        13,
+        4,
+        9
+      ],
+      "addition_check": [
+        9,
+        4,
+        13
+      ]
+    },
+    {
+      "id": "P1-11-CROSSOUT-MODEL",
+      "subtraction": [
+        4,
+        1,
+        3
+      ],
+      "addition_check": [
+        3,
+        1,
+        4
+      ]
+    }
+  ],
+  "task_coverage_sha256": "e8a6aee027a01929af98f3402bdba92c29c3b813824054250227d2a93c4246ed",
+  "fresh_checks": "All four fresh/recheck tasks differ from worked/guided/source/support examples"
+}

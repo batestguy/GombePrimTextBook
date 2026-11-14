@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "textbook": 40,
+    "workbook": 14
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf"
+  },
+  "tasks": 53,
+  "equations": 86,
+  "diagrams": 22,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 source prompt/answer pairs preserved;18 other lessons exact",
+    "all baseline protected hashes preserved",
+    "S007 operator-only repair verified;all other supplements unchanged",
+    "all task arithmetic recalculated",
+    "six objectives have seven progression stages",
+    "actual vector counts,A4,embedded fonts,text bounds;all pages rendered"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "textbook": [
+    {
+      "page": 1,
+      "sha256": "9d797e1d049fba5e15958d7fadf54264855d5fc3e201f9fb1ebb63d1221f7d44",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 2,
+      "sha256": "ebd520dfa2766584e6e7526daf62dd9f58350dd3bb57513fe258368c7bfbf269",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 3,
+      "sha256": "806d069411217c1a63f9c63ec83c6be6c215f8c40e0ca4839af233ec0d9acb97",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 4,
+      "sha256": "fd383e0ce6ef1de923f28faeda63567aae7a8c361ad13d21cdcd92d17e335ac3",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 5,
+      "sha256": "7cb51d497c22eeccba668894dc2debdf998b002c804b67284e4fbbbe0db10d17",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 6,
+      "sha256": "d7e92a476f5fcda57e04cecddfa9c411c7bcbbe4f94ef1f2a30eb2e5164bbdd3",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 7,
+      "sha256": "9f90d428161d64448867fdc488e9a4924b854eb26f4608419d776a9dc908a639",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 8,
+      "sha256": "d33e49245e647ffb178b5d419afbf84e241553bb849e2faa6c98c1ed3e7ad97b",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 9,
+      "sha256": "2aff166d60841b7671fbb2b3df910dd41bc2782f1836760bb70e6c96e7a7b248",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 10,
+      "sha256": "13fbeefea7f32ec4ca9722884e74409e1e0ad0326819c651a655cea05aeae12b",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 11,
+      "sha256": "f0ee964f40cecfb3e5f223a51c772edf2c365312cccce617ddf50b5510135a53",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 12,
+      "sha256": "0f8341a62bce783f6f8c2f3df211c6589e9e20b711d54875f09dddf604bc5541",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 13,
+      "sha256": "0a42e5cb31ee2e81832bc6e8ced136544c308994e8443b6e1f3c4ad28a02a763",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 14,
+      "sha256": "1b1b29740349e24bbb7cc275be165f31affb456f6c91e37bae89269c843cda3a",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 15,
+      "sha256": "671112c4c9849123c90a1e8abe4fa91207c95704785374d9ebd641fc88e92777",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 16,
+      "sha256": "0c8884107227b16530b7791c44563293e18679f39317fb85e00cbf25ed20ff21",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 17,
+      "sha256": "f52aa7aca51dfac9373c9cf11f6702191a3c2459fb3e015de386a731654dadbf",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 18,
+      "sha256": "7087396b3f88b8733033cb5edbaf6cd2e233b076e51540c038ca9e38cffd446a",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 19,
+      "sha256": "f297570e958c575dbd4fbc9dd9249ac968f32bd2c470362113e67cd2cf2faed8",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 20,
+      "sha256": "8c84a81a019cd6aa2ad9852b0cb22db3d7a3de050789ebd87b19864e049c2458",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 21,
+      "sha256": "e01fa5c27b33e516c46d1b9d8dd8de439311d9cb9115ec5e0bf86cd28dfa9bea",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 22,
+      "sha256": "fd6bce0bbfb893870753b7f4938ed37be5e0c89f1fd33004e59606ce9a4150ee",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 23,
+      "sha256": "1b915dd95fc2144d436b05ad9b7bb21390d8d9bf32e1e379adbcad82839423e8",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 24,
+      "sha256": "c034011ffa48cc7355d8a23360e5d227bbd30561039ec1f6b0283ca782dabba7",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 25,
+      "sha256": "3eaaf16741928809214183f3faa2e49207ea7c7a398e4e4c9e2d2b9b11431b1e",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 26,
+      "sha256": "804b97b516bc4875583dcb48909dc3299f700bb905adb4f4a19863fbcaa5dea3",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 27,
+      "sha256": "cc785d697cb5a4c437b942f91bff92954445aabc92376b2eecd3e8e3b8488274",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 28,
+      "sha256": "afec9b96c2ad3039f15e6aac3adc310a4b8b9f11a9b8d0bfc64c620a3d9a35d9",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 29,
+      "sha256": "c479f6dbe9a0f13600097ea68eab1664d11e4d01c040768205987cec28449536",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 30,
+      "sha256": "8239d903809f1d0a92247e2a8c532e52a67d191e365093ba730135d27acd8a49",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 31,
+      "sha256": "7db7fc0e72e845bc7fb3779800a655c8bd5ebabeceeeaaae00b6570036190dc0",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 32,
+      "sha256": "bbb133bd655b5fef17a3f63e5d23c1ba2cf9fc3f1caae6d3be13a162001dd87b",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 33,
+      "sha256": "000a3c9af85077cf20bc4fe525ea658ca3d2e1b50348616d507fca3e0a926ddf",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 34,
+      "sha256": "5afa3b3c10d5d3b4dc8a9e61e202bd11304f91e4dae44d29ae356fd3115534d1",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 35,
+      "sha256": "1909ac66ba166f9aaf1eccb4af09608c2fa519b1359c9c29b8d7d55785b5aa8d",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 36,
+      "sha256": "373ee4ac1c3aec124833540cbf305bde3f15580c765c6fa87f41e33197a7740c",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 37,
+      "sha256": "c3fc00c809396f36cd1565940f18ddda89ec7d7b274b2be0b653ae6a4d3a269a",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 38,
+      "sha256": "480ea9333248185a39eefd8a5ef32a6199626ae86fa6face1e1f93f8bd743af6",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 39,
+      "sha256": "91a9118325b04ff634caa2d277bd3e6a5a6a3ea2981790497997ec2169d3f218",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 40,
+      "sha256": "b63c0ac9fb738f8c26dcf7ead990438128eec6abbf6ec2b5edcf9d747daf904a",
+      "author_individual_visual_inspection": "pass"
+    }
+  ],
+  "workbook": [
+    {
+      "page": 1,
+      "sha256": "15ff0547d4bf3835cdc64696e98981a701c93e4ddf1bacbebd2992bb6e9fbe20",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 2,
+      "sha256": "6209f5c6219fca10e36d40c9f036e4b58f0ae41f6a975de6f262a305c01760a1",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 3,
+      "sha256": "a7745c14594ba73be74886fd75734c886d9a67cd3900d182deb46afa6ae37e3d",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 4,
+      "sha256": "9709bafdc3981ce4f1d630b278a1eb06ffcae665593494fb5b8b6fb3d8f0dcb3",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 5,
+      "sha256": "43ca560de90d4f175dd7941787bbaff75a9110ae1b859c2226261bfd64b00ff1",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 6,
+      "sha256": "845e686430e9e471ee391af819b6337f466bf023ebf97906c9914f2e89333b01",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 7,
+      "sha256": "17130d2d65a2b617582969d9b5b632352ac69a0aff51b7410365a78a5fcc2c4f",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 8,
+      "sha256": "69a5a823bbd9ff8d20e0f553471aa2926c18664d65f1f06d5dd31ed918c10fe0",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 9,
+      "sha256": "85b5bfc06abd9f253b248110dcffdd746f492a39a915671e9c70c8eb26d6b9ca",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 10,
+      "sha256": "979d6f4bf4c2c694120e06a4a2e756a9eee873cafaecb4f68a863f8a1a4b5744",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 11,
+      "sha256": "8ad070565a681d9942f8a6f19f077ad06ff445d34e139a7b224c5e29885e7fd0",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 12,
+      "sha256": "8b28e4e5212aedceb3bce91bf0506a115b97a9a9a85f3e5425b544a2587c10f4",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 13,
+      "sha256": "70eff21fd58d62900869741657a54d072cf2511046b351dc69c594c260f90fe5",
+      "author_individual_visual_inspection": "pass"
+    },
+    {
+      "page": 14,
+      "sha256": "453c8c689b0721b3bd60e95c8cd875381cc1275596bdd72ec469a7946116fdc4",
+      "author_individual_visual_inspection": "pass"
+    }
+  ]
+}

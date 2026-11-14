@@ -1,0 +1,298 @@
+[
+  {
+    "id": "P1-10-PLACE",
+    "answer": "12 is one ten and two ones;14 is one ten and four ones;each bundle contains ten strips.",
+    "mode": "model/guided",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-10-JOIN-MODEL",
+    "answer": "12+15=27;2+5=7ones;1+1=2tens;all27 strips checked.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-10-COLUMN-MODEL",
+    "answer": "12+15=27;2tens7ones under labelled columns.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-10-GUIDED",
+    "answer": "11+12=23;1+2=3ones and1+1=2tens.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "P1-10-LARGE-MODEL",
+    "answer": "23+14=37;3+4=7ones;2+1=3tens;countall37 confirms.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-10-ZERO-MODEL",
+    "answer": "30+10=40;0ones4tens;four bundles each10=count40.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-10-ZERO-GUIDED",
+    "answer": "20+13=33;0+3=3ones;2+1=3tens.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-10-ONE-DIGIT-MODEL",
+    "answer": "14+5=19;5 in ones below4;1ten9ones;19 strips.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-10-CHECK-MODEL",
+    "answer": "12+11=23,not24;join/countall23.",
+    "mode": "worked",
+    "pages": {
+      "textbook": [
+        8
+      ]
+    }
+  },
+  {
+    "id": "P1-10-CHECK-GUIDED",
+    "answer": "13+12=25,not24;join/countall25;3+2=5ones;1+1=2tens.",
+    "mode": "guided",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "P1-10-RECALL",
+    "answer": "Tens under tens,ones under ones;addones then tens;build/join/untie/countall checks.",
+    "mode": "recall",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-10-HELP",
+    "answer": "10+2=12;1ten2ones;countall12.",
+    "mode": "supported",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-10-RECHECK",
+    "answer": "10+4=14;1ten4ones;countall14.",
+    "mode": "independent recheck",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "P1-10-STORY",
+    "answer": "22+11=33pencils;2+1=3ones;2+1=3tens;same stock conserved.",
+    "mode": "story resolution",
+    "pages": {
+      "textbook": [
+        11
+      ]
+    }
+  },
+  {
+    "id": "P1-10-FRESH-TWO",
+    "answer": "24+13=37;4+3=7ones;2+1=3tens;countall37.",
+    "mode": "fresh",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-10-FRESH-ZERO",
+    "answer": "20+20=40;0ones4tens;countall40.",
+    "mode": "fresh",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-10-FRESH-CHECK",
+    "answer": "12+5=17,not62;5isones under2;1ten7ones;countall17.",
+    "mode": "fresh",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-10-EXPLAIN",
+    "answer": "Each ones total is below10:7,0,7;no new bundle needed.",
+    "mode": "fresh explanation",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q1",
+    "answer": "25",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q2",
+    "answer": "37",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q3",
+    "answer": "40",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q4",
+    "answer": "19",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q5",
+    "answer": "33 pencils",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-10-Q6",
+    "answer": "Two tens plus one ten and three ones make three tens and three ones.",
+    "mode": "original independent",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "P1-10-DELAYED",
+    "answer": "Nextsession:13+16=29;20+10=30;21+7=28(not91);build/join/countall;correct alignment.",
+    "mode": "delayed",
+    "pages": {
+      "textbook": [
+        14
+      ]
+    }
+  }
+]

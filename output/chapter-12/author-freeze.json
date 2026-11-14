@@ -1,0 +1,27 @@
+{
+  "chapter": "P1-12",
+  "author": "Codex /root/chapter12_author",
+  "status": "pending_independent_review",
+  "fingerprint": "7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba",
+  "files": {
+    "production/p1.json": "ceba2d975e066eccc52e638a91b58680044f9e0755e7fa111d64ea4ff412579d",
+    "production/lessons.json": "83a2c8efecfcd066653b262235a9b85cd48c48e2e47485f3c528c33e80cc8d12",
+    "research/supplementary_assessments.json": "609e195dcb5c2c182d45f101953218373ea14a00c5f114379753b5f9485f6d4f",
+    "scripts/build_chapter_twelve.py": "e3d9090d16746f3f99c9603b129ee865be5fe074527ba9856df7adfb2d8375eb",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+    "output/chapter-12/task-coverage.json": "a993cfca4d15f8883e90414bf479083d15525ee18191f0170dfdf87fe96801a0",
+    "output/chapter-12/objective-matrix.json": "e200d0f7d98407490d7d5bcd79cb7ad0bb1ce61ee672dfb8f919015fa9f2e97c",
+    "output/chapter-12/diagram-values.json": "c1f369938ed37adeced098f43d2f4619aa07edda6c517c29caf06250a031e920",
+    "output/chapter-12/diagram-ledger.json": "ee09e7f89c41f4aa4705ea61d4b5e6a9770c5cdead0358a927ab5cd836769557",
+    "output/chapter-12/validation.json": "fe968d574035720b80b90f4b95198a37c91e2cf6b5e793763ada69f7452058ef",
+    "output/chapter-12/s007-repair.json": "57b41636e9c065bd7d4b2ed6f8a6f6e48ade74d00706dfee3145c245cf9d7b7c",
+    "output/chapter-12/author-page-inspection.json": "f231bdd0a43627085319a1cfe22834b8b134e5b14d9e77df9a3d3618b8d5f8c8",
+    "output/chapter-12/legacy-validation.json": "b1e55a4f4a0529abfad71f8df86ebcf0c4515f4c274f72983e906d83bb27593b",
+    "output/chapter-12/legacy-roundtrip.json": "8d134409dc969b280e94dc17898ded1c03897026da7947f79d2e80408b216c7a",
+    "output/chapter-12/HANDOFF.md": "32b44c2be04e6be6a6c5a80a6833bb517e6131ca73286df5ce3e70e2c2d99d2f",
+    "output/chapter-12/progress.md": "9cf2677aae2b3a06d936d974145707f42f50581e47b5b91e09606550107e0771"
+  },
+  "all_54_inspected_png_hashes_still_match": true,
+  "strict_gate": "FAILED as expected: P1-12 independent review pending"
+}

@@ -1,0 +1,884 @@
+{
+  "pages": 15,
+  "sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+  "page_manifest": [
+    {
+      "slug": "c11-story",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Chalk for the toy school",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "c11-small",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Watch: take away from seven",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-SMALL-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-together",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Try together, then take all",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-SMALL-GUIDED",
+        "P1-11-ALL-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-backwards",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Count backwards one step at a time",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-BACK-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-fourteen",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Watch: cross ten with counters",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-CROSS-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-twelve",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Try crossing ten together",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-CROSS-GUIDED"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-check",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Check by putting them back",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-CHECK-MODEL"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-practice",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Try it yourself",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-Q1",
+        "P1-11-Q2",
+        "P1-11-Q3",
+        "P1-11-Q4",
+        "P1-11-Q5",
+        "P1-11-Q6"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-remember",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Remember and get help",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-RECALL",
+        "P1-11-SMALL-HELP",
+        "P1-11-SMALL-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-larger-help",
+      "kicker": "Chapter eleven / Take away",
+      "title": "A smaller step across ten",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-CROSS-HELP",
+        "P1-11-CROSS-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-ending",
+      "kicker": "Chapter eleven / Take away",
+      "title": "The chalk is ready",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-STORY"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-fresh",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Show what you can do",
+      "subtitle": "Read together. Use your workbook or exercise book.",
+      "task_ids": [
+        "P1-11-FRESH-SMALL",
+        "P1-11-FRESH-CROSS",
+        "P1-11-FRESH-CHECK",
+        "P1-11-CHECK-RECHECK"
+      ],
+      "adult": false
+    },
+    {
+      "slug": "c11-answers",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Answers and source correspondence",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "c11-support",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Support and complete fresh answers",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [
+        "P1-11-DELAYED"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "c11-credits",
+      "kicker": "Chapter eleven / Take away",
+      "title": "Words, evidence and next learning",
+      "subtitle": "Read together. Adult guidance and answers.",
+      "task_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-11-SMALL-MODEL": [
+      2
+    ],
+    "P1-11-SMALL-GUIDED": [
+      3
+    ],
+    "P1-11-ALL-MODEL": [
+      3
+    ],
+    "P1-11-BACK-MODEL": [
+      4
+    ],
+    "P1-11-CROSS-MODEL": [
+      5
+    ],
+    "P1-11-CROSS-GUIDED": [
+      6
+    ],
+    "P1-11-CHECK-MODEL": [
+      7
+    ],
+    "P1-11-Q1": [
+      8
+    ],
+    "P1-11-Q2": [
+      8
+    ],
+    "P1-11-Q3": [
+      8
+    ],
+    "P1-11-Q4": [
+      8
+    ],
+    "P1-11-Q5": [
+      8
+    ],
+    "P1-11-Q6": [
+      8
+    ],
+    "P1-11-RECALL": [
+      9
+    ],
+    "P1-11-SMALL-HELP": [
+      9
+    ],
+    "P1-11-SMALL-RECHECK": [
+      9
+    ],
+    "P1-11-CROSS-HELP": [
+      10
+    ],
+    "P1-11-CROSS-RECHECK": [
+      10
+    ],
+    "P1-11-STORY": [
+      11
+    ],
+    "P1-11-FRESH-SMALL": [
+      12
+    ],
+    "P1-11-FRESH-CROSS": [
+      12
+    ],
+    "P1-11-FRESH-CHECK": [
+      12
+    ],
+    "P1-11-CHECK-RECHECK": [
+      12
+    ],
+    "P1-11-DELAYED": [
+      14
+    ]
+  },
+  "objects": [
+    {
+      "id": "tb-seven-remain",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-seven-removed",
+      "page": 2,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          450
+        ],
+        [
+          111,
+          450
+        ],
+        [
+          157,
+          450
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-six-remain",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          335
+        ],
+        [
+          111,
+          335
+        ],
+        [
+          157,
+          335
+        ],
+        [
+          203,
+          335
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-six-removed",
+      "page": 3,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          460
+        ],
+        [
+          111,
+          460
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-eight-remain",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          530
+        ],
+        [
+          111,
+          530
+        ],
+        [
+          157,
+          530
+        ],
+        [
+          203,
+          530
+        ],
+        [
+          249,
+          530
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-eight-removed",
+      "page": 4,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          655
+        ],
+        [
+          111,
+          655
+        ],
+        [
+          157,
+          655
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "tb-start14",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          330
+        ],
+        [
+          111,
+          330
+        ],
+        [
+          157,
+          330
+        ],
+        [
+          203,
+          330
+        ],
+        [
+          249,
+          330
+        ],
+        [
+          295,
+          330
+        ],
+        [
+          341,
+          330
+        ],
+        [
+          387,
+          330
+        ],
+        [
+          433,
+          330
+        ],
+        [
+          479,
+          330
+        ],
+        [
+          65,
+          368
+        ],
+        [
+          111,
+          368
+        ],
+        [
+          157,
+          368
+        ],
+        [
+          203,
+          368
+        ]
+      ],
+      "count": 14
+    },
+    {
+      "id": "tb-cross-remain",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          535
+        ],
+        [
+          111,
+          535
+        ],
+        [
+          157,
+          535
+        ],
+        [
+          203,
+          535
+        ],
+        [
+          249,
+          535
+        ],
+        [
+          295,
+          535
+        ],
+        [
+          341,
+          535
+        ],
+        [
+          387,
+          535
+        ]
+      ],
+      "count": 8
+    },
+    {
+      "id": "tb-cross-removed",
+      "page": 5,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          660
+        ],
+        [
+          111,
+          660
+        ],
+        [
+          157,
+          660
+        ],
+        [
+          203,
+          660
+        ],
+        [
+          249,
+          660
+        ],
+        [
+          295,
+          660
+        ]
+      ],
+      "count": 6
+    },
+    {
+      "id": "tb-twelve-remain",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          365
+        ],
+        [
+          111,
+          365
+        ],
+        [
+          157,
+          365
+        ],
+        [
+          203,
+          365
+        ],
+        [
+          249,
+          365
+        ],
+        [
+          295,
+          365
+        ],
+        [
+          341,
+          365
+        ]
+      ],
+      "count": 7
+    },
+    {
+      "id": "tb-twelve-removed",
+      "page": 6,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          490
+        ],
+        [
+          111,
+          490
+        ],
+        [
+          157,
+          490
+        ],
+        [
+          203,
+          490
+        ],
+        [
+          249,
+          490
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-nine-remain",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          345
+        ],
+        [
+          111,
+          345
+        ],
+        [
+          157,
+          345
+        ],
+        [
+          203,
+          345
+        ],
+        [
+          249,
+          345
+        ]
+      ],
+      "count": 5
+    },
+    {
+      "id": "tb-nine-removed",
+      "page": 7,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          470
+        ],
+        [
+          111,
+          470
+        ],
+        [
+          157,
+          470
+        ],
+        [
+          203,
+          470
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "tb-help-remain",
+      "page": 9,
+      "kinds": [
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          455
+        ],
+        [
+          111,
+          455
+        ]
+      ],
+      "count": 2
+    },
+    {
+      "id": "tb-help-removed",
+      "page": 9,
+      "kinds": [
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          580
+        ]
+      ],
+      "count": 1
+    },
+    {
+      "id": "tb-help11",
+      "page": 10,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          325
+        ],
+        [
+          111,
+          325
+        ],
+        [
+          157,
+          325
+        ],
+        [
+          203,
+          325
+        ],
+        [
+          249,
+          325
+        ],
+        [
+          295,
+          325
+        ],
+        [
+          341,
+          325
+        ],
+        [
+          387,
+          325
+        ],
+        [
+          433,
+          325
+        ],
+        [
+          479,
+          325
+        ],
+        [
+          65,
+          363
+        ]
+      ],
+      "count": 11
+    },
+    {
+      "id": "tb-story-remain",
+      "page": 11,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          350
+        ],
+        [
+          111,
+          350
+        ],
+        [
+          157,
+          350
+        ],
+        [
+          203,
+          350
+        ],
+        [
+          249,
+          350
+        ],
+        [
+          295,
+          350
+        ],
+        [
+          341,
+          350
+        ],
+        [
+          387,
+          350
+        ],
+        [
+          433,
+          350
+        ]
+      ],
+      "count": 9
+    },
+    {
+      "id": "tb-story-removed",
+      "page": 11,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          65,
+          475
+        ],
+        [
+          111,
+          475
+        ],
+        [
+          157,
+          475
+        ]
+      ],
+      "count": 3
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}
