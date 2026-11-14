@@ -1,0 +1,161 @@
+{
+  "reviewed_by": "Codex /root/chapter13_review",
+  "date": "2026-11-14",
+  "only_review_objects_P1_01_through_13_changed": true,
+  "nonreview_fields_all_history_and_other50_exact": true,
+  "before_sha256": "4b4c03bc0f6cfb83ec2ce536f88d96ed6c48e94a8c70d7cb86ca9f0997e1ab94",
+  "after_sha256": "e16a639b32d9eccf6a302648690bd82e2aee8ad3be8c9f16f6d5dedb3feb90a7",
+  "gates": [
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-01",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-02",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-03",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-04",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-05",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-06",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-07",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-08",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-09",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-10",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-11",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-12",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/check_chapter_standard.py",
+        "--chapter",
+        "P1-13",
+        "--require-reviewed"
+      ],
+      "exit_code": 0,
+      "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/preflight.py"
+      ],
+      "exit_code": 0,
+      "stdout": "63 chapter records checked; draft/register check only; pending chapters are NOT approved.\n1.9.38\nPreflight passed: tools, lesson data, curriculum evidence, artwork and font licences present.\n",
+      "stderr": "typst 0.14.2 (b33de9de)\n"
+    }
+  ]
+}

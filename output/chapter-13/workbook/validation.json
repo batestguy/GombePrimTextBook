@@ -1,0 +1,129 @@
+{
+  "pages": 7,
+  "sha256": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb",
+  "page_manifest": [
+    {
+      "slug": "c13-workbook-1",
+      "kicker": "Pretend coins and change / Workbook page 1",
+      "title": "Read genuine coin values",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-REAL-INDEPENDENT"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-2",
+      "kicker": "Pretend coins and change / Workbook page 2",
+      "title": "Try a real coin rubbing",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-RUB-INDEPENDENT"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-3",
+      "kicker": "Pretend coins and change / Workbook page 3",
+      "title": "Add the card values",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-Q1",
+        "P1-13-Q2"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-4",
+      "kicker": "Pretend coins and change / Workbook page 4",
+      "title": "Find the change",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-Q3",
+        "P1-13-Q4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-5",
+      "kicker": "Pretend coins and change / Workbook page 5",
+      "title": "Draw and explain",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-Q5",
+        "P1-13-Q6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-6",
+      "kicker": "Pretend coins and change / Workbook page 6",
+      "title": "A fresh shop puzzle",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "P1-13-TOTAL-FRESH",
+        "P1-13-CHANGE-FRESH"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-workbook-7",
+      "kicker": "Pretend coins and change / Workbook page 7",
+      "title": "Fresh genuine-coin checks",
+      "subtitle": "Read together. Write or draw in the spaces.",
+      "task_ids": [
+        "S008",
+        "S009"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-13-REAL-INDEPENDENT": [
+      1
+    ],
+    "P1-13-RUB-INDEPENDENT": [
+      2
+    ],
+    "P1-13-Q1": [
+      3
+    ],
+    "P1-13-Q2": [
+      3
+    ],
+    "P1-13-Q3": [
+      4
+    ],
+    "P1-13-Q4": [
+      4
+    ],
+    "P1-13-Q5": [
+      5
+    ],
+    "P1-13-Q6": [
+      5
+    ],
+    "P1-13-TOTAL-FRESH": [
+      6
+    ],
+    "P1-13-CHANGE-FRESH": [
+      6
+    ],
+    "S008": [
+      7
+    ],
+    "S009": [
+      7
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

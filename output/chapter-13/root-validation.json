@@ -1,0 +1,39 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "114 ordered original prompt/answer pairs and 18 other complete lessons preserved",
+    "Generated lessons match all three canonical sources",
+    "All 159 protected hashes match, including 22 prior PDFs",
+    "All 21 historical generated backups restored byte for byte",
+    "All supplementary source fields/items unchanged",
+    "Other 50 chapter records unchanged; 12 review histories retained",
+    "Final frozen hashes and whitespace check pass"
+  ],
+  "require_reviewed": true,
+  "fingerprints": {
+    "P1-01": "df369d68625ef6916e4821a0d7fec64ebda8e6968ee35373bbfffcb89f9e501c",
+    "P1-02": "ce6220974e01600021d44c7a50c8f887b376fe9439faaa591cffe1612001bdd9",
+    "P1-03": "cf724588db636df6df7d21cb7b360653973240a42380face3574bfb9f966fade",
+    "P1-04": "c034b76de6398e2503671bb60dabd0eec1740b0016ac6d934d0c56b609825740",
+    "P1-05": "37b8ed3825ae62ef0a8cdddaffd593ccc5d2039fecbe667aa51c8bfd9fabd332",
+    "P1-06": "571ac071d14adbc7f78951e850c3f18731562376c6c7f221cfaba1928b9b3843",
+    "P1-07": "5de9298c358d25ae640421711023e877290dec4aa77d18c8dd9418e0582b03dd",
+    "P1-08": "f97de440d991582f8dc865110a7c69a2389c965ed66128b19bdf3126e7eb21f7",
+    "P1-09": "9f6ad6b1604f3f7a5a7c38f9c5e7a861c22fb4555e2321e53a8a4ec6c617b7ad",
+    "P1-10": "bb70422d3520284c3a14eb7b81958ab9c1cb9d4129a4717e19de2908831bf509",
+    "P1-11": "ed8990af623ca0cb50499a9b124cfa60168b1c58e0a05c092ace26fa13b3b422",
+    "P1-12": "3595bfd9ac82b49bba361e6cf8ee8126d4110d8daf8d22fa993fcb9dc9eb25b9",
+    "P1-13": "6e218bbf21bd03b50298d4ee9a62e136d19c04312ac0fbea1148da965035f449"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "sha256": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+      "sha256": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb"
+    }
+  },
+  "limits": "Continuation extracts; genuine coin recognition/rubbing resource-conditional. Annual assembly/current curriculum/adoption/local trials/physical print and printer approval pending."
+}

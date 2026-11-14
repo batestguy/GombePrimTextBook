@@ -1,0 +1,18 @@
+{
+  "author": "Codex /root/chapter13_author",
+  "status": "frozen_for_independent_review",
+  "fingerprint": "6e218bbf21bd03b50298d4ee9a62e136d19c04312ac0fbea1148da965035f449",
+  "hashes": {
+    "production/p1.json": "6c694f3733fc06f2c080fad81e4ef64561fd615a60dbf08022134a7b229eede9",
+    "production/lessons.json": "c86bae104ead3209acc3b0da60c4a16b9facdd5062beac1ecab7232545fc943d",
+    "scripts/build_chapter_thirteen.py": "ca1686d3895b158f565ab342c924aba19e341248f0c56c2a692af2861970b781",
+    "output\\pdf\\Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+    "output\\pdf\\Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb"
+  },
+  "protected_hashes_exact": 159,
+  "historical_files_exactly_restored": 21,
+  "pages_personally_inspected": 34,
+  "generated_lessons_equal_canonical": true,
+  "draft_gate": "passed",
+  "strict_gate": "blocked: independent review pending"
+}

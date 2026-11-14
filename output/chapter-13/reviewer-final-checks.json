@@ -1,0 +1,1725 @@
+{
+  "freeze_fingerprint": "6e218bbf21bd03b50298d4ee9a62e136d19c04312ac0fbea1148da965035f449",
+  "freeze_hashes_match": true,
+  "prior22pdf_hashes_match": true,
+  "page_checks": [
+    {
+      "role": "textbook",
+      "page": 1,
+      "png": "output/chapter-13/textbook/page-01.png",
+      "sha256": "fded5d19e683110840eaac79493c0b9b1fddafa927abf31b2801e34d4e15d452",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "png": "output/chapter-13/textbook/page-02.png",
+      "sha256": "1877cbf427e6551a0568e2261477fd262720cc4df3be15aea9639fe1e7aad473",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "png": "output/chapter-13/textbook/page-03.png",
+      "sha256": "e639e8c8f6f78d7c66b4b06afcd581516b853162e053978c7afe48f51291c227",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "png": "output/chapter-13/textbook/page-04.png",
+      "sha256": "0dd0322a5285acddf2bdf297ccb85733c5c5601056870851aad5dec5ba1a4dbd",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "png": "output/chapter-13/textbook/page-05.png",
+      "sha256": "0f66c06274edf9412799f57c0ee164e8ea8a7b1ac942039d7dc4921d09828212",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "png": "output/chapter-13/textbook/page-06.png",
+      "sha256": "b854876b84f0762a87e3deb35e0024896a116c28029c7034b9876fbcf029eb2d",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "png": "output/chapter-13/textbook/page-07.png",
+      "sha256": "ee0a9fb841ed34268d503ac3347edb133a03a02ae92c88cbe3b5fd05c777ebca",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "png": "output/chapter-13/textbook/page-08.png",
+      "sha256": "1e436740e80ee03e78e5aef5bd89c165cf4b42b81869708dd01b410ec49f3faa",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 9,
+      "png": "output/chapter-13/textbook/page-09.png",
+      "sha256": "0efe47e402e5031497450b6e2581ab4e391554c3d895e36e989d74ee17ba9c53",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "png": "output/chapter-13/textbook/page-10.png",
+      "sha256": "ccec2e0136ddddb8c196ae4c9b27bea9a077db0a461a3bd042bf7be433f0510b",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "png": "output/chapter-13/textbook/page-11.png",
+      "sha256": "9d434e93ee92637adb70be7805ed6573bf9d716a1882400c9e2657b85b921a14",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "png": "output/chapter-13/textbook/page-12.png",
+      "sha256": "fd149b93a1a0998ef41550f23638af2f9e4810bd2bf80090a910c5a76905bbd2",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "png": "output/chapter-13/textbook/page-13.png",
+      "sha256": "f9f8d5aa4b1cbbd3a390d01462f37b8cdd2a909b0327a07115e8793328a7b926",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 14,
+      "png": "output/chapter-13/textbook/page-14.png",
+      "sha256": "deeaa27ce1bf692398bd01543d2f5792bcee7cbbc6db1665ecb5abf1c7130ad0",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 15,
+      "png": "output/chapter-13/textbook/page-15.png",
+      "sha256": "e79caeb2d72f4495896ee4d6fb2d70a1b1e2495d6282e6eceece55dc0a9ae4a9",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "png": "output/chapter-13/textbook/page-16.png",
+      "sha256": "dfbeb4f4880b3a03ec0f4a1660e70f59acc62c078fdd704260182c45b5422402",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": false
+    },
+    {
+      "role": "textbook",
+      "page": 17,
+      "png": "output/chapter-13/textbook/page-17.png",
+      "sha256": "ff4e146e0842217b00fa5559784ba85b2d436596dc0e429f201b06e740bcaf4e",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 18,
+      "png": "output/chapter-13/textbook/page-18.png",
+      "sha256": "b71f9ce693ffadd247792a6c67f583714ed21c63467dd405dcec23954e83811e",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 19,
+      "png": "output/chapter-13/textbook/page-19.png",
+      "sha256": "2e9aa6a7995a85ee9caf953d92f2dc4638ede2b48d83c5ff063b7f324774a845",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 20,
+      "png": "output/chapter-13/textbook/page-20.png",
+      "sha256": "f6fe0dc6e00fcfa9c3d039f8ba36abc3dc93c1a9421a6dc2b99342ce9964dc71",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 21,
+      "png": "output/chapter-13/textbook/page-21.png",
+      "sha256": "a0567a2c87aaa0fb1e28178f92c85706e9fe36b1ba19b5a69dd5f3a64d9824fb",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 22,
+      "png": "output/chapter-13/textbook/page-22.png",
+      "sha256": "bfbd5cd84ee12bca43e3313814ba200e89820ca5058c329bb29c5ae0c276fa54",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 23,
+      "png": "output/chapter-13/textbook/page-23.png",
+      "sha256": "e8c012974912b1ea4dacb8346fe68da297bcf3c445c064854f6db4a2b40d4680",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 24,
+      "png": "output/chapter-13/textbook/page-24.png",
+      "sha256": "0b7729a4ac2d8c4423c10a5e736921a8d99993c110db2850cfa96649b443fb28",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 25,
+      "png": "output/chapter-13/textbook/page-25.png",
+      "sha256": "1af53e0d888d63ad6ab0c9f93f1fb3c5a08ad54ff18bd34c687720c9c587436d",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 26,
+      "png": "output/chapter-13/textbook/page-26.png",
+      "sha256": "b0307d3b9869f727150f065b4260221e97917d835062772438c69ed063d531a9",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "textbook",
+      "page": 27,
+      "png": "output/chapter-13/textbook/page-27.png",
+      "sha256": "efd42d4c27ef257cac24c252ec1129561598ca1764c85864d4a0fcb77d234bbe",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "png": "output/chapter-13/workbook/page-01.png",
+      "sha256": "cd215bf1510ab17afe8bedc6aca2c0a23274f0905e012ec84f04ffe4483dfb8e",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "png": "output/chapter-13/workbook/page-02.png",
+      "sha256": "6b2b706e6cdd57e567348baad3097441619bcae5d60e473b478f9b6617d6aacb",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "png": "output/chapter-13/workbook/page-03.png",
+      "sha256": "6437c5b87f9f981a87e86015d2066b3e54efd0aaa1a8df6620fcc7e9f83d924e",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "png": "output/chapter-13/workbook/page-04.png",
+      "sha256": "bdcecbc738fb3d2306f4d9fffc01d13c54f621b72b3fdc729a155af34b388553",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "png": "output/chapter-13/workbook/page-05.png",
+      "sha256": "d85518c5d72ba58bb3ed0f2a94a336b096b603f689b6558874f4e34aa8667024",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "png": "output/chapter-13/workbook/page-06.png",
+      "sha256": "7ab97357e67f4aa735a7f12b2dbcea63c3a5d80dd3ec471de138081d6b829df4",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "png": "output/chapter-13/workbook/page-07.png",
+      "sha256": "386a4d9fc3fb27f4a16988f1df5b5a1cfb95648c8a8bf20e989aeaee15affd27",
+      "pixel_match": true,
+      "a4": true,
+      "outside_text": [],
+      "all_fonts_embedded": true,
+      "unchanged_from_personally_inspected_first_freeze": true
+    }
+  ],
+  "changed_pages": [
+    {
+      "role": "textbook",
+      "page": 16
+    }
+  ],
+  "cards": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        48.0,
+        358.0,
+        131.0,
+        423.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        48.0,
+        495.0,
+        131.0,
+        560.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        144.0,
+        495.0,
+        227.0,
+        560.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        48.0,
+        310.0,
+        131.0,
+        375.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        144.0,
+        310.0,
+        227.0,
+        375.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        48.0,
+        535.0,
+        131.0,
+        600.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        144.0,
+        535.0,
+        227.0,
+        600.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        240.0,
+        535.0,
+        323.0,
+        600.0
+      ],
+      "value": 1
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "rect": [
+        48.0,
+        300.0,
+        131.0,
+        365.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "rect": [
+        144.0,
+        300.0,
+        227.0,
+        365.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "rect": [
+        48.0,
+        490.0,
+        131.0,
+        555.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "rect": [
+        144.0,
+        490.0,
+        227.0,
+        555.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "rect": [
+        240.0,
+        490.0,
+        323.0,
+        555.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "rect": [
+        48.0,
+        530.0,
+        131.0,
+        595.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "rect": [
+        144.0,
+        530.0,
+        227.0,
+        595.0
+      ],
+      "value": 1
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "rect": [
+        48.0,
+        320.0,
+        131.0,
+        385.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "rect": [
+        144.0,
+        320.0,
+        227.0,
+        385.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "rect": [
+        48.0,
+        265.0,
+        131.0,
+        330.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "rect": [
+        144.0,
+        265.0,
+        227.0,
+        330.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "rect": [
+        48.0,
+        525.0,
+        131.0,
+        590.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "rect": [
+        144.0,
+        525.0,
+        227.0,
+        590.0
+      ],
+      "value": 10
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "rect": [
+        240.0,
+        525.0,
+        323.0,
+        590.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "rect": [
+        48.0,
+        280.0,
+        131.0,
+        345.0
+      ],
+      "value": 5
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "rect": [
+        144.0,
+        280.0,
+        227.0,
+        345.0
+      ],
+      "value": 10
+    }
+  ],
+  "equations": [
+    {
+      "equation": "5+5=10",
+      "left": 10,
+      "right": 10
+    },
+    {
+      "equation": "10+5=15",
+      "left": 15,
+      "right": 15
+    },
+    {
+      "equation": "5+5+1=11",
+      "left": 11,
+      "right": 11
+    },
+    {
+      "equation": "10-6=4",
+      "left": 4,
+      "right": 4
+    },
+    {
+      "equation": "6+4=10",
+      "left": 10,
+      "right": 10
+    },
+    {
+      "equation": "8-5=3",
+      "left": 3,
+      "right": 3
+    },
+    {
+      "equation": "5+3=8",
+      "left": 8,
+      "right": 8
+    },
+    {
+      "equation": "1+1=2",
+      "left": 2,
+      "right": 2
+    },
+    {
+      "equation": "5+1=6",
+      "left": 6,
+      "right": 6
+    },
+    {
+      "equation": "5-3=2",
+      "left": 2,
+      "right": 2
+    },
+    {
+      "equation": "3+2=5",
+      "left": 5,
+      "right": 5
+    },
+    {
+      "equation": "6-4=2",
+      "left": 2,
+      "right": 2
+    },
+    {
+      "equation": "4+2=6",
+      "left": 6,
+      "right": 6
+    },
+    {
+      "equation": "10-6=4",
+      "left": 4,
+      "right": 4
+    },
+    {
+      "equation": "6+4=10",
+      "left": 10,
+      "right": 10
+    },
+    {
+      "equation": "5+5=10",
+      "left": 10,
+      "right": 10
+    },
+    {
+      "equation": "10+10+5=25",
+      "left": 25,
+      "right": 25
+    },
+    {
+      "equation": "10-7=3",
+      "left": 3,
+      "right": 3
+    },
+    {
+      "equation": "7+3=10",
+      "left": 10,
+      "right": 10
+    },
+    {
+      "equation": "5-2=3",
+      "left": 3,
+      "right": 3
+    },
+    {
+      "equation": "2+3=5",
+      "left": 5,
+      "right": 5
+    },
+    {
+      "equation": "10+10=20",
+      "left": 20,
+      "right": 20
+    },
+    {
+      "equation": "10+5+5=20",
+      "left": 20,
+      "right": 20
+    },
+    {
+      "equation": "5+5+5+5=20",
+      "left": 20,
+      "right": 20
+    },
+    {
+      "equation": "9-6=3",
+      "left": 3,
+      "right": 3
+    },
+    {
+      "equation": "6+3=9",
+      "left": 9,
+      "right": 9
+    },
+    {
+      "equation": "10+10+5=25",
+      "left": 25,
+      "right": 25
+    },
+    {
+      "equation": "9-5=4",
+      "left": 4,
+      "right": 4
+    },
+    {
+      "equation": "5+4=9",
+      "left": 9,
+      "right": 9
+    }
+  ],
+  "task_coverage": [
+    {
+      "id": "P1-13-VALUE-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Read a 10k card and compare it with two 5k cards.",
+      "author_answer": "One card versus two cards; both values are 10k.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          2
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        20
+      ],
+      "equations": [
+        {
+          "equation": "5+5=10",
+          "left": 10,
+          "right": 10
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-REAL-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "Watch the adult point to a verified coin or genuine image and say its value.",
+      "author_answer": "Adult names each actual example from the dated checklist and distinguishes it from pretend cards.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          3
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        20
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-REAL-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "Point to a verified example. Say its value with the adult.",
+      "author_answer": "Value agrees with checklist; adult prompts permitted.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          3
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        20
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-RUB-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "Watch a gentle coin rubbing through brown then white paper.",
+      "author_answer": "Two surface rubbings; adult names verified coin; surfaces show through paper; materials intact.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        20
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-RUB-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "With supervision make a rubbing on brown paper, then white paper. Say the coin value.",
+      "author_answer": "Both actual surface rubbings; correct verified value; coin and papers intact; support recorded.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        20
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-TOTAL-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Make 15k using 10k and 5k cards.",
+      "author_answer": "15k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        21
+      ],
+      "equations": [
+        {
+          "equation": "10+5=15",
+          "left": 15,
+          "right": 15
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-TOTAL-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Together make 11k using 5k, 5k, 1k.",
+      "author_answer": "11k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        21
+      ],
+      "equations": [
+        {
+          "equation": "5+5+1=11",
+          "left": 11,
+          "right": 11
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 10k for a 6k ticket. Find the change.",
+      "author_answer": "4k; cost plus change equals payment.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        21
+      ],
+      "equations": [
+        {
+          "equation": "10-6=4",
+          "left": 4,
+          "right": 4
+        },
+        {
+          "equation": "6+4=10",
+          "left": 10,
+          "right": 10
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 8k for a 5k pretend item. Find change.",
+      "author_answer": "3k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        21
+      ],
+      "equations": [
+        {
+          "equation": "8-5=3",
+          "left": 3,
+          "right": 3
+        },
+        {
+          "equation": "5+3=8",
+          "left": 8,
+          "right": 8
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-RECALL",
+      "mode": "recall",
+      "objectives": [
+        "P1-p08-01",
+        "P1-p08-02",
+        "P1-p08-03",
+        "P1-p08-04"
+      ],
+      "source_prompt": "Before help: say how to read a value, add cards, find change and make a real rubbing.",
+      "author_answer": "Read verified value/label; add values not cards; count from cost to payment then check; rub genuine surface through both papers when available.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        21
+      ],
+      "equations": [],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-REAL-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "Use two verified real examples with DIFFERENT values. Mrs Binta says one value. Match it by pointing. Look at each example with her, not at its size.",
+      "author_answer": "Adult models smaller step. Resources required; not assessed if absent.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        22
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-REAL-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "The adult now reverses the two examples and removes the value labels. Name each value yourself.",
+      "author_answer": "Each actual value matches the dated checklist; record help separately.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        22
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-RUB-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "Hold one genuine coin under white paper. The adult steadies it and shows a short gentle pencil stroke. Repeat with brown paper.",
+      "author_answer": "Adult models smaller step. Resources required; not assessed if absent.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        22
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-RUB-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "With fresh brown and white paper, place the coin yourself and make both rubbings under supervision. Say its verified value.",
+      "author_answer": "Two surface rubbings, correct verified value, materials intact; record any assistance.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        22
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-TOTAL-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Read two 1k labels. Join their values: 1k + 1k = 2k. Touch each label once.",
+      "author_answer": "Adult models smaller step. 2k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        22
+      ],
+      "equations": [
+        {
+          "equation": "1+1=2",
+          "left": 2,
+          "right": 2
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-TOTAL-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Read cards labelled 5k and 1k. Find their total without help.",
+      "author_answer": "6k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        23
+      ],
+      "equations": [
+        {
+          "equation": "5+1=6",
+          "left": 6,
+          "right": 6
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.",
+      "author_answer": "Adult models smaller step. 2k change",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        23
+      ],
+      "equations": [
+        {
+          "equation": "5-3=2",
+          "left": 2,
+          "right": 2
+        },
+        {
+          "equation": "3+2=5",
+          "left": 5,
+          "right": 5
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "A pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.",
+      "author_answer": "2k; 4k+2k=6k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        23
+      ],
+      "equations": [
+        {
+          "equation": "6-4=2",
+          "left": 2,
+          "right": 2
+        },
+        {
+          "equation": "4+2=6",
+          "left": 6,
+          "right": 6
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-STORY",
+      "mode": "closure",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
+      "author_answer": "One ticket moves from shop to John; 4k change returned; 6k retained.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        23
+      ],
+      "equations": [
+        {
+          "equation": "10-6=4",
+          "left": 4,
+          "right": 4
+        },
+        {
+          "equation": "6+4=10",
+          "left": 10,
+          "right": 10
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-REAL-INDEPENDENT",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "Independently point to each prepared genuine coin/official image and name its value.",
+      "author_answer": "Every value matches dated checklist; distinguishes genuine example from pretend card; no prompts.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [],
+        "workbook": [
+          1
+        ]
+      },
+      "answer_pages": [
+        23
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-RUB-INDEPENDENT",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "Independently arrange genuine coin under brown then white paper; rub gently under supervision and name coin.",
+      "author_answer": "Two actual surface rubbings, correct verified value, intact materials; no teaching prompts.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": [
+        24
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-Q1",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "5k + 5k = __.",
+      "author_answer": "10k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": [
+        24
+      ],
+      "equations": [
+        {
+          "equation": "5+5=10",
+          "left": 10,
+          "right": 10
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-Q2",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "10k + 10k + 5k = __.",
+      "author_answer": "25k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": [
+        24
+      ],
+      "equations": [
+        {
+          "equation": "10+10+5=25",
+          "left": 25,
+          "right": 25
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-Q3",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 10k. Cost 7k. Change?",
+      "author_answer": "3k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": [
+        24
+      ],
+      "equations": [
+        {
+          "equation": "10-7=3",
+          "left": 3,
+          "right": 3
+        },
+        {
+          "equation": "7+3=10",
+          "left": 10,
+          "right": 10
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-Q4",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 5k. Cost 2k. Change?",
+      "author_answer": "3k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": [
+        24
+      ],
+      "equations": [
+        {
+          "equation": "5-2=3",
+          "left": 3,
+          "right": 3
+        },
+        {
+          "equation": "2+3=5",
+          "left": 5,
+          "right": 5
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-Q5",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Draw a token labelled 10k.",
+      "author_answer": "Outline with value 10k.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": [
+        25
+      ],
+      "equations": [],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-Q6",
+      "mode": "independent",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Why read a token value, not just count tokens?",
+      "author_answer": "Different tokens can have different values.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": [
+        25
+      ],
+      "equations": [],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-TOTAL-FRESH",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Make 20k in two different ways with 5k/10k cards shown.",
+      "author_answer": "10k+10k; 10k+5k+5k; or 5k+5k+5k+5k. Choose any two.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": [
+        25
+      ],
+      "equations": [
+        {
+          "equation": "10+10=20",
+          "left": 20,
+          "right": 20
+        },
+        {
+          "equation": "10+5+5=20",
+          "left": 20,
+          "right": 20
+        },
+        {
+          "equation": "5+5+5+5=20",
+          "left": 20,
+          "right": 20
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-FRESH",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Pay 9k, cost 6k. Find change and check.",
+      "author_answer": "3k; 6k+3k=9k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": [
+        25
+      ],
+      "equations": [
+        {
+          "equation": "9-6=3",
+          "left": 3,
+          "right": 3
+        },
+        {
+          "equation": "6+3=9",
+          "left": 9,
+          "right": 9
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "S008",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "With newly reordered verified genuine examples, independently point to each and say denomination; distinguish pretend cards.",
+      "author_answer": "All stated values agree with dated checklist; no inference from size/card count; absent resources not assessed.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": [
+        25
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "S009",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "With fresh brown/white paper independently rub a verified genuine coin under each paper and say its value, supervised.",
+      "author_answer": "Two recognisable surface rubbings; correct verified coin value; coin/papers intact; absent resources not assessed.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": [
+        26
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-REAL-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p08-01"
+      ],
+      "source_prompt": "Next session, reorder genuine verified examples again. Without models or help ask the pupil to name each value and distinguish a pretend card.",
+      "author_answer": "Checklist agreement; record each response or not assessed.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        26
+      ],
+      "equations": [],
+      "conditional": true
+    },
+    {
+      "id": "P1-13-TOTAL-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p08-02"
+      ],
+      "source_prompt": "Next session, supply cards labelled 10k, 10k, 5k. Ask the pupil to make 25k without help.",
+      "author_answer": "25k =10k+10k+5k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        26
+      ],
+      "equations": [
+        {
+          "equation": "10+10+5=25",
+          "left": 25,
+          "right": 25
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-CHANGE-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p08-03"
+      ],
+      "source_prompt": "Next session, a pretend item costs 5k; pay 9k. Ask for change and an addition check without help.",
+      "author_answer": "4k; 5k+4k=9k",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        26
+      ],
+      "equations": [
+        {
+          "equation": "9-5=4",
+          "left": 4,
+          "right": 4
+        },
+        {
+          "equation": "5+4=9",
+          "left": 9,
+          "right": 9
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "P1-13-RUB-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p08-04"
+      ],
+      "source_prompt": "Next session, give fresh brown/white paper and a verified genuine coin. Ask for two rubbings and the coin value without prompts; supervise safety.",
+      "author_answer": "Two actual rubbings; verified value; materials intact; or not assessed.",
+      "reviewer_result": "Pass; independently solved/read against pupil prompt, diagrams and adult answer in this session",
+      "pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      },
+      "answer_pages": [
+        26
+      ],
+      "equations": [],
+      "conditional": true
+    }
+  ],
+  "four_objectives_seven_modes": true,
+  "source_six_pairs_match": true
+}

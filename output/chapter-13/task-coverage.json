@@ -1,0 +1,816 @@
+[
+  {
+    "id": "P1-13-VALUE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Read a 10k card and compare it with two 5k cards.",
+    "answer": "One card versus two cards; both values are 10k.",
+    "equations": [
+      "5+5=10"
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "Watch the adult point to a verified coin or genuine image and say its value.",
+    "answer": "Adult names each actual example from the dated checklist and distinguishes it from pretend cards.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "Point to a verified example. Say its value with the adult.",
+    "answer": "Value agrees with checklist; adult prompts permitted.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "Watch a gentle coin rubbing through brown then white paper.",
+    "answer": "Two surface rubbings; adult names verified coin; surfaces show through paper; materials intact.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "With supervision make a rubbing on brown paper, then white paper. Say the coin value.",
+    "answer": "Both actual surface rubbings; correct verified value; coin and papers intact; support recorded.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Make 15k using 10k and 5k cards.",
+    "answer": "15k",
+    "equations": [
+      "10+5=15"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Together make 11k using 5k, 5k, 1k.",
+    "answer": "11k",
+    "equations": [
+      "5+5+1=11"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 10k for a 6k ticket. Find the change.",
+    "answer": "4k; cost plus change equals payment.",
+    "equations": [
+      "10-6=4",
+      "6+4=10"
+    ],
+    "payment": 10,
+    "cost": 6,
+    "pages": {
+      "textbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 8k for a 5k pretend item. Find change.",
+    "answer": "3k",
+    "equations": [
+      "8-5=3",
+      "5+3=8"
+    ],
+    "payment": 8,
+    "cost": 5,
+    "pages": {
+      "textbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RECALL",
+    "mode": "recall",
+    "objectives": [
+      "P1-p08-01",
+      "P1-p08-02",
+      "P1-p08-03",
+      "P1-p08-04"
+    ],
+    "prompt": "Before help: say how to read a value, add cards, find change and make a real rubbing.",
+    "answer": "Read verified value/label; add values not cards; count from cost to payment then check; rub genuine surface through both papers when available.",
+    "equations": [],
+    "pages": {
+      "textbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "Use two verified real examples with DIFFERENT values. Mrs Binta says one value. Match it by pointing. Look at each example with her, not at its size.",
+    "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "The adult now reverses the two examples and removes the value labels. Name each value yourself.",
+    "answer": "Each actual value matches the dated checklist; record help separately.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "Hold one genuine coin under white paper. The adult steadies it and shows a short gentle pencil stroke. Repeat with brown paper.",
+    "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        12
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "With fresh brown and white paper, place the coin yourself and make both rubbings under supervision. Say its verified value.",
+    "answer": "Two surface rubbings, correct verified value, materials intact; record any assistance.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        12
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Read two 1k labels. Join their values: 1k + 1k = 2k. Touch each label once.",
+    "answer": "Adult models smaller step. 2k",
+    "equations": [
+      "1+1=2"
+    ],
+    "conditional": false,
+    "pages": {
+      "textbook": [
+        13
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Read cards labelled 5k and 1k. Find their total without help.",
+    "answer": "6k",
+    "equations": [
+      "5+1=6"
+    ],
+    "conditional": false,
+    "pages": {
+      "textbook": [
+        13
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.",
+    "answer": "Adult models smaller step. 2k change",
+    "equations": [
+      "5-3=2",
+      "3+2=5"
+    ],
+    "conditional": false,
+    "pages": {
+      "textbook": [
+        14
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "A pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.",
+    "answer": "2k; 4k+2k=6k",
+    "equations": [
+      "6-4=2",
+      "4+2=6"
+    ],
+    "conditional": false,
+    "pages": {
+      "textbook": [
+        14
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-13-STORY",
+    "mode": "closure",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
+    "answer": "One ticket moves from shop to John; 4k change returned; 6k retained.",
+    "equations": [
+      "10-6=4",
+      "6+4=10"
+    ],
+    "payment": 10,
+    "cost": 6,
+    "pages": {
+      "textbook": [
+        15
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-INDEPENDENT",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "Independently point to each prepared genuine coin/official image and name its value.",
+    "answer": "Every value matches dated checklist; distinguishes genuine example from pretend card; no prompts.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-INDEPENDENT",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "Independently arrange genuine coin under brown then white paper; rub gently under supervision and name coin.",
+    "answer": "Two actual surface rubbings, correct verified value, intact materials; no teaching prompts.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q1",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "5k + 5k = __.",
+    "answer": "10k",
+    "equations": [
+      "5+5=10"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q2",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "10k + 10k + 5k = __.",
+    "answer": "25k",
+    "equations": [
+      "10+10+5=25"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q3",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 10k. Cost 7k. Change?",
+    "answer": "3k",
+    "equations": [
+      "10-7=3",
+      "7+3=10"
+    ],
+    "payment": 10,
+    "cost": 7,
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q4",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 5k. Cost 2k. Change?",
+    "answer": "3k",
+    "equations": [
+      "5-2=3",
+      "2+3=5"
+    ],
+    "payment": 5,
+    "cost": 2,
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q5",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Draw a token labelled 10k.",
+    "answer": "Outline with value 10k.",
+    "equations": [],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "P1-13-Q6",
+    "mode": "independent",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Why read a token value, not just count tokens?",
+    "answer": "Different tokens can have different values.",
+    "equations": [],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-FRESH",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Make 20k in two different ways with 5k/10k cards shown.",
+    "answer": "10k+10k; 10k+5k+5k; or 5k+5k+5k+5k. Choose any two.",
+    "equations": [
+      "10+10=20",
+      "10+5+5=20",
+      "5+5+5+5=20"
+    ],
+    "pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-FRESH",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Pay 9k, cost 6k. Find change and check.",
+    "answer": "3k; 6k+3k=9k",
+    "equations": [
+      "9-6=3",
+      "6+3=9"
+    ],
+    "payment": 9,
+    "cost": 6,
+    "pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "S008",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "With newly reordered verified genuine examples, independently point to each and say denomination; distinguish pretend cards.",
+    "answer": "All stated values agree with dated checklist; no inference from size/card count; absent resources not assessed.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "S009",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "With fresh brown/white paper independently rub a verified genuine coin under each paper and say its value, supervised.",
+    "answer": "Two recognisable surface rubbings; correct verified coin value; coin/papers intact; absent resources not assessed.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        26
+      ]
+    }
+  },
+  {
+    "id": "P1-13-REAL-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p08-01"
+    ],
+    "prompt": "Next session, reorder genuine verified examples again. Without models or help ask the pupil to name each value and distinguish a pretend card.",
+    "answer": "Checklist agreement; record each response or not assessed.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        18
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        26
+      ]
+    }
+  },
+  {
+    "id": "P1-13-TOTAL-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p08-02"
+    ],
+    "prompt": "Next session, supply cards labelled 10k, 10k, 5k. Ask the pupil to make 25k without help.",
+    "answer": "25k =10k+10k+5k",
+    "equations": [
+      "10+10+5=25"
+    ],
+    "conditional": false,
+    "pages": {
+      "textbook": [
+        18
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        26
+      ]
+    }
+  },
+  {
+    "id": "P1-13-CHANGE-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p08-03"
+    ],
+    "prompt": "Next session, a pretend item costs 5k; pay 9k. Ask for change and an addition check without help.",
+    "answer": "4k; 5k+4k=9k",
+    "equations": [
+      "9-5=4",
+      "5+4=9"
+    ],
+    "conditional": false,
+    "payment": 9,
+    "cost": 5,
+    "pages": {
+      "textbook": [
+        18
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        26
+      ]
+    }
+  },
+  {
+    "id": "P1-13-RUB-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p08-04"
+    ],
+    "prompt": "Next session, give fresh brown/white paper and a verified genuine coin. Ask for two rubbings and the coin value without prompts; supervise safety.",
+    "answer": "Two actual rubbings; verified value; materials intact; or not assessed.",
+    "equations": [],
+    "conditional": true,
+    "pages": {
+      "textbook": [
+        18
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        26
+      ]
+    }
+  }
+]

@@ -1,3 +1,52 @@
+# Chapter 13 completed - 14 November 2026
+
+P1-01 through P1-13 are independently approved for their exact current
+textbook/workbook pairs. Distinct reviewer `/root/chapter13_review` freshly
+inspected all 308 unique pages across 24 PDFs and independently solved every
+task, example, diagram and answer. Required textbook-only response routes,
+token-drawing model, resource clarity and the final genuine-versus-pretend
+fresh prompt were corrected and independently rechecked. No blocking or required
+finding remains. Evidence: [Chapter 13 review](../output/chapter-13/REVIEW.md).
+Root separately passed all thirteen strict gates, preflight, frozen-file,
+original-source and exact historical preservation checks:
+[coordinator validation](../output/chapter-13/root-validation.json).
+
+Chapter 13, **Pretend coins and change**, Mrs Binta:
+[27-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf)
+and [7-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; build with
+`python scripts/build_chapter_thirteen.py`. All 35 task records, 29 true
+equations, 11 deterministic card-diagram instances and four historical objectives
+are checked. Totals remain within 25k and payments within 10k, explicitly historical
+pretend arithmetic. Genuine recognition requires at least two different verified
+denominations (genuine coins or verified official images); genuine rubbing needs
+an actual coin and both brown/white paper. These activities remain resource-
+conditional, with honest not-assessed observation options. Token drawing does not
+establish genuine recognition/rubbing. Textbook tasks work with an ordinary
+exercise book. The ticket story closes with 6k retained plus 4k change from 10k.
+
+All 114 ordered original Primary 1 prompt/answer pairs, 18 other complete lessons,
+22 earlier reviewed PDFs, 159 protected file hashes, all supplementary fields/items
+and the other 50 chapter records are preserved. All 21 historical generated files
+match exact prebuild backups; prior 12 review histories are retained.
+
+Completed Chapters 10-12 were committed/pushed as `ac59363` to `origin/main`
+before Chapter 13 began, with remote hash verified. User authorized commit/push;
+root is completing the same workflow for this reviewed Chapter 13 checkpoint.
+
+Next: **P1-14 Length**, Mr Aliyu. Six existing units remain, plus annual
+revision/assessment, the final four offline-AI pupil pages and full-year assembly.
+These are continuation extracts, not a completed annual book. Current curriculum/
+adoption, local educator/pupil/accessibility evidence, physical print tests and
+printer approval remain pending. No complete-year, current-alignment or
+press-ready claim. Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Archive/reset affected approvals before
+future shared-source edits; never reuse stale fingerprints. Historical notes
+below describe their then-current state and do not override this checkpoint.
+
+---
+
 # Chapter 12 completed - 14 November 2026
 
 P1-01 through P1-12 are independently approved for their exact current

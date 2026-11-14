@@ -1,0 +1,33 @@
+{
+  "build": "passed",
+  "render": "passed",
+  "validate": "passed",
+  "pages": 247,
+  "sample_pages_pixel_and_text_equal": 6,
+  "validation": {
+    "pages": 247,
+    "lessons": 63,
+    "lesson_questions": 378,
+    "revision_and_assessment_questions": 90,
+    "ai_questions": 8,
+    "supplementary_checks": 59,
+    "curriculum_objectives": 155,
+    "arithmetic_equations_checked": 87,
+    "arithmetic_failures": 0,
+    "deterministic_diagrams": 17,
+    "font_programs_embedded": 2,
+    "page_bounds_failures": 0,
+    "ai_pages": [
+      155,
+      156,
+      157,
+      158
+    ],
+    "original_brief_preserved": true,
+    "current_alignment": "unverified",
+    "physical_print_test": "not performed",
+    "local_educational_review": "not performed",
+    "press_ready": false
+  },
+  "historical_files_exactly_restored": 21
+}

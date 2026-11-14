@@ -1,0 +1,3374 @@
+[
+  {
+    "chapter": "P1-01",
+    "source_tasks": [
+      {
+        "id": "P1-01-Q1",
+        "source_prompt": "Count row A. Write the number.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-01-Q2",
+        "source_prompt": "Count row B. Write the number.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-01-Q3",
+        "source_prompt": "Draw 2 circles.",
+        "source_answer": "Two separate circles."
+      },
+      {
+        "id": "P1-01-Q4",
+        "source_prompt": "Write 1 to 5 in order.",
+        "source_answer": "1, 2, 3, 4, 5"
+      },
+      {
+        "id": "P1-01-Q5",
+        "source_prompt": "Show 4 fingers. How many?",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-01-Q6",
+        "source_prompt": "Musa counts one top twice. Show a better way.",
+        "source_answer": "Touch or move each top exactly once."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c1-story",
+        "title": "A cup for every friend",
+        "task_ids": [],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c1-model",
+        "title": "Touch. Say. Count.",
+        "task_ids": [],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c1-numbers",
+        "title": "Cups and numbers",
+        "task_ids": [],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c1-count-draw",
+        "title": "Count and draw",
+        "task_ids": [
+          "P1-01-Q1",
+          "P1-01-Q2",
+          "P1-01-Q3"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c1-recall",
+        "title": "Write, show and explain",
+        "task_ids": [
+          "P1-01-Q4",
+          "P1-01-Q5",
+          "P1-01-Q6"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c1-ending",
+        "title": "Our tea shop is ready",
+        "task_ids": [
+          "P1-01-FRESH-SET",
+          "P1-01-FRESH-READ",
+          "P1-01-FRESH-RECOGNISE"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "w1-count-draw",
+        "title": "Count and draw",
+        "task_ids": [
+          "P1-01-Q1",
+          "P1-01-Q2",
+          "P1-01-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "w1-trace",
+        "title": "Trace and write",
+        "task_ids": [
+          "P1-01-Q4"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "w1-recall",
+        "title": "Show how you count",
+        "task_ids": [
+          "P1-01-Q5",
+          "P1-01-Q6"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "w1-fresh",
+        "title": "A fresh counting try",
+        "task_ids": [
+          "P1-01-FRESH-SET",
+          "P1-01-FRESH-READ",
+          "P1-01-FRESH-RECOGNISE"
+        ],
+        "pdf_page": 5
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "source_tasks": [
+      {
+        "id": "P1-02-Q1",
+        "source_prompt": "Order: 4, 1, 3.",
+        "source_answer": "1, 3, 4"
+      },
+      {
+        "id": "P1-02-Q2",
+        "source_prompt": "Draw sets of 1 and 3 dots.",
+        "source_answer": "One dot in one set; three in the other."
+      },
+      {
+        "id": "P1-02-Q3",
+        "source_prompt": "Which has more: 2 tops or 5 tops?",
+        "source_answer": "5 tops"
+      },
+      {
+        "id": "P1-02-Q4",
+        "source_prompt": "Which has fewer: 4 leaves or 3 leaves?",
+        "source_answer": "3 leaves"
+      },
+      {
+        "id": "P1-02-Q5",
+        "source_prompt": "Make a set of 5 objects.",
+        "source_answer": "Exactly five objects."
+      },
+      {
+        "id": "P1-02-Q6",
+        "source_prompt": "Explain how to compare two sets.",
+        "source_answer": "Match one to one or count both sets."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c2-1",
+        "title": "Sort, match and order",
+        "task_ids": [],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c2-2",
+        "title": "Give each set a place",
+        "task_ids": [
+          "P1-02-SORT"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c2-3",
+        "title": "One partner for each",
+        "task_ids": [
+          "P1-02-EQUAL"
+        ],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c2-4",
+        "title": "From fewest to most",
+        "task_ids": [
+          "P1-02-Q1",
+          "P1-02-Q2"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c2-5",
+        "title": "Which has more?",
+        "task_ids": [
+          "P1-02-Q3",
+          "P1-02-Q4"
+        ],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c2-6",
+        "title": "Show how you know",
+        "task_ids": [
+          "P1-02-Q5",
+          "P1-02-Q6",
+          "P1-02-SUPPORT"
+        ],
+        "pdf_page": 16
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c2-7",
+        "title": "Ready for our game",
+        "task_ids": [
+          "P1-02-ENDING",
+          "P1-02-FRESH-SORT",
+          "P1-02-FRESH-COMPARE"
+        ],
+        "pdf_page": 17
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "w2-sort-match",
+        "title": "Sort and match",
+        "task_ids": [
+          "P1-02-SORT",
+          "P1-02-EQUAL"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "w2-order",
+        "title": "Order and draw",
+        "task_ids": [
+          "P1-02-Q1",
+          "P1-02-Q2"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "w2-more-fewer",
+        "title": "More and fewer",
+        "task_ids": [
+          "P1-02-Q3",
+          "P1-02-Q4"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "w2-remember",
+        "title": "Show how you compare",
+        "task_ids": [
+          "P1-02-Q5",
+          "P1-02-Q6"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "w2-ending",
+        "title": "Ready for our game",
+        "task_ids": [
+          "P1-02-ENDING",
+          "P1-02-FRESH-SORT",
+          "P1-02-FRESH-COMPARE"
+        ],
+        "pdf_page": 10
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "source_tasks": [
+      {
+        "id": "P1-03-Q1",
+        "source_prompt": "Write the number for an empty set.",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-03-Q2",
+        "source_prompt": "Draw an empty box.",
+        "source_answer": "Box with nothing inside."
+      },
+      {
+        "id": "P1-03-Q3",
+        "source_prompt": "Complete: 0, 1, __, 3.",
+        "source_answer": "2"
+      },
+      {
+        "id": "P1-03-Q4",
+        "source_prompt": "Put all 3 tops away. How many remain?",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-03-Q5",
+        "source_prompt": "Say the word for 0.",
+        "source_answer": "zero"
+      },
+      {
+        "id": "P1-03-Q6",
+        "source_prompt": "Why does an empty basket have 0 oranges?",
+        "source_answer": "There are no oranges in it."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c3-story",
+        "title": "Is the game mat empty?",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c3-model",
+        "title": "None has a number",
+        "task_ids": [
+          "P1-03-MODEL"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c3-guided",
+        "title": "Say it. Make it. Write it.",
+        "task_ids": [
+          "P1-03-GUIDED",
+          "P1-03-FORM-MODEL"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c3-independent",
+        "title": "Your turn with zero",
+        "task_ids": [
+          "P1-03-Q1",
+          "P1-03-Q2",
+          "P1-03-Q3"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c3-recall",
+        "title": "Remember and explain",
+        "task_ids": [
+          "P1-03-Q4",
+          "P1-03-Q5",
+          "P1-03-Q6",
+          "P1-03-RECALL",
+          "P1-03-SUPPORT"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c3-ending",
+        "title": "The game is packed away",
+        "task_ids": [
+          "P1-03-ENDING",
+          "P1-03-FRESH-EMPTY",
+          "P1-03-FRESH-RECOGNISE",
+          "P1-03-FRESH-READ",
+          "P1-03-FRESH-WRITE"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c3-guide",
+        "title": "Teach, notice and return",
+        "task_ids": [],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c3-answers",
+        "title": "Answers and fresh checks",
+        "task_ids": [],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c3-notes",
+        "title": "Words, evidence and credits",
+        "task_ids": [],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c3-wb-empty",
+        "title": "Empty and not empty",
+        "task_ids": [
+          "P1-03-Q1",
+          "P1-03-Q2",
+          "P1-03-GUIDED"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c3-wb-make",
+        "title": "Make and order zero",
+        "task_ids": [
+          "P1-03-Q3",
+          "P1-03-FORM-PRACTICE"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c3-wb-explain",
+        "title": "Put away and explain",
+        "task_ids": [
+          "P1-03-Q4",
+          "P1-03-Q5",
+          "P1-03-Q6",
+          "P1-03-RECALL",
+          "P1-03-SUPPORT"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c3-wb-fresh",
+        "title": "A fresh zero try",
+        "task_ids": [
+          "P1-03-FRESH-EMPTY",
+          "P1-03-FRESH-RECOGNISE",
+          "P1-03-FRESH-READ",
+          "P1-03-FRESH-WRITE"
+        ],
+        "pdf_page": 4
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "source_tasks": [
+      {
+        "id": "P1-04-Q1",
+        "source_prompt": "Write the number after 6.",
+        "source_answer": "7"
+      },
+      {
+        "id": "P1-04-Q2",
+        "source_prompt": "Write the number before 9.",
+        "source_answer": "8"
+      },
+      {
+        "id": "P1-04-Q3",
+        "source_prompt": "Order: 9, 6, 8, 7.",
+        "source_answer": "6, 7, 8, 9"
+      },
+      {
+        "id": "P1-04-Q4",
+        "source_prompt": "Draw 6 dots.",
+        "source_answer": "Exactly six dots."
+      },
+      {
+        "id": "P1-04-Q5",
+        "source_prompt": "Count 9 objects for a partner.",
+        "source_answer": "Exactly nine objects counted once each."
+      },
+      {
+        "id": "P1-04-Q6",
+        "source_prompt": "How can you check a set of 8?",
+        "source_answer": "Recount once per object; the last word is eight."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c4-story",
+        "title": "A place for every piece",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c4-six-seven",
+        "title": "Five, then one more",
+        "task_ids": [
+          "P1-04-MODEL-6",
+          "P1-04-MODEL-7"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c4-eight-nine",
+        "title": "Count eight. Count nine.",
+        "task_ids": [
+          "P1-04-MODEL-8",
+          "P1-04-MODEL-9",
+          "P1-04-GUIDED-READ"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c4-write",
+        "title": "Watch the pencil move",
+        "task_ids": [
+          "P1-04-FORM-MODEL"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c4-sort",
+        "title": "Same kind, same group",
+        "task_ids": [
+          "P1-04-SORT-MODEL",
+          "P1-04-GUIDED-SORT",
+          "P1-04-S002"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c4-order",
+        "title": "Put the groups in order",
+        "task_ids": [
+          "P1-04-Q1",
+          "P1-04-Q2",
+          "P1-04-Q3",
+          "P1-04-ORDER-MODEL"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c4-recall",
+        "title": "Draw, count and check",
+        "task_ids": [
+          "P1-04-Q4",
+          "P1-04-Q5",
+          "P1-04-Q6",
+          "P1-04-DRAW-MODEL",
+          "P1-04-RECALL",
+          "P1-04-SUPPORT"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c4-ending",
+        "title": "Our box game is ready",
+        "task_ids": [
+          "P1-04-ENDING",
+          "P1-04-FRESH-COUNT",
+          "P1-04-S003",
+          "P1-04-S004"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c4-guide",
+        "title": "Teach, notice and return",
+        "task_ids": [],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c4-answers",
+        "title": "Answers and independent checks",
+        "task_ids": [],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c4-notes",
+        "title": "Words, evidence and credits",
+        "task_ids": [],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c4-wb-trace",
+        "title": "Trace, cover and write",
+        "task_ids": [
+          "P1-04-FORM-PRACTICE"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c4-wb-order",
+        "title": "Before, after and order",
+        "task_ids": [
+          "P1-04-Q1",
+          "P1-04-Q2",
+          "P1-04-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c4-wb-draw",
+        "title": "Draw and count",
+        "task_ids": [
+          "P1-04-Q4",
+          "P1-04-Q5"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c4-wb-check",
+        "title": "Check eight",
+        "task_ids": [
+          "P1-04-Q6",
+          "P1-04-RECALL",
+          "P1-04-SUPPORT"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c4-wb-sort",
+        "title": "Sort and record",
+        "task_ids": [
+          "P1-04-S002"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c4-wb-fresh",
+        "title": "A fresh number try",
+        "task_ids": [
+          "P1-04-FRESH-COUNT",
+          "P1-04-S003",
+          "P1-04-S004"
+        ],
+        "pdf_page": 6
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "source_tasks": [
+      {
+        "id": "P1-05-Q1",
+        "source_prompt": "1 ten and 2 ones make __.",
+        "source_answer": "12"
+      },
+      {
+        "id": "P1-05-Q2",
+        "source_prompt": "Write 16 as tens and ones.",
+        "source_answer": "1 ten and 6 ones"
+      },
+      {
+        "id": "P1-05-Q3",
+        "source_prompt": "How many ones make one ten?",
+        "source_answer": "10"
+      },
+      {
+        "id": "P1-05-Q4",
+        "source_prompt": "Complete: 17, 18, __, 20.",
+        "source_answer": "19"
+      },
+      {
+        "id": "P1-05-Q5",
+        "source_prompt": "Show 20 with bundles.",
+        "source_answer": "2 bundles of ten"
+      },
+      {
+        "id": "P1-05-Q6",
+        "source_prompt": "Explain why 10 and 1 differ.",
+        "source_answer": "Ten has ten ones; one has one one."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c5-story",
+        "title": "Pack our path markers",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c5-ten",
+        "title": "Ten ones make one ten",
+        "task_ids": [
+          "P1-05-TEN-MODEL",
+          "P1-05-GUIDED-BUNDLE"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c5-place",
+        "title": "Tens and ones have places",
+        "task_ids": [
+          "P1-05-PLACE-MODEL",
+          "P1-05-GUIDED-13"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c5-teens-a",
+        "title": "Eleven to fifteen",
+        "task_ids": [
+          "P1-05-MODEL-11",
+          "P1-05-MODEL-12",
+          "P1-05-MODEL-13",
+          "P1-05-MODEL-14",
+          "P1-05-MODEL-15"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c5-teens-b",
+        "title": "Sixteen to twenty",
+        "task_ids": [
+          "P1-05-MODEL-16",
+          "P1-05-MODEL-17",
+          "P1-05-MODEL-18",
+          "P1-05-MODEL-19",
+          "P1-05-MODEL-20"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c5-read-write",
+        "title": "Read it. Write it.",
+        "task_ids": [
+          "P1-05-FORM-MODEL",
+          "P1-05-GUIDED-READ"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c5-source-a",
+        "title": "Build and record",
+        "task_ids": [
+          "P1-05-Q1",
+          "P1-05-Q2",
+          "P1-05-Q3"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c5-source-b",
+        "title": "Twenty, ten and one",
+        "task_ids": [
+          "P1-05-Q4",
+          "P1-05-Q5",
+          "P1-05-Q6"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c5-recall",
+        "title": "Remember, explain and check",
+        "task_ids": [
+          "P1-05-RECALL",
+          "P1-05-CHOOSE-BUILD",
+          "P1-05-SUPPORT"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c5-ending",
+        "title": "Our marker pack is ready",
+        "task_ids": [
+          "P1-05-ENDING",
+          "P1-05-FRESH-BUILD",
+          "P1-05-FRESH-READ",
+          "P1-05-FRESH-RECOGNISE",
+          "P1-05-FRESH-WRITE"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c5-guide",
+        "title": "Teach, notice and return",
+        "task_ids": [],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c5-answers",
+        "title": "Answers and fresh checks",
+        "task_ids": [],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c5-notes",
+        "title": "Words, evidence and credits",
+        "task_ids": [],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c5-wb-bundle",
+        "title": "Make and open a ten",
+        "task_ids": [
+          "P1-05-GUIDED-BUNDLE",
+          "P1-05-WB-BUILD-20"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c5-wb-source-a",
+        "title": "Build and record",
+        "task_ids": [
+          "P1-05-Q1",
+          "P1-05-Q2",
+          "P1-05-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c5-wb-form",
+        "title": "Trace and write tens",
+        "task_ids": [
+          "P1-05-FORM-PRACTICE"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c5-wb-source-b",
+        "title": "Twenty, ten and one",
+        "task_ids": [
+          "P1-05-Q4",
+          "P1-05-Q5",
+          "P1-05-Q6"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c5-wb-own",
+        "title": "Make your own number",
+        "task_ids": [
+          "P1-05-RECALL",
+          "P1-05-CHOOSE-BUILD",
+          "P1-05-SUPPORT"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c5-wb-fresh",
+        "title": "A fresh tens-and-ones try",
+        "task_ids": [
+          "P1-05-FRESH-BUILD",
+          "P1-05-FRESH-READ",
+          "P1-05-FRESH-RECOGNISE",
+          "P1-05-FRESH-WRITE"
+        ],
+        "pdf_page": 6
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "source_tasks": [
+      {
+        "id": "P1-06-Q1",
+        "source_prompt": "Write forty-six in digits.",
+        "source_answer": "46"
+      },
+      {
+        "id": "P1-06-Q2",
+        "source_prompt": "Read 81 in words.",
+        "source_answer": "eighty-one"
+      },
+      {
+        "id": "P1-06-Q3",
+        "source_prompt": "Complete: 38, 39, __, __.",
+        "source_answer": "40, 41"
+      },
+      {
+        "id": "P1-06-Q4",
+        "source_prompt": "Write 93 as tens and ones.",
+        "source_answer": "9 tens and 3 ones"
+      },
+      {
+        "id": "P1-06-Q5",
+        "source_prompt": "Write 95 to 99.",
+        "source_answer": "95, 96, 97, 98, 99"
+      },
+      {
+        "id": "P1-06-Q6",
+        "source_prompt": "Why is 60 different from 6?",
+        "source_answer": "60 is six tens; 6 is six ones."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c6-story",
+        "title": "Labels for our game boxes",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c6-prior",
+        "title": "Bring back what we know",
+        "task_ids": [
+          "P1-06-PRIOR",
+          "P1-06-FORM-MODEL"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c6-band-21",
+        "title": "Twenty-one to twenty-five",
+        "task_ids": [
+          "P1-06-BAND-21-MODEL",
+          "P1-06-BAND-21-GUIDED"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c6-band-26",
+        "title": "Twenty-six to twenty-nine",
+        "task_ids": [
+          "P1-06-BAND-26-MODEL",
+          "P1-06-BAND-26-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c6-band-30",
+        "title": "Thirty to thirty-nine",
+        "task_ids": [
+          "P1-06-BAND-30-MODEL",
+          "P1-06-BAND-30-GUIDED"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c6-band-40",
+        "title": "Forty to forty-nine",
+        "task_ids": [
+          "P1-06-BAND-40-MODEL",
+          "P1-06-BAND-40-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c6-band-50",
+        "title": "Fifty to fifty-nine",
+        "task_ids": [
+          "P1-06-BAND-50-MODEL",
+          "P1-06-BAND-50-GUIDED"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c6-band-60",
+        "title": "Sixty to sixty-nine",
+        "task_ids": [
+          "P1-06-BAND-60-MODEL",
+          "P1-06-BAND-60-GUIDED"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c6-band-70",
+        "title": "Seventy to seventy-nine",
+        "task_ids": [
+          "P1-06-BAND-70-MODEL",
+          "P1-06-BAND-70-GUIDED"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c6-band-80",
+        "title": "Eighty to eighty-nine",
+        "task_ids": [
+          "P1-06-BAND-80-MODEL",
+          "P1-06-BAND-80-GUIDED"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c6-band-90",
+        "title": "Ninety to ninety-nine",
+        "task_ids": [
+          "P1-06-BAND-90-MODEL",
+          "P1-06-BAND-90-GUIDED"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c6-names",
+        "title": "Hear the whole name",
+        "task_ids": [
+          "P1-06-NAMES"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c6-sequence-model",
+        "title": "Write places and count on",
+        "task_ids": [
+          "P1-06-SEQUENCE-MODEL",
+          "P1-06-PLACES-MODEL",
+          "P1-06-RANGE-MODEL"
+        ],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 14,
+        "slug": "c6-source-0",
+        "title": "Try what you have learned",
+        "task_ids": [
+          "P1-06-Q1",
+          "P1-06-Q2",
+          "P1-06-Q3"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 15,
+        "slug": "c6-source-1",
+        "title": "Places, order and meaning",
+        "task_ids": [
+          "P1-06-Q4",
+          "P1-06-Q5",
+          "P1-06-Q6"
+        ],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 16,
+        "slug": "c6-recall",
+        "title": "Remember and repair",
+        "task_ids": [
+          "P1-06-RECALL",
+          "P1-06-CHOOSE",
+          "P1-06-SUPPORT"
+        ],
+        "pdf_page": 16
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 17,
+        "slug": "c6-ending",
+        "title": "The right labels are on",
+        "task_ids": [
+          "P1-06-ENDING",
+          "P1-06-FRESH-COUNT",
+          "P1-06-FRESH-BUILD",
+          "P1-06-FRESH-READ",
+          "P1-06-FRESH-RECOGNISE",
+          "P1-06-FRESH-WRITE"
+        ],
+        "pdf_page": 17
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 18,
+        "slug": "c6-guide",
+        "title": "Teach across short sessions",
+        "task_ids": [],
+        "pdf_page": 18
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 19,
+        "slug": "c6-answers",
+        "title": "Complete task and model answers",
+        "task_ids": [],
+        "pdf_page": 19
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 20,
+        "slug": "c6-assessment",
+        "title": "Help, recheck and return later",
+        "task_ids": [],
+        "pdf_page": 20
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 21,
+        "slug": "c6-words",
+        "title": "Words, evidence and next steps",
+        "task_ids": [],
+        "pdf_page": 21
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c6-prior",
+        "title": "Ready for bigger numbers",
+        "task_ids": [
+          "P1-06-PRIOR"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c6-band-21",
+        "title": "Twenty-one to twenty-five",
+        "task_ids": [
+          "P1-06-BAND-21-GUIDED",
+          "P1-06-BAND-21-BUILD",
+          "P1-06-BAND-21-COUNT",
+          "P1-06-BAND-21-READ",
+          "P1-06-BAND-21-RECOGNISE",
+          "P1-06-BAND-21-WRITE"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c6-band-26",
+        "title": "Twenty-six to twenty-nine",
+        "task_ids": [
+          "P1-06-BAND-26-GUIDED",
+          "P1-06-BAND-26-BUILD",
+          "P1-06-BAND-26-COUNT",
+          "P1-06-BAND-26-READ",
+          "P1-06-BAND-26-RECOGNISE",
+          "P1-06-BAND-26-WRITE"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c6-band-30",
+        "title": "Thirty to thirty-nine",
+        "task_ids": [
+          "P1-06-BAND-30-GUIDED",
+          "P1-06-BAND-30-BUILD",
+          "P1-06-BAND-30-COUNT",
+          "P1-06-BAND-30-READ",
+          "P1-06-BAND-30-RECOGNISE",
+          "P1-06-BAND-30-WRITE"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c6-band-40",
+        "title": "Forty to forty-nine",
+        "task_ids": [
+          "P1-06-BAND-40-GUIDED",
+          "P1-06-BAND-40-BUILD",
+          "P1-06-BAND-40-COUNT",
+          "P1-06-BAND-40-READ",
+          "P1-06-BAND-40-RECOGNISE",
+          "P1-06-BAND-40-WRITE"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c6-band-50",
+        "title": "Fifty to fifty-nine",
+        "task_ids": [
+          "P1-06-BAND-50-GUIDED",
+          "P1-06-BAND-50-BUILD",
+          "P1-06-BAND-50-COUNT",
+          "P1-06-BAND-50-READ",
+          "P1-06-BAND-50-RECOGNISE",
+          "P1-06-BAND-50-WRITE"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 7,
+        "slug": "c6-band-60",
+        "title": "Sixty to sixty-nine",
+        "task_ids": [
+          "P1-06-BAND-60-GUIDED",
+          "P1-06-BAND-60-BUILD",
+          "P1-06-BAND-60-COUNT",
+          "P1-06-BAND-60-READ",
+          "P1-06-BAND-60-RECOGNISE",
+          "P1-06-BAND-60-WRITE"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 8,
+        "slug": "c6-band-70",
+        "title": "Seventy to seventy-nine",
+        "task_ids": [
+          "P1-06-BAND-70-GUIDED",
+          "P1-06-BAND-70-BUILD",
+          "P1-06-BAND-70-COUNT",
+          "P1-06-BAND-70-READ",
+          "P1-06-BAND-70-RECOGNISE",
+          "P1-06-BAND-70-WRITE"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 9,
+        "slug": "c6-band-80",
+        "title": "Eighty to eighty-nine",
+        "task_ids": [
+          "P1-06-BAND-80-GUIDED",
+          "P1-06-BAND-80-BUILD",
+          "P1-06-BAND-80-COUNT",
+          "P1-06-BAND-80-READ",
+          "P1-06-BAND-80-RECOGNISE",
+          "P1-06-BAND-80-WRITE"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 10,
+        "slug": "c6-band-90",
+        "title": "Ninety to ninety-nine",
+        "task_ids": [
+          "P1-06-BAND-90-GUIDED",
+          "P1-06-BAND-90-BUILD",
+          "P1-06-BAND-90-COUNT",
+          "P1-06-BAND-90-READ",
+          "P1-06-BAND-90-RECOGNISE",
+          "P1-06-BAND-90-WRITE"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 11,
+        "slug": "c6-source-0",
+        "title": "Try what you have learned",
+        "task_ids": [
+          "P1-06-Q1",
+          "P1-06-Q2",
+          "P1-06-Q3"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 12,
+        "slug": "c6-source-1",
+        "title": "Places, order and meaning",
+        "task_ids": [
+          "P1-06-Q4",
+          "P1-06-Q5",
+          "P1-06-Q6"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 13,
+        "slug": "c6-recall",
+        "title": "Remember and repair",
+        "task_ids": [
+          "P1-06-RECALL",
+          "P1-06-CHOOSE",
+          "P1-06-SUPPORT"
+        ],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 14,
+        "slug": "c6-fresh",
+        "title": "A fresh number try",
+        "task_ids": [
+          "P1-06-FRESH-COUNT",
+          "P1-06-FRESH-BUILD",
+          "P1-06-FRESH-READ",
+          "P1-06-FRESH-RECOGNISE",
+          "P1-06-FRESH-WRITE"
+        ],
+        "pdf_page": 14
+      }
+    ]
+  },
+  {
+    "chapter": "P1-07",
+    "source_tasks": [
+      {
+        "id": "P1-07-Q1",
+        "source_prompt": "How many equal parts make halves?",
+        "source_answer": "2"
+      },
+      {
+        "id": "P1-07-Q2",
+        "source_prompt": "How many equal parts make quarters?",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-07-Q3",
+        "source_prompt": "Draw two equal halves of a rectangle.",
+        "source_answer": "Rectangle divided into two equal-area parts."
+      },
+      {
+        "id": "P1-07-Q4",
+        "source_prompt": "Draw a square and shade one quarter.",
+        "source_answer": "Four equal-area parts; one shaded."
+      },
+      {
+        "id": "P1-07-Q5",
+        "source_prompt": "Are 2 unequal pieces halves?",
+        "source_answer": "No"
+      },
+      {
+        "id": "P1-07-Q6",
+        "source_prompt": "Explain why your shaded part is a quarter.",
+        "source_answer": "The whole has four equal parts and one is shaded."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c7-story",
+        "title": "A fair paper display",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c7-halves",
+        "title": "Watch the paper fold",
+        "task_ids": [
+          "P1-07-HALF-MODEL",
+          "P1-07-HALF-GUIDED"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c7-quarters",
+        "title": "Fold again for quarters",
+        "task_ids": [
+          "P1-07-QUARTER-MODEL",
+          "P1-07-QUARTER-GUIDED"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c7-equal",
+        "title": "Check the amount, not just the count",
+        "task_ids": [
+          "P1-07-COMPARE",
+          "P1-07-DIAGONAL-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c7-recognise",
+        "title": "Turn it and name the part",
+        "task_ids": [
+          "P1-07-ROTATED-MODEL",
+          "P1-07-FRUIT-MODEL",
+          "P1-07-NOTATION"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c7-draw",
+        "title": "Watch me draw and shade",
+        "task_ids": [
+          "P1-07-DRAW-MODEL",
+          "P1-07-DRAW-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c7-independent",
+        "title": "Try on your own",
+        "task_ids": [
+          "P1-07-Q1",
+          "P1-07-Q2",
+          "P1-07-Q3",
+          "P1-07-Q4",
+          "P1-07-Q5",
+          "P1-07-Q6"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c7-help",
+        "title": "A smaller fold, then try afresh",
+        "task_ids": [
+          "P1-07-SUPPORT",
+          "P1-07-RECHECK",
+          "P1-07-EXTENSION"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c7-ending",
+        "title": "The display has room for everyone",
+        "task_ids": [
+          "P1-07-STORY"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c7-fresh",
+        "title": "Show what you know afresh",
+        "task_ids": [
+          "P1-07-FRESH-IDENTIFY",
+          "P1-07-FRESH-DRAW",
+          "P1-07-RECALL"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c7-adult-answers",
+        "title": "Complete answers and observation",
+        "task_ids": [],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c7-adult-followup",
+        "title": "Story, fresh checks and delayed recall",
+        "task_ids": [],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c7-adult-reference",
+        "title": "Words, evidence and next steps",
+        "task_ids": [],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c7-wb-recognise",
+        "title": "Check the parts",
+        "task_ids": [
+          "P1-07-WB-GUIDED",
+          "P1-07-COMPARE"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c7-wb-count",
+        "title": "Remember the parts",
+        "task_ids": [
+          "P1-07-Q1",
+          "P1-07-Q2",
+          "P1-07-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c7-wb-draw",
+        "title": "Draw and explain",
+        "task_ids": [
+          "P1-07-Q4",
+          "P1-07-Q5",
+          "P1-07-Q6"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c7-wb-retry",
+        "title": "Fold, check and retry",
+        "task_ids": [
+          "P1-07-SUPPORT",
+          "P1-07-RECHECK",
+          "P1-07-EXTENSION"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c7-wb-story",
+        "title": "Our fair display",
+        "task_ids": [
+          "P1-07-STORY"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c7-wb-fresh",
+        "title": "A fresh check",
+        "task_ids": [
+          "P1-07-FRESH-IDENTIFY",
+          "P1-07-FRESH-DRAW",
+          "P1-07-RECALL"
+        ],
+        "pdf_page": 6
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "source_tasks": [
+      {
+        "id": "P1-08-Q1",
+        "source_prompt": "1 + 2 = __.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q2",
+        "source_prompt": "2 + 2 = __.",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-08-Q3",
+        "source_prompt": "1 + 1 + 1 = __.",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q4",
+        "source_prompt": "Draw 2 dots and 1 more. Total?",
+        "source_answer": "3"
+      },
+      {
+        "id": "P1-08-Q5",
+        "source_prompt": "1 book and 3 more make how many?",
+        "source_answer": "4 books"
+      },
+      {
+        "id": "P1-08-Q6",
+        "source_prompt": "Show why 1 + 2 and 2 + 1 match.",
+        "source_answer": "Both combine one and two objects to make three."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c8-story",
+        "title": "Tops for the box-toy stall",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c8-join",
+        "title": "Watch: move, then count",
+        "task_ids": [
+          "P1-08-JOIN-MODEL",
+          "P1-08-JOIN-GUIDED"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c8-signs",
+        "title": "Signs tell the joining story",
+        "task_ids": [
+          "P1-08-SIGNS-MODEL",
+          "P1-08-SIGNS-GUIDED"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c8-three",
+        "title": "Join three sets",
+        "task_ids": [
+          "P1-08-THREE-MODEL",
+          "P1-08-THREE-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c8-draw",
+        "title": "Show the story with dots",
+        "task_ids": [
+          "P1-08-DRAW-MODEL",
+          "P1-08-DRAW-GUIDED"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c8-independent",
+        "title": "Your own joining stories",
+        "task_ids": [
+          "P1-08-Q1",
+          "P1-08-Q2",
+          "P1-08-Q3",
+          "P1-08-Q4",
+          "P1-08-Q5",
+          "P1-08-Q6"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c8-help",
+        "title": "Remember, then try a small step",
+        "task_ids": [
+          "P1-08-RECALL",
+          "P1-08-HELP",
+          "P1-08-RECHECK",
+          "P1-08-SWAP"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c8-finish",
+        "title": "The stall can open",
+        "task_ids": [
+          "P1-08-STORY",
+          "P1-08-FRESH-TWO",
+          "P1-08-FRESH-THREE",
+          "P1-08-FRESH-EQUALS"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c8-answers",
+        "title": "Complete task and answer map",
+        "task_ids": [],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c8-guidance",
+        "title": "Teach, observe and revisit",
+        "task_ids": [
+          "P1-08-DELAYED"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c8-credits",
+        "title": "Words, evidence and next learning",
+        "task_ids": [],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c8-wb-guided",
+        "title": "Try with Mr Aliyu",
+        "task_ids": [
+          "P1-08-WB-GUIDED"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c8-wb-join",
+        "title": "Join and count",
+        "task_ids": [
+          "P1-08-Q1",
+          "P1-08-Q2",
+          "P1-08-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c8-wb-draw",
+        "title": "Draw and explain",
+        "task_ids": [
+          "P1-08-Q4",
+          "P1-08-Q5",
+          "P1-08-Q6"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c8-wb-help",
+        "title": "A smaller step, then a new try",
+        "task_ids": [
+          "P1-08-HELP",
+          "P1-08-RECHECK",
+          "P1-08-SWAP"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c8-wb-story",
+        "title": "Check the stall tray",
+        "task_ids": [
+          "P1-08-STORY",
+          "P1-08-RECALL"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c8-wb-fresh",
+        "title": "Try afresh on your own",
+        "task_ids": [
+          "P1-08-FRESH-TWO",
+          "P1-08-FRESH-THREE",
+          "P1-08-FRESH-EQUALS"
+        ],
+        "pdf_page": 6
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "source_tasks": [
+      {
+        "id": "P1-09-Q1",
+        "source_prompt": "4 + 3 = __.",
+        "source_answer": "7"
+      },
+      {
+        "id": "P1-09-Q2",
+        "source_prompt": "6 + 0 = __.",
+        "source_answer": "6"
+      },
+      {
+        "id": "P1-09-Q3",
+        "source_prompt": "3 + 2 + 3 = __.",
+        "source_answer": "8"
+      },
+      {
+        "id": "P1-09-Q4",
+        "source_prompt": "9 + 9 = __.",
+        "source_answer": "18"
+      },
+      {
+        "id": "P1-09-Q5",
+        "source_prompt": "7 seeds and 5 more make how many?",
+        "source_answer": "12 seeds"
+      },
+      {
+        "id": "P1-09-Q6",
+        "source_prompt": "Explain how to check 8 + 6 = 14.",
+        "source_answer": "Count fourteen objects, or count on six from eight."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c9-story",
+        "title": "A path for the toy garden",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c9-small",
+        "title": "Hold four, count on two",
+        "task_ids": [
+          "P1-09-COUNT-MODEL",
+          "P1-09-COUNT-GUIDED"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c9-small-three",
+        "title": "Use every amount once",
+        "task_ids": [
+          "P1-09-THREE-SMALL-MODEL",
+          "P1-09-THREE-SMALL-GUIDED"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c9-zero",
+        "title": "Zero adds no counters",
+        "task_ids": [
+          "P1-09-ZERO-MODEL",
+          "P1-09-ZERO-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c9-cross",
+        "title": "Count through ten",
+        "task_ids": [
+          "P1-09-CROSS-MODEL",
+          "P1-09-CROSS-GUIDED"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c9-large-three",
+        "title": "Three sets can cross ten",
+        "task_ids": [
+          "P1-09-THREE-LARGE-MODEL",
+          "P1-09-THREE-LARGE-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c9-check",
+        "title": "Check the start and the total",
+        "task_ids": [
+          "P1-09-CHECK-MODEL",
+          "P1-09-CHECK-GUIDED"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c9-independent",
+        "title": "Try your own additions",
+        "task_ids": [
+          "P1-09-Q1",
+          "P1-09-Q2",
+          "P1-09-Q3",
+          "P1-09-Q4",
+          "P1-09-Q5",
+          "P1-09-Q6"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c9-supplement",
+        "title": "Show that the total is right",
+        "task_ids": [
+          "S005"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c9-help",
+        "title": "Remember and take a smaller step",
+        "task_ids": [
+          "P1-09-RECALL",
+          "P1-09-HELP",
+          "P1-09-RECHECK"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c9-finish",
+        "title": "Build the garden path",
+        "task_ids": [
+          "P1-09-STORY"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c9-fresh",
+        "title": "Show learning afresh",
+        "task_ids": [
+          "P1-09-FRESH-TWO",
+          "P1-09-FRESH-THREE",
+          "P1-09-FRESH-CHECK"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c9-answers",
+        "title": "Every task and answer",
+        "task_ids": [],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 14,
+        "slug": "c9-guidance",
+        "title": "Support, fresh checks and recall",
+        "task_ids": [
+          "P1-09-DELAYED"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 15,
+        "slug": "c9-credits",
+        "title": "Words, evidence and next learning",
+        "task_ids": [],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c9-wb-guide",
+        "title": "Try with Mrs Binta",
+        "task_ids": [
+          "P1-09-COUNT-MODEL",
+          "P1-09-THREE-SMALL-GUIDED"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c9-wb-small",
+        "title": "Small sums",
+        "task_ids": [
+          "P1-09-Q1",
+          "P1-09-Q2",
+          "P1-09-Q3"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c9-wb-large",
+        "title": "Larger sums",
+        "task_ids": [
+          "P1-09-Q4",
+          "P1-09-Q5"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c9-wb-check",
+        "title": "Explain your check",
+        "task_ids": [
+          "P1-09-Q6",
+          "P1-09-CHECK-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c9-wb-s005",
+        "title": "Use all three amounts",
+        "task_ids": [
+          "S005"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c9-wb-help",
+        "title": "A smaller step",
+        "task_ids": [
+          "P1-09-HELP",
+          "P1-09-RECHECK"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 7,
+        "slug": "c9-wb-story",
+        "title": "The garden-path check",
+        "task_ids": [
+          "P1-09-STORY",
+          "P1-09-RECALL"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 8,
+        "slug": "c9-wb-fresh",
+        "title": "Try afresh",
+        "task_ids": [
+          "P1-09-FRESH-TWO",
+          "P1-09-FRESH-THREE",
+          "P1-09-FRESH-CHECK"
+        ],
+        "pdf_page": 8
+      }
+    ]
+  },
+  {
+    "chapter": "P1-10",
+    "source_tasks": [
+      {
+        "id": "P1-10-Q1",
+        "source_prompt": "12 + 13 = __.",
+        "source_answer": "25"
+      },
+      {
+        "id": "P1-10-Q2",
+        "source_prompt": "21 + 16 = __.",
+        "source_answer": "37"
+      },
+      {
+        "id": "P1-10-Q3",
+        "source_prompt": "30 + 10 = __.",
+        "source_answer": "40"
+      },
+      {
+        "id": "P1-10-Q4",
+        "source_prompt": "14 + 5 = __.",
+        "source_answer": "19"
+      },
+      {
+        "id": "P1-10-Q5",
+        "source_prompt": "22 pencils and 11 more make how many?",
+        "source_answer": "33 pencils"
+      },
+      {
+        "id": "P1-10-Q6",
+        "source_prompt": "Explain why 20 + 13 = 33.",
+        "source_answer": "Two tens plus one ten and three ones make three tens and three ones."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c10-story",
+        "title": "Pencils for the box-toy school",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c10-review",
+        "title": "Ten ones make one ten",
+        "task_ids": [
+          "P1-10-PLACE"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c10-join",
+        "title": "Watch: join like places",
+        "task_ids": [
+          "P1-10-JOIN-MODEL"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c10-columns",
+        "title": "The same sum in columns",
+        "task_ids": [
+          "P1-10-COLUMN-MODEL",
+          "P1-10-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c10-larger",
+        "title": "Watch: two tens and one ten",
+        "task_ids": [
+          "P1-10-LARGE-MODEL"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c10-zero",
+        "title": "Zero holds a place",
+        "task_ids": [
+          "P1-10-ZERO-MODEL",
+          "P1-10-ZERO-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c10-one-digit",
+        "title": "Five goes in the ones place",
+        "task_ids": [
+          "P1-10-ONE-DIGIT-MODEL"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c10-check",
+        "title": "Check before you pack",
+        "task_ids": [
+          "P1-10-CHECK-MODEL",
+          "P1-10-CHECK-GUIDED"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c10-practice",
+        "title": "Try it yourself",
+        "task_ids": [
+          "P1-10-Q1",
+          "P1-10-Q2",
+          "P1-10-Q3",
+          "P1-10-Q4",
+          "P1-10-Q5",
+          "P1-10-Q6"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c10-recall",
+        "title": "Remember, then try a smaller step",
+        "task_ids": [
+          "P1-10-RECALL",
+          "P1-10-HELP",
+          "P1-10-RECHECK"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c10-ending",
+        "title": "Now the pencils can be packed",
+        "task_ids": [
+          "P1-10-STORY"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c10-fresh",
+        "title": "Show what you can do",
+        "task_ids": [
+          "P1-10-FRESH-TWO",
+          "P1-10-FRESH-ZERO",
+          "P1-10-FRESH-CHECK",
+          "P1-10-EXPLAIN"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c10-answers",
+        "title": "Answers to every task",
+        "task_ids": [],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 14,
+        "slug": "c10-guidance",
+        "title": "Support, checks and delayed recall",
+        "task_ids": [
+          "P1-10-DELAYED"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 15,
+        "slug": "c10-credits",
+        "title": "Words, evidence and next learning",
+        "task_ids": [],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c10-wb-guided",
+        "title": "Try with Mr Aliyu",
+        "task_ids": [
+          "P1-10-GUIDED"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c10-wb-practice",
+        "title": "Add and show the places",
+        "task_ids": [
+          "P1-10-Q1",
+          "P1-10-Q2",
+          "P1-10-Q3",
+          "P1-10-Q4"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c10-wb-place",
+        "title": "Show the single-digit sum",
+        "task_ids": [
+          "P1-10-Q4"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c10-wb-story",
+        "title": "Pencils and an explanation",
+        "task_ids": [
+          "P1-10-Q5",
+          "P1-10-Q6"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c10-wb-check",
+        "title": "Check the amount",
+        "task_ids": [
+          "P1-10-CHECK-GUIDED"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c10-wb-help",
+        "title": "Remember and try again",
+        "task_ids": [
+          "P1-10-RECALL",
+          "P1-10-HELP",
+          "P1-10-RECHECK"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 7,
+        "slug": "c10-wb-fresh",
+        "title": "Try afresh",
+        "task_ids": [
+          "P1-10-FRESH-TWO",
+          "P1-10-FRESH-ZERO",
+          "P1-10-FRESH-CHECK",
+          "P1-10-EXPLAIN"
+        ],
+        "pdf_page": 7
+      }
+    ]
+  },
+  {
+    "chapter": "P1-11",
+    "source_tasks": [
+      {
+        "id": "P1-11-Q1",
+        "source_prompt": "7 \u00e2\u02c6\u2019 2 = __.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-11-Q2",
+        "source_prompt": "9 \u00e2\u02c6\u2019 9 = __.",
+        "source_answer": "0"
+      },
+      {
+        "id": "P1-11-Q3",
+        "source_prompt": "15 \u00e2\u02c6\u2019 4 = __.",
+        "source_answer": "11"
+      },
+      {
+        "id": "P1-11-Q4",
+        "source_prompt": "18 \u00e2\u02c6\u2019 9 = __.",
+        "source_answer": "9"
+      },
+      {
+        "id": "P1-11-Q5",
+        "source_prompt": "12 chalk pieces: use 3. How many remain?",
+        "source_answer": "9 pieces"
+      },
+      {
+        "id": "P1-11-Q6",
+        "source_prompt": "How does addition check 13 \u00e2\u02c6\u2019 5 = 8?",
+        "source_answer": "8 + 5 = 13."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c11-story",
+        "title": "Chalk for the toy school",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c11-small",
+        "title": "Watch: take away from seven",
+        "task_ids": [
+          "P1-11-SMALL-MODEL"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c11-together",
+        "title": "Try together, then take all",
+        "task_ids": [
+          "P1-11-SMALL-GUIDED",
+          "P1-11-ALL-MODEL"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c11-backwards",
+        "title": "Count backwards one step at a time",
+        "task_ids": [
+          "P1-11-BACK-MODEL"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c11-fourteen",
+        "title": "Watch: cross ten with counters",
+        "task_ids": [
+          "P1-11-CROSS-MODEL"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c11-twelve",
+        "title": "Try crossing ten together",
+        "task_ids": [
+          "P1-11-CROSS-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c11-check",
+        "title": "Check by putting them back",
+        "task_ids": [
+          "P1-11-CHECK-MODEL"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c11-practice",
+        "title": "Try it yourself",
+        "task_ids": [
+          "P1-11-Q1",
+          "P1-11-Q2",
+          "P1-11-Q3",
+          "P1-11-Q4",
+          "P1-11-Q5",
+          "P1-11-Q6"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c11-remember",
+        "title": "Remember and get help",
+        "task_ids": [
+          "P1-11-RECALL",
+          "P1-11-SMALL-HELP",
+          "P1-11-SMALL-RECHECK"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c11-larger-help",
+        "title": "A smaller step across ten",
+        "task_ids": [
+          "P1-11-CROSS-HELP",
+          "P1-11-CROSS-RECHECK"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c11-ending",
+        "title": "The chalk is ready",
+        "task_ids": [
+          "P1-11-STORY"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c11-fresh",
+        "title": "Show what you can do",
+        "task_ids": [
+          "P1-11-FRESH-SMALL",
+          "P1-11-FRESH-CROSS",
+          "P1-11-FRESH-CHECK",
+          "P1-11-CHECK-RECHECK"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c11-answers",
+        "title": "Answers and source correspondence",
+        "task_ids": [],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 14,
+        "slug": "c11-support",
+        "title": "Support and complete fresh answers",
+        "task_ids": [
+          "P1-11-DELAYED"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 15,
+        "slug": "c11-credits",
+        "title": "Words, evidence and next learning",
+        "task_ids": [],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c11-wb-guided",
+        "title": "Cross ten together",
+        "task_ids": [
+          "P1-11-CROSS-GUIDED",
+          "P1-11-CROSSOUT-MODEL"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c11-wb-own-small",
+        "title": "Take away on your own",
+        "task_ids": [
+          "P1-11-Q1",
+          "P1-11-Q2"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c11-wb-own-large",
+        "title": "Take away through eighteen",
+        "task_ids": [
+          "P1-11-Q3",
+          "P1-11-Q4"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c11-wb-chalk",
+        "title": "Chalk and an addition check",
+        "task_ids": [
+          "P1-11-Q5",
+          "P1-11-Q6"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c11-wb-help",
+        "title": "Help and a fresh try",
+        "task_ids": [
+          "P1-11-RECALL",
+          "P1-11-SMALL-HELP",
+          "P1-11-SMALL-RECHECK",
+          "P1-11-CROSS-HELP",
+          "P1-11-CROSS-RECHECK"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c11-wb-fresh-small",
+        "title": "Try afresh: small amounts",
+        "task_ids": [
+          "P1-11-FRESH-SMALL",
+          "P1-11-FRESH-SMALL"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 7,
+        "slug": "c11-wb-fresh-large",
+        "title": "Try afresh: cross ten",
+        "task_ids": [
+          "P1-11-FRESH-CROSS",
+          "P1-11-FRESH-CROSS"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 8,
+        "slug": "c11-wb-fresh-check",
+        "title": "Check a claim afresh",
+        "task_ids": [
+          "P1-11-FRESH-CHECK",
+          "P1-11-CHECK-RECHECK"
+        ],
+        "pdf_page": 8
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "source_tasks": [
+      {
+        "id": "P1-12-Q1",
+        "source_prompt": "2 + __ = 6.",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-12-Q2",
+        "source_prompt": "__ + 3 = 8.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-12-Q3",
+        "source_prompt": "9 \u00e2\u02c6\u2019 __ = 4.",
+        "source_answer": "5"
+      },
+      {
+        "id": "P1-12-Q4",
+        "source_prompt": "__ \u00e2\u02c6\u2019 2 = 6.",
+        "source_answer": "8"
+      },
+      {
+        "id": "P1-12-Q5",
+        "source_prompt": "5 = __ + 1.",
+        "source_answer": "4"
+      },
+      {
+        "id": "P1-12-Q6",
+        "source_prompt": "Explain how to check 4 + __ = 9.",
+        "source_answer": "Use 5 in the blank and verify 4 + 5 = 9."
+      }
+    ],
+    "task_page_coverage": [
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 1,
+        "slug": "c12-1",
+        "title": "The hidden toy pieces",
+        "task_ids": [],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 2,
+        "slug": "c12-2",
+        "title": "What does a blank mean?",
+        "task_ids": [
+          "P1-12-EQUAL-MODEL"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 3,
+        "slug": "c12-3",
+        "title": "Find the second part",
+        "task_ids": [
+          "P1-12-ADD-LAST-MODEL",
+          "P1-12-ADD-LAST-GUIDED"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 4,
+        "slug": "c12-4",
+        "title": "Find the first part",
+        "task_ids": [
+          "P1-12-ADD-FIRST-MODEL",
+          "P1-12-ADD-FIRST-GUIDED"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 5,
+        "slug": "c12-5",
+        "title": "How many were taken away?",
+        "task_ids": [
+          "P1-12-REMOVE-MODEL",
+          "P1-12-REMOVE-GUIDED"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 6,
+        "slug": "c12-6",
+        "title": "How many at the start?",
+        "task_ids": [
+          "P1-12-START-MODEL",
+          "P1-12-START-GUIDED"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 7,
+        "slug": "c12-7",
+        "title": "Read equality both ways",
+        "task_ids": [
+          "P1-12-REVERSE-MODEL",
+          "P1-12-REVERSE-GUIDED"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 8,
+        "slug": "c12-8",
+        "title": "Put the number back",
+        "task_ids": [
+          "P1-12-CHECK-MODEL",
+          "P1-12-CHECK-GUIDED"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 9,
+        "slug": "c12-9",
+        "title": "One whole, two parts",
+        "task_ids": [
+          "P1-12-FAMILY-MODEL",
+          "P1-12-FAMILY-GUIDED"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 10,
+        "slug": "c12-10",
+        "title": "Check the book story",
+        "task_ids": [
+          "P1-12-EVERY-ADD-MODEL",
+          "P1-12-EVERY-ADD-GUIDED"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 11,
+        "slug": "c12-11",
+        "title": "Check the chalk story",
+        "task_ids": [
+          "P1-12-EVERY-SUB-MODEL",
+          "P1-12-EVERY-SUB-GUIDED"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 12,
+        "slug": "c12-12",
+        "title": "Find each missing part",
+        "task_ids": [
+          "P1-12-Q1",
+          "P1-12-Q2"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 13,
+        "slug": "c12-14",
+        "title": "Find what changed",
+        "task_ids": [
+          "P1-12-Q3",
+          "P1-12-Q4"
+        ],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 14,
+        "slug": "c12-16",
+        "title": "Equal amounts; check again",
+        "task_ids": [
+          "P1-12-Q5",
+          "P1-12-Q6"
+        ],
+        "pdf_page": 14
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 15,
+        "slug": "c12-18",
+        "title": "Check the story cards",
+        "task_ids": [
+          "S006",
+          "S007"
+        ],
+        "pdf_page": 15
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 16,
+        "slug": "c12-20",
+        "title": "Keep the whole; find both parts",
+        "task_ids": [
+          "P1-12-FAMILY-INDEPENDENT"
+        ],
+        "pdf_page": 16
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 17,
+        "slug": "c12-22",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-A-HELP",
+          "P1-12-A-RECHECK"
+        ],
+        "pdf_page": 17
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 18,
+        "slug": "c12-24",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-B-HELP",
+          "P1-12-B-RECHECK"
+        ],
+        "pdf_page": 18
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 19,
+        "slug": "c12-26",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-C-HELP",
+          "P1-12-C-RECHECK"
+        ],
+        "pdf_page": 19
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 20,
+        "slug": "c12-28",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-D-HELP",
+          "P1-12-D-RECHECK"
+        ],
+        "pdf_page": 20
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 21,
+        "slug": "c12-30",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-E-HELP",
+          "P1-12-E-RECHECK"
+        ],
+        "pdf_page": 21
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 22,
+        "slug": "c12-32",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-F-HELP",
+          "P1-12-F-RECHECK"
+        ],
+        "pdf_page": 22
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 23,
+        "slug": "c12-34",
+        "title": "The bag opens",
+        "task_ids": [
+          "P1-12-STORY"
+        ],
+        "pdf_page": 23
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 24,
+        "slug": "c12-35",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-A-FRESH",
+          "P1-12-B-FRESH"
+        ],
+        "pdf_page": 24
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 25,
+        "slug": "c12-37",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-C-FRESH",
+          "P1-12-D-FRESH"
+        ],
+        "pdf_page": 25
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 26,
+        "slug": "c12-39",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-E-FRESH",
+          "P1-12-F-FRESH"
+        ],
+        "pdf_page": 26
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 27,
+        "slug": "c12-41",
+        "title": "Teaching across short sessions",
+        "task_ids": [],
+        "pdf_page": 27
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 28,
+        "slug": "c12-42",
+        "title": "Notice, help and check later",
+        "task_ids": [],
+        "pdf_page": 28
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 29,
+        "slug": "c12-43",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-EQUAL-MODEL",
+          "P1-12-ADD-LAST-MODEL",
+          "P1-12-ADD-LAST-GUIDED",
+          "P1-12-ADD-FIRST-MODEL",
+          "P1-12-ADD-FIRST-GUIDED"
+        ],
+        "pdf_page": 29
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 30,
+        "slug": "c12-44",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-REMOVE-MODEL",
+          "P1-12-REMOVE-GUIDED",
+          "P1-12-START-MODEL",
+          "P1-12-START-GUIDED",
+          "P1-12-REVERSE-MODEL"
+        ],
+        "pdf_page": 30
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 31,
+        "slug": "c12-45",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-REVERSE-GUIDED",
+          "P1-12-CHECK-MODEL",
+          "P1-12-CHECK-GUIDED",
+          "P1-12-FAMILY-MODEL",
+          "P1-12-FAMILY-GUIDED"
+        ],
+        "pdf_page": 31
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 32,
+        "slug": "c12-46",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-EVERY-ADD-MODEL",
+          "P1-12-EVERY-ADD-GUIDED",
+          "P1-12-EVERY-SUB-MODEL",
+          "P1-12-EVERY-SUB-GUIDED",
+          "P1-12-Q1"
+        ],
+        "pdf_page": 32
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 33,
+        "slug": "c12-47",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-Q2",
+          "P1-12-Q3",
+          "P1-12-Q4",
+          "P1-12-Q5",
+          "P1-12-Q6"
+        ],
+        "pdf_page": 33
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 34,
+        "slug": "c12-48",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "S006",
+          "S007",
+          "P1-12-FAMILY-INDEPENDENT",
+          "P1-12-A-HELP",
+          "P1-12-A-RECHECK"
+        ],
+        "pdf_page": 34
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 35,
+        "slug": "c12-49",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-B-HELP",
+          "P1-12-B-RECHECK",
+          "P1-12-C-HELP",
+          "P1-12-C-RECHECK",
+          "P1-12-D-HELP"
+        ],
+        "pdf_page": 35
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 36,
+        "slug": "c12-50",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-D-RECHECK",
+          "P1-12-E-HELP",
+          "P1-12-E-RECHECK",
+          "P1-12-F-HELP",
+          "P1-12-F-RECHECK"
+        ],
+        "pdf_page": 36
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 37,
+        "slug": "c12-51",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-STORY",
+          "P1-12-A-FRESH",
+          "P1-12-B-FRESH",
+          "P1-12-C-FRESH",
+          "P1-12-D-FRESH"
+        ],
+        "pdf_page": 37
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 38,
+        "slug": "c12-52",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-E-FRESH",
+          "P1-12-F-FRESH",
+          "P1-12-A-DELAYED",
+          "P1-12-B-DELAYED",
+          "P1-12-C-DELAYED"
+        ],
+        "pdf_page": 38
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 39,
+        "slug": "c12-53",
+        "title": "Complete task and answer map",
+        "task_ids": [
+          "P1-12-D-DELAYED",
+          "P1-12-E-DELAYED",
+          "P1-12-F-DELAYED"
+        ],
+        "pdf_page": 39
+      },
+      {
+        "artifact": "textbook",
+        "canonical_page_index": 40,
+        "slug": "c12-54",
+        "title": "Words, evidence and next year",
+        "task_ids": [],
+        "pdf_page": 40
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 1,
+        "slug": "c12-13",
+        "title": "Find each missing part",
+        "task_ids": [
+          "P1-12-Q1",
+          "P1-12-Q2"
+        ],
+        "pdf_page": 1
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 2,
+        "slug": "c12-15",
+        "title": "Find what changed",
+        "task_ids": [
+          "P1-12-Q3",
+          "P1-12-Q4"
+        ],
+        "pdf_page": 2
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 3,
+        "slug": "c12-17",
+        "title": "Equal amounts; check again",
+        "task_ids": [
+          "P1-12-Q5",
+          "P1-12-Q6"
+        ],
+        "pdf_page": 3
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 4,
+        "slug": "c12-19",
+        "title": "Check the story cards",
+        "task_ids": [
+          "S006",
+          "S007"
+        ],
+        "pdf_page": 4
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 5,
+        "slug": "c12-21",
+        "title": "Keep the whole; find both parts",
+        "task_ids": [
+          "P1-12-FAMILY-INDEPENDENT"
+        ],
+        "pdf_page": 5
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 6,
+        "slug": "c12-23",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-A-HELP",
+          "P1-12-A-RECHECK"
+        ],
+        "pdf_page": 6
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 7,
+        "slug": "c12-25",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-B-HELP",
+          "P1-12-B-RECHECK"
+        ],
+        "pdf_page": 7
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 8,
+        "slug": "c12-27",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-C-HELP",
+          "P1-12-C-RECHECK"
+        ],
+        "pdf_page": 8
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 9,
+        "slug": "c12-29",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-D-HELP",
+          "P1-12-D-RECHECK"
+        ],
+        "pdf_page": 9
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 10,
+        "slug": "c12-31",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-E-HELP",
+          "P1-12-E-RECHECK"
+        ],
+        "pdf_page": 10
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 11,
+        "slug": "c12-33",
+        "title": "A smaller step; a new try",
+        "task_ids": [
+          "P1-12-F-HELP",
+          "P1-12-F-RECHECK"
+        ],
+        "pdf_page": 11
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 12,
+        "slug": "c12-36",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-A-FRESH",
+          "P1-12-B-FRESH"
+        ],
+        "pdf_page": 12
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 13,
+        "slug": "c12-38",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-C-FRESH",
+          "P1-12-D-FRESH"
+        ],
+        "pdf_page": 13
+      },
+      {
+        "artifact": "workbook",
+        "canonical_page_index": 14,
+        "slug": "c12-40",
+        "title": "Show what you can do afresh",
+        "task_ids": [
+          "P1-12-E-FRESH",
+          "P1-12-F-FRESH"
+        ],
+        "pdf_page": 14
+      }
+    ]
+  }
+]

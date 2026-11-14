@@ -10,53 +10,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "7a4fe4ee73b5ce5392a03c40ddcfa4f6de133924bead73667d8747e0c7cf8cd0",
+        "fingerprint": "df369d68625ef6916e4821a0d7fec64ebda8e6968ee35373bbfffcb89f9e501c",
         "stages": {
-          "S1": "TB5: cup for each friend",
-          "S2": "TB5: count/read/write/order one to five",
-          "S3": "TB6-7,9: touch each once, numeral ladder, circle and formation models",
-          "S4": "TB6-7: children touch/count and make representation",
-          "S5": "TB8-9/WB2-4: all six independent source tasks",
-          "S6": "TB9/WB4: explain one-touch counting before hint",
-          "S7": "TB9,18: two cups, then a new small set",
-          "S8": "TB10: four friends/four cups, tea shop opens",
-          "S9": "TB10/WB5: new requested set and mixed cards;TB18 delayed set/recognition"
+          "S1": "TB5: Aishatu needs one cup per friend.",
+          "S2": "TB5: Count/read/write/order one to five.",
+          "S3": "TB6-7,9: one-touch cup count, numeral/quantity and two-cup/two-circle models, live formation.",
+          "S4": "TB6-7: count real cups and pictures with Mrs Binta.",
+          "S5": "TB8-9 / WB2-4: six source tasks, local cups and writing spaces.",
+          "S6": "TB9 / WB4: remember and explain counting once before help.",
+          "S7": "TB9,18: move two cups, then independently count another small set.",
+          "S8": "TB10: four cups for four friends; enact pairing, shop opens.",
+          "S9": "TB10 / WB5 / adult TB18-19: adult-chosen new sets, separate recognition/naming; another-day 2/5 count."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-22/WB1-10 (shared opening pair); S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-22/workbook1-10. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6: 3, 5, two circles, 1-5, 4, touch/move each once and state3. Model3; ladder1-5; two cups/two circles. Four cups for four friends. Fresh requested1-5, separate card reading/recognition. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=3,5,two circles,1..5,4,one touch per cup. Recounted all cup models/ladders and two-cup/two-circle correspondence; fourfriends/fourcups. Adult-chosen fresh sets/cards separate reading/recognition/formation; delayed2/5 totals. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-22/WB1-10 (shared opening pair). Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-22/workbook1-10 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB10: four friends/four cups, tea shop opens Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB10: four cups for four friends; enact pairing, shop opens. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-22/WB1-10 (shared opening pair) at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-22/workbook1-10 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB18-22: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB18-19,22 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "The opening pair shares front/adult pages. All32unique pages personally inspected in this recovery session; both chapter-specific ranges checked separately."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion.",
+          "Openingchapters1/2 share22textbook+10workbook pages. All32unique pages,including front/adult/sharedpages,personally inspected once; chapter-specific stages reviewed separately."
         ],
         "findings": []
       },
@@ -382,6 +383,58 @@
             "Opening pair shares front/adult pages; inspected all32unique pages once and reviewed both chapter-specific ranges separately."
           ],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "7a4fe4ee73b5ce5392a03c40ddcfa4f6de133924bead73667d8747e0c7cf8cd0",
+          "stages": {
+            "S1": "TB5: cup for each friend",
+            "S2": "TB5: count/read/write/order one to five",
+            "S3": "TB6-7,9: touch each once, numeral ladder, circle and formation models",
+            "S4": "TB6-7: children touch/count and make representation",
+            "S5": "TB8-9/WB2-4: all six independent source tasks",
+            "S6": "TB9/WB4: explain one-touch counting before hint",
+            "S7": "TB9,18: two cups, then a new small set",
+            "S8": "TB10: four friends/four cups, tea shop opens",
+            "S9": "TB10/WB5: new requested set and mixed cards;TB18 delayed set/recognition"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-22/WB1-10 (shared opening pair); S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6: 3, 5, two circles, 1-5, 4, touch/move each once and state3. Model3; ladder1-5; two cups/two circles. Four cups for four friends. Fresh requested1-5, separate card reading/recognition. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-22/WB1-10 (shared opening pair). Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB10: four friends/four cups, tea shop opens Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-22/WB1-10 (shared opening pair) at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB18-22: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "The opening pair shares front/adult pages. All32unique pages personally inspected in this recovery session; both chapter-specific ranges checked separately."
+          ],
+          "findings": []
         }
       ]
     },
@@ -392,53 +445,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "77d2ea1906b8fc602afedac97a0530e4a641ffe07d904f4b4002cd15b3d73059",
+        "fingerprint": "ce6220974e01600021d44c7a50c8f887b376fe9439faaa591cffe1612001bdd9",
         "stages": {
-          "S1": "TB11: shop game tray needs tidying",
-          "S2": "TB11: sort/match/order",
-          "S3": "TB12-14: type sorting, pairing, equal rows and quantity-order models",
-          "S4": "TB12-13/WB6: find other leaf, pair equal rows",
-          "S5": "TB14-16/WB7-9:Q1-Q6",
-          "S6": "TB16/WB9: show comparison method",
-          "S7": "TB16,20:2versus3 support, new1versus2 recheck",
-          "S8": "TB17/WB10:3leaf/top pairs and2spare tops",
-          "S9": "TB17/WB10:new mixed row and5leaves versus4tops;TB20 delayed4/2/order2,3,5"
+          "S1": "TB11: tidy shop game tray, three leaves and five tops.",
+          "S2": "TB11: sort, match and order small sets.",
+          "S3": "TB12-14: sort by type, one-to-one model 2 versus 4, equal rows of 3, ascending 2/3/4.",
+          "S4": "TB12-14 / WB6: identify other leaf, physically sort, match equal differently spaced rows.",
+          "S5": "TB14-16 / WB7-9: six source tasks ordering, drawing, more/fewer, making five and comparing.",
+          "S6": "TB16 / WB9: show comparison before looking back.",
+          "S7": "TB16,20: match support 2 versus 3; independently recheck 1 versus 2; build five.",
+          "S8": "TB17: pair three leaves with three tops; put two spare tops away, game ready.",
+          "S9": "TB17 / WB10 / adult TB20-21: new mixed tray and 4-top/5-leaf comparison; delayed 4/2 sorting and 5/2/3 order."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-22/WB1-10 (shared opening pair); S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-22/workbook1-10. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:1/3/4, separate1-dot and3-dot sets, five tops/right, three leaves/right, five objects, one-to-one matching/count both. 2-to-4 leaves2 unmatched;3-to-3 equal; story3 pairs/2spares; fresh5 leaves>4tops. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=1/3/4;1dot/3dots;5tops right;3leaves right;5objects;one-to-one comparison. Models2v4/equal3 each; story3leaves/5tops with2spares; fresh leaf positions2/4 and5v4; delayed4v2/order2,3,5. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-22/WB1-10 (shared opening pair). Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-22/workbook1-10 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB17/WB10:3leaf/top pairs and2spare tops Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB17: pair three leaves with three tops; put two spare tops away, game ready. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-22/WB1-10 (shared opening pair) at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-22/workbook1-10 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB18-22: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB20-22 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "The opening pair shares front/adult pages. All32unique pages personally inspected in this recovery session; both chapter-specific ranges checked separately."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion.",
+          "Openingchapters1/2 share22textbook+10workbook pages. All32unique pages,including front/adult/sharedpages,personally inspected once; chapter-specific stages reviewed separately."
         ],
         "findings": []
       },
@@ -740,6 +794,58 @@
             "Opening pair shares front/adult pages; inspected all32unique pages once and reviewed both chapter-specific ranges separately."
           ],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "77d2ea1906b8fc602afedac97a0530e4a641ffe07d904f4b4002cd15b3d73059",
+          "stages": {
+            "S1": "TB11: shop game tray needs tidying",
+            "S2": "TB11: sort/match/order",
+            "S3": "TB12-14: type sorting, pairing, equal rows and quantity-order models",
+            "S4": "TB12-13/WB6: find other leaf, pair equal rows",
+            "S5": "TB14-16/WB7-9:Q1-Q6",
+            "S6": "TB16/WB9: show comparison method",
+            "S7": "TB16,20:2versus3 support, new1versus2 recheck",
+            "S8": "TB17/WB10:3leaf/top pairs and2spare tops",
+            "S9": "TB17/WB10:new mixed row and5leaves versus4tops;TB20 delayed4/2/order2,3,5"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-22/WB1-10 (shared opening pair); S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:1/3/4, separate1-dot and3-dot sets, five tops/right, three leaves/right, five objects, one-to-one matching/count both. 2-to-4 leaves2 unmatched;3-to-3 equal; story3 pairs/2spares; fresh5 leaves>4tops. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-22/WB1-10 (shared opening pair). Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB17/WB10:3leaf/top pairs and2spare tops Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-22/WB1-10 (shared opening pair) at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB18-22: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "The opening pair shares front/adult pages. All32unique pages personally inspected in this recovery session; both chapter-specific ranges checked separately."
+          ],
+          "findings": []
         }
       ]
     },
@@ -750,52 +856,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "e183d4b3eced0229ec7114c15aca52d17140555892233d84f0514eacda8cfdba",
+        "fingerprint": "cf724588db636df6df7d21cb7b360653973240a42380face3574bfb9f966fade",
         "stages": {
-          "S1": "TB1: pack3game tops",
-          "S2": "TB1: number for none/read/write",
-          "S3": "TB2-3:2-to0,formation,empty-box model",
-          "S4": "TB3/WB1-2:1-to0,recognition,air-writing",
-          "S5": "TB4-5/WB1-3:Q1-Q6",
-          "S6": "TB5/WB3:explain empty tray",
-          "S7": "TB5,7/WB3:1counter helped then fresh2-to0",
-          "S8": "TB6:0on mat/3stored",
-          "S9": "TB6/WB4:0/2/4trays,mixed cards,covered zero;TB7 delayed3-to0"
+          "S1": "TB1: pack three tops and check empty mat.",
+          "S2": "TB1: none has a number, read/write it.",
+          "S3": "TB2-3: two-to-none tray, zero meaning, closed-loop formation and empty-box model.",
+          "S4": "TB3 / WB1-2: one-to-none action, point to 0 among 0/2/1, air-write and say sequence.",
+          "S5": "TB4-5 / WB1-3: all six source tasks, no-tray/contents confusion.",
+          "S6": "TB5 / WB3: explain empty basket and show checking before help.",
+          "S7": "TB5,7: remove one with adult, independently remove two from another tray.",
+          "S8": "TB6: actual three tops stored, mat zero; box closes.",
+          "S9": "TB6 / WB4 / adult TB7-8: new 0/2/4 trays, separate mixed-card recognition/naming and covered writing; next-session recall."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-9/WB1-4; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-9/workbook1-4. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:0, empty outline,2,0,zero,no oranges inside. Model2-to0/guided1-to0; story0on mat/3stored; new0/2/4trays and covered0. The container is not counted as contents. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=0,empty outlinedbox,2,0,zero,no oranges inside. Models2->0/1->0, ordered0/1/2/3 and loopformation; story3stored/0mat; support2->0; fresh0/2/4 trays and covered writing; delayed3->0. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-9/WB1-4. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-9/workbook1-4 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB6:0on mat/3stored Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB6: actual three tops stored, mat zero; box closes. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-9/WB1-4 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-9/workbook1-4 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB7-9: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB7-9 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
-        "variations": [],
+        "variations": [
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
+        ],
         "findings": []
       },
       "format": "textbook-workbook",
@@ -1093,6 +1201,56 @@
           },
           "variations": [],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "e183d4b3eced0229ec7114c15aca52d17140555892233d84f0514eacda8cfdba",
+          "stages": {
+            "S1": "TB1: pack3game tops",
+            "S2": "TB1: number for none/read/write",
+            "S3": "TB2-3:2-to0,formation,empty-box model",
+            "S4": "TB3/WB1-2:1-to0,recognition,air-writing",
+            "S5": "TB4-5/WB1-3:Q1-Q6",
+            "S6": "TB5/WB3:explain empty tray",
+            "S7": "TB5,7/WB3:1counter helped then fresh2-to0",
+            "S8": "TB6:0on mat/3stored",
+            "S9": "TB6/WB4:0/2/4trays,mixed cards,covered zero;TB7 delayed3-to0"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-9/WB1-4; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:0, empty outline,2,0,zero,no oranges inside. Model2-to0/guided1-to0; story0on mat/3stored; new0/2/4trays and covered0. The container is not counted as contents. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-9/WB1-4. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB6:0on mat/3stored Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-9/WB1-4 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB7-9: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [],
+          "findings": []
         }
       ]
     },
@@ -1103,52 +1261,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "a05cc718d2451d506d3a71e98170d75577d4f07cabb41efdca41832413f40dc3",
+        "fingerprint": "c034b76de6398e2503671bb60dabd0eec1740b0016ac6d934d0c56b609825740",
         "stages": {
-          "S1": "TB1:30mixed game pieces need four groups",
-          "S2": "TB1:count/read/write/order6-9",
-          "S3": "TB2-7:5+1..4,formation,outline sorting,order,dot models",
-          "S4": "TB2-6/WB1,5:build/read/sort/order together",
-          "S5": "TB6-7/WB2-4:Q1-Q6;TB5/WB5 actual independent sort",
-          "S6": "TB7/WB4:check8 before hint",
-          "S7": "TB7,9/WB4:help6,new7",
-          "S8": "TB8:6circles/7squares/8triangles/9rectangles conserved",
-          "S9": "TB8/WB6:new8/9sets,mixed1-9,covered dictation;TB9 delayed checks"
+          "S1": "TB1: sort and count all game pieces.",
+          "S2": "TB1: count/read/write/order six to nine.",
+          "S3": "TB2-5: 5+1/2/3/4 models, numeral movement and same-outline sorting.",
+          "S4": "TB2-6: build six/seven/eight/nine, shuffle numeral cards, sort/compare/order together.",
+          "S5": "TB5-7 / WB2-5: all six originals plus actual four-type sorting/counting.",
+          "S6": "TB7 / WB4: recall one-touch checking of eight before help.",
+          "S7": "TB7,9: count five plus one; fresh seven recheck, supported numeral practice.",
+          "S8": "TB8: groups 6/7/8/9 (30 pieces) checked and ready for game.",
+          "S9": "TB8 / WB6 / adult TB9-10: new scattered 8/9 groups, shuffled naming/recognition, covered 8/6/9/7 dictation; delayed count/read/write/order."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-11/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-11/workbook1-6. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:7,8,6/7/8/9,6dots,9objects,recount8. Diagrams5+1..4=6..9; four shape groups6/7/8/9 conserve30pieces. New7 afterhelp6; fresh8/9; separate shuffled reading/dictation. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=7,8,6/7/8/9,6dots,9objects,one touch eight times. Diagrams5+1/2/3/4=6/7/8/9; four sorted groups6/7/8/9 total30 preserved; support6/recheck7; fresh8/9 and separate naming/recognition/dictation; delayed lists checked. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-11/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-11/workbook1-6 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB8:6circles/7squares/8triangles/9rectangles conserved Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB8: groups 6/7/8/9 (30 pieces) checked and ready for game. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-11/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-11/workbook1-6 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB9-11: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB9-11 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
-        "variations": [],
+        "variations": [
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
+        ],
         "findings": []
       },
       "format": "textbook-workbook",
@@ -1446,6 +1606,56 @@
           },
           "variations": [],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "a05cc718d2451d506d3a71e98170d75577d4f07cabb41efdca41832413f40dc3",
+          "stages": {
+            "S1": "TB1:30mixed game pieces need four groups",
+            "S2": "TB1:count/read/write/order6-9",
+            "S3": "TB2-7:5+1..4,formation,outline sorting,order,dot models",
+            "S4": "TB2-6/WB1,5:build/read/sort/order together",
+            "S5": "TB6-7/WB2-4:Q1-Q6;TB5/WB5 actual independent sort",
+            "S6": "TB7/WB4:check8 before hint",
+            "S7": "TB7,9/WB4:help6,new7",
+            "S8": "TB8:6circles/7squares/8triangles/9rectangles conserved",
+            "S9": "TB8/WB6:new8/9sets,mixed1-9,covered dictation;TB9 delayed checks"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-11/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:7,8,6/7/8/9,6dots,9objects,recount8. Diagrams5+1..4=6..9; four shape groups6/7/8/9 conserve30pieces. New7 afterhelp6; fresh8/9; separate shuffled reading/dictation. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-11/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB8:6circles/7squares/8triangles/9rectangles conserved Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-11/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB9-11: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [],
+          "findings": []
         }
       ]
     },
@@ -1456,52 +1666,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "9db3201e69007b8ae9c478c47558684fe717935002998f224bd8be0ca1eca2c3",
+        "fingerprint": "37b8ed3825ae62ef0a8cdddaffd593ccc5d2039fecbe667aa51c8bfd9fabd332",
         "stages": {
-          "S1": "TB1:20path markers to pack",
-          "S2": "TB1:make tens/ones,count/read/write through20",
-          "S3": "TB2-6:10ones/bundle,14places,each11-20,formation",
-          "S4": "TB2-6/WB1,3:bundle/unbundle/build/name/write",
-          "S5": "TB7-8/WB2,4:Q1-Q6;TB9/WB5 chosen11-19",
-          "S6": "TB9/WB5:how to check a ten",
-          "S7": "TB9,11/WB5:9+1 then new11/13",
-          "S8": "TB10:original20markers in2checked bundles",
-          "S9": "TB10/WB6:new physical17/20,mixed10-20,covered dictation;TB11 delayed18/10"
+          "S1": "TB1: pack exactly twenty path markers.",
+          "S2": "TB1: make tens/ones, count/read/write through twenty.",
+          "S3": "TB2-6: ten ones tied/untied, left tens/right ones, all eleven-to-twenty quantities and writing.",
+          "S4": "TB2-6: pupils bundle/open/check and build each number, guided thirteen, mixed-card reading.",
+          "S5": "TB7-8 / WB2-4: source Q1..6, 12/16/10/19/20 and ten versus one.",
+          "S6": "TB9 / WB5: explain how to verify a bundle, choose/build/record 11..19 before support.",
+          "S7": "TB9,11: nine plus one bundled/opened; independent new 11/13, covered fresh writing.",
+          "S8": "TB10: original twenty markers recovered in two checked tens and packed.",
+          "S9": "TB10 / WB6 / adult TB11-12: new 17/20 builds, separate shuffled naming/recognition/covered dictation; delayed 18/10 and new spoken values."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-13/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-13/workbook1-6. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:12,1t6o,10,19,2t0o,ten ones versus one. Every11-19 is1t plus1-9ones,20=2t0o; model14/guided13; fresh17/20; delayed18/10. Actual PDF254strip marks/33groups. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=12,1ten6ones,10,19,2bundles20,tenones versusone. Recounted tenstrips perbundle and11..20 ladders,14/13 model;support9+1/new11or13; story2tens20; fresh17/20, shuffled10..20,19/10/14/20 writing; delayed18/10 and15/20/11. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-13/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-13/workbook1-6 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB10:original20markers in2checked bundles Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB10: original twenty markers recovered in two checked tens and packed. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-13/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-13/workbook1-6 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB11-13: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB11-13 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
-        "variations": [],
+        "variations": [
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
+        ],
         "findings": []
       },
       "format": "textbook-workbook",
@@ -1775,6 +1987,56 @@
           },
           "variations": [],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "9db3201e69007b8ae9c478c47558684fe717935002998f224bd8be0ca1eca2c3",
+          "stages": {
+            "S1": "TB1:20path markers to pack",
+            "S2": "TB1:make tens/ones,count/read/write through20",
+            "S3": "TB2-6:10ones/bundle,14places,each11-20,formation",
+            "S4": "TB2-6/WB1,3:bundle/unbundle/build/name/write",
+            "S5": "TB7-8/WB2,4:Q1-Q6;TB9/WB5 chosen11-19",
+            "S6": "TB9/WB5:how to check a ten",
+            "S7": "TB9,11/WB5:9+1 then new11/13",
+            "S8": "TB10:original20markers in2checked bundles",
+            "S9": "TB10/WB6:new physical17/20,mixed10-20,covered dictation;TB11 delayed18/10"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-13/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:12,1t6o,10,19,2t0o,ten ones versus one. Every11-19 is1t plus1-9ones,20=2t0o; model14/guided13; fresh17/20; delayed18/10. Actual PDF254strip marks/33groups. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-13/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB10:original20markers in2checked bundles Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-13/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB11-13: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [],
+          "findings": []
         }
       ]
     },
@@ -1785,53 +2047,53 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
       "review": {
         "author": "Codex /root/sol_executor",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "e7af2003617bfad12b2440865aae0edd77ad5fe728a5acc7f2588ef4fc6beef6",
+        "fingerprint": "571ac071d14adbc7f78951e850c3f18731562376c6c7f221cfaba1928b9b3843",
         "stages": {
-          "S1": "TB1:46/81/93box labels needed",
-          "S2": "TB1:build/read/write through99",
-          "S3": "TB2-13:prior14,successive bands21-99,teen/tens,sequence/places/range",
-          "S4": "TB2-13/WB1-10:each band built/named/written together",
-          "S5": "TB14-15/WB11-12:Q1-Q6;WB2-10 separate build/count/read/recognise/write",
-          "S6": "TB16/WB13:how ten loose ones become ten",
-          "S7": "TB16,20/WB13:19+1/29+1,then new34/50,name17/70,dictate32",
-          "S8": "TB17:46/81/93labels checked and attached",
-          "S9": "TB17/WB14:new47/36/82,mixed reading/recognition/covered writing;TB20 delayed58/64"
+          "S1": "TB1: make labels 46/81/93 for game boxes.",
+          "S2": "TB1: build/read/write through ninety-nine.",
+          "S3": "TB2-13: prerequisite check, successive 21..99 bands, exchanges at decades, teen/tens contrasts, sequence/place/range models.",
+          "S4": "TB2-13 / WB1-10: build/name/form every band number before small independent samples.",
+          "S5": "TB14-15 / WB11-12, distributed WB bands: all source tasks and build/count/recognition/reading/copy/dictation checks.",
+          "S6": "TB16 / WB13: explain forming another ten, choose/build/record/name a new 21..99 number before help.",
+          "S7": "TB16,20: 19->20 and 29->30; place/name intervention then new 34/50/read17/70/dictate32.",
+          "S8": "TB17: independently make/check/attach original 46/81/93 labels.",
+          "S9": "TB17 / WB14 / adult TB20: fresh 47 count, 36/82 builds, mixed reading/recognition/covered dictation; delayed 58/64 and new lists."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-21/WB1-14; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-21/workbook1-14. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:46,eighty-one,40/41,9t3o,95-99,60versus6ones. Every21-99name/place/sequence checked, including29/39/49/59/69/79/89+1 exchanges. All9WBbuild/countpairs and adult reading/dictation targets checked. Fresh47/36/82; delayed58/64. Actual PDF2044strips/220groups. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=46,eighty-one,40/41,9t3o,95..99,60=6t versus6=6o. Every21..99 band model and WB build/count/read/recognise/dictate list independently checked; transitions29..89 to30..90. Fresh47,36/82,23/38/40/56/67/71/85/99; support/recheck/delayed lists and original46/81/93 labels agree. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-21/WB1-14. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-21/workbook1-14 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB17:46/81/93labels checked and attached Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB17: independently make/check/attach original 46/81/93 labels. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-21/WB1-14 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-21/workbook1-14 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB18-21: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB18-21 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "Several short sessions per band, with separate build/count/read/recognise/write observations. No full-range mastery claim from small samples."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
         "findings": []
       },
@@ -2195,6 +2457,58 @@
             "Many short sessions per number band; separate count/build/read/recognise/write samples; no full-range mastery claim."
           ],
           "findings": []
+        },
+        {
+          "author": "Codex /root/sol_executor",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "e7af2003617bfad12b2440865aae0edd77ad5fe728a5acc7f2588ef4fc6beef6",
+          "stages": {
+            "S1": "TB1:46/81/93box labels needed",
+            "S2": "TB1:build/read/write through99",
+            "S3": "TB2-13:prior14,successive bands21-99,teen/tens,sequence/places/range",
+            "S4": "TB2-13/WB1-10:each band built/named/written together",
+            "S5": "TB14-15/WB11-12:Q1-Q6;WB2-10 separate build/count/read/recognise/write",
+            "S6": "TB16/WB13:how ten loose ones become ten",
+            "S7": "TB16,20/WB13:19+1/29+1,then new34/50,name17/70,dictate32",
+            "S8": "TB17:46/81/93labels checked and attached",
+            "S9": "TB17/WB14:new47/36/82,mixed reading/recognition/covered writing;TB20 delayed58/64"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-21/WB1-14; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:46,eighty-one,40/41,9t3o,95-99,60versus6ones. Every21-99name/place/sequence checked, including29/39/49/59/69/79/89+1 exchanges. All9WBbuild/countpairs and adult reading/dictation targets checked. Fresh47/36/82; delayed58/64. Actual PDF2044strips/220groups. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-21/WB1-14. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB17:46/81/93labels checked and attached Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-21/WB1-14 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB18-21: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "Several short sessions per band, with separate build/count/read/recognise/write observations. No full-range mastery claim from small samples."
+          ],
+          "findings": []
         }
       ]
     },
@@ -2205,53 +2519,53 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
       "review": {
         "author": "Codex /root/sol_executor",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "2d1afb5797b8355bd226e6cf5165558d9ebbac84273c02dad1b74a0689199195",
+        "fingerprint": "5de9298c358d25ae640421711023e877290dec4aa77d18c8dd9418e0582b03dd",
         "stages": {
-          "S1": "TB1:one mat/four friends need equal space",
-          "S2": "TB1:share whole into equal parts",
-          "S3": "TB2-6:physical fold/quarter/unequal/diagonal/rotated/notation/draw models",
-          "S4": "TB2-6/WB1:fold,turn,shade,compare together",
-          "S5": "TB7/WB2-3:Q1-Q6",
-          "S6": "TB7 recalls count/amount checks;TB10/WB6 definitions without looking back",
-          "S7": "TB8/WB4:smaller folds then new tall rectangle/square;other half investigation",
-          "S8": "TB9/WB5:four equal spaces/one drawing each",
-          "S9": "TB10/WB6:new rotated half/paperfruit quarter/neither and new drawing;TB12 delayed new paper/diagonal/unequal"
+          "S1": "TB1: four friends need equal drawing space on one mat.",
+          "S2": "TB1: share a whole into equal parts.",
+          "S3": "TB2-6: fold equal halves/quarters, unequal comparison, diagonal/turned shapes, notation and drawing/shading model.",
+          "S4": "TB2-6 / WB1: concrete folds, turn/check amounts, name parts and copy drawing after demonstration.",
+          "S5": "TB7 / WB2-3: all six originals, drawing/shading/explanation and unequal nonexample.",
+          "S6": "TB7 / WB2-3: recall two/four equal parts and explain why shaded part is quarter before help.",
+          "S7": "TB8 / WB4 / adult TB12: supported fold, then new tall rectangle/square independently; optional alternative equal halves.",
+          "S8": "TB9 / WB5: mat split into four equal quarters, one named drawing per child.",
+          "S9": "TB10 / WB6 / adult TB12: new rotated half, paper-orange quarter, unequal neither, drawing/explanation; delayed new folds/diagonal/unequal example."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-13/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-13/workbook1-6. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:2,4,equal-area rectangle halves,square4equalparts/1shaded,No,4equalparts/1shaded. Diagonal/rotated/paperfruit representations agree. Actual60polygonparts/24diagrams independently yield .5/.25 equal fractions and .3/.7 unequal nonexamples. Freshhalf/quarter/neither; story4equalshares. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=2equalparts,4equalparts,rectangle bisected,square four equalparts one shaded,no unequalhalves,oneof4equalparts. Fold/diagonal/rotation diagrams and .3/.7 nonexamples inspected. Fourquarters/fourfriends whole conserved. Fresh rotatedhalf/paperorangequarter/neither, ownquarterdrawing; delayed folds/diagonal/unequal checked. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-13/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-13/workbook1-6 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB9/WB5:four equal spaces/one drawing each Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB9 / WB5: mat split into four equal quarters, one named drawing per child. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-13/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-13/workbook1-6 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB11-13: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB11-13 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "Physical folding and acceptable equal-area alternatives retained; part-count/equal-amount recall precedes help, definitions reinforced in the fresh check."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
         "findings": []
       },
@@ -2573,6 +2887,58 @@
             "Recall of part-count/equal-amount checks atTB7, definitions reinforced with fresh checksTB10; physical folds and oral/practical alternatives accepted."
           ],
           "findings": []
+        },
+        {
+          "author": "Codex /root/sol_executor",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "2d1afb5797b8355bd226e6cf5165558d9ebbac84273c02dad1b74a0689199195",
+          "stages": {
+            "S1": "TB1:one mat/four friends need equal space",
+            "S2": "TB1:share whole into equal parts",
+            "S3": "TB2-6:physical fold/quarter/unequal/diagonal/rotated/notation/draw models",
+            "S4": "TB2-6/WB1:fold,turn,shade,compare together",
+            "S5": "TB7/WB2-3:Q1-Q6",
+            "S6": "TB7 recalls count/amount checks;TB10/WB6 definitions without looking back",
+            "S7": "TB8/WB4:smaller folds then new tall rectangle/square;other half investigation",
+            "S8": "TB9/WB5:four equal spaces/one drawing each",
+            "S9": "TB10/WB6:new rotated half/paperfruit quarter/neither and new drawing;TB12 delayed new paper/diagonal/unequal"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-13/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:2,4,equal-area rectangle halves,square4equalparts/1shaded,No,4equalparts/1shaded. Diagonal/rotated/paperfruit representations agree. Actual60polygonparts/24diagrams independently yield .5/.25 equal fractions and .3/.7 unequal nonexamples. Freshhalf/quarter/neither; story4equalshares. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-13/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB9/WB5:four equal spaces/one drawing each Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-13/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB11-13: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "Physical folding and acceptable equal-area alternatives retained; part-count/equal-amount recall precedes help, definitions reinforced in the fresh check."
+          ],
+          "findings": []
         }
       ]
     },
@@ -2583,53 +2949,53 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
       "review": {
         "author": "Codex /root/sol_executor",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "114f0440876bc370588523a7318d9055ba84d45ddffa8c9a1d32ead11155e3cb",
+        "fingerprint": "f97de440d991582f8dc865110a7c69a2389c965ed66128b19bdf3126e7eb21f7",
         "stages": {
-          "S1": "TB1:two+one stall tops needed in one tray",
-          "S2": "TB1:put two/three small sets together",
-          "S3": "TB2-5:move/count,plus/equals,three sets,dot/book models",
-          "S4": "TB2-5/WB1:join/draw/count together",
-          "S5": "TB6/WB2-3:Q1-Q6",
-          "S6": "TB7/WB5:recall plus/equals/count-once",
-          "S7": "TB7/WB4:help1+1,new2+1;swap locations",
-          "S8": "TB8/WB5:same3tops,4friends take turns",
-          "S9": "TB8/WB6:new physical1+3 and new3addend1+2+2=5;TB10 delayed2+2/1+1+2/equality"
+          "S1": "TB1: join Aishatu's two tops and Adamu's one for stall.",
+          "S2": "TB1: put two or three sets together and find total.",
+          "S3": "TB2-5: concrete 2+1=3 before symbols/equality; three-set and dot models.",
+          "S4": "TB2-5 / WB1: move/count 1+1, 1+2, 1+1+1 and draw one dot per object.",
+          "S5": "TB6 / WB2-3: source Q1..6, totals3/4/3/3/4books and swapped sets.",
+          "S6": "TB7 / WB5: recall plus/equality and checking before support.",
+          "S7": "TB7 / WB4: helped 1+1, new 2+1; swap sets and explain invariant total.",
+          "S8": "TB8 / WB5: original two-plus-one stock three conserved; four children take turns.",
+          "S9": "TB8 / WB6 / adult TB10: fresh 1+3 and 1+2+2, equality explanation; delayed 2+2/1+1+2 and 4=2+2."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-11/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-11/workbook1-6. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:3,4,3,3,4books,bothorders3. Models2+1=3,1+1=2,1+1+2=4,2+2+2=6; fresh1+3 repeatsQ5numerically,distinct1+2+2=5 supplies transfer. Delayed2+2=4/1+1+2=4. Same3tops shared by turns. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=3,4,3,3dots,4books,1+2=2+1=3. Alltwo/three-set anddotmodels counted:2+1=3,1+1=2,1+1+2=4,2+2+2=6,1+1+1=3. Help1+1/recheck2+1; original3tops conserved;fresh1+3=4/1+2+2=5;delayed2+2=4/1+1+2=4/4=2+2. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-11/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-11/workbook1-6 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB8/WB5:same3tops,4friends take turns Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB8 / WB5: original two-plus-one stock three conserved; four children take turns. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-11/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-11/workbook1-6 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB9-11: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB9-11 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "Fresh1+3 repeats the source-book calculation numerically; distinct three-addend1+2+2=5 supplies transfer. Three stall tops shared by turns among four friends."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
         "findings": []
       },
@@ -2910,6 +3276,58 @@
             "Fresh1+3 uses new counters after book-storyQ5; new three-addend1+2+2=5 supplies a distinct calculation. Three stall tops shared by turns among four friends."
           ],
           "findings": []
+        },
+        {
+          "author": "Codex /root/sol_executor",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "114f0440876bc370588523a7318d9055ba84d45ddffa8c9a1d32ead11155e3cb",
+          "stages": {
+            "S1": "TB1:two+one stall tops needed in one tray",
+            "S2": "TB1:put two/three small sets together",
+            "S3": "TB2-5:move/count,plus/equals,three sets,dot/book models",
+            "S4": "TB2-5/WB1:join/draw/count together",
+            "S5": "TB6/WB2-3:Q1-Q6",
+            "S6": "TB7/WB5:recall plus/equals/count-once",
+            "S7": "TB7/WB4:help1+1,new2+1;swap locations",
+            "S8": "TB8/WB5:same3tops,4friends take turns",
+            "S9": "TB8/WB6:new physical1+3 and new3addend1+2+2=5;TB10 delayed2+2/1+1+2/equality"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-11/WB1-6; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:3,4,3,3,4books,bothorders3. Models2+1=3,1+1=2,1+1+2=4,2+2+2=6; fresh1+3 repeatsQ5numerically,distinct1+2+2=5 supplies transfer. Delayed2+2=4/1+1+2=4. Same3tops shared by turns. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-11/WB1-6. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB8/WB5:same3tops,4friends take turns Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-11/WB1-6 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB9-11: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "Fresh1+3 repeats the source-book calculation numerically; distinct three-addend1+2+2=5 supplies transfer. Three stall tops shared by turns among four friends."
+          ],
+          "findings": []
         }
       ]
     },
@@ -2920,53 +3338,53 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
       "review": {
         "author": "Codex /root/sol_executor",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "b4974aed970970e7133d19140048ed0deb755b692b9d125268dd4bd37e139250",
+        "fingerprint": "9f6ad6b1604f3f7a5a7c38f9c5e7a861c22fb4555e2321e53a8a4ec6c617b7ad",
         "stages": {
-          "S1": "TB1:8+5path counters needed",
-          "S2": "TB1:count on with2/3amounts including0",
-          "S3": "TB2-7:hold start,next count word,three sets,zero,cross10,error checks",
-          "S4": "TB2-7/WB1,4:guided2+3,1+2+3,7+4,9+0+8,5+2 correction",
-          "S5": "TB8/WB2-4:Q1-Q6;TB9/WB5 S005 coached-example recall",
-          "S6": "TB10/WB7:recall next word/zero/check",
-          "S7": "TB10/WB6:2+1 helped then3+2 alone",
-          "S8": "TB11/WB7:same8+5=13 path counters conserved",
-          "S9": "TB12/WB8:new5+7/2+0+9/false6+3=8;TB14 delayed6+5/3+0+7/7+2"
+          "S1": "TB1: eight path counters plus five brought to toy garden.",
+          "S2": "TB1: count on two/three amounts including zero.",
+          "S3": "TB2-7: hold first number, next count for first added object, three sets/zero/cross ten and check errors.",
+          "S4": "TB2-7 / WB1,4-5: 2+3,1+2+3,5+0,7+4,9+0+8,correct5+2 claim.",
+          "S5": "TB8-9 / WB2-5: all six source tasks and S005 (15/17 methods, not fresh).",
+          "S6": "TB10 / WB7: recall next-after-start/zero/check before help.",
+          "S7": "TB10 / WB6: concrete 2+1 support, new 3+2 recheck and count-all verification.",
+          "S8": "TB11 / WB7: exact original 8+5 path has13; practice counters separate.",
+          "S9": "TB12 / WB8 / adult TB14: fresh 5+7,2+0+9,wrong6+3=8; delayed 6+5,3+0+7,wrong7+2=8."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-15/WB1-8; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-15/workbook1-8. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:7,6,8,18,12seeds,check14. Count-on first word follows held start. Models4+2=6,3+2+4=9,6+0=6,0+3=3,8+5=13,7+4=11,4+5+6=15,9+0+8=17. Errors13/6 corrected14/7. Fresh12/11/9; delayed11/10/9. Actual177dots/36groups; original13path counters conserved. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=7,6,8,18,12seeds,8+6=14. Models4+2=6,3+2+4=9,6+0=6,0+3=3,8+5=13,4+5+6=15,9+0+8=17; allcount-on words/diagrams checked. S00515/17 intentionally rehearsed; help2+1/recheck3+2. Fresh5+7=12,2+0+9=11,6+3=8false->9; delayed6+5=11,3+0+7=10,7+2=8false->9. Story13 originalpathcounters. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-15/WB1-8. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-15/workbook1-8 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11/WB7:same8+5=13 path counters conserved Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB11 / WB7: exact original 8+5 path has13; practice counters separate. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-15/WB1-8 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-15/workbook1-8 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB13-15 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "S005 repeats taught15/17 as method recall, not a second independent test. Fresh5+7/2+0+9/6+3claim and delayed checks use new prompts."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
         "findings": []
       },
@@ -3143,6 +3561,58 @@
           },
           "variations": [],
           "findings": []
+        },
+        {
+          "author": "Codex /root/sol_executor",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "b4974aed970970e7133d19140048ed0deb755b692b9d125268dd4bd37e139250",
+          "stages": {
+            "S1": "TB1:8+5path counters needed",
+            "S2": "TB1:count on with2/3amounts including0",
+            "S3": "TB2-7:hold start,next count word,three sets,zero,cross10,error checks",
+            "S4": "TB2-7/WB1,4:guided2+3,1+2+3,7+4,9+0+8,5+2 correction",
+            "S5": "TB8/WB2-4:Q1-Q6;TB9/WB5 S005 coached-example recall",
+            "S6": "TB10/WB7:recall next word/zero/check",
+            "S7": "TB10/WB6:2+1 helped then3+2 alone",
+            "S8": "TB11/WB7:same8+5=13 path counters conserved",
+            "S9": "TB12/WB8:new5+7/2+0+9/false6+3=8;TB14 delayed6+5/3+0+7/7+2"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-15/WB1-8; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:7,6,8,18,12seeds,check14. Count-on first word follows held start. Models4+2=6,3+2+4=9,6+0=6,0+3=3,8+5=13,7+4=11,4+5+6=15,9+0+8=17. Errors13/6 corrected14/7. Fresh12/11/9; delayed11/10/9. Actual177dots/36groups; original13path counters conserved. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-15/WB1-8. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11/WB7:same8+5=13 path counters conserved Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-15/WB1-8 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "S005 repeats taught15/17 as method recall, not a second independent test. Fresh5+7/2+0+9/6+3claim and delayed checks use new prompts."
+          ],
+          "findings": []
         }
       ]
     },
@@ -3153,52 +3623,54 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
       "review": {
         "author": "Codex /root",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "0aee0abbb6fbab8a16fa7ae1929b4f03b03fe072ceaa7c34471f369998fbd47b",
+        "fingerprint": "bb70422d3520284c3a14eb7b81958ab9c1cb9d4129a4717e19de2908831bf509",
         "stages": {
-          "S1": "TB1:22+11pencils for toy school",
-          "S2": "TB1:add tens/ones to40/check",
-          "S3": "TB2-8:bundle places,join/columns,23+14,zero,single-digit alignment,error check",
-          "S4": "TB2,4,6,8/WB1,5:14places,11+12,20+13,13+12 check",
-          "S5": "TB9/WB2-4:Q1-Q6 includingQ4 continuationWB3",
-          "S6": "TB10/WB6:recall places/addonesfirst/count-all check",
-          "S7": "TB10/WB6:10+2 helped then10+4 alone",
-          "S8": "TB11:same22+11=33pencils/practice strips separate",
-          "S9": "TB12/WB7:new24+13,20+20,false12+5=62;TB14 delayed13+16,20+10,false21+7=91"
+          "S1": "TB1: 22 class pencils plus 11 brought by Adamu for toy school.",
+          "S2": "TB1: add tens/ones with totals up to40 and check.",
+          "S3": "TB2-8: strip/bundle place models, horizontal/column addition, zero and single-digit place, error correction.",
+          "S4": "TB2,4,6,8 / WB1,5: build14,11+12,20+13 and correct13+12 claim with count-all.",
+          "S5": "TB9 / WB2-4: source Q1..6, all originals and complete local response diagrams.",
+          "S6": "TB10 / WB6: recall places, order of adding and count-all check before help.",
+          "S7": "TB10 / WB6: 10+2 model, independent10+4 recheck.",
+          "S8": "TB11 / WB4: original22+11=33pencils checked and packed.",
+          "S9": "TB12 / WB7 / adult TB14: fresh24+13,20+20,wrong12+5=62; delayed13+16,20+10,wrong21+7=91."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-15/WB1-7; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-15/workbook1-7. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Q1-Q6:25,37,40,19,33pencils,3t3o. Allmodels27/23/37/40/33/19; wrong24 corrected23or25. Fresh24+13=37,20+20=40,12+5=17not62; ones7/0/7below10. Delayed29/30/28not91. Actual225strips/35groups;22+11story=33. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=25,37,40,19,33pencils,20+13=33. Allbundles10strips/ones and alignedcolumns checked; models12+15=27,11+12=23,23+14=37,30+10=40,14+5=19; support10+2/recheck10+4. Fresh24+13=37,20+20=40,12+5=62false->17; delayed13+16=29/20+10=30/21+7=91false->28. Original22+11=33pencils conserved. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-15/WB1-7. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-15/workbook1-7 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11:same22+11=33pencils/practice strips separate Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB11 / WB4: original22+11=33pencils checked and packed. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-15/WB1-7 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-15/workbook1-7 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB13-15 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
-        "variations": [],
+        "variations": [
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
+        ],
         "findings": []
       },
       "format": "textbook-workbook",
@@ -3309,6 +3781,56 @@
           },
           "variations": [],
           "findings": []
+        },
+        {
+          "author": "Codex /root",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "0aee0abbb6fbab8a16fa7ae1929b4f03b03fe072ceaa7c34471f369998fbd47b",
+          "stages": {
+            "S1": "TB1:22+11pencils for toy school",
+            "S2": "TB1:add tens/ones to40/check",
+            "S3": "TB2-8:bundle places,join/columns,23+14,zero,single-digit alignment,error check",
+            "S4": "TB2,4,6,8/WB1,5:14places,11+12,20+13,13+12 check",
+            "S5": "TB9/WB2-4:Q1-Q6 includingQ4 continuationWB3",
+            "S6": "TB10/WB6:recall places/addonesfirst/count-all check",
+            "S7": "TB10/WB6:10+2 helped then10+4 alone",
+            "S8": "TB11:same22+11=33pencils/practice strips separate",
+            "S9": "TB12/WB7:new24+13,20+20,false12+5=62;TB14 delayed13+16,20+10,false21+7=91"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-15/WB1-7; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Q1-Q6:25,37,40,19,33pencils,3t3o. Allmodels27/23/37/40/33/19; wrong24 corrected23or25. Fresh24+13=37,20+20=40,12+5=17not62; ones7/0/7below10. Delayed29/30/28not91. Actual225strips/35groups;22+11story=33. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-15/WB1-7. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11:same22+11=33pencils/practice strips separate Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-15/WB1-7 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [],
+          "findings": []
         }
       ]
     },
@@ -3319,53 +3841,53 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
       "review": {
         "author": "Codex /root/chapter11_author",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "3b346e529b58b80a4b348d1842d6d3ea53d935bea9bc83ff4807378c0b4bd46d",
+        "fingerprint": "ed8990af623ca0cb50499a9b124cfa60168b1c58e0a05c092ace26fa13b3b422",
         "stages": {
-          "S1": "TB1:12chalk pieces/3needed at small board",
-          "S2": "TB1:takeaway/count remainder/addback",
-          "S3": "TB2-5,7:7-3,all4,backwards8-3,cross14-6,9-4 inverse;WB1 completed4-1 crossout",
-          "S4": "TB3,6/WB1:6-2 and12-5 with failed8+5=13check",
-          "S5": "TB8/WB2-4:all6source tasks,local7/9/15/18/12/13dot sets",
-          "S6": "TB9/WB5:recall take-away/first backward step/addback",
-          "S7": "TB9-10/WB5:3-1then5-2;11-2then11-3;TB12/WB8checking recheck6-3",
-          "S8": "TB11:same12chalk=9mat+3small-board tray",
-          "S9": "TB12/WB6-8:new8-5,9-6,15-7,17-8,false16-7=10;TB14 delayed7-4,16-8,13-4"
+          "S1": "TB1: 12chalk pieces,3 for small board, find mat remainder.",
+          "S2": "TB1: take away/count remains/check by adding back.",
+          "S3": "TB2-7: concrete subtraction, zero, backwards steps, crossing ten, inverse check.",
+          "S4": "TB3,6 / WB1: 6-2 and12-5 guided; crossed-dot action model precedes workbook crossing.",
+          "S5": "TB8 / WB2-4: six originals, starts<=18 and add-back checks.",
+          "S6": "TB9 / WB5: recall subtraction, first backward step and inverse before help.",
+          "S7": "TB9-10 / WB5: small3-1/recheck5-2; cross11-2/recheck11-3.",
+          "S8": "TB11: 9mat+3tray recover original12chalk, no piece disappears.",
+          "S9": "TB12 / WB6-8 / adult TB14: fresh8-5/9-6/15-7/17-8/claim16-7=10; checking recheck6-3; delayed7-4/16-8/13-4."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-15/WB1-8; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-15/workbook1-8. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "All25stableIDs/28subtraction-addback triples solved; Q1-Q6=5,0,11,9,9pieces,8+5=13. Models7-3=4,6-2=4,4-4=0,8-3=5,14-6=8,12-5=7,9-4=5,4-1=3. Help/recheck3-1=2/5-2=3,11-2=9/11-3=8. Fresh3/3/8/9;16-7=9not10; checking recheck6-3=3;delayed3/8/9. Actual273dots/34groups;alladdbacks restorestart;12chalk=9+3. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=5,0,11,9,9chalk,8+5=13. Everyremaining/removed diagram counted, backwardssteps/crossten/inversechecks solved;help3-1/recheck5-2/crosshelp11-2/recheck11-3. Fresh8-5=3,9-6=3,15-7=8,17-8=9,16-7=10false->9; checkingrecheck6-3; delayed7-4=3/16-8=8/13-4=9. Original12chalk=9mat+3tray. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-15/WB1-8. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-15/workbook1-8 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11:same12chalk=9mat+3small-board tray Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB11: 9mat+3tray recover original12chalk, no piece disappears. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-15/WB1-8 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-15/workbook1-8 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB13-15 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "Teaching-map repeated model/source proposals replaced by different fresh subtraction tasks; exact old PDF/source content preserved during this re-review. S007 is repaired only in current supplementary source and new chapter evidence."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
         "findings": []
       },
@@ -3434,6 +3956,58 @@
               "recheck": "After final freeze independently decoded all25answer strings: no U+00E2/replacement character;correct subtraction strings/28triples/page links match exact PDF. Pupil PDFs were already correct."
             }
           ]
+        },
+        {
+          "author": "Codex /root/chapter11_author",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "3b346e529b58b80a4b348d1842d6d3ea53d935bea9bc83ff4807378c0b4bd46d",
+          "stages": {
+            "S1": "TB1:12chalk pieces/3needed at small board",
+            "S2": "TB1:takeaway/count remainder/addback",
+            "S3": "TB2-5,7:7-3,all4,backwards8-3,cross14-6,9-4 inverse;WB1 completed4-1 crossout",
+            "S4": "TB3,6/WB1:6-2 and12-5 with failed8+5=13check",
+            "S5": "TB8/WB2-4:all6source tasks,local7/9/15/18/12/13dot sets",
+            "S6": "TB9/WB5:recall take-away/first backward step/addback",
+            "S7": "TB9-10/WB5:3-1then5-2;11-2then11-3;TB12/WB8checking recheck6-3",
+            "S8": "TB11:same12chalk=9mat+3small-board tray",
+            "S9": "TB12/WB6-8:new8-5,9-6,15-7,17-8,false16-7=10;TB14 delayed7-4,16-8,13-4"
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-15/WB1-8; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "All25stableIDs/28subtraction-addback triples solved; Q1-Q6=5,0,11,9,9pieces,8+5=13. Models7-3=4,6-2=4,4-4=0,8-3=5,14-6=8,12-5=7,9-4=5,4-1=3. Help/recheck3-1=2/5-2=3,11-2=9/11-3=8. Fresh3/3/8/9;16-7=9not10; checking recheck6-3=3;delayed3/8/9. Actual273dots/34groups;alladdbacks restorestart;12chalk=9+3. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-15/WB1-8. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mrs Binta leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: TB11:same12chalk=9mat+3small-board tray Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-15/WB1-8 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB13-15: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "Teaching-map repeated model/source proposals replaced by different fresh subtraction tasks; exact old PDF/source content preserved during this re-review. S007 is repaired only in current supplementary source and new chapter evidence."
+          ],
+          "findings": []
         }
       ]
     },
@@ -3444,93 +4018,55 @@
       "artifact": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
       "review": {
         "author": "Codex /root/chapter12_author",
-        "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
         "reviewed_on": "2026-11-14",
         "status": "approved",
-        "fingerprint": "7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba",
+        "fingerprint": "3595bfd9ac82b49bba361e6cf8ee8126d4110d8daf8d22fa993fcb9dc9eb25b9",
         "stages": {
-          "S1": "Textbook p1: 7 toy-school tops, 3 visible and the rest hidden in a bag; four children need the missing part.",
-          "S2": "Textbook p1: find missing numbers and check answers.",
-          "S3": "Textbook pp2-11: equality/blank meaning, second and first missing addends, removed amount, reconstructed start, reversed equality, substitution, one-set related family and everyday checking.",
-          "S4": "Textbook pp3-11: teacher and named pupils guide each missing position, substitute a candidate, relate the same counters, reject wrong claims and confirm correct ones.",
-          "S5": "Textbook pp12-16 / Workbook pp1-5: original Q1-Q6, S006/S007 story cards and 4/5/9 related family; ordinary exercise-book route also explicit.",
-          "S6": "Textbook p16: recall blank, equality and missing-start reconstruction BEFORE help; textbook p23 reinforces recall before story ending.",
-          "S7": "Textbook pp17-22 / Workbook pp6-11: six objective-specific smaller examples followed by new independent rechecks; unknown start rebuilt and both original sentences checked.",
-          "S8": "Textbook p23: bag opens, 4 hidden plus 3 visible makes original 7; all stock reaches the toy school.",
-          "S9": "Textbook pp24-26 / Workbook pp12-14: six fresh tasks (7;9;7/7;2;7;6/6); delayed six-objective prompts and answers Textbook pp38-39."
+          "S1": "TB1: seven tops total,three visible,hidden bag remainder.",
+          "S2": "TB1: find missing numbers and check.",
+          "S3": "TB2-11: blank/equality,unknown addends/removed/start/reversed equality/substitution/families/everyday claims.",
+          "S4": "TB3-11: each model has a child-led guided turn using a distinct fact.",
+          "S5": "TB12-16 / WB1-5: Q1..6,S006/S007 and independent related-family task.",
+          "S6": "TB16,23 / WB5: explain blank/rebuild unknown start/substitute before help.",
+          "S7": "TB17-22 / WB6-11: six objective-specific help/new independent recheck sequences.",
+          "S8": "TB23: open bag fourhidden+threevisible=seven; original stock preserved.",
+          "S9": "TB24-26 / WB12-14 / adult TB38-39: six fresh objective checks and six delayed checks on new facts."
         },
         "checks": {
           "pedagogy": {
             "result": "pass",
-            "evidence": "Fresh independent examination of TB1-40/WB1-14; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-40/workbook1-14. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified."
           },
           "mathematics": {
             "result": "pass",
-            "evidence": "Every53task record independently solved; all86true equations checked. Q1-Q6=4,5,5removed,8start,4,substitute5. S0064+3=7not8;S0079-4=5not6,5+4=9. Models distinguish both addends,removed amount,start and reversed equality; substitution rejects bad candidates. Same-set families2/5/7,3/4/7,4/5/9,1/2/3,2/4/6,1/6/7,3/5/8 verified. Fresh7;9;7and7;2;7;6and6. Actual69dots/22groups. Full task solutions/page IDs in recovery-ch12-task-solutions.json. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Q1..6=4,5,5,8,4,5;S0064+3=7not8;S0079-4=5not6. Everyunknown-addend/removed/start/reversed-equality/substitution/family/everyday model/guided/support/newrecheck/fresh/delayed task solved; full independent working in reviewer-progress.md. Fresh A7,B9,C7/7,D2,E7,F6/6; delayed A4,B8,C3/8,D7,E5,F5/5. Story4hidden+3visible=7 conserved. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
           },
           "instructions": {
             "result": "pass",
-            "evidence": "Read every task in TB1-40/WB1-14. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-40/workbook1-14 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
           },
           "consistency": {
             "result": "pass",
-            "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mr Aliyu leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
           },
           "logic": {
             "result": "pass",
-            "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: Textbook p23: bag opens, 4 hidden plus 3 visible makes original 7; all stock reaches the toy school. Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. TB23: open bag fourhidden+threevisible=seven; original stock preserved. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
           },
           "layout": {
             "result": "pass",
-            "evidence": "Personally opened every individual page TB1-40/WB1-14 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-40/workbook1-14 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
           },
           "teacher_support": {
             "result": "pass",
-            "evidence": "Read all adult pages TB27-40: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB27-40 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending."
           }
         },
         "variations": [
-          "Teaching-map numeric proposals that repeated models/source tasks varied while retaining all six objectives and original sources. Fresh C unknown-start7-4=3 transfers a familiar part-whole relationship to a different unknown position; no blanket claim that all numerical triples are unique.",
-          "Related-family checks use one maintained whole/its two parts. S006 is an independent everyday-error task; its arithmetic overlaps earlier4/3/7 substitution and is not double-counted as a fresh calculation.",
-          "Six small-step pages and extensive adult answer map are deliberate; teach in short sessions rather than treating page count as session count."
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion."
         ],
-        "findings": [
-          {
-            "severity": "required",
-            "reference": "Draft TB24-26/WB12-14, B/C/D/E-FRESH",
-            "correction": "Use distinct fresh statements rather than the earlier exact fact; preserve appropriate unknown-position transfer.",
-            "resolved": true,
-            "recheck": "Final TB24-26/WB12-14 and adultTB37-38 individually reread:6+3=9;9-7=2 with reconstructed7-4=3;8-6=2;8=7+1. All source tasks retained."
-          },
-          {
-            "severity": "required",
-            "reference": "Draft TB16-23/WB5-11, recall placement",
-            "correction": "Put explicit recall before targeted help, retaining the later story recall.",
-            "resolved": true,
-            "recheck": "Final TB16 now asks blank/equality/unknown-start recall before TB17/WB6 help. TB23 recall retained; WB5 has the independent family response space."
-          },
-          {
-            "severity": "required",
-            "reference": "Draft TB12-22,24-26 response cues",
-            "correction": "Make workbook routes explicit alongside ordinary exercise-book directions.",
-            "resolved": true,
-            "recheck": "Final independent/fresh subtitles and each support-page route explicitly allow workbook. WBspaces/localneededstimuli checked."
-          },
-          {
-            "severity": "required",
-            "reference": "Draft TB10-11/TB32 everyday checking",
-            "correction": "Demonstrate that checking can confirm correct claims as well as reject wrong ones.",
-            "resolved": true,
-            "recheck": "Final guidedaddition3+2claim5 and subtraction8-3claim5 are correct and enacted with counters/addback; wrongmodel and S006/S007 claims retained."
-          },
-          {
-            "severity": "required",
-            "reference": "Draft task-coverage/objective-matrix delayed pages",
-            "correction": "Populate exact delayed task page references.",
-            "resolved": true,
-            "recheck": "All six delayed tasks now map to adultTB38-39; personallyread actualprompts/answers and checked their page tags."
-          }
-        ]
+        "findings": []
       },
       "format": "textbook-workbook",
       "edition": "p1-missing-part-pair-v1",
@@ -3566,24 +4102,205 @@
           40
         ],
         "workbook": []
-      }
+      },
+      "review_history": [
+        {
+          "author": "Codex /root/chapter12_author",
+          "reviewer": "Codex /root/chapter12_recovery_review (independent recovery session)",
+          "reviewed_on": "2026-11-14",
+          "status": "approved",
+          "fingerprint": "7e930ade5357d6d4207aebe95d6b74353ff5700b34fd292c6a52cebbe1bb9cba",
+          "stages": {
+            "S1": "Textbook p1: 7 toy-school tops, 3 visible and the rest hidden in a bag; four children need the missing part.",
+            "S2": "Textbook p1: find missing numbers and check answers.",
+            "S3": "Textbook pp2-11: equality/blank meaning, second and first missing addends, removed amount, reconstructed start, reversed equality, substitution, one-set related family and everyday checking.",
+            "S4": "Textbook pp3-11: teacher and named pupils guide each missing position, substitute a candidate, relate the same counters, reject wrong claims and confirm correct ones.",
+            "S5": "Textbook pp12-16 / Workbook pp1-5: original Q1-Q6, S006/S007 story cards and 4/5/9 related family; ordinary exercise-book route also explicit.",
+            "S6": "Textbook p16: recall blank, equality and missing-start reconstruction BEFORE help; textbook p23 reinforces recall before story ending.",
+            "S7": "Textbook pp17-22 / Workbook pp6-11: six objective-specific smaller examples followed by new independent rechecks; unknown start rebuilt and both original sentences checked.",
+            "S8": "Textbook p23: bag opens, 4 hidden plus 3 visible makes original 7; all stock reaches the toy school.",
+            "S9": "Textbook pp24-26 / Workbook pp12-14: six fresh tasks (7;9;7/7;2;7;6/6); delayed six-objective prompts and answers Textbook pp38-39."
+          },
+          "checks": {
+            "pedagogy": {
+              "result": "pass",
+              "evidence": "Fresh independent examination of TB1-40/WB1-14; S1-S9 are enacted at the exact stage pages below. Read/solved all models, guided tasks, independence, recall, help/new recheck, fresh and delayed checks. See output/chapter-12/REVIEW.md and recovery-progress.md."
+            },
+            "mathematics": {
+              "result": "pass",
+              "evidence": "Every53task record independently solved; all86true equations checked. Q1-Q6=4,5,5removed,8start,4,substitute5. S0064+3=7not8;S0079-4=5not6,5+4=9. Models distinguish both addends,removed amount,start and reversed equality; substitution rejects bad candidates. Same-set families2/5/7,3/4/7,4/5/9,1/2/3,2/4/6,1/6/7,3/5/8 verified. Fresh7;9;7and7;2;7;6and6. Actual69dots/22groups. Full task solutions/page IDs in recovery-ch12-task-solutions.json. Actual source/task/page correspondence: output/chapter-12/recovery-current-task-coverage.json; current-session independent working: recovery-progress.md and REVIEW.md."
+            },
+            "instructions": {
+              "result": "pass",
+              "evidence": "Read every task in TB1-40/WB1-14. Beginner actions/prerequisites, completed unfamiliar-action models, unnumbered pupil tasks, explicit workbook or ordinary exercise-book response locations, adequate writing/drawing spaces, local needed exact diagrams and oral/practical alternatives verified."
+            },
+            "consistency": {
+              "result": "pass",
+              "evidence": "Mr Aliyu in native dress/cap leads. Personally inspected classroom opening: teacher at large blackboard, four children seated facing teacher and legible topic hint. Mustard hijab/teal dress,blue shirt/clay shorts,clay top/green skirt/cornrows,green shirt/ochre trousers/blue wheelchair/smooth scalp consistent; all four meaningful/reachable roles."
+            },
+            "logic": {
+              "result": "pass",
+              "evidence": "Opening purpose, inventory, dialogue, activities and actual resolution agree: Textbook p23: bag opens, 4 hidden plus 3 visible makes original 7; all stock reaches the toy school. Every task is answerable, with deterministic assessed objects. New chapter bag hidden until resolution; Amina/Musa explicitly story-card names, not unexplained replacements."
+            },
+            "layout": {
+              "result": "pass",
+              "evidence": "Personally opened every individual page TB1-40/WB1-14 at readable resolution in this session; all54 frozen chapter12 pages opened in this recovery session, then verified against frozen hashes. No contact-sheet substitution. White A4/full colour, readable board, adequate response space, no clipping/overlap. All274savedpages pixel-identical to freshly rendered22PDFs; outside text0. output/chapter-12/recovery-final-pdf-checks.json."
+            },
+            "teacher_support": {
+              "result": "pass",
+              "evidence": "Read all adult pages TB27-40: complete task/example/answer correspondence, alternatives, misconceptions, concrete help/new recheck, delayed recall, glossary,historical mapping,credits,Primary2preview. Current curriculum/adoption,local trials/accessibility,physicalproof/printerapproval and annualassembly correctly pending."
+            }
+          },
+          "variations": [
+            "Teaching-map numeric proposals that repeated models/source tasks varied while retaining all six objectives and original sources. Fresh C unknown-start7-4=3 transfers a familiar part-whole relationship to a different unknown position; no blanket claim that all numerical triples are unique.",
+            "Related-family checks use one maintained whole/its two parts. S006 is an independent everyday-error task; its arithmetic overlaps earlier4/3/7 substitution and is not double-counted as a fresh calculation.",
+            "Six small-step pages and extensive adult answer map are deliberate; teach in short sessions rather than treating page count as session count."
+          ],
+          "findings": [
+            {
+              "severity": "required",
+              "reference": "Draft TB24-26/WB12-14, B/C/D/E-FRESH",
+              "correction": "Use distinct fresh statements rather than the earlier exact fact; preserve appropriate unknown-position transfer.",
+              "resolved": true,
+              "recheck": "Final TB24-26/WB12-14 and adultTB37-38 individually reread:6+3=9;9-7=2 with reconstructed7-4=3;8-6=2;8=7+1. All source tasks retained."
+            },
+            {
+              "severity": "required",
+              "reference": "Draft TB16-23/WB5-11, recall placement",
+              "correction": "Put explicit recall before targeted help, retaining the later story recall.",
+              "resolved": true,
+              "recheck": "Final TB16 now asks blank/equality/unknown-start recall before TB17/WB6 help. TB23 recall retained; WB5 has the independent family response space."
+            },
+            {
+              "severity": "required",
+              "reference": "Draft TB12-22,24-26 response cues",
+              "correction": "Make workbook routes explicit alongside ordinary exercise-book directions.",
+              "resolved": true,
+              "recheck": "Final independent/fresh subtitles and each support-page route explicitly allow workbook. WBspaces/localneededstimuli checked."
+            },
+            {
+              "severity": "required",
+              "reference": "Draft TB10-11/TB32 everyday checking",
+              "correction": "Demonstrate that checking can confirm correct claims as well as reject wrong ones.",
+              "resolved": true,
+              "recheck": "Final guidedaddition3+2claim5 and subtraction8-3claim5 are correct and enacted with counters/addback; wrongmodel and S006/S007 claims retained."
+            },
+            {
+              "severity": "required",
+              "reference": "Draft task-coverage/objective-matrix delayed pages",
+              "correction": "Populate exact delayed task page references.",
+              "resolved": true,
+              "recheck": "All six delayed tasks now map to adultTB38-39; personallyread actualprompts/answers and checked their page tags."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "P1-13",
       "canonical": "production/p1.json",
       "teacher_id": "ms-binta",
-      "artifact": null,
+      "artifact": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
       "review": {
-        "status": "pending",
-        "author": null,
-        "reviewer": null,
-        "reviewed_on": null,
-        "fingerprint": null,
-        "stages": {},
-        "checks": {},
-        "variations": [],
-        "findings": []
-      }
+        "author": "Codex /root/chapter13_author",
+        "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+        "reviewed_on": "2026-11-14",
+        "status": "approved",
+        "fingerprint": "6e218bbf21bd03b50298d4ee9a62e136d19c04312ac0fbea1148da965035f449",
+        "stages": {
+          "S1": "Textbook1: Mrs Binta leads four seated pupils at large blackboard; one map ticket costs6k, payment10k creates change problem.",
+          "S2": "Textbook1: read money values, make totals, find change; genuine rubbing conditional on available verified resources.",
+          "S3": "Textbook2-6: units/value/card count and completed token drawing, genuine recognition and brown/white rubbing models,10k+5k total and10k-6k change with count-on/addition check.",
+          "S4": "Textbook3-6: Adamu/Grace point/match real examples, Aishatu/Grace rub paper, John challenges three-card3k error, Grace/Aishatu find8k-5k change.",
+          "S5": "Textbook3-4 and7-9 / workbook1-5: genuine practical independence plus all six original tasks with local prompts/cards and explicit ordinary-exercise-book route.",
+          "S6": "Textbook10: recall genuine/pretend distinction, total, change/check and rubbing before help.",
+          "S7": "Textbook11-14: two different genuine values/reordered independent naming; supported rub/new sheets;1k+1k then5k+1k;5k-3k then6k-4k.",
+          "S8": "Textbook15: one ticket moves to John, shopstock zero;10k payment resolves6k retained plus4k returned; all four pupils contribute.",
+          "S9": "Textbook16 / workbook6-7: fresh20k in two ways,9k-6k change, reordered genuine naming/pretend-card distinction, fresh brown/white rubbing; delayed four-objective checks textbook18."
+        },
+        "checks": {
+          "pedagogy": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally read/solved every task/example and inspected every page of textbook1-27/workbook1-7. S1-S9 enacted on exact pages in this record; concrete prerequisites/models/guided turns before independence, recall before help, new rechecks and fresh/delayed checks verified. Allfour moneyobjectives have actual model/guided/independent/help/newrecheck/fresh/delayed instructions, not metadata-only presence."
+          },
+          "mathematics": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All35 tasks/29equations independently solved and all24actualPDF vector cards/labels checked. SourceQ1..6=10k,25k,3k,3k,outline10k,different token values. Model5+5=10,10+5=15,guided5+5+1=11;change10-6=4 and8-5=3. Help1+1=2/recheck5+1=6;change5-3=2/recheck6-4=2;alladdbackchecks valid. Fresh20=10+10=10+5+5=5+5+5+5(anytwo);9-6=3/check6+3=9; delayed25=10+10+5 and9-5=4. Totals<=25k/payments<=10k. Genuinecriteria match dated verified checklist; twoactualsurface rubbings throughbrownANDwhitepaper,verifiedvalue,intactmaterials; unavailable means notassessed. No predetermined genuinevalues or inventedcoins. Every task/example/diagram/answer and valid alternative checked; detailed working in reviewer-progress.md and task/page ledger."
+          },
+          "instructions": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Every instruction in textbook1-27/workbook1-7 read as a beginner; unfamiliar actions modelled first, referents and response locations clear, unnumbered pupil tasks. Local exact workbook stimuli and ample response spaces; textbook usable with ordinary exercise book. Oral/pointing/practical/adapted response routes checked."
+          },
+          "consistency": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Mrs Binta leads correctly. Personally inspected chapter opening: lead teacher at large blackboard,four seated children facing teacher,clear highcontrast topic hint. Clothes/hair/blue manualwheelchair/smoothscalp match registry; allfour meaningfulreachable roles and preferences affect actions; success/error/help rotate."
+          },
+          "logic": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Textbook15: one ticket moves to John, shopstock zero;10k payment resolves6k retained plus4k returned; all four pupils contribute. Opening problem/dialogue/inventory and closing practical action agree. Separate practice stocks identified. All tasks answerable; decorative artwork does not determine assessed quantities."
+          },
+          "layout": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. Personally opened every individual rendered page textbook1-27/workbook1-7 at readable685x969 size in this session. Across13chapters,308unique pages/24PDFs inspected. Prior274pixelmatch fresh22PDFs; new34pixelmatch exactfrozen pair and all33unchangedpages match ownfirstfreeze hashes; changedTB16 reopened. WhiteA4/fullcolour,readableboard/text,no clipping/overlap,adequate writing/drawing spaces."
+          },
+          "teacher_support": {
+            "result": "pass",
+            "evidence": "Fresh independent session /root/chapter13_review,14November2026. Evidence: output/chapter-13/REVIEW.md,reviewer-progress.md,reviewer-prior-task-coverage.json,reviewer-prior-render-checks.json; for13 reviewer-final-checks.json. All adult pages TB17-27 read: complete source/model/guided/task/support/recheck/fresh/delayed answer map, validalternatives, misconceptions, concrete intervention, glossary,historical mapping,credits andPrimary2preview. Currentalignment/adoption/localeducator/pupil/accessibility/printproof/printer approval and annualassembly honestly pending. Resourcechecklist, date/exactresponse/assistance fields, matchingvalue/actualsurface rubbings/intactmaterials rubric and notassessed outcome checked; no classroom results invented."
+          }
+        },
+        "variations": [
+          "Provisional continuation/opening extract under historical baseline; this approval covers editorial content and exact paired artifacts, not current curriculum/adoption, pupil outcomes, physicalproof or annual-volume completion.",
+          "Recognition and rubbing are conditional practical opportunities using genuineverified resources. Naming uses at leasttwo differentdenominations/datedchecklist; rubbing uses genuinecoin andbrownANDwhitepaper. Notassessed if absent; pretend arithmetic/token drawing never establishes genuine skills."
+        ],
+        "findings": [
+          {
+            "severity": "required",
+            "reference": "First draft textbook5/6/12 and missing Q5/Q6 route; final textbook7-9,16 / workbook3-6",
+            "correction": "Provide local independent source/fresh prompts and value-card stimuli in the reusable textbook, with an ordinary-exercise-book route.",
+            "resolved": true,
+            "recheck": "Personally reopened finalTB5-9,15-16 and WB3-6: all six original prompts and fresh20k/change tasks are locally answerable; response locations explicit; closure proceeds directly to fresh checks."
+          },
+          {
+            "severity": "required",
+            "reference": "First draft textbook2 token drawing prerequisite; final textbook2,9 / workbook5",
+            "correction": "Give a completed token-outline model and explicit drawing/label action before independent Q5; retain distinction from genuine rubbing.",
+            "resolved": true,
+            "recheck": "FinalTB2 completed rectangular10kcard explicitly models drawing rectangle and writing10k inside. TB9/WB5 require independent outline/label and state this is not genuine rubbing."
+          },
+          {
+            "severity": "required",
+            "reference": "First draft genuine preparation textbook3/13/help8; final textbook3,11,17",
+            "correction": "Require at least two DIFFERENT verified denominations and a dated source/value checklist; different-value supported matching then independently reordered naming.",
+            "resolved": true,
+            "recheck": "FinalTB3/17 require two different genuinecoin/verifiedofficialimage denominations, source/date/value record and notassessed if absent. TB11 help/recheck names different values, removes labels and reverses order."
+          },
+          {
+            "severity": "required",
+            "reference": "First draft textbook10-11 arithmetic-help boilerplate; final textbook13-14",
+            "correction": "Remove genuine-resource/not-assessed boilerplate from unconditional pretend-arithmetic support; retain clear new recheck sequence.",
+            "resolved": true,
+            "recheck": "FinalTB13-14 contain unconditional totals/change support and fresh rechecks, ordinary-paper route, no irrelevant genuinecoin restriction."
+          },
+          {
+            "severity": "required",
+            "reference": "First frozen textbook16 S008 ordinary-exercise-book fresh recognition; source S008 and workbook7",
+            "correction": "Explicitly ask pupils to distinguish a genuine example from a pretend card in the standalone fresh textbook prompt without returning to models.",
+            "resolved": true,
+            "recheck": "After root-confirmed newfreeze6e218bbf..., personally reopened changedTB16. It now says Point to a pretend card and say how it differs. Independent naming, fresh brown/white rubbing, no teaching prompts and not-assessed condition remain readable. Other33PNGshashes unchanged; all34pixelmatch currentPDFs."
+          }
+        ]
+      },
+      "format": "textbook-workbook",
+      "edition": "Primary 1 revised chapter 13 continuation extract",
+      "artifacts": {
+        "textbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+        "workbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf"
+      },
+      "page_ranges": {
+        "textbook": "1-27",
+        "workbook": "1-7"
+      },
+      "shared_pages": []
     },
     {
       "id": "P1-14",

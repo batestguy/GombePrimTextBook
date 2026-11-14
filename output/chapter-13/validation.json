@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "textbook": 27,
+    "workbook": 7
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf"
+  },
+  "tasks": 35,
+  "equations": 29,
+  "diagrams": 11,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 source prompt/answer pairs preserved;18 other lessons exact",
+    "159 baseline protected hashes preserved",
+    "all supplements unchanged",
+    "all equations recalculated;payments<=10k;card totals<=25k",
+    "four objectives have seven progression modes",
+    "actual vector cards and labels,A4,embedded fonts,text bounds;all pages rendered"
+  ]
+}

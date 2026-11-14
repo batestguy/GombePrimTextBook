@@ -6,22 +6,22 @@ The board carries a short, clearly typeset hint of the topic. Alternate Mrs Bint
 and Mr Aliyu; other story settings follow the opening. Apply this to each of the
 remaining units as it is developed; legacy drafts are not approved redesigned chapters.
 
-Implementation checkpoint, 14 November 2026: Chapters 1-12 have independently
-approved exact textbook/workbook pairs. Chapter 12, Find a missing part, has a
-40-page textbook and 14-page workbook, led by Mr Aliyu. A distinct recovery
-reviewer freshly inspected all 274 unique affected pages across 22 PDFs and
-independently solved every task, diagram, example and answer. Five draft
-refinements are resolved; no required finding remains. All twelve strict chapter
-gates, coordinator preservation checks and preflight passed. See
-[the latest review](../output/chapter-12/REVIEW.md) and
-[the session checkpoint](SESSION-HANDOFF.md). Seven existing units, annual
-revision/assessment, the final four offline-AI pupil pages and full-year assembly
-remain. These extracts do not complete this annual plan. Next is P1-13, Money,
-led by Mrs Binta. All earlier reviewed PDFs, original prompts/answers and protected
-inputs are preserved; all 21 historical generated files were restored exactly.
-S007's missing subtraction operator is the sole supplementary-source repair.
-Current curriculum/adoption, local trials and physical print/printer approval
-remain pending.
+Implementation checkpoint, 14 November 2026: Chapters 1-13 have independently
+approved exact textbook/workbook pairs. Chapter 13, Pretend coins and change,
+has a 27-page textbook and 7-page workbook, led by Mrs Binta. A distinct reviewer
+freshly inspected all 308 unique affected pages across 24 PDFs and independently
+solved every task, diagram, example and answer. Required draft instruction/resource
+refinements are resolved; no required finding remains. All thirteen strict gates,
+coordinator preservation/math/vector checks and preflight passed. See
+[the latest review](../output/chapter-13/REVIEW.md) and
+[the session checkpoint](SESSION-HANDOFF.md). Genuine denomination recognition
+and actual brown/white-paper coin rubbings remain resource-conditional;
+pretend arithmetic/token drawing does not establish these skills. Six existing
+units, annual revision/assessment, final four offline-AI pupil pages and full-year
+assembly remain. Next is P1-14, Length, led by Mr Aliyu. All 114 original prompts/answers,
+18 other lessons, 22 earlier PDFs, 159 protected hashes, all supplements and 21 exact
+historical generated backups are preserved. Current curriculum/adoption,
+local trials and physical print/printer approval remain pending.
 
 Working decision recorded **20 October 2026**. User direction: document the
 research and completion work, use the best available approximation because

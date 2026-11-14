@@ -1,0 +1,147 @@
+[
+  {
+    "id": "VALUE-ONE",
+    "values": [
+      10
+    ],
+    "count": 1,
+    "top": 358,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "VALUE-TWO",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 495,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TOTAL-MODEL",
+    "values": [
+      10,
+      5
+    ],
+    "count": 2,
+    "top": 310,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TOTAL-GUIDED",
+    "values": [
+      5,
+      5,
+      1
+    ],
+    "count": 3,
+    "top": 535,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TOTAL-RECHECK",
+    "values": [
+      5,
+      1
+    ],
+    "count": 2,
+    "top": 530,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "Q1-CARDS",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 265,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "Q2-CARDS",
+    "values": [
+      10,
+      10,
+      5
+    ],
+    "count": 3,
+    "top": 525,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "FRESH-CARDS",
+    "values": [
+      5,
+      10
+    ],
+    "count": 2,
+    "top": 280,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TB-Q1",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 300,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TB-Q2",
+    "values": [
+      10,
+      10,
+      5
+    ],
+    "count": 3,
+    "top": 490,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  },
+  {
+    "id": "TB-FRESH",
+    "values": [
+      5,
+      10
+    ],
+    "count": 2,
+    "top": 320,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65
+  }
+]

@@ -1,0 +1,461 @@
+{
+  "task_count": 35,
+  "equations": [
+    {
+      "task": "P1-13-VALUE-MODEL",
+      "equation": "5+5=10",
+      "value": 10
+    },
+    {
+      "task": "P1-13-TOTAL-MODEL",
+      "equation": "10+5=15",
+      "value": 15
+    },
+    {
+      "task": "P1-13-TOTAL-GUIDED",
+      "equation": "5+5+1=11",
+      "value": 11
+    },
+    {
+      "task": "P1-13-CHANGE-MODEL",
+      "equation": "10-6=4",
+      "value": 4
+    },
+    {
+      "task": "P1-13-CHANGE-MODEL",
+      "equation": "6+4=10",
+      "value": 10
+    },
+    {
+      "task": "P1-13-CHANGE-GUIDED",
+      "equation": "8-5=3",
+      "value": 3
+    },
+    {
+      "task": "P1-13-CHANGE-GUIDED",
+      "equation": "5+3=8",
+      "value": 8
+    },
+    {
+      "task": "P1-13-TOTAL-HELP",
+      "equation": "1+1=2",
+      "value": 2
+    },
+    {
+      "task": "P1-13-TOTAL-RECHECK",
+      "equation": "5+1=6",
+      "value": 6
+    },
+    {
+      "task": "P1-13-CHANGE-HELP",
+      "equation": "5-3=2",
+      "value": 2
+    },
+    {
+      "task": "P1-13-CHANGE-HELP",
+      "equation": "3+2=5",
+      "value": 5
+    },
+    {
+      "task": "P1-13-CHANGE-RECHECK",
+      "equation": "6-4=2",
+      "value": 2
+    },
+    {
+      "task": "P1-13-CHANGE-RECHECK",
+      "equation": "4+2=6",
+      "value": 6
+    },
+    {
+      "task": "P1-13-STORY",
+      "equation": "10-6=4",
+      "value": 4
+    },
+    {
+      "task": "P1-13-STORY",
+      "equation": "6+4=10",
+      "value": 10
+    },
+    {
+      "task": "P1-13-Q1",
+      "equation": "5+5=10",
+      "value": 10
+    },
+    {
+      "task": "P1-13-Q2",
+      "equation": "10+10+5=25",
+      "value": 25
+    },
+    {
+      "task": "P1-13-Q3",
+      "equation": "10-7=3",
+      "value": 3
+    },
+    {
+      "task": "P1-13-Q3",
+      "equation": "7+3=10",
+      "value": 10
+    },
+    {
+      "task": "P1-13-Q4",
+      "equation": "5-2=3",
+      "value": 3
+    },
+    {
+      "task": "P1-13-Q4",
+      "equation": "2+3=5",
+      "value": 5
+    },
+    {
+      "task": "P1-13-TOTAL-FRESH",
+      "equation": "10+10=20",
+      "value": 20
+    },
+    {
+      "task": "P1-13-TOTAL-FRESH",
+      "equation": "10+5+5=20",
+      "value": 20
+    },
+    {
+      "task": "P1-13-TOTAL-FRESH",
+      "equation": "5+5+5+5=20",
+      "value": 20
+    },
+    {
+      "task": "P1-13-CHANGE-FRESH",
+      "equation": "9-6=3",
+      "value": 3
+    },
+    {
+      "task": "P1-13-CHANGE-FRESH",
+      "equation": "6+3=9",
+      "value": 9
+    },
+    {
+      "task": "P1-13-TOTAL-DELAYED",
+      "equation": "10+10+5=25",
+      "value": 25
+    },
+    {
+      "task": "P1-13-CHANGE-DELAYED",
+      "equation": "9-5=4",
+      "value": 4
+    },
+    {
+      "task": "P1-13-CHANGE-DELAYED",
+      "equation": "5+4=9",
+      "value": 9
+    }
+  ],
+  "objective_count": 4,
+  "diagram_count": 11,
+  "actual_pdf_cards": [
+    {
+      "diagram": "VALUE-ONE",
+      "role": "textbook",
+      "page": 2,
+      "value": 10,
+      "rect": [
+        48.0,
+        358.0,
+        131.0,
+        423.0
+      ]
+    },
+    {
+      "diagram": "VALUE-TWO",
+      "role": "textbook",
+      "page": 2,
+      "value": 5,
+      "rect": [
+        48.0,
+        495.0,
+        131.0,
+        560.0
+      ]
+    },
+    {
+      "diagram": "VALUE-TWO",
+      "role": "textbook",
+      "page": 2,
+      "value": 5,
+      "rect": [
+        144.0,
+        495.0,
+        227.0,
+        560.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-MODEL",
+      "role": "textbook",
+      "page": 5,
+      "value": 10,
+      "rect": [
+        48.0,
+        310.0,
+        131.0,
+        375.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-MODEL",
+      "role": "textbook",
+      "page": 5,
+      "value": 5,
+      "rect": [
+        144.0,
+        310.0,
+        227.0,
+        375.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-GUIDED",
+      "role": "textbook",
+      "page": 5,
+      "value": 5,
+      "rect": [
+        48.0,
+        535.0,
+        131.0,
+        600.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-GUIDED",
+      "role": "textbook",
+      "page": 5,
+      "value": 5,
+      "rect": [
+        144.0,
+        535.0,
+        227.0,
+        600.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-GUIDED",
+      "role": "textbook",
+      "page": 5,
+      "value": 1,
+      "rect": [
+        240.0,
+        535.0,
+        323.0,
+        600.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-RECHECK",
+      "role": "textbook",
+      "page": 13,
+      "value": 5,
+      "rect": [
+        48.0,
+        530.0,
+        131.0,
+        595.0
+      ]
+    },
+    {
+      "diagram": "TOTAL-RECHECK",
+      "role": "textbook",
+      "page": 13,
+      "value": 1,
+      "rect": [
+        144.0,
+        530.0,
+        227.0,
+        595.0
+      ]
+    },
+    {
+      "diagram": "Q1-CARDS",
+      "role": "workbook",
+      "page": 3,
+      "value": 5,
+      "rect": [
+        48.0,
+        265.0,
+        131.0,
+        330.0
+      ]
+    },
+    {
+      "diagram": "Q1-CARDS",
+      "role": "workbook",
+      "page": 3,
+      "value": 5,
+      "rect": [
+        144.0,
+        265.0,
+        227.0,
+        330.0
+      ]
+    },
+    {
+      "diagram": "Q2-CARDS",
+      "role": "workbook",
+      "page": 3,
+      "value": 10,
+      "rect": [
+        48.0,
+        525.0,
+        131.0,
+        590.0
+      ]
+    },
+    {
+      "diagram": "Q2-CARDS",
+      "role": "workbook",
+      "page": 3,
+      "value": 10,
+      "rect": [
+        144.0,
+        525.0,
+        227.0,
+        590.0
+      ]
+    },
+    {
+      "diagram": "Q2-CARDS",
+      "role": "workbook",
+      "page": 3,
+      "value": 5,
+      "rect": [
+        240.0,
+        525.0,
+        323.0,
+        590.0
+      ]
+    },
+    {
+      "diagram": "FRESH-CARDS",
+      "role": "workbook",
+      "page": 6,
+      "value": 5,
+      "rect": [
+        48.0,
+        280.0,
+        131.0,
+        345.0
+      ]
+    },
+    {
+      "diagram": "FRESH-CARDS",
+      "role": "workbook",
+      "page": 6,
+      "value": 10,
+      "rect": [
+        144.0,
+        280.0,
+        227.0,
+        345.0
+      ]
+    },
+    {
+      "diagram": "TB-Q1",
+      "role": "textbook",
+      "page": 7,
+      "value": 5,
+      "rect": [
+        48.0,
+        300.0,
+        131.0,
+        365.0
+      ]
+    },
+    {
+      "diagram": "TB-Q1",
+      "role": "textbook",
+      "page": 7,
+      "value": 5,
+      "rect": [
+        144.0,
+        300.0,
+        227.0,
+        365.0
+      ]
+    },
+    {
+      "diagram": "TB-Q2",
+      "role": "textbook",
+      "page": 7,
+      "value": 10,
+      "rect": [
+        48.0,
+        490.0,
+        131.0,
+        555.0
+      ]
+    },
+    {
+      "diagram": "TB-Q2",
+      "role": "textbook",
+      "page": 7,
+      "value": 10,
+      "rect": [
+        144.0,
+        490.0,
+        227.0,
+        555.0
+      ]
+    },
+    {
+      "diagram": "TB-Q2",
+      "role": "textbook",
+      "page": 7,
+      "value": 5,
+      "rect": [
+        240.0,
+        490.0,
+        323.0,
+        555.0
+      ]
+    },
+    {
+      "diagram": "TB-FRESH",
+      "role": "textbook",
+      "page": 16,
+      "value": 5,
+      "rect": [
+        48.0,
+        320.0,
+        131.0,
+        385.0
+      ]
+    },
+    {
+      "diagram": "TB-FRESH",
+      "role": "textbook",
+      "page": 16,
+      "value": 10,
+      "rect": [
+        144.0,
+        320.0,
+        227.0,
+        385.0
+      ]
+    }
+  ],
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "sha256": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+      "pages": 27
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+      "sha256": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb",
+      "pages": 7
+    }
+  },
+  "checks": [
+    "Every ledger equation parsed independently as integer arithmetic",
+    "All four objectives have page-specific seven-mode coverage",
+    "All genuine recognition/rubbing task records explicitly conditional",
+    "Actual PDF card vectors and exact value labels match ledgers",
+    "Payment/cost metadata within 10k; diagram card totals within 25k; A4"
+  ]
+}

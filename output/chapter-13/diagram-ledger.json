@@ -1,0 +1,475 @@
+[
+  {
+    "id": "VALUE-ONE",
+    "values": [
+      10
+    ],
+    "count": 1,
+    "top": 358,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 2,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              358.0,
+              131.0,
+              423.0
+            ],
+            "value": 10,
+            "label": "10k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VALUE-TWO",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 495,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 2,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              495.0,
+              131.0,
+              560.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              495.0,
+              227.0,
+              560.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOTAL-MODEL",
+    "values": [
+      10,
+      5
+    ],
+    "count": 2,
+    "top": 310,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 5,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              310.0,
+              131.0,
+              375.0
+            ],
+            "value": 10,
+            "label": "10k"
+          },
+          {
+            "rect": [
+              144.0,
+              310.0,
+              227.0,
+              375.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOTAL-GUIDED",
+    "values": [
+      5,
+      5,
+      1
+    ],
+    "count": 3,
+    "top": 535,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 5,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              535.0,
+              131.0,
+              600.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              535.0,
+              227.0,
+              600.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              240.0,
+              535.0,
+              323.0,
+              600.0
+            ],
+            "value": 1,
+            "label": "1k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOTAL-RECHECK",
+    "values": [
+      5,
+      1
+    ],
+    "count": 2,
+    "top": 530,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 13,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              530.0,
+              131.0,
+              595.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              530.0,
+              227.0,
+              595.0
+            ],
+            "value": 1,
+            "label": "1k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Q1-CARDS",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 265,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 3,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              265.0,
+              131.0,
+              330.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              265.0,
+              227.0,
+              330.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Q2-CARDS",
+    "values": [
+      10,
+      10,
+      5
+    ],
+    "count": 3,
+    "top": 525,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 3,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              525.0,
+              131.0,
+              590.0
+            ],
+            "value": 10,
+            "label": "10k"
+          },
+          {
+            "rect": [
+              144.0,
+              525.0,
+              227.0,
+              590.0
+            ],
+            "value": 10,
+            "label": "10k"
+          },
+          {
+            "rect": [
+              240.0,
+              525.0,
+              323.0,
+              590.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "FRESH-CARDS",
+    "values": [
+      5,
+      10
+    ],
+    "count": 2,
+    "top": 280,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 6,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              280.0,
+              131.0,
+              345.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              280.0,
+              227.0,
+              345.0
+            ],
+            "value": 10,
+            "label": "10k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TB-Q1",
+    "values": [
+      5,
+      5
+    ],
+    "count": 2,
+    "top": 300,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 7,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              300.0,
+              131.0,
+              365.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              300.0,
+              227.0,
+              365.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TB-Q2",
+    "values": [
+      10,
+      10,
+      5
+    ],
+    "count": 3,
+    "top": 490,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 7,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              490.0,
+              131.0,
+              555.0
+            ],
+            "value": 10,
+            "label": "10k"
+          },
+          {
+            "rect": [
+              144.0,
+              490.0,
+              227.0,
+              555.0
+            ],
+            "value": 10,
+            "label": "10k"
+          },
+          {
+            "rect": [
+              240.0,
+              490.0,
+              323.0,
+              555.0
+            ],
+            "value": 5,
+            "label": "5k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TB-FRESH",
+    "values": [
+      5,
+      10
+    ],
+    "count": 2,
+    "top": 320,
+    "x": 48,
+    "gap": 96,
+    "width": 83,
+    "height": 65,
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 16,
+        "cards": [
+          {
+            "rect": [
+              48.0,
+              320.0,
+              131.0,
+              385.0
+            ],
+            "value": 5,
+            "label": "5k"
+          },
+          {
+            "rect": [
+              144.0,
+              320.0,
+              227.0,
+              385.0
+            ],
+            "value": 10,
+            "label": "10k"
+          }
+        ]
+      }
+    ]
+  }
+]

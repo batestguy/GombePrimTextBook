@@ -1,0 +1,446 @@
+{
+  "pages": 27,
+  "sha256": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+  "page_manifest": [
+    {
+      "slug": "c13-textbook-1",
+      "kicker": "Pretend coins and change",
+      "title": "Our pretend shop",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-2",
+      "kicker": "Pretend coins and change",
+      "title": "Value is not a card count",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-VALUE-MODEL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-3",
+      "kicker": "Pretend coins and change",
+      "title": "Meet genuine coins",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-REAL-MODEL",
+        "P1-13-REAL-GUIDED"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-4",
+      "kicker": "Pretend coins and change",
+      "title": "A coin surface on paper",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-RUB-MODEL",
+        "P1-13-RUB-GUIDED"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-5",
+      "kicker": "Pretend coins and change",
+      "title": "Join the values",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-TOTAL-MODEL",
+        "P1-13-TOTAL-GUIDED"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-6",
+      "kicker": "Pretend coins and change",
+      "title": "Count on for change",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-13",
+      "kicker": "Pretend coins and change",
+      "title": "Try totals by yourself",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-Q1",
+        "P1-13-Q2"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-14",
+      "kicker": "Pretend coins and change",
+      "title": "Try change by yourself",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-Q3",
+        "P1-13-Q4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-15",
+      "kicker": "Pretend coins and change",
+      "title": "Draw and tell by yourself",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-Q5",
+        "P1-13-Q6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-7",
+      "kicker": "Pretend coins and change",
+      "title": "Remember before help",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-RECALL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-8",
+      "kicker": "Pretend coins and change",
+      "title": "Help with real values",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-REAL-HELP",
+        "P1-13-REAL-RECHECK"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-9",
+      "kicker": "Pretend coins and change",
+      "title": "Help with rubbing",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-RUB-HELP",
+        "P1-13-RUB-RECHECK"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-10",
+      "kicker": "Pretend coins and change",
+      "title": "Help with totals",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-TOTAL-HELP",
+        "P1-13-TOTAL-RECHECK"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-11",
+      "kicker": "Pretend coins and change",
+      "title": "Help with change",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-CHANGE-HELP",
+        "P1-13-CHANGE-RECHECK"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-12",
+      "kicker": "Pretend coins and change",
+      "title": "The ticket is ready",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-STORY"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-16",
+      "kicker": "Pretend coins and change",
+      "title": "Fresh checks by yourself",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-TOTAL-FRESH",
+        "P1-13-CHANGE-FRESH",
+        "S008",
+        "S009"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-17",
+      "kicker": "Pretend coins and change",
+      "title": "Adult guide: prepare and observe",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-18",
+      "kicker": "Pretend coins and change",
+      "title": "Adult guide: next-session checks",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-13-REAL-DELAYED",
+        "P1-13-TOTAL-DELAYED",
+        "P1-13-CHANGE-DELAYED",
+        "P1-13-RUB-DELAYED"
+      ],
+      "adult": true,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-19",
+      "kicker": "Pretend coins and change",
+      "title": "Adult guide: teaching and mapping",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": []
+    },
+    {
+      "slug": "c13-textbook-20",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-VALUE-MODEL",
+        "P1-13-REAL-MODEL",
+        "P1-13-REAL-GUIDED",
+        "P1-13-RUB-MODEL",
+        "P1-13-RUB-GUIDED"
+      ]
+    },
+    {
+      "slug": "c13-textbook-21",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-TOTAL-MODEL",
+        "P1-13-TOTAL-GUIDED",
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED",
+        "P1-13-RECALL"
+      ]
+    },
+    {
+      "slug": "c13-textbook-22",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-REAL-HELP",
+        "P1-13-REAL-RECHECK",
+        "P1-13-RUB-HELP",
+        "P1-13-RUB-RECHECK",
+        "P1-13-TOTAL-HELP"
+      ]
+    },
+    {
+      "slug": "c13-textbook-23",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-TOTAL-RECHECK",
+        "P1-13-CHANGE-HELP",
+        "P1-13-CHANGE-RECHECK",
+        "P1-13-STORY",
+        "P1-13-REAL-INDEPENDENT"
+      ]
+    },
+    {
+      "slug": "c13-textbook-24",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-RUB-INDEPENDENT",
+        "P1-13-Q1",
+        "P1-13-Q2",
+        "P1-13-Q3",
+        "P1-13-Q4"
+      ]
+    },
+    {
+      "slug": "c13-textbook-25",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-13-Q5",
+        "P1-13-Q6",
+        "P1-13-TOTAL-FRESH",
+        "P1-13-CHANGE-FRESH",
+        "S008"
+      ]
+    },
+    {
+      "slug": "c13-textbook-26",
+      "kicker": "Pretend coins and change",
+      "title": "Complete task and answer map",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": [
+        "S009",
+        "P1-13-REAL-DELAYED",
+        "P1-13-TOTAL-DELAYED",
+        "P1-13-CHANGE-DELAYED",
+        "P1-13-RUB-DELAYED"
+      ]
+    },
+    {
+      "slug": "c13-textbook-27",
+      "kicker": "Pretend coins and change",
+      "title": "Source map, words and credits",
+      "subtitle": "Read together. Keep this textbook reusable.",
+      "task_ids": [],
+      "adult": true,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-13-VALUE-MODEL": [
+      2
+    ],
+    "P1-13-REAL-MODEL": [
+      3
+    ],
+    "P1-13-REAL-GUIDED": [
+      3
+    ],
+    "P1-13-RUB-MODEL": [
+      4
+    ],
+    "P1-13-RUB-GUIDED": [
+      4
+    ],
+    "P1-13-TOTAL-MODEL": [
+      5
+    ],
+    "P1-13-TOTAL-GUIDED": [
+      5
+    ],
+    "P1-13-CHANGE-MODEL": [
+      6
+    ],
+    "P1-13-CHANGE-GUIDED": [
+      6
+    ],
+    "P1-13-Q1": [
+      7
+    ],
+    "P1-13-Q2": [
+      7
+    ],
+    "P1-13-Q3": [
+      8
+    ],
+    "P1-13-Q4": [
+      8
+    ],
+    "P1-13-Q5": [
+      9
+    ],
+    "P1-13-Q6": [
+      9
+    ],
+    "P1-13-RECALL": [
+      10
+    ],
+    "P1-13-REAL-HELP": [
+      11
+    ],
+    "P1-13-REAL-RECHECK": [
+      11
+    ],
+    "P1-13-RUB-HELP": [
+      12
+    ],
+    "P1-13-RUB-RECHECK": [
+      12
+    ],
+    "P1-13-TOTAL-HELP": [
+      13
+    ],
+    "P1-13-TOTAL-RECHECK": [
+      13
+    ],
+    "P1-13-CHANGE-HELP": [
+      14
+    ],
+    "P1-13-CHANGE-RECHECK": [
+      14
+    ],
+    "P1-13-STORY": [
+      15
+    ],
+    "P1-13-TOTAL-FRESH": [
+      16
+    ],
+    "P1-13-CHANGE-FRESH": [
+      16
+    ],
+    "S008": [
+      16
+    ],
+    "S009": [
+      16
+    ],
+    "P1-13-REAL-DELAYED": [
+      18
+    ],
+    "P1-13-TOTAL-DELAYED": [
+      18
+    ],
+    "P1-13-CHANGE-DELAYED": [
+      18
+    ],
+    "P1-13-RUB-DELAYED": [
+      18
+    ]
+  },
+  "objects": [],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

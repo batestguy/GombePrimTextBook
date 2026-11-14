@@ -1,0 +1,393 @@
+{
+  "P1-p08-01": {
+    "model": [
+      {
+        "id": "P1-13-REAL-MODEL",
+        "answer": "Adult names each actual example from the dated checklist and distinguishes it from pretend cards.",
+        "pages": {
+          "textbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-13-REAL-GUIDED",
+        "answer": "Value agrees with checklist; adult prompts permitted.",
+        "pages": {
+          "textbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-13-REAL-INDEPENDENT",
+        "answer": "Every value matches dated checklist; distinguishes genuine example from pretend card; no prompts.",
+        "pages": {
+          "workbook": [
+            1
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-13-REAL-HELP",
+        "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+        "pages": {
+          "textbook": [
+            11
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-13-REAL-RECHECK",
+        "answer": "Each actual value matches the dated checklist; record help separately.",
+        "pages": {
+          "textbook": [
+            11
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "S008",
+        "answer": "All stated values agree with dated checklist; no inference from size/card count; absent resources not assessed.",
+        "pages": {
+          "textbook": [
+            16
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-13-REAL-DELAYED",
+        "answer": "Checklist agreement; record each response or not assessed.",
+        "pages": {
+          "textbook": [
+            18
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p08-02": {
+    "model": [
+      {
+        "id": "P1-13-VALUE-MODEL",
+        "answer": "One card versus two cards; both values are 10k.",
+        "pages": {
+          "textbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-13-TOTAL-MODEL",
+        "answer": "15k",
+        "pages": {
+          "textbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-13-TOTAL-GUIDED",
+        "answer": "11k",
+        "pages": {
+          "textbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-13-Q1",
+        "answer": "10k",
+        "pages": {
+          "textbook": [
+            7
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-13-Q2",
+        "answer": "25k",
+        "pages": {
+          "textbook": [
+            7
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-13-Q5",
+        "answer": "Outline with value 10k.",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-13-Q6",
+        "answer": "Different tokens can have different values.",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-13-TOTAL-HELP",
+        "answer": "Adult models smaller step. 2k",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-13-TOTAL-RECHECK",
+        "answer": "6k",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-13-TOTAL-FRESH",
+        "answer": "10k+10k; 10k+5k+5k; or 5k+5k+5k+5k. Choose any two.",
+        "pages": {
+          "textbook": [
+            16
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-13-TOTAL-DELAYED",
+        "answer": "25k =10k+10k+5k",
+        "pages": {
+          "textbook": [
+            18
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p08-03": {
+    "model": [
+      {
+        "id": "P1-13-CHANGE-MODEL",
+        "answer": "4k; cost plus change equals payment.",
+        "pages": {
+          "textbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-13-CHANGE-GUIDED",
+        "answer": "3k",
+        "pages": {
+          "textbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-13-Q3",
+        "answer": "3k",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      },
+      {
+        "id": "P1-13-Q4",
+        "answer": "3k",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-13-CHANGE-HELP",
+        "answer": "Adult models smaller step. 2k change",
+        "pages": {
+          "textbook": [
+            14
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-13-CHANGE-RECHECK",
+        "answer": "2k; 4k+2k=6k",
+        "pages": {
+          "textbook": [
+            14
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-13-CHANGE-FRESH",
+        "answer": "3k; 6k+3k=9k",
+        "pages": {
+          "textbook": [
+            16
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-13-CHANGE-DELAYED",
+        "answer": "4k; 5k+4k=9k",
+        "pages": {
+          "textbook": [
+            18
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p08-04": {
+    "model": [
+      {
+        "id": "P1-13-RUB-MODEL",
+        "answer": "Two surface rubbings; adult names verified coin; surfaces show through paper; materials intact.",
+        "pages": {
+          "textbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-13-RUB-GUIDED",
+        "answer": "Both actual surface rubbings; correct verified value; coin and papers intact; support recorded.",
+        "pages": {
+          "textbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-13-RUB-INDEPENDENT",
+        "answer": "Two actual surface rubbings, correct verified value, intact materials; no teaching prompts.",
+        "pages": {
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-13-RUB-HELP",
+        "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+        "pages": {
+          "textbook": [
+            12
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-13-RUB-RECHECK",
+        "answer": "Two surface rubbings, correct verified value, materials intact; record any assistance.",
+        "pages": {
+          "textbook": [
+            12
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "S009",
+        "answer": "Two recognisable surface rubbings; correct verified coin value; coin/papers intact; absent resources not assessed.",
+        "pages": {
+          "textbook": [
+            16
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-13-RUB-DELAYED",
+        "answer": "Two actual rubbings; verified value; materials intact; or not assessed.",
+        "pages": {
+          "textbook": [
+            18
+          ]
+        }
+      }
+    ]
+  }
+}

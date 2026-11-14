@@ -1,0 +1,218 @@
+[
+  {
+    "id": "P1-01",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB5: Aishatu needs one cup per friend.",
+      "S2": "TB5: Count/read/write/order one to five.",
+      "S3": "TB6-7,9: one-touch cup count, numeral/quantity and two-cup/two-circle models, live formation.",
+      "S4": "TB6-7: count real cups and pictures with Mrs Binta.",
+      "S5": "TB8-9 / WB2-4: six source tasks, local cups and writing spaces.",
+      "S6": "TB9 / WB4: remember and explain counting once before help.",
+      "S7": "TB9,18: move two cups, then independently count another small set.",
+      "S8": "TB10: four cups for four friends; enact pairing, shop opens.",
+      "S9": "TB10 / WB5 / adult TB18-19: adult-chosen new sets, separate recognition/naming; another-day 2/5 count."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-02",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB11: tidy shop game tray, three leaves and five tops.",
+      "S2": "TB11: sort, match and order small sets.",
+      "S3": "TB12-14: sort by type, one-to-one model 2 versus 4, equal rows of 3, ascending 2/3/4.",
+      "S4": "TB12-14 / WB6: identify other leaf, physically sort, match equal differently spaced rows.",
+      "S5": "TB14-16 / WB7-9: six source tasks ordering, drawing, more/fewer, making five and comparing.",
+      "S6": "TB16 / WB9: show comparison before looking back.",
+      "S7": "TB16,20: match support 2 versus 3; independently recheck 1 versus 2; build five.",
+      "S8": "TB17: pair three leaves with three tops; put two spare tops away, game ready.",
+      "S9": "TB17 / WB10 / adult TB20-21: new mixed tray and 4-top/5-leaf comparison; delayed 4/2 sorting and 5/2/3 order."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-03",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: pack three tops and check empty mat.",
+      "S2": "TB1: none has a number, read/write it.",
+      "S3": "TB2-3: two-to-none tray, zero meaning, closed-loop formation and empty-box model.",
+      "S4": "TB3 / WB1-2: one-to-none action, point to 0 among 0/2/1, air-write and say sequence.",
+      "S5": "TB4-5 / WB1-3: all six source tasks, no-tray/contents confusion.",
+      "S6": "TB5 / WB3: explain empty basket and show checking before help.",
+      "S7": "TB5,7: remove one with adult, independently remove two from another tray.",
+      "S8": "TB6: actual three tops stored, mat zero; box closes.",
+      "S9": "TB6 / WB4 / adult TB7-8: new 0/2/4 trays, separate mixed-card recognition/naming and covered writing; next-session recall."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-04",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: sort and count all game pieces.",
+      "S2": "TB1: count/read/write/order six to nine.",
+      "S3": "TB2-5: 5+1/2/3/4 models, numeral movement and same-outline sorting.",
+      "S4": "TB2-6: build six/seven/eight/nine, shuffle numeral cards, sort/compare/order together.",
+      "S5": "TB5-7 / WB2-5: all six originals plus actual four-type sorting/counting.",
+      "S6": "TB7 / WB4: recall one-touch checking of eight before help.",
+      "S7": "TB7,9: count five plus one; fresh seven recheck, supported numeral practice.",
+      "S8": "TB8: groups 6/7/8/9 (30 pieces) checked and ready for game.",
+      "S9": "TB8 / WB6 / adult TB9-10: new scattered 8/9 groups, shuffled naming/recognition, covered 8/6/9/7 dictation; delayed count/read/write/order."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-05",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: pack exactly twenty path markers.",
+      "S2": "TB1: make tens/ones, count/read/write through twenty.",
+      "S3": "TB2-6: ten ones tied/untied, left tens/right ones, all eleven-to-twenty quantities and writing.",
+      "S4": "TB2-6: pupils bundle/open/check and build each number, guided thirteen, mixed-card reading.",
+      "S5": "TB7-8 / WB2-4: source Q1..6, 12/16/10/19/20 and ten versus one.",
+      "S6": "TB9 / WB5: explain how to verify a bundle, choose/build/record 11..19 before support.",
+      "S7": "TB9,11: nine plus one bundled/opened; independent new 11/13, covered fresh writing.",
+      "S8": "TB10: original twenty markers recovered in two checked tens and packed.",
+      "S9": "TB10 / WB6 / adult TB11-12: new 17/20 builds, separate shuffled naming/recognition/covered dictation; delayed 18/10 and new spoken values."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-06",
+    "author": "Codex /root/sol_executor",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: make labels 46/81/93 for game boxes.",
+      "S2": "TB1: build/read/write through ninety-nine.",
+      "S3": "TB2-13: prerequisite check, successive 21..99 bands, exchanges at decades, teen/tens contrasts, sequence/place/range models.",
+      "S4": "TB2-13 / WB1-10: build/name/form every band number before small independent samples.",
+      "S5": "TB14-15 / WB11-12, distributed WB bands: all source tasks and build/count/recognition/reading/copy/dictation checks.",
+      "S6": "TB16 / WB13: explain forming another ten, choose/build/record/name a new 21..99 number before help.",
+      "S7": "TB16,20: 19->20 and 29->30; place/name intervention then new 34/50/read17/70/dictate32.",
+      "S8": "TB17: independently make/check/attach original 46/81/93 labels.",
+      "S9": "TB17 / WB14 / adult TB20: fresh 47 count, 36/82 builds, mixed reading/recognition/covered dictation; delayed 58/64 and new lists."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-07",
+    "author": "Codex /root/sol_executor",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: four friends need equal drawing space on one mat.",
+      "S2": "TB1: share a whole into equal parts.",
+      "S3": "TB2-6: fold equal halves/quarters, unequal comparison, diagonal/turned shapes, notation and drawing/shading model.",
+      "S4": "TB2-6 / WB1: concrete folds, turn/check amounts, name parts and copy drawing after demonstration.",
+      "S5": "TB7 / WB2-3: all six originals, drawing/shading/explanation and unequal nonexample.",
+      "S6": "TB7 / WB2-3: recall two/four equal parts and explain why shaded part is quarter before help.",
+      "S7": "TB8 / WB4 / adult TB12: supported fold, then new tall rectangle/square independently; optional alternative equal halves.",
+      "S8": "TB9 / WB5: mat split into four equal quarters, one named drawing per child.",
+      "S9": "TB10 / WB6 / adult TB12: new rotated half, paper-orange quarter, unequal neither, drawing/explanation; delayed new folds/diagonal/unequal example."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-08",
+    "author": "Codex /root/sol_executor",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: join Aishatu's two tops and Adamu's one for stall.",
+      "S2": "TB1: put two or three sets together and find total.",
+      "S3": "TB2-5: concrete 2+1=3 before symbols/equality; three-set and dot models.",
+      "S4": "TB2-5 / WB1: move/count 1+1, 1+2, 1+1+1 and draw one dot per object.",
+      "S5": "TB6 / WB2-3: source Q1..6, totals3/4/3/3/4books and swapped sets.",
+      "S6": "TB7 / WB5: recall plus/equality and checking before support.",
+      "S7": "TB7 / WB4: helped 1+1, new 2+1; swap sets and explain invariant total.",
+      "S8": "TB8 / WB5: original two-plus-one stock three conserved; four children take turns.",
+      "S9": "TB8 / WB6 / adult TB10: fresh 1+3 and 1+2+2, equality explanation; delayed 2+2/1+1+2 and 4=2+2."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-09",
+    "author": "Codex /root/sol_executor",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: eight path counters plus five brought to toy garden.",
+      "S2": "TB1: count on two/three amounts including zero.",
+      "S3": "TB2-7: hold first number, next count for first added object, three sets/zero/cross ten and check errors.",
+      "S4": "TB2-7 / WB1,4-5: 2+3,1+2+3,5+0,7+4,9+0+8,correct5+2 claim.",
+      "S5": "TB8-9 / WB2-5: all six source tasks and S005 (15/17 methods, not fresh).",
+      "S6": "TB10 / WB7: recall next-after-start/zero/check before help.",
+      "S7": "TB10 / WB6: concrete 2+1 support, new 3+2 recheck and count-all verification.",
+      "S8": "TB11 / WB7: exact original 8+5 path has13; practice counters separate.",
+      "S9": "TB12 / WB8 / adult TB14: fresh 5+7,2+0+9,wrong6+3=8; delayed 6+5,3+0+7,wrong7+2=8."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-10",
+    "author": "Codex /root",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: 22 class pencils plus 11 brought by Adamu for toy school.",
+      "S2": "TB1: add tens/ones with totals up to40 and check.",
+      "S3": "TB2-8: strip/bundle place models, horizontal/column addition, zero and single-digit place, error correction.",
+      "S4": "TB2,4,6,8 / WB1,5: build14,11+12,20+13 and correct13+12 claim with count-all.",
+      "S5": "TB9 / WB2-4: source Q1..6, all originals and complete local response diagrams.",
+      "S6": "TB10 / WB6: recall places, order of adding and count-all check before help.",
+      "S7": "TB10 / WB6: 10+2 model, independent10+4 recheck.",
+      "S8": "TB11 / WB4: original22+11=33pencils checked and packed.",
+      "S9": "TB12 / WB7 / adult TB14: fresh24+13,20+20,wrong12+5=62; delayed13+16,20+10,wrong21+7=91."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-11",
+    "author": "Codex /root/chapter11_author",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: 12chalk pieces,3 for small board, find mat remainder.",
+      "S2": "TB1: take away/count remains/check by adding back.",
+      "S3": "TB2-7: concrete subtraction, zero, backwards steps, crossing ten, inverse check.",
+      "S4": "TB3,6 / WB1: 6-2 and12-5 guided; crossed-dot action model precedes workbook crossing.",
+      "S5": "TB8 / WB2-4: six originals, starts<=18 and add-back checks.",
+      "S6": "TB9 / WB5: recall subtraction, first backward step and inverse before help.",
+      "S7": "TB9-10 / WB5: small3-1/recheck5-2; cross11-2/recheck11-3.",
+      "S8": "TB11: 9mat+3tray recover original12chalk, no piece disappears.",
+      "S9": "TB12 / WB6-8 / adult TB14: fresh8-5/9-6/15-7/17-8/claim16-7=10; checking recheck6-3; delayed7-4/16-8/13-4."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  },
+  {
+    "id": "P1-12",
+    "author": "Codex /root/chapter12_author",
+    "reviewer": "Codex /root/chapter13_review (fresh independent chapter13 review session)",
+    "status": "pending_final_freeze",
+    "stages": {
+      "S1": "TB1: seven tops total,three visible,hidden bag remainder.",
+      "S2": "TB1: find missing numbers and check.",
+      "S3": "TB2-11: blank/equality,unknown addends/removed/start/reversed equality/substitution/families/everyday claims.",
+      "S4": "TB3-11: each model has a child-led guided turn using a distinct fact.",
+      "S5": "TB12-16 / WB1-5: Q1..6,S006/S007 and independent related-family task.",
+      "S6": "TB16,23 / WB5: explain blank/rebuild unknown start/substitute before help.",
+      "S7": "TB17-22 / WB6-11: six objective-specific help/new independent recheck sequences.",
+      "S8": "TB23: open bag fourhidden+threevisible=seven; original stock preserved.",
+      "S9": "TB24-26 / WB12-14 / adult TB38-39: six fresh objective checks and six delayed checks on new facts."
+    },
+    "independent_evidence": "output/chapter-13/reviewer-progress.md; reviewer-prior-task-coverage.json; reviewer-prior-render-checks.json; reviewer-prior-equations.json"
+  }
+]

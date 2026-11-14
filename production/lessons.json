@@ -24555,30 +24555,2357 @@
     "questions": [
       {
         "prompt": "5k + 5k = __.",
-        "answer": "10k"
+        "answer": "10k",
+        "id": "P1-13-Q1"
       },
       {
         "prompt": "10k + 10k + 5k = __.",
-        "answer": "25k"
+        "answer": "25k",
+        "id": "P1-13-Q2"
       },
       {
         "prompt": "Pay 10k. Cost 7k. Change?",
-        "answer": "3k"
+        "answer": "3k",
+        "id": "P1-13-Q3"
       },
       {
         "prompt": "Pay 5k. Cost 2k. Change?",
-        "answer": "3k"
+        "answer": "3k",
+        "id": "P1-13-Q4"
       },
       {
         "prompt": "Draw a token labelled 10k.",
-        "answer": "Outline with value 10k."
+        "answer": "Outline with value 10k.",
+        "id": "P1-13-Q5"
       },
       {
         "prompt": "Why read a token value, not just count tokens?",
-        "answer": "Different tokens can have different values."
+        "answer": "Different tokens can have different values.",
+        "id": "P1-13-Q6"
       }
     ],
-    "diagram": ""
+    "diagram": "",
+    "paired_edition": {
+      "teacher_id": "ms-binta",
+      "objective_ids": [
+        "P1-p08-01",
+        "P1-p08-02",
+        "P1-p08-03",
+        "P1-p08-04"
+      ],
+      "source_tasks": [
+        {
+          "id": "P1-13-Q1",
+          "source_prompt": "5k + 5k = __.",
+          "source_answer": "10k"
+        },
+        {
+          "id": "P1-13-Q2",
+          "source_prompt": "10k + 10k + 5k = __.",
+          "source_answer": "25k"
+        },
+        {
+          "id": "P1-13-Q3",
+          "source_prompt": "Pay 10k. Cost 7k. Change?",
+          "source_answer": "3k"
+        },
+        {
+          "id": "P1-13-Q4",
+          "source_prompt": "Pay 5k. Cost 2k. Change?",
+          "source_answer": "3k"
+        },
+        {
+          "id": "P1-13-Q5",
+          "source_prompt": "Draw a token labelled 10k.",
+          "source_answer": "Outline with value 10k."
+        },
+        {
+          "id": "P1-13-Q6",
+          "source_prompt": "Why read a token value, not just count tokens?",
+          "source_answer": "Different tokens can have different values."
+        }
+      ],
+      "supplementary_source_tasks": [
+        {
+          "id": "S008",
+          "source_prompt": "Using the teacher's verified genuine Nigerian coin examples or verified official images, point to each coin and say its denomination. Distinguish coins from the book's pretend tokens.",
+          "source_answer": "Each value agrees with the teacher's dated verified denomination checklist; do not infer value from size or token count."
+        },
+        {
+          "id": "S009",
+          "source_prompt": "With supervision, place an available genuine coin under brown paper and white paper in turn and make a gentle pencil rubbing on each sheet. Say which coin was used.",
+          "source_answer": "Two recognisable surface rubbings made by tracing the coin through the paper; coin and paper intact; stated value matches the example."
+        }
+      ],
+      "textbook_pages": [
+        {
+          "slug": "c13-textbook-1",
+          "kicker": "Pretend coins and change",
+          "title": "Our pretend shop",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "image",
+              "asset": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+              "x": 43,
+              "top": 160,
+              "width": 509,
+              "height": 339,
+              "preserve": false
+            },
+            {
+              "type": "text",
+              "text": "<b>Read the value.</b><br/><b>Find the change.</b>",
+              "top": 214,
+              "size": 16,
+              "x": 263,
+              "width": 240,
+              "color": "#FFFFFF"
+            },
+            {
+              "type": "text",
+              "text": "<b>Mrs Binta:</b> Our box-toy shop has one pretend map ticket. It costs 6k. We have a 10k payment. How much must the shop give back?<br/><b>Aishatu:</b> I built the shop. I will wait for a fair turn.<br/><b>Adamu:</b> Everyone can join our shop story.<br/><b>Grace:</b> I will keep the value cards neat.<br/><b>John:</b> Put them within reach. Let me solve the change puzzle.",
+              "top": 515,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "We will read money values, make totals, find change and try real-coin rubbings when materials are ready.",
+              "top": 729,
+              "size": 13
+            }
+          ],
+          "task_ids": [],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-2",
+          "kicker": "Pretend coins and change",
+          "title": "Value is not a card count",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "These rectangles are <b>pretend value cards</b>, not pictures of real coins. Our old-value shop is a game. These are not today's prices. Nigerian money uses naira and kobo. <b>100 kobo = 1 naira.</b> We write k for kobo.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Mrs Binta:</b> Read the label. This card has value 10k.",
+              "top": 298,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 358,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 372,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "Two cards can have the same total value as one card.",
+              "top": 447,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 495,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 509,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 495,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 509,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k + 5k = 10k.</b> Value tells how much; card count tells how many cards. Grace reads each label before adding. The sign = means equal value.",
+              "top": 600,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "To draw a pretend token: draw a rectangle like the one above, then write 10k inside. This completed card is your model. Daniel is a fictional story-card name.",
+              "top": 718,
+              "size": 12
+            }
+          ],
+          "task_ids": [
+            "P1-13-VALUE-MODEL"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-3",
+          "kicker": "Pretend coins and change",
+          "title": "Meet genuine coins",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Adult: prepare at least two DIFFERENT verified Nigerian coin denominations, as genuine coins or dated verified official images, and a written value checklist. Record the verification source, date and values. Use only examples you can verify. Without them, skip this activity and record not assessed. Pretend cards cannot replace real examples.",
+              "top": 180,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "<b>Mrs Binta shows:</b> This is a genuine coin or a verified picture of one. I check its denomination: that means its money value. I point to it and say its value from our checklist. I do not guess from its size.",
+              "top": 335,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Try together.</b> Adamu points to an example. Say its value with Mrs Binta. Grace matches it to the adult's value label. Compare it with our rectangular pretend cards. Which is the real example?",
+              "top": 498,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Then try on your own on workbook page 1, or point and speak using the adult's real examples beside your exercise book. The adult records what you say.",
+              "top": 673,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-REAL-MODEL",
+            "P1-13-REAL-GUIDED"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-4",
+          "kicker": "Pretend coins and change",
+          "title": "A coin surface on paper",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Adult: provide a verified genuine coin, pencil, brown paper and white paper. Work at a reachable table. Keep the coin under paper. Rub gently with the pencil side on the paper only; never mark the coin. Keep coin and paper intact. Supervise small objects. Without all materials, record not assessed.",
+              "top": 180,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "<b>Watch Mrs Binta.</b> She says the verified coin's value. She places it under brown paper and holds the paper still. She gently moves the pencil side across the paper. The surface pattern appears. She repeats with white paper.",
+              "top": 340,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Try together.</b> Aishatu holds her paper still while the adult checks the coin underneath. Grace tries again if the first rubbing smudges. Make a rubbing on each colour of paper. Tell the adult which coin you used.",
+              "top": 510,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Use workbook page 2 or separate brown and white sheets kept with your exercise book. An adult may secure the brown sheet to the workbook. A drawn outline is not a surface rubbing.",
+              "top": 690,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-RUB-MODEL",
+            "P1-13-RUB-GUIDED"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-5",
+          "kicker": "Pretend coins and change",
+          "title": "Join the values",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Mrs Binta:</b> A total is the value altogether. Read 10k and 5k. Start at 10 and count on 5: 11, 12, 13, 14, 15. <b>10k + 5k = 15k.</b>",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 310,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 324,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 310,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 324,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>Try together.</b> John reads these labels. Adamu says, \"Three cards means 3k.\" John asks him to add the values. Count on from 5. What is the total?",
+              "top": 420,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 535,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 549,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 535,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 549,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 240,
+              "top": 535,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>1k</b>",
+              "top": 549,
+              "size": 22,
+              "x": 254,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "Say the total, then write the addition in your exercise book. Now work alone on textbook page 7. Respond on workbook page 3 or in your exercise book.",
+              "top": 675,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-TOTAL-MODEL",
+            "P1-13-TOTAL-GUIDED"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-6",
+          "kicker": "Pretend coins and change",
+          "title": "Count on for change",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Mrs Binta:</b> Cost means the amount asked for. Payment is the amount given. Change is the amount given back. Our ticket costs 6k. Pay 10k. Count from the cost up to the payment: <b>7, 8, 9, 10</b>. Four counts: change is <b>4k</b>.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>10k - 6k = 4k.</b><br/>Check: <b>6k + 4k = 10k.</b><br/>Cost plus change equals payment.",
+              "top": 345,
+              "size": 20
+            },
+            {
+              "type": "text",
+              "text": "<b>Try together.</b> Grace buys a pretend label costing 5k. She pays 8k. Aishatu counts on from 5 to 8. How much change? Check by adding cost and change.",
+              "top": 490,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Use labelled paper cards or count with your fingers. Say the change and check aloud; write in your exercise book. Then try textbook page 8 on your own. Respond on workbook page 4 or in your exercise book.",
+              "top": 655,
+              "size": 14
+            }
+          ],
+          "task_ids": [
+            "P1-13-CHANGE-MODEL",
+            "P1-13-CHANGE-GUIDED"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-13",
+          "kicker": "Pretend coins and change",
+          "title": "Try totals by yourself",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Read the cards. Find each total. Write the addition and k on workbook page 3 OR in your ordinary exercise book.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 300,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 314,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 300,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 314,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 490,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 504,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 490,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 504,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 240,
+              "top": 490,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 504,
+              "size": 22,
+              "x": 254,
+              "width": 65
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q1",
+            "P1-13-Q2"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-14",
+          "kicker": "Pretend coins and change",
+          "title": "Try change by yourself",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Pay 10k. Cost 7k. Find change. Write the answer and an addition check on workbook page 4 OR in your ordinary exercise book.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Pay 5k. Cost 2k. Find change. Write the answer and an addition check on workbook page 4 OR in your ordinary exercise book.",
+              "top": 430,
+              "size": 15
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q3",
+            "P1-13-Q4"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-15",
+          "kicker": "Pretend coins and change",
+          "title": "Draw and tell by yourself",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Draw a pretend token outline. Label it 10k. Use workbook page 5 OR your ordinary exercise book. Use the completed rectangle on textbook page 2 as your model. This drawing is not a genuine coin rubbing.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Why read a token value, not just count tokens? Say your reason or write it on workbook page 5 OR in your ordinary exercise book.",
+              "top": 440,
+              "size": 15
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q5",
+            "P1-13-Q6"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-7",
+          "kicker": "Pretend coins and change",
+          "title": "Remember before help",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Close the model pages. Tell a partner what you remember. Try before you ask for help.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "How is a real coin different from a pretend value card?<br/><br/>How do you find the total of cards?<br/><br/>How do you find and check change?<br/><br/>What must be under the paper for a real rubbing?",
+              "top": 280,
+              "size": 18
+            },
+            {
+              "type": "text",
+              "text": "Point, speak or show with materials. Do not write in this textbook. Use your exercise book if you want to draw your thinking. Next use the help you need, then try its new check.",
+              "top": 650,
+              "size": 15
+            }
+          ],
+          "task_ids": [
+            "P1-13-RECALL"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-8",
+          "kicker": "Pretend coins and change",
+          "title": "Help with real values",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Use two verified real examples with DIFFERENT values. Mrs Binta says one value. Match it by pointing. Look at each example with her, not at its size.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Now try a new check.</b><br/>The adult now reverses the two examples and removes the value labels. Name each value yourself.",
+              "top": 370,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Say your answer or use your exercise book. For genuine coin work the adult records the result; absent resources mean not assessed. This is a new check after help, not the fresh independent check.",
+              "top": 675,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-REAL-HELP",
+            "P1-13-REAL-RECHECK"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-9",
+          "kicker": "Pretend coins and change",
+          "title": "Help with rubbing",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Hold one genuine coin under white paper. The adult steadies it and shows a short gentle pencil stroke. Repeat with brown paper.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Now try a new check.</b><br/>With fresh brown and white paper, place the coin yourself and make both rubbings under supervision. Say its verified value.",
+              "top": 370,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Say your answer or use your exercise book. For genuine coin work the adult records the result; absent resources mean not assessed. This is a new check after help, not the fresh independent check.",
+              "top": 675,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-RUB-HELP",
+            "P1-13-RUB-RECHECK"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-10",
+          "kicker": "Pretend coins and change",
+          "title": "Help with totals",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Read two 1k labels. Join their values: 1k + 1k = 2k. Touch each label once.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Now try a new check.</b><br/>Read cards labelled 5k and 1k. Find their total without help.",
+              "top": 370,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 530,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 544,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 530,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>1k</b>",
+              "top": 544,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "Say your answer or write in your exercise book. This is a new check after help. Try it before the fresh independent check.",
+              "top": 675,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-TOTAL-HELP",
+            "P1-13-TOTAL-RECHECK"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-11",
+          "kicker": "Pretend coins and change",
+          "title": "Help with change",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Pay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "<b>Now try a new check.</b><br/>A pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.",
+              "top": 370,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Say your answer or write in your exercise book. This is a new check after help. Try it before the fresh independent check.",
+              "top": 675,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-CHANGE-HELP",
+            "P1-13-CHANGE-RECHECK"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-12",
+          "kicker": "Pretend coins and change",
+          "title": "The ticket is ready",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>John:</b> The ticket costs 6k. I pay 10k. I worked out 4k change.<br/><b>Grace:</b> I give back 4k and keep 6k for the shop.<br/><b>Adamu:</b> Cost and change make the payment: 6k + 4k = 10k. Everyone had a fair turn.<br/><b>Aishatu:</b> There was one map ticket. Now John has it and the shop has none. Waiting helped our shop work!",
+              "top": 190,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "The friends finish their pretend shop story. Their value cards stay pretend. Real-coin naming and rubbing are separate activities and only count when the adult has the verified materials.",
+              "top": 435,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Now show learning afresh on textbook page 16 and workbook page 7, or use your exercise book and the same real materials. Try before the adult helps. The adult will check again next session.",
+              "top": 650,
+              "size": 15
+            }
+          ],
+          "task_ids": [
+            "P1-13-STORY"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-16",
+          "kicker": "Pretend coins and change",
+          "title": "Fresh checks by yourself",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Use these pretend values. You may copy a value more than once. Make 20k in two different ways. Draw or write both on workbook page 6 OR in your ordinary exercise book.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 320,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 334,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 320,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 334,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "text",
+              "text": "A pretend item costs 6k. Pay 9k. Find the change. Write it and a cost-plus-change check on workbook page 6 OR in your ordinary exercise book.",
+              "top": 490,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Without looking back at models, independently name newly reordered verified genuine examples. Point to a pretend card and say how it differs. Make both rubbings on fresh brown and white paper with a genuine coin; say its value. Adult: supervise and record without teaching prompts on workbook page 7 OR beside the exercise book. Missing resources: not assessed.",
+              "top": 660,
+              "size": 13
+            }
+          ],
+          "task_ids": [
+            "P1-13-TOTAL-FRESH",
+            "P1-13-CHANGE-FRESH",
+            "S008",
+            "S009"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-17",
+          "kicker": "Pretend coins and change",
+          "title": "Adult guide: prepare and observe",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Four historical objectives.</b> Recognise genuine denominations; combine values through 25k; find change from payments through 10k; rub genuine coin surfaces through brown and white paper. Pretend arithmetic does not establish genuine-coin identification. All real-resource stages are conditional opportunities, not recorded pupil outcomes.",
+              "top": 180,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "Adult: prepare at least two DIFFERENT verified Nigerian coin denominations, as genuine coins or dated verified official images, and a written value checklist. Record the verification source, date and values. Use only examples you can verify. Without them, skip this activity and record not assessed. Pretend cards cannot replace real examples.",
+              "top": 330,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "Adult: provide a verified genuine coin, pencil, brown paper and white paper. Work at a reachable table. Keep the coin under paper. Rub gently with the pencil side on the paper only; never mark the coin. Keep coin and paper intact. Supervise small objects. Without all materials, record not assessed.",
+              "top": 470,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "<b>Observation rubric:</b> record date, exact resources/checklist, each response and assistance. Recognition: every value agrees and real examples are distinguished from pretend cards. Rubbing: two recognisable surface patterns through the specified papers; correct verified value; intact materials. Record independent / supported / needs another try / not assessed. If resources are absent, write not assessed; never infer mastery from token drawing.",
+              "top": 630,
+              "size": 12
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-18",
+          "kicker": "Pretend coins and change",
+          "title": "Adult guide: next-session checks",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Before showing models</b>, administer each check separately. Pupil speaks, points, uses real materials or writes in an ordinary exercise book. Record exact responses. If a check needs support, return to its help page, then use a new example; keep this separate from independent evidence.",
+              "top": 180,
+              "size": 13
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-DELAYED</b><br/>Next session, reorder genuine verified examples again. Without models or help ask the pupil to name each value and distinguish a pretend card.<br/><b>Accept:</b> Checklist agreement; record each response or not assessed.",
+              "top": 300,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-DELAYED</b><br/>Next session, supply cards labelled 10k, 10k, 5k. Ask the pupil to make 25k without help.<br/><b>Accept:</b> 25k =10k+10k+5k",
+              "top": 412,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-DELAYED</b><br/>Next session, a pretend item costs 5k; pay 9k. Ask for change and an addition check without help.<br/><b>Accept:</b> 4k; 5k+4k=9k",
+              "top": 524,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-DELAYED</b><br/>Next session, give fresh brown/white paper and a verified genuine coin. Ask for two rubbings and the coin value without prompts; supervise safety.<br/><b>Accept:</b> Two actual rubbings; verified value; materials intact; or not assessed.",
+              "top": 636,
+              "size": 12
+            }
+          ],
+          "task_ids": [
+            "P1-13-REAL-DELAYED",
+            "P1-13-TOTAL-DELAYED",
+            "P1-13-CHANGE-DELAYED",
+            "P1-13-RUB-DELAYED"
+          ],
+          "adult": true,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-19",
+          "kicker": "Pretend coins and change",
+          "title": "Adult guide: teaching and mapping",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Routes and sequence.</b> Textbook 1 story/goal; 2 values; 3 genuine model/guided to workbook 1; 4 rubbing to workbook 2; 5 totals; 6 change; 7-9 independent originals to workbook 3-5; 10 recall BEFORE help; 11-14 help and new rechecks; 15 closure; 16 fresh to workbook 6-7. Every printed independent prompt and value is local in both artifacts. Respond in the exact workbook page OR an ordinary exercise book; genuine activities use verified materials and separate sheets. No textbook marking.",
+              "top": 180,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "<b>Misconceptions and support.</b> Three cards do not mean 3k: read and add labels (page 13). Change is not the cost: count from cost up to payment and add to check (page 14). A copied outline is not rubbing (page 12). Size does not prove denomination (page 11). Keep genuine-resource outcomes separate from pretend arithmetic. Permit pointing, speech, seated handling and an adult scribe; record help honestly.",
+              "top": 360,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "<b>Historical/provisional mapping.</b> P1-p08-01 real recognition: S008; P1-p08-02 totals: Q1, Q2, Q5, Q6 plus new tasks; P1-p08-03 change: Q3, Q4; P1-p08-04 rubbing: S009. Q5 alone does not assess genuine rubbing. Baseline: PRIMARY-1-TEACHING-MAP and PRIMARY-1-ASSUMPTIONS P1-A06. Current NERDC alignment, adoption, local educator review, pupil/accessibility trials and physical/printer approval remain pending.",
+              "top": 540,
+              "size": 12
+            },
+            {
+              "type": "text",
+              "text": "This is Chapter13 only, not a whole-year book. Final four offline AI pupil pages belong to later annual assembly. Primary2 preview: larger money-value totals and explaining different ways, after prerequisites and verified resources.",
+              "top": 715,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-textbook-20",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-VALUE-MODEL / model</b><br/>Read a 10k card and compare it with two 5k cards.<br/><b>Answer/criteria:</b> One card versus two cards; both values are 10k.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-MODEL / model</b><br/>Watch the adult point to a verified coin or genuine image and say its value.<br/><b>Answer/criteria:</b> Adult names each actual example from the dated checklist and distinguishes it from pretend cards.",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-GUIDED / guided</b><br/>Point to a verified example. Say its value with the adult.<br/><b>Answer/criteria:</b> Value agrees with checklist; adult prompts permitted.",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-MODEL / model</b><br/>Watch a gentle coin rubbing through brown then white paper.<br/><b>Answer/criteria:</b> Two surface rubbings; adult names verified coin; surfaces show through paper; materials intact.",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-GUIDED / guided</b><br/>With supervision make a rubbing on brown paper, then white paper. Say the coin value.<br/><b>Answer/criteria:</b> Both actual surface rubbings; correct verified value; coin and papers intact; support recorded.",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-VALUE-MODEL",
+            "P1-13-REAL-MODEL",
+            "P1-13-REAL-GUIDED",
+            "P1-13-RUB-MODEL",
+            "P1-13-RUB-GUIDED"
+          ]
+        },
+        {
+          "slug": "c13-textbook-21",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-MODEL / model</b><br/>Make 15k using 10k and 5k cards.<br/><b>Answer/criteria:</b> 15k",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-GUIDED / guided</b><br/>Together make 11k using 5k, 5k, 1k.<br/><b>Answer/criteria:</b> 11k",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-MODEL / model</b><br/>Pay 10k for a 6k ticket. Find the change.<br/><b>Answer/criteria:</b> 4k; cost plus change equals payment.",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-GUIDED / guided</b><br/>Pay 8k for a 5k pretend item. Find change.<br/><b>Answer/criteria:</b> 3k",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RECALL / recall</b><br/>Before help: say how to read a value, add cards, find change and make a real rubbing.<br/><b>Answer/criteria:</b> Read verified value/label; add values not cards; count from cost to payment then check; rub genuine surface through both papers when available.",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-TOTAL-MODEL",
+            "P1-13-TOTAL-GUIDED",
+            "P1-13-CHANGE-MODEL",
+            "P1-13-CHANGE-GUIDED",
+            "P1-13-RECALL"
+          ]
+        },
+        {
+          "slug": "c13-textbook-22",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-HELP / help</b><br/>Use two verified real examples with DIFFERENT values. Mrs Binta says one value. Match it by pointing. Look at each example with her, not at its size.<br/><b>Answer/criteria:</b> Adult models smaller step. Resources required; not assessed if absent.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-RECHECK / recheck</b><br/>The adult now reverses the two examples and removes the value labels. Name each value yourself.<br/><b>Answer/criteria:</b> Each actual value matches the dated checklist; record help separately.",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-HELP / help</b><br/>Hold one genuine coin under white paper. The adult steadies it and shows a short gentle pencil stroke. Repeat with brown paper.<br/><b>Answer/criteria:</b> Adult models smaller step. Resources required; not assessed if absent.",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-RECHECK / recheck</b><br/>With fresh brown and white paper, place the coin yourself and make both rubbings under supervision. Say its verified value.<br/><b>Answer/criteria:</b> Two surface rubbings, correct verified value, materials intact; record any assistance.",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-HELP / help</b><br/>Read two 1k labels. Join their values: 1k + 1k = 2k. Touch each label once.<br/><b>Answer/criteria:</b> Adult models smaller step. 2k",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-REAL-HELP",
+            "P1-13-REAL-RECHECK",
+            "P1-13-RUB-HELP",
+            "P1-13-RUB-RECHECK",
+            "P1-13-TOTAL-HELP"
+          ]
+        },
+        {
+          "slug": "c13-textbook-23",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-RECHECK / recheck</b><br/>Read cards labelled 5k and 1k. Find their total without help.<br/><b>Answer/criteria:</b> 6k",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-HELP / help</b><br/>Pay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.<br/><b>Answer/criteria:</b> Adult models smaller step. 2k change",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-RECHECK / recheck</b><br/>A pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.<br/><b>Answer/criteria:</b> 2k; 4k+2k=6k",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-STORY / closure</b><br/>Resolve the map-ticket purchase: pay 10k, cost 6k.<br/><b>Answer/criteria:</b> One ticket moves from shop to John; 4k change returned; 6k retained.",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-INDEPENDENT / independent</b><br/>Independently point to each prepared genuine coin/official image and name its value.<br/><b>Answer/criteria:</b> Every value matches dated checklist; distinguishes genuine example from pretend card; no prompts.",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-TOTAL-RECHECK",
+            "P1-13-CHANGE-HELP",
+            "P1-13-CHANGE-RECHECK",
+            "P1-13-STORY",
+            "P1-13-REAL-INDEPENDENT"
+          ]
+        },
+        {
+          "slug": "c13-textbook-24",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-INDEPENDENT / independent</b><br/>Independently arrange genuine coin under brown then white paper; rub gently under supervision and name coin.<br/><b>Answer/criteria:</b> Two actual surface rubbings, correct verified value, intact materials; no teaching prompts.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q1 / independent</b><br/>5k + 5k = __.<br/><b>Answer/criteria:</b> 10k",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q2 / independent</b><br/>10k + 10k + 5k = __.<br/><b>Answer/criteria:</b> 25k",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q3 / independent</b><br/>Pay 10k. Cost 7k. Change?<br/><b>Answer/criteria:</b> 3k",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q4 / independent</b><br/>Pay 5k. Cost 2k. Change?<br/><b>Answer/criteria:</b> 3k",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-RUB-INDEPENDENT",
+            "P1-13-Q1",
+            "P1-13-Q2",
+            "P1-13-Q3",
+            "P1-13-Q4"
+          ]
+        },
+        {
+          "slug": "c13-textbook-25",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q5 / independent</b><br/>Draw a token labelled 10k.<br/><b>Answer/criteria:</b> Outline with value 10k.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-Q6 / independent</b><br/>Why read a token value, not just count tokens?<br/><b>Answer/criteria:</b> Different tokens can have different values.",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-FRESH / fresh</b><br/>Make 20k in two different ways with 5k/10k cards shown.<br/><b>Answer/criteria:</b> 10k+10k; 10k+5k+5k; or 5k+5k+5k+5k. Choose any two.",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-FRESH / fresh</b><br/>Pay 9k, cost 6k. Find change and check.<br/><b>Answer/criteria:</b> 3k; 6k+3k=9k",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>S008 / fresh</b><br/>With newly reordered verified genuine examples, independently point to each and say denomination; distinguish pretend cards.<br/><b>Answer/criteria:</b> All stated values agree with dated checklist; no inference from size/card count; absent resources not assessed.",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "P1-13-Q5",
+            "P1-13-Q6",
+            "P1-13-TOTAL-FRESH",
+            "P1-13-CHANGE-FRESH",
+            "S008"
+          ]
+        },
+        {
+          "slug": "c13-textbook-26",
+          "kicker": "Pretend coins and change",
+          "title": "Complete task and answer map",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>S009 / fresh</b><br/>With fresh brown/white paper independently rub a verified genuine coin under each paper and say its value, supervised.<br/><b>Answer/criteria:</b> Two recognisable surface rubbings; correct verified coin value; coin/papers intact; absent resources not assessed.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-REAL-DELAYED / delayed</b><br/>Next session, reorder genuine verified examples again. Without models or help ask the pupil to name each value and distinguish a pretend card.<br/><b>Answer/criteria:</b> Checklist agreement; record each response or not assessed.",
+              "top": 296,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-TOTAL-DELAYED / delayed</b><br/>Next session, supply cards labelled 10k, 10k, 5k. Ask the pupil to make 25k without help.<br/><b>Answer/criteria:</b> 25k =10k+10k+5k",
+              "top": 412,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-CHANGE-DELAYED / delayed</b><br/>Next session, a pretend item costs 5k; pay 9k. Ask for change and an addition check without help.<br/><b>Answer/criteria:</b> 4k; 5k+4k=9k",
+              "top": 528,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>P1-13-RUB-DELAYED / delayed</b><br/>Next session, give fresh brown/white paper and a verified genuine coin. Ask for two rubbings and the coin value without prompts; supervise safety.<br/><b>Answer/criteria:</b> Two actual rubbings; verified value; materials intact; or not assessed.",
+              "top": 644,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": [
+            "S009",
+            "P1-13-REAL-DELAYED",
+            "P1-13-TOTAL-DELAYED",
+            "P1-13-CHANGE-DELAYED",
+            "P1-13-RUB-DELAYED"
+          ]
+        },
+        {
+          "slug": "c13-textbook-27",
+          "kicker": "Pretend coins and change",
+          "title": "Source map, words and credits",
+          "subtitle": "Read together. Keep this textbook reusable.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "<b>Verbatim original source map.</b><br/>P1-13-Q1: 5k + 5k = __. Answer: 10k<br/>P1-13-Q2: 10k + 10k + 5k = __. Answer: 25k<br/>P1-13-Q3: Pay 10k. Cost 7k. Change? Answer: 3k<br/>P1-13-Q4: Pay 5k. Cost 2k. Change? Answer: 3k<br/>P1-13-Q5: Draw a token labelled 10k. Answer: Outline with value 10k.<br/>P1-13-Q6: Why read a token value, not just count tokens? Answer: Different tokens can have different values.",
+              "top": 180,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>Supplement mapping.</b> S008 -> workbook7 genuine recognition; S009 -> workbook7 genuine rubbing. These keep the original conditional resource requirements. Complete original supplementary wording is retained in canonical source_tasks evidence; no supplementary source bytes changed.",
+              "top": 420,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>Words.</b> Kobo: money unit; 100kobo=1naira. Value: how much. Denomination: a stated money value. Total: values altogether. Cost: amount asked. Payment: amount given. Change: amount returned. Rubbing: a surface pattern transferred through paper with pencil.",
+              "top": 525,
+              "size": 11
+            },
+            {
+              "type": "text",
+              "text": "<b>Credits.</b> Existing Mrs Binta classroom artwork; original prompts/provenance: artwork/redesign/scenes/mrs-binta-blackboard-v1.provenance.json and artwork/manifest.json. Rectangular value cards are deterministic PDF vectors, never coin designs or inferred artwork quantities. DejaVu Sans licence: fonts/LICENSE_DEJAVU.txt. No new artwork or dependencies.",
+              "top": 655,
+              "size": 11
+            }
+          ],
+          "task_ids": [],
+          "adult": true,
+          "answer_ids": []
+        }
+      ],
+      "workbook_pages": [
+        {
+          "slug": "c13-workbook-1",
+          "kicker": "Pretend coins and change / Workbook page 1",
+          "title": "Read genuine coin values",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Only begin when the adult has verified genuine examples and a dated value checklist. Otherwise the adult writes not assessed. Look at each example. Point to it and say its value by yourself. Point to a pretend card and say how it differs.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Adult record: examples, source and date; pupil's exact values; correct / needs help / not assessed. Do not guess values or draw substitute coins.",
+              "top": 365,
+              "size": 13
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 445,
+              "width": 509,
+              "height": 235,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-REAL-INDEPENDENT"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-2",
+          "kicker": "Pretend coins and change / Workbook page 2",
+          "title": "Try a real coin rubbing",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Only begin with a verified genuine coin, brown paper, white paper and a pencil. An adult supervises. Put the coin under brown paper. Hold the paper still. Gently rub with the pencil side on the paper. Repeat with white paper. Say the coin value.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "text",
+              "text": "Keep the separate brown and white sheets with this page. An adult can secure them. A drawing of a token does not show this skill. Adult: record coin, date, help, result, or not assessed.",
+              "top": 385,
+              "size": 13
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 475,
+              "width": 509,
+              "height": 230,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-RUB-INDEPENDENT"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-3",
+          "kicker": "Pretend coins and change / Workbook page 3",
+          "title": "Add the card values",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Read each card value. Find the total. Write the addition and its answer with k.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 265,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 279,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 265,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 279,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 350,
+              "width": 509,
+              "height": 110,
+              "response": true
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 525,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 539,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 525,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 539,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 240,
+              "top": 525,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 539,
+              "size": 22,
+              "x": 254,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 615,
+              "width": 509,
+              "height": 110,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q1",
+            "P1-13-Q2"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-4",
+          "kicker": "Pretend coins and change / Workbook page 4",
+          "title": "Find the change",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Pay 10k. Cost 7k. Find the change. Check by adding cost and change.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 285,
+              "width": 509,
+              "height": 135,
+              "response": true
+            },
+            {
+              "type": "text",
+              "text": "Pay 5k. Cost 2k. Find the change. Check by adding cost and change.",
+              "top": 460,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 570,
+              "width": 509,
+              "height": 140,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q3",
+            "P1-13-Q4"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-5",
+          "kicker": "Pretend coins and change / Workbook page 5",
+          "title": "Draw and explain",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Draw a pretend token outline. Label it 10k. This is your invented token, not a picture or rubbing of real money.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 275,
+              "width": 509,
+              "height": 150,
+              "response": true
+            },
+            {
+              "type": "text",
+              "text": "Why read a token value instead of just counting tokens? Say or write your reason.",
+              "top": 470,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 570,
+              "width": 509,
+              "height": 140,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-Q5",
+            "P1-13-Q6"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-6",
+          "kicker": "Pretend coins and change / Workbook page 6",
+          "title": "A fresh shop puzzle",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Use these pretend card values. You may copy a value more than once. Make 20k in two different ways. Write or draw both ways.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 48,
+              "top": 280,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>5k</b>",
+              "top": 294,
+              "size": 22,
+              "x": 62,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 144,
+              "top": 280,
+              "width": 83,
+              "height": 65
+            },
+            {
+              "type": "text",
+              "text": "<b>10k</b>",
+              "top": 294,
+              "size": 22,
+              "x": 158,
+              "width": 65
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 370,
+              "width": 509,
+              "height": 130,
+              "response": true
+            },
+            {
+              "type": "text",
+              "text": "A pretend item costs 6k. Pay 9k. Find the change. Write a check using cost plus change.",
+              "top": 540,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 635,
+              "width": 509,
+              "height": 100,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "P1-13-TOTAL-FRESH",
+            "P1-13-CHANGE-FRESH"
+          ],
+          "adult": false,
+          "answer_ids": []
+        },
+        {
+          "slug": "c13-workbook-7",
+          "kicker": "Pretend coins and change / Workbook page 7",
+          "title": "Fresh genuine-coin checks",
+          "subtitle": "Read together. Write or draw in the spaces.",
+          "elements": [
+            {
+              "type": "text",
+              "text": "Only when verified examples are ready: the adult changes their order. Point to each genuine coin or verified official image. Say its value by yourself. Distinguish it from a pretend card.",
+              "top": 180,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 290,
+              "width": 509,
+              "height": 105,
+              "response": true
+            },
+            {
+              "type": "text",
+              "text": "Only with genuine coin, pencil and fresh brown and white paper: make one gentle surface rubbing through each paper. Say the coin value. Keep both sheets here. The adult supervises and records results without teaching prompts.",
+              "top": 435,
+              "size": 15
+            },
+            {
+              "type": "box",
+              "x": 43,
+              "top": 575,
+              "width": 509,
+              "height": 135,
+              "response": true
+            }
+          ],
+          "task_ids": [
+            "S008",
+            "S009"
+          ],
+          "adult": false,
+          "answer_ids": []
+        }
+      ],
+      "author_content": {
+        "author": "Codex /root/chapter13_author",
+        "tasks": [
+          {
+            "id": "P1-13-VALUE-MODEL",
+            "mode": "model",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Read a 10k card and compare it with two 5k cards.",
+            "answer": "One card versus two cards; both values are 10k.",
+            "equations": [
+              "5+5=10"
+            ]
+          },
+          {
+            "id": "P1-13-REAL-MODEL",
+            "mode": "model",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "Watch the adult point to a verified coin or genuine image and say its value.",
+            "answer": "Adult names each actual example from the dated checklist and distinguishes it from pretend cards.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-REAL-GUIDED",
+            "mode": "guided",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "Point to a verified example. Say its value with the adult.",
+            "answer": "Value agrees with checklist; adult prompts permitted.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-RUB-MODEL",
+            "mode": "model",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "Watch a gentle coin rubbing through brown then white paper.",
+            "answer": "Two surface rubbings; adult names verified coin; surfaces show through paper; materials intact.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-RUB-GUIDED",
+            "mode": "guided",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "With supervision make a rubbing on brown paper, then white paper. Say the coin value.",
+            "answer": "Both actual surface rubbings; correct verified value; coin and papers intact; support recorded.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-TOTAL-MODEL",
+            "mode": "model",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Make 15k using 10k and 5k cards.",
+            "answer": "15k",
+            "equations": [
+              "10+5=15"
+            ]
+          },
+          {
+            "id": "P1-13-TOTAL-GUIDED",
+            "mode": "guided",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Together make 11k using 5k, 5k, 1k.",
+            "answer": "11k",
+            "equations": [
+              "5+5+1=11"
+            ]
+          },
+          {
+            "id": "P1-13-CHANGE-MODEL",
+            "mode": "model",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 10k for a 6k ticket. Find the change.",
+            "answer": "4k; cost plus change equals payment.",
+            "equations": [
+              "10-6=4",
+              "6+4=10"
+            ],
+            "payment": 10,
+            "cost": 6
+          },
+          {
+            "id": "P1-13-CHANGE-GUIDED",
+            "mode": "guided",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 8k for a 5k pretend item. Find change.",
+            "answer": "3k",
+            "equations": [
+              "8-5=3",
+              "5+3=8"
+            ],
+            "payment": 8,
+            "cost": 5
+          },
+          {
+            "id": "P1-13-RECALL",
+            "mode": "recall",
+            "objectives": [
+              "P1-p08-01",
+              "P1-p08-02",
+              "P1-p08-03",
+              "P1-p08-04"
+            ],
+            "prompt": "Before help: say how to read a value, add cards, find change and make a real rubbing.",
+            "answer": "Read verified value/label; add values not cards; count from cost to payment then check; rub genuine surface through both papers when available.",
+            "equations": []
+          },
+          {
+            "id": "P1-13-REAL-HELP",
+            "mode": "help",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "Use two verified real examples with DIFFERENT values. Mrs Binta says one value. Match it by pointing. Look at each example with her, not at its size.",
+            "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-REAL-RECHECK",
+            "mode": "recheck",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "The adult now reverses the two examples and removes the value labels. Name each value yourself.",
+            "answer": "Each actual value matches the dated checklist; record help separately.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-RUB-HELP",
+            "mode": "help",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "Hold one genuine coin under white paper. The adult steadies it and shows a short gentle pencil stroke. Repeat with brown paper.",
+            "answer": "Adult models smaller step. Resources required; not assessed if absent.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-RUB-RECHECK",
+            "mode": "recheck",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "With fresh brown and white paper, place the coin yourself and make both rubbings under supervision. Say its verified value.",
+            "answer": "Two surface rubbings, correct verified value, materials intact; record any assistance.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-TOTAL-HELP",
+            "mode": "help",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Read two 1k labels. Join their values: 1k + 1k = 2k. Touch each label once.",
+            "answer": "Adult models smaller step. 2k",
+            "equations": [
+              "1+1=2"
+            ],
+            "conditional": false
+          },
+          {
+            "id": "P1-13-TOTAL-RECHECK",
+            "mode": "recheck",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Read cards labelled 5k and 1k. Find their total without help.",
+            "answer": "6k",
+            "equations": [
+              "5+1=6"
+            ],
+            "conditional": false
+          },
+          {
+            "id": "P1-13-CHANGE-HELP",
+            "mode": "help",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.",
+            "answer": "Adult models smaller step. 2k change",
+            "equations": [
+              "5-3=2",
+              "3+2=5"
+            ],
+            "conditional": false
+          },
+          {
+            "id": "P1-13-CHANGE-RECHECK",
+            "mode": "recheck",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "A pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.",
+            "answer": "2k; 4k+2k=6k",
+            "equations": [
+              "6-4=2",
+              "4+2=6"
+            ],
+            "conditional": false
+          },
+          {
+            "id": "P1-13-STORY",
+            "mode": "closure",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
+            "answer": "One ticket moves from shop to John; 4k change returned; 6k retained.",
+            "equations": [
+              "10-6=4",
+              "6+4=10"
+            ],
+            "payment": 10,
+            "cost": 6
+          },
+          {
+            "id": "P1-13-REAL-INDEPENDENT",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "Independently point to each prepared genuine coin/official image and name its value.",
+            "answer": "Every value matches dated checklist; distinguishes genuine example from pretend card; no prompts.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-RUB-INDEPENDENT",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "Independently arrange genuine coin under brown then white paper; rub gently under supervision and name coin.",
+            "answer": "Two actual surface rubbings, correct verified value, intact materials; no teaching prompts.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-Q1",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "5k + 5k = __.",
+            "answer": "10k",
+            "equations": [
+              "5+5=10"
+            ]
+          },
+          {
+            "id": "P1-13-Q2",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "10k + 10k + 5k = __.",
+            "answer": "25k",
+            "equations": [
+              "10+10+5=25"
+            ]
+          },
+          {
+            "id": "P1-13-Q3",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 10k. Cost 7k. Change?",
+            "answer": "3k",
+            "equations": [
+              "10-7=3",
+              "7+3=10"
+            ],
+            "payment": 10,
+            "cost": 7
+          },
+          {
+            "id": "P1-13-Q4",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 5k. Cost 2k. Change?",
+            "answer": "3k",
+            "equations": [
+              "5-2=3",
+              "2+3=5"
+            ],
+            "payment": 5,
+            "cost": 2
+          },
+          {
+            "id": "P1-13-Q5",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Draw a token labelled 10k.",
+            "answer": "Outline with value 10k.",
+            "equations": []
+          },
+          {
+            "id": "P1-13-Q6",
+            "mode": "independent",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Why read a token value, not just count tokens?",
+            "answer": "Different tokens can have different values.",
+            "equations": []
+          },
+          {
+            "id": "P1-13-TOTAL-FRESH",
+            "mode": "fresh",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Make 20k in two different ways with 5k/10k cards shown.",
+            "answer": "10k+10k; 10k+5k+5k; or 5k+5k+5k+5k. Choose any two.",
+            "equations": [
+              "10+10=20",
+              "10+5+5=20",
+              "5+5+5+5=20"
+            ]
+          },
+          {
+            "id": "P1-13-CHANGE-FRESH",
+            "mode": "fresh",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Pay 9k, cost 6k. Find change and check.",
+            "answer": "3k; 6k+3k=9k",
+            "equations": [
+              "9-6=3",
+              "6+3=9"
+            ],
+            "payment": 9,
+            "cost": 6
+          },
+          {
+            "id": "S008",
+            "mode": "fresh",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "With newly reordered verified genuine examples, independently point to each and say denomination; distinguish pretend cards.",
+            "answer": "All stated values agree with dated checklist; no inference from size/card count; absent resources not assessed.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "S009",
+            "mode": "fresh",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "With fresh brown/white paper independently rub a verified genuine coin under each paper and say its value, supervised.",
+            "answer": "Two recognisable surface rubbings; correct verified coin value; coin/papers intact; absent resources not assessed.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-REAL-DELAYED",
+            "mode": "delayed",
+            "objectives": [
+              "P1-p08-01"
+            ],
+            "prompt": "Next session, reorder genuine verified examples again. Without models or help ask the pupil to name each value and distinguish a pretend card.",
+            "answer": "Checklist agreement; record each response or not assessed.",
+            "equations": [],
+            "conditional": true
+          },
+          {
+            "id": "P1-13-TOTAL-DELAYED",
+            "mode": "delayed",
+            "objectives": [
+              "P1-p08-02"
+            ],
+            "prompt": "Next session, supply cards labelled 10k, 10k, 5k. Ask the pupil to make 25k without help.",
+            "answer": "25k =10k+10k+5k",
+            "equations": [
+              "10+10+5=25"
+            ],
+            "conditional": false
+          },
+          {
+            "id": "P1-13-CHANGE-DELAYED",
+            "mode": "delayed",
+            "objectives": [
+              "P1-p08-03"
+            ],
+            "prompt": "Next session, a pretend item costs 5k; pay 9k. Ask for change and an addition check without help.",
+            "answer": "4k; 5k+4k=9k",
+            "equations": [
+              "9-5=4",
+              "5+4=9"
+            ],
+            "conditional": false,
+            "payment": 9,
+            "cost": 5
+          },
+          {
+            "id": "P1-13-RUB-DELAYED",
+            "mode": "delayed",
+            "objectives": [
+              "P1-p08-04"
+            ],
+            "prompt": "Next session, give fresh brown/white paper and a verified genuine coin. Ask for two rubbings and the coin value without prompts; supervise safety.",
+            "answer": "Two actual rubbings; verified value; materials intact; or not assessed.",
+            "equations": [],
+            "conditional": true
+          }
+        ],
+        "diagrams": [
+          {
+            "id": "VALUE-ONE",
+            "values": [
+              10
+            ],
+            "count": 1,
+            "top": 358,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "VALUE-TWO",
+            "values": [
+              5,
+              5
+            ],
+            "count": 2,
+            "top": 495,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TOTAL-MODEL",
+            "values": [
+              10,
+              5
+            ],
+            "count": 2,
+            "top": 310,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TOTAL-GUIDED",
+            "values": [
+              5,
+              5,
+              1
+            ],
+            "count": 3,
+            "top": 535,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TOTAL-RECHECK",
+            "values": [
+              5,
+              1
+            ],
+            "count": 2,
+            "top": 530,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "Q1-CARDS",
+            "values": [
+              5,
+              5
+            ],
+            "count": 2,
+            "top": 265,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "Q2-CARDS",
+            "values": [
+              10,
+              10,
+              5
+            ],
+            "count": 3,
+            "top": 525,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "FRESH-CARDS",
+            "values": [
+              5,
+              10
+            ],
+            "count": 2,
+            "top": 280,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TB-Q1",
+            "values": [
+              5,
+              5
+            ],
+            "count": 2,
+            "top": 300,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TB-Q2",
+            "values": [
+              10,
+              10,
+              5
+            ],
+            "count": 3,
+            "top": 490,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          },
+          {
+            "id": "TB-FRESH",
+            "values": [
+              5,
+              10
+            ],
+            "count": 2,
+            "top": 320,
+            "x": 48,
+            "gap": 96,
+            "width": 83,
+            "height": 65
+          }
+        ],
+        "stages": {
+          "S1": [
+            1
+          ],
+          "S2": [
+            1
+          ],
+          "S3": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "S4": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "S5": [
+            "textbook7-9",
+            "workbook1-5"
+          ],
+          "S6": [
+            10
+          ],
+          "S7": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "S8": [
+            15
+          ],
+          "S9": [
+            "textbook16",
+            "workbook6-7",
+            "textbook18"
+          ]
+        }
+      }
+    }
   },
   {
     "id": "P1-14",
