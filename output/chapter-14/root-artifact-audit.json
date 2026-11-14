@@ -1,0 +1,913 @@
+{
+  "coordinator": "/root",
+  "tasks": 32,
+  "objectives": 5,
+  "verified_vector_instances": 59,
+  "ledger_observations": 65,
+  "vectors": [
+    {
+      "diagram": "model-order",
+      "role": "textbook",
+      "page": 2,
+      "label": "A",
+      "rect": [
+        100.0,
+        322.0,
+        352.0,
+        322.0
+      ],
+      "length": 252,
+      "units": 6,
+      "segmented": false
+    },
+    {
+      "diagram": "model-order",
+      "role": "textbook",
+      "page": 2,
+      "label": "B",
+      "rect": [
+        100.0,
+        387.0,
+        184.0,
+        387.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "model-order",
+      "role": "textbook",
+      "page": 2,
+      "label": "C",
+      "rect": [
+        100.0,
+        452.0,
+        268.0,
+        452.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "model-order",
+      "role": "textbook",
+      "page": 2,
+      "label": "D",
+      "rect": [
+        100.0,
+        517.0,
+        352.0,
+        517.0
+      ],
+      "length": 252,
+      "units": 6,
+      "segmented": false
+    },
+    {
+      "diagram": "model-units",
+      "role": "textbook",
+      "page": 3,
+      "label": "A",
+      "rect": [
+        100.0,
+        582.0,
+        226.0,
+        582.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": true
+    },
+    {
+      "diagram": "model-units",
+      "role": "textbook",
+      "page": 3,
+      "label": "B",
+      "rect": [
+        100.0,
+        647.0,
+        310.0,
+        647.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": true
+    },
+    {
+      "diagram": "model-units",
+      "role": "textbook",
+      "page": 3,
+      "label": "Label",
+      "rect": [
+        100.0,
+        712.0,
+        268.0,
+        712.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": true
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "textbook",
+      "page": 4,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        268.0,
+        302.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "textbook",
+      "page": 4,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        142.0,
+        367.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "textbook",
+      "page": 4,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        226.0,
+        432.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "workbook",
+      "page": 2,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        268.0,
+        282.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "workbook",
+      "page": 2,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        142.0,
+        347.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "guided-compare",
+      "role": "workbook",
+      "page": 2,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        226.0,
+        412.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "textbook",
+      "page": 5,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        226.0,
+        302.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "textbook",
+      "page": 5,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        310.0,
+        367.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "textbook",
+      "page": 5,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        226.0,
+        432.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "workbook",
+      "page": 3,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        226.0,
+        282.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "workbook",
+      "page": 3,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        310.0,
+        347.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "independent-compare",
+      "role": "workbook",
+      "page": 3,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        226.0,
+        412.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "textbook",
+      "page": 7,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        310.0,
+        302.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "textbook",
+      "page": 7,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        184.0,
+        367.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "textbook",
+      "page": 7,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        268.0,
+        432.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "workbook",
+      "page": 6,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        310.0,
+        282.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "workbook",
+      "page": 6,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        184.0,
+        347.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "recall-compare",
+      "role": "workbook",
+      "page": 6,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        268.0,
+        412.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "textbook",
+      "page": 9,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        142.0,
+        302.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "textbook",
+      "page": 9,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        268.0,
+        367.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "textbook",
+      "page": 9,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        184.0,
+        432.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "workbook",
+      "page": 7,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        142.0,
+        282.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "workbook",
+      "page": 7,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        268.0,
+        347.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "help-compare",
+      "role": "workbook",
+      "page": 7,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        184.0,
+        412.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "textbook",
+      "page": 10,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        226.0,
+        302.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "textbook",
+      "page": 10,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        142.0,
+        367.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "textbook",
+      "page": 10,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        310.0,
+        432.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "workbook",
+      "page": 8,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        226.0,
+        282.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "workbook",
+      "page": 8,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        142.0,
+        347.0
+      ],
+      "length": 42,
+      "units": 1,
+      "segmented": false
+    },
+    {
+      "diagram": "recheck-compare",
+      "role": "workbook",
+      "page": 8,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        310.0,
+        412.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "textbook",
+      "page": 12,
+      "label": "A",
+      "rect": [
+        100.0,
+        302.0,
+        268.0,
+        302.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "textbook",
+      "page": 12,
+      "label": "B",
+      "rect": [
+        100.0,
+        367.0,
+        394.0,
+        367.0
+      ],
+      "length": 294,
+      "units": 7,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "textbook",
+      "page": 12,
+      "label": "C",
+      "rect": [
+        100.0,
+        432.0,
+        184.0,
+        432.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "workbook",
+      "page": 10,
+      "label": "A",
+      "rect": [
+        100.0,
+        282.0,
+        268.0,
+        282.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "workbook",
+      "page": 10,
+      "label": "B",
+      "rect": [
+        100.0,
+        347.0,
+        394.0,
+        347.0
+      ],
+      "length": 294,
+      "units": 7,
+      "segmented": false
+    },
+    {
+      "diagram": "fresh-compare",
+      "role": "workbook",
+      "page": 10,
+      "label": "C",
+      "rect": [
+        100.0,
+        412.0,
+        184.0,
+        412.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": false
+    },
+    {
+      "diagram": "source-3-5",
+      "role": "textbook",
+      "page": 8,
+      "label": "X",
+      "rect": [
+        100.0,
+        302.0,
+        226.0,
+        302.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": true
+    },
+    {
+      "diagram": "source-3-5",
+      "role": "textbook",
+      "page": 8,
+      "label": "Y",
+      "rect": [
+        100.0,
+        367.0,
+        310.0,
+        367.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": true
+    },
+    {
+      "diagram": "source-2-6-4",
+      "role": "textbook",
+      "page": 8,
+      "label": "P",
+      "rect": [
+        100.0,
+        487.0,
+        184.0,
+        487.0
+      ],
+      "length": 84,
+      "units": 2,
+      "segmented": true
+    },
+    {
+      "diagram": "source-2-6-4",
+      "role": "textbook",
+      "page": 8,
+      "label": "Q",
+      "rect": [
+        100.0,
+        552.0,
+        352.0,
+        552.0
+      ],
+      "length": 252,
+      "units": 6,
+      "segmented": true
+    },
+    {
+      "diagram": "source-2-6-4",
+      "role": "textbook",
+      "page": 8,
+      "label": "R",
+      "rect": [
+        100.0,
+        617.0,
+        268.0,
+        617.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-source-3-5",
+      "role": "workbook",
+      "page": 5,
+      "label": "X",
+      "rect": [
+        100.0,
+        232.0,
+        205.0,
+        232.0
+      ],
+      "length": 105,
+      "units": 3,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-source-3-5",
+      "role": "workbook",
+      "page": 5,
+      "label": "Y",
+      "rect": [
+        100.0,
+        297.0,
+        275.0,
+        297.0
+      ],
+      "length": 175,
+      "units": 5,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-source-2-6-4",
+      "role": "workbook",
+      "page": 5,
+      "label": "P",
+      "rect": [
+        100.0,
+        412.0,
+        170.0,
+        412.0
+      ],
+      "length": 70,
+      "units": 2,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-source-2-6-4",
+      "role": "workbook",
+      "page": 5,
+      "label": "Q",
+      "rect": [
+        100.0,
+        477.0,
+        310.0,
+        477.0
+      ],
+      "length": 210,
+      "units": 6,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-source-2-6-4",
+      "role": "workbook",
+      "page": 5,
+      "label": "R",
+      "rect": [
+        100.0,
+        542.0,
+        240.0,
+        542.0
+      ],
+      "length": 140,
+      "units": 4,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "textbook",
+      "page": 11,
+      "label": "A",
+      "rect": [
+        100.0,
+        402.0,
+        226.0,
+        402.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "textbook",
+      "page": 11,
+      "label": "B",
+      "rect": [
+        100.0,
+        467.0,
+        310.0,
+        467.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "textbook",
+      "page": 11,
+      "label": "Label",
+      "rect": [
+        100.0,
+        532.0,
+        268.0,
+        532.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "workbook",
+      "page": 9,
+      "label": "A",
+      "rect": [
+        100.0,
+        402.0,
+        226.0,
+        402.0
+      ],
+      "length": 126,
+      "units": 3,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "workbook",
+      "page": 9,
+      "label": "B",
+      "rect": [
+        100.0,
+        467.0,
+        310.0,
+        467.0
+      ],
+      "length": 210,
+      "units": 5,
+      "segmented": true
+    },
+    {
+      "diagram": "wb-story-fit",
+      "role": "workbook",
+      "page": 9,
+      "label": "Label",
+      "rect": [
+        100.0,
+        532.0,
+        268.0,
+        532.0
+      ],
+      "length": 168,
+      "units": 4,
+      "segmented": true
+    }
+  ],
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "pages": 21,
+      "sha256": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "pages": 10,
+      "sha256": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1"
+    }
+  },
+  "checks": [
+    "All task/answer links and five seven-mode objective maps present",
+    "Actual PDF line lengths and aligned starts match canonical values",
+    "Every segmented repeated unit has an actual PDF tick at each boundary",
+    "All pages A4 with text within bounds and no replacement glyphs",
+    "No duplicate task IDs within pages; source comparison/order/return-total independently recalculated"
+  ]
+}

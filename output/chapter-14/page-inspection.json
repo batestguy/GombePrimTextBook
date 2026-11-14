@@ -1,0 +1,161 @@
+{
+  "textbook": [
+    {
+      "page": 1,
+      "sha256": "06a2b5a226947e043326e2ebb37a3c0f09326ecd4439d2394abaa90eac32a6f6",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 2,
+      "sha256": "84a8f55a817aee13f5041f9e59b2301dfc641784ed88e571b0b3612a14ba8d54",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 3,
+      "sha256": "e01872925e5a6ff42de66bdec1f3dedfb7a96272e33c6c96b98ee1c6ca4d582f",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 4,
+      "sha256": "4995408566f6db6285a776e2e4144a7119e5ebdd36c035675a53d312d6852578",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 5,
+      "sha256": "2ef1e774f877a8f53e9669e5cdb496a90d18356fbbe0bb03835ea029d57fc746",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 6,
+      "sha256": "98bf919c68e9267920724867a19ba65932b55217a62762390061a0fdf25c67cf",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 7,
+      "sha256": "8e04de176c1cd2ba119fde2dc1fb545800907ba9eb138e5e698560f14e2413e4",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 8,
+      "sha256": "7057d590591dfdd14f8332189e24803d6ce7d19f97f960c58ce314b8725c3154",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 9,
+      "sha256": "973e445ea0b86f3876ff22a37f76969985cdd5c9747a73a4cc15c9c1623fabe6",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 10,
+      "sha256": "a20eea9d18c859f9ad2a6d01404d942c64abf5c9dd89858902df621699464c85",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 11,
+      "sha256": "cf1d9fa2b9fd70aafa3883b4466421c225a61ed6b817e34fd1bf38da0487617e",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 12,
+      "sha256": "5f54aafec721aacc832709b152db5e51e11ad0dc7c8cd9b39c228fe345e0cfa9",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 13,
+      "sha256": "e72d45ee8a013c765170528f66542d7840633ef9d40a01ecfb2106442a87c141",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 14,
+      "sha256": "f9332e10e23cd2ad7d6100b22bf0f35d3d36c81da283d31907630e101fc5cee5",
+      "result": "changed adult page visually re-inspected after rubric correction; readable; no overlap/clipping"
+    },
+    {
+      "page": 15,
+      "sha256": "33e6f18b41f863c50577f32504e877d90c9d889825f7deea526c7419d29e77b5",
+      "result": "changed adult page visually re-inspected after rubric correction; readable; no overlap/clipping"
+    },
+    {
+      "page": 16,
+      "sha256": "cac9affc6a19f6e6a3ab0faf40495845232dd500975b2978cf3fa6ed34b148b2",
+      "result": "changed adult page visually re-inspected after rubric correction; readable; no overlap/clipping"
+    },
+    {
+      "page": 17,
+      "sha256": "88a98cf5c9ff39efc925f360aeeeb68df36bbe666edfb79e847a8afcc8c69d72",
+      "result": "changed adult page visually re-inspected after rubric correction; readable; no overlap/clipping"
+    },
+    {
+      "page": 18,
+      "sha256": "d9e3f68a9415f3cdb4cd6261e21724224c34050736aaca9885ae3cbae9e5fac1",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 19,
+      "sha256": "d1fd085664a0669ba80bae31bca2de3a303923507d8314d6b61326131ced9898",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 20,
+      "sha256": "b4c6875c52a32b8aec407d9f32f58f97e6e38d06c1595e3c610b303299a6c0d0",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 21,
+      "sha256": "243f5e483b8dc40e347ce8866c9bb654d4f0da31901c816ed4c34c64a85ffbbc",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    }
+  ],
+  "workbook": [
+    {
+      "page": 1,
+      "sha256": "3eb09f66d4e89fc82911fadb1e72023f1df8f67575d360607f7286f1d2158e52",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 2,
+      "sha256": "06dfe7410dd63b48f8b3616534a2379aa1bf64cf9b6f824f0d421e7772547653",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 3,
+      "sha256": "9d8638d33b8a4dc943a617923f18a23fd6033a8a414643dfe2d8b60e130a3da8",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 4,
+      "sha256": "1cf5cbf7663cee55d7cb068bc5e9dfc7361298479710e3ec9d4ca27df6fea554",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 5,
+      "sha256": "2c9eec6f664ba96283d2ed6d311e0615ef92e178dc62d2f047fb214d0be3e6d1",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 6,
+      "sha256": "c2fa1e2d39c632fc42d3b257e8532713c787908ee7bddaf74a3478a31490f26f",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 7,
+      "sha256": "075b2ad789195b8b9e71c7fd47e857a1868b36ec105375651f7b49db7fcfaa96",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 8,
+      "sha256": "57c4d7d55a62d6774f3b957caed321590cbdc7618d44998c88e5bcf7eab09989",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 9,
+      "sha256": "594bc0875b3bb91fc7a1a1eb39368cbf0520d19a95cfe9e20fc6c7aec0341b15",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    },
+    {
+      "page": 10,
+      "sha256": "b67a9776ef004bb77d6f2fd0bf99e66946126a89e5747adabdd2a87d1eeee3d2",
+      "result": "unchanged pixel hash; earlier author visual inspection retained"
+    }
+  ]
+}

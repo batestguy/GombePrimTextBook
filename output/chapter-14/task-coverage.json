@@ -1,0 +1,766 @@
+[
+  {
+    "id": "P1-14-COMPARE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Watch aligned starts and order strips.",
+    "answer": "B shortest, C middle, A longest; A and D equal.",
+    "values": [
+      6,
+      2,
+      4,
+      6
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-14-MEASURE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p09-04",
+      "P1-p09-05"
+    ],
+    "prompt": "Watch hand spans, steps and a local choice.",
+    "answer": "Adult demonstrates same-person repeated hand spans and steps; actual counts observed. Strip B covers a 4-unit label; A does not.",
+    "values": [
+      3,
+      5,
+      4
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-14-GUIDED-COMPARE",
+    "mode": "guided",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "<b>Mr Aliyu:</b> Touch the starts. <b>Aishatu:</b> C is longest because it is lowest. <b>Adamu:</b> Let us check the ends. Help them order B, C and A fairly.",
+    "answer": "B,C,A; A longest; B shortest",
+    "values": [
+      4,
+      1,
+      3
+    ],
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-14-GUIDED-MEASURE",
+    "mode": "guided",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Together measure a reachable book with one repeated paper strip. Then try a table in one person's spans and a safe route in that person's steps. Say the person, unit, full count and any part.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-14-GUIDED-LOCAL",
+    "mode": "guided",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Together order three safe similar pencils. Measure one. Which would cover your short paper label? Check it against the label.",
+    "answer": "Three safe similar local pencils are ordered by actual aligned lengths. One is measured with a consistent repeated unit. A pencil long enough for the short paper label is chosen and its fit checked against the label.",
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-14-INDEPENDENT-COMPARE",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Align starts. Say the shortest and longest. Say the order from shortest to longest. Explain how the ends help.",
+    "answer": "A and C equal, B longer; A/C then B",
+    "values": [
+      3,
+      5,
+      3
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-14-INDEPENDENT-MEASURE",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Measure a book with repeated paper-strip units. Keep the same unit with no gaps. Name the unit; record full units and any part.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-14-INDEPENDENT-LOCAL",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Draw a line longer than your finger in your workbook or exercise book. Compare its ends with your finger to check.",
+    "answer": "The drawn line exceeds that pupil's own finger length when the line and finger starts are aligned and their far ends compared.",
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECALL-COMPARE",
+    "mode": "recall",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Align starts. Say the shortest and longest. Say the order from shortest to longest. Explain how the ends help.",
+    "answer": "B,C,A",
+    "values": [
+      5,
+      2,
+      4
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECALL-MEASURE",
+    "mode": "recall",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Without looking back, explain how to repeat a unit. Show one hand span on a reachable edge. Show the same step on a safe clear path, if available.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECALL-LOCAL",
+    "mode": "recall",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Choose three similar safe objects nearby. Explain how to order them and measure one. Try before looking at the help page.",
+    "answer": "The pupil explains how to align starts and compare endpoints to order the three local objects, then measures one with a consistent repeated unit. Try before reminders; record the actual explanation and measurement.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-14-HELP-COMPARE",
+    "mode": "help",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Align starts. Say the shortest and longest. Say the order from shortest to longest. Explain how the ends help.",
+    "answer": "A,C,B",
+    "values": [
+      1,
+      4,
+      2
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-14-HELP-MEASURE",
+    "mode": "help",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Mr Aliyu marks one hand span start and finish. Move the same span to that finish. Count two full repeats. Try two equal steps on a clear route with adult support.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-14-HELP-LOCAL",
+    "mode": "help",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Use two similar local strips first. Align starts. Measure the shorter with one fixed paper strip. Then add a third strip and compare again.",
+    "answer": "The two local strip starts are aligned. The shorter strip is measured with one fixed paper-strip unit repeated consistently. A third strip is added and its actual length compared with the other two.",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECHECK-COMPARE",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Align starts. Say the shortest and longest. Say the order from shortest to longest. Explain how the ends help.",
+    "answer": "B,A,C",
+    "values": [
+      3,
+      1,
+      5
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECHECK-MEASURE",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Use a different reachable edge and short safe route. Repeat your spans and steps alone; name the person and units. Record the actual counts and any part.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-14-RECHECK-LOCAL",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Choose a different local trio. Order them. Measure one consistently. Choose one to cover a new label and test the fit.",
+    "answer": "A different local trio is ordered by actual aligned lengths. One is measured consistently. A strip is chosen to cover a new label and its fit is tested.",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-14-FRESH-COMPARE",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Align starts. Say the shortest and longest. Say the order from shortest to longest. Explain how the ends help.",
+    "answer": "C,A,B",
+    "values": [
+      4,
+      7,
+      2
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-14-FRESH-MEASURE",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Measure a different table edge in your hand spans and a new short safe path in your steps. Record counts and whose units. Do not look at the models.",
+    "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-14-FRESH-LOCAL",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Find three NEW safe similar objects nearby. Order them and explain. Measure one with your own repeated unit. Choose a strip to cover a new label; check the fit.",
+    "answer": "Three new safe similar local objects are ordered by aligned lengths, with an endpoint explanation. One is measured using the pupil's own consistent repeated unit. A strip is chosen for a new label and the fit checked.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q1",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02"
+    ],
+    "prompt": "Lengths are 3 and 5 equal strips. Which is longer?",
+    "answer": "The 5-strip length",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q2",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-02",
+      "P1-p09-03"
+    ],
+    "prompt": "Order 2, 6, 4 spans from shortest.",
+    "answer": "2, 4, 6 spans",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q3",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-05"
+    ],
+    "prompt": "Draw a line longer than your finger.",
+    "answer": "Line exceeds that pupil's finger length.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q4",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "A path is 8 steps out and 8 back. Total?",
+    "answer": "16 steps",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q5",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Measure a book with repeated paper-strip units.",
+    "answer": "Practical count, same unit repeated without gaps.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-14-Q6",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02"
+    ],
+    "prompt": "Why line up the string ends?",
+    "answer": "So the other ends show the difference fairly.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-14-STORY",
+    "mode": "resolution",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03",
+      "P1-p09-04",
+      "P1-p09-05"
+    ],
+    "prompt": "Choose strip for label, and explain route count.",
+    "answer": "B covers 4-unit label; A (3) does not; 8+8=16 steps by same person; actual fitting confirms.",
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "S010",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-03"
+    ],
+    "prompt": "Align one end of three NEW similar strips. Arrange shortest to longest and explain.",
+    "answer": "Actual physical increasing order with explanation of endpoints.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "S011",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-04"
+    ],
+    "prompt": "Measure a new table in your spans and a safe new path in your steps. Record counts and whose units.",
+    "answer": "Actual method no gaps/overlaps; named person/unit/count/part. Seated strip adaptation recorded separately.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "S012",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p09-05"
+    ],
+    "prompt": "Find three new safe similar objects nearby. Compare, order and measure one with your own repeated unit.",
+    "answer": "Actual local aligned order and consistent named-unit measurement.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-14-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03",
+      "P1-p09-04",
+      "P1-p09-05"
+    ],
+    "prompt": "Next session: new pair with positions swapped; new trio of pencils; new edge and safe route; different label.",
+    "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+    "pages": {
+      "textbook": [
+        13
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-14-INDEPENDENT-PRACTICAL",
+    "mode": "independent",
+    "objectives": [
+      "P1-p09-04",
+      "P1-p09-05"
+    ],
+    "prompt": "Work alone. Order three safe similar objects nearby. Measure one with your repeated strip unit. Measure a reachable table in your hand spans and a clear safe path in your steps. Record whose units, full counts and any part. An adult supervises safety without giving answers.",
+    "answer": "Actual aligned local order; no gaps/overlaps; named person, unit, full count and leftover part for each measure. Record any seated strip adaptation separately; absent natural-unit action is not assessed.",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  }
+]

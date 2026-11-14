@@ -1,0 +1,503 @@
+{
+  "author_only": true,
+  "independent_approval": false,
+  "pages": [
+    {
+      "role": "textbook",
+      "page": 1,
+      "path": "output/chapter-15/textbook/page-01.png",
+      "sha256": "ffee90c2185b4ca3872a14c08c5f9ec1a9a5651f06549ea6f4c253bdfabb4757",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "path": "output/chapter-15/textbook/page-02.png",
+      "sha256": "04024427b12fe8a1c6159d0f9cd2ca918e242af058b4476c2d2bb312e5caf7a0",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "path": "output/chapter-15/textbook/page-03.png",
+      "sha256": "0aa33093d4c89183b8a6529d44c28e4af99aabcbede8017a392755d0a7c6117e",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "path": "output/chapter-15/textbook/page-04.png",
+      "sha256": "01366de99c1d20df50cfcc8ee89ceae3df056449c7cc105a6a3f1c06a254ed9a",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "path": "output/chapter-15/textbook/page-05.png",
+      "sha256": "cafd0e9db06c1ab651752fab5de1946a1f392bca5a55468639fbf220e6c016fc",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "path": "output/chapter-15/textbook/page-06.png",
+      "sha256": "78c47bdb9e682b92651cbd38daf916fe77ad327a180de464e54847b0bad5c367",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "path": "output/chapter-15/textbook/page-07.png",
+      "sha256": "e969a5eb42514c4b398d8f0259aa4b08a9cdb7c37275f2bc3147d3b09a043b41",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "path": "output/chapter-15/textbook/page-08.png",
+      "sha256": "39caf158c27206fd1e17ab308cf99c378d758b5dab0891e332e891782fd5402c",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 9,
+      "path": "output/chapter-15/textbook/page-09.png",
+      "sha256": "e60450b891e0e6cd0aeb869945e2fe6368d3ebf3d1fd5dce901e24fbd88e9dc5",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "path": "output/chapter-15/textbook/page-10.png",
+      "sha256": "51c7e3ec8d8281f9d61e7025174ff1d2aad1cf393dec7a0d373582239c7a2366",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "path": "output/chapter-15/textbook/page-11.png",
+      "sha256": "480ab849469a67f4294a437afede3c8273623a292d40f7a6f3ea5a35a30be8a5",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "path": "output/chapter-15/textbook/page-12.png",
+      "sha256": "10acb6bc011e3d57d386c79f513cede67d547825a7387271d4eba406d29c932e",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "path": "output/chapter-15/textbook/page-13.png",
+      "sha256": "f35befbb114823600d16e26e048412e5e12c4c855a2e02df269019ec29f0e137",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 14,
+      "path": "output/chapter-15/textbook/page-14.png",
+      "sha256": "d11700dac225c18e3c68fb407b19bd4735a806383aa5a448c88906ba322beb23",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 15,
+      "path": "output/chapter-15/textbook/page-15.png",
+      "sha256": "4015cfaf761f107eed1e1785c489a10e9d9cdd2b311f0c885ba9787ddd6eb37d",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "path": "output/chapter-15/textbook/page-16.png",
+      "sha256": "c413d2be1b300564d9116cad0265bfbf432fd501ec161810d0f4ba7940b4e6c4",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 17,
+      "path": "output/chapter-15/textbook/page-17.png",
+      "sha256": "1b141b5adc8b1ee71490d3125bd13238faaabdfddc3e17e131fd7a3f55dcd5b4",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 18,
+      "path": "output/chapter-15/textbook/page-18.png",
+      "sha256": "3aa516946c4b1db04ccdbd971da29090a80bd70f46fd9dcbd734ba716fec9131",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 19,
+      "path": "output/chapter-15/textbook/page-19.png",
+      "sha256": "bbb604d7ef0e5f6dcf5c4ef0d445e3477537f5db8014afbb45d1cb1c805edb7f",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 20,
+      "path": "output/chapter-15/textbook/page-20.png",
+      "sha256": "0c06bae31dfc51c7ca59451d1e9ca94cab00d2db14647c2a8b310990ca58b74e",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 21,
+      "path": "output/chapter-15/textbook/page-21.png",
+      "sha256": "b0a2710e3259bc5d502e6d5668514881edb6d2f8e8061766ad87954a495ff0e6",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 22,
+      "path": "output/chapter-15/textbook/page-22.png",
+      "sha256": "d78fd6c7eb3734cacfb03ac89c97a6556b5fb3f915ed32fa8958d3246ecdf22d",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "textbook",
+      "page": 23,
+      "path": "output/chapter-15/textbook/page-23.png",
+      "sha256": "6e4c8a835204e4eb1f7e3bd27237f60390f02fb6fb75a41b990617cc59c95777",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "path": "output/chapter-15/workbook/page-01.png",
+      "sha256": "d991c78dedeeb65394167b5a4cedc755188244e32f569404abedcd12c15056d8",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "path": "output/chapter-15/workbook/page-02.png",
+      "sha256": "d2ad649f887e1ce4ad10d36fd3aacae908b520d76f33b499753fdd978b3468da",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "path": "output/chapter-15/workbook/page-03.png",
+      "sha256": "568e84e3923b8ffce3569ef100792712f198a8b101219a82b13e16bdab50e902",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "path": "output/chapter-15/workbook/page-04.png",
+      "sha256": "251c50981c5bea4c9dd9921fcf17597e699c18de28aea79dcbcca140b82c6cc2",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "path": "output/chapter-15/workbook/page-05.png",
+      "sha256": "70c7e839d42851f4efcb0e1c17a75ffa6b8f9a85f4305f57023aa6f5272bb357",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "path": "output/chapter-15/workbook/page-06.png",
+      "sha256": "1fb8ed7efe692f8eb4536855f0429fdc4732049728e8cd334db69ae1e8b2cea7",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "path": "output/chapter-15/workbook/page-07.png",
+      "sha256": "0351db6ea1f096ffcdfbc917faff6cbcff31b251038aa7cb5c292cc690079362",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "path": "output/chapter-15/workbook/page-08.png",
+      "sha256": "c6caa11fb37ea7cf579a667f0a9e030b06f88f4c75259906a8b203a96551fa5f",
+      "inspected_by": "chapter15_author",
+      "method": "full-size rendered image opened with view_image; every page personally inspected",
+      "checks": [
+        "legibility",
+        "no clipping/overlap",
+        "white A4 hierarchy",
+        "task/story/answer content",
+        "response route and adequate workbook space"
+      ],
+      "result": "pass"
+    }
+  ],
+  "notes": "All 31 pages inspected. TB15 reinspected after final rubric wording update; other images visually unchanged."
+}

@@ -1,0 +1,453 @@
+[
+  {
+    "id": "P1-15-SEQUENCE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "Amina: wake, wash, eat, school. First wake; wash next; school last; eating follows washing and is before school. These are this fictional story's choices, not a universal routine.",
+    "pupil_pages": {
+      "textbook": [
+        2
+      ],
+      "workbook": []
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": []
+    },
+    "independent_response": "Wake, wash, eat, school; eating after washing and before school in the stated story.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-DRAW-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "Completed drawings: first wall; next wall with roof; last wall with roof and door. Roof is after wall and before door. This is a drawing story, not a required home routine.",
+    "pupil_pages": {
+      "textbook": [
+        3
+      ],
+      "workbook": []
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": []
+    },
+    "independent_response": "Wall; wall plus roof; wall plus roof plus door. Roof after wall and before door.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-DAY-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Within the stated day: morning, afternoon, evening, night. In Mrs Binta's story: home wash morning; school reading morning; home toy-making afternoon; home storytelling evening; home sleep night. Reading may also occur at home or other times; next morning follows night.",
+    "pupil_pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": []
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": []
+    },
+    "independent_response": "Morning, afternoon, evening, night, then next morning; stated home/school examples agree with each label; varied routines valid.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Stated story: first take paper at school in the morning; next draw at school in the morning; last show drawing at home in the afternoon. Drawing follows taking paper and is before showing. Grace's reversal is corrected using the story, not the page position.",
+    "pupil_pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ],
+      "workbook": []
+    },
+    "independent_response": "Card order middle/right/left: take paper then draw at school morning, show at home afternoon. Page position is not chronology.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-INDEPENDENT",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Stated story: first collect a leaf at home in the afternoon; next draw it at home in the afternoon; last show the picture at school the next morning. Draw is after collect and before show; both contexts and stated parts of day are required. Across-night sequence is explicitly two days.",
+    "pupil_pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ],
+      "workbook": []
+    },
+    "independent_response": "Card order right/left/middle: collect leaf then draw at home afternoon, show at school next morning. Before draw collect; after draw show.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-RECALL",
+    "mode": "recall",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Without help, recall first/next/last and before/after; give a coherent story with one home and one school activity, naming plausible day parts. Pointing, speaking or acting is valid; accept fictional routines. Record recall before providing help.",
+    "pupil_pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ],
+      "workbook": []
+    },
+    "independent_response": "Without help explain first/next/last, before/after, both home and school and plausible day parts; record before help.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "With two cards: first open a storybook at home in the evening; next read it at home in the evening. Opening is before reading. Add the third card: close it last, after reading. School example: teacher reads a story in the afternoon in the stated school. Same activity can happen in more than one setting/time.",
+    "pupil_pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ],
+      "workbook": []
+    },
+    "independent_response": "Open/read/close at home evening, starting with two cards; school reading afternoon is a distinct stated example.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "New recheck without supplied answers: first take clay at school in the afternoon; next shape clay there in the afternoon; last show the toy at home in the evening. Taking is before shaping; showing after shaping. Name school/afternoon and home/evening. Support may read and move cards but cannot supply the response.",
+    "pupil_pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ],
+      "workbook": []
+    },
+    "independent_response": "Without supplied answer: take clay then shape clay at school afternoon; show toy home evening; explain order/before/after and both contexts/times.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-CLOSURE",
+    "mode": "story",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "pupil_pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ],
+      "workbook": []
+    },
+    "independent_response": "Wall/roof/door display ordered; home-afternoon making then next-morning school sharing resolves exhibit problem.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-FRESH",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "New personal or invented three-event day: coherent first/next/last and before/after explanation; at least one home and one school activity with a plausible day part for each. Must differ from all taught example activity sets; no fixed universal routine. Adult records events/order/contexts/times and explanation, not drawing quality.",
+    "pupil_pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": []
+    },
+    "independent_response": "New coherent three-event story, both contexts and plausible day parts, first/next/last and before/after; real or fictional, different activities.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Next session, without looking back: invent different home and school activities with plausible day parts; choose a middle event and explain one event before and one after in a coherent three-event story. If across days, name next morning. Assess recall independently; activity/time alternatives accepted with coherent story.",
+    "pupil_pages": {
+      "textbook": [],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": []
+    },
+    "independent_response": "Next session without reminders: new coherent three-event story, both contexts/times; name middle event and one before/after; mark next morning if crossing night.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q1",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "morning: within the stated day, morning precedes afternoon.",
+    "pupil_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ],
+      "workbook": []
+    },
+    "independent_response": "Morning, within the stated day.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q2",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "night: in the stated morning-afternoon-evening-night order; next morning follows night.",
+    "pupil_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ],
+      "workbook": []
+    },
+    "independent_response": "Night, in the taught day-part order.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q3",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "canonical_answer": "A clearly named or drawn plausible morning activity, e.g. opening curtains at home or greeting a teacher at school; accept different or fictional routines. Do not assess art quality.",
+    "pupil_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ],
+      "workbook": []
+    },
+    "independent_response": "Any clearly identified plausible morning activity in chosen real/fictional routine; art quality is not time understanding.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q4",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "Two distinguishable events in a coherent chosen order, with first/last identified; e.g. take a cup, then put it on a tray. Spoken/acted/card response accepted; story explains order.",
+    "pupil_pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ],
+      "workbook": []
+    },
+    "independent_response": "Two distinct events in a coherent chosen order, first/last identified; equivalent spoken/acted/card response valid.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q5",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "canonical_answer": "eating, because the locally repeated fictional Amina story says wake, wash, eat, school. Do not impose this order on other families.",
+    "pupil_pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ],
+      "workbook": []
+    },
+    "independent_response": "Eating; local Amina story explicitly says wake, wash, eat, school.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "P1-15-Q6",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "canonical_answer": "Two events named and a statement that the first happens earlier than the second in the chosen story; e.g. open bag before take out book. Accept coherent fictional alternatives.",
+    "pupil_pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ],
+      "workbook": []
+    },
+    "independent_response": "Two chosen events with first earlier than second; coherent explanation of before.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  },
+  {
+    "id": "S013",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "canonical_answer": "Both a HOME activity and a SCHOOL activity, each named with a coherent morning/afternoon/evening/night time in the pupil's chosen real OR fictional routine. Accept varied schools and families and an activity in more than one day part. Use new examples rather than repeating the model. Example: fold a cloth at home in the evening; sing at school in the afternoon. Opportunity provided; mastery requires observed response.",
+    "pupil_pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ],
+      "workbook": []
+    },
+    "independent_response": "One home AND one school activity, each with a plausible day part in chosen real/fictional routine; new examples, no universal timetable.",
+    "result": "pass",
+    "basis": "Personally read/solved exact pupil stimulus, checked task-specific adult answer and acceptable alternatives in this final frozen pair."
+  }
+]

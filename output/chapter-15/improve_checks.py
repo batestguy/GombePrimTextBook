@@ -1,0 +1,4 @@
+﻿from pathlib import Path
+p=Path('scripts/build_chapter_fifteen.py');s=p.read_text(encoding='utf-8');s=s.replace("tasks=pair['author_content']['tasks'];ids=", "assert pair['source_tasks']==[dict(id=q['id'],source_prompt=q['prompt'],source_answer=q['answer']) for q in lesson['questions']]\n supplement=next(x for x in before['supplements'] if x['id']=='S013')\n assert pair['supplementary_tasks']==[dict(id='S013',source_prompt=supplement['prompt'],source_answer=supplement['answer'])]\n tasks=pair['author_content']['tasks'];ids=")
+s=s.replace("coverage.append(dict(t,pages=", "for role,nums in a.items():\n   doc=fitz.open(FILES[role])\n   assert all(' '.join(t['answer'].split()) in ' '.join(doc[n-1].get_text().split()) for n in nums),(t['id'],'actual PDF answer correspondence')\n  coverage.append(dict(t,pages=")
+p.write_text(s,encoding='utf-8')

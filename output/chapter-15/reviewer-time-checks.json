@@ -1,0 +1,1435 @@
+{
+  "reviewer": "/root/chapter14_review",
+  "freeze": {
+    "chapter": "P1-15",
+    "author": "chapter15_author",
+    "status": "pending_independent_review",
+    "fingerprint": "44e1fa05d3f865cc7151139ffa141f9918cedd63d9d5fb9d29e354b3951bdffe",
+    "hashes": {
+      "production/p1.json": "0652ea2dafaff38c18786d444eab36e881f9498b032503c667664f4550911b63",
+      "production/p2.json": "25126003b6255c38b87f264822d0e018839d41f06b67289a96a6ce29ccfbec20",
+      "production/p3.json": "80dd3c1fe934bed25d383e346760e88c8b5cafffbaa346865c8b489e52a7593b",
+      "production/lessons.json": "ff3799c7a8ea934145706950691d4b445dff455d065e6eafc1be92ec648e575a",
+      "production/p1-opening.json": "66e0a842d5d1fcbf45015c76f8a8fd431369011d8cb228dcea8bfc01ae40dd3c",
+      "scripts/build_chapter_fifteen.py": "3ca9efb52174761edccb4acfbf83239866b791bd5138d9451ebd76bdda36866d",
+      "scripts/build_primary_one_opening.py": "ea5b2a7355c084121386c6432b3bbd0095171c681f69f7e8d0935ef4531bf996",
+      "scripts/build_chapter_sample.py": "a013ccd385e339583045d1df3771e53ef84c874235f63c066643dd3a7a8f0029",
+      "docs/CHAPTER-STANDARD.md": "de8aec35da5fb858f5b5eafead86a653938aa07b4aa593fcd0b8b893affe0290",
+      "docs/CHAPTER-REVIEW.md": "c35963d1701112195a7112257f63d27e36a23e2d7936e4dba342a664ca74f493",
+      "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980",
+      "artwork/redesign/scenes/mrs-binta-blackboard-v1.provenance.json": "7dff015bb66a5d48c410f1938eb3f13d9d75ca73f4d61bd3d401a48a2c04cd6e",
+      "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf": "442786dbeaa94612bc6c871d5d3fa8a1ae95b36d8d0dff5891f22a1a6d095e89",
+      "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96"
+    },
+    "page_inspection": "output/chapter-15/page-inspection.json",
+    "protected_snapshot": "output/chapter-15/before.json",
+    "legacy_restoration": "output/chapter-15/legacy-validation.json"
+  },
+  "source_pdf_hashes_match": true,
+  "shapes": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38,
+        295,
+        194,
+        379
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        212,
+        295,
+        368,
+        379
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        386,
+        295,
+        542,
+        379
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38,
+        335,
+        194,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        84,
+        415,
+        148,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        212,
+        335,
+        368,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        258,
+        415,
+        322,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        250,
+        415,
+        290,
+        382
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        290,
+        382,
+        330,
+        415
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        386,
+        335,
+        542,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        432,
+        415,
+        496,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        424,
+        415,
+        464,
+        382
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        464,
+        382,
+        504,
+        415
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        455,
+        439,
+        473,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38,
+        350,
+        194,
+        434
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        212,
+        350,
+        368,
+        434
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        386,
+        350,
+        542,
+        434
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        38,
+        320,
+        194,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        212,
+        320,
+        368,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        386,
+        320,
+        542,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        310,
+        194,
+        394
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        212,
+        310,
+        368,
+        394
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        386,
+        310,
+        542,
+        394
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "box",
+      "rect": [
+        38,
+        320,
+        194,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "box",
+      "rect": [
+        212,
+        320,
+        368,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "box",
+      "rect": [
+        386,
+        320,
+        542,
+        404
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        390,
+        194,
+        555
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        84,
+        470,
+        148,
+        525
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        212,
+        390,
+        368,
+        555
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        258,
+        470,
+        322,
+        525
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        250,
+        470,
+        290,
+        437
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        290,
+        437,
+        330,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        386,
+        390,
+        542,
+        555
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        432,
+        470,
+        496,
+        525
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        424,
+        470,
+        464,
+        437
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        464,
+        437,
+        504,
+        470
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        455,
+        494,
+        473,
+        525
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "rect": [
+        38,
+        285,
+        194,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "rect": [
+        212,
+        285,
+        368,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "rect": [
+        386,
+        285,
+        542,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "rect": [
+        38,
+        515,
+        557,
+        720
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38,
+        285,
+        194,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        212,
+        285,
+        368,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        386,
+        285,
+        542,
+        369
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38,
+        520,
+        557,
+        725
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38,
+        310,
+        557,
+        372
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38,
+        445,
+        557,
+        507
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38,
+        610,
+        557,
+        755
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38,
+        225,
+        194,
+        390
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        84,
+        305,
+        148,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        212,
+        225,
+        368,
+        390
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        258,
+        305,
+        322,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        250,
+        305,
+        290,
+        272
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        290,
+        272,
+        330,
+        305
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        386,
+        225,
+        542,
+        390
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        432,
+        305,
+        496,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        424,
+        305,
+        464,
+        272
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        464,
+        272,
+        504,
+        305
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        455,
+        329,
+        473,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38,
+        480,
+        285,
+        590
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        310,
+        480,
+        557,
+        590
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38,
+        661,
+        557,
+        704
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        38,
+        265,
+        557,
+        375
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        38,
+        638,
+        557,
+        748
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        450,
+        557,
+        525
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        570,
+        557,
+        645
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        690,
+        557,
+        765
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "box",
+      "rect": [
+        38,
+        465,
+        557,
+        570
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "box",
+      "rect": [
+        38,
+        638,
+        557,
+        743
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "type": "box",
+      "rect": [
+        38,
+        450,
+        557,
+        720
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        38,
+        295,
+        194,
+        379
+      ],
+      "text": "First Wake"
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        212,
+        295,
+        368,
+        379
+      ],
+      "text": "Next Wash"
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "rect": [
+        386,
+        295,
+        542,
+        379
+      ],
+      "text": "Then Eat"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "rect": [
+        38,
+        350,
+        194,
+        434
+      ],
+      "text": "Morning Home: wash"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "rect": [
+        212,
+        350,
+        368,
+        434
+      ],
+      "text": "Morning School: read"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "rect": [
+        386,
+        350,
+        542,
+        434
+      ],
+      "text": "Afternoon Home: make toy"
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        38,
+        320,
+        194,
+        404
+      ],
+      "text": "Show drawing Home: afternoon"
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        212,
+        320,
+        368,
+        404
+      ],
+      "text": "Take paper School: morning"
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "rect": [
+        386,
+        320,
+        542,
+        404
+      ],
+      "text": "Draw School: morning"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "rect": [
+        38,
+        310,
+        194,
+        394
+      ],
+      "text": "Draw leaf Home: afternoon"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "rect": [
+        212,
+        310,
+        368,
+        394
+      ],
+      "text": "Show picture School: next morning"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "rect": [
+        386,
+        310,
+        542,
+        394
+      ],
+      "text": "Collect leaf Home: afternoon"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "rect": [
+        38,
+        320,
+        194,
+        404
+      ],
+      "text": "First Open book"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "rect": [
+        212,
+        320,
+        368,
+        404
+      ],
+      "text": "Next Read book"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "rect": [
+        386,
+        320,
+        542,
+        404
+      ],
+      "text": "Last Close book"
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "rect": [
+        38,
+        285,
+        194,
+        369
+      ],
+      "text": "Show drawing Home: afternoon"
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "rect": [
+        212,
+        285,
+        368,
+        369
+      ],
+      "text": "Take paper School: morning"
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "rect": [
+        386,
+        285,
+        542,
+        369
+      ],
+      "text": "Draw School: morning"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "rect": [
+        38,
+        285,
+        194,
+        369
+      ],
+      "text": "Draw leaf Home: afternoon"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "rect": [
+        212,
+        285,
+        368,
+        369
+      ],
+      "text": "Show picture School: next morning"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "rect": [
+        386,
+        285,
+        542,
+        369
+      ],
+      "text": "Collect leaf Home: afternoon"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "P1-15-SEQUENCE-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "Amina: wake, wash, eat, school. First wake; wash next; school last; eating follows washing and is before school. These are this fictional story's choices, not a universal routine.",
+      "pupil_pages": {
+        "textbook": [
+          2
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-DRAW-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "Completed drawings: first wall; next wall with roof; last wall with roof and door. Roof is after wall and before door. This is a drawing story, not a required home routine.",
+      "pupil_pages": {
+        "textbook": [
+          3
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-DAY-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Within the stated day: morning, afternoon, evening, night. In Mrs Binta's story: home wash morning; school reading morning; home toy-making afternoon; home storytelling evening; home sleep night. Reading may also occur at home or other times; next morning follows night.",
+      "pupil_pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Stated story: first take paper at school in the morning; next draw at school in the morning; last show drawing at home in the afternoon. Drawing follows taking paper and is before showing. Grace's reversal is corrected using the story, not the page position.",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-INDEPENDENT",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Stated story: first collect a leaf at home in the afternoon; next draw it at home in the afternoon; last show the picture at school the next morning. Draw is after collect and before show; both contexts and stated parts of day are required. Across-night sequence is explicitly two days.",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-RECALL",
+      "mode": "recall",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Without help, recall first/next/last and before/after; give a coherent story with one home and one school activity, naming plausible day parts. Pointing, speaking or acting is valid; accept fictional routines. Record recall before providing help.",
+      "pupil_pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "With two cards: first open a storybook at home in the evening; next read it at home in the evening. Opening is before reading. Add the third card: close it last, after reading. School example: teacher reads a story in the afternoon in the stated school. Same activity can happen in more than one setting/time.",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "New recheck without supplied answers: first take clay at school in the afternoon; next shape clay there in the afternoon; last show the toy at home in the evening. Taking is before shaping; showing after shaping. Name school/afternoon and home/evening. Support may read and move cards but cannot supply the response.",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-CLOSURE",
+      "mode": "story",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+      "pupil_pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-FRESH",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "New personal or invented three-event day: coherent first/next/last and before/after explanation; at least one home and one school activity with a plausible day part for each. Must differ from all taught example activity sets; no fixed universal routine. Adult records events/order/contexts/times and explanation, not drawing quality.",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p10-01",
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Next session, without looking back: invent different home and school activities with plausible day parts; choose a middle event and explain one event before and one after in a coherent three-event story. If across days, name next morning. Assess recall independently; activity/time alternatives accepted with coherent story.",
+      "pupil_pages": {
+        "textbook": [],
+        "workbook": [
+          8
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q1",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "morning: within the stated day, morning precedes afternoon.",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q2",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "night: in the stated morning-afternoon-evening-night order; next morning follows night.",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q3",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-02"
+      ],
+      "canonical_answer": "A clearly named or drawn plausible morning activity, e.g. opening curtains at home or greeting a teacher at school; accept different or fictional routines. Do not assess art quality.",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q4",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "Two distinguishable events in a coherent chosen order, with first/last identified; e.g. take a cup, then put it on a tray. Spoken/acted/card response accepted; story explains order.",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q5",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-02"
+      ],
+      "canonical_answer": "eating, because the locally repeated fictional Amina story says wake, wash, eat, school. Do not impose this order on other families.",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-15-Q6",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-01"
+      ],
+      "canonical_answer": "Two events named and a statement that the first happens earlier than the second in the chosen story; e.g. open bag before take out book. Accept coherent fictional alternatives.",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "S013",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p10-02"
+      ],
+      "canonical_answer": "Both a HOME activity and a SCHOOL activity, each named with a coherent morning/afternoon/evening/night time in the pupil's chosen real OR fictional routine. Accept varied schools and families and an activity in more than one day part. Use new examples rather than repeating the model. Example: fold a cloth at home in the evening; sing at school in the afternoon. Opportunity provided; mastery requires observed response.",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      }
+    }
+  ],
+  "two_objectives_seven_modes": true,
+  "source_six_correspondence": true
+}

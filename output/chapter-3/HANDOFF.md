@@ -1,3 +1,11 @@
+<!-- current-handoff-status:start -->
+> **Current project checkpoint - 14 November 2026:** Primary 1 Chapters 1-15 have independently approved exact textbook/workbook pairs. Length is 21 textbook + 10 workbook pages; Time is 23 + 8. The original handoff below records its own earlier scope and findings; it does not approve any historical prototype or supersede the current chapter register.
+>
+> **Next:** P1-16 Heavy and light, Mr Aliyu. Four units remain, followed by annual revision/assessment, four offline-AI pupil pages and full-year assembly. Current curriculum/adoption, local educator/pupil/accessibility evidence and physical print/printer approval remain pending.
+>
+> **Delivery:** the user authorized committing and pushing the reviewed Length/Time checkpoint. Final delivery status and current evidence: [session handoff](../../docs/SESSION-HANDOFF.md), [independent Time review](../chapter-15/REVIEW.md) and [current chapter register](../../production/chapter-reviews.json).
+<!-- current-handoff-status:end -->
+
 # Chapter 3 and shared-source re-review handoff
 
 Authority: [CHAPTER-STANDARD.md](../../docs/CHAPTER-STANDARD.md), version 1;

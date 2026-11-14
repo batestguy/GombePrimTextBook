@@ -1,0 +1,327 @@
+[
+  {
+    "id": "amina-first",
+    "labels": [
+      "First<br/>Wake",
+      "Next<br/>Wash",
+      "Then<br/>Eat"
+    ],
+    "top": 295,
+    "rects": [
+      [
+        38,
+        295,
+        156,
+        84
+      ],
+      [
+        212,
+        295,
+        156,
+        84
+      ],
+      [
+        386,
+        295,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 2,
+        "actual_card_text": [
+          "First\nWake",
+          "Next\nWash",
+          "Then\nEat"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "day-home-school",
+    "labels": [
+      "Morning<br/>Home: wash",
+      "Morning<br/>School: read",
+      "Afternoon<br/>Home: make toy"
+    ],
+    "top": 350,
+    "rects": [
+      [
+        38,
+        350,
+        156,
+        84
+      ],
+      [
+        212,
+        350,
+        156,
+        84
+      ],
+      [
+        386,
+        350,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 4,
+        "actual_card_text": [
+          "Morning\nHome: wash",
+          "Morning\nSchool: read",
+          "Afternoon\nHome: make toy"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "guided-mixed",
+    "labels": [
+      "Show drawing<br/>Home: afternoon",
+      "Take paper<br/>School: morning",
+      "Draw<br/>School: morning"
+    ],
+    "top": 320,
+    "rects": [
+      [
+        38,
+        320,
+        156,
+        84
+      ],
+      [
+        212,
+        320,
+        156,
+        84
+      ],
+      [
+        386,
+        320,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 5,
+        "actual_card_text": [
+          "Show drawing\nHome: afternoon",
+          "Take paper\nSchool: morning",
+          "Draw\nSchool: morning"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "independent-mixed",
+    "labels": [
+      "Draw leaf<br/>Home: afternoon",
+      "Show picture<br/>School: next morning",
+      "Collect leaf<br/>Home: afternoon"
+    ],
+    "top": 310,
+    "rects": [
+      [
+        38,
+        310,
+        156,
+        84
+      ],
+      [
+        212,
+        310,
+        156,
+        84
+      ],
+      [
+        386,
+        310,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 6,
+        "actual_card_text": [
+          "Draw leaf\nHome: afternoon",
+          "Show picture\nSchool: next\nmorning",
+          "Collect leaf\nHome: afternoon"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "help-order",
+    "labels": [
+      "First<br/>Open book",
+      "Next<br/>Read book",
+      "Last<br/>Close book"
+    ],
+    "top": 320,
+    "rects": [
+      [
+        38,
+        320,
+        156,
+        84
+      ],
+      [
+        212,
+        320,
+        156,
+        84
+      ],
+      [
+        386,
+        320,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 10,
+        "actual_card_text": [
+          "First\nOpen book",
+          "Next\nRead book",
+          "Last\nClose book"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "wb-guided-mixed",
+    "labels": [
+      "Show drawing<br/>Home: afternoon",
+      "Take paper<br/>School: morning",
+      "Draw<br/>School: morning"
+    ],
+    "top": 285,
+    "rects": [
+      [
+        38,
+        285,
+        156,
+        84
+      ],
+      [
+        212,
+        285,
+        156,
+        84
+      ],
+      [
+        386,
+        285,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 1,
+        "actual_card_text": [
+          "Show drawing\nHome: afternoon",
+          "Take paper\nSchool: morning",
+          "Draw\nSchool: morning"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "wb-independent-mixed",
+    "labels": [
+      "Draw leaf<br/>Home: afternoon",
+      "Show picture<br/>School: next morning",
+      "Collect leaf<br/>Home: afternoon"
+    ],
+    "top": 285,
+    "rects": [
+      [
+        38,
+        285,
+        156,
+        84
+      ],
+      [
+        212,
+        285,
+        156,
+        84
+      ],
+      [
+        386,
+        285,
+        156,
+        84
+      ]
+    ],
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 2,
+        "actual_card_text": [
+          "Draw leaf\nHome: afternoon",
+          "Show picture\nSchool: next\nmorning",
+          "Collect leaf\nHome: afternoon"
+        ],
+        "card_order": "left to right as displayed; given story determines chronology"
+      }
+    ]
+  },
+  {
+    "id": "completed-drawing-model",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 3,
+        "labels": [
+          "First: wall",
+          "Next: roof",
+          "Last: door"
+        ],
+        "content": "wall; wall+roof; wall+roof+door",
+        "actual_pdf_vectors_checked": true
+      },
+      {
+        "role": "textbook",
+        "page": 11,
+        "labels": [
+          "First: wall",
+          "Next: roof",
+          "Last: door"
+        ],
+        "content": "wall; wall+roof; wall+roof+door",
+        "actual_pdf_vectors_checked": true
+      },
+      {
+        "role": "workbook",
+        "page": 4,
+        "labels": [
+          "First: wall",
+          "Next: roof",
+          "Last: door"
+        ],
+        "content": "wall; wall+roof; wall+roof+door",
+        "actual_pdf_vectors_checked": true
+      }
+    ]
+  }
+]

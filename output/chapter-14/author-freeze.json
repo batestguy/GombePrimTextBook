@@ -1,0 +1,42 @@
+{
+  "author": "chapter14_author",
+  "independent_review": "pending",
+  "fingerprint": "e79d0c9769260831ed651e970bc4534fc04c5aa23ecbc8983b06447b9e2e4c87",
+  "source_hashes": {
+    "production/p1.json": "f00bf17e339c1db4f8bb78e0b7ca477eae2168e58aa2645eb65c350febedc621",
+    "production/lessons.json": "014d841eeb89f77760c8f8d0b1bd5a67fced3a97ba0ba4e1018f8506bbed69f0",
+    "scripts/build_chapter_fourteen.py": "633dda21f4bb4fdc7b254654b588c94114baebaaafae1e6261c10585077ef0e1"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "sha256": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579",
+      "pages": 21
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "sha256": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1",
+      "pages": 10
+    }
+  },
+  "author_checks": "all31 rendered pages personally viewed; changed TB6/WB5 rechecked after final rebuild;161 protected hashes,18other lessons,114source pairs and supplements preserved;21 historical generated files restored exact",
+  "limitations": [
+    "local educator, pupil/accessibility trials, physical print and printer approval pending",
+    "current curriculum alignment not established",
+    "independent review pending"
+  ],
+  "correction_round": {
+    "required_findings": "Task-specific six LOCAL rubrics;GUIDED-COMPARE metadata dialogue synchronized",
+    "changed_pages": {
+      "textbook": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "workbook": []
+    },
+    "inspection": "all4 changed textbook pages visually inspected;27 identical page hashes retain prior inspection",
+    "validation": "pair builder,canonical lessons regeneration,21historical file exact restoration,preflight,draft gate passed"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "114 ordered original prompt/answer pairs and 18 other complete lessons preserved",
+    "Generated lessons match all three canonical sources",
+    "All 166 protected hashes match, including 26 prior PDFs",
+    "All 21 historical generated backups restored byte for byte",
+    "All supplementary source fields/items unchanged",
+    "Other 48 chapter records unchanged; 14 review histories retained",
+    "Final frozen hashes and whitespace check pass"
+  ],
+  "require_reviewed": true,
+  "fingerprints": {
+    "P1-01": "111a2563655f9cf745e8f52c943f12ec597ae9d95ae598dc694d14067961be83",
+    "P1-02": "535a3e10c62cb8432ae71e72a218b4b24c0fd403eeaf676a0ef6404e73fb0bf2",
+    "P1-03": "16f129e5482d65e2c1c3b95428811204d7cdde4651820b7f11b29b335fe429cd",
+    "P1-04": "e7b7582465d16a9f00e69eb6d4e5e29666909ff73c7f188c5aa50bbab41fbf98",
+    "P1-05": "c036f4f29e035e307cec7fdc9de9b86fcd1409d49ec0a77e4ca37d1307bcfef5",
+    "P1-06": "662269f2547ebf759463122c02d638868ba3ee55594cc24536f935b9d95edf86",
+    "P1-07": "a855fad25f6f11c494ed4e929a1690304434f2b931a5fe1d0ea7b9830b48c744",
+    "P1-08": "5577b576e4e5a2897ee8e1e6c1682ecaada63a61da2b673949a910ba5e5fbca7",
+    "P1-09": "24e7c9bc14b9571cc5338a89cf8183f4787568d37c9a29ed558a830188e706fe",
+    "P1-10": "ce8d042979d754e0985912acaeed43f90484b9866edf65ddb9230c7815e2febd",
+    "P1-11": "b1a115bfe0322aeae11d1bc4399f5a50daebb2a3572d3a8c31bbd498a9407f85",
+    "P1-12": "bd201d766ea40b871a331abf0a268ba99d184f136710e2dda5c1e45ef3317715",
+    "P1-13": "d350670db2ade8da5007cd75449bd8fd341dbc94ea9b74a965a194ee5cbbf701",
+    "P1-14": "bca643052333311f32f7a1cd9ea34fa0c9ab6f11d431d08721ee7511adcbd407",
+    "P1-15": "44e1fa05d3f865cc7151139ffa141f9918cedd63d9d5fb9d29e354b3951bdffe"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "sha256": "442786dbeaa94612bc6c871d5d3fa8a1ae95b36d8d0dff5891f22a1a6d095e89"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf",
+      "sha256": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96"
+    }
+  },
+  "limits": "Continuation extracts; Time examples accept coherent varied or fictional routines. Annual assembly/current curriculum/adoption/local trials/physical print and printer approval pending."
+}

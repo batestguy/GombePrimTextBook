@@ -1,3 +1,11 @@
+<!-- current-handoff-status:start -->
+> **Current project checkpoint - 14 November 2026:** Primary 1 Chapters 1-15 have independently approved exact textbook/workbook pairs. Length is 21 textbook + 10 workbook pages; Time is 23 + 8. The original handoff below records its own earlier scope and findings; it does not approve any historical prototype or supersede the current chapter register.
+>
+> **Next:** P1-16 Heavy and light, Mr Aliyu. Four units remain, followed by annual revision/assessment, four offline-AI pupil pages and full-year assembly. Current curriculum/adoption, local educator/pupil/accessibility evidence and physical print/printer approval remain pending.
+>
+> **Delivery:** the user authorized committing and pushing the reviewed Length/Time checkpoint. Final delivery status and current evidence: [session handoff](../../docs/SESSION-HANDOFF.md), [independent Time review](../chapter-15/REVIEW.md) and [current chapter register](../../production/chapter-reviews.json).
+<!-- current-handoff-status:end -->
+
 Final outcome, 28 October 2026: independent `/root/sol_reviewer` approved P1-01..P1-07 after every-task/diagram/answer and all135unique-final-page review. All3required findings resolved. [REVIEW.md](REVIEW.md) records exact hashes/fingerprints, coverage and seven strict gate/preflight passes. Root independently reran all7strict gates and preflight, verified frozen hashes/fingerprint and other56records unchanged. This outcome supersedes pending language in the author-freeze packet below. Next P1-08, Mr Aliyu; annual/current-curriculum/classroom/physical-print limitations remain pending.
 
 ---

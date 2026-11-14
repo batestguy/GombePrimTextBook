@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "textbook": 21,
+    "workbook": 10
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf"
+  },
+  "tasks": 32,
+  "diagrams": 20,
+  "protected_hashes": 161,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 source prompt/answer pairs and18other lessons unchanged",
+    "protected hashes and supplements unchanged",
+    "all source comparisons/order and8+8=16 recalculated",
+    "five objectives each cover seven progression modes",
+    "actual PDF vector lengths and endpoints checked",
+    "A4 embedded fonts text bounds every page rendered"
+  ]
+}

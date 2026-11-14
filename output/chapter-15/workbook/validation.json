@@ -1,0 +1,151 @@
+{
+  "pages": 8,
+  "sha256": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96",
+  "page_manifest": [
+    {
+      "slug": "time-try-together",
+      "kicker": "Our day in order",
+      "title": "Try together",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-put-this-story-in-order",
+      "kicker": "Our day in order",
+      "title": "Put this story in order",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-INDEPENDENT"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-morning-and-night",
+      "kicker": "Our day in order",
+      "title": "Morning and night",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-Q1",
+        "P1-15-Q2",
+        "P1-15-Q3"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-draw-or-tell-events",
+      "kicker": "Our day in order",
+      "title": "Draw or tell events",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-Q4",
+        "P1-15-Q5",
+        "P1-15-Q6"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-remember,-then-get-help",
+      "kicker": "Our day in order",
+      "title": "Remember, then get help",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-RECALL",
+        "P1-15-HELP",
+        "P1-15-RECHECK"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-our-display-and-a-new-story",
+      "kicker": "Our day in order",
+      "title": "Our display and a new story",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-CLOSURE",
+        "P1-15-FRESH"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-home-and-school",
+      "kicker": "Our day in order",
+      "title": "Home and school",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "S013"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-remember-another-day",
+      "kicker": "Our day in order",
+      "title": "Remember another day",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-DELAYED"
+      ],
+      "answer_ids": [],
+      "adult": false
+    }
+  ],
+  "task_pages": {
+    "P1-15-GUIDED": [
+      1
+    ],
+    "P1-15-INDEPENDENT": [
+      2
+    ],
+    "P1-15-Q1": [
+      3
+    ],
+    "P1-15-Q2": [
+      3
+    ],
+    "P1-15-Q3": [
+      3
+    ],
+    "P1-15-Q4": [
+      4
+    ],
+    "P1-15-Q5": [
+      4
+    ],
+    "P1-15-Q6": [
+      4
+    ],
+    "P1-15-RECALL": [
+      5
+    ],
+    "P1-15-HELP": [
+      5
+    ],
+    "P1-15-RECHECK": [
+      5
+    ],
+    "P1-15-CLOSURE": [
+      6
+    ],
+    "P1-15-FRESH": [
+      6
+    ],
+    "S013": [
+      7
+    ],
+    "P1-15-DELAYED": [
+      8
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

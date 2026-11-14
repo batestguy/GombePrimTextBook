@@ -1,0 +1,652 @@
+{
+  "P1-p09-01": {
+    "model": [
+      {
+        "id": "P1-14-COMPARE-MODEL",
+        "answer": "B shortest, C middle, A longest; A and D equal.",
+        "pages": {
+          "textbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-14-GUIDED-COMPARE",
+        "answer": "B,C,A; A longest; B shortest",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-14-INDEPENDENT-COMPARE",
+        "answer": "A and C equal, B longer; A/C then B",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q1",
+        "answer": "The 5-strip length",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q3",
+        "answer": "Line exceeds that pupil's finger length.",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q6",
+        "answer": "So the other ends show the difference fairly.",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-14-HELP-COMPARE",
+        "answer": "A,C,B",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-14-RECHECK-COMPARE",
+        "answer": "B,A,C",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-14-FRESH-COMPARE",
+        "answer": "C,A,B",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-14-DELAYED",
+        "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p09-02": {
+    "model": [
+      {
+        "id": "P1-14-COMPARE-MODEL",
+        "answer": "B shortest, C middle, A longest; A and D equal.",
+        "pages": {
+          "textbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-14-GUIDED-COMPARE",
+        "answer": "B,C,A; A longest; B shortest",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-14-INDEPENDENT-COMPARE",
+        "answer": "A and C equal, B longer; A/C then B",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q1",
+        "answer": "The 5-strip length",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q2",
+        "answer": "2, 4, 6 spans",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q6",
+        "answer": "So the other ends show the difference fairly.",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-14-HELP-COMPARE",
+        "answer": "A,C,B",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-14-RECHECK-COMPARE",
+        "answer": "B,A,C",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-14-FRESH-COMPARE",
+        "answer": "C,A,B",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-14-DELAYED",
+        "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p09-03": {
+    "model": [
+      {
+        "id": "P1-14-COMPARE-MODEL",
+        "answer": "B shortest, C middle, A longest; A and D equal.",
+        "pages": {
+          "textbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-14-GUIDED-COMPARE",
+        "answer": "B,C,A; A longest; B shortest",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-14-INDEPENDENT-COMPARE",
+        "answer": "A and C equal, B longer; A/C then B",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q2",
+        "answer": "2, 4, 6 spans",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-14-HELP-COMPARE",
+        "answer": "A,C,B",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-14-RECHECK-COMPARE",
+        "answer": "B,A,C",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-14-FRESH-COMPARE",
+        "answer": "C,A,B",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      },
+      {
+        "id": "S010",
+        "answer": "Actual physical increasing order with explanation of endpoints.",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-14-DELAYED",
+        "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p09-04": {
+    "model": [
+      {
+        "id": "P1-14-MEASURE-MODEL",
+        "answer": "Adult demonstrates same-person repeated hand spans and steps; actual counts observed. Strip B covers a 4-unit label; A does not.",
+        "pages": {
+          "textbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-14-GUIDED-MEASURE",
+        "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-14-INDEPENDENT-MEASURE",
+        "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q4",
+        "answer": "16 steps",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q5",
+        "answer": "Practical count, same unit repeated without gaps.",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-INDEPENDENT-PRACTICAL",
+        "answer": "Actual aligned local order; no gaps/overlaps; named person, unit, full count and leftover part for each measure. Record any seated strip adaptation separately; absent natural-unit action is not assessed.",
+        "pages": {
+          "textbook": [
+            6
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-14-HELP-MEASURE",
+        "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-14-RECHECK-MEASURE",
+        "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-14-FRESH-MEASURE",
+        "answer": "Observed method and actual count, with unit/person and any leftover part; do not invent a value.",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      },
+      {
+        "id": "S011",
+        "answer": "Actual method no gaps/overlaps; named person/unit/count/part. Seated strip adaptation recorded separately.",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-14-DELAYED",
+        "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p09-05": {
+    "model": [
+      {
+        "id": "P1-14-MEASURE-MODEL",
+        "answer": "Adult demonstrates same-person repeated hand spans and steps; actual counts observed. Strip B covers a 4-unit label; A does not.",
+        "pages": {
+          "textbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-14-GUIDED-LOCAL",
+        "answer": "Three safe similar local pencils are ordered by actual aligned lengths. One is measured with a consistent repeated unit. A pencil long enough for the short paper label is chosen and its fit checked against the label.",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-14-INDEPENDENT-LOCAL",
+        "answer": "The drawn line exceeds that pupil's own finger length when the line and finger starts are aligned and their far ends compared.",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-14-Q3",
+        "answer": "Line exceeds that pupil's finger length.",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      },
+      {
+        "id": "P1-14-INDEPENDENT-PRACTICAL",
+        "answer": "Actual aligned local order; no gaps/overlaps; named person, unit, full count and leftover part for each measure. Record any seated strip adaptation separately; absent natural-unit action is not assessed.",
+        "pages": {
+          "textbook": [
+            6
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-14-HELP-LOCAL",
+        "answer": "The two local strip starts are aligned. The shorter strip is measured with one fixed paper-strip unit repeated consistently. A third strip is added and its actual length compared with the other two.",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-14-RECHECK-LOCAL",
+        "answer": "A different local trio is ordered by actual aligned lengths. One is measured consistently. A strip is chosen to cover a new label and its fit is tested.",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-14-FRESH-LOCAL",
+        "answer": "Three new safe similar local objects are ordered by aligned lengths, with an endpoint explanation. One is measured using the pupil's own consistent repeated unit. A strip is chosen for a new label and the fit checked.",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      },
+      {
+        "id": "S012",
+        "answer": "Actual local aligned order and consistent named-unit measurement.",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-14-DELAYED",
+        "answer": "Actual endpoints, increasing order, repeated own units/person/count/part and verified label choice. Record independent/assisted/not assessed separately.",
+        "pages": {
+          "textbook": [
+            13
+          ]
+        }
+      }
+    ]
+  }
+}

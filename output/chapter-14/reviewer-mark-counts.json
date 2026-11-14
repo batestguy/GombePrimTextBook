@@ -1,0 +1,2088 @@
+[
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 17,
+    "pdf_marks": 17
+  },
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-01",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 4,
+    "pdf_marks": 4
+  },
+  {
+    "chapter": "P1-01",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-01",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-01",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-01",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 8,
+    "pdf_marks": 8
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 9,
+    "pdf_marks": 9
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 16,
+    "expected_marks": 5,
+    "pdf_marks": 5
+  },
+  {
+    "chapter": "P1-02",
+    "role": "textbook",
+    "page": 17,
+    "expected_marks": 22,
+    "pdf_marks": 22
+  },
+  {
+    "chapter": "P1-02",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-02",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-02",
+    "role": "workbook",
+    "page": 8,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-02",
+    "role": "workbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-02",
+    "role": "workbook",
+    "page": 10,
+    "expected_marks": 22,
+    "pdf_marks": 22
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 2,
+    "pdf_marks": 2
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 1,
+    "pdf_marks": 1
+  },
+  {
+    "chapter": "P1-03",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-03",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-03",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 13,
+    "pdf_marks": 13
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 17,
+    "pdf_marks": 17
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 13,
+    "pdf_marks": 13
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 4,
+    "pdf_marks": 4
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 30,
+    "pdf_marks": 30
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 8,
+    "pdf_marks": 8
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 4,
+    "pdf_marks": 4
+  },
+  {
+    "chapter": "P1-04",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 20,
+    "pdf_marks": 20
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 65,
+    "pdf_marks": 65
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 90,
+    "pdf_marks": 90
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 11,
+    "pdf_marks": 11
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 20,
+    "pdf_marks": 20
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-05",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 69,
+    "pdf_marks": 69
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 82,
+    "pdf_marks": 82
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 103,
+    "pdf_marks": 103
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 133,
+    "pdf_marks": 133
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 163,
+    "pdf_marks": 163
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 193,
+    "pdf_marks": 193
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 223,
+    "pdf_marks": 223
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 253,
+    "pdf_marks": 253
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 283,
+    "pdf_marks": 283
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 43,
+    "pdf_marks": 43
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 16,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 17,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 18,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 19,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 20,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "textbook",
+    "page": 21,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 23,
+    "pdf_marks": 23
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 28,
+    "pdf_marks": 28
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 32,
+    "pdf_marks": 32
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 42,
+    "pdf_marks": 42
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 52,
+    "pdf_marks": 52
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 62,
+    "pdf_marks": 62
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 8,
+    "expected_marks": 72,
+    "pdf_marks": 72
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 9,
+    "expected_marks": 82,
+    "pdf_marks": 82
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 10,
+    "expected_marks": 92,
+    "pdf_marks": 92
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-06",
+    "role": "workbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-07",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 5,
+    "pdf_marks": 5
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 2,
+    "pdf_marks": 2
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 2,
+    "pdf_marks": 2
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 10,
+    "pdf_marks": 10
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 2,
+    "pdf_marks": 2
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-08",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 11,
+    "pdf_marks": 11
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 15,
+    "pdf_marks": 15
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 13,
+    "pdf_marks": 13
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 15,
+    "pdf_marks": 15
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 13,
+    "pdf_marks": 13
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 21,
+    "pdf_marks": 21
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 30,
+    "pdf_marks": 30
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 14,
+    "pdf_marks": 14
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 13,
+    "pdf_marks": 13
+  },
+  {
+    "chapter": "P1-09",
+    "role": "workbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 27,
+    "pdf_marks": 27
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 37,
+    "pdf_marks": 37
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 23,
+    "pdf_marks": 23
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 33,
+    "pdf_marks": 33
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 23,
+    "pdf_marks": 23
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 33,
+    "pdf_marks": 33
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 25,
+    "pdf_marks": 25
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-10",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 8,
+    "pdf_marks": 8
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 28,
+    "pdf_marks": 28
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 9,
+    "pdf_marks": 9
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 3,
+    "pdf_marks": 3
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 11,
+    "pdf_marks": 11
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 12,
+    "pdf_marks": 12
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 16,
+    "pdf_marks": 16
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 16,
+    "pdf_marks": 16
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 33,
+    "pdf_marks": 33
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 25,
+    "pdf_marks": 25
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 16,
+    "pdf_marks": 16
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 17,
+    "pdf_marks": 17
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 32,
+    "pdf_marks": 32
+  },
+  {
+    "chapter": "P1-11",
+    "role": "workbook",
+    "page": 8,
+    "expected_marks": 22,
+    "pdf_marks": 22
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 5,
+    "pdf_marks": 5
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 4,
+    "pdf_marks": 4
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 8,
+    "pdf_marks": 8
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 6,
+    "pdf_marks": 6
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 5,
+    "pdf_marks": 5
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 16,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 17,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 18,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 19,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 20,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 21,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 22,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 23,
+    "expected_marks": 7,
+    "pdf_marks": 7
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 24,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 25,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 26,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 27,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 28,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 29,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 30,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 31,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 32,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 33,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 34,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 35,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 36,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 37,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 38,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 39,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "textbook",
+    "page": 40,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 10,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-12",
+    "role": "workbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 8,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 9,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 10,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 11,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 12,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 13,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 14,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 15,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 16,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 17,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 18,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 19,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 20,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 21,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 22,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 23,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 24,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 25,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 26,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "textbook",
+    "page": 27,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 1,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 2,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 3,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 4,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 5,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 6,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  },
+  {
+    "chapter": "P1-13",
+    "role": "workbook",
+    "page": 7,
+    "expected_marks": 0,
+    "pdf_marks": 0
+  }
+]

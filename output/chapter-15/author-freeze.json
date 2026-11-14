@@ -1,0 +1,25 @@
+{
+  "chapter": "P1-15",
+  "author": "chapter15_author",
+  "status": "pending_independent_review",
+  "fingerprint": "44e1fa05d3f865cc7151139ffa141f9918cedd63d9d5fb9d29e354b3951bdffe",
+  "hashes": {
+    "production/p1.json": "0652ea2dafaff38c18786d444eab36e881f9498b032503c667664f4550911b63",
+    "production/p2.json": "25126003b6255c38b87f264822d0e018839d41f06b67289a96a6ce29ccfbec20",
+    "production/p3.json": "80dd3c1fe934bed25d383e346760e88c8b5cafffbaa346865c8b489e52a7593b",
+    "production/lessons.json": "ff3799c7a8ea934145706950691d4b445dff455d065e6eafc1be92ec648e575a",
+    "production/p1-opening.json": "66e0a842d5d1fcbf45015c76f8a8fd431369011d8cb228dcea8bfc01ae40dd3c",
+    "scripts/build_chapter_fifteen.py": "3ca9efb52174761edccb4acfbf83239866b791bd5138d9451ebd76bdda36866d",
+    "scripts/build_primary_one_opening.py": "ea5b2a7355c084121386c6432b3bbd0095171c681f69f7e8d0935ef4531bf996",
+    "scripts/build_chapter_sample.py": "a013ccd385e339583045d1df3771e53ef84c874235f63c066643dd3a7a8f0029",
+    "docs/CHAPTER-STANDARD.md": "de8aec35da5fb858f5b5eafead86a653938aa07b4aa593fcd0b8b893affe0290",
+    "docs/CHAPTER-REVIEW.md": "c35963d1701112195a7112257f63d27e36a23e2d7936e4dba342a664ca74f493",
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980",
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.provenance.json": "7dff015bb66a5d48c410f1938eb3f13d9d75ca73f4d61bd3d401a48a2c04cd6e",
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf": "442786dbeaa94612bc6c871d5d3fa8a1ae95b36d8d0dff5891f22a1a6d095e89",
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96"
+  },
+  "page_inspection": "output/chapter-15/page-inspection.json",
+  "protected_snapshot": "output/chapter-15/before.json",
+  "legacy_restoration": "output/chapter-15/legacy-validation.json"
+}

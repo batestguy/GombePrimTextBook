@@ -1,0 +1,802 @@
+{
+  "reviewer": "/root/chapter14_review",
+  "date": "2026-11-14",
+  "carried_evidence": "Own same-session chapter14 every-task and individual-full-page inspections, not fresh old-page opens and not another reviewer judgment.",
+  "prior_pages": 339,
+  "prior_pdfs": {
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb",
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579",
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1"
+  },
+  "first14_lessons_identical": true,
+  "other_unassigned_lessons_identical": true,
+  "protected_hashes": [
+    {
+      "path": ".gitattributes",
+      "sha256": "800f07ece40dac003442b6dc3ff5fb45bc2e1f3d82db19e146ce47d8174ccaff"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "112c2e97b60787f381932c9afde1d1e81656f80217576ecfffbc411909867811"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "9cb5dfd94968008086a324989c84e0b75925e30dacad1aa6a40b91f8f19c6c20"
+    },
+    {
+      "path": "Gombe-Mathematics-Book-1.pdf",
+      "sha256": "79d80c76d810db2b208df4c310c4c96ad796500088af4ca7826ecf87c9e41aec"
+    },
+    {
+      "path": "GombeTextbook.txt",
+      "sha256": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca"
+    },
+    {
+      "path": "README.md",
+      "sha256": "0984a5dfedc44ffb6da19e0e9febeb8cb347754cfbdd49d3e15a428f2c082aec"
+    },
+    {
+      "path": "_quarto.yml",
+      "sha256": "358e6ec9588d84e3af290e7c9543f1170449b0b213db622f782c105a1076e831"
+    },
+    {
+      "path": "artwork/PROVENANCE.json",
+      "sha256": "f9543aa8492c0895735cae1080f0943cf2e312400345ee59dc3fc9ebc665e2d0"
+    },
+    {
+      "path": "artwork/STYLE.md",
+      "sha256": "8b4a6592b819aa6fc0b6e3466602db3e0f92b1072c298708b084c7d4b739a5e3"
+    },
+    {
+      "path": "artwork/characters.png",
+      "sha256": "f60222823f1eeb804edc17a8cb763a4a46c3666310a231a30256d7534065da25"
+    },
+    {
+      "path": "artwork/diagrams/area34.svg",
+      "sha256": "2e4363e856e15dfb252c2aaab278ad0a5a13af4f47f0d8e967366273f03d6481"
+    },
+    {
+      "path": "artwork/diagrams/array34.svg",
+      "sha256": "32aeb3cd96582ec6e317c86bafafa55555a0307b8c81725a37e520a1af899882"
+    },
+    {
+      "path": "artwork/diagrams/calendar.svg",
+      "sha256": "7d428de0b18797a068099f7ac2eb9806f937c66121e2c09c7fc7a2d38efc1ec4"
+    },
+    {
+      "path": "artwork/diagrams/clocks.svg",
+      "sha256": "15cb25b60e769dec187b2b47905f20ea0f75408ab3ce6d689013867b731a2367"
+    },
+    {
+      "path": "artwork/diagrams/count35.svg",
+      "sha256": "58129b24c9ca6085eb4799ed1941c8fe156b460b420a340c9e34ae19810e823a"
+    },
+    {
+      "path": "artwork/diagrams/equivalent.svg",
+      "sha256": "886111d1c178438404bc27934eb84b317ce7c3d27b5f9b2c81e4f0892e67f549"
+    },
+    {
+      "path": "artwork/diagrams/fractions.svg",
+      "sha256": "f56795dcd585f9d9bc3eb9e7ac0d274482b3769067a6f36b7346884ea0718810"
+    },
+    {
+      "path": "artwork/diagrams/fractionstrip.svg",
+      "sha256": "60a7dfe2895cb020aa12432ec0f7b9e839fc37583d3428afe5934af4be239e44"
+    },
+    {
+      "path": "artwork/diagrams/manifest.json",
+      "sha256": "98ab2dc635809fa228316c5e2d27ac3fccc55907dd042780e69ac64ef56eaf78"
+    },
+    {
+      "path": "artwork/diagrams/perimeter.svg",
+      "sha256": "2efd0fc4c516a25756c443ae57e821e8dfc65168d78ca9a16170322edebdbf8c"
+    },
+    {
+      "path": "artwork/diagrams/pictogram.svg",
+      "sha256": "c4f08bbea93cb3237a9a1e527ebb6eaba934f1b5ee3c6cfc2151b612b12a6cb0"
+    },
+    {
+      "path": "artwork/diagrams/regroup.svg",
+      "sha256": "637700465c7693deb06550535ec7d0572da8a4dc81b236e95b1608074a90e6ab"
+    },
+    {
+      "path": "artwork/diagrams/ruler.svg",
+      "sha256": "4ddc78e313c6a54d168297b594c93fadff74c44597fd2ec0f3d4d3a695ea439c"
+    },
+    {
+      "path": "artwork/diagrams/setquarters.svg",
+      "sha256": "aece05a8f6e99a740ad11ba83c8c936aefcaaa45a2b9316ef1bb817b41a952c8"
+    },
+    {
+      "path": "artwork/diagrams/shapes.svg",
+      "sha256": "b3d97e784c32b732dc0830da4552b635b951c52e9ca22081cc22eab69543ff11"
+    },
+    {
+      "path": "artwork/diagrams/solids.svg",
+      "sha256": "58a6977e6358718510e13e6937ac3393385f3af087e701cb8d8c7f691f1e7d36"
+    },
+    {
+      "path": "artwork/diagrams/symmetry.svg",
+      "sha256": "89e958b7f4a25a9d8c417e022bd4f29294916b509866e43e69f827a3e68545be"
+    },
+    {
+      "path": "artwork/diagrams/tens14.svg",
+      "sha256": "a9fd583ecc81be8b9cca785d22fad734a3b38567d51e1bee435d4172246dd8c3"
+    },
+    {
+      "path": "artwork/garden.png",
+      "sha256": "0f2c2b3d9217c3c6615430718583baea83f224376a53e3fc8aeff6485d9f14ca"
+    },
+    {
+      "path": "artwork/kilang-hill.jpg",
+      "sha256": "53b9bb4516ca8f88b2b32eeca2b3bce2aad5530f9ac3d2a68c5a444386a84316"
+    },
+    {
+      "path": "artwork/manifest.json",
+      "sha256": "e075971bda3e64e7c2b3212063e8fd4a8e41ea41a41ffffeb969e23ec649024f"
+    },
+    {
+      "path": "artwork/market.png",
+      "sha256": "213f4c3f3b96e5adbadcc78f84db0615b9f6f319235747d30d82245a119d874d"
+    },
+    {
+      "path": "artwork/redesign/REFERENCE-REVIEW.md",
+      "sha256": "2b847bc80bed33d733fee1df11be6ef1ef1b3c7b690c097eaf485f4667e9557f"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-hijab-v2.png",
+      "sha256": "be6d0dbb256721e3d32296ae2e972a454b2ef444b2f496c1f281be61ef858591"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-hijab-v2.provenance.json",
+      "sha256": "a77fc3b8636429db6be31583d37770250080ade08b272f2fe64cc35d5cd4f061"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-v7.png",
+      "sha256": "19a1765a734275cf04d636900436302e3cddf8afbd74def0b1997396700d6412"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-v7.provenance.json",
+      "sha256": "d38be4d56428583448c3a030565e8f17af7147d756641b0a3fe3e0e1e379f9c9"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-white-v4.png",
+      "sha256": "8066a5bac229b403bba08eb0a4971d42274078d0efaeb94f0c4b0d50a3d27321"
+    },
+    {
+      "path": "artwork/redesign/references/lead-introductions-white-v4.provenance.json",
+      "sha256": "8031a2c6391165e96172bd2088a85d9a02c01361b06ddc10110f9d5df9ddee09"
+    },
+    {
+      "path": "artwork/redesign/references/lead-reference-proposal-v1.png",
+      "sha256": "f56153e0f74052506d3834b765e5bb0a2c0e75670f7316a59e5750d944824000"
+    },
+    {
+      "path": "artwork/redesign/scenes/classroom-welcome-v6.png",
+      "sha256": "467eb5a503b664e5c24a74d2296a56bd34b9cfaef7dd9d68ad94f309637e9d7e"
+    },
+    {
+      "path": "artwork/redesign/scenes/classroom-welcome-v6.provenance.json",
+      "sha256": "5a5aed54c3c55c2b40c93d93e48fbc44beefc5a65a04b9e759761385ce464947"
+    },
+    {
+      "path": "artwork/redesign/scenes/classroom-welcome-v7.png",
+      "sha256": "6c099cc627c0d5b00a4b672e1ec273c118e715489112e50295515e82f6ddd637"
+    },
+    {
+      "path": "artwork/redesign/scenes/classroom-welcome-v7.provenance.json",
+      "sha256": "abf3edd70f865f7e4738f23d47bb201ce10b89428c5a997f34d96bbae70f43d7"
+    },
+    {
+      "path": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png",
+      "sha256": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+    },
+    {
+      "path": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.provenance.json",
+      "sha256": "5b73ceed8666f398ad610f7d9bb3b3802b97c33a62b219265669aac8a33cb744"
+    },
+    {
+      "path": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+      "sha256": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+    },
+    {
+      "path": "artwork/redesign/scenes/mrs-binta-blackboard-v1.provenance.json",
+      "sha256": "7dff015bb66a5d48c410f1938eb3f13d9d75ca73f4d61bd3d401a48a2c04cd6e"
+    },
+    {
+      "path": "artwork/redesign/scenes/p1-01-hijab-v2.png",
+      "sha256": "00629c9729972c04f9582511f9669c8c2396c963625411440c9ee03e64956b68"
+    },
+    {
+      "path": "artwork/redesign/scenes/p1-01-hijab-v2.provenance.json",
+      "sha256": "2cad693503dc4d16e986d666f3533914bb0328e6511ba2edaa3f18cc51db6f7b"
+    },
+    {
+      "path": "artwork/redesign/scenes/p1-01-review-v1.png",
+      "sha256": "32a433489384217c989c8db3e0e198c48050351b8ce68e6c51def881493dbdb4"
+    },
+    {
+      "path": "artwork/redesign/scenes/p1-01-review-v1.provenance.json",
+      "sha256": "cf176e099e148ed7590ca9923dc45b992c42bf43781b9138c6e5efa5ba902a45"
+    },
+    {
+      "path": "artwork/redesign/teachers/mr-aliyu-v6.png",
+      "sha256": "8feaba2b687cb066a3693f428d37e7e9bf55f29c6c230e5464f0793c2a6ec375"
+    },
+    {
+      "path": "artwork/redesign/teachers/mr-aliyu-v6.provenance.json",
+      "sha256": "52acf823ebed543fc61238fda0afa1bdfc278eb2a2a47374680c9c8c37db1d25"
+    },
+    {
+      "path": "artwork/redesign/teachers/mr-aliyu-white-v6.png",
+      "sha256": "152b753a4592b82fc356d473917f5cc8c9a40177c640a67d291446b1ada23b77"
+    },
+    {
+      "path": "artwork/redesign/teachers/mr-aliyu-white-v6.provenance.json",
+      "sha256": "9bbc94fae9287eae81f4e05a9ff83d4cf91986500df2db8b16f7415c610a7027"
+    },
+    {
+      "path": "artwork/redesign/teachers/ms-binta-v5.png",
+      "sha256": "17e6fb607acf8b9857d29dc06cd2e2bd3c5b212d7975147f770801aa7313b2fe"
+    },
+    {
+      "path": "artwork/redesign/teachers/ms-binta-v5.provenance.json",
+      "sha256": "0d94fdf24e29ece751c95b0b546b7c603a96f5e9fc5079ea6c8242786096a28f"
+    },
+    {
+      "path": "artwork/school.png",
+      "sha256": "adb6a0c198c6ab265c7d0cfc9ff36dcf6fd71195687fc0487d508e4cae3851d2"
+    },
+    {
+      "path": "book.qmd",
+      "sha256": "a19d2658cf7ee8c69d30625e851004c56ecbfe52e876757f668a7b201cf04f9d"
+    },
+    {
+      "path": "book.typ",
+      "sha256": "9824ba984b0e8d4a300e78b1e9be9cbbcf9431f364635f3b7ea71adadf5f8275"
+    },
+    {
+      "path": "fonts/DejaVuSans-Bold.ttf",
+      "sha256": "b184b89e3c1075f22f6b71575b6fc20d4972b3cfd3b23322ca6fd596dcaef167"
+    },
+    {
+      "path": "fonts/DejaVuSans-Oblique.ttf",
+      "sha256": "ccdf74b350f11fd3dd5774de50e5e6346a1a5da1f5b7d5fb83590665e97a5213"
+    },
+    {
+      "path": "fonts/DejaVuSans.ttf",
+      "sha256": "3fdf69cabf06049ea70a00b5919340e2ce1e6d02b0cc3c4b44fb6801bd1e0d22"
+    },
+    {
+      "path": "fonts/LICENSE_DEJAVU.txt",
+      "sha256": "d75938dec098f06f0ac3c00853065d94f020be1c3c62ef1dc2975ba15b4d9b0e"
+    },
+    {
+      "path": "fonts/Vera.ttf",
+      "sha256": "c4c45690b345435b2cba52ecabe275f05e49b389b39fe68ad03afbb551288d3d"
+    },
+    {
+      "path": "fonts/VeraBI.ttf",
+      "sha256": "fca0d4eeac1ced7e75e1b2274c869a351d2d83b5ed1f61d249e7bcc477c33ebe"
+    },
+    {
+      "path": "fonts/VeraBd.ttf",
+      "sha256": "cc037385e4d55bfde89b13e03091ee93bf40c0c52ddd391ff031ab276f13b8e9"
+    },
+    {
+      "path": "fonts/VeraIt.ttf",
+      "sha256": "2adc684d518f45232c4ad1f56522f5a82a6904c31940373e1b7030beee20fb3a"
+    },
+    {
+      "path": "fonts/bitstream-vera-license.txt",
+      "sha256": "3361d054759a2fc686a2c058be82deaf9c2e6fe549be9004d7935a6c1736315d"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "sha256": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "sha256": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "sha256": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "sha256": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "sha256": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+      "sha256": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "sha256": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "sha256": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "sha256": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03"
+    },
+    {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "sha256": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a"
+    },
+    {
+      "path": "production/REVIEW-FORM.md",
+      "sha256": "fd502c6a33ac9dfcad13ecf1fa5aece758d7337a34037b303b2df1c03406dcb3"
+    },
+    {
+      "path": "production/characters.json",
+      "sha256": "8ce66254ba619d82fcfdf64ebdf6974bbf48361d389a955ab3309025bec9126f"
+    },
+    {
+      "path": "production/complete-manuscript.txt",
+      "sha256": "36f1458704f45bb2dcd964c178a6cbb386d0e726c2c6c9f10f56cad62f4233b8"
+    },
+    {
+      "path": "production/contents-and-page-budget.md",
+      "sha256": "0cef1290b5d4c0940ce4d7f38e3fc0596116bf88c7af485dd6d43ff93aacf3da"
+    },
+    {
+      "path": "production/environment.json",
+      "sha256": "09a3e48fb80f6cf7475d4992f2a4d4850cd91189e66b852032408421f4b44f94"
+    },
+    {
+      "path": "production/layout.typ",
+      "sha256": "260040633cdfb8d40e620d3afe2daea1410c3649ca0c933c1a700686524f31e1"
+    },
+    {
+      "path": "production/manuscript.md",
+      "sha256": "48bfd7e2c7c118a9b77ec383e9d04620c0f8a6c361e953e2d6afc8792479d69a"
+    },
+    {
+      "path": "production/p1-opening.json",
+      "sha256": "66e0a842d5d1fcbf45015c76f8a8fd431369011d8cb228dcea8bfc01ae40dd3c"
+    },
+    {
+      "path": "production/p2.json",
+      "sha256": "25126003b6255c38b87f264822d0e018839d41f06b67289a96a6ce29ccfbec20"
+    },
+    {
+      "path": "production/p3.json",
+      "sha256": "80dd3c1fe934bed25d383e346760e88c8b5cafffbaa346865c8b489e52a7593b"
+    },
+    {
+      "path": "production/page_manifest.json",
+      "sha256": "f9029b71e68e7363f708a2141f3a17d650411e2f054b8049984cd881713b6639"
+    },
+    {
+      "path": "production/prototypes/README.md",
+      "sha256": "a7815f8b1c1e00344b83fbaca301d4d79e0a391fdbbd9d7d2c943eae7cf9974f"
+    },
+    {
+      "path": "production/prototypes/character-revision-v7.json",
+      "sha256": "bc082dc3618f57e31059436ac1b28c0e96fda5f2380e0a46bac1848b13e59412"
+    },
+    {
+      "path": "production/prototypes/design-v4.json",
+      "sha256": "18a56cc0c459f83fe6f9efd9ae76fcf6217c8c364840bebfe0eaba14d0b000cf"
+    },
+    {
+      "path": "production/prototypes/design-v7.json",
+      "sha256": "66ef734349eb0d9713eabb521a2a99fa5330590122f8cd0dcd4c6703fcd1741f"
+    },
+    {
+      "path": "production/prototypes/p1-01-v5.json",
+      "sha256": "36dc9b38eecf0e3d96b241dcf90acfa9d17bbc75a813d4297abc08745ac271c1"
+    },
+    {
+      "path": "production/prototypes/p1-01-v6.json",
+      "sha256": "c54661164ba71c60f7ca2825c22436dff4552a28cf64fcfc2f93dfc4d850ae58"
+    },
+    {
+      "path": "production/prototypes/p1-01-v7.json",
+      "sha256": "155865d1e9886d5b6d1a4a8ebad5beae8e964809d389e7b8f0267b1041a16cb1"
+    },
+    {
+      "path": "production/prototypes/p1-01.json",
+      "sha256": "e96791eee7a9b63281b4e9e6f1f0236693816479b1a28d48568bc9a8adeda770"
+    },
+    {
+      "path": "production/reviews.json",
+      "sha256": "2907f96cdad5ae4ede73e4268a07795acb9307dd48d708973b80e42d7ba4e041"
+    },
+    {
+      "path": "production/storyboard.json",
+      "sha256": "d616e134e88ad5c768d74197e062649cf1bc5432c9675ea49aad1e680a4d0686"
+    },
+    {
+      "path": "production/teachers.json",
+      "sha256": "292cbbc1041d7176ae4063d5271a57b2ad0012e0baa5b77ebb488bc6f7ea2743"
+    },
+    {
+      "path": "requirements-validation.txt",
+      "sha256": "afb9df34f1dcfb7f781b35a991b2d1fd3db6fca8f6b9cab7a9b9fb43d8f7b7ec"
+    },
+    {
+      "path": "research/CONTENT_REVIEW.md",
+      "sha256": "4dc4455192d32f922046a2b878f93daa1b7f2faa907d66545e4c464f83b5c17c"
+    },
+    {
+      "path": "research/CURRICULUM.md",
+      "sha256": "ff635029435c127fbf5f51fc2e9ddae8be27fc5b2d6dbc358a038b01124e6f57"
+    },
+    {
+      "path": "research/PRIMARY-1-ASSUMPTIONS.json",
+      "sha256": "6964ce366017487f2c51edbd7cea09b8dd68ff3bfb3326dfdebb699fc18c48f6"
+    },
+    {
+      "path": "research/PRIMARY-1-GAP-MATRIX.csv",
+      "sha256": "75b8dacc952dcfaee056b348e16ac8c6ff7ba43d45e769afd0cd483498d83db9"
+    },
+    {
+      "path": "research/PRIMARY-1-REQUIREMENTS-2026.md",
+      "sha256": "91e9d4f805eb9bfcf8fe103cb6e0707dabd3c5c4eef00ce31f6184d0f133142b"
+    },
+    {
+      "path": "research/PRIMARY-1-RESEARCH-SOURCES.json",
+      "sha256": "170cc5aed1317b734dc8f9cd760005cf88bd84c7d2c08174e287e3e33186e203"
+    },
+    {
+      "path": "research/STORY-WORLD.md",
+      "sha256": "e4a21c3773581972ed67698e3148309622fa49351c12bf8d56ae1a62427fa297"
+    },
+    {
+      "path": "research/TEXTBOOK-DESIGN-REVIEW.md",
+      "sha256": "72ae225148cd2de8d6cde14b6ccda37dd977e6d260a88a4037fd5d3f5426f9a2"
+    },
+    {
+      "path": "research/coverage.csv",
+      "sha256": "b3a9ae1c4cb53ea5c7cad6309726d0b9bdcb18bd4cb5edc917510c6a7331017d"
+    },
+    {
+      "path": "research/curriculum_objectives.json",
+      "sha256": "bad4af7d356da791ea5e616580e1b48a7078cfd64035dcdb76f1676264e9e109"
+    },
+    {
+      "path": "research/local-evidence.json",
+      "sha256": "b1763e8c514b35dcc7911d7de73776d8261bb399c0941fef1d7fcb6ae55f85ba"
+    },
+    {
+      "path": "research/story-coverage.csv",
+      "sha256": "51133c51cd319a17f1f88aa53aa6427f33ba83b6b5f44fa86bc084c63997d9c6"
+    },
+    {
+      "path": "research/supplementary_assessments.json",
+      "sha256": "609e195dcb5c2c182d45f101953218373ea14a00c5f114379753b5f9485f6d4f"
+    },
+    {
+      "path": "scripts/author_p1.py",
+      "sha256": "bae73c4a73fe1365f12450de207debe33c24d479eb462cc0e22e62f3e5af7fe2"
+    },
+    {
+      "path": "scripts/author_p2.py",
+      "sha256": "d03ecf4df78e19368ce60f0a2b62e69330ba76196934275fa0af265e6c7574a5"
+    },
+    {
+      "path": "scripts/author_p3.py",
+      "sha256": "85326a02b203b749d92b5f38213384ccf6c7aefcb5bc6e64e7ecf48f11bb7a15"
+    },
+    {
+      "path": "scripts/author_reviews.py",
+      "sha256": "d3fc416ebdd8ad76383adc47dc15951d7c35c3f31eba73f4c75655a6459d2cac"
+    },
+    {
+      "path": "scripts/build_book.py",
+      "sha256": "fb8e8003d2c7e80e3231fd5c65a25156d707836b24ce0e329d5fd880fe93a20d"
+    },
+    {
+      "path": "scripts/build_chapter_eight.py",
+      "sha256": "2be52443184fb942efd72bdf183eb3283c633f47caf182dfe87db0c8e6ac5f25"
+    },
+    {
+      "path": "scripts/build_chapter_eleven.py",
+      "sha256": "f519c276c514846077dee3bd61f2dfcf391cf46450a2b760dd7b851104b2be51"
+    },
+    {
+      "path": "scripts/build_chapter_five.py",
+      "sha256": "998b88a80e186bbd02f053e4e26c78813973800635e708bea4718027828bf177"
+    },
+    {
+      "path": "scripts/build_chapter_four.py",
+      "sha256": "42a7becce68705828c1870058fad201edfe81f89267df37f014680b79f4813f5"
+    },
+    {
+      "path": "scripts/build_chapter_fourteen.py",
+      "sha256": "633dda21f4bb4fdc7b254654b588c94114baebaaafae1e6261c10585077ef0e1"
+    },
+    {
+      "path": "scripts/build_chapter_nine.py",
+      "sha256": "feeb37edfeee0fdadcb2ff9ff6f503579a2fcec3ddf59451a6c45c3c1248f178"
+    },
+    {
+      "path": "scripts/build_chapter_sample.py",
+      "sha256": "a013ccd385e339583045d1df3771e53ef84c874235f63c066643dd3a7a8f0029"
+    },
+    {
+      "path": "scripts/build_chapter_sample_v3.py",
+      "sha256": "bee4d114e3c48df6d448ed49bc57ab0eefaf74d894fbc91a67b9536a3e670628"
+    },
+    {
+      "path": "scripts/build_chapter_sample_v4.py",
+      "sha256": "37d21c8794439e3af96d6836dff6bab4817df41bb21407e64ca2ed17c01d21aa"
+    },
+    {
+      "path": "scripts/build_chapter_sample_v5.py",
+      "sha256": "5b6fa20c1a1018484a87a95f40415901f82f15a4b08bfa45a20c198b629a2dba"
+    },
+    {
+      "path": "scripts/build_chapter_sample_v6.py",
+      "sha256": "aea93a22adeff50e5e12e1635c1137dfbcf6576b64d61baba1d346ca91d0f1fb"
+    },
+    {
+      "path": "scripts/build_chapter_sample_v7.py",
+      "sha256": "b302ff589a20df702743aa1752f6a009ab500a87ed842845566a6055bf57fc44"
+    },
+    {
+      "path": "scripts/build_chapter_seven.py",
+      "sha256": "3c7af5c46ef8df1d86241dca4c39f3764481d77ecf6a7a6c71ec5fa5dcd3a9d4"
+    },
+    {
+      "path": "scripts/build_chapter_six.py",
+      "sha256": "b7968ec60d05eb957f2352a61b0bdb4e24bdf3cffb4dcf609931e2187332ac05"
+    },
+    {
+      "path": "scripts/build_chapter_ten.py",
+      "sha256": "f5587b171089ae68eaa44b3595c231842fb7895e2d879c2e8c30bc03669c1a92"
+    },
+    {
+      "path": "scripts/build_chapter_thirteen.py",
+      "sha256": "ca1686d3895b158f565ab342c924aba19e341248f0c56c2a692af2861970b781"
+    },
+    {
+      "path": "scripts/build_chapter_three.py",
+      "sha256": "3f5c8f757456cbb5ba444b111ce55ab8893188a3e38af76d911b12fc73dd8670"
+    },
+    {
+      "path": "scripts/build_chapter_twelve.py",
+      "sha256": "e3d9090d16746f3f99c9603b129ee865be5fe074527ba9856df7adfb2d8375eb"
+    },
+    {
+      "path": "scripts/build_chapter_two.py",
+      "sha256": "0665c4554cfada93e049f2eef38558f9eff03c8bdf990978bcbba91ced422867"
+    },
+    {
+      "path": "scripts/build_primary_one_opening.py",
+      "sha256": "ea5b2a7355c084121386c6432b3bbd0095171c681f69f7e8d0935ef4531bf996"
+    },
+    {
+      "path": "scripts/catalog.py",
+      "sha256": "3403957a6d13cd07e3ea8a76ed9b2671ee271fe97a5ad05589ed2700e21045c3"
+    },
+    {
+      "path": "scripts/check_chapter_standard.py",
+      "sha256": "0ffddb18b635b6f1c09c1e0d0c720f721dbe27b86bca59f2fccb756ca8bb5269"
+    },
+    {
+      "path": "scripts/create_storyboard.py",
+      "sha256": "038e40ff5ce490fc8b0c9e507eecc3bc9d94b83882e15c59b71b24d27f034ebd"
+    },
+    {
+      "path": "scripts/finish_production.py",
+      "sha256": "ad9646af590f3cdba264756aa9b9f3d0248aec458b7d1d5935d4a3970d2a9722"
+    },
+    {
+      "path": "scripts/make_diagrams.py",
+      "sha256": "8de2d94c5f3c2769d6ae210e7893f914f84031ae3894dfac0daa5786a71acda0"
+    },
+    {
+      "path": "scripts/package_book.py",
+      "sha256": "c85408c454ffb30c0a82f350f017e7e51e7f2753720633bbb8824348fbf7c5f4"
+    },
+    {
+      "path": "scripts/preflight.py",
+      "sha256": "8b2590c4b1f2f8e0bbefce9bf2ddb09629b00de9adfb07801fa4083047aae22d"
+    },
+    {
+      "path": "scripts/test_chapter_standard.py",
+      "sha256": "b9797a3c4264b4c52a57a17efb7725fe8c4d70d5329d4ec3fbf9455569711923"
+    },
+    {
+      "path": "scripts/validate_book.py",
+      "sha256": "41b8b84de306b2312faf19dcfa83082395deaa1815dc546658e7708110f28744"
+    }
+  ],
+  "all21_historical_backups_exact": true,
+  "previous_full_fingerprints_reproduced": [
+    {
+      "chapter": "P1-01",
+      "previous_fingerprint": "a1eb324b910dea690496e2553dd0d6695744c4f7c8464fa15d9134035c92f4f1",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-02",
+      "previous_fingerprint": "900e76fc7b0a88911be3fa71bbd941d9bf89c7a0ca1bd4ab1ae4cd33f88a8013",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-03",
+      "previous_fingerprint": "bc32b4c0a314d12ed504dd2ac8baa3a904927ad5c04cbfec4aa47d3f5089a204",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-04",
+      "previous_fingerprint": "e98341e373e25006ea00d6c4cd0ca5a51fddd216f6e833db81a9e866acf79a6a",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-05",
+      "previous_fingerprint": "f2ef0c670bdcbbcbd17510bca3b349a098f2e7a348b06cb8a0df22a3f56758c5",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-06",
+      "previous_fingerprint": "6a2b3311391ad5f69b5b23428904cf88949de2b639f0abc55503e180b1b492c6",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-07",
+      "previous_fingerprint": "2dd1f920b305f8d78308b8a6886fa2959efef5d9b158fb06ee4fcfbb52a49f03",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-08",
+      "previous_fingerprint": "26b91433a4bd0a0c7e9aa50e9db99a7dad351415eeaf3299e1ef9a89d465e3ed",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-09",
+      "previous_fingerprint": "86a01b5cfcca5096a5876e7299d7f115fcefc56128aa7a93b115d30f5e589361",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-10",
+      "previous_fingerprint": "cb690a9db273e0e159b7f73dcc7deccd4805790c602345564f1c1cf41d7ec41e",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-11",
+      "previous_fingerprint": "c1d1f654c9ae7e5f652ae81e8e3028559b156c3272a4239e2a4942bced7bd620",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-12",
+      "previous_fingerprint": "ecd9f428413912c7f4ec901a06e0801ce346f4d6b3330554932f723a9f5ca00b",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-13",
+      "previous_fingerprint": "f0995c7b6fe7d5f59d608871208875b1a0981e3997d56de9db8a20384b347284",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    },
+    {
+      "chapter": "P1-14",
+      "previous_fingerprint": "e79d0c9769260831ed651e970bc4534fc04c5aa23ecbc8983b06447b9e2e4c87",
+      "reviewed_on": "2026-11-14",
+      "reviewer": "Codex /root/chapter14_review (fresh independent chapter14 review session)"
+    }
+  ],
+  "new_shared_scope_paths": [
+    "scripts/build_chapter_fifteen.py"
+  ],
+  "only_authorized_canonical_difference": [
+    {
+      "chapter": "P1-15",
+      "changed_keys": [
+        "paired_edition",
+        "questions"
+      ]
+    }
+  ],
+  "status": "Prior exact evidence reusable; new Time pair and isolated dependency effects still require review and new fingerprints after root freeze."
+}

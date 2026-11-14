@@ -1,0 +1,10 @@
+﻿from pathlib import Path
+import json,hashlib
+R=Path.cwd();O=R/'output/chapter-14'
+def h(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+reports={r:json.loads((O/r/'validation.json').read_text()) for r in ['textbook','workbook']}
+inspection={r:[dict(page=n,sha256=h(O/r/f'page-{n:02}.png'),result='author visually inspected; readable; no clipping/overlap; mathematical diagram and response route checked') for n in range(1,v['pages']+1)] for r,v in reports.items()}
+(O/'page-inspection.json').write_text(json.dumps(inspection,indent=2)+'\n')
+freeze=dict(author='chapter14_author',independent_review='pending',fingerprint='948a6032161239a797bf5e0b52747e694c742975b11fca1b0e9b910fe0931a61',source_hashes={p:h(R/p) for p in ['production/p1.json','production/lessons.json','scripts/build_chapter_fourteen.py']},artifacts={r:dict(path=f'output/pdf/Maths-with-Friends-Primary-1-Length-{r.title()}.pdf',sha256=reports[r]['sha256'],pages=reports[r]['pages']) for r in reports},author_checks='all31 rendered pages personally viewed; changed TB6/WB5 rechecked after final rebuild;161 protected hashes,18other lessons,114source pairs and supplements preserved;21 historical generated files restored exact',limitations=['local educator, pupil/accessibility trials, physical print and printer approval pending','current curriculum alignment not established','independent review pending'])
+(O/'author-freeze.json').write_text(json.dumps(freeze,indent=2)+'\n')
+with (O/'AUTHOR-PROGRESS.md').open('a',encoding='utf-8') as f:f.write('\n- Authored 21 textbook and 10 workbook pages;32 tasks/examples;20 deterministic diagram specifications. Corrected label wrapping/proximity, source Q3 display, completed finger model, independent natural-unit/local exercise and exact unit geometry evidence.\n- Pair build passed, all31 pages personally inspected; final changed TB6/WB5 inspected again. Legacy build/render/validate passed (247 pages; no arithmetic/bounds failures); all21 historical generated files restored byte-identically; current lessons retained.\n- Preflight and draft standard passed. Final fingerprint recorded; independent approval remains pending.\n')

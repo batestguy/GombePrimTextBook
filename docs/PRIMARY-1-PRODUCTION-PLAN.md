@@ -6,22 +6,27 @@ The board carries a short, clearly typeset hint of the topic. Alternate Mrs Bint
 and Mr Aliyu; other story settings follow the opening. Apply this to each of the
 remaining units as it is developed; legacy drafts are not approved redesigned chapters.
 
-Implementation checkpoint, 14 November 2026: Chapters 1-13 have independently
-approved exact textbook/workbook pairs. Chapter 13, Pretend coins and change,
-has a 27-page textbook and 7-page workbook, led by Mrs Binta. A distinct reviewer
-freshly inspected all 308 unique affected pages across 24 PDFs and independently
-solved every task, diagram, example and answer. Required draft instruction/resource
-refinements are resolved; no required finding remains. All thirteen strict gates,
-coordinator preservation/math/vector checks and preflight passed. See
-[the latest review](../output/chapter-13/REVIEW.md) and
-[the session checkpoint](SESSION-HANDOFF.md). Genuine denomination recognition
-and actual brown/white-paper coin rubbings remain resource-conditional;
-pretend arithmetic/token drawing does not establish these skills. Six existing
-units, annual revision/assessment, final four offline-AI pupil pages and full-year
-assembly remain. Next is P1-14, Length, led by Mr Aliyu. All 114 original prompts/answers,
-18 other lessons, 22 earlier PDFs, 159 protected hashes, all supplements and 21 exact
-historical generated backups are preserved. Current curriculum/adoption,
-local trials and physical print/printer approval remain pending.
+Implementation checkpoint, 14 November 2026: Chapters 1-15 have independently
+approved exact textbook/workbook pairs. Length (Mr Aliyu) has 21 textbook and
+10 workbook pages; Time (Mrs Binta) has 23 textbook and 8 workbook pages. The
+reviewer personally inspected every new Time page/task and carried its own
+339-page earlier review only after exact source/PDF continuity was independently
+proved. Coverage totals 370 unique current pages across 28 PDFs; no repeated
+opening of unchanged pages is claimed. All fifteen strict chapter gates,
+coordinator preservation/actual-PDF checks and preflight passed. See
+[the latest review](../output/chapter-15/REVIEW.md) and
+[the session/delivery checkpoint](SESSION-HANDOFF.md).
+
+All 114 original prompt/answer pairs, the 18 other lessons relative to the Time
+baseline, 26 earlier PDFs, 166 protected hashes, all supplements and 21 exact
+historical generated backups were preserved. Genuine coin recognition/rubbing
+and natural-unit measurement remain conditional on actual observed resources and
+actions; printed activities and adaptations are not claims of pupil mastery.
+Next is **P1-16 Heavy and light**, Mr Aliyu. Four existing units, annual
+revision/assessment, final four offline-AI pupil pages and full-year assembly
+remain. Current curriculum/adoption, local trials and physical print/printer
+approval remain pending. Commit/push of this reviewed checkpoint is authorized;
+see the session handoff for delivery verification.
 
 Working decision recorded **20 October 2026**. User direction: document the
 research and completion work, use the best available approximation because

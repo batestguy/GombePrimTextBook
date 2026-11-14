@@ -1,0 +1,11 @@
+{
+  "restored_count": 21,
+  "all_byte_identical": true,
+  "commands": [
+    "python scripts/build_book.py",
+    "quarto render book.qmd",
+    "python scripts/validate_book.py"
+  ],
+  "legacy_pages": 247,
+  "legacy_status": "passed; historical export restored; no redesign approval"
+}

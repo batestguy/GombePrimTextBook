@@ -1,0 +1,377 @@
+[
+  {
+    "id": "P1-15-SEQUENCE-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "Amina: wake, wash, eat, school. First wake; wash next; school last; eating follows washing and is before school. These are this fictional story's choices, not a universal routine.",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "P1-15-DRAW-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "Completed drawings: first wall; next wall with roof; last wall with roof and door. Roof is after wall and before door. This is a drawing story, not a required home routine.",
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "P1-15-DAY-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Within the stated day: morning, afternoon, evening, night. In Mrs Binta's story: home wash morning; school reading morning; home toy-making afternoon; home storytelling evening; home sleep night. Reading may also occur at home or other times; next morning follows night.",
+    "pages": {
+      "textbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        13
+      ]
+    }
+  },
+  {
+    "id": "P1-15-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Stated story: first take paper at school in the morning; next draw at school in the morning; last show drawing at home in the afternoon. Drawing follows taking paper and is before showing. Grace's reversal is corrected using the story, not the page position.",
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-15-INDEPENDENT",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Stated story: first collect a leaf at home in the afternoon; next draw it at home in the afternoon; last show the picture at school the next morning. Draw is after collect and before show; both contexts and stated parts of day are required. Across-night sequence is explicitly two days.",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-15-RECALL",
+    "mode": "recall",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Without help, recall first/next/last and before/after; give a coherent story with one home and one school activity, naming plausible day parts. Pointing, speaking or acting is valid; accept fictional routines. Record recall before providing help.",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-15-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "With two cards: first open a storybook at home in the evening; next read it at home in the evening. Opening is before reading. Add the third card: close it last, after reading. School example: teacher reads a story in the afternoon in the stated school. Same activity can happen in more than one setting/time.",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-15-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "New recheck without supplied answers: first take clay at school in the afternoon; next shape clay there in the afternoon; last show the toy at home in the evening. Taking is before shaping; showing after shaping. Name school/afternoon and home/evening. Support may read and move cards but cannot supply the response.",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-15-CLOSURE",
+    "mode": "story",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-15-FRESH",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "New personal or invented three-event day: coherent first/next/last and before/after explanation; at least one home and one school activity with a plausible day part for each. Must differ from all taught example activity sets; no fixed universal routine. Adult records events/order/contexts/times and explanation, not drawing quality.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-15-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "answer": "Next session, without looking back: invent different home and school activities with plausible day parts; choose a middle event and explain one event before and one after in a coherent three-event story. If across days, name next morning. Assess recall independently; activity/time alternatives accepted with coherent story.",
+    "pages": {
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q1",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "morning: within the stated day, morning precedes afternoon.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q2",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "night: in the stated morning-afternoon-evening-night order; next morning follows night.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q3",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "answer": "A clearly named or drawn plausible morning activity, e.g. opening curtains at home or greeting a teacher at school; accept different or fictional routines. Do not assess art quality.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q4",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "Two distinguishable events in a coherent chosen order, with first/last identified; e.g. take a cup, then put it on a tray. Spoken/acted/card response accepted; story explains order.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q5",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "answer": "eating, because the locally repeated fictional Amina story says wake, wash, eat, school. Do not impose this order on other families.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-15-Q6",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-01"
+    ],
+    "answer": "Two events named and a statement that the first happens earlier than the second in the chosen story; e.g. open bag before take out book. Accept coherent fictional alternatives.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "S013",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p10-02"
+    ],
+    "answer": "Both a HOME activity and a SCHOOL activity, each named with a coherent morning/afternoon/evening/night time in the pupil's chosen real OR fictional routine. Accept varied schools and families and an activity in more than one day part. Use new examples rather than repeating the model. Example: fold a cloth at home in the evening; sing at school in the afternoon. Opportunity provided; mastery requires observed response.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  }
+]

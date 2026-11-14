@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "textbook": 23,
+    "workbook": 8
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf"
+  },
+  "tasks": 18,
+  "diagrams": 8,
+  "protected_hashes": 166,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 source prompt/answer pairs and18other lessons unchanged",
+    "166 protected hashes and supplements unchanged",
+    "both historical objectives cover seven progression modes",
+    "exact PDF card labels/positions and completed vector drawing model checked",
+    "A4 embedded fonts text bounds every page rendered"
+  ]
+}

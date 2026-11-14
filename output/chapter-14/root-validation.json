@@ -1,0 +1,40 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "114 ordered original prompt/answer pairs and 18 other complete lessons preserved",
+    "Generated lessons match all three canonical sources",
+    "All 161 protected hashes match, including 24 prior PDFs",
+    "All 21 historical generated backups restored byte for byte",
+    "All supplementary source fields/items unchanged",
+    "Other 49 chapter records unchanged; 13 review histories retained",
+    "Final frozen hashes and whitespace check pass"
+  ],
+  "require_reviewed": true,
+  "fingerprints": {
+    "P1-01": "a1eb324b910dea690496e2553dd0d6695744c4f7c8464fa15d9134035c92f4f1",
+    "P1-02": "900e76fc7b0a88911be3fa71bbd941d9bf89c7a0ca1bd4ab1ae4cd33f88a8013",
+    "P1-03": "bc32b4c0a314d12ed504dd2ac8baa3a904927ad5c04cbfec4aa47d3f5089a204",
+    "P1-04": "e98341e373e25006ea00d6c4cd0ca5a51fddd216f6e833db81a9e866acf79a6a",
+    "P1-05": "f2ef0c670bdcbbcbd17510bca3b349a098f2e7a348b06cb8a0df22a3f56758c5",
+    "P1-06": "6a2b3311391ad5f69b5b23428904cf88949de2b639f0abc55503e180b1b492c6",
+    "P1-07": "2dd1f920b305f8d78308b8a6886fa2959efef5d9b158fb06ee4fcfbb52a49f03",
+    "P1-08": "26b91433a4bd0a0c7e9aa50e9db99a7dad351415eeaf3299e1ef9a89d465e3ed",
+    "P1-09": "86a01b5cfcca5096a5876e7299d7f115fcefc56128aa7a93b115d30f5e589361",
+    "P1-10": "cb690a9db273e0e159b7f73dcc7deccd4805790c602345564f1c1cf41d7ec41e",
+    "P1-11": "c1d1f654c9ae7e5f652ae81e8e3028559b156c3272a4239e2a4942bced7bd620",
+    "P1-12": "ecd9f428413912c7f4ec901a06e0801ce346f4d6b3330554932f723a9f5ca00b",
+    "P1-13": "f0995c7b6fe7d5f59d608871208875b1a0981e3997d56de9db8a20384b347284",
+    "P1-14": "e79d0c9769260831ed651e970bc4534fc04c5aa23ecbc8983b06447b9e2e4c87"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "sha256": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "sha256": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1"
+    }
+  },
+  "limits": "Continuation extracts; practical length measurements require observed resources/methods. Annual assembly/current curriculum/adoption/local trials/physical print and printer approval pending."
+}

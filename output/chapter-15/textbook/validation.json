@@ -1,0 +1,323 @@
+{
+  "pages": 23,
+  "sha256": "442786dbeaa94612bc6c871d5d3fa8a1ae95b36d8d0dff5891f22a1a6d095e89",
+  "page_manifest": [
+    {
+      "slug": "time-a-mixed-up-story-strip",
+      "kicker": "Our day in order",
+      "title": "A mixed-up story strip",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-watch-a-story-in-order",
+      "kicker": "Our day in order",
+      "title": "Watch a story in order",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-SEQUENCE-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-watch-completed-drawing-cards",
+      "kicker": "Our day in order",
+      "title": "Watch completed drawing cards",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-DRAW-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-parts-of-a-day",
+      "kicker": "Our day in order",
+      "title": "Parts of a day",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-DAY-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-try-the-story-together",
+      "kicker": "Our day in order",
+      "title": "Try the story together",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-try-on-your-own",
+      "kicker": "Our day in order",
+      "title": "Try on your own",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-INDEPENDENT"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-morning-and-night-practice",
+      "kicker": "Our day in order",
+      "title": "Morning and night practice",
+      "subtitle": "Listen while an adult reads. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-15-Q1",
+        "P1-15-Q2",
+        "P1-15-Q3"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-tell-events-in-order",
+      "kicker": "Our day in order",
+      "title": "Tell events in order",
+      "subtitle": "Listen while an adult reads. Keep this textbook reusable.",
+      "task_ids": [
+        "P1-15-Q4",
+        "P1-15-Q5",
+        "P1-15-Q6"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-remember-before-getting-help",
+      "kicker": "Our day in order",
+      "title": "Remember before getting help",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-a-smaller-step,-then-try-again",
+      "kicker": "Our day in order",
+      "title": "A smaller step, then try again",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-HELP",
+        "P1-15-RECHECK"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-the-display-tells-a-story",
+      "kicker": "Our day in order",
+      "title": "The display tells a story",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-CLOSURE"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-a-new-day-story",
+      "kicker": "Our day in order",
+      "title": "A new day story",
+      "subtitle": "Read together. Listen while an adult reads the cards.",
+      "task_ids": [
+        "P1-15-FRESH",
+        "S013"
+      ],
+      "answer_ids": [],
+      "adult": false
+    },
+    {
+      "slug": "time-answer-map-1",
+      "kicker": "For adults / Time",
+      "title": "Answer map 1",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-SEQUENCE-MODEL",
+        "P1-15-DRAW-MODEL",
+        "P1-15-DAY-MODEL"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-answer-map-2",
+      "kicker": "For adults / Time",
+      "title": "Answer map 2",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-GUIDED",
+        "P1-15-INDEPENDENT",
+        "P1-15-RECALL"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-answer-map-3",
+      "kicker": "For adults / Time",
+      "title": "Answer map 3",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-HELP",
+        "P1-15-RECHECK",
+        "P1-15-CLOSURE"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-answer-map-4",
+      "kicker": "For adults / Time",
+      "title": "Answer map 4",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-FRESH",
+        "P1-15-DELAYED",
+        "P1-15-Q1"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-answer-map-5",
+      "kicker": "For adults / Time",
+      "title": "Answer map 5",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-Q2",
+        "P1-15-Q3",
+        "P1-15-Q4"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-answer-map-6",
+      "kicker": "For adults / Time",
+      "title": "Answer map 6",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-Q5",
+        "P1-15-Q6",
+        "S013"
+      ],
+      "adult": true
+    },
+    {
+      "slug": "time-teach,-notice-and-recheck",
+      "kicker": "For adults / Time",
+      "title": "Teach, notice and recheck",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "time-sources-and-honest-limits",
+      "kicker": "For adults / Time",
+      "title": "Sources and honest limits",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "time-source-correspondence-1",
+      "kicker": "For adults / Time",
+      "title": "Source correspondence 1",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "time-source-correspondence-2",
+      "kicker": "For adults / Time",
+      "title": "Source correspondence 2",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true
+    },
+    {
+      "slug": "time-source-correspondence-3",
+      "kicker": "For adults / Time",
+      "title": "Source correspondence 3",
+      "subtitle": "Teacher guidance / provisional chapter extract",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true
+    }
+  ],
+  "task_pages": {
+    "P1-15-SEQUENCE-MODEL": [
+      2
+    ],
+    "P1-15-DRAW-MODEL": [
+      3
+    ],
+    "P1-15-DAY-MODEL": [
+      4
+    ],
+    "P1-15-GUIDED": [
+      5
+    ],
+    "P1-15-INDEPENDENT": [
+      6
+    ],
+    "P1-15-Q1": [
+      7
+    ],
+    "P1-15-Q2": [
+      7
+    ],
+    "P1-15-Q3": [
+      7
+    ],
+    "P1-15-Q4": [
+      8
+    ],
+    "P1-15-Q5": [
+      8
+    ],
+    "P1-15-Q6": [
+      8
+    ],
+    "P1-15-RECALL": [
+      9
+    ],
+    "P1-15-HELP": [
+      10
+    ],
+    "P1-15-RECHECK": [
+      10
+    ],
+    "P1-15-CLOSURE": [
+      11
+    ],
+    "P1-15-FRESH": [
+      12
+    ],
+    "S013": [
+      12
+    ]
+  },
+  "objects": [],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

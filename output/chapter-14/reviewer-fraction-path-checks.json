@@ -1,0 +1,254 @@
+[
+  {
+    "id": "tb-whole",
+    "role": "textbook",
+    "page": 2,
+    "ratios": [
+      1.0
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-half",
+    "role": "textbook",
+    "page": 2,
+    "ratios": [
+      0.5,
+      0.5
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-quarter-half",
+    "role": "textbook",
+    "page": 3,
+    "ratios": [
+      0.4999998982747189,
+      0.5000001017252811
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-quarter",
+    "role": "textbook",
+    "page": 3,
+    "ratios": [
+      0.24999994913735946,
+      0.24999994913735946,
+      0.25000005086264054,
+      0.25000005086264054
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-unequal",
+    "role": "textbook",
+    "page": 4,
+    "ratios": [
+      0.3,
+      0.7
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-equal",
+    "role": "textbook",
+    "page": 4,
+    "ratios": [
+      0.4999998474120628,
+      0.5000001525879372
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-diagonal",
+    "role": "textbook",
+    "page": 4,
+    "ratios": [
+      0.5,
+      0.5
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-rotated-model",
+    "role": "textbook",
+    "page": 5,
+    "ratios": [
+      0.24999983016386151,
+      0.24999985014457693,
+      0.2500001498554103,
+      0.25000016983615125
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-fruit-half",
+    "role": "textbook",
+    "page": 5,
+    "ratios": [
+      0.5,
+      0.5
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-draw-half",
+    "role": "textbook",
+    "page": 6,
+    "ratios": [
+      0.5,
+      0.5
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-draw-quarter",
+    "role": "textbook",
+    "page": 6,
+    "ratios": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-help",
+    "role": "textbook",
+    "page": 8,
+    "ratios": [
+      0.4999998673148425,
+      0.5000001326851575
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-story-resolution",
+    "role": "textbook",
+    "page": 9,
+    "ratios": [
+      0.24999996885961803,
+      0.24999996885961803,
+      0.25000003114038194,
+      0.25000003114038194
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "tb-fresh-a",
+    "role": "textbook",
+    "page": 10,
+    "ratios": [
+      0.49999981657691406,
+      0.5000001834230859
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-fresh-b",
+    "role": "textbook",
+    "page": 10,
+    "ratios": [
+      0.24999992556686046,
+      0.24999992556686046,
+      0.25000007443313954,
+      0.25000007443313954
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "tb-fresh-c",
+    "role": "textbook",
+    "page": 10,
+    "ratios": [
+      0.3,
+      0.7
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "wb-guided-half",
+    "role": "workbook",
+    "page": 1,
+    "ratios": [
+      0.49999995504335754,
+      0.5000000449566425
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "wb-guided-quarter",
+    "role": "workbook",
+    "page": 1,
+    "ratios": [
+      0.24999992842967433,
+      0.24999992842967433,
+      0.25000007157032567,
+      0.25000007157032567
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "wb-compare-unequal",
+    "role": "workbook",
+    "page": 1,
+    "ratios": [
+      0.3,
+      0.7
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "wb-compare-equal",
+    "role": "workbook",
+    "page": 1,
+    "ratios": [
+      0.5,
+      0.5
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "wb-story-blank",
+    "role": "workbook",
+    "page": 5,
+    "ratios": [
+      1.0
+    ],
+    "shaded": 0
+  },
+  {
+    "id": "wb-fresh-a",
+    "role": "workbook",
+    "page": 6,
+    "ratios": [
+      0.4999998847986094,
+      0.5000001152013906
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "wb-fresh-b",
+    "role": "workbook",
+    "page": 6,
+    "ratios": [
+      0.2499999224654787,
+      0.2499999224654787,
+      0.2500000775345213,
+      0.2500000775345213
+    ],
+    "shaded": 1
+  },
+  {
+    "id": "wb-fresh-c",
+    "role": "workbook",
+    "page": 6,
+    "ratios": [
+      0.3,
+      0.7
+    ],
+    "shaded": 1
+  }
+]

@@ -1,0 +1,9 @@
+# Chapter 15 author progress
+
+- Starting scope: P1-15 only; two historical objectives, six preserved source questions and S013. Gate pending independent review. Mandatory standard, review, handoff, PDF skill, source lesson, teaching map, assumption register, chapter14 builder and shared renderer read.
+- Plan: reuse the existing renderer and Mrs Binta classroom artwork. Teach sequence, completed drawing cards and day parts before independent work. Both home and school contexts, fictional alternatives and varied routines will be explicit. No clocks or calendar prerequisites.
+
+- Draft built; root source audit led to six corrections: reusable-book source practice pages, clean displayed Amina apostrophe, no independent day-order answer cue, explicit cover-before-recall, recheck without supplied answers, and renumbered routes. Pair is 23 textbook + 8 workbook pages. Build checks preserve all 166 protected files, 18 other lessons, 114 original pairs and supplementary data.
+- Personally inspected all 31 full-size rendered page images: board/characters, ordered cards, completed drawings, reusable response routes, workbook spaces, adult answers/source mapping and white A4 layout. No clipping or overlaps found. One adult recheck wording mismatch was corrected by regenerating every printed answer from its task-specific canonical rubric; changed page reinspection follows.
+
+- Final validation: historical build/render/validator passed; all21historical outputs restored exactly. Final isolated build, preflight and draft standard passed; final31inspected image hashes match. Fingerprint 44e1fa05d3f865cc7151139ffa141f9918cedd63d9d5fb9d29e354b3951bdffe. Author freeze and complete mandatory-template HANDOFF written. Status remains pending independent review. No author edits to shared review register.

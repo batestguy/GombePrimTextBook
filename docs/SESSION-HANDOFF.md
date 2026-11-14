@@ -1,3 +1,114 @@
+# Commit and push checkpoint - 14 November 2026
+
+The user authorized committing and pushing the completed, independently reviewed
+Length and Time work and updating all handoffs. All 35 handoff documents now carry
+a current checkpoint linked here; their original briefs and review notes remain
+historical evidence. The current chapter register approves P1-01 through P1-15.
+Delivery is being prepared; the final delivery result will replace this paragraph
+after the remote commit has been verified. No website or external publication.
+
+Next authoring task: **P1-16 Heavy and light**, Mr Aliyu. Four units remain,
+followed by annual revision/assessment, four offline-AI pupil pages and full-year
+assembly. Current curriculum/adoption, local educator/pupil/accessibility evidence,
+physical print tests and printer approval remain pending.
+
+---
+
+# Chapter 15 completed - 14 November 2026
+
+P1-01 through P1-15 are independently approved for their exact current
+textbook/workbook pairs. Distinct reviewer `/root/chapter14_review` personally
+inspected all 31 new Time pages and independently checked all 18 tasks and examples,
+diagrams and exact answers. The same session's own prior review of 339 pages and every task
+was carried forward ONLY after independently verifying all 26 prior PDFs, first 14
+lesson objects, 166 protected hashes and exact reconstructed previous source bytes/
+fingerprints. No new opening of those unchanged prior pages is claimed. Together
+this covers 370 unique current pages across 28 PDFs, with explicit evidence attribution.
+No blocking or required finding remains. Evidence:
+[Time independent review](../output/chapter-15/REVIEW.md) and
+[prior-evidence continuity](../output/chapter-15/reviewer-continuity.json).
+Root separately passed all fifteen strict gates, preflight, final frozen hashes
+and exact preservation checks:
+[coordinator validation](../output/chapter-15/root-validation.json).
+
+Chapter 15, **Our day in order (Time)**, Mrs Binta:
+[23-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf)
+and [8-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; rebuild with
+`python scripts/build_chapter_fifteen.py`. All 18 task/example records, two historical
+objectives, 21 exact card observations and 70 actual vector/response shapes checked.
+Sequence and before/after follow stated or chosen stories; day parts accept varied
+routines and explicitly named next-morning crossings. Every personal activity has
+a fictional alternative; no private home disclosure required. Completed drawing
+models precede independent drawing. All six source questions and needed story are
+in textbook pupil pages 7-8, so the reusable textbook works with an exercise book.
+Workbook recall help is covered until the initial response is recorded. Delayed
+recall is provided, not claimed administered or mastered.
+
+All 114 ordered original Primary 1 prompt/answer pairs, 18 other complete lessons,
+26 earlier PDFs,166 protected file hashes, all supplementary fields/items and the
+other 48 chapter records preserved. All 21 historical generated files match exact
+prebuild backups; 14 prior review histories retained. GombeTextbook.txt unchanged.
+The user subsequently authorized commit/push; see the delivery checkpoint above.
+
+Next: **P1-16 Heavy and light**, Mr Aliyu. Four existing units remain, plus annual
+revision/assessment, final four offline-AI pupil pages and full-year assembly.
+These are continuation extracts, not a completed annual book. Current curriculum/
+adoption, local educator/pupil/accessibility evidence, physical print tests and
+printer approval remain pending. No complete-year/current-alignment/press-ready
+claim. Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Archive/reset affected approvals before
+future shared-source edits; never reuse stale fingerprints. Prior checkpoints
+below describe their then-current state and do not override this one.
+
+---
+
+# Chapter 14 completed - 14 November 2026
+
+P1-01 through P1-14 are independently approved for their exact current
+textbook/workbook pairs. Distinct reviewer `/root/chapter14_review` freshly
+inspected all 339 unique pages across 26 PDFs and independently solved every
+task, example, diagram and answer. Two required findings (task-specific local
+activity rubrics and guided-prompt metadata correspondence) were corrected and
+independently rechecked. No blocking or required finding remains. Evidence:
+[Chapter 14 review](../output/chapter-14/REVIEW.md).
+Root separately passed all fourteen strict gates, preflight, frozen-file,
+original-source and exact historical preservation checks:
+[coordinator validation](../output/chapter-14/root-validation.json).
+
+Chapter 14, **Length**, Mr Aliyu:
+[21-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf)
+and [10-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; build with
+`python scripts/build_chapter_fourteen.py`. All 32 task/example records, five
+historical objectives, 59 unique length strokes and 95 unit-boundary ticks were
+checked. Comparison starts align, repeated units are identified, leftovers are
+recorded honestly, and different people's unit counts are distinguished. Actual
+natural-unit observations and seated paper-strip adaptations remain separate;
+missing practical actions are not assessed. The reusable textbook works with an
+ordinary exercise book. A 5-unit strip covers the story's 4-unit school label;
+the 3-unit strip is too short.
+
+All 114 ordered original Primary 1 prompt/answer pairs, 18 other complete lessons,
+24 earlier reviewed PDFs, 161 protected file hashes, all supplementary fields/items
+and the other 49 chapter records are preserved. All 21 historical generated files
+match exact prebuild backups; prior 13 review histories are retained. Original
+GombeTextbook.txt is unchanged. No commit, push or publication in this chapter task.
+
+Next: **P1-15 Time**, Mrs Binta. Five existing units remain, plus annual
+revision/assessment, the final four offline-AI pupil pages and full-year assembly.
+These are continuation extracts, not a completed annual book. Current curriculum/
+adoption, local educator/pupil/accessibility evidence, physical print tests and
+printer approval remain pending. No complete-year, current-alignment or
+press-ready claim. Follow [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and
+[HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md). Archive/reset affected approvals before
+future shared-source edits; never reuse stale fingerprints. Historical notes
+below describe their then-current state and do not override this checkpoint.
+
+---
+
 # Chapter 13 completed - 14 November 2026
 
 P1-01 through P1-13 are independently approved for their exact current

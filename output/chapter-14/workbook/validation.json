@@ -1,0 +1,228 @@
+{
+  "pages": 10,
+  "sha256": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1",
+  "page_manifest": [
+    {
+      "slug": "length-a-strip-for-our-school",
+      "kicker": "Longer, shorter and farther",
+      "title": "A strip for our school",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-try-together",
+      "kicker": "Longer, shorter and farther",
+      "title": "Try together",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-GUIDED-COMPARE",
+        "P1-14-GUIDED-MEASURE",
+        "P1-14-GUIDED-LOCAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-try-on-your-own",
+      "kicker": "Longer, shorter and farther",
+      "title": "Try on your own",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-INDEPENDENT-COMPARE",
+        "P1-14-INDEPENDENT-MEASURE",
+        "P1-14-INDEPENDENT-LOCAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "independent-practical",
+      "kicker": "Longer, shorter and farther",
+      "title": "Measure for yourself",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-INDEPENDENT-PRACTICAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-source-story-cards",
+      "kicker": "Longer, shorter and farther",
+      "title": "Source story cards",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-Q1",
+        "P1-14-Q2",
+        "P1-14-Q3",
+        "P1-14-Q4",
+        "P1-14-Q5",
+        "P1-14-Q6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-remember-before-help",
+      "kicker": "Longer, shorter and farther",
+      "title": "Remember before help",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-RECALL-COMPARE",
+        "P1-14-RECALL-MEASURE",
+        "P1-14-RECALL-LOCAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-a-smaller-step",
+      "kicker": "Longer, shorter and farther",
+      "title": "A smaller step",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-HELP-COMPARE",
+        "P1-14-HELP-MEASURE",
+        "P1-14-HELP-LOCAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-try-again-without-help",
+      "kicker": "Longer, shorter and farther",
+      "title": "Try again without help",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-RECHECK-COMPARE",
+        "P1-14-RECHECK-MEASURE",
+        "P1-14-RECHECK-LOCAL"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-our-label-is-covered",
+      "kicker": "Longer, shorter and farther",
+      "title": "Our label is covered",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-STORY"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "length-show-it-afresh",
+      "kicker": "Longer, shorter and farther",
+      "title": "Show it afresh",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-14-FRESH-COMPARE",
+        "P1-14-FRESH-MEASURE",
+        "P1-14-FRESH-LOCAL",
+        "S010",
+        "S011",
+        "S012"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-14-GUIDED-COMPARE": [
+      2
+    ],
+    "P1-14-GUIDED-MEASURE": [
+      2
+    ],
+    "P1-14-GUIDED-LOCAL": [
+      2
+    ],
+    "P1-14-INDEPENDENT-COMPARE": [
+      3
+    ],
+    "P1-14-INDEPENDENT-MEASURE": [
+      3
+    ],
+    "P1-14-INDEPENDENT-LOCAL": [
+      3
+    ],
+    "P1-14-INDEPENDENT-PRACTICAL": [
+      4
+    ],
+    "P1-14-Q1": [
+      5
+    ],
+    "P1-14-Q2": [
+      5
+    ],
+    "P1-14-Q3": [
+      5
+    ],
+    "P1-14-Q4": [
+      5
+    ],
+    "P1-14-Q5": [
+      5
+    ],
+    "P1-14-Q6": [
+      5
+    ],
+    "P1-14-RECALL-COMPARE": [
+      6
+    ],
+    "P1-14-RECALL-MEASURE": [
+      6
+    ],
+    "P1-14-RECALL-LOCAL": [
+      6
+    ],
+    "P1-14-HELP-COMPARE": [
+      7
+    ],
+    "P1-14-HELP-MEASURE": [
+      7
+    ],
+    "P1-14-HELP-LOCAL": [
+      7
+    ],
+    "P1-14-RECHECK-COMPARE": [
+      8
+    ],
+    "P1-14-RECHECK-MEASURE": [
+      8
+    ],
+    "P1-14-RECHECK-LOCAL": [
+      8
+    ],
+    "P1-14-STORY": [
+      9
+    ],
+    "P1-14-FRESH-COMPARE": [
+      10
+    ],
+    "P1-14-FRESH-MEASURE": [
+      10
+    ],
+    "P1-14-FRESH-LOCAL": [
+      10
+    ],
+    "S010": [
+      10
+    ],
+    "S011": [
+      10
+    ],
+    "S012": [
+      10
+    ]
+  },
+  "objects": [],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}
