@@ -1,0 +1,116 @@
+[
+  {
+    "id": "P1-17-MODEL",
+    "answer_recomputed": "Teacher names and identifies cube, non-cube cuboid, cylinder and sphere, sorts each by features, compares all-equal cube edges with unequal adjacent edges on the chosen non-cube cuboid, and links a large cube block, long box, closed straight-sided container and ball to all four respectively.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-HANDLING",
+    "answer_recomputed": "On a level surface a sphere and a cylinder on its curved side can both roll; a cylinder can stand on a flat end. A sphere has no flat end for stable ordinary stacking. A box may slide or tumble rather than roll smoothly. Record actual observations, not a predetermined practical result; handling is not assessed without models.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-GUIDED",
+    "answer_recomputed": "Pictures left to right: sphere, cube, cylinder, non-cube cuboid. With support, name and recognize each; groups follow flat/curved features, not colour or rolling alone. Cube edges are all equal; chosen long box has unequal adjacent edges. Examples in picture order: ball, cube block, closed straight-sided container, long box. Accept sound alternatives with relevant features; practical results are observed only.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-DRAW-MODEL",
+    "answer_recomputed": "Completed long-box drawing shows projections of rectangular faces with parallel receding edges joining corresponding corners. Real rectangular faces look slanted in the picture; a recognisable non-cube cuboid object is sufficient, not perfect perspective.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q1",
+    "answer_recomputed": "Sphere: a ball curves all round and has no flat face.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q2",
+    "answer_recomputed": "Cube: six equal square faces.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q3",
+    "answer_recomputed": "Cylinder: two flat circular ends and a curved side.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q4",
+    "answer_recomputed": "A recognisable non-cube rectangular box, such as a long storage box; accept a correctly explained cube as a special cuboid. Artistic accuracy is not the objective.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q5",
+    "answer_recomputed": "For ideal models a ball rolls smoothly; a box does not roll smoothly, though it may slide or tumble. Record actual safe-object observations; a cylinder can also roll, so rolling alone cannot classify all four.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-Q6",
+    "answer_recomputed": "All cube edges are equal. The chosen non-cube cuboid has unequal neighbouring edge lengths. A cube remains a special cuboid.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "S014",
+    "answer_recomputed": "All four models placed in their most-specific groups: cube (six equal square faces); non-cube cuboid (matching opposite rectangular faces and unequal adjacent edges); cylinder (two circular ends and curved side); sphere (curved all round, no flat faces). Explain at least one placement. A cube correctly called a special cuboid is valid; request its most-specific group.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "S015",
+    "answer_recomputed": "Give a suitable example for EACH: large cube block; long rectangular storage box; closed straight-sided container; ball. Explain equal square faces, rectangular box features, circular ends with curved side, and all-round curve respectively. Accept any sound alternatives. Real objects approximate solids.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-NAME",
+    "answer_recomputed": "Left to right: cylinder, cube, sphere, non-cube cuboid. Collect all names unaided before any name is spoken. Then point correctly for each spoken name and sort into those groups by geometric features. Cube edges all equal; pictured long box unequal adjacent edges. Four examples: closed straight-sided container, cube block, ball, long box respectively. Score naming, recognition, sorting, difference and examples separately.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-RECALL",
+    "answer_recomputed": "Recall cube, non-cube cuboid, cylinder, sphere; use faces/curves/edge equality to group. Cube edges all equal, chosen non-cube box adjacent edges unequal. Give a suitable example for each (cube block, long box, closed straight-sided container, ball). Both cylinder and sphere can roll, so rolling alone is insufficient. A face here is a flat outside part. Record unaided response before help.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-HELP",
+    "answer_recomputed": "With support: touch and turn all four, name each then point on request; sort cube, non-cube cuboid, cylinder, sphere using features. Compare equal cube edges with unequal adjacent box edges. Match cube block, long box, closed container and ball respectively, explaining approximate features. Cylinder and sphere can both roll. Record support; no handling claim without models.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-RECHECK",
+    "answer_recomputed": "Left to right: sphere, non-cube cuboid, cube, cylinder. Independently name all before hearing names; then recognize and group each by features. Cube all edges equal; chosen box unequal adjacent edges. Examples respectively: ball, long box, cube block, closed straight-sided container. Alternatives need correct features. Record independence and actual practical evidence separately.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-FRESH",
+    "answer_recomputed": "Left to right: non-cube cuboid, sphere, cylinder, cube. Collect all four names unaided, then test pointing to spoken names and grouping by features. Box has unequal neighbouring edges versus all equal cube edges. Examples respectively: long carton, ball, closed straight-sided container, large cube block; acceptable alternatives justified by relevant geometric features.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-DELAYED",
+    "answer_recomputed": "Shown left to right: cube, cylinder, non-cube cuboid, sphere. Names must precede adult naming; recognition separately follows. Sort by features, explain one choice, distinguish all-equal cube edges from unequal adjacent long-box edges, and give one suitable familiar example for EACH: cube block, closed straight-sided container, long box, ball. Novel safe physical objects and rotations should vary; record actual support and observations, not invented mastery.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  },
+  {
+    "id": "P1-17-STORY",
+    "answer_recomputed": "Store groups use cube, non-cube cuboid, cylinder and sphere features. A long box or cube can provide flat support; a cylinder stands on a flat end but can roll on its side; sphere rolls and has no flat end for stable ordinary stacking. Do not infer actual successful construction from the story.",
+    "check": "Author independently checked all four feature classes, exact displayed order, cube subclass/unequal-adjacent-edge distinction, appropriate examples or actual-observation rubric as applicable",
+    "result": "pass_author_check_not_independent_approval"
+  }
+]

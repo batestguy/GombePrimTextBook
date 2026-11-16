@@ -1,0 +1,758 @@
+[
+  {
+    "id": "workbook-shape-1",
+    "type": "flat",
+    "kind": "circle",
+    "x": 115,
+    "top": 360,
+    "angle": 12,
+    "scale": 0.8,
+    "page": 1,
+    "circle": [
+      115,
+      360,
+      36.0
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-2",
+    "type": "flat",
+    "kind": "square",
+    "x": 295,
+    "top": 360,
+    "angle": 29,
+    "scale": 0.9,
+    "page": 1,
+    "vertices": [
+      [
+        279.2126914808311,
+        304.94311224087784
+      ],
+      [
+        350.05688775912216,
+        344.2126914808311
+      ],
+      [
+        310.7873085191689,
+        415.05688775912216
+      ],
+      [
+        239.9431122408778,
+        375.7873085191689
+      ]
+    ],
+    "lengths": [
+      80.99999999999999,
+      80.99999999999999,
+      81.00000000000001,
+      81.0
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-3",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 475,
+    "top": 360,
+    "angle": 46,
+    "scale": 0.8,
+    "page": 1,
+    "vertices": [
+      [
+        457.62996240469636,
+        301.7052164088609
+      ],
+      [
+        532.6530664142681,
+        379.39391484543523
+      ],
+      [
+        492.3700375953036,
+        418.2947835911391
+      ],
+      [
+        417.3469335857319,
+        340.60608515456477
+      ]
+    ],
+    "lengths": [
+      108.00000000000003,
+      56.00000000000004,
+      107.99999999999999,
+      56.0
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-4",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 295,
+    "top": 350,
+    "angle": 0,
+    "scale": 1.5,
+    "page": 2,
+    "vertices": [
+      [
+        193.75,
+        297.5
+      ],
+      [
+        396.25,
+        297.5
+      ],
+      [
+        396.25,
+        402.5
+      ],
+      [
+        193.75,
+        402.5
+      ]
+    ],
+    "lengths": [
+      202.5,
+      105.0,
+      202.5,
+      105.0
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-5",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 115,
+    "top": 350,
+    "angle": 41,
+    "scale": 0.8,
+    "page": 5,
+    "vertices": [
+      [
+        92.61533547970453,
+        293.440944188275
+      ],
+      [
+        174.1239701437639,
+        364.29531931924976
+      ],
+      [
+        137.3846645202955,
+        406.559055811725
+      ],
+      [
+        55.87602985623611,
+        335.70468068075024
+      ]
+    ],
+    "lengths": [
+      107.99999999999997,
+      55.99999999999999,
+      107.99999999999999,
+      56.00000000000001
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-6",
+    "type": "flat",
+    "kind": "circle",
+    "x": 295,
+    "top": 350,
+    "angle": 58,
+    "scale": 0.9,
+    "page": 5,
+    "circle": [
+      295,
+      350,
+      40.5
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-7",
+    "type": "flat",
+    "kind": "square",
+    "x": 475,
+    "top": 350,
+    "angle": 75,
+    "scale": 0.8,
+    "page": 5,
+    "vertices": [
+      [
+        500.4558441227157,
+        305.90918462990277
+      ],
+      [
+        519.0908153700972,
+        375.45584412271575
+      ],
+      [
+        449.5441558772843,
+        394.09081537009723
+      ],
+      [
+        430.9091846299028,
+        324.54415587728425
+      ]
+    ],
+    "lengths": [
+      72.00000000000006,
+      71.99999999999994,
+      72.00000000000006,
+      71.99999999999994
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-8",
+    "type": "flat",
+    "kind": "square",
+    "x": 115,
+    "top": 385,
+    "angle": 0,
+    "scale": 0.8,
+    "page": 7,
+    "vertices": [
+      [
+        79.0,
+        349.0
+      ],
+      [
+        151.0,
+        349.0
+      ],
+      [
+        151.0,
+        421.0
+      ],
+      [
+        79.0,
+        421.0
+      ]
+    ],
+    "lengths": [
+      72.0,
+      72.0,
+      72.0,
+      72.0
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-9",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 295,
+    "top": 385,
+    "angle": 17,
+    "scale": 0.9,
+    "page": 7,
+    "vertices": [
+      [
+        246.1141947740118,
+        337.1148191252581
+      ],
+      [
+        362.30522262352065,
+        372.63798124907066
+      ],
+      [
+        343.8858052259882,
+        432.8851808747419
+      ],
+      [
+        227.69477737647938,
+        397.36201875092934
+      ]
+    ],
+    "lengths": [
+      121.50000000000006,
+      63.0,
+      121.5,
+      62.99999999999998
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-10",
+    "type": "flat",
+    "kind": "circle",
+    "x": 475,
+    "top": 385,
+    "angle": 34,
+    "scale": 0.8,
+    "page": 7,
+    "circle": [
+      475,
+      385,
+      36.0
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-11",
+    "type": "flat",
+    "kind": "square",
+    "x": 115,
+    "top": 360,
+    "angle": 63,
+    "scale": 0.8,
+    "page": 8,
+    "vertices": [
+      [
+        130.73257688015755,
+        311.58010713859505
+      ],
+      [
+        163.41989286140492,
+        375.7325768801576
+      ],
+      [
+        99.26742311984245,
+        408.41989286140495
+      ],
+      [
+        66.58010713859508,
+        344.2674231198424
+      ]
+    ],
+    "lengths": [
+      72.00000000000003,
+      71.99999999999999,
+      72.00000000000003,
+      71.99999999999999
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-12",
+    "type": "flat",
+    "kind": "circle",
+    "x": 295,
+    "top": 360,
+    "angle": 80,
+    "scale": 0.9,
+    "page": 8,
+    "circle": [
+      295,
+      360,
+      40.5
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-13",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 475,
+    "top": 360,
+    "angle": 97,
+    "scale": 0.8,
+    "page": 8,
+    "vertices": [
+      [
+        509.372236789835,
+        309.8148494267127
+      ],
+      [
+        496.2103477020791,
+        417.00983380397554
+      ],
+      [
+        440.627763210165,
+        410.1851505732873
+      ],
+      [
+        453.7896522979209,
+        302.99016619602446
+      ]
+    ],
+    "lengths": [
+      108.00000000000003,
+      56.00000000000004,
+      108.00000000000003,
+      56.00000000000004
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-14",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 295,
+    "top": 425,
+    "angle": 0,
+    "scale": 3.2,
+    "page": 9,
+    "vertices": [
+      [
+        79.0,
+        313.0
+      ],
+      [
+        511.0,
+        313.0
+      ],
+      [
+        511.0,
+        537.0
+      ],
+      [
+        79.0,
+        537.0
+      ]
+    ],
+    "lengths": [
+      432.0,
+      224.0,
+      432.0,
+      224.0
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-15",
+    "type": "flat",
+    "kind": "circle",
+    "x": 120,
+    "top": 425,
+    "angle": 0,
+    "scale": 0.42,
+    "page": 9,
+    "circle": [
+      120,
+      425,
+      18.9
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-16",
+    "type": "flat",
+    "kind": "square",
+    "x": 190,
+    "top": 425,
+    "angle": 25,
+    "scale": 0.42,
+    "page": 9,
+    "vertices": [
+      [
+        180.85826797190654,
+        399.8832976781081
+      ],
+      [
+        215.1167023218919,
+        415.85826797190657
+      ],
+      [
+        199.14173202809346,
+        450.1167023218919
+      ],
+      [
+        164.8832976781081,
+        434.14173202809343
+      ]
+    ],
+    "lengths": [
+      37.800000000000004,
+      37.79999999999998,
+      37.800000000000004,
+      37.79999999999998
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-17",
+    "type": "flat",
+    "kind": "circle",
+    "x": 260,
+    "top": 425,
+    "angle": 0,
+    "scale": 0.42,
+    "page": 9,
+    "circle": [
+      260,
+      425,
+      18.9
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-18",
+    "type": "flat",
+    "kind": "square",
+    "x": 330,
+    "top": 425,
+    "angle": 25,
+    "scale": 0.42,
+    "page": 9,
+    "vertices": [
+      [
+        320.85826797190657,
+        399.8832976781081
+      ],
+      [
+        355.1167023218919,
+        415.85826797190657
+      ],
+      [
+        339.14173202809343,
+        450.1167023218919
+      ],
+      [
+        304.8832976781081,
+        434.14173202809343
+      ]
+    ],
+    "lengths": [
+      37.800000000000004,
+      37.800000000000004,
+      37.800000000000004,
+      37.800000000000004
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-19",
+    "type": "flat",
+    "kind": "circle",
+    "x": 400,
+    "top": 425,
+    "angle": 0,
+    "scale": 0.42,
+    "page": 9,
+    "circle": [
+      400,
+      425,
+      18.9
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-20",
+    "type": "flat",
+    "kind": "square",
+    "x": 470,
+    "top": 425,
+    "angle": 25,
+    "scale": 0.42,
+    "page": 9,
+    "vertices": [
+      [
+        460.85826797190657,
+        399.8832976781081
+      ],
+      [
+        495.1167023218919,
+        415.85826797190657
+      ],
+      [
+        479.14173202809343,
+        450.1167023218919
+      ],
+      [
+        444.8832976781081,
+        434.14173202809343
+      ]
+    ],
+    "lengths": [
+      37.800000000000004,
+      37.800000000000004,
+      37.800000000000004,
+      37.800000000000004
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-21",
+    "type": "flat",
+    "kind": "circle",
+    "x": 115,
+    "top": 360,
+    "angle": 119,
+    "scale": 0.8,
+    "page": 10,
+    "circle": [
+      115,
+      360,
+      36.0
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-22",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 295,
+    "top": 360,
+    "angle": 136,
+    "scale": 0.9,
+    "page": 10,
+    "vertices": [
+      [
+        360.5816315400315,
+        340.4587077052834
+      ],
+      [
+        273.1818457988853,
+        424.8596997160516
+      ],
+      [
+        229.41836845996852,
+        379.5412922947166
+      ],
+      [
+        316.8181542011147,
+        295.1403002839484
+      ]
+    ],
+    "lengths": [
+      121.50000000000003,
+      62.999999999999964,
+      121.50000000000003,
+      62.999999999999964
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-23",
+    "type": "flat",
+    "kind": "square",
+    "x": 475,
+    "top": 360,
+    "angle": 153,
+    "scale": 0.8,
+    "page": 10,
+    "vertices": [
+      [
+        523.419892861405,
+        375.7325768801576
+      ],
+      [
+        459.2674231198424,
+        408.41989286140495
+      ],
+      [
+        426.58010713859505,
+        344.2674231198424
+      ],
+      [
+        490.7325768801576,
+        311.58010713859505
+      ]
+    ],
+    "lengths": [
+      72.00000000000003,
+      72.00000000000003,
+      72.00000000000003,
+      72.00000000000003
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-24",
+    "type": "flat",
+    "kind": "non-square rectangle",
+    "x": 115,
+    "top": 360,
+    "angle": 153,
+    "scale": 0.8,
+    "page": 11,
+    "vertices": [
+      [
+        175.82608629887918,
+        360.4326956913388
+      ],
+      [
+        79.59738168653544,
+        409.4636696632098
+      ],
+      [
+        54.173913701120824,
+        359.5673043086612
+      ],
+      [
+        150.40261831346456,
+        310.5363303367902
+      ]
+    ],
+    "lengths": [
+      108.0,
+      56.00000000000001,
+      108.0,
+      56.00000000000001
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-25",
+    "type": "flat",
+    "kind": "square",
+    "x": 295,
+    "top": 360,
+    "angle": 170,
+    "scale": 0.9,
+    "page": 11,
+    "vertices": [
+      [
+        341.9174651925051,
+        392.85196280148375
+      ],
+      [
+        262.14803719851625,
+        406.9174651925051
+      ],
+      [
+        248.08253480749488,
+        327.14803719851625
+      ],
+      [
+        327.85196280148375,
+        313.0825348074949
+      ]
+    ],
+    "lengths": [
+      81.00000000000001,
+      81.00000000000001,
+      81.00000000000001,
+      81.00000000000001
+    ],
+    "right_angles": 4,
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  },
+  {
+    "id": "workbook-shape-26",
+    "type": "flat",
+    "kind": "circle",
+    "x": 475,
+    "top": 360,
+    "angle": 187,
+    "scale": 0.8,
+    "page": 11,
+    "circle": [
+      475,
+      360,
+      36.0
+    ],
+    "actual_pdf_check": "exact PDF endpoints/circular cubic bounds checked; polygon side lengths and adjacent dot products recomputed"
+  }
+]

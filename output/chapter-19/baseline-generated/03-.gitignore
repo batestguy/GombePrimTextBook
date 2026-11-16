@@ -1,0 +1,21 @@
+# Local render caches, inspection rasters and isolated verification copies
+/.quarto/
+/tmp/
+/verify-source/
+**/__pycache__/
+*.py[cod]
+/output/page-review/page-*.png
+
+# Regenerable delivery archive and duplicate root PDF
+/output/Gombe-Mathematics-Book-1-editable.zip
+/Gombe-Mathematics-Book-1.pdf
+
+# Local credentials and environment files must never be tracked
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/

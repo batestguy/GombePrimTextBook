@@ -1,0 +1,317 @@
+[
+  {
+    "role": "textbook",
+    "page": 1,
+    "image": "output/chapter-19/textbook/page-01.png",
+    "sha256": "566d9d94b20ab2b12ad2fb8c99e207b39f8b05fb3cfc5218dae32ab259eeb0d9",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Mrs Binta at large board, four established children seated facing her; exact hint Ask, look and record / Ages and heights legible.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 2,
+    "image": "output/chapter-19/textbook/page-02.png",
+    "sha256": "403861f9db06a0b7081e04dc2e72dd0598014f01d87edb37c2ed8736681518b4",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Permission/question/reply/check-back model D5/E8, labelled completed table, row/column/order explanation before source tasks.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 3,
+    "image": "output/chapter-19/textbook/page-03.png",
+    "sha256": "cf039e614a12d1641dd04ae5fb265a349054f9a122b88c7666294fd497726311",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Head-top marks align with D/E figure tops and common baseline; D taller; no printed life-size claim; reachable seated participation.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 4,
+    "image": "output/chapter-19/textbook/page-04.png",
+    "sha256": "221983535209ff222553317c7dda13cfa05ce1253b4d0993ce7de46ca4f383b1",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Adamu retries next-birthday error; all four purposeful; new supported interviews and NEW head marks distinct from fixed Fshorter/G diagram.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 5,
+    "image": "output/chapter-19/textbook/page-05.png",
+    "sha256": "6a8146465b3239388e190920e0b9a09057693a0024b37bf20b2e083f4e87dc16",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Raw A6/B7/C6 local records and four source questions; count cue removed, no target completed table; proper workbook2/3 routes.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 6,
+    "image": "output/chapter-19/textbook/page-06.png",
+    "sha256": "bc990a6d7dadc55d4d13d04cfc051bfa8ff6f19ee1739e62c8ffc0f9ae42c21a",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Q5 tool and Q6 same question; explicitly separate from actual collection, workbook4 route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 7,
+    "image": "output/chapter-19/textbook/page-07.png",
+    "sha256": "c987ff5beb3d94485ca913293d59ac76d386c00e0812773b332c03fa0c2f1737",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Independent two replies plus two new head observations, labelled strips/baseline/compare/record; privacy and resource limitations; workbook5 route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 8,
+    "image": "output/chapter-19/textbook/page-08.png",
+    "sha256": "32fd9c4dc1b283631019d1612c633ba844b839be07a304e1d2598958e5ff7e4a",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Unaided recall before help, then two NEW roles/stand-ins collection from memory; separate support/performance, workbook6.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 9,
+    "image": "output/chapter-19/textbook/page-09.png",
+    "sha256": "fbddd3774100918cca77c973da6be6a598c70621833b73a30fe00ff6dd2c6ee6",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Smaller steps H/J equal diagram, then NEW actual supported collection; exercise-book/oral response, new recheck10/8 route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 10,
+    "image": "output/chapter-19/textbook/page-10.png",
+    "sha256": "c7457c021d2fabb915c6c167ef92b7ecb62351f385bc6cc0e76894f18788415d",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "New unsupported two-role/two-stand-in collection; same question, blank strips and honest conditional key; workbook8.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 11,
+    "image": "output/chapter-19/textbook/page-11.png",
+    "sha256": "724323ae9e2eb395d93feaecaca4e8fb433ae55d215d366fb866e79d42106dad",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "All four return to fictional folder; D5/E8 and D taller consistent; trust explained from method, no better/worse rank.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 12,
+    "image": "output/chapter-19/textbook/page-12.png",
+    "sha256": "dd2a5b98040547060e5cfe5eceb36589fcc618e401ee123c52244a2aee73da59",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Fresh different roles/stand-ins, NEW replies and marks, closed earlier records; workbook10.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 13,
+    "image": "output/chapter-19/textbook/page-13.png",
+    "sha256": "a99239f7be44fc2c7bc23d68dc545949f77ecad5876584a16709d2aaf1cdc5c7",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Another-day collection before reteaching, novel roles/stand-ins, honest no-resource condition; workbook11.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 14,
+    "image": "output/chapter-19/textbook/page-14.png",
+    "sha256": "c9a7b9667fb2ae995ad02bcf783bd41636ba4f6fa86f9e2118486eb7dfb6cce4",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Age-model D5/E8 and completed table model/order keys correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 15,
+    "image": "output/chapter-19/textbook/page-15.png",
+    "sha256": "c402afa8992654766a3695b6353e302c18a7b472400ef263716e5f2c4c6f6f6e",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Height model Dtaller/Eshorter; guided Fshorter/Gtaller fixed interpretation distinguished from new collection.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 16,
+    "image": "output/chapter-19/textbook/page-16.png",
+    "sha256": "4c42d0a28d7eea2edbda9ceb087b7f25bffc183f5d3b581ddf461eb6b074880f",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "B7, count two A/C correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 17,
+    "image": "output/chapter-19/textbook/page-17.png",
+    "sha256": "500af0f6e73c6bfdd7b94623ac3f8fa0573ac7495696f641ca0778ae6ac0f991",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Least-first6,6,7 and labelled table rows A6/B7/C6 correct, copies not collection.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 18,
+    "image": "output/chapter-19/textbook/page-18.png",
+    "sha256": "9948f50f71f43beb203e764de4421768315948a2055621d0c2a3f9aa93eee0ce",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Tool name conditional versus practical collection; same completed-age question explanation correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 19,
+    "image": "output/chapter-19/textbook/page-19.png",
+    "sha256": "e0f525f7dec00c7c70a3ba2e6e71fa790215bcb3809a7bfaabcbc0ea84296d05",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "S020 conditional actual replies and S021 new actual head marks rubrics; full-size stand-in simulation not actual pupil measurements.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 20,
+    "image": "output/chapter-19/textbook/page-20.png",
+    "sha256": "e5989e224d11d38b5290b7b66c5e583344246f31043a97f376a7d4e1e1ccf9a8",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Recall and supported help scores accurate; fixed H/J equals not new collection evidence.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 21,
+    "image": "output/chapter-19/textbook/page-21.png",
+    "sha256": "7df02215901d0b0f47c801a825c801ec9bfff48c83708afbcec03f2290ce7a41",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Recheck conditional response collection and story model consistency correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 22,
+    "image": "output/chapter-19/textbook/page-22.png",
+    "sha256": "314215c9fc4ec2e04ecb4fa29610129929a9c668e70594b04f7fb4e92297ebcb",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Fresh and delayed require new replies/marks, accurate actual recording and resource help distinguished.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 23,
+    "image": "output/chapter-19/textbook/page-23.png",
+    "sha256": "4771b5f70bef9a73492d556fa27283b47a9a5d4f03c5ca87b7f1ddf5cb20ee40",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Safe paper preparation, privacy/decline, support rubric, misconceptions/intervention and honest external limits legible.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 24,
+    "image": "output/chapter-19/textbook/page-24.png",
+    "sha256": "3481268761df6325b1c12d9c877dd575d80263f15d0b1b0fec25a9d0aeacd4c6",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Glossary, two historical objective mapping, exact-art credits, Primary2 preview and separate annual-work limits legible.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 1,
+    "image": "output/chapter-19/workbook/page-01.png",
+    "sha256": "396cfbff62cbf168dc54e9327bdd5126e2c581f0eb03f9cbc4a88adf40e3397b",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Guided F/G lower/higher visual interpretation then NEW replies/head marks, all four roles and response space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 2,
+    "image": "output/chapter-19/workbook/page-02.png",
+    "sha256": "484857cf38c83bb184e766b4f26c7b66d976b0df1f09eb691893eaaf0d19c04f",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Local source A6/B7/C6 table correct, Q1-3 response boxes.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 3,
+    "image": "output/chapter-19/workbook/page-03.png",
+    "sha256": "1f2d6508686624ebfc4d365d1a3f48ac2556c8b9504af3140b7f4bd64e8caabc",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Different completed D5/E8 table before drawing; cover model; raw A6/B7/C6 local, no direct two-count cue; large drawing space. Reopened final corrected exact page. Required spread correction: independently reopened final WB3; explicitly covers facing target-table page and completed D/E example, retains local raw A6/B7/C6, readable and no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 4,
+    "image": "output/chapter-19/workbook/page-04.png",
+    "sha256": "afe89793d6c11e852b702ffa907e5807e3c25204da6ad901390d22be01263b12",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Q5/Q6 two generous response spaces, no supplied answer.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 5,
+    "image": "output/chapter-19/workbook/page-05.png",
+    "sha256": "329252316d19afae9ee06d87db1f63f59e2f1acea1617b47e26163450bf34382",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "New independent age/height collection with175pt record box, identical question/new marks/common baseline/labels/compare; no printed results.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 6,
+    "image": "output/chapter-19/workbook/page-06.png",
+    "sha256": "16cd9223998c91103d258160e2df3a4007b315c48986438ff021e62be24b9a9c",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Recall before help, NEW roles and blank strips from memory; actual collection versus verbal recall distinct, response space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 7,
+    "image": "output/chapter-19/workbook/page-07.png",
+    "sha256": "e3e54dff572d9cb6f30e1e2dc764e694cffde232aecdecfc8a1e17557f172721",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "H/J equal heads and strips, concrete supported new collection, explicit oral/exercise-book response.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 8,
+    "image": "output/chapter-19/workbook/page-08.png",
+    "sha256": "9a7cf24ad4fbbdb7e8d119dcda8530a45f71c6a08c70022d9e93808d5adb3473",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "New unsupported roles/stand-ins and165pt response box; repeated procedure without outcome hints.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 9,
+    "image": "output/chapter-19/workbook/page-09.png",
+    "sha256": "79dee45ec8ede09ac45091f5f45c8812e50a1156414ef3168e84bed83083a66a",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Folder closure, D5/E8 table and D taller relation consistent; all four included; local response box.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 10,
+    "image": "output/chapter-19/workbook/page-10.png",
+    "sha256": "02089455b2791f6ab8c783241bc58958f1d2e827c238ed428b14d1cd3d09e4ed",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Fresh different roles/stand-ins, new responses/marks,165pt record space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 11,
+    "image": "output/chapter-19/workbook/page-11.png",
+    "sha256": "25fd01a64c2f3efb88bdf284d5d3179db41b3e13e5df4408e65bdab3830e8268",
+    "method": "Individual full-page image viewed with view_image; corrected pages reopened, no contact sheet",
+    "observation": "Another day before reteaching, new replies/observations, conditional resources,165pt record space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  }
+]

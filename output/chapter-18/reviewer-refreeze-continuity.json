@@ -1,0 +1,176 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "initial_fingerprint": "7a04bc0b7ce7e9977fb27e39fe105d0a07fd606162890abc53649a2208396693",
+  "final_fingerprint": "1bad62b1eda9eaed1393cee6b17e63043f1ea5c2d45c9f97000c76a6e35ecd71",
+  "only_canonical_change_is_exact_phrase_replacement": [
+    {
+      "path": "production/p1.json",
+      "new_phrase_occurrences": 8,
+      "inverse_replacement_reproduces_initial_frozen_hash": true
+    },
+    {
+      "path": "production/lessons.json",
+      "new_phrase_occurrences": 8,
+      "inverse_replacement_reproduces_initial_frozen_hash": true
+    }
+  ],
+  "builder_unchanged": true,
+  "changed_pages": [
+    [
+      "textbook",
+      8
+    ],
+    [
+      "textbook",
+      11
+    ],
+    [
+      "textbook",
+      13
+    ],
+    [
+      "textbook",
+      14
+    ],
+    [
+      "workbook",
+      5
+    ],
+    [
+      "workbook",
+      8
+    ],
+    [
+      "workbook",
+      10
+    ],
+    [
+      "workbook",
+      11
+    ]
+  ],
+  "unchanged_exact_own_inspected_pages": [
+    [
+      "textbook",
+      1
+    ],
+    [
+      "textbook",
+      2
+    ],
+    [
+      "textbook",
+      3
+    ],
+    [
+      "textbook",
+      4
+    ],
+    [
+      "textbook",
+      5
+    ],
+    [
+      "textbook",
+      6
+    ],
+    [
+      "textbook",
+      7
+    ],
+    [
+      "textbook",
+      9
+    ],
+    [
+      "textbook",
+      10
+    ],
+    [
+      "textbook",
+      12
+    ],
+    [
+      "textbook",
+      15
+    ],
+    [
+      "textbook",
+      16
+    ],
+    [
+      "textbook",
+      17
+    ],
+    [
+      "textbook",
+      18
+    ],
+    [
+      "textbook",
+      19
+    ],
+    [
+      "textbook",
+      20
+    ],
+    [
+      "textbook",
+      21
+    ],
+    [
+      "textbook",
+      22
+    ],
+    [
+      "textbook",
+      23
+    ],
+    [
+      "textbook",
+      24
+    ],
+    [
+      "textbook",
+      25
+    ],
+    [
+      "textbook",
+      26
+    ],
+    [
+      "textbook",
+      27
+    ],
+    [
+      "workbook",
+      1
+    ],
+    [
+      "workbook",
+      2
+    ],
+    [
+      "workbook",
+      3
+    ],
+    [
+      "workbook",
+      4
+    ],
+    [
+      "workbook",
+      6
+    ],
+    [
+      "workbook",
+      7
+    ],
+    [
+      "workbook",
+      9
+    ]
+  ],
+  "changed_page_visual_recheck": "PASS: all8exactfinalpages individually reopened and read after root renewedfreeze;30otherpages hash-identical to my own initial inspections.",
+  "checker_note": "PDF text reflows across lines; semantic comparisons normalize whitespace. Initial exact substring test rejected line-wrap-only break, then normalized text comparison passed."
+}

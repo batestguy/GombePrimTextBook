@@ -1,0 +1,343 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "all18_independently_solved": true,
+  "tasks": [
+    {
+      "id": "P1-19-AGE-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ]
+      },
+      "independent_solution": "Permission precedes identical completed-years question to D and E. Listen to fictional replies 5 and 8 years, record D=5/E=8 under person/age headings, and read back. A letter identifies a person, not a value or rank. Declines accepted; adult role-play is simulation and printed-table reading is not interviewing.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-TABLE-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          2
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ]
+      },
+      "independent_solution": "Completed model has two labelled columns Person letter/Age in years, with D/5 and E/8 as separate rows. Rows across, columns down; least-first ages 5,8. Different later dataset A6/B7/C6 must keep repeated values because people are distinct.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-HEIGHT-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "From actual vectors: D strip length 165 PDF points, E 120, common baseline555; D taller and E shorter in this schematic. These are drawing dimensions, not real measurements or pupil stature. Demonstration labels blank strips, aligns bottoms to floor line, marks observed head tops, repeats same upright method, aligns strips, compares and records. Small print is not life-size; actual prepared resources required for new marking.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-GUIDED",
+      "pupil_pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "Diagram F strip105/G145 at common baseline570 means F shorter, G taller. Separately, two new fictional F/G interviews need permission and same completed-years question before replies, followed by checked letter/year records. New full-size stand-ins/blank strips require pupil-made head marks and actual observed comparison; result may differ from diagram. Record support and distinguish picture reading from collection.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-Q1",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Practice B is7years old, from local supplied record. Interpretation only, not interview evidence.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-Q2",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Two practice people are6years old: A and C. Each distinct person counted once.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-Q3",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "6,6,7 in least-first order; keep both6s. Sorting unique values6,7 would lose one person.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-Q4",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "Draw two labelled columns, e.g.Person letter and Age in years, with rows A/6,B/7,C/6. Other clear equivalent layouts accepted. The task is table representation, not collecting new replies. Final WB3 explicitly covers facing WB2 target and completed model, so pupil constructs own table from local raw records.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass after final WB3 personally rechecked: facing target table and completed model both explicitly covered"
+    },
+    {
+      "id": "P1-19-Q5",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "Marked paper strip with baseline and observed head-top mark, or suitable measuring tape. Naming the tool alone does not demonstrate height information collection; no unintroduced tape scale reading demanded.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-Q6",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "The same completed-years question makes replies comparable in meaning; future-birthday age would answer a different question. It does not make real ages identical or guarantee accurate responses by itself.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "S020",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "No fixed numerical answer. Child asks consent and identical completed-years question to two willing people or two new adult fictional roles, listens, records unique letters and accurate replies in years, then checks back. Role-play replies only after asking; actual information private/voluntary, declines accepted. Assess asking/listening/recording, not copying supplied records; distinguish simulated from actual collection.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "S021",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "No fixed height answer. With two new upright full-size stand-ins and two blank labelled strips, child aligns each strip bottom to its stand-in floor baseline, observes and marks each head top using same method, aligns bottoms, compares and records both labels plus taller/shorter/equal as observed. Access help may position resources without giving observations. No standing John or sitting-standing comparison; paper stand-ins are simulated collection. Without resources, not practically assessed.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-RECALL",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "First recall consent, same completed-years question, listening/letter-year record/check; head-top marking and baseline alignment/comparison/record. Then perform with two NEW fictional people and two NEW stand-ins/blank strips. Record recall separately from actual conditional performance. Verbal explanation alone does not prove collection; absence of resources is not failure or success.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-HELP",
+      "pupil_pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "Supported one-record-at-a-time interview/check, then two fresh fictional roles. On two new full-size stand-ins child makes observed marks with allowed placement help, aligns bottoms and records actual relationship. Fixed H/J schematic lengths125/125 at baseline535 mean equal; that printed result is not the required new practical observation. Record mathematical help separately from access help.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-RECHECK",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "New unsupported collection, not a fixed dataset: two new willing/private or role-play replies only after permission/question; accurate distinct-letter/year records/checks. New blank labelled strips and stand-ins, common-method observed head marks, aligned bottoms, correct recorded relationship with labels. Any accurate taller/shorter/equal result valid; copied old answers do not pass. Record actual versus simulated and support/resources.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-STORY",
+      "pupil_pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "Trust follows asking permission/same completed-years question, listening, recording/checking replies and observing head marks with aligned baselines/accurate comparisons. Fictional D5/E8 table and D taller thanE agree with earlier model; older does not imply taller or better. All four contribute before fresh work; no real pupil outcome claimed.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-FRESH",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "Different fictional roles and full-size stand-ins require NEW interviews and NEW head marks with the same taught process. No predetermined ages or relationship; accurate observation and record evaluated. Adult provides resources and replies only after questions without mathematical hints. Keep supplied records closed; separate support, simulation and practical performance.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    },
+    {
+      "id": "P1-19-DELAYED",
+      "pupil_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": [
+          11
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "On another day before reteaching, use new roles/stand-ins and blank strips. Independently ask, listen, label, record/check ages; observe/mark, align, compare/record both heights. Outcome conditional on actual replies/resources; no copied results or invented administered success. Record independence and no-resource limits.",
+      "printed_key_correspondence": "pass after semantic comparison of exact prompt/stimulus/key and alternatives",
+      "instruction_status": "pass"
+    }
+  ],
+  "fixed_vs_conditional": "Fixed fictional interpretation keys checked independently; new collection assessed by accurate actual conditional replies/observations, never prescribed numerical outcomes."
+}

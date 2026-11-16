@@ -1,0 +1,313 @@
+{
+  "coordinator": "/root",
+  "tasks": 17,
+  "objective_count": 1,
+  "unique_balance_instances": 15,
+  "balances": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "labels": [
+        "stone",
+        "leaf"
+      ],
+      "beam": [
+        155,
+        475,
+        435,
+        425
+      ],
+      "pan_heights": [
+        550,
+        500
+      ],
+      "state": "left"
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "labels": [
+        "leaf",
+        "stone"
+      ],
+      "beam": [
+        155,
+        315,
+        435,
+        365
+      ],
+      "pan_heights": [
+        390,
+        440
+      ],
+      "state": "right"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "labels": [
+        "load Green",
+        "load Gold"
+      ],
+      "beam": [
+        155,
+        320,
+        435,
+        320
+      ],
+      "pan_heights": [
+        395,
+        395
+      ],
+      "state": "equal"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "labels": [
+        "stone",
+        "leaf"
+      ],
+      "beam": [
+        155,
+        325,
+        435,
+        275
+      ],
+      "pan_heights": [
+        400,
+        350
+      ],
+      "state": "left"
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "labels": [
+        "A",
+        "B"
+      ],
+      "beam": [
+        155,
+        315,
+        435,
+        365
+      ],
+      "pan_heights": [
+        390,
+        440
+      ],
+      "state": "right"
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "labels": [
+        "small stone",
+        "larger empty box"
+      ],
+      "beam": [
+        155,
+        375,
+        435,
+        325
+      ],
+      "pan_heights": [
+        450,
+        400
+      ],
+      "state": "left"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "labels": [
+        "stone",
+        "leaf"
+      ],
+      "beam": [
+        155,
+        345,
+        435,
+        295
+      ],
+      "pan_heights": [
+        420,
+        370
+      ],
+      "state": "left"
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "labels": [
+        "parcel Blue",
+        "parcel Red"
+      ],
+      "beam": [
+        155,
+        355,
+        435,
+        305
+      ],
+      "pan_heights": [
+        430,
+        380
+      ],
+      "state": "left"
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "labels": [
+        "C",
+        "D"
+      ],
+      "beam": [
+        155,
+        345,
+        435,
+        295
+      ],
+      "pan_heights": [
+        420,
+        370
+      ],
+      "state": "left"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "labels": [
+        "leaf",
+        "stone"
+      ],
+      "beam": [
+        155,
+        275,
+        435,
+        325
+      ],
+      "pan_heights": [
+        350,
+        400
+      ],
+      "state": "right"
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "labels": [
+        "load Green",
+        "load Gold"
+      ],
+      "beam": [
+        155,
+        290,
+        435,
+        290
+      ],
+      "pan_heights": [
+        365,
+        365
+      ],
+      "state": "equal"
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "labels": [
+        "stone",
+        "leaf"
+      ],
+      "beam": [
+        155,
+        290,
+        435,
+        240
+      ],
+      "pan_heights": [
+        365,
+        315
+      ],
+      "state": "left"
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "labels": [
+        "A",
+        "B"
+      ],
+      "beam": [
+        155,
+        305,
+        435,
+        355
+      ],
+      "pan_heights": [
+        380,
+        430
+      ],
+      "state": "right"
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "labels": [
+        "small stone",
+        "larger empty box"
+      ],
+      "beam": [
+        155,
+        335,
+        435,
+        285
+      ],
+      "pan_heights": [
+        410,
+        360
+      ],
+      "state": "left"
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "labels": [
+        "C",
+        "D"
+      ],
+      "beam": [
+        155,
+        325,
+        435,
+        275
+      ],
+      "pan_heights": [
+        400,
+        350
+      ],
+      "state": "left"
+    }
+  ],
+  "canonical_shapes": 169,
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "pages": 19,
+      "sha256": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf",
+      "pages": 12,
+      "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+    }
+  },
+  "checks": [
+    "Every task has presentation/answer links and exact printed task-specific rubric",
+    "Objective has all seven progression modes",
+    "All canonical boxes/ellipses/lines occur on exact PDF pages",
+    "Each balance has central pivot/equal suspension drops; actual PDF pan heights and beam state agree",
+    "Left-heavy/right-heavy/equal all present; no duplicate task IDs or textbook response boxes; all pages A4 and text within bounds"
+  ]
+}

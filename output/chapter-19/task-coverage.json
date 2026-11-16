@@ -1,0 +1,399 @@
+[
+  {
+    "id": "P1-19-AGE-MODEL",
+    "mode": "model",
+    "prompt": "Watch permission, a consistent completed-years age question, two replies and accurate letter-labelled records.",
+    "answer": "Mrs Binta asks permission and then asks each fictional role: How old are you in completed years? D replies 5 years and E replies 8 years; she records D=5, E=8 in labelled person-letter/age-in-years rows and checks each reply. Letters identify different fictional people, not age values or rank. A declined interview is replaced by a consenting adult role-playing a different fictional person. Reading this finished table is not interview performance.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-19-TABLE-MODEL",
+    "mode": "model",
+    "prompt": "Watch the completed two-column table and learn rows, columns and ordering ages.",
+    "answer": "Completed model headings Person letter and Age in years, rows D/5 and E/8. Read across a row for one person, down the age column for ages. Five is less than eight, so the ages in least-first order are 5,8. Labels D and E identify people, not values or ranking. Later source practice uses a different fictional A6/B7/C6 dataset.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-19-HEIGHT-MODEL",
+    "mode": "model",
+    "prompt": "Watch new head-level marks made on labelled strips for two upright full-size paper stand-ins, align baseline, compare and record.",
+    "answer": "Mrs Binta uses adult-prepared full-size paper silhouettes D and E, with foot bottoms at one floor line. She labels a blank strip D, aligns its bottom to the floor line, marks the top-of-head level while looking squarely, then repeats for E with the same method. Align strip bottoms at one baseline; D head mark is above E, so D strip is longer and D stand-in is taller. Records: D taller than E; E shorter than D. Printed small diagrams only illustrate method; actual new marking needs full-size prepared resources. No sitting/standing stature comparison and no claim about actual pupils.",
+    "objectives": [
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-19-GUIDED",
+    "mode": "guided",
+    "prompt": "With support conduct two new fictional interviews and mark/compare/record two new full-size stand-ins; interpret the guided diagram separately.",
+    "answer": "Supported age collection: ask permission and the identical completed-years question to two new adult fictional roles F and G, obtain replies only after asking, record labelled ages accurately and check back. Height: label two blank strips F/G, align bottom to each stand-in floor line, mark observed head tops, align bottoms, compare and record actual results. Fixed guided diagram F shorter than G, G taller than F is only interpretation, not evidence of new collection. Actual ages and heights are conditional; accept accurate different results and record support.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q1",
+    "mode": "independent",
+    "prompt": "How old is practice pupil B?",
+    "answer": "Practice B is 7 years old. This reads a supplied fictional record; it does not assess interviewing.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q2",
+    "mode": "independent",
+    "prompt": "How many practice pupils are 6?",
+    "answer": "Two practice pupils are 6: A and C.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q3",
+    "mode": "independent",
+    "prompt": "Order the practice ages from least.",
+    "answer": "Least-first ages are 6, 6, 7. Keep both 6s because two different people have that age.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q4",
+    "mode": "independent",
+    "prompt": "Draw a pupil-letter/age table.",
+    "answer": "Two labelled columns, Person letter and Age in years, with three rows A/6, B/7, C/6 when recording the supplied practice data. Any clear equivalent table is valid. Drawing/copying this table is separate from collecting new replies.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q5",
+    "mode": "independent",
+    "prompt": "Name a tool for comparing heights.",
+    "answer": "A labelled paper strip marked at observed head-top level, with bottom on the common floor baseline. A suitable measuring tape is also a valid named tool, but naming a tool alone does not assess height collection.",
+    "objectives": [
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-19-Q6",
+    "mode": "independent",
+    "prompt": "Why ask everyone the same age question?",
+    "answer": "The same completed-years question makes replies about the same age meaning, allowing comparison. Obtain willing replies and record accurately; next-birthday age asks something different.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "S020",
+    "mode": "independent",
+    "prompt": "With consent, ask two willing people their ages in completed years and record letter labels and ages. One may be at home and one at school. If participation is declined, interview a teacher role-playing two people.",
+    "answer": "Collect two new willing replies: ask permission, ask each the same completed-years question, listen, record unique person letters and ages with units, then check each reply back. Private consenting actual people or an adult playing two different fictional people are valid; fictional replies supplied only after each question. Accurate conditional replies, not a fixed printed answer. Decline is accepted; never publish identifiable real ages. Score asking and recording separately from reading or table drawing.",
+    "objectives": [
+      "P1-p12-01"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "S021",
+    "mode": "independent",
+    "prompt": "With consent, compare two pupils' heights using marked paper strips, then record the strip labels and measurements or comparison results.",
+    "answer": "With adult-approved full-size paper silhouettes, collect two NEW head-top observations: each labelled blank strip starts at the same floor baseline as that upright stand-in; mark each head level using the same method; align strip bottoms; compare and record both labels and taller/shorter/equal relationship. Real willing pupils require a safe consistent posture; do not compare sitting and standing stature or require John to stand. Accessible stand-ins are valid simulated collection, not actual child measurements. No resources means practical collection not assessed; picture interpretation alone is insufficient.",
+    "objectives": [
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-19-RECALL",
+    "mode": "recall",
+    "prompt": "Before help explain then carry out new age interviewing/recording and new silhouette head-marking/comparison/recording.",
+    "answer": "Recall permission and identical completed-years question; ask two new fictional roles, get replies after asking, record unique letters and accurate ages, check back. Recall safe same-baseline head-top marking for two new full-size paper stand-ins; make new labelled marks, align bottoms, compare and record both labels and actual taller/shorter/equal result. Record unaided recall first, then actual performance separately. No resources means actual collection not assessed; verbal recall is not practical evidence.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-19-HELP",
+    "mode": "help",
+    "prompt": "After recall, a smaller-step supported interview/record and new strip-mark/compare/record intervention.",
+    "answer": "With support, model one permission request and identical completed-years question, then let child ask two fresh fictional roles and record checked letter/age replies. For two new upright full-size stand-ins, help place a blank labelled strip bottom at the floor line, child marks observed head top, repeats with second, aligns bottoms and records observed comparison with both labels. Teach equal marks mean equal height. Fixed help diagram H and J marks equal is interpretation only. Record support/resources; do not infer actual collection from supplied figures.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-19-RECHECK",
+    "mode": "recheck",
+    "prompt": "Everyone tries, including pupils who skipped help. Collect without mathematical hints. Collect two new age replies and two new head marks, compare and record both.",
+    "answer": "No fixed ages or heights: obtain two NEW willing replies only after permission and the identical completed-years question; record different person letters and accurate ages with years, check back. Adult fictional roles may be home/school role-play and must not disclose replies first. Independently label two blank strips, align each bottom at a NEW upright full-size stand-in floor line, observe and mark each head top, align bottoms, compare and record both labels and correct observed relationship. Accept taller, shorter or equal as resources determine. Record actual resource help versus mathematical support and simulated versus actual collection. No resources means practical collection not assessed; copying old results does not pass.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-19-STORY",
+    "mode": "closure",
+    "prompt": "Explain how the friends made the fictional toy-school folder trustworthy.",
+    "answer": "They asked permission and the same completed-years question, listened and checked letter-labelled age records; they marked head tops with a consistent method, aligned strip bottoms and recorded comparisons. Fictional model D5/E8 and D taller than E remain consistent. No actual pupil results inferred; no better/worse age or height ranking. All four contribute; folder trust follows the demonstrated methods, not neatness alone.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-19-FRESH",
+    "mode": "fresh",
+    "prompt": "Try with two DIFFERENT fictional people and two DIFFERENT full-size stand-ins. Give your own observations without help. Collect two new age replies and two new head marks, compare and record both.",
+    "answer": "No fixed ages or heights: obtain two NEW willing replies only after permission and the identical completed-years question; record different person letters and accurate ages with years, check back. Adult fictional roles may be home/school role-play and must not disclose replies first. Independently label two blank strips, align each bottom at a NEW upright full-size stand-in floor line, observe and mark each head top, align bottoms, compare and record both labels and correct observed relationship. Accept taller, shorter or equal as resources determine. Record actual resource help versus mathematical support and simulated versus actual collection. No resources means practical collection not assessed; copying old results does not pass.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-19-DELAYED",
+    "mode": "delayed",
+    "prompt": "Adult: return on ANOTHER DAY before reteaching. Supply new fictional roles and new full-size stand-ins. Record independence. Collect two new age replies and two new head marks, compare and record both.",
+    "answer": "No fixed ages or heights: obtain two NEW willing replies only after permission and the identical completed-years question; record different person letters and accurate ages with years, check back. Adult fictional roles may be home/school role-play and must not disclose replies first. Independently label two blank strips, align each bottom at a NEW upright full-size stand-in floor line, observe and mark each head top, align bottoms, compare and record both labels and correct observed relationship. Accept taller, shorter or equal as resources determine. Record actual resource help versus mathematical support and simulated versus actual collection. No resources means practical collection not assessed; copying old results does not pass.",
+    "objectives": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  }
+]

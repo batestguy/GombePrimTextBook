@@ -1,0 +1,36 @@
+{
+  "author": "/root/chapter18_author",
+  "status": "frozen_for_independent_review_not_approved",
+  "fingerprint": "1bad62b1eda9eaed1393cee6b17e63043f1ea5c2d45c9f97000c76a6e35ecd71",
+  "hashes": {
+    "production/p1.json": "3daf9232a8d1f7b03d12a7693a7bb90491cc7eedcba74c3f0f07aa530201a2a1",
+    "production/lessons.json": "6494cf2df1fe679acdaf0b47a6837611577c0413d8b970fcabde72cef960c64a",
+    "scripts/build_chapter_eighteen.py": "d6e0510f4cdb825be44c70c7fa133f320117f25bd8a1f8b785978a7e6d16ae7f",
+    "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf": "7a089ad03e4b6071684abdf8e96ec2bf61f3f65af31fd6ca2f1655d1a32d865b",
+    "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf": "a4b178d0215e94e8ca3163b542fb360484074e405b0860e5a240bb14cc47e6e0"
+  },
+  "pages": {
+    "textbook": 27,
+    "workbook": 11
+  },
+  "tasks": 21,
+  "flat_shape_occurrences": 64,
+  "author_page_inspection": 38,
+  "protected_hashes": 175,
+  "prior_pdfs": 32,
+  "source_pairs": 114,
+  "other_lessons_preserved": 18,
+  "historical_files_restored_exact": 21,
+  "checks": {
+    "preflight": "passed",
+    "draft_fingerprint_gate": "passed",
+    "strict_reviewed_gate": "expected failure pending independent review",
+    "generated_lesson": "All 63 generated lessons match concatenated canonical sources"
+  },
+  "instruction_fix": {
+    "previous_fingerprint": "7a04bc0b7ce7e9977fb27e39fe105d0a07fd606162890abc53649a2208396693",
+    "correction": "Keep pictures visible throughout naming and pointing; only names stay covered until matching.",
+    "changed_pages": 8,
+    "unchanged_exact_rasters": 30
+  }
+}

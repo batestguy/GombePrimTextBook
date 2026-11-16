@@ -1,0 +1,164 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "initial_fingerprint": "ac19b772ac51c8439b30c1fd4a54c11372bbc3a255373eb31bf769ae019bd0b9",
+  "final_fingerprint": "86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd",
+  "only_canonical_generated_change_is_single_phrase": [
+    {
+      "path": "production/p1.json",
+      "exact_inverse_phrase_reproduces_initial_frozen_hash": true,
+      "replacements": 1
+    },
+    {
+      "path": "production/lessons.json",
+      "exact_inverse_phrase_reproduces_initial_frozen_hash": true,
+      "replacements": 1
+    }
+  ],
+  "isolated_builder_unchanged": true,
+  "textbook_pdf_unchanged": true,
+  "changed_pages": [
+    [
+      "workbook",
+      3
+    ]
+  ],
+  "unchanged_own_inspected_rasters": [
+    [
+      "textbook",
+      1
+    ],
+    [
+      "textbook",
+      2
+    ],
+    [
+      "textbook",
+      3
+    ],
+    [
+      "textbook",
+      4
+    ],
+    [
+      "textbook",
+      5
+    ],
+    [
+      "textbook",
+      6
+    ],
+    [
+      "textbook",
+      7
+    ],
+    [
+      "textbook",
+      8
+    ],
+    [
+      "textbook",
+      9
+    ],
+    [
+      "textbook",
+      10
+    ],
+    [
+      "textbook",
+      11
+    ],
+    [
+      "textbook",
+      12
+    ],
+    [
+      "textbook",
+      13
+    ],
+    [
+      "textbook",
+      14
+    ],
+    [
+      "textbook",
+      15
+    ],
+    [
+      "textbook",
+      16
+    ],
+    [
+      "textbook",
+      17
+    ],
+    [
+      "textbook",
+      18
+    ],
+    [
+      "textbook",
+      19
+    ],
+    [
+      "textbook",
+      20
+    ],
+    [
+      "textbook",
+      21
+    ],
+    [
+      "textbook",
+      22
+    ],
+    [
+      "textbook",
+      23
+    ],
+    [
+      "textbook",
+      24
+    ],
+    [
+      "workbook",
+      1
+    ],
+    [
+      "workbook",
+      2
+    ],
+    [
+      "workbook",
+      4
+    ],
+    [
+      "workbook",
+      5
+    ],
+    [
+      "workbook",
+      6
+    ],
+    [
+      "workbook",
+      7
+    ],
+    [
+      "workbook",
+      8
+    ],
+    [
+      "workbook",
+      9
+    ],
+    [
+      "workbook",
+      10
+    ],
+    [
+      "workbook",
+      11
+    ]
+  ],
+  "changed_page_visual_recheck": "PASS: exact final WB3 personally reopened/read; required cover-both-tables instruction clear, local raw records usable, layout intact. Other34pages hash-identical to my own initial inspections."
+}

@@ -1,0 +1,16 @@
+{
+  "preflight": "passed",
+  "draft_register": "passed",
+  "strict_reviewed": {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-18",
+      "--require-reviewed"
+    ],
+    "returncode": 1,
+    "output": "Chapter standard gate FAILED: P1-18: independent review pending\n",
+    "expected": "Independent review pending; author cannot approve"
+  }
+}

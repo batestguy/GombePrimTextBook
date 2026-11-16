@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "textbook": 19,
+    "workbook": 12
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf"
+  },
+  "tasks": 17,
+  "diagrams": 16,
+  "protected_hashes": 169,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 original ordered question/answer pairs and18other lessons preserved",
+    "169 protected hashes and supplements unchanged",
+    "seven objective progression modes enacted",
+    "actual PDF beam/pan endpoints labels interpreted for left-heavy right-heavy equal",
+    "completed drawing outline inspected",
+    "A4 embedded fonts text bounds and every page rendered"
+  ]
+}

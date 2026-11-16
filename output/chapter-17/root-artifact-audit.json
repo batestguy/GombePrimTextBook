@@ -1,0 +1,592 @@
+{
+  "coordinator": "/root",
+  "tasks": 19,
+  "objective_count": 4,
+  "canonical_shapes": 22,
+  "shapes": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        90.0,
+        435.0,
+        170.0,
+        435.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        170.0,
+        435.0,
+        170.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        90.0,
+        515.0,
+        170.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        90.0,
+        435.0,
+        90.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        240.0,
+        435.0,
+        385.0,
+        435.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        385.0,
+        435.0,
+        385.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        240.0,
+        515.0,
+        385.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "rect": [
+        240.0,
+        435.0,
+        240.0,
+        515.0
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "ellipse",
+      "rect": [
+        440.0,
+        435.0,
+        520.0,
+        515.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "rect": [
+        38.0,
+        565.0,
+        557.0,
+        755.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38.0,
+        268.0,
+        557.0,
+        333.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38.0,
+        395.0,
+        557.0,
+        460.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38.0,
+        525.0,
+        557.0,
+        590.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38.0,
+        655.0,
+        557.0,
+        750.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38.0,
+        435.0,
+        557.0,
+        580.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38.0,
+        705.0,
+        557.0,
+        765.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38.0,
+        595.0,
+        557.0,
+        765.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        38.0,
+        555.0,
+        557.0,
+        750.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "box",
+      "rect": [
+        38.0,
+        650.0,
+        557.0,
+        780.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "type": "box",
+      "rect": [
+        38.0,
+        650.0,
+        557.0,
+        770.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38.0,
+        650.0,
+        557.0,
+        780.0
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "box",
+      "rect": [
+        38.0,
+        650.0,
+        557.0,
+        780.0
+      ]
+    }
+  ],
+  "verified_solid_occurrences": 64,
+  "solids": [
+    {
+      "id": "textbook-solid-1",
+      "kind": "cube",
+      "page": 3
+    },
+    {
+      "id": "textbook-solid-2",
+      "kind": "non-cube cuboid",
+      "page": 3
+    },
+    {
+      "id": "textbook-solid-3",
+      "kind": "cylinder",
+      "page": 3
+    },
+    {
+      "id": "textbook-solid-4",
+      "kind": "sphere",
+      "page": 3
+    },
+    {
+      "id": "textbook-solid-5",
+      "kind": "cylinder",
+      "page": 4
+    },
+    {
+      "id": "textbook-solid-6",
+      "kind": "sphere",
+      "page": 4
+    },
+    {
+      "id": "textbook-solid-7",
+      "kind": "sphere",
+      "page": 5
+    },
+    {
+      "id": "textbook-solid-8",
+      "kind": "cube",
+      "page": 5
+    },
+    {
+      "id": "textbook-solid-9",
+      "kind": "cylinder",
+      "page": 5
+    },
+    {
+      "id": "textbook-solid-10",
+      "kind": "non-cube cuboid",
+      "page": 5
+    },
+    {
+      "id": "textbook-solid-11",
+      "kind": "non-cube cuboid",
+      "page": 6
+    },
+    {
+      "id": "textbook-solid-12",
+      "kind": "cylinder",
+      "page": 8
+    },
+    {
+      "id": "textbook-solid-13",
+      "kind": "cube",
+      "page": 8
+    },
+    {
+      "id": "textbook-solid-14",
+      "kind": "sphere",
+      "page": 8
+    },
+    {
+      "id": "textbook-solid-15",
+      "kind": "non-cube cuboid",
+      "page": 8
+    },
+    {
+      "id": "textbook-solid-16",
+      "kind": "cube",
+      "page": 10
+    },
+    {
+      "id": "textbook-solid-17",
+      "kind": "non-cube cuboid",
+      "page": 10
+    },
+    {
+      "id": "textbook-solid-18",
+      "kind": "cylinder",
+      "page": 10
+    },
+    {
+      "id": "textbook-solid-19",
+      "kind": "sphere",
+      "page": 10
+    },
+    {
+      "id": "textbook-solid-20",
+      "kind": "sphere",
+      "page": 11
+    },
+    {
+      "id": "textbook-solid-21",
+      "kind": "non-cube cuboid",
+      "page": 11
+    },
+    {
+      "id": "textbook-solid-22",
+      "kind": "cube",
+      "page": 11
+    },
+    {
+      "id": "textbook-solid-23",
+      "kind": "cylinder",
+      "page": 11
+    },
+    {
+      "id": "textbook-solid-24",
+      "kind": "cube",
+      "page": 12
+    },
+    {
+      "id": "textbook-solid-25",
+      "kind": "non-cube cuboid",
+      "page": 12
+    },
+    {
+      "id": "textbook-solid-26",
+      "kind": "cylinder",
+      "page": 12
+    },
+    {
+      "id": "textbook-solid-27",
+      "kind": "sphere",
+      "page": 12
+    },
+    {
+      "id": "textbook-solid-28",
+      "kind": "non-cube cuboid",
+      "page": 13
+    },
+    {
+      "id": "textbook-solid-29",
+      "kind": "sphere",
+      "page": 13
+    },
+    {
+      "id": "textbook-solid-30",
+      "kind": "cylinder",
+      "page": 13
+    },
+    {
+      "id": "textbook-solid-31",
+      "kind": "cube",
+      "page": 13
+    },
+    {
+      "id": "textbook-solid-32",
+      "kind": "cube",
+      "page": 14
+    },
+    {
+      "id": "textbook-solid-33",
+      "kind": "cylinder",
+      "page": 14
+    },
+    {
+      "id": "textbook-solid-34",
+      "kind": "non-cube cuboid",
+      "page": 14
+    },
+    {
+      "id": "textbook-solid-35",
+      "kind": "sphere",
+      "page": 14
+    },
+    {
+      "id": "workbook-solid-1",
+      "kind": "sphere",
+      "page": 1
+    },
+    {
+      "id": "workbook-solid-2",
+      "kind": "cube",
+      "page": 1
+    },
+    {
+      "id": "workbook-solid-3",
+      "kind": "cylinder",
+      "page": 1
+    },
+    {
+      "id": "workbook-solid-4",
+      "kind": "non-cube cuboid",
+      "page": 1
+    },
+    {
+      "id": "workbook-solid-5",
+      "kind": "non-cube cuboid",
+      "page": 3
+    },
+    {
+      "id": "workbook-solid-6",
+      "kind": "cylinder",
+      "page": 4
+    },
+    {
+      "id": "workbook-solid-7",
+      "kind": "cube",
+      "page": 4
+    },
+    {
+      "id": "workbook-solid-8",
+      "kind": "sphere",
+      "page": 4
+    },
+    {
+      "id": "workbook-solid-9",
+      "kind": "non-cube cuboid",
+      "page": 4
+    },
+    {
+      "id": "workbook-solid-10",
+      "kind": "cube",
+      "page": 6
+    },
+    {
+      "id": "workbook-solid-11",
+      "kind": "non-cube cuboid",
+      "page": 6
+    },
+    {
+      "id": "workbook-solid-12",
+      "kind": "cylinder",
+      "page": 6
+    },
+    {
+      "id": "workbook-solid-13",
+      "kind": "sphere",
+      "page": 6
+    },
+    {
+      "id": "workbook-solid-14",
+      "kind": "sphere",
+      "page": 7
+    },
+    {
+      "id": "workbook-solid-15",
+      "kind": "non-cube cuboid",
+      "page": 7
+    },
+    {
+      "id": "workbook-solid-16",
+      "kind": "cube",
+      "page": 7
+    },
+    {
+      "id": "workbook-solid-17",
+      "kind": "cylinder",
+      "page": 7
+    },
+    {
+      "id": "workbook-solid-18",
+      "kind": "cube",
+      "page": 8
+    },
+    {
+      "id": "workbook-solid-19",
+      "kind": "non-cube cuboid",
+      "page": 8
+    },
+    {
+      "id": "workbook-solid-20",
+      "kind": "cylinder",
+      "page": 8
+    },
+    {
+      "id": "workbook-solid-21",
+      "kind": "sphere",
+      "page": 8
+    },
+    {
+      "id": "workbook-solid-22",
+      "kind": "non-cube cuboid",
+      "page": 9
+    },
+    {
+      "id": "workbook-solid-23",
+      "kind": "sphere",
+      "page": 9
+    },
+    {
+      "id": "workbook-solid-24",
+      "kind": "cylinder",
+      "page": 9
+    },
+    {
+      "id": "workbook-solid-25",
+      "kind": "cube",
+      "page": 9
+    },
+    {
+      "id": "workbook-solid-26",
+      "kind": "cube",
+      "page": 10
+    },
+    {
+      "id": "workbook-solid-27",
+      "kind": "cylinder",
+      "page": 10
+    },
+    {
+      "id": "workbook-solid-28",
+      "kind": "non-cube cuboid",
+      "page": 10
+    },
+    {
+      "id": "workbook-solid-29",
+      "kind": "sphere",
+      "page": 10
+    }
+  ],
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "pages": 26,
+      "sha256": "d402bc10b441335330b17407a5285c09a599894451df7562301c125fc3117c21"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf",
+      "pages": 10,
+      "sha256": "1ea5e347f1b20bfba20e17bdf8a5ed3a77d4c7861aa9f851dacebb743b24fe37"
+    }
+  },
+  "checks": [
+    "Every task has presentation/answer links and exact printed task-specific rubric",
+    "All four objectives have seven progression modes",
+    "All canonical boxes/ellipses/lines occur on exact PDF pages",
+    "No duplicate page task IDs or textbook response boxes; every page A4/text within bounds",
+    "Independent visible-face topology, actual PDF projected box edges, sphere outlines and both cylinder end geometries checked; teaching/naming semantics reviewed separately"
+  ]
+}

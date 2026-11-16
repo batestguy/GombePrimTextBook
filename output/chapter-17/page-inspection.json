@@ -1,0 +1,326 @@
+[
+  {
+    "artifact": "textbook",
+    "page": 1,
+    "image": "output/chapter-17/textbook/page-01.png",
+    "image_sha256": "7370a4d9b8d64a06ea4e8ce0ba02f93ee4d2a27c66d324399258f5e4297dedb8",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Mrs Binta/four children/board hint and story goal legible",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 2,
+    "image": "output/chapter-17/textbook/page-02.png",
+    "image_sha256": "8ba2820e9301e10746e0ee935c03affc5afc42112db0653fa49b29d29fe4c206",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Exact square/rectangle/circle face diagrams, local vocabulary and perspective caveat; final box-edge definition scope reopened and visually checked",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 3,
+    "image": "output/chapter-17/textbook/page-03.png",
+    "image_sha256": "8ac22104033e35599ed2953b2a48cc3f9920a7dc57e77a1d5ccc48f003fc5d95",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Four named models, cube hierarchy and feature definitions",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 4,
+    "image": "output/chapter-17/textbook/page-04.png",
+    "image_sha256": "78f171301233939f55c311c5b740fb32da359b99b2b85630e9282c86281a34fa",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Safe conditional handling and both rolling solids",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 5,
+    "image": "output/chapter-17/textbook/page-05.png",
+    "image_sha256": "c5d3904dbd91296ad134b2413efe54e01a689b18db51dfca20518bbee8303822",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Guided all-four turn, Grace retries, all children act",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 6,
+    "image": "output/chapter-17/textbook/page-06.png",
+    "image_sha256": "113a7b16fca25c0dd8acc6a39557096e707a43525c7c5a8537b17111132584c6",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Completed projected long-box drawing before source drawing task",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 7,
+    "image": "output/chapter-17/textbook/page-07.png",
+    "image_sha256": "83b65aa5c46758ebf05927737f36f94914ebc3a304f63948ff767f31f206a87d",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Six source tasks and workbook2+3/exercise-book routes",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 8,
+    "image": "output/chapter-17/textbook/page-08.png",
+    "image_sha256": "049239a64fa79ff89d2c5390b03080eae6ed860456aee74c27451d45e5d82d8b",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Unlabelled naming FIRST; other pages/records covered; S014/S015 neutral adapted text",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 9,
+    "image": "output/chapter-17/textbook/page-09.png",
+    "image_sha256": "1c8d481f50ef90b0195f68f093d33b20b3d79d8c27e25a5444428dbeb81751a4",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Recall before covered help",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 10,
+    "image": "output/chapter-17/textbook/page-10.png",
+    "image_sha256": "b8e009571ad7e5ec7f22f3dabed562f1fab415b3e649f3654723d19fcafb6a1c",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Named help then explicit new recheck route",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 11,
+    "image": "output/chapter-17/textbook/page-11.png",
+    "image_sha256": "3de25875d587c18b0e9f86ddc5135c32a0a3fedb2d52cd708fec7d64dec41ac5",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Unlabelled new/rotated recheck, no cue, records hidden",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 12,
+    "image": "output/chapter-17/textbook/page-12.png",
+    "image_sha256": "3dd6938ee533956d6c396f8e62f459010e441b7eb77d290c441998a3f84eabea",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "All-four story resolution with logical standing/rolling choices; WB8 route",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 13,
+    "image": "output/chapter-17/textbook/page-13.png",
+    "image_sha256": "e204f5df450c834145ae1a56dce9450a98011cbd06d0828aa39c75be65e511aa",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Fresh all-four check; cover facing story/name pages; WB9 route",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 14,
+    "image": "output/chapter-17/textbook/page-14.png",
+    "image_sha256": "692286880a8cf8303c1dcf3c87eae5ccb926e3cef02b6a4b20a7ecb8bf5eab3d",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Scheduled delayed all-four check with rotated cylinder and WB10 route",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 15,
+    "image": "output/chapter-17/textbook/page-15.png",
+    "image_sha256": "d79a54baeb4e50be74224dfa5cfd51e010be6a91429b565df7a7cdc0da725303",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Task-specific model/handling answers",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 16,
+    "image": "output/chapter-17/textbook/page-16.png",
+    "image_sha256": "32ee935a83368f84fc8143737932d6eb34071e16162cc18e255a13d7b89d6cb9",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Exact guided left-to-right key and projected drawing rubric",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 17,
+    "image": "output/chapter-17/textbook/page-17.png",
+    "image_sha256": "0283592e16a428f9f646fe764fb530cd53e30cfc213e5b2a0dd1d0c37dadd65f",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Q1/Q2 answers",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 18,
+    "image": "output/chapter-17/textbook/page-18.png",
+    "image_sha256": "3fd70b0b0bf05ade6a1832fd6f06a5b1514842605514db4baf0cd0eb61d4cc53",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Q3/Q4 answers incl cube as special cuboid",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 19,
+    "image": "output/chapter-17/textbook/page-19.png",
+    "image_sha256": "311f315f31e1dd1bb4bc62f8983a05fa0ac7f7431e42b48da1559ea201a93d4a",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Q5/Q6 conditional observations and cube distinction",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 20,
+    "image": "output/chapter-17/textbook/page-20.png",
+    "image_sha256": "14e906f9a08ffb0b28f643cec3fd0051b6b671f34782198e71e3b185d479268d",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "S014 all-four sorting/S015 EACH example rubric",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 21,
+    "image": "output/chapter-17/textbook/page-21.png",
+    "image_sha256": "3b98383f52d030e59c7b20cb3bf17da3b1644d50030c4b6087c5b5875871f6ae",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Naming key/recall answers incl rolling and face definition",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 22,
+    "image": "output/chapter-17/textbook/page-22.png",
+    "image_sha256": "0b12a858d4e958dacdeb0669f38ca0e68fb4c13e3347b1ac6f587bc2e1f0188d",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Help/recheck task-specific keys",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 23,
+    "image": "output/chapter-17/textbook/page-23.png",
+    "image_sha256": "77bb32571e0cdf4cb76ab10969257c49d186af99ccad86072add6218b76dc621",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Fresh/delayed exact figure-order keys and all-four examples",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 24,
+    "image": "output/chapter-17/textbook/page-24.png",
+    "image_sha256": "b3b8a1bb2b87dcf4b0226698a02076da74526863bbd4470215b256be2979041c",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Story explanation rubric",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 25,
+    "image": "output/chapter-17/textbook/page-25.png",
+    "image_sha256": "5333179aff11b704515430917bee900d3a434338b04e9626bb648c0e5f6c4fe0",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Facing-page cover/record hiding/support/actual handling not-assessed distinction",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "textbook",
+    "page": 26,
+    "image": "output/chapter-17/textbook/page-26.png",
+    "image_sha256": "8efc05103c5a581ff4532dd188a0bfef5f21821abab3042d166454530546d2b8",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Glossary/historical four-objective map/provenance/preview/honest pending limits; final box-edge definition scope reopened and visually checked",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 1,
+    "image": "output/chapter-17/workbook/page-01.png",
+    "image_sha256": "1528ee58cfbdfb9ed0dcf6f9995e223a0a8c5db5af5992782ce000e367864a03",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Guided local diagrams/space",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 2,
+    "image": "output/chapter-17/workbook/page-02.png",
+    "image_sha256": "11ec170ba606ff5310436e8361676c21f56b6694f6a294253233a1d5c08fd943",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Q1,Q2,Q3,Q6 roomy responses",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 3,
+    "image": "output/chapter-17/workbook/page-03.png",
+    "image_sha256": "1d45ff318edbab1370e4f879c1397727779055d9ab93e08ac98492cd0aa321c1",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Completed box model/drawing space/conditional Q5 observation space",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 4,
+    "image": "output/chapter-17/workbook/page-04.png",
+    "image_sha256": "924d4ae6b2e4fb35f0910bd4fd081101b9913305c07767f3c2fcfbb7320480df",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "No shape-name labels; FIRST naming then hidden-record recognition; S014/S015 adapted locally; response space",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 5,
+    "image": "output/chapter-17/workbook/page-05.png",
+    "image_sha256": "fb88bb0dd4c70ca998a75360d41c7e0c8a3f18c728bd9bec51e5510026be6b1f",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Recall-before-help and generous response area",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 6,
+    "image": "output/chapter-17/workbook/page-06.png",
+    "image_sha256": "c9ba5426d5ae34947fb12896935968be8764ee0e76fc68f4d5280e4423daec0a",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Help local named models; explicit next recheck WB7",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 7,
+    "image": "output/chapter-17/workbook/page-07.png",
+    "image_sha256": "785ea2575fcd0655f647d1a170afa9e73653b282c9de7bb320396ee913c20db5",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Unlabelled rotated cylinder recheck; covered answers and generous response space",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 8,
+    "image": "output/chapter-17/workbook/page-08.png",
+    "image_sha256": "d6978413b611da86b302879014b3172d93bab29416e2eb7e6950b298a614c39b",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Local story stimulus, four models and explanation space before fresh",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 9,
+    "image": "output/chapter-17/workbook/page-09.png",
+    "image_sha256": "638deceec6af09a80d5e26e84ddef55384e29483bdcdb72b98ffdf4b0b9ef28c",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Fresh unlabelled figures and response space; cover facing story",
+    "result": "pass_author_inspection_independent_review_pending"
+  },
+  {
+    "artifact": "workbook",
+    "page": 10,
+    "image": "output/chapter-17/workbook/page-10.png",
+    "image_sha256": "a7113dfb7f0df1db1f4005bfd85d0ef26ab78460bbf47394346d4746fc46878c",
+    "author_inspection": "individually opened at full rendered size; rechecked changed pages after final build",
+    "observations": "Delayed rotated figures/no names/response space",
+    "result": "pass_author_inspection_independent_review_pending"
+  }
+]

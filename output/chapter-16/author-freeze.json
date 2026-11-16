@@ -1,0 +1,22 @@
+{
+  "author": "/root/chapter16_author",
+  "status": "frozen_for_independent_review",
+  "fingerprint": "aec1060486a68e0f702e5fe37ea7217bf2c44e9d3b6b5ccd9928a711c6b12daa",
+  "hashes": {
+    "production/p1.json": "3a5a3ff75f8f82b458824dbed71b11ebf686724d271c779c6e0d4f5c3073e9c8",
+    "production/lessons.json": "5f0546efb9e11f87998f87151db435f32a244e3c7a02f49b65d7371186f44dad",
+    "scripts/build_chapter_sixteen.py": "009369b44f60e5f35ba6ed642665007b1c24c6fe735925d591dc6e7b300118f2",
+    "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529",
+    "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "sha256": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf",
+      "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+    }
+  }
+}

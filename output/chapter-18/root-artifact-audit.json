@@ -1,0 +1,1028 @@
+{
+  "coordinator": "/root",
+  "tasks": 21,
+  "objectives": 4,
+  "shapes": [
+    {
+      "artifact": "textbook",
+      "page": 2,
+      "bounds": [
+        79.0,
+        348.9999694824219,
+        151.0,
+        420.9999694824219
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.0,
+        72.0,
+        72.0,
+        72.0
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 2,
+      "bounds": [
+        227.69479370117188,
+        337.1148681640625,
+        362.3052062988281,
+        432.8851623535156
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.49996483779996,
+        62.999988886460216,
+        121.49996483779996,
+        62.999988886460216
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 2,
+      "bounds": [
+        439.0,
+        348.9999694824219,
+        511.0,
+        420.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "textbook",
+      "page": 3,
+      "bounds": [
+        66.31291198730469,
+        316.3128662109375,
+        163.68710327148438,
+        413.68707275390625
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00000369758335,
+        72.00000369758335,
+        71.99994724344941,
+        72.00007737026202
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 3,
+      "bounds": [
+        229.76939392089844,
+        299.76934814453125,
+        360.2305908203125,
+        430.2305603027344
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.50003395617347,
+        62.9999600624066,
+        121.4999584290425,
+        63.00005716879084
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 3,
+      "bounds": [
+        439.0,
+        329.0,
+        511.0,
+        400.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "textbook",
+      "page": 4,
+      "bounds": [
+        79.0,
+        324.0,
+        151.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "textbook",
+      "page": 4,
+      "bounds": [
+        239.94309997558594,
+        304.94305419921875,
+        350.056884765625,
+        415.056884765625
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        81.00000447373434,
+        81.00001636978051,
+        81.00001781936798,
+        81.0000237673903
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 4,
+      "bounds": [
+        417.3468933105469,
+        301.70526123046875,
+        532.653076171875,
+        418.2947692871094
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        107.99999328764756,
+        55.99998103555004,
+        107.99999253442313,
+        56.000024187348416
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 5,
+      "bounds": [
+        193.75,
+        297.5,
+        396.25,
+        402.4999694824219
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        202.5,
+        104.99996948242188,
+        202.5,
+        104.99996948242188
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        58.400001525878906,
+        318.39996337890625,
+        101.5999984741211,
+        361.5999755859375
+      ],
+      "boundary": "circle",
+      "radius": 21.599999999999998
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        143.39999389648438,
+        318.39996337890625,
+        186.60000610351562,
+        361.5999755859375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        43.20001220703125,
+        43.20001220703125,
+        43.20001220703125,
+        43.20001220703125
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        228.39999389648438,
+        318.39996337890625,
+        271.6000061035156,
+        361.5999755859375
+      ],
+      "boundary": "circle",
+      "radius": 21.599999999999998
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        313.3999938964844,
+        318.39996337890625,
+        356.6000061035156,
+        361.5999755859375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        43.20001220703125,
+        43.20001220703125,
+        43.20001220703125,
+        43.20001220703125
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        398.3999938964844,
+        318.39996337890625,
+        441.6000061035156,
+        361.5999755859375
+      ],
+      "boundary": "circle",
+      "radius": 21.599999999999998
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "bounds": [
+        483.3999938964844,
+        318.39996337890625,
+        526.5999755859375,
+        361.5999755859375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        43.199981689453125,
+        43.20001220703125,
+        43.199981689453125,
+        43.20001220703125
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 8,
+      "bounds": [
+        55.87602996826172,
+        293.44097900390625,
+        174.12399291992188,
+        406.55908203125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        108.00002961438626,
+        55.99996291899691,
+        108.00004688831763,
+        55.99997793500195
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 8,
+      "bounds": [
+        254.5,
+        309.5,
+        335.5,
+        390.4999694824219
+      ],
+      "boundary": "circle",
+      "radius": 40.5
+    },
+    {
+      "artifact": "textbook",
+      "page": 8,
+      "bounds": [
+        430.9092102050781,
+        305.9091796875,
+        519.0908203125,
+        394.09088134765625
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00004126691732,
+        71.99998231149165,
+        72.00003336838112,
+        71.99995283378011
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 10,
+      "bounds": [
+        79.0,
+        348.9999694824219,
+        151.0,
+        420.9999694824219
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.0,
+        72.0,
+        72.0,
+        72.0
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 10,
+      "bounds": [
+        227.69479370117188,
+        337.1148681640625,
+        362.3052062988281,
+        432.8851623535156
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.49996483779996,
+        62.999988886460216,
+        121.49996483779996,
+        62.999988886460216
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 10,
+      "bounds": [
+        439.0,
+        348.9999694824219,
+        511.0,
+        420.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "textbook",
+      "page": 11,
+      "bounds": [
+        66.58010864257812,
+        311.580078125,
+        163.41990661621094,
+        408.41986083984375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00001718478312,
+        72.00000345960176,
+        71.99993907437167,
+        72.0000518215181
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 11,
+      "bounds": [
+        254.5,
+        319.5,
+        335.5,
+        400.4999694824219
+      ],
+      "boundary": "circle",
+      "radius": 40.5
+    },
+    {
+      "artifact": "textbook",
+      "page": 11,
+      "bounds": [
+        440.6278076171875,
+        302.99017333984375,
+        509.3721923828125,
+        417.0098571777344
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        107.99999329796971,
+        55.999904414840024,
+        108.00002358807424,
+        55.99990813400811
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        79.0,
+        313.0,
+        511.0,
+        537.0
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        432.0,
+        224.0,
+        432.0,
+        224.0
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        101.0999984741211,
+        406.0999755859375,
+        138.89999389648438,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        164.88330078125,
+        399.8832702636719,
+        215.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        241.10000610351562,
+        406.0999755859375,
+        278.8999938964844,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        304.88330078125,
+        399.8832702636719,
+        355.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        381.1000061035156,
+        406.0999755859375,
+        418.8999938964844,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "bounds": [
+        444.88330078125,
+        399.8832702636719,
+        495.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 13,
+      "bounds": [
+        79.0,
+        324.0,
+        151.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "textbook",
+      "page": 13,
+      "bounds": [
+        229.41839599609375,
+        295.1402587890625,
+        360.58160400390625,
+        424.85968017578125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.5000242475327,
+        62.99995368591005,
+        121.5000242475327,
+        62.99995368591005
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 13,
+      "bounds": [
+        426.5801086425781,
+        311.580078125,
+        523.419921875,
+        408.41986083984375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00003744881377,
+        71.99992868334998,
+        72.0000518215181,
+        72.00002411212498
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 14,
+      "bounds": [
+        54.17390823364258,
+        310.536376953125,
+        175.8260955810547,
+        409.46368408203125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        108.00002283151818,
+        56.0000541044532,
+        107.99995041817925,
+        55.99995399820891
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 14,
+      "bounds": [
+        248.08250427246094,
+        313.08258056640625,
+        341.9175109863281,
+        406.91748046875
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        81.0000749065045,
+        80.99998209500102,
+        81.00005458021153,
+        80.99995469071865
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "textbook",
+      "page": 14,
+      "bounds": [
+        439.0,
+        324.0,
+        511.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "workbook",
+      "page": 1,
+      "bounds": [
+        79.0,
+        324.0,
+        151.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "workbook",
+      "page": 1,
+      "bounds": [
+        239.94309997558594,
+        304.94305419921875,
+        350.056884765625,
+        415.056884765625
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        81.00000447373434,
+        81.00001636978051,
+        81.00001781936798,
+        81.0000237673903
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 1,
+      "bounds": [
+        417.3468933105469,
+        301.70526123046875,
+        532.653076171875,
+        418.2947692871094
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        107.99999328764756,
+        55.99998103555004,
+        107.99999253442313,
+        56.000024187348416
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 2,
+      "bounds": [
+        193.75,
+        297.5,
+        396.25,
+        402.4999694824219
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        202.5,
+        104.99996948242188,
+        202.5,
+        104.99996948242188
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 5,
+      "bounds": [
+        55.87602996826172,
+        293.44097900390625,
+        174.12399291992188,
+        406.55908203125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        108.00002961438626,
+        55.99996291899691,
+        108.00004688831763,
+        55.99997793500195
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 5,
+      "bounds": [
+        254.5,
+        309.5,
+        335.5,
+        390.4999694824219
+      ],
+      "boundary": "circle",
+      "radius": 40.5
+    },
+    {
+      "artifact": "workbook",
+      "page": 5,
+      "bounds": [
+        430.9092102050781,
+        305.9091796875,
+        519.0908203125,
+        394.09088134765625
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00004126691732,
+        71.99998231149165,
+        72.00003336838112,
+        71.99995283378011
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 7,
+      "bounds": [
+        79.0,
+        348.9999694824219,
+        151.0,
+        420.9999694824219
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.0,
+        72.0,
+        72.0,
+        72.0
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 7,
+      "bounds": [
+        227.69479370117188,
+        337.1148681640625,
+        362.3052062988281,
+        432.8851623535156
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.49996483779996,
+        62.999988886460216,
+        121.49996483779996,
+        62.999988886460216
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 7,
+      "bounds": [
+        439.0,
+        348.9999694824219,
+        511.0,
+        420.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "workbook",
+      "page": 8,
+      "bounds": [
+        66.58010864257812,
+        311.580078125,
+        163.41990661621094,
+        408.41986083984375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00001718478312,
+        72.00000345960176,
+        71.99993907437167,
+        72.0000518215181
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 8,
+      "bounds": [
+        254.5,
+        319.5,
+        335.5,
+        400.4999694824219
+      ],
+      "boundary": "circle",
+      "radius": 40.5
+    },
+    {
+      "artifact": "workbook",
+      "page": 8,
+      "bounds": [
+        440.6278076171875,
+        302.99017333984375,
+        509.3721923828125,
+        417.0098571777344
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        107.99999329796971,
+        55.999904414840024,
+        108.00002358807424,
+        55.99990813400811
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        79.0,
+        313.0,
+        511.0,
+        537.0
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        432.0,
+        224.0,
+        432.0,
+        224.0
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        101.0999984741211,
+        406.0999755859375,
+        138.89999389648438,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        164.88330078125,
+        399.8832702636719,
+        215.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        241.10000610351562,
+        406.0999755859375,
+        278.8999938964844,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        304.88330078125,
+        399.8832702636719,
+        355.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        381.1000061035156,
+        406.0999755859375,
+        418.8999938964844,
+        443.89996337890625
+      ],
+      "boundary": "circle",
+      "radius": 18.9
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "bounds": [
+        444.88330078125,
+        399.8832702636719,
+        495.11669921875,
+        450.1166687011719
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        37.7999770544449,
+        37.7999770544449,
+        37.79992546531656,
+        37.80008768768636
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 10,
+      "bounds": [
+        79.0,
+        324.0,
+        151.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    },
+    {
+      "artifact": "workbook",
+      "page": 10,
+      "bounds": [
+        229.41839599609375,
+        295.1402587890625,
+        360.58160400390625,
+        424.85968017578125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        121.5000242475327,
+        62.99995368591005,
+        121.5000242475327,
+        62.99995368591005
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 10,
+      "bounds": [
+        426.5801086425781,
+        311.580078125,
+        523.419921875,
+        408.41986083984375
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        72.00003744881377,
+        71.99992868334998,
+        72.0000518215181,
+        72.00002411212498
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 11,
+      "bounds": [
+        54.17390823364258,
+        310.536376953125,
+        175.8260955810547,
+        409.46368408203125
+      ],
+      "boundary": "non-square rectangle",
+      "actual_side_lengths": [
+        108.00002283151818,
+        56.0000541044532,
+        107.99995041817925,
+        55.99995399820891
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 11,
+      "bounds": [
+        248.08250427246094,
+        313.08258056640625,
+        341.9175109863281,
+        406.91748046875
+      ],
+      "boundary": "square",
+      "actual_side_lengths": [
+        81.0000749065045,
+        80.99998209500102,
+        81.00005458021153,
+        80.99995469071865
+      ],
+      "right_angles": 4
+    },
+    {
+      "artifact": "workbook",
+      "page": 11,
+      "bounds": [
+        439.0,
+        324.0,
+        511.0,
+        395.9999694824219
+      ],
+      "boundary": "circle",
+      "radius": 36.0
+    }
+  ],
+  "checks": [
+    "All task-specific answers present on mapped PDF pages",
+    "Four objectives across eight enacted-mode page maps",
+    "Actual PDF side endpoints, equal/opposite lengths, right angles and circles checked",
+    "Story pattern fully contained within cover outline in both artifacts",
+    "A4 and every text/shape within page bounds"
+  ]
+}

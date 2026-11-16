@@ -1,0 +1,484 @@
+{
+  "author": "/root/chapter16_author",
+  "method": "Personally opened every final full-size page PNG rendered from exact PDFs; initial pass followed by affected-page recheck after final wording edits",
+  "status": "pass_author_inspection_not_independent_approval",
+  "pages": [
+    {
+      "artifact": "textbook",
+      "page": 1,
+      "image": "output/chapter-16/textbook/page-01.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "fc7ac56214c9a831a617455146cec10a2b80ee1d6eb01973fa424041f7552906"
+    },
+    {
+      "artifact": "textbook",
+      "page": 2,
+      "image": "output/chapter-16/textbook/page-02.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "f1777a4ba3ea463af5a5095f2eea33f9bd12208dabef7f295b96c087efdf25d7"
+    },
+    {
+      "artifact": "textbook",
+      "page": 3,
+      "image": "output/chapter-16/textbook/page-03.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "0c61746e3b278c830a66472161a6ce6734465c2554c2e00001d7a133273fabd9"
+    },
+    {
+      "artifact": "textbook",
+      "page": 4,
+      "image": "output/chapter-16/textbook/page-04.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "966710fcdc77dd733d304c2213cbb17a9026ae877066d8f231a64b664cd43266"
+    },
+    {
+      "artifact": "textbook",
+      "page": 5,
+      "image": "output/chapter-16/textbook/page-05.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "efd172a780fad246b3733e57a0ab558f36db3a068676b28430987ee4dae151c3"
+    },
+    {
+      "artifact": "textbook",
+      "page": 6,
+      "image": "output/chapter-16/textbook/page-06.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "bbbcd5a27b2d0bdc473860053f05977366253caa441077d6686c7f88c09f7ff2"
+    },
+    {
+      "artifact": "textbook",
+      "page": 7,
+      "image": "output/chapter-16/textbook/page-07.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "0a497e46a4b7ec3273a7019010154c14d63edcfa4190422d69203e9a28bad45e"
+    },
+    {
+      "artifact": "textbook",
+      "page": 8,
+      "image": "output/chapter-16/textbook/page-08.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "3b9194e9db83920ea26f203e09e308d99896bccad58c9d5e08d19fee2dab05b9"
+    },
+    {
+      "artifact": "textbook",
+      "page": 9,
+      "image": "output/chapter-16/textbook/page-09.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "962125c842966c696d7f7543bf5ed5bec223c0b72ad7142927225bca0d7beced"
+    },
+    {
+      "artifact": "textbook",
+      "page": 10,
+      "image": "output/chapter-16/textbook/page-10.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5910c5f8ecfc3d8990f897ac78e7c011fdea9098b7fe9f2af4441c0e3b7448b2"
+    },
+    {
+      "artifact": "textbook",
+      "page": 11,
+      "image": "output/chapter-16/textbook/page-11.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "a5ec1bdf7208b3c7035b674bda3a0e9d2c78874f234d4fa7fa467488055fa788"
+    },
+    {
+      "artifact": "textbook",
+      "page": 12,
+      "image": "output/chapter-16/textbook/page-12.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "e8b8039c1e8ca85485336ac2df4504b1a2bdcceef36e30973f3862733f5cf3b4"
+    },
+    {
+      "artifact": "textbook",
+      "page": 13,
+      "image": "output/chapter-16/textbook/page-13.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5e1da17e3ce112185f810e2f312b47f2b4ab1c82b441e0ea2d3b9f6ad4dd81c0"
+    },
+    {
+      "artifact": "textbook",
+      "page": 14,
+      "image": "output/chapter-16/textbook/page-14.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "535617912b94a4d1227aa016f091d3ff49a59102348b903b1591d59d203bda81"
+    },
+    {
+      "artifact": "textbook",
+      "page": 15,
+      "image": "output/chapter-16/textbook/page-15.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "15fcacf8c28c8058cf75a6f100e67228a05f26eb9e1dbfe16a8cb7d621a20a3d"
+    },
+    {
+      "artifact": "textbook",
+      "page": 16,
+      "image": "output/chapter-16/textbook/page-16.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "ddaad126b75b7a26a4cafee60aca89cf6e802d80936147321140a0be2123bf80"
+    },
+    {
+      "artifact": "textbook",
+      "page": 17,
+      "image": "output/chapter-16/textbook/page-17.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "9944a880c4af4429b78742001a0acb1b8a51f9d555f984810e64d17666742171"
+    },
+    {
+      "artifact": "textbook",
+      "page": 18,
+      "image": "output/chapter-16/textbook/page-18.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "3e3e470184e64a0f957159cd363634028661ca2b104109505a710f9f1a7a256c"
+    },
+    {
+      "artifact": "textbook",
+      "page": 19,
+      "image": "output/chapter-16/textbook/page-19.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "62223aa99cd7342e072c6d4f3251527142594a0644264eded77e541357857447"
+    },
+    {
+      "artifact": "workbook",
+      "page": 1,
+      "image": "output/chapter-16/workbook/page-01.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "421523c28f2831d216d77db2dc7849511b3ff222431c0a5005511cdf952eb916"
+    },
+    {
+      "artifact": "workbook",
+      "page": 2,
+      "image": "output/chapter-16/workbook/page-02.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "682b522f53b2c1ead03a61a34cbd0bac31c82ddb400b6c312e2e82465bec2e6f"
+    },
+    {
+      "artifact": "workbook",
+      "page": 3,
+      "image": "output/chapter-16/workbook/page-03.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "c0561981419d0c34a7e0bd95f41bd1d326eae7808e937935b48087b79e66243e"
+    },
+    {
+      "artifact": "workbook",
+      "page": 4,
+      "image": "output/chapter-16/workbook/page-04.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5aafa086ad9a864314c2f7b16ad36efdab4ab3e502cc908e7f673e2e42efb733"
+    },
+    {
+      "artifact": "workbook",
+      "page": 5,
+      "image": "output/chapter-16/workbook/page-05.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5ec0178d00c1e493e51cd0b5078bb18f69f45655263ef9802e2ce129ddd3819e"
+    },
+    {
+      "artifact": "workbook",
+      "page": 6,
+      "image": "output/chapter-16/workbook/page-06.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5d27b8263058f6136016274958dc71840a929e694119b44d47962233e36403e3"
+    },
+    {
+      "artifact": "workbook",
+      "page": 7,
+      "image": "output/chapter-16/workbook/page-07.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "cbe598281164b49503d31a29f0e34c3945dcbb2a262df6977f6ee96280993d0c"
+    },
+    {
+      "artifact": "workbook",
+      "page": 8,
+      "image": "output/chapter-16/workbook/page-08.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "9a9a5af7eeafa8bb4fe16e082e3216bbce52f5817c874dc85c8513a231c9a273"
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "image": "output/chapter-16/workbook/page-09.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "5a4dfdbf4c5a86459c2bc5af3e5502799549a849cf37730c8db950abb4efe6c5"
+    },
+    {
+      "artifact": "workbook",
+      "page": 10,
+      "image": "output/chapter-16/workbook/page-10.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "71aa16d3891d0921f084a95954eed810602eb13c10e9e7995847e3061e8ec00a"
+    },
+    {
+      "artifact": "workbook",
+      "page": 11,
+      "image": "output/chapter-16/workbook/page-11.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "8def307d8edbc2db41aaedfa1f93ab3488cdb2e67d74a01b21e5a39405ef804c"
+    },
+    {
+      "artifact": "workbook",
+      "page": 12,
+      "image": "output/chapter-16/workbook/page-12.png",
+      "checked": [
+        "white A4",
+        "legible text and reading order",
+        "diagram pan/beam and labels",
+        "no clipping or overlap",
+        "response room and cross-links",
+        "continuity where pictured"
+      ],
+      "result": "pass",
+      "image_sha256": "64195140400aea8c4db36053085f62bfa8d29bf5256ca2e12050b5f129ec8980"
+    }
+  ],
+  "affected_page_recheck": [
+    "textbook9",
+    "textbook17",
+    "workbook6",
+    "workbook9",
+    "workbook11",
+    "workbook12"
+  ],
+  "pdf_hashes": {
+    "textbook": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529",
+    "workbook": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+  }
+}

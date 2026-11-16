@@ -1,0 +1,400 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "all21_independently_solved": true,
+  "tasks": [
+    {
+      "id": "P1-18-FEATURES",
+      "pupil_pages": {
+        "textbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "Following straight boundary segment reaches a corner where two straight sides meet. A square-card corner fits a right angle. Square:4equal straight sides/4right angles. Non-square rectangle:4right angles, opposite sides equal, adjacent lengths unequal. Circle:curved boundary with0straight sides/0corners. Safe picture work does not prove card handling.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "Actual left-to-right square,non-square rectangle,circle. Label matches1,2,3 in that model. Both quadrilaterals have4right angles/opposite equal sides; square additionally4equal sides. Square is a rectangle. Examples tile face/book-cover face/lid outline, approximate real geometry.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-GUIDED",
+      "pupil_pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Actual shapes circle,square,non-square rectangle; displayed labels rectangle,circle,square. Match shape1->label2,shape2->label3,shape3->label1. Recognition by named pointing separate from naming/matching. Shared4square corners; differing equal-all versus unequal-neighbouring sides. Examples circle lid-outline/square tile-face/non-square book-cover.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-DRAW-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Actual completed figure is a non-square rectangle:4right angles,2equal long opposite sides,2equal short opposite sides. Drawing may be freehand recognizable; no artistic polish requirement. Own drawing response TB5->WB2/exercise book, sourceQ4TB7/WB3also directs2.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-PATTERN-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "Textbook six shapes:circle,square,circle,square,circle,square; repeat unit circle-square. Fifth shape after stated4is circle,nextsquare. Workbook completed alternate square-circle repeats3times and is covered before independent question. Turning a square leaves its features and pattern identity unchanged.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q1",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "0corners; continuous curved boundary.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q2",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "4equal straight sides. Also4right-angle corners, but number of sides requested is4.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q3",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "Circle, using explicitly taught repeating unit circle-square. This assumes the stated repeating pattern rather than an arbitrary finite-series continuation.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q4",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "I would draw a long rectangle, e.g.width twice height, with4right angles and opposite equal sides. Square alone does not satisfy non-square request; recognizable freehand approximation is appropriate.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q5",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "Front rectangular face of a book, or door face/box face. A correctly explained square tile face is also rectangular because square is special rectangle. Identify relevant flat face rather than treating the entire solid as a flat shape.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-Q6",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "Rotation preserves4equal sides and4right angles; size and shape unchanged. Position/orientation changes, name remains square.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "S016",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "Actual independent order non-square rectangle,circle,square. Spoken square->right,rectangle->left,circle->middle; a correctly explained square-as-rectangle is also valid before asking for most-specific name. Recognition after unaided names collected; labels still covered. Pictures do not demonstrate physical card handling.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "S017",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "Displayed labels square,rectangle,circle, while shapes left-to-right rectangle,circle,square. Matches: left->rectangle(label2),middle->circle(label3),right->square(label1). Read labels neutrally only after recognition; assess matching separately from reading; allow explained square-to-rectangle mathematically,then ask most-specific.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "S018",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "Both square and non-square rectangle have4sides/4right angles/equal opposite sides. Difference:all4sides equal in square; unequal neighbouring lengths in non-square rectangle. Turns do not change these properties. One correct likeness and one difference suffice.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "S019",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "Each required example: square tile face; non-square book cover; circular plate/lid outline. Alternatives square napkin face/door face/round mat outline valid if pupil identifies relevant part/features. Real objects approximate ideal figures; do not call whole sphere a circle.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-RECALL",
+      "pupil_pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "Recall square,rectangle,circle and feature-based name matching before help; shared4right angles versus all4equal sides/unequal adjacent lengths; household tile/book/lid parts for each; square keeps sides/corners under turn. Record own response before support,never infer mastery from having resources.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-HELP",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          23
+        ]
+      },
+      "independent_solution": "Supported square/non-square rectangle/circle naming,pointing and name matching; follow sides/check EVERY corner with safe undamaged square corner,compare lengths,follow curved circle with0corners; link tile-face/book-cover/lid-outline. Without cards only picture work; then close help for new recheck.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-RECHECK",
+      "pupil_pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          23
+        ]
+      },
+      "independent_solution": "Actual order square,circle,non-square rectangle; labels circle,square,rectangle. Matches2,1,3. Collect names then named pointing while strip hidden; reveal only for matching. Sharedrightangles,unequal adjacent rectangle versus equal square sides; examples tile,lid,book respectively. Independent neworder/turns,record support/resources.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-STORY",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          24
+        ]
+      },
+      "independent_solution": "Rectangular cover encloses6pieces circle-square repeated3times. Repeat unit circle-square; after4comescircle. Turned square still4equal sides/4right angles,so stays in square group/pattern. All4friends help choose/align/check the plan,not demonstrated real-world pupil success.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-FRESH",
+      "pupil_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          24
+        ]
+      },
+      "independent_solution": "Actual neworder circle,non-square rectangle,square; labels circle,square,rectangle. Matches1,3,2. Names first,hidden record,namedpointing,then labels for matching. Compare4right angles and equalall/unequaladjacent sides; examples lidoutline/bookcover/tileface. Correct alternative faces/outlines accepted.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    },
+    {
+      "id": "P1-18-DELAYED",
+      "pupil_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          11
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          25
+        ]
+      },
+      "independent_solution": "Actual order non-square rectangle,square,circle; labels circle,square,rectangle. Matches3,2,1. Anotherday before reteaching,new safe cards where possible; collect unaided names before namedpointing then labelmatching,compare features and give book/tile/lidparts. Future assessment opportunity,not claimed administered.",
+      "answer_correspondence": "pass after semantic comparison with exact printed task-specific answer and alternatives",
+      "instruction_status": "pass; required8page phrase correction independently rechecked after renewedfreeze"
+    }
+  ],
+  "mathematical_answers": "all correct; required instruction finding tracked separately"
+}

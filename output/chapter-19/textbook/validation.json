@@ -1,0 +1,391 @@
+{
+  "pages": 24,
+  "sha256": "f5c0eb6bd5097a7f6eaafcf050abafd6c93d97eab8bad95fd1a3b0f4a9d6c9e4",
+  "page_manifest": [
+    {
+      "slug": "data-textbook-1",
+      "kicker": "Find out about our class",
+      "title": "Trustworthy class records",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-2",
+      "kicker": "Find out about our class",
+      "title": "Ask, listen, then record",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-AGE-MODEL",
+        "P1-19-TABLE-MODEL"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-3",
+      "kicker": "Find out about our class",
+      "title": "Look, mark, compare, record",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-HEIGHT-MODEL"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-4",
+      "kicker": "Find out about our class",
+      "title": "Try together, check fairly",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-GUIDED"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-5",
+      "kicker": "Find out about our class",
+      "title": "Read the practice records",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-Q1",
+        "P1-19-Q2",
+        "P1-19-Q3",
+        "P1-19-Q4"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-6",
+      "kicker": "Find out about our class",
+      "title": "Tools and fair questions",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-Q5",
+        "P1-19-Q6"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-7",
+      "kicker": "Find out about our class",
+      "title": "Collect your own new records",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "S020",
+        "S021"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-8",
+      "kicker": "Find out about our class",
+      "title": "Remember before help",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-RECALL"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-9",
+      "kicker": "Find out about our class",
+      "title": "Help: one small record at a time",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-HELP"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-10",
+      "kicker": "Find out about our class",
+      "title": "A new try without help",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-RECHECK"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-11",
+      "kicker": "Find out about our class",
+      "title": "Our folder has checked records",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "stages": [
+        "S8"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-12",
+      "kicker": "Find out about our class",
+      "title": "Show learning afresh",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-13",
+      "kicker": "Find out about our class",
+      "title": "Remember on another day",
+      "subtitle": "Read together. Use the workbook or an exercise book.",
+      "task_ids": [
+        "P1-19-DELAYED"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-14",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-AGE-MODEL",
+        "P1-19-TABLE-MODEL"
+      ]
+    },
+    {
+      "slug": "data-textbook-15",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-HEIGHT-MODEL",
+        "P1-19-GUIDED"
+      ]
+    },
+    {
+      "slug": "data-textbook-16",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-Q1",
+        "P1-19-Q2"
+      ]
+    },
+    {
+      "slug": "data-textbook-17",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-Q3",
+        "P1-19-Q4"
+      ]
+    },
+    {
+      "slug": "data-textbook-18",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-Q5",
+        "P1-19-Q6"
+      ]
+    },
+    {
+      "slug": "data-textbook-19",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "S020",
+        "S021"
+      ]
+    },
+    {
+      "slug": "data-textbook-20",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-RECALL",
+        "P1-19-HELP"
+      ]
+    },
+    {
+      "slug": "data-textbook-21",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-RECHECK",
+        "P1-19-STORY"
+      ]
+    },
+    {
+      "slug": "data-textbook-22",
+      "kicker": "Find out about our class",
+      "title": "Answers and evidence",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": [
+        "P1-19-FRESH",
+        "P1-19-DELAYED"
+      ]
+    },
+    {
+      "slug": "data-textbook-23",
+      "kicker": "Find out about our class",
+      "title": "Teaching notes and honest records",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-textbook-24",
+      "kicker": "Find out about our class",
+      "title": "Words, sources and next steps",
+      "subtitle": "Adult guidance and answers",
+      "task_ids": [],
+      "stages": [],
+      "adult": true,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-19-AGE-MODEL": [
+      2
+    ],
+    "P1-19-TABLE-MODEL": [
+      2
+    ],
+    "P1-19-HEIGHT-MODEL": [
+      3
+    ],
+    "P1-19-GUIDED": [
+      4
+    ],
+    "P1-19-Q1": [
+      5
+    ],
+    "P1-19-Q2": [
+      5
+    ],
+    "P1-19-Q3": [
+      5
+    ],
+    "P1-19-Q4": [
+      5
+    ],
+    "P1-19-Q5": [
+      6
+    ],
+    "P1-19-Q6": [
+      6
+    ],
+    "S020": [
+      7
+    ],
+    "S021": [
+      7
+    ],
+    "P1-19-RECALL": [
+      8
+    ],
+    "P1-19-HELP": [
+      9
+    ],
+    "P1-19-RECHECK": [
+      10
+    ],
+    "P1-19-STORY": [
+      11
+    ],
+    "P1-19-FRESH": [
+      12
+    ],
+    "P1-19-DELAYED": [
+      13
+    ]
+  },
+  "objects": [],
+  "assets": {
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

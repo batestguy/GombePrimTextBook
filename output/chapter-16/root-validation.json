@@ -1,0 +1,42 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "114 ordered original prompt/answer pairs and 18 other complete lessons preserved",
+    "Generated lessons match all three canonical sources",
+    "All 169 protected hashes match, including 28 prior PDFs",
+    "All 21 historical generated backups restored byte for byte",
+    "All supplementary source fields/items unchanged",
+    "Other 47 chapter records unchanged; 15 review histories retained",
+    "Final frozen hashes and whitespace check pass"
+  ],
+  "require_reviewed": true,
+  "fingerprints": {
+    "P1-01": "fdb6821267f7c7e435eaf6825b29419ca111c1fdbaeb0aad46ca0b06bf93fca3",
+    "P1-02": "37b14a794eb7c7d5790586486c6e7504a5b2d4caa557ed81634c9ee3cbcafaf5",
+    "P1-03": "0343fa866920c74064ea006b3f2710bed70c822d1a86dbb0a2e0aee8f4096303",
+    "P1-04": "fdbc29b8d4be3b3693f28601b41c204b8dc4608993f17f642f03957794181d24",
+    "P1-05": "328382e186293c07ef80378e3e9d16ea9b9899a97650267b09729bbe2e9be3bd",
+    "P1-06": "fc5f8b295faee2475041d1166ec50dc3b47092bad5ffc2698234340a89f4cb33",
+    "P1-07": "1b758f7b29ffa5c0f8061e25dc3a7a7e390e1a4aabae9c2199168649e442637c",
+    "P1-08": "a3147984290a33c082a1893f7db2e2d91b589cb808cf39008065fe4f9c934b1c",
+    "P1-09": "2d037a9cb0fb75a50e9e0f7d504bb38be8bf30a6116e3ae7610cc0e6287856fb",
+    "P1-10": "beb672c19e30b78fe44e765866de856030f8919f0085e4ef3780f71ccbcd5ccf",
+    "P1-11": "de92b1b92f94c837f0e365c724c007801b44a05a173941d22ea1b1ab97275bc8",
+    "P1-12": "aef5aee3d2506fa9f91a07d168704ba402ab63d5a21df62d6350eac3b5d903d0",
+    "P1-13": "8896f70be86702f80e79c5256a2bdc7590264b434ec8e965d9026f41ee45e518",
+    "P1-14": "f99bae4a52a815dcb1a94ddcde551ada1f0661dcd10a0bc5724ede11f3592dcd",
+    "P1-15": "6bb30d5d188811ac442c1aad3e8ee59bc2cddeebee2291cca260a611debcc776",
+    "P1-16": "aec1060486a68e0f702e5fe37ea7217bf2c44e9d3b6b5ccd9928a711c6b12daa"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "sha256": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf",
+      "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+    }
+  },
+  "limits": "Continuation extracts; Practical comparisons require observed working-balance results; predictions may be wrong without invalidating correct observation. Annual assembly/current curriculum/adoption/local trials/physical print and printer approval pending."
+}

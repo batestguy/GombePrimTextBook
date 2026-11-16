@@ -1,0 +1,310 @@
+{
+  "coordinator": "/root",
+  "tasks": 18,
+  "objectives": 2,
+  "diagrams": [
+    {
+      "artifact": "textbook",
+      "page": 2,
+      "type": "table",
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "artifact": "textbook",
+      "page": 3,
+      "type": "height",
+      "marks": [
+        {
+          "label": "D",
+          "head_mark": 389.9999694824219,
+          "baseline": 555.0,
+          "actual_length": 165.00003051757812
+        },
+        {
+          "label": "E",
+          "head_mark": 434.9999694824219,
+          "baseline": 555.0,
+          "actual_length": 120.00003051757812
+        }
+      ],
+      "comparison": "first taller"
+    },
+    {
+      "artifact": "textbook",
+      "page": 4,
+      "type": "height",
+      "marks": [
+        {
+          "label": "F",
+          "head_mark": 464.9999694824219,
+          "baseline": 570.0,
+          "actual_length": 105.00003051757812
+        },
+        {
+          "label": "G",
+          "head_mark": 424.9999694824219,
+          "baseline": 570.0,
+          "actual_length": 145.00003051757812
+        }
+      ],
+      "comparison": "second taller"
+    },
+    {
+      "artifact": "textbook",
+      "page": 9,
+      "type": "height",
+      "marks": [
+        {
+          "label": "H",
+          "head_mark": 409.9999694824219,
+          "baseline": 535.0,
+          "actual_length": 125.00003051757812
+        },
+        {
+          "label": "J",
+          "head_mark": 409.9999694824219,
+          "baseline": 535.0,
+          "actual_length": 125.00003051757812
+        }
+      ],
+      "comparison": "equal"
+    },
+    {
+      "artifact": "textbook",
+      "page": 11,
+      "type": "table",
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "artifact": "workbook",
+      "page": 1,
+      "type": "height",
+      "marks": [
+        {
+          "label": "F",
+          "head_mark": 464.9999694824219,
+          "baseline": 570.0,
+          "actual_length": 105.00003051757812
+        },
+        {
+          "label": "G",
+          "head_mark": 424.9999694824219,
+          "baseline": 570.0,
+          "actual_length": 145.00003051757812
+        }
+      ],
+      "comparison": "second taller"
+    },
+    {
+      "artifact": "workbook",
+      "page": 2,
+      "type": "table",
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "A"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "6"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "B"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "7"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "text": "C"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "artifact": "workbook",
+      "page": 3,
+      "type": "table",
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "artifact": "workbook",
+      "page": 7,
+      "type": "height",
+      "marks": [
+        {
+          "label": "H",
+          "head_mark": 409.9999694824219,
+          "baseline": 535.0,
+          "actual_length": 125.00003051757812
+        },
+        {
+          "label": "J",
+          "head_mark": 409.9999694824219,
+          "baseline": 535.0,
+          "actual_length": 125.00003051757812
+        }
+      ],
+      "comparison": "equal"
+    },
+    {
+      "artifact": "workbook",
+      "page": 9,
+      "type": "table",
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "checks": [
+    "Every task-specific key present on mapped exact PDF answer pages",
+    "Both objectives have all eight progression-mode page maps",
+    "All table grid lines and every exact cell value independently checked",
+    "Actual head-circle bounds, head-level marks, strip endpoints and common baselines checked",
+    "Both taller directions and equal height represented without unintroduced units",
+    "Every page A4 and text within bounds; resource-conditional collection semantics reviewed separately"
+  ]
+}

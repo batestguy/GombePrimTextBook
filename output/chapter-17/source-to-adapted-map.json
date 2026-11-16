@@ -1,0 +1,130 @@
+[
+  {
+    "id": "P1-17-Q1",
+    "source_prompt": "What solid does a ball model?",
+    "source_answer": "sphere",
+    "adapted_task_id": "P1-17-Q1",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "adapted_answer": "Sphere: a ball curves all round and has no flat face.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "P1-17-Q2",
+    "source_prompt": "Which solid has six equal square faces?",
+    "source_answer": "cube",
+    "adapted_task_id": "P1-17-Q2",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "adapted_answer": "Cube: six equal square faces.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "P1-17-Q3",
+    "source_prompt": "What solid does a closed straight-sided tin model?",
+    "source_answer": "cylinder",
+    "adapted_task_id": "P1-17-Q3",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "adapted_answer": "Cylinder: two flat circular ends and a curved side.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "P1-17-Q4",
+    "source_prompt": "Draw a cuboid-shaped object.",
+    "source_answer": "Recognisable rectangular box.",
+    "adapted_task_id": "P1-17-Q4",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "adapted_answer": "A recognisable non-cube rectangular box, such as a long storage box; accept a correctly explained cube as a special cuboid. Artistic accuracy is not the objective.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "P1-17-Q5",
+    "source_prompt": "Sort a ball and box by smooth rolling.",
+    "source_answer": "Ball rolls smoothly; box does not.",
+    "adapted_task_id": "P1-17-Q5",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "adapted_answer": "For ideal models a ball rolls smoothly; a box does not roll smoothly, though it may slide or tumble. Record actual safe-object observations; a cylinder can also roll, so rolling alone cannot classify all four.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "P1-17-Q6",
+    "source_prompt": "Give a cube/non-cube cuboid difference.",
+    "source_answer": "Cube edges are all equal; the chosen non-cube cuboid has unequal adjacent edge lengths.",
+    "adapted_task_id": "P1-17-Q6",
+    "adapted_pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "adapted_answer": "All cube edges are equal. The chosen non-cube cuboid has unequal neighbouring edge lengths. A cube remains a special cuboid.",
+    "adaptation": "Original prompt preserved; task-specific explanation adds practical conditions/cube hierarchy where needed"
+  },
+  {
+    "id": "S014",
+    "source_prompt": "Sort teacher-provided models into cube, non-cube cuboid, cylinder and sphere groups. Explain one choice.",
+    "source_answer": "Each of four solids classified correctly from geometric features; a valid explanation.",
+    "adapted_task_id": "S014",
+    "adapted_pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "adapted_answer": "All four models placed in their most-specific groups: cube (six equal square faces); non-cube cuboid (matching opposite rectangular faces and unequal adjacent edges); cylinder (two circular ends and curved side); sphere (curved all round, no flat faces). Explain at least one placement. A cube correctly called a special cuboid is valid; request its most-specific group.",
+    "adaptation": "Neutral post-naming grouping/example instructions without visible answer labels; exact original retained here"
+  },
+  {
+    "id": "S015",
+    "source_prompt": "Name or point to a familiar example of a cube, a non-cube cuboid, a cylinder and a sphere.",
+    "source_answer": "Suitable examples for all four, such as dice, rectangular box, straight-sided closed tin and ball.",
+    "adapted_task_id": "S015",
+    "adapted_pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "adapted_answer": "Give a suitable example for EACH: large cube block; long rectangular storage box; closed straight-sided container; ball. Explain equal square faces, rectangular box features, circular ends with curved side, and all-round curve respectively. Accept any sound alternatives. Real objects approximate solids.",
+    "adaptation": "Neutral post-naming grouping/example instructions without visible answer labels; exact original retained here"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "severity": "required",
+    "reference": "Textbook8,11,13,14; workbook5,8,10,11: naming instruction before P1-18 S016-S019/RECHECK/FRESH/DELAYED",
+    "correction": "Replace 'keep pictures visible until NOW' with 'keep the pictures visible'. Keep the name strip covered throughout unaided naming and spoken-name pointing; reveal only for label matching.",
+    "impact": "The literal temporal endpoint contradicts the immediately following picture-naming action; eliminate ambiguity in assessment setup.",
+    "resolved": true,
+    "recheck": "Root renewedfreeze1bad62b1...ecd71; independently reproduced firstfreeze canonical/generated hashes by reversing only8phrase replacements; rebuilt own rasters and personally reopened textbook8/11/13/14 and workbook5/8/10/11. Correct keep the pictures visible; strip covered through named-pointing and revealed only for matching. Other30pages hash-identical to own inspected pages; no layout regressions."
+  }
+]

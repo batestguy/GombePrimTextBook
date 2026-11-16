@@ -1,0 +1,43 @@
+{
+  "coordinator": "/root",
+  "checks": [
+    "114 ordered original prompt/answer pairs and 18 other complete lessons preserved",
+    "Generated lessons match all three canonical sources",
+    "All 172 protected hashes match, including 30 prior PDFs",
+    "All 21 historical generated backups restored byte for byte",
+    "All supplementary source fields/items unchanged",
+    "Other 46 chapter records unchanged; 16 review histories retained",
+    "Final frozen hashes and whitespace check pass"
+  ],
+  "require_reviewed": true,
+  "fingerprints": {
+    "P1-01": "0f37977798fd1c2e4acf1cc6192530750e2793953b2a6f9a0693533f814d7400",
+    "P1-02": "8eb9c39747b6f4747a572b525f61f4af09de87c3b6993372b49bb1baa731adce",
+    "P1-03": "8f494632872d6d1c4269c002286e043548cc4e2c4bb50fdba87893c0872d01e0",
+    "P1-04": "9a3693a622425794aa616818f4fd0ac8b87427ec66efa538c57b27e85adea0a1",
+    "P1-05": "4cbee7b526f5d03db1b8dc08530d1c3c6b4d9d39e2d8961a373ecd9fabef7a6f",
+    "P1-06": "f1c7099a5b750a0cb24342879d548c3fb9ea634aed42f655fda052a47a76987a",
+    "P1-07": "bb3153e6b3c67aa898192dbfa2864c65e5bd5fbdc39dbd8142d6ca42734fea6f",
+    "P1-08": "275961781f568059477d26747b2ef1eb580b7f6d3c6838980e6e581400342d88",
+    "P1-09": "35f3383b84ca51d50a22ebae327ce777bb6c595b32cda9a64a334451e90dd189",
+    "P1-10": "f0c30af215a8cdbbfc485f6fb4853a07fd420148ab5781f8a4c1a670897d7df4",
+    "P1-11": "16594b55bf5e050b7e856b5a0631d41cd7047fe4239a41d0c6b56273378b828f",
+    "P1-12": "2a329136b884aaac8078358366ae65deea0d94ecdb58573713d516f2efe2349c",
+    "P1-13": "c6068fdaa6f44658f13527c7d07232596d4b7e8f051ef86534611c7e765a3417",
+    "P1-14": "3dadefa3a269dfeacd8a46d827927a0e39ef7abfcd855ea15ae69565d69e39ec",
+    "P1-15": "57e62bde39aed3cb0dcf621654d807f044b9449c8870731e68afe5e4053b82ed",
+    "P1-16": "c6eea1e008222eedf21cfd34f1c047eccc1e17b88c964476b756eca6da010ed8",
+    "P1-17": "e4adf76a958ad5d8c4f1402c7828af8216b438df6bdd2e2ab7f4fe70ecbea67b"
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "sha256": "d402bc10b441335330b17407a5285c09a599894451df7562301c125fc3117c21"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf",
+      "sha256": "1ea5e347f1b20bfba20e17bdf8a5ed3a77d4c7861aa9f851dacebb743b24fe37"
+    }
+  },
+  "limits": "Continuation extracts; Solid-model handling is resource-conditional; naming and recognition are separate; cube is a special cuboid. Annual assembly/current curriculum/adoption/local trials/physical print and printer approval pending."
+}

@@ -1,0 +1,2790 @@
+{
+  "reviewer": "/root/chapter14_review",
+  "freeze": {
+    "author": "/root/chapter16_author",
+    "status": "frozen_for_independent_review",
+    "fingerprint": "aec1060486a68e0f702e5fe37ea7217bf2c44e9d3b6b5ccd9928a711c6b12daa",
+    "hashes": {
+      "production/p1.json": "3a5a3ff75f8f82b458824dbed71b11ebf686724d271c779c6e0d4f5c3073e9c8",
+      "production/lessons.json": "5f0546efb9e11f87998f87151db435f32a244e3c7a02f49b65d7371186f44dad",
+      "scripts/build_chapter_sixteen.py": "009369b44f60e5f35ba6ed642665007b1c24c6fe735925d591dc6e7b300118f2",
+      "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529",
+      "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+    },
+    "artifacts": {
+      "textbook": {
+        "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+        "sha256": "93ceae1a92dc5f6a3a9e6b0c270145833b042431e282b36af5a6cb7d07826529"
+      },
+      "workbook": {
+        "path": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf",
+        "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+      }
+    }
+  },
+  "all_hashes_match": true,
+  "pages": 31,
+  "shapes": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        475,
+        435,
+        425
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        295,
+        450,
+        295,
+        582
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        265,
+        582,
+        325,
+        582
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        475,
+        100,
+        550
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        475,
+        210,
+        550
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        100,
+        550,
+        210,
+        550
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        435,
+        425,
+        380,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        435,
+        425,
+        490,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        380,
+        500,
+        490,
+        500
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        435,
+        365
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        295,
+        340,
+        295,
+        472
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        265,
+        472,
+        325,
+        472
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        100,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        210,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        100,
+        390,
+        210,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        435,
+        365,
+        380,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        435,
+        365,
+        490,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        380,
+        440,
+        490,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        320,
+        435,
+        320
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        295,
+        320,
+        295,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        265,
+        452,
+        325,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        320,
+        100,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        320,
+        210,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        100,
+        395,
+        210,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        435,
+        320,
+        380,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        435,
+        320,
+        490,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        380,
+        395,
+        490,
+        395
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "type": "ellipse",
+      "rect": [
+        245,
+        300,
+        345,
+        365
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        253,
+        356,
+        335,
+        307
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        435,
+        275
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        295,
+        300,
+        295,
+        432
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        265,
+        432,
+        325,
+        432
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        100,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        210,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        100,
+        400,
+        210,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        435,
+        275,
+        380,
+        350
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        435,
+        275,
+        490,
+        350
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "type": "line",
+      "endpoints": [
+        380,
+        350,
+        490,
+        350
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        435,
+        365
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        295,
+        340,
+        295,
+        472
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        265,
+        472,
+        325,
+        472
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        100,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        315,
+        210,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        100,
+        390,
+        210,
+        390
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        435,
+        365,
+        380,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        435,
+        365,
+        490,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        380,
+        440,
+        490,
+        440
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        155,
+        375,
+        435,
+        325
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        295,
+        350,
+        295,
+        482
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        265,
+        482,
+        325,
+        482
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        155,
+        375,
+        100,
+        450
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        155,
+        375,
+        210,
+        450
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        100,
+        450,
+        210,
+        450
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        435,
+        325,
+        380,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        435,
+        325,
+        490,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "type": "line",
+      "endpoints": [
+        380,
+        400,
+        490,
+        400
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        435,
+        295
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        295,
+        320,
+        295,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        265,
+        452,
+        325,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        100,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        210,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        100,
+        420,
+        210,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        435,
+        295,
+        380,
+        370
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        435,
+        295,
+        490,
+        370
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        380,
+        370,
+        490,
+        370
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        155,
+        355,
+        435,
+        305
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        295,
+        330,
+        295,
+        462
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        265,
+        462,
+        325,
+        462
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        155,
+        355,
+        100,
+        430
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        155,
+        355,
+        210,
+        430
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        100,
+        430,
+        210,
+        430
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        435,
+        305,
+        380,
+        380
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        435,
+        305,
+        490,
+        380
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "line",
+      "endpoints": [
+        380,
+        380,
+        490,
+        380
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        435,
+        295
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        295,
+        320,
+        295,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        265,
+        452,
+        325,
+        452
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        100,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        155,
+        345,
+        210,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        100,
+        420,
+        210,
+        420
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        435,
+        295,
+        380,
+        370
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        435,
+        295,
+        490,
+        370
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "type": "line",
+      "endpoints": [
+        380,
+        370,
+        490,
+        370
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        275,
+        435,
+        325
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        295,
+        300,
+        295,
+        432
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        265,
+        432,
+        325,
+        432
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        275,
+        100,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        155,
+        275,
+        210,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        100,
+        350,
+        210,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        435,
+        325,
+        380,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        435,
+        325,
+        490,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "line",
+      "endpoints": [
+        380,
+        400,
+        490,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38,
+        500,
+        557,
+        580
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "rect": [
+        38,
+        700,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        435,
+        290
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        295,
+        290,
+        295,
+        422
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        265,
+        422,
+        325,
+        422
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        100,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        210,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        100,
+        365,
+        210,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        435,
+        290,
+        380,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        435,
+        290,
+        490,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "line",
+      "endpoints": [
+        380,
+        365,
+        490,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "rect": [
+        38,
+        580,
+        557,
+        730
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        435,
+        240
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        295,
+        265,
+        295,
+        397
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        265,
+        397,
+        325,
+        397
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        100,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        155,
+        290,
+        210,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        100,
+        365,
+        210,
+        365
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        435,
+        240,
+        380,
+        315
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        435,
+        240,
+        490,
+        315
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        380,
+        315,
+        490,
+        315
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        38,
+        500,
+        557,
+        565
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "ellipse",
+      "rect": [
+        70,
+        620,
+        140,
+        665
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "line",
+      "endpoints": [
+        75,
+        661,
+        135,
+        625
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "rect": [
+        230,
+        625,
+        550,
+        770
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        155,
+        305,
+        435,
+        355
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        295,
+        330,
+        295,
+        462
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        265,
+        462,
+        325,
+        462
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        155,
+        305,
+        100,
+        380
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        155,
+        305,
+        210,
+        380
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        100,
+        380,
+        210,
+        380
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        435,
+        355,
+        380,
+        430
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        435,
+        355,
+        490,
+        430
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "line",
+      "endpoints": [
+        380,
+        430,
+        490,
+        430
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "box",
+      "rect": [
+        38,
+        565,
+        557,
+        745
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        405,
+        557,
+        450
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        495,
+        557,
+        540
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        585,
+        557,
+        630
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        675,
+        557,
+        735
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "rect": [
+        38,
+        762,
+        557,
+        784
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        335,
+        435,
+        285
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        295,
+        310,
+        295,
+        442
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        265,
+        442,
+        325,
+        442
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        335,
+        100,
+        410
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        155,
+        335,
+        210,
+        410
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        100,
+        410,
+        210,
+        410
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        435,
+        285,
+        380,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        435,
+        285,
+        490,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "line",
+      "endpoints": [
+        380,
+        360,
+        490,
+        360
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "box",
+      "rect": [
+        38,
+        620,
+        557,
+        760
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "type": "box",
+      "rect": [
+        38,
+        410,
+        557,
+        620
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "type": "box",
+      "rect": [
+        38,
+        690,
+        557,
+        760
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38,
+        405,
+        557,
+        450
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38,
+        495,
+        557,
+        540
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38,
+        585,
+        557,
+        630
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38,
+        675,
+        557,
+        735
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "rect": [
+        38,
+        762,
+        557,
+        784
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        435,
+        275
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        295,
+        300,
+        295,
+        432
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        265,
+        432,
+        325,
+        432
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        100,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        155,
+        325,
+        210,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        100,
+        400,
+        210,
+        400
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        435,
+        275,
+        380,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        435,
+        275,
+        490,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "line",
+      "endpoints": [
+        380,
+        350,
+        490,
+        350
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "box",
+      "rect": [
+        38,
+        510,
+        557,
+        690
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        405,
+        557,
+        450
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        495,
+        557,
+        540
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        585,
+        557,
+        630
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        675,
+        557,
+        735
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "rect": [
+        38,
+        762,
+        557,
+        784
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "type": "box",
+      "rect": [
+        38,
+        405,
+        557,
+        450
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "type": "box",
+      "rect": [
+        38,
+        495,
+        557,
+        540
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "type": "box",
+      "rect": [
+        38,
+        585,
+        557,
+        630
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "type": "box",
+      "rect": [
+        38,
+        675,
+        557,
+        735
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "type": "box",
+      "rect": [
+        38,
+        762,
+        557,
+        784
+      ]
+    }
+  ],
+  "unique_balance_instances": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "beam": [
+        155,
+        475,
+        435,
+        425
+      ],
+      "pivot": [
+        295,
+        450
+      ],
+      "left_pan": [
+        100,
+        550,
+        210,
+        550
+      ],
+      "right_pan": [
+        380,
+        500,
+        490,
+        500
+      ],
+      "actual_labels": [
+        "stone",
+        "leaf"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "beam": [
+        155,
+        315,
+        435,
+        365
+      ],
+      "pivot": [
+        295,
+        340
+      ],
+      "left_pan": [
+        100,
+        390,
+        210,
+        390
+      ],
+      "right_pan": [
+        380,
+        440,
+        490,
+        440
+      ],
+      "actual_labels": [
+        "leaf",
+        "stone"
+      ],
+      "lower_pan": "right",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "beam": [
+        155,
+        320,
+        435,
+        320
+      ],
+      "pivot": [
+        295,
+        320
+      ],
+      "left_pan": [
+        100,
+        395,
+        210,
+        395
+      ],
+      "right_pan": [
+        380,
+        395,
+        490,
+        395
+      ],
+      "actual_labels": [
+        "load Green",
+        "load Gold"
+      ],
+      "lower_pan": "neither",
+      "heavier_label": "equal loads",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "beam": [
+        155,
+        325,
+        435,
+        275
+      ],
+      "pivot": [
+        295,
+        300
+      ],
+      "left_pan": [
+        100,
+        400,
+        210,
+        400
+      ],
+      "right_pan": [
+        380,
+        350,
+        490,
+        350
+      ],
+      "actual_labels": [
+        "stone",
+        "leaf"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "beam": [
+        155,
+        315,
+        435,
+        365
+      ],
+      "pivot": [
+        295,
+        340
+      ],
+      "left_pan": [
+        100,
+        390,
+        210,
+        390
+      ],
+      "right_pan": [
+        380,
+        440,
+        490,
+        440
+      ],
+      "actual_labels": [
+        "A",
+        "B"
+      ],
+      "lower_pan": "right",
+      "heavier_label": "B",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "beam": [
+        155,
+        375,
+        435,
+        325
+      ],
+      "pivot": [
+        295,
+        350
+      ],
+      "left_pan": [
+        100,
+        450,
+        210,
+        450
+      ],
+      "right_pan": [
+        380,
+        400,
+        490,
+        400
+      ],
+      "actual_labels": [
+        "small stone",
+        "larger empty box"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "small stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "beam": [
+        155,
+        345,
+        435,
+        295
+      ],
+      "pivot": [
+        295,
+        320
+      ],
+      "left_pan": [
+        100,
+        420,
+        210,
+        420
+      ],
+      "right_pan": [
+        380,
+        370,
+        490,
+        370
+      ],
+      "actual_labels": [
+        "stone",
+        "leaf"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "beam": [
+        155,
+        355,
+        435,
+        305
+      ],
+      "pivot": [
+        295,
+        330
+      ],
+      "left_pan": [
+        100,
+        430,
+        210,
+        430
+      ],
+      "right_pan": [
+        380,
+        380,
+        490,
+        380
+      ],
+      "actual_labels": [
+        "parcel Blue",
+        "parcel Red"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "parcel Blue",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "beam": [
+        155,
+        345,
+        435,
+        295
+      ],
+      "pivot": [
+        295,
+        320
+      ],
+      "left_pan": [
+        100,
+        420,
+        210,
+        420
+      ],
+      "right_pan": [
+        380,
+        370,
+        490,
+        370
+      ],
+      "actual_labels": [
+        "C",
+        "D"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "C",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "beam": [
+        155,
+        275,
+        435,
+        325
+      ],
+      "pivot": [
+        295,
+        300
+      ],
+      "left_pan": [
+        100,
+        350,
+        210,
+        350
+      ],
+      "right_pan": [
+        380,
+        400,
+        490,
+        400
+      ],
+      "actual_labels": [
+        "leaf",
+        "stone"
+      ],
+      "lower_pan": "right",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "beam": [
+        155,
+        290,
+        435,
+        290
+      ],
+      "pivot": [
+        295,
+        290
+      ],
+      "left_pan": [
+        100,
+        365,
+        210,
+        365
+      ],
+      "right_pan": [
+        380,
+        365,
+        490,
+        365
+      ],
+      "actual_labels": [
+        "load Green",
+        "load Gold"
+      ],
+      "lower_pan": "neither",
+      "heavier_label": "equal loads",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "beam": [
+        155,
+        290,
+        435,
+        240
+      ],
+      "pivot": [
+        295,
+        265
+      ],
+      "left_pan": [
+        100,
+        365,
+        210,
+        365
+      ],
+      "right_pan": [
+        380,
+        315,
+        490,
+        315
+      ],
+      "actual_labels": [
+        "stone",
+        "leaf"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "beam": [
+        155,
+        305,
+        435,
+        355
+      ],
+      "pivot": [
+        295,
+        330
+      ],
+      "left_pan": [
+        100,
+        380,
+        210,
+        380
+      ],
+      "right_pan": [
+        380,
+        430,
+        490,
+        430
+      ],
+      "actual_labels": [
+        "A",
+        "B"
+      ],
+      "lower_pan": "right",
+      "heavier_label": "B",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "beam": [
+        155,
+        335,
+        435,
+        285
+      ],
+      "pivot": [
+        295,
+        310
+      ],
+      "left_pan": [
+        100,
+        410,
+        210,
+        410
+      ],
+      "right_pan": [
+        380,
+        360,
+        490,
+        360
+      ],
+      "actual_labels": [
+        "small stone",
+        "larger empty box"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "small stone",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "beam": [
+        155,
+        325,
+        435,
+        275
+      ],
+      "pivot": [
+        295,
+        300
+      ],
+      "left_pan": [
+        100,
+        400,
+        210,
+        400
+      ],
+      "right_pan": [
+        380,
+        350,
+        490,
+        350
+      ],
+      "actual_labels": [
+        "C",
+        "D"
+      ],
+      "lower_pan": "left",
+      "heavier_label": "C",
+      "equal_beam_arms": true,
+      "equal_suspension_drop": 75
+    }
+  ],
+  "tasks": [
+    {
+      "id": "P1-16-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Watch a prediction tested on a working balance.",
+      "answer": "In this story the stone pan settles lower: stone heavier, leaf lighter. Prediction precedes testing; record the observed result.",
+      "pupil_pages": {
+        "textbook": [
+          2
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-GUIDED",
+      "mode": "guided",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Interpret the swapped example and test a new pair together.",
+      "answer": "After swapping sides the stone is on the right and lower. Stone remains heavier; side does not set weight. For the new pair accept only the actual settled result, including equal.",
+      "pupil_pages": {
+        "textbook": [
+          3
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-EQUAL",
+      "mode": "guided",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Read the level balance.",
+      "answer": "The two loads have equal weight on a correctly working balance that has settled level.",
+      "pupil_pages": {
+        "textbook": [
+          4
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-DRAW-MODEL",
+      "mode": "model",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Watch a completed leaf drawing.",
+      "answer": "The outline and middle line make a recognisable leaf, a safe light drawing example; adult approves actual objects.",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-INTERPRET",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Read the new A and B balance.",
+      "answer": "B is heavier than A; A is lighter than B because B pan is lower.",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-RECALL",
+      "mode": "recall",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Before opening help, explain how to compare safely and what lower means.",
+      "answer": "Adult checks empty pans level and move freely; predict, place one safe light object on each pan, release, wait to settle, observe. Lower load is heavier; higher lighter; level at rest means equal on a working balance.",
+      "pupil_pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-HELP",
+      "mode": "help",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Use the smaller step with an adult, then cover help.",
+      "answer": "Point to the lower stone pan, then the higher leaf pan. Stone heavier, leaf lighter in this model. Adult reteaches one object on each pan and waiting.",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-RECHECK",
+      "mode": "recheck",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Compare a new safe pair without answer help after support.",
+      "answer": "Use the actual observation, not object names. Accept heavier/lighter/equal with correct pan explanation; no functioning balance means practical comparison not assessed.",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-STORY",
+      "mode": "guided",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Choose the lighter parcel in the observed story result.",
+      "answer": "Choose parcel Red. The lower Blue pan shows Blue heavier and Red lighter; the children used the balance instead of size.",
+      "pupil_pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": []
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-FRESH",
+      "mode": "fresh",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Read a fresh balance and compare a genuinely new safe pair.",
+      "answer": "C is heavier than D because C pan is lower. Actual new-pair result is conditional: accept accurate heavier/lighter/equal observation even after a mistaken prediction.",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          10,
+          11
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-DELAYED",
+      "mode": "delayed",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "After two or three school days compare another new safe pair and explain size.",
+      "answer": "Accept actual settled result and pan explanation; predict before testing. Bigger does not always mean heavier; explain using a tested counterexample or the explicitly observed story example. Record support; no balance means practical comparison not assessed.",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          12
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q1",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Which is heavier in the example?",
+      "answer": "stone; in this given story the stone pan is lower.",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q2",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Which is lighter in the example?",
+      "answer": "leaf; in this given story the leaf pan is higher.",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q3",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Draw a safe light object.",
+      "answer": "Accept a recognisable safe light object, such as the completed leaf model. Drawing quality is not the weight objective.",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q4",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "A balance is level. What can this show?",
+      "answer": "Equal weight on its pans, if the empty pans were level, move freely and have settled at rest.",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q5",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Compare two safe objects and record a result.",
+      "answer": "Accept the actual observation with access support only: left heavier, right heavier, or equal. Prediction may be wrong. Require a safe working-balance comparison and matching record. Record teaching or answer help as assisted, not independent. No balance: not assessed practically.",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ],
+        "workbook": []
+      }
+    },
+    {
+      "id": "P1-16-Q6",
+      "mode": "independent",
+      "objectives": [
+        "P1-p10-03"
+      ],
+      "prompt": "Does bigger always mean heavier? Explain.",
+      "answer": "No. In the stated observed story a large empty box is lighter than a small smooth stone. Actual objects must be tested; size or names alone cannot prove a result.",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ],
+        "workbook": []
+      }
+    }
+  ],
+  "seven_modes": true,
+  "six_original_correspondences": true
+}

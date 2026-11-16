@@ -1,0 +1,30 @@
+{
+  "author": "/root/chapter17_author",
+  "status": "frozen_for_independent_review_not_approved",
+  "fingerprint": "e4adf76a958ad5d8c4f1402c7828af8216b438df6bdd2e2ab7f4fe70ecbea67b",
+  "hashes": {
+    "production/p1.json": "f306d02bc082e705cb3da6aab12501cd52747a2058cfeb3253ce4e00baba7b6d",
+    "production/lessons.json": "d7db2c138ff528ebab3ebabce2785bbe5662e04f8d686a889c6a00d2631566bc",
+    "scripts/build_chapter_seventeen.py": "d423883f4b7b9350d3f4aeafabde59530f26bc77d193ad24889d57c81e2dd664",
+    "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf": "d402bc10b441335330b17407a5285c09a599894451df7562301c125fc3117c21",
+    "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf": "1ea5e347f1b20bfba20e17bdf8a5ed3a77d4c7861aa9f851dacebb743b24fe37"
+  },
+  "pages": {
+    "textbook": 26,
+    "workbook": 10
+  },
+  "tasks": 19,
+  "solid_occurrences": 64,
+  "author_page_inspection": 36,
+  "protected_hashes": 172,
+  "prior_pdfs": 30,
+  "source_pairs": 114,
+  "other_lessons_preserved": 18,
+  "historical_files_restored_exact": 21,
+  "checks": {
+    "preflight": "passed after final source/PDF/restoration",
+    "draft_fingerprint_gate": "passed",
+    "strict_reviewed_gate": "expected failure: P1-17 independent review pending",
+    "generated_lesson": "P1-17 exactly matches canonical final lesson"
+  }
+}

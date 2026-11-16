@@ -1,0 +1,130 @@
+[
+  {
+    "source": {
+      "id": "P1-19-Q1",
+      "source_prompt": "How old is practice pupil B?",
+      "source_answer": "7 years"
+    },
+    "adapted": {
+      "id": "P1-19-Q1",
+      "mode": "independent",
+      "prompt": "How old is practice pupil B?",
+      "answer": "Practice B is 7 years old. This reads a supplied fictional record; it does not assess interviewing.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-19-Q2",
+      "source_prompt": "How many practice pupils are 6?",
+      "source_answer": "2"
+    },
+    "adapted": {
+      "id": "P1-19-Q2",
+      "mode": "independent",
+      "prompt": "How many practice pupils are 6?",
+      "answer": "Two practice pupils are 6: A and C.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-19-Q3",
+      "source_prompt": "Order the practice ages from least.",
+      "source_answer": "6, 6, 7"
+    },
+    "adapted": {
+      "id": "P1-19-Q3",
+      "mode": "independent",
+      "prompt": "Order the practice ages from least.",
+      "answer": "Least-first ages are 6, 6, 7. Keep both 6s because two different people have that age.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-19-Q4",
+      "source_prompt": "Draw a pupil-letter/age table.",
+      "source_answer": "Two labelled columns."
+    },
+    "adapted": {
+      "id": "P1-19-Q4",
+      "mode": "independent",
+      "prompt": "Draw a pupil-letter/age table.",
+      "answer": "Two labelled columns, Person letter and Age in years, with three rows A/6, B/7, C/6 when recording the supplied practice data. Any clear equivalent table is valid. Drawing/copying this table is separate from collecting new replies.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-19-Q5",
+      "source_prompt": "Name a tool for comparing heights.",
+      "source_answer": "Marked paper strip or suitable measuring tape"
+    },
+    "adapted": {
+      "id": "P1-19-Q5",
+      "mode": "independent",
+      "prompt": "Name a tool for comparing heights.",
+      "answer": "A labelled paper strip marked at observed head-top level, with bottom on the common floor baseline. A suitable measuring tape is also a valid named tool, but naming a tool alone does not assess height collection.",
+      "objectives": [
+        "P1-p12-02"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-19-Q6",
+      "source_prompt": "Why ask everyone the same age question?",
+      "source_answer": "To compare answers about the same thing."
+    },
+    "adapted": {
+      "id": "P1-19-Q6",
+      "mode": "independent",
+      "prompt": "Why ask everyone the same age question?",
+      "answer": "The same completed-years question makes replies about the same age meaning, allowing comparison. Obtain willing replies and record accurately; next-birthday age asks something different.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S020",
+      "source_prompt": "With consent, ask two willing people their ages in completed years and record letter labels and ages. One may be at home and one at school. If participation is declined, interview a teacher role-playing two people.",
+      "source_answer": "Two consistently asked age questions and accurate letter-labelled records; no names required."
+    },
+    "adapted": {
+      "id": "S020",
+      "mode": "independent",
+      "prompt": "With consent, ask two willing people their ages in completed years and record letter labels and ages. One may be at home and one at school. If participation is declined, interview a teacher role-playing two people.",
+      "answer": "Collect two new willing replies: ask permission, ask each the same completed-years question, listen, record unique person letters and ages with units, then check each reply back. Private consenting actual people or an adult playing two different fictional people are valid; fictional replies supplied only after each question. Accurate conditional replies, not a fixed printed answer. Decline is accepted; never publish identifiable real ages. Score asking and recording separately from reading or table drawing.",
+      "objectives": [
+        "P1-p12-01"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S021",
+      "source_prompt": "With consent, compare two pupils' heights using marked paper strips, then record the strip labels and measurements or comparison results.",
+      "source_answer": "Consistent floor-to-head method; two correctly labelled observations recorded; no claim that taller means better."
+    },
+    "adapted": {
+      "id": "S021",
+      "mode": "independent",
+      "prompt": "With consent, compare two pupils' heights using marked paper strips, then record the strip labels and measurements or comparison results.",
+      "answer": "With adult-approved full-size paper silhouettes, collect two NEW head-top observations: each labelled blank strip starts at the same floor baseline as that upright stand-in; mark each head level using the same method; align strip bottoms; compare and record both labels and taller/shorter/equal relationship. Real willing pupils require a safe consistent posture; do not compare sitting and standing stature or require John to stand. Accessible stand-ins are valid simulated collection, not actual child measurements. No resources means practical collection not assessed; picture interpretation alone is insufficient.",
+      "objectives": [
+        "P1-p12-02"
+      ]
+    }
+  }
+]

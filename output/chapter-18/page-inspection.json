@@ -1,0 +1,344 @@
+[
+  {
+    "role": "textbook",
+    "page": 1,
+    "image": "output/chapter-18/textbook/page-01.png",
+    "sha256": "b008f7fafa42bbb64f9107b1201574bbc097d5538a8d33f73cf0c2991a68fc74",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Mr Aliyu cap/native clothing at board; four seated children face him; topic hint legible; established clothing and chair visible.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 2,
+    "image": "output/chapter-18/textbook/page-02.png",
+    "sha256": "06b7d5fa11b276d823ed0dbd4167d1603e985b8d360e6bafb9e3801c21a5024c",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Straight side/corner/right-angle prerequisite, distinct rotated rectangle and circle; no clipping.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 3,
+    "image": "output/chapter-18/textbook/page-03.png",
+    "sha256": "62bd99eda5ffd7e5ec6f282f1dbda8c64a86ca81775564289f3acffca9a1ef0b",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Model matches three labels correctly; rotated square remains square; all-three face/outline examples explicit.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 4,
+    "image": "output/chapter-18/textbook/page-04.png",
+    "sha256": "86b69b2b3972262736dc842dd118b85f6d83a8684b4909bdd23df8a41aa80e89",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Guided retry assigned Aishatu; all four purposeful roles; separated name labels and workbook1 link.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 5,
+    "image": "output/chapter-18/textbook/page-05.png",
+    "sha256": "d24898fd1197dc863534f8dfb90c8f50e54186e10f8be867c7807e07eb18871f",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Completed rectangle precedes draw instruction; workbook2/exercise-book route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 6,
+    "image": "output/chapter-18/textbook/page-06.png",
+    "sha256": "6d1325e05b40f7e15594d1f5a4ce7f4295d1e01ab369fec1dda3338a63b90f15",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Six exact figures show three circle-square units; completed repeat described before task.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 7,
+    "image": "output/chapter-18/textbook/page-07.png",
+    "sha256": "99fb66dccf42fca40f317ed190961dc1a8bddf8a8c35b989e6055662b1971a4d",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "All six source tasks, explicit draw workbook2 and answer workbook3/4 routes; teaching pages closed.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 8,
+    "image": "output/chapter-18/textbook/page-08.png",
+    "sha256": "f55597baef90d6571dbb72c0b7d75cc4cb38e18d972fd84eedced1919a6969f0",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Same-page name strip explicitly covered before naming, record hidden before spoken pointing, labels uncovered afterward; independent all-three tasks. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 9,
+    "image": "output/chapter-18/textbook/page-09.png",
+    "sha256": "fe6e8c9c7f577584c03be85c07e36cefc28b73bc133fd706b76de973a58b4150",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Recall before help, no supplied list, all-three household examples.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 10,
+    "image": "output/chapter-18/textbook/page-10.png",
+    "sha256": "24e9707da521276c986bfbd5fa4c3dea60de56a1f8655c9893301b991a929e88",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Help all-three names/features/examples; square corner check concrete; new try correct textbook11/workbook8 route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 11,
+    "image": "output/chapter-18/textbook/page-11.png",
+    "sha256": "c39a12a90d93d84f899b80cc88a0151b92bbfbd20693b86c40cc946fb6abec98",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "New order square/circle/rectangle, changed turns; strip covered then uncovered, local independent matching/comparison/examples. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 12,
+    "image": "output/chapter-18/textbook/page-12.png",
+    "sha256": "4805d0f747cc67edb1e0d4a70e7f25d3c16959847976f1bdde7fe9e0b24ae9ab",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "All six border pieces within rectangular cover; all four contribute and return before fresh.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 13,
+    "image": "output/chapter-18/textbook/page-13.png",
+    "sha256": "a438b7a31ffdb7f875201c732deedd8d537afc82fab5038c152cf365cae0bdf8",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Fresh circle/rectangle/square new turns, safe staging and explicit matching strip procedure. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 14,
+    "image": "output/chapter-18/textbook/page-14.png",
+    "sha256": "63d1208a274f72e8eec07fb483d9798121e9745035bae417a2228f044178f384",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Delayed rectangle/square/circle new turns and other-day direction; workbook11 route. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 15,
+    "image": "output/chapter-18/textbook/page-15.png",
+    "sha256": "ce81aefa03e3e98fe77f79100fc8ffa7b2302bc35b278bf652ca674e814754e9",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Feature/model keys checked against exact diagrams.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 16,
+    "image": "output/chapter-18/textbook/page-16.png",
+    "sha256": "4210af9556376502d1045bb74a3a549c89235d0f618f15a85b8dd7f80f66f5f4",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Guided order circle/square/rectangle; drawing key correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 17,
+    "image": "output/chapter-18/textbook/page-17.png",
+    "sha256": "c01e0204e0b908d3f4c9822f0734130b03745c8e3f187dedc9d5c12a618a1635",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Both completed pattern orders checked; circle zero corners correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 18,
+    "image": "output/chapter-18/textbook/page-18.png",
+    "sha256": "c019efacfe7deb0a35dd41b8cb4494bbd305d3c6c6b89a796155285db8d9047b",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Square four sides; next circle after circle-square-circle-square.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 19,
+    "image": "output/chapter-18/textbook/page-19.png",
+    "sha256": "8f0c05be0b05ef6227012a5896f0075316fbe24d745663dc00f89f42fb38e7bd",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Non-square rectangle four right angles/opposite equality/adjacent inequality; rectangular-face alternatives include justified square.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 20,
+    "image": "output/chapter-18/textbook/page-20.png",
+    "sha256": "b1538a4a17d9b32b09cf47601c78b07ccfa4762e0a5801c8dfb3c58f3223b3a8",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Q6 invariants correct; recognition S016 separately scored.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 21,
+    "image": "output/chapter-18/textbook/page-21.png",
+    "sha256": "ecec43fdf42f0a3baaa13f70d08daec4db6686524d20357fdc50e07e55eddde6",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Matching order rectangle/circle/square and comparison all properties correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 22,
+    "image": "output/chapter-18/textbook/page-22.png",
+    "sha256": "90c0a7456cf782137146bb287404a852759075cc576d15101b549354780805d0",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Examples for EACH and recall full four-objective rubric.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 23,
+    "image": "output/chapter-18/textbook/page-23.png",
+    "sha256": "8fcf2afb36f37c425d9589ea6b19321178a18f2bb21afa1feef2aebd64e6b668",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Supported help and new square/circle/rectangle key correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 24,
+    "image": "output/chapter-18/textbook/page-24.png",
+    "sha256": "1dca5332a6951373cc1496d4ea08e4baa6d5013ff9d3704ee765b93f50cabccc",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Story repeat next circle; fresh order circle/rectangle/square key correct.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 25,
+    "image": "output/chapter-18/textbook/page-25.png",
+    "sha256": "ffda18deb4b9b66a196ed76983051daf77f65efe8950b10db9b5acd2bbca8219",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Delayed rectangle/square/circle key correct; supported vs independent recorded.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 26,
+    "image": "output/chapter-18/textbook/page-26.png",
+    "sha256": "856ebc94b790dcfe6f377d58b9b16df09b9fa2d993370d1c30ff33a6cbd0e555",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Neutral reading, plain sheet staging, reachable safe materials, conditional practical claims and support/recheck/delayed notes readable.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "textbook",
+    "page": 27,
+    "image": "output/chapter-18/textbook/page-27.png",
+    "sha256": "6395141a9df4b46a59fb06430920d4733dfd0f4e57c0d86c42ae2b26c092c403",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Glossary, historical four-objective mapping, artwork credits, Primary2 preview and honest limits readable.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 1,
+    "image": "output/chapter-18/workbook/page-01.png",
+    "sha256": "dfb43d378a74cab1e83d1a91a34afefa9101229693bcd9c6278e92c0fced1fb2",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Guided set circle/square/rectangle, name matching labels separate and generous response box.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 2,
+    "image": "output/chapter-18/workbook/page-02.png",
+    "sha256": "b2bedc6df00027390b24c9bad9a8ce1a82c6a66e0988f05583b322f119349e75",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Completed rectangle drawing precedes local drawing; large drawing space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 3,
+    "image": "output/chapter-18/workbook/page-03.png",
+    "sha256": "13e838483cc48c45e8942868c6ced9d85fd63dbb685796432d81098d7060b3cf",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Completed alternate square-circle pattern before original independent circle-square question, cover example; three response boxes and draw2 link.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 4,
+    "image": "output/chapter-18/workbook/page-04.png",
+    "sha256": "ae15c46be58c1abfab157ceaa2d9683c49cb827c4d5a55f9ed332777b9260a7f",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Rectangular face and square-turn invariants with two generous writing spaces.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 5,
+    "image": "output/chapter-18/workbook/page-05.png",
+    "sha256": "3b3ffcc46de9c66d5aa20122d287e3aeb7eb5a11fb45adc78ff736a0f60172a0",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Independent rectangle/circle/square; cover strip with plain sheet, names first/pointing next/matching last; response space. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 6,
+    "image": "output/chapter-18/workbook/page-06.png",
+    "sha256": "4e2adab2a5a41eb8ea33f1bd8fa9efc24926d3ad67082177f3290485cfbab3e1",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Recall before help with large response space.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 7,
+    "image": "output/chapter-18/workbook/page-07.png",
+    "sha256": "bf07172967b135cfc3e1c7a993d13834310fd3bcd525ae30c9dbb22b8edb33dd",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Concrete smaller-step all-three help; new page8 route.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 8,
+    "image": "output/chapter-18/workbook/page-08.png",
+    "sha256": "bd6e8a686ca0926db76ccea49574e97ef37d8322e85bf73a0cd6808709b103c0",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "New square/circle/rectangle rotated set and matching labels; response space clear. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 9,
+    "image": "output/chapter-18/workbook/page-09.png",
+    "sha256": "693edc265ce0bf0e87c0e4e75d717601b0550e6741f6b37438734eaa5a467ff3",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Six border shapes inside cover; story closure precedes fresh; response box.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 10,
+    "image": "output/chapter-18/workbook/page-10.png",
+    "sha256": "a01c244ed39c7e6738877a59fd3d0ceaabe33fccbb95dea59c43acd354117285",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Fresh circle/rectangle/square; staged strip procedure and space. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  },
+  {
+    "role": "workbook",
+    "page": 11,
+    "image": "output/chapter-18/workbook/page-11.png",
+    "sha256": "180ea6a3a0c683f7bf03767818cc3c3f596ca87f9fb5f834cde6d53572af1e26",
+    "method": "Individual full-page image viewed with view_image; no contact sheet",
+    "observation": "Delayed rectangle/square/circle; another-day instruction and space. Independent-review correction: now says keep the pictures visible; naming and named-pointing occur with name strip covered; NOW uncovers only for matching. Reopened exact final full-page image; readable, no overlap.",
+    "result": "pass_author_inspection_not_independent_approval"
+  }
+]

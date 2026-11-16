@@ -1,5 +1,24 @@
 # Primary 1: full-year production plan
 
+Latest implementation checkpoint, **16 November 2026**: all 19 existing Primary 1
+topic chapters have current independent approvals for their exact textbook/workbook
+pairs. Chapter 19, Find out about our class (Mrs Binta), has 24 textbook and 11
+workbook pages. Its distinct reviewer checked all 18 tasks and 10 table/height
+diagrams, inspected all 35 first-freeze pages, then reopened the corrected final
+workbook page 3 and proved the other 34 unchanged. No blocking or required finding
+remains. Earlier 475-page evidence was revalidated through exact source/PDF
+continuity and archive completeness, preserving original inspection attribution;
+no fresh inspection of those earlier pages is claimed. All nineteen strict chapter
+gates, coordinator preservation/frozen-source checks and preflight passed. See
+[review evidence](../output/chapter-19/reviewer-REPORT.md) and
+[current handoff](SESSION-HANDOFF.md). Chapters 16-19 remain local and uncommitted.
+Next: annual revision/assessment, final four offline-AI pupil teaching pages and
+assembly of the complete annual textbook/workbook. Reviewed topic extracts do not
+constitute the finished annual pair; resource-conditional collection is not a claim
+of observed pupil performance.
+Current curriculum/adoption, local trials and physical print/printer approval
+remain pending. Earlier dated checkpoints below are historical.
+
 Series-wide opening requirement (20 October 2026): every chapter begins with its
 lead teacher at a large blackboard and the four children seated facing the teacher.
 The board carries a short, clearly typeset hint of the topic. Alternate Mrs Binta

@@ -1,0 +1,359 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "tasks": [
+    {
+      "id": "P1-17-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "Cube has 6 congruent square faces and equal edges; non-cube rectangular box has 6 rectangular faces and at least one unequal adjacent edge pair; cylinder has 2 circular flat ends plus curved side; sphere has no flat face. Examples: large cube block, long carton, closed straight-sided round container, ball.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-HANDLING",
+      "pupil_pages": {
+        "textbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          15
+        ]
+      },
+      "independent_solution": "Ball and cylinder on its curved side can roll smoothly. Upright cylinder can stand on a flat end; box can rest on a face. Sphere cannot stand on a flat end. Box may tumble or slide. Actual safe-model observations must be recorded instead of forcing these ideal predictions.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-GUIDED",
+      "pupil_pages": {
+        "textbook": [
+          5
+        ],
+        "workbook": [
+          1
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Reading the actual figures: sphere, cube, cylinder, non-cube cuboid. Name/point/group by features; example sequence ball, cube block, round closed container, long carton. Cube equal edges versus unequal neighbouring lengths in the long box. Colour and rolling alone do not distinguish all4.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-DRAW-MODEL",
+      "pupil_pages": {
+        "textbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          16
+        ]
+      },
+      "independent_solution": "Completed long rectangular storage box is a valid cuboid object. Nine visible projected edges join corresponding corners of three faces; parallel receding lines preserve depth. Real face rectangles appear slanted. A simple recognizable box suffices.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q1",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "Sphere, since ideal ball surface curves all around without flat faces.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q2",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          17
+        ]
+      },
+      "independent_solution": "Cube. Six equal square faces determine the intended cube among these four solids.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q3",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "Cylinder for the intended closed round straight-sided tin; two circular ends joined by a curved side.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q4",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          18
+        ]
+      },
+      "independent_solution": "I would draw a long rectangular storage carton. A recognizable rectangular box works; a cube is also mathematically a cuboid, so a clearly explained cube is valid. Perspective skill must not replace shape understanding.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q5",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          3
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "Ideal ball rolls smoothly; ideal rectangular box rests, slides or tumbles rather than rolling smoothly. Observe actual safe objects; picture-only response cannot demonstrate handling. Cylinder also rolls, so this two-object comparison is not a four-way classifier.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-Q6",
+      "pupil_pages": {
+        "textbook": [
+          7
+        ],
+        "workbook": [
+          2
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          19
+        ]
+      },
+      "independent_solution": "Cube: every edge same length. The chosen long non-cube cuboid: neighbouring edge lengths differ. It is incorrect to imply cubes are not cuboids or that every non-cube cuboid has no square faces.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "S014",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "Four most-specific groups: cube/equal square faces; non-cube cuboid/rectangular box with unequal adjacent lengths; cylinder/two circular ends and curved side; sphere/no flat face. Explain one placement, e.g. cylinder has flat circular ends so is not a sphere. A correctly identified cube-as-cuboid is mathematically valid, then request most-specific group.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "S015",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          20
+        ]
+      },
+      "independent_solution": "One example for each: large cube building block, long rectangular carton, closed straight-sided circular container, ball. Alternatives such as a cube-shaped package, rectangular pencil box, closed drum, spherical bead are geometrically valid approximations; only large safe models may be handled. No requirement to use these exact objects.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-NAME",
+      "pupil_pages": {
+        "textbook": [
+          8
+        ],
+        "workbook": [
+          4
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "Actual unlabeled figure order: cylinder, cube, sphere, non-cube cuboid. Collect all four names first; hide transcript; then point to requested names, group using features, compare equal/unequal edges, give container/block/ball/carton examples. Named pointing does not substitute for unaided naming.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-RECALL",
+      "pupil_pages": {
+        "textbook": [
+          9
+        ],
+        "workbook": [
+          5
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          21
+        ]
+      },
+      "independent_solution": "Recall cube, cuboid (non-cube in four-group naming), cylinder, sphere; define flat face; use equal edges/flat and curved surfaces for groups; compare box edges; give block/carton/container/ball. Cylinder and sphere both roll, so rolling insufficient. Record before opening help.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-HELP",
+      "pupil_pages": {
+        "textbook": [
+          10
+        ],
+        "workbook": [
+          6
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "Supported turn/touch of four safe models distinguishes flat/curved parts. Cube equal edges, long box unequal adjacent edges; match block/carton/container/ball. Names and named pointing supported here. Without models only picture understanding assessed; close help for recheck.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-RECHECK",
+      "pupil_pages": {
+        "textbook": [
+          11
+        ],
+        "workbook": [
+          7
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          22
+        ]
+      },
+      "independent_solution": "Actual order: sphere, non-cube cuboid, cube, sideways cylinder. Independently name first, then recognize/sort/explain and compare cube equal edges with box unequal adjacent edges. Examples in order: ball/carton/block/container. New rotations do not change identity.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-FRESH",
+      "pupil_pages": {
+        "textbook": [
+          13
+        ],
+        "workbook": [
+          9
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          23
+        ]
+      },
+      "independent_solution": "Actual order: non-cube cuboid, sphere, cylinder, cube. Corresponding examples carton/ball/closed round container/cube block. Naming precedes adult names; recognize/group separately, explain a feature, compare unequal/equal edges. Record independence separately from material access.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-DELAYED",
+      "pupil_pages": {
+        "textbook": [
+          14
+        ],
+        "workbook": [
+          10
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          23
+        ]
+      },
+      "independent_solution": "Actual order: cube, sideways cylinder, non-cube cuboid, sphere. Examples block/container/carton/ball. New day before reteaching; all names first, then recognition/grouping/explanation/edge difference/all4 examples. This schedules evidence, not an administered outcome.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    },
+    {
+      "id": "P1-17-STORY",
+      "pupil_pages": {
+        "textbook": [
+          12
+        ],
+        "workbook": [
+          8
+        ]
+      },
+      "answer_pages": {
+        "textbook": [
+          24
+        ]
+      },
+      "independent_solution": "Use four feature groups. Flat box faces support the proposed shelf; upright cylinder rests on circular end and rolls on curved side; sphere needs containment against rolling. Children choose according to features and share reachable tray. Story plan does not prove actual stable construction.",
+      "printed_answer_correspondence": "pass after independent semantic comparison with exact textbook answer page(s)",
+      "result": "pass"
+    }
+  ],
+  "all_19_independently_solved": true,
+  "source_mapping": "Six canonical Q1-Q6 original prompt/answer pairs and S014/S015 meanings preserved; adapted all-four supplementary prompts omit pre-naming answer labels."
+}

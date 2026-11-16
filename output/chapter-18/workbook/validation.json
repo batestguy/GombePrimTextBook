@@ -1,0 +1,230 @@
+{
+  "pages": 11,
+  "sha256": "a4b178d0215e94e8ca3163b542fb360484074e405b0860e5a240bb14cc47e6e0",
+  "page_manifest": [
+    {
+      "slug": "flat-workbook-1",
+      "kicker": "Flat shapes and patterns",
+      "title": "Try together, take turns",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-GUIDED"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-2",
+      "kicker": "Flat shapes and patterns",
+      "title": "Watch, then draw",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-DRAW-MODEL"
+      ],
+      "stages": [
+        "S3"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-3",
+      "kicker": "Flat shapes and patterns",
+      "title": "Your shape answers",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-PATTERN-MODEL",
+        "P1-18-Q1",
+        "P1-18-Q2",
+        "P1-18-Q3",
+        "P1-18-Q4"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-4",
+      "kicker": "Flat shapes and patterns",
+      "title": "Faces and turns",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-Q5",
+        "P1-18-Q6"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-5",
+      "kicker": "Flat shapes and patterns",
+      "title": "Names, matches and examples",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "S016",
+        "S017",
+        "S018",
+        "S019"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-6",
+      "kicker": "Flat shapes and patterns",
+      "title": "Remember before help",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-RECALL"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-7",
+      "kicker": "Flat shapes and patterns",
+      "title": "Help: follow the boundary",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-HELP"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-8",
+      "kicker": "Flat shapes and patterns",
+      "title": "A new try without help",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-RECHECK"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-9",
+      "kicker": "Flat shapes and patterns",
+      "title": "The cover has its border",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-STORY"
+      ],
+      "stages": [
+        "S8"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-10",
+      "kicker": "Flat shapes and patterns",
+      "title": "Show learning afresh",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "flat-workbook-11",
+      "kicker": "Flat shapes and patterns",
+      "title": "Remember on another day",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-18-DELAYED"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-18-GUIDED": [
+      1
+    ],
+    "P1-18-DRAW-MODEL": [
+      2
+    ],
+    "P1-18-PATTERN-MODEL": [
+      3
+    ],
+    "P1-18-Q1": [
+      3
+    ],
+    "P1-18-Q2": [
+      3
+    ],
+    "P1-18-Q3": [
+      3
+    ],
+    "P1-18-Q4": [
+      3
+    ],
+    "P1-18-Q5": [
+      4
+    ],
+    "P1-18-Q6": [
+      4
+    ],
+    "S016": [
+      5
+    ],
+    "S017": [
+      5
+    ],
+    "S018": [
+      5
+    ],
+    "S019": [
+      5
+    ],
+    "P1-18-RECALL": [
+      6
+    ],
+    "P1-18-HELP": [
+      7
+    ],
+    "P1-18-RECHECK": [
+      8
+    ],
+    "P1-18-STORY": [
+      9
+    ],
+    "P1-18-FRESH": [
+      10
+    ],
+    "P1-18-DELAYED": [
+      11
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

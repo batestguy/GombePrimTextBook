@@ -1,0 +1,368 @@
+[
+  {
+    "id": "P1-16-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Watch a prediction tested on a working balance.",
+    "answer": "In this story the stone pan settles lower: stone heavier, leaf lighter. Prediction precedes testing; record the observed result.",
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-16-GUIDED",
+    "mode": "guided",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Interpret the swapped example and test a new pair together.",
+    "answer": "After swapping sides the stone is on the right and lower. Stone remains heavier; side does not set weight. For the new pair accept only the actual settled result, including equal.",
+    "pages": {
+      "textbook": [
+        3
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-16-EQUAL",
+    "mode": "guided",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Read the level balance.",
+    "answer": "The two loads have equal weight on a correctly working balance that has settled level.",
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-16-DRAW-MODEL",
+    "mode": "model",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Watch a completed leaf drawing.",
+    "answer": "The outline and middle line make a recognisable leaf, a safe light drawing example; adult approves actual objects.",
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "P1-16-INTERPRET",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Read the new A and B balance.",
+    "answer": "B is heavier than A; A is lighter than B because B pan is lower.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-16-RECALL",
+    "mode": "recall",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Before opening help, explain how to compare safely and what lower means.",
+    "answer": "Adult checks empty pans level and move freely; predict, place one safe light object on each pan, release, wait to settle, observe. Lower load is heavier; higher lighter; level at rest means equal on a working balance.",
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-16-HELP",
+    "mode": "help",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Use the smaller step with an adult, then cover help.",
+    "answer": "Point to the lower stone pan, then the higher leaf pan. Stone heavier, leaf lighter in this model. Adult reteaches one object on each pan and waiting.",
+    "pages": {
+      "textbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-16-RECHECK",
+    "mode": "recheck",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Compare a new safe pair without answer help after support.",
+    "answer": "Use the actual observation, not object names. Accept heavier/lighter/equal with correct pan explanation; no functioning balance means practical comparison not assessed.",
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-16-STORY",
+    "mode": "guided",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Choose the lighter parcel in the observed story result.",
+    "answer": "Choose parcel Red. The lower Blue pan shows Blue heavier and Red lighter; the children used the balance instead of size.",
+    "pages": {
+      "textbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-16-FRESH",
+    "mode": "fresh",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Read a fresh balance and compare a genuinely new safe pair.",
+    "answer": "C is heavier than D because C pan is lower. Actual new-pair result is conditional: accept accurate heavier/lighter/equal observation even after a mistaken prediction.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        10,
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-16-DELAYED",
+    "mode": "delayed",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "After two or three school days compare another new safe pair and explain size.",
+    "answer": "Accept actual settled result and pan explanation; predict before testing. Bigger does not always mean heavier; explain using a tested counterexample or the explicitly observed story example. Record support; no balance means practical comparison not assessed.",
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        12
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q1",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Which is heavier in the example?",
+    "answer": "stone; in this given story the stone pan is lower.",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q2",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Which is lighter in the example?",
+    "answer": "leaf; in this given story the leaf pan is higher.",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q3",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Draw a safe light object.",
+    "answer": "Accept a recognisable safe light object, such as the completed leaf model. Drawing quality is not the weight objective.",
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q4",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "A balance is level. What can this show?",
+    "answer": "Equal weight on its pans, if the empty pans were level, move freely and have settled at rest.",
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q5",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Compare two safe objects and record a result.",
+    "answer": "Accept the actual observation with access support only: left heavier, right heavier, or equal. Prediction may be wrong. Require a safe working-balance comparison and matching record. Record teaching or answer help as assisted, not independent. No balance: not assessed practically.",
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-16-Q6",
+    "mode": "independent",
+    "objectives": [
+      "P1-p10-03"
+    ],
+    "prompt": "Does bigger always mean heavier? Explain.",
+    "answer": "No. In the stated observed story a large empty box is lighter than a small smooth stone. Actual objects must be tested; size or names alone cannot prove a result.",
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  }
+]

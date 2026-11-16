@@ -1,0 +1,168 @@
+[
+  {
+    "source": {
+      "id": "P1-18-Q1",
+      "source_prompt": "How many corners has a circle?",
+      "source_answer": "0"
+    },
+    "adapted": {
+      "id": "P1-18-Q1",
+      "mode": "independent",
+      "prompt": "How many corners has a circle?",
+      "answer": "Zero corners: the circle has a curved boundary.",
+      "objectives": [
+        "P1-p11-05",
+        "P1-p11-06",
+        "P1-p11-07"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-18-Q2",
+      "source_prompt": "How many equal sides has a square?",
+      "source_answer": "4"
+    },
+    "adapted": {
+      "id": "P1-18-Q2",
+      "mode": "independent",
+      "prompt": "How many equal sides has a square?",
+      "answer": "Four equal straight sides; the square also has four square corners.",
+      "objectives": [
+        "P1-p11-05",
+        "P1-p11-06",
+        "P1-p11-07"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-18-Q3",
+      "source_prompt": "Continue: circle, square, circle, square, __.",
+      "source_answer": "circle"
+    },
+    "adapted": {
+      "id": "P1-18-Q3",
+      "mode": "independent",
+      "prompt": "Continue: circle, square, circle, square, __.",
+      "answer": "Circle. The repeat unit is circle then square.",
+      "objectives": []
+    }
+  },
+  {
+    "source": {
+      "id": "P1-18-Q4",
+      "source_prompt": "Draw a non-square rectangle.",
+      "source_answer": "Four right angles, opposite equal sides, unequal adjacent lengths."
+    },
+    "adapted": {
+      "id": "P1-18-Q4",
+      "mode": "independent",
+      "prompt": "Draw a non-square rectangle.",
+      "answer": "A non-square rectangle outline with four square corners, opposite sides equal and adjacent lengths unequal. Accept recognizable freehand work; do not require perfect art.",
+      "objectives": [
+        "P1-p11-05",
+        "P1-p11-06",
+        "P1-p11-07"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-18-Q5",
+      "source_prompt": "Name an object with a rectangular face.",
+      "source_answer": "Suitable example such as a book."
+    },
+    "adapted": {
+      "id": "P1-18-Q5",
+      "mode": "independent",
+      "prompt": "Name an object with a rectangular face.",
+      "answer": "For example, the non-square front cover of a book. Accept any suitable rectangular face or outline with explanation, including a square face correctly explained as a special rectangle.",
+      "objectives": [
+        "P1-p11-08"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "P1-18-Q6",
+      "source_prompt": "What stays the same when a square turns?",
+      "source_answer": "Its four equal sides and four right-angle corners."
+    },
+    "adapted": {
+      "id": "P1-18-Q6",
+      "mode": "independent",
+      "prompt": "What stays the same when a square turns?",
+      "answer": "Its four equal straight sides and four square corners stay the same. Its size and shape do not change in a turn.",
+      "objectives": [
+        "P1-p11-05",
+        "P1-p11-06",
+        "P1-p11-07"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S016",
+      "source_prompt": "The teacher shows a square, a non-square rectangle and a circle in mixed orientations. Point to each shape when its name is spoken.",
+      "source_answer": "All three identified correctly, including rotated examples."
+    },
+    "adapted": {
+      "id": "S016",
+      "mode": "independent",
+      "prompt": "The teacher shows a square, a non-square rectangle and a circle in mixed orientations. Point to each shape when its name is spoken.",
+      "answer": "Point correctly to the square, non-square rectangle and circle when each name is spoken; include the rotated shapes. A square accepted as a rectangle needs its correct special-case explanation. Picture pointing is not actual card handling.",
+      "objectives": [
+        "P1-p11-05"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S017",
+      "source_prompt": "Match three shape cards to labels square, rectangle and circle. Read or say each name.",
+      "source_answer": "Three correct matches and names."
+    },
+    "adapted": {
+      "id": "S017",
+      "mode": "independent",
+      "prompt": "Match three shape cards to labels square, rectangle and circle. Read or say each name.",
+      "answer": "From left: non-square rectangle matches rectangle; circle matches circle; square matches square. Adult may read labels neutrally; assess matching separately from reading. Accept square matched to rectangle with correct special-case explanation, then ask for its most-specific name.",
+      "objectives": [
+        "P1-p11-06"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S018",
+      "source_prompt": "Compare a square card with a non-square rectangle card. Say one feature shared and one way they differ.",
+      "source_answer": "Both have four square corners; square has four equal sides, non-square rectangle has unequal adjacent lengths."
+    },
+    "adapted": {
+      "id": "S018",
+      "mode": "independent",
+      "prompt": "Compare a square card with a non-square rectangle card. Say one feature shared and one way they differ.",
+      "answer": "Both cards have four square corners and equal opposite sides. Square has four equal sides; non-square rectangle has unequal adjacent lengths. Rotation changes neither. Accept a correct equivalent feature explanation.",
+      "objectives": [
+        "P1-p11-07"
+      ]
+    }
+  },
+  {
+    "source": {
+      "id": "S019",
+      "source_prompt": "Find or name familiar objects with a square face, a non-square rectangular face and a circular face or outline.",
+      "source_answer": "One suitable example of each; pupil points to the relevant face/outline."
+    },
+    "adapted": {
+      "id": "S019",
+      "mode": "independent",
+      "prompt": "Find or name familiar objects with a square face, a non-square rectangular face and a circular face or outline.",
+      "answer": "One suitable example for EACH: square tile face; non-square book cover; circular lid outline. Pupil identifies the relevant face or outline. Accept sound alternatives, including a square napkin face, non-square door face and circular plate outline. Real objects approximate ideal shapes.",
+      "objectives": [
+        "P1-p11-08"
+      ]
+    }
+  }
+]

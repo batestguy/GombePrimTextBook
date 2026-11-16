@@ -1,0 +1,152 @@
+{
+  "reviewer": "/root/chapter14_review",
+  "date": "2026-11-14",
+  "attribution": "Own same-session339page Chapter14 and31page Time individual-page/every-task inspections, carried only after exact proof; no fresh old-page opens claimed.",
+  "prior_pages": 370,
+  "prior_pdfs": {
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf": "f3aefb3388d9591bf1c569402fdf2b6a6779edcf2605d89197cbdd0fcbb23c03",
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf": "83d50bf485bb19a2e99e071ffaefd1af26f762641c58fd9fc67fd480ddd15a1a",
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf": "8a3a7da7d55f0995ee9a3e0c08f4685eb5dc5e8e6c74fb89613bf12345906b63",
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf": "8cd2386ce3a6c833d816cfee061eb1a97c79e5252944a3310ddb200caa01f4cb",
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf": "147d009840d2ae6187665c70b94b0a34e4af2372b924dcdd24cc891bc5d9c98d",
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf": "0a0674d96e0ed42b71467ecbfdbaf13116fe4a693c22afccb8e24f94d2813418",
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b",
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb",
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf": "b83da1c37dc211bfce91db58b3739f06c01bc3d4feb0ce1abe7e572703eb2579",
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf": "7ce9fc083a0b3f65c8a8fd2169fa00abb01ed81f6efcd4776938801c05d0d6c1",
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf": "442786dbeaa94612bc6c871d5d3fa8a1ae95b36d8d0dff5891f22a1a6d095e89",
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96"
+  },
+  "protected_hash_count": 169,
+  "all_protected_hashes_match": true,
+  "all21_historical_files_exact": true,
+  "authorized_delivery_changes": {
+    "README.md": {
+      "before": "0984a5dfedc44ffb6da19e0e9febeb8cb347754cfbdd49d3e15a428f2c082aec",
+      "after": "d42ba4968ae428f4a59cf04d1ec64affe32a8ad195ce7038f50cfd7dce40df8d"
+    }
+  },
+  "previous_full_fingerprints_reproduced": [
+    {
+      "chapter": "P1-01",
+      "previous_fingerprint": "111a2563655f9cf745e8f52c943f12ec597ae9d95ae598dc694d14067961be83",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-02",
+      "previous_fingerprint": "535a3e10c62cb8432ae71e72a218b4b24c0fd403eeaf676a0ef6404e73fb0bf2",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-03",
+      "previous_fingerprint": "16f129e5482d65e2c1c3b95428811204d7cdde4651820b7f11b29b335fe429cd",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-04",
+      "previous_fingerprint": "e7b7582465d16a9f00e69eb6d4e5e29666909ff73c7f188c5aa50bbab41fbf98",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-05",
+      "previous_fingerprint": "c036f4f29e035e307cec7fdc9de9b86fcd1409d49ec0a77e4ca37d1307bcfef5",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-06",
+      "previous_fingerprint": "662269f2547ebf759463122c02d638868ba3ee55594cc24536f935b9d95edf86",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-07",
+      "previous_fingerprint": "a855fad25f6f11c494ed4e929a1690304434f2b931a5fe1d0ea7b9830b48c744",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-08",
+      "previous_fingerprint": "5577b576e4e5a2897ee8e1e6c1682ecaada63a61da2b673949a910ba5e5fbca7",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-09",
+      "previous_fingerprint": "24e7c9bc14b9571cc5338a89cf8183f4787568d37c9a29ed558a830188e706fe",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-10",
+      "previous_fingerprint": "ce8d042979d754e0985912acaeed43f90484b9866edf65ddb9230c7815e2febd",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-11",
+      "previous_fingerprint": "b1a115bfe0322aeae11d1bc4399f5a50daebb2a3572d3a8c31bbd498a9407f85",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-12",
+      "previous_fingerprint": "bd201d766ea40b871a331abf0a268ba99d184f136710e2dda5c1e45ef3317715",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-13",
+      "previous_fingerprint": "d350670db2ade8da5007cd75449bd8fd341dbc94ea9b74a965a194ee5cbbf701",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-14",
+      "previous_fingerprint": "bca643052333311f32f7a1cd9ea34fa0c9ab6f11d431d08721ee7511adcbd407",
+      "reviewer": "Codex /root/chapter14_review (same-session continuing chapter15 independent review)",
+      "reviewed_on": "2026-11-14"
+    },
+    {
+      "chapter": "P1-15",
+      "previous_fingerprint": "44e1fa05d3f865cc7151139ffa141f9918cedd63d9d5fb9d29e354b3951bdffe",
+      "reviewer": "Codex /root/chapter14_review (continuing independent chapter15 review session)",
+      "reviewed_on": "2026-11-14"
+    }
+  ],
+  "first15_lessons_identical": true,
+  "original114_source_pairs_identical": true,
+  "new_scoped_paths": [
+    "scripts/build_chapter_sixteen.py"
+  ],
+  "canonical_difference": [
+    {
+      "chapter": "P1-16",
+      "changed_keys": [
+        "paired_edition",
+        "questions"
+      ]
+    }
+  ],
+  "status": "Previous exact evidence reusable; all new weight tasks/pages and dependency effects await review/final root freeze."
+}

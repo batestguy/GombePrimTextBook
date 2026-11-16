@@ -1,0 +1,310 @@
+{
+  "changed_pages": 8,
+  "unchanged_exact_pages": 30,
+  "pages": [
+    {
+      "role": "textbook",
+      "page": 1,
+      "before_sha256": "b008f7fafa42bbb64f9107b1201574bbc097d5538a8d33f73cf0c2991a68fc74",
+      "after_sha256": "b008f7fafa42bbb64f9107b1201574bbc097d5538a8d33f73cf0c2991a68fc74",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 2,
+      "before_sha256": "06b7d5fa11b276d823ed0dbd4167d1603e985b8d360e6bafb9e3801c21a5024c",
+      "after_sha256": "06b7d5fa11b276d823ed0dbd4167d1603e985b8d360e6bafb9e3801c21a5024c",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "before_sha256": "62bd99eda5ffd7e5ec6f282f1dbda8c64a86ca81775564289f3acffca9a1ef0b",
+      "after_sha256": "62bd99eda5ffd7e5ec6f282f1dbda8c64a86ca81775564289f3acffca9a1ef0b",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "before_sha256": "86b69b2b3972262736dc842dd118b85f6d83a8684b4909bdd23df8a41aa80e89",
+      "after_sha256": "86b69b2b3972262736dc842dd118b85f6d83a8684b4909bdd23df8a41aa80e89",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 5,
+      "before_sha256": "d24898fd1197dc863534f8dfb90c8f50e54186e10f8be867c7807e07eb18871f",
+      "after_sha256": "d24898fd1197dc863534f8dfb90c8f50e54186e10f8be867c7807e07eb18871f",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 6,
+      "before_sha256": "6d1325e05b40f7e15594d1f5a4ce7f4295d1e01ab369fec1dda3338a63b90f15",
+      "after_sha256": "6d1325e05b40f7e15594d1f5a4ce7f4295d1e01ab369fec1dda3338a63b90f15",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 7,
+      "before_sha256": "99fb66dccf42fca40f317ed190961dc1a8bddf8a8c35b989e6055662b1971a4d",
+      "after_sha256": "99fb66dccf42fca40f317ed190961dc1a8bddf8a8c35b989e6055662b1971a4d",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 8,
+      "before_sha256": "2244e763b4165ac17a36a638dfd096f5bc775b55f0bee07dec67168dbfb52412",
+      "after_sha256": "f55597baef90d6571dbb72c0b7d75cc4cb38e18d972fd84eedced1919a6969f0",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "textbook",
+      "page": 9,
+      "before_sha256": "fe6e8c9c7f577584c03be85c07e36cefc28b73bc133fd706b76de973a58b4150",
+      "after_sha256": "fe6e8c9c7f577584c03be85c07e36cefc28b73bc133fd706b76de973a58b4150",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 10,
+      "before_sha256": "24e9707da521276c986bfbd5fa4c3dea60de56a1f8655c9893301b991a929e88",
+      "after_sha256": "24e9707da521276c986bfbd5fa4c3dea60de56a1f8655c9893301b991a929e88",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "before_sha256": "96afebd36accbf55514f839dff3f2ce7908cd04993ade3b34644efe88c764037",
+      "after_sha256": "c39a12a90d93d84f899b80cc88a0151b92bbfbd20693b86c40cc946fb6abec98",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "before_sha256": "4805d0f747cc67edb1e0d4a70e7f25d3c16959847976f1bdde7fe9e0b24ae9ab",
+      "after_sha256": "4805d0f747cc67edb1e0d4a70e7f25d3c16959847976f1bdde7fe9e0b24ae9ab",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "before_sha256": "520d19dcae5a84a797190f38356ee635876e31af20eae8c7351ef929c60fa040",
+      "after_sha256": "a438b7a31ffdb7f875201c732deedd8d537afc82fab5038c152cf365cae0bdf8",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "textbook",
+      "page": 14,
+      "before_sha256": "77f0062b4d1644af442e412b7c40370b50149f564b505bb3467cda006963246e",
+      "after_sha256": "63d1208a274f72e8eec07fb483d9798121e9745035bae417a2228f044178f384",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "textbook",
+      "page": 15,
+      "before_sha256": "ce81aefa03e3e98fe77f79100fc8ffa7b2302bc35b278bf652ca674e814754e9",
+      "after_sha256": "ce81aefa03e3e98fe77f79100fc8ffa7b2302bc35b278bf652ca674e814754e9",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "before_sha256": "4210af9556376502d1045bb74a3a549c89235d0f618f15a85b8dd7f80f66f5f4",
+      "after_sha256": "4210af9556376502d1045bb74a3a549c89235d0f618f15a85b8dd7f80f66f5f4",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 17,
+      "before_sha256": "c01e0204e0b908d3f4c9822f0734130b03745c8e3f187dedc9d5c12a618a1635",
+      "after_sha256": "c01e0204e0b908d3f4c9822f0734130b03745c8e3f187dedc9d5c12a618a1635",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 18,
+      "before_sha256": "c019efacfe7deb0a35dd41b8cb4494bbd305d3c6c6b89a796155285db8d9047b",
+      "after_sha256": "c019efacfe7deb0a35dd41b8cb4494bbd305d3c6c6b89a796155285db8d9047b",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 19,
+      "before_sha256": "8f0c05be0b05ef6227012a5896f0075316fbe24d745663dc00f89f42fb38e7bd",
+      "after_sha256": "8f0c05be0b05ef6227012a5896f0075316fbe24d745663dc00f89f42fb38e7bd",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 20,
+      "before_sha256": "b1538a4a17d9b32b09cf47601c78b07ccfa4762e0a5801c8dfb3c58f3223b3a8",
+      "after_sha256": "b1538a4a17d9b32b09cf47601c78b07ccfa4762e0a5801c8dfb3c58f3223b3a8",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 21,
+      "before_sha256": "ecec43fdf42f0a3baaa13f70d08daec4db6686524d20357fdc50e07e55eddde6",
+      "after_sha256": "ecec43fdf42f0a3baaa13f70d08daec4db6686524d20357fdc50e07e55eddde6",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 22,
+      "before_sha256": "90c0a7456cf782137146bb287404a852759075cc576d15101b549354780805d0",
+      "after_sha256": "90c0a7456cf782137146bb287404a852759075cc576d15101b549354780805d0",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 23,
+      "before_sha256": "8fcf2afb36f37c425d9589ea6b19321178a18f2bb21afa1feef2aebd64e6b668",
+      "after_sha256": "8fcf2afb36f37c425d9589ea6b19321178a18f2bb21afa1feef2aebd64e6b668",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 24,
+      "before_sha256": "1dca5332a6951373cc1496d4ea08e4baa6d5013ff9d3704ee765b93f50cabccc",
+      "after_sha256": "1dca5332a6951373cc1496d4ea08e4baa6d5013ff9d3704ee765b93f50cabccc",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 25,
+      "before_sha256": "ffda18deb4b9b66a196ed76983051daf77f65efe8950b10db9b5acd2bbca8219",
+      "after_sha256": "ffda18deb4b9b66a196ed76983051daf77f65efe8950b10db9b5acd2bbca8219",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 26,
+      "before_sha256": "856ebc94b790dcfe6f377d58b9b16df09b9fa2d993370d1c30ff33a6cbd0e555",
+      "after_sha256": "856ebc94b790dcfe6f377d58b9b16df09b9fa2d993370d1c30ff33a6cbd0e555",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "textbook",
+      "page": 27,
+      "before_sha256": "6395141a9df4b46a59fb06430920d4733dfd0f4e57c0d86c42ae2b26c092c403",
+      "after_sha256": "6395141a9df4b46a59fb06430920d4733dfd0f4e57c0d86c42ae2b26c092c403",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "before_sha256": "dfb43d378a74cab1e83d1a91a34afefa9101229693bcd9c6278e92c0fced1fb2",
+      "after_sha256": "dfb43d378a74cab1e83d1a91a34afefa9101229693bcd9c6278e92c0fced1fb2",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "before_sha256": "b2bedc6df00027390b24c9bad9a8ce1a82c6a66e0988f05583b322f119349e75",
+      "after_sha256": "b2bedc6df00027390b24c9bad9a8ce1a82c6a66e0988f05583b322f119349e75",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "before_sha256": "13e838483cc48c45e8942868c6ced9d85fd63dbb685796432d81098d7060b3cf",
+      "after_sha256": "13e838483cc48c45e8942868c6ced9d85fd63dbb685796432d81098d7060b3cf",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "before_sha256": "ae15c46be58c1abfab157ceaa2d9683c49cb827c4d5a55f9ed332777b9260a7f",
+      "after_sha256": "ae15c46be58c1abfab157ceaa2d9683c49cb827c4d5a55f9ed332777b9260a7f",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "before_sha256": "f44d10a977e05227596180c619d382211fa7c66c0f4e67a59cf2eefc871ad97c",
+      "after_sha256": "3b3ffcc46de9c66d5aa20122d287e3aeb7eb5a11fb45adc78ff736a0f60172a0",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "before_sha256": "4e2adab2a5a41eb8ea33f1bd8fa9efc24926d3ad67082177f3290485cfbab3e1",
+      "after_sha256": "4e2adab2a5a41eb8ea33f1bd8fa9efc24926d3ad67082177f3290485cfbab3e1",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "before_sha256": "bf07172967b135cfc3e1c7a993d13834310fd3bcd525ae30c9dbb22b8edb33dd",
+      "after_sha256": "bf07172967b135cfc3e1c7a993d13834310fd3bcd525ae30c9dbb22b8edb33dd",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "before_sha256": "4af68b1691ddd18fad6b77ea85053b464eeef0df1a0a158a38405a6022509733",
+      "after_sha256": "bd6e8a686ca0926db76ccea49574e97ef37d8322e85bf73a0cd6808709b103c0",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "before_sha256": "693edc265ce0bf0e87c0e4e75d717601b0550e6741f6b37438734eaa5a467ff3",
+      "after_sha256": "693edc265ce0bf0e87c0e4e75d717601b0550e6741f6b37438734eaa5a467ff3",
+      "expected_changed": false,
+      "continuity": "unchanged exact raster hash; original individual inspection applies"
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "before_sha256": "12df7f39c2613408942af7edd93540769b44731242b1ab20ff04f62466a28172",
+      "after_sha256": "a01c244ed39c7e6738877a59fd3d0ceaabe33fccbb95dea59c43acd354117285",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "before_sha256": "93bab87a3faa4b37a31c6a7d54a4d0a1597376e6832394d6cf21b252b11f70e2",
+      "after_sha256": "180ea6a3a0c683f7bf03767818cc3c3f596ca87f9fb5f834cde6d53572af1e26",
+      "expected_changed": true,
+      "continuity": "reopened changed page"
+    }
+  ]
+}

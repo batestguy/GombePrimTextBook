@@ -1,0 +1,205 @@
+{
+  "pages": 10,
+  "sha256": "1ea5e347f1b20bfba20e17bdf8a5ed3a77d4c7861aa9f851dacebb743b24fe37",
+  "page_manifest": [
+    {
+      "slug": "solids-workbook-1",
+      "kicker": "Solid shapes around us",
+      "title": "Try together",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-GUIDED"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-2",
+      "kicker": "Solid shapes around us",
+      "title": "Answer in your own way",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-Q1",
+        "P1-17-Q2",
+        "P1-17-Q3",
+        "P1-17-Q6"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-3",
+      "kicker": "Solid shapes around us",
+      "title": "Draw and test",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-Q4",
+        "P1-17-Q5"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-4",
+      "kicker": "Solid shapes around us",
+      "title": "Your turn: names first",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-NAME",
+        "S014",
+        "S015"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-5",
+      "kicker": "Solid shapes around us",
+      "title": "Remember before help",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-RECALL"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-6",
+      "kicker": "Solid shapes around us",
+      "title": "Help: touch, turn, look",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-HELP"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-7",
+      "kicker": "Solid shapes around us",
+      "title": "Try new shapes without help",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-RECHECK"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-8",
+      "kicker": "Solid shapes around us",
+      "title": "A place in the store",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-STORY"
+      ],
+      "stages": [
+        "S8"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-9",
+      "kicker": "Solid shapes around us",
+      "title": "Show learning afresh",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "solids-workbook-10",
+      "kicker": "Solid shapes around us",
+      "title": "Remember on another day",
+      "subtitle": "Read together. Speak, point, move or write here.",
+      "task_ids": [
+        "P1-17-DELAYED"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-17-GUIDED": [
+      1
+    ],
+    "P1-17-Q1": [
+      2
+    ],
+    "P1-17-Q2": [
+      2
+    ],
+    "P1-17-Q3": [
+      2
+    ],
+    "P1-17-Q6": [
+      2
+    ],
+    "P1-17-Q4": [
+      3
+    ],
+    "P1-17-Q5": [
+      3
+    ],
+    "P1-17-NAME": [
+      4
+    ],
+    "S014": [
+      4
+    ],
+    "S015": [
+      4
+    ],
+    "P1-17-RECALL": [
+      5
+    ],
+    "P1-17-HELP": [
+      6
+    ],
+    "P1-17-RECHECK": [
+      7
+    ],
+    "P1-17-STORY": [
+      8
+    ],
+    "P1-17-FRESH": [
+      9
+    ],
+    "P1-17-DELAYED": [
+      10
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

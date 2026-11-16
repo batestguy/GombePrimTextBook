@@ -1,0 +1,285 @@
+{
+  "P1-p12-01": {
+    "model": [
+      {
+        "id": "P1-19-AGE-MODEL",
+        "pages": {
+          "textbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-19-TABLE-MODEL",
+        "pages": {
+          "textbook": [
+            2
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-19-GUIDED",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-19-Q1",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-19-Q2",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-19-Q3",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            2
+          ]
+        }
+      },
+      {
+        "id": "P1-19-Q4",
+        "pages": {
+          "textbook": [
+            5
+          ],
+          "workbook": [
+            3
+          ]
+        }
+      },
+      {
+        "id": "P1-19-Q6",
+        "pages": {
+          "textbook": [
+            6
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      },
+      {
+        "id": "S020",
+        "pages": {
+          "textbook": [
+            7
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "recall": [
+      {
+        "id": "P1-19-RECALL",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-19-HELP",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-19-RECHECK",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-19-FRESH",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-19-DELAYED",
+        "pages": {
+          "textbook": [
+            13
+          ],
+          "workbook": [
+            11
+          ]
+        }
+      }
+    ]
+  },
+  "P1-p12-02": {
+    "model": [
+      {
+        "id": "P1-19-HEIGHT-MODEL",
+        "pages": {
+          "textbook": [
+            3
+          ]
+        }
+      }
+    ],
+    "guided": [
+      {
+        "id": "P1-19-GUIDED",
+        "pages": {
+          "textbook": [
+            4
+          ],
+          "workbook": [
+            1
+          ]
+        }
+      }
+    ],
+    "independent": [
+      {
+        "id": "P1-19-Q5",
+        "pages": {
+          "textbook": [
+            6
+          ],
+          "workbook": [
+            4
+          ]
+        }
+      },
+      {
+        "id": "S021",
+        "pages": {
+          "textbook": [
+            7
+          ],
+          "workbook": [
+            5
+          ]
+        }
+      }
+    ],
+    "recall": [
+      {
+        "id": "P1-19-RECALL",
+        "pages": {
+          "textbook": [
+            8
+          ],
+          "workbook": [
+            6
+          ]
+        }
+      }
+    ],
+    "help": [
+      {
+        "id": "P1-19-HELP",
+        "pages": {
+          "textbook": [
+            9
+          ],
+          "workbook": [
+            7
+          ]
+        }
+      }
+    ],
+    "recheck": [
+      {
+        "id": "P1-19-RECHECK",
+        "pages": {
+          "textbook": [
+            10
+          ],
+          "workbook": [
+            8
+          ]
+        }
+      }
+    ],
+    "fresh": [
+      {
+        "id": "P1-19-FRESH",
+        "pages": {
+          "textbook": [
+            12
+          ],
+          "workbook": [
+            10
+          ]
+        }
+      }
+    ],
+    "delayed": [
+      {
+        "id": "P1-19-DELAYED",
+        "pages": {
+          "textbook": [
+            13
+          ],
+          "workbook": [
+            11
+          ]
+        }
+      }
+    ]
+  }
+}

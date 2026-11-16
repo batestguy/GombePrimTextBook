@@ -1,0 +1,45 @@
+{
+  "author": "/root/chapter16_author",
+  "source_tasks_verbatim_in_both_actual_pdfs": true,
+  "canonical_lessons_match": true,
+  "historical_restoration_count": 21,
+  "protected_hashes": 169,
+  "commands": [
+    {
+      "command": "python scripts/build_book.py",
+      "result": "passed; 63 lessons,247 historical pages; rerun after final canonical edits to refresh lessons"
+    },
+    {
+      "command": "quarto render book.qmd",
+      "result": "passed; historical combined PDF created"
+    },
+    {
+      "command": "python scripts/validate_book.py",
+      "result": "passed;247pages,87 arithmetic equations,0arithmetic failures,0bounds failures,2embedded font programs; evidence legacy-validation.json"
+    },
+    {
+      "command": "python scripts/build_chapter_sixteen.py",
+      "result": "passed after historical restoration;19textbook12workbook pages17tasks16diagram entries"
+    },
+    {
+      "command": "python scripts/preflight.py",
+      "result": "passed after restoration"
+    },
+    {
+      "command": "python scripts/check_chapter_standard.py",
+      "result": "passed draft register check; pending not approval"
+    },
+    {
+      "command": "python scripts/check_chapter_standard.py --chapter P1-16 --fingerprint",
+      "result": "passed"
+    }
+  ],
+  "resolved_author_findings": [
+    "added printed page references",
+    "fresh practical expanded to full observation form",
+    "story route includes closure before fresh check",
+    "task-specific Q5 rubric distinguishes access from teaching help",
+    "placement versus untouched settling clarified"
+  ],
+  "limits": "No observed practical handling, current curriculum claim, local educator/pupil/accessibility trial, physical print/printer approval, annual assembly or independent editorial approval."
+}

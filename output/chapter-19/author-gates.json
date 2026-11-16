@@ -1,0 +1,9 @@
+{
+  "preflight": "passed after final PDF edit",
+  "draft_register": "passed",
+  "strict_reviewed": {
+    "returncode": 1,
+    "output": "Chapter standard gate FAILED: P1-19: independent review pending\n",
+    "expected": "independent review pending"
+  }
+}

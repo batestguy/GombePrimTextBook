@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "textbook": 26,
+    "workbook": 10
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf"
+  },
+  "tasks": 19,
+  "diagrams": 64,
+  "protected_hashes": 172,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 original pairs,18other lessons,172protected hashes and supplements preserved",
+    "all four objectives across seven progression modes",
+    "actual PDF geometry and every answer text checked",
+    "A4 fonts bounds and all pages rendered"
+  ]
+}

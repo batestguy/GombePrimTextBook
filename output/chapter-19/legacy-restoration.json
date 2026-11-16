@@ -1,0 +1,110 @@
+{
+  "method": "No legacy build/render run; same canonical concatenation refresh of63lessons. All21historical files stayed byte-for-byte unchanged.",
+  "files": [
+    {
+      "path": "Gombe-Mathematics-Book-1.pdf",
+      "sha256": "79d80c76d810db2b208df4c310c4c96ad796500088af4ca7826ecf87c9e41aec",
+      "matches_backup": true
+    },
+    {
+      "path": "book.qmd",
+      "sha256": "a19d2658cf7ee8c69d30625e851004c56ecbfe52e876757f668a7b201cf04f9d",
+      "matches_backup": true
+    },
+    {
+      "path": "book.typ",
+      "sha256": "9824ba984b0e8d4a300e78b1e9be9cbbcf9431f364635f3b7ea71adadf5f8275",
+      "matches_backup": true
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "112c2e97b60787f381932c9afde1d1e81656f80217576ecfffbc411909867811",
+      "matches_backup": true
+    },
+    {
+      "path": "production/complete-manuscript.txt",
+      "sha256": "36f1458704f45bb2dcd964c178a6cbb386d0e726c2c6c9f10f56cad62f4233b8",
+      "matches_backup": true
+    },
+    {
+      "path": "production/page_manifest.json",
+      "sha256": "f9029b71e68e7363f708a2141f3a17d650411e2f054b8049984cd881713b6639",
+      "matches_backup": true
+    },
+    {
+      "path": "output/pdf/sample-lessons.pdf",
+      "sha256": "fada2664214dcb4a1fecb81148b6baf165a8bf9b403dbcbf23569403d4337b7e",
+      "matches_backup": true
+    },
+    {
+      "path": "output/validation.json",
+      "sha256": "12ae369793b36053a6c622174d92bbab8d008079b5072dea6f12bd43676d0758",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-01.png",
+      "sha256": "e0e362f2dc824cf3d6635df649058f1ff91fd1b36356e5c323bb3c0037a29bf3",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-02.png",
+      "sha256": "4555f439353f13cd24bf9ed571664e2b2418c4ced0d7c32562e625e09e46f05b",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-03.png",
+      "sha256": "8808dbe233ca2872fb1fcf0931fa9bfffb41e20d5009f6eee1231394eda00bfd",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-04.png",
+      "sha256": "e59c186d7a924f526ec71625c6ef4e671797f6f79ba21b598134e4623b664c79",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-05.png",
+      "sha256": "03d28acc6e23773c8ac9f70fc0f8c0c3d580649a0e9006b9cb1d596b136c90f5",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-06.png",
+      "sha256": "d81fe07fef15f97a05c97b969b8e65423241414ca98851c982e5cabecc68ca17",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-07.png",
+      "sha256": "85b00a9666d778b0b9958d51238ef9250a1e0f200d6c5072e3b067f4a4ed46e5",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-08.png",
+      "sha256": "e0ca9d2c740947e5e58d08bfc524e64941e153b4ee38bf49b21f78e1d9c58496",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-09.png",
+      "sha256": "b6677eaf6a10887c13275f4b2116e8480792e3e82aee651c13e6b0f765e47220",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-10.png",
+      "sha256": "4f1d9e7773935a82f45a0251a93f0116e14e2f494cc0422d7955a3265cc999ff",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-11.png",
+      "sha256": "94c92725c40365e97041b830392f65621fd36fd9809575c7338bc5296fde88af",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-12.png",
+      "sha256": "dc90bc3363b327a4f65391fd171996f79130b879281af6d47780a28ff84f5209",
+      "matches_backup": true
+    },
+    {
+      "path": "output/page-review/contact-13.png",
+      "sha256": "5f4d4d5ffc101e4040d154ba9f4ec1d99568f351dc01ec21b8665003078e3965",
+      "matches_backup": true
+    }
+  ]
+}

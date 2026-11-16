@@ -1,3 +1,235 @@
+# Chapter 19 completed - 16 November 2026
+
+P1-19 **Find out about our class**, Mrs Binta, passed independent editorial review:
+[24-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf)
+and [11-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf).
+Author `/root/chapter18_author` and distinct reviewer `/root/chapter17_review_recovery`
+checked all 18 tasks/examples and 10 deterministic table/height diagrams. The
+reviewer personally inspected every one of the 35 first-freeze pages, then reopened
+the corrected final workbook page 3 and verified the other 34 page images unchanged.
+See [independent review](../output/chapter-19/reviewer-REPORT.md), `reviewer-pages.json`,
+`reviewer-independent-task-results.json` and `reviewer-refreeze-continuity.json`.
+
+Both historical objectives P1-p12-01..02 and S020/S021 are enacted through
+model/guided/independent/recall/help/new recheck/fresh/delayed collection. Children
+ask permission, ask the same completed-years question, listen, record and check
+new replies. Height activities make new labelled head marks from a common
+baseline, align strips, compare and record. Fictional interviews and full-size
+paper stand-ins are explicit simulations. Supplied-table reading is separate from
+collection; small printed figures do not establish practical measurement. Seated
+participation is supported, with no forced standing or sitting/standing comparison.
+Resource absence means practical collection remains unassessed; no real pupil
+result or trial is invented.
+
+The reviewer required workbook 3 to cover the facing completed answer table as
+well as the worked example during independent table drawing. This was corrected
+and independently resolved under final freeze
+`86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd`.
+Local raw A6/B7/C6 practice records remain available. No blocking or required
+finding remains.
+
+All **19 existing Primary 1 topic chapters** now have current exact-pair approvals.
+The earlier 475-page archive was revalidated through exact full-fingerprint,
+source/PDF and task/page-coverage continuity. Original 401-page semantic review
+remains attributed to `/root/chapter14_review`; Chapter 17/18 fresh 36+38-page
+reviews belong to `/root/chapter17_review_recovery`. No earlier page was newly
+reopened for Chapter 19. Together the current evidence covers 510 unique pages
+across 36 exact PDFs; this is a set of chapter extracts, not an assembled annual book.
+
+All nineteen strict chapter gates and final preflight passed. Root separately ran
+`python output/chapter-19/root_verify.py --require-reviewed`; all 178 protected
+hashes, 34 prior PDFs, 21 historical generated files, 114 original ordered
+prompt/answer pairs and 18 other lesson objects are preserved. Every previous
+review history, chapter metadata and the other 44 chapter records remain intact.
+Evidence: `root-validation.json`, `root-artifact-audit.json` and `reviewer-gates.json`.
+No legacy full render was needed or claimed as redesign approval. Chapters 16-19
+remain local and uncommitted; last verified GitHub delivery remains `1d9a36e`
+(Chapters 1-15). No commit, push or publication was performed in this task.
+
+Next production work: annual revision and assessment, the four final offline-AI
+pupil teaching pages, and assembly of the complete reusable textbook/workbook.
+All-topic review does not approve that unfinished annual package or the Primary
+2/3 redesign. Current curriculum/adoption, local educator/pupil/accessibility
+trials, physical print tests and printer approval remain pending. Follow the
+standard/review/template; take a fresh baseline and reopen affected shared
+approvals before canonical edits. Previous checkpoints below are historical.
+
+---
+
+# Chapter 18 completed - 16 November 2026
+
+P1-18 **Flat shapes and patterns**, Mr Aliyu, passed independent editorial review:
+[27-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf)
+and [11-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf).
+Author `/root/chapter18_author` and distinct reviewer `/root/chapter17_review_recovery`
+checked all 21 tasks/examples and 64 deterministic flat-shape occurrences.
+The reviewer personally inspected all 38 first-freeze pages, then reopened all
+eight corrected final pages and proved the other 30 page images unchanged.
+Evidence: [independent review](../output/chapter-18/reviewer-REPORT.md),
+`reviewer-pages.json`, `reviewer-independent-task-results.json` and
+`reviewer-refreeze-continuity.json` in `output/chapter-18`.
+
+All four historical objectives P1-p11-05..08 and S016..S019 are enacted through
+model/guided/independent/recall/help/new recheck/fresh/delayed activities. Squares
+remain special rectangles, turns preserve shape, and household examples refer
+to flat faces/outlines. Pattern continuation is retained provisional enrichment.
+Actual tracing/handling remains conditional on available safe cards.
+
+Same-page labels are covered before unaided naming, pictures stay visible, all
+names are collected and hidden before spoken-name pointing, and labels are
+revealed only for matching. The reviewer required a clearer visibility sentence;
+that eight-page correction was independently resolved under renewed freeze
+`1bad62b1eda9eaed1393cee6b17e63043f1ea5c2d45c9f97000c76a6e35ecd71`.
+The parent's earlier cover-containment correction passed both exact PDFs.
+No blocking or required finding remains. Calling the central decorative row a
+border is an optional future wording/design suggestion, not a required correction.
+
+Chapters 1-18 now have current exact-pair approvals. Earlier 437-page evidence
+was renewed through independently verified continuity: the original 401-page
+semantic/visual inspection remains attributed to `/root/chapter14_review`; the
+36-page Chapter 17 inspection belongs to `/root/chapter17_review_recovery`.
+No old page was newly reopened for Chapter 18. All 17 prior full fingerprints,
+complete archived page/task coverage and unchanged 32 prior PDFs were verified.
+Together the current evidence covers 475 unique pages across 34 exact PDFs,
+not a complete annual book. Review histories, metadata and other 45 chapter
+records are preserved.
+
+All eighteen strict chapter gates and final preflight passed. Root separately ran
+`python output/chapter-18/root_verify.py --require-reviewed`; frozen sources,
+175 protected hashes, 32 prior PDFs, 21 historical generated files, all 114 ordered
+original prompt/answer pairs and 18 other lesson objects are unchanged.
+See `root-validation.json`, `root-artifact-audit.json` and `reviewer-gates.json`.
+No legacy render was needed or claimed as redesign approval. Chapters 16-18
+remain local and uncommitted; last verified GitHub delivery remains `1d9a36e`
+(Chapters 1-15). No commit, push or publication was performed in this task.
+
+Next: **P1-19 Find out about our class**, Mrs Binta, the last existing topic unit.
+Annual revision/assessment, the final four offline-AI pupil teaching pages and
+full-year assembly still remain. Current curriculum/adoption, local educator/
+pupil/accessibility trials, physical print tests and printer approval remain pending.
+Follow the standard/review/template; take a fresh baseline and reopen shared
+approvals before the next canonical edit. Historical checkpoints follow.
+
+---
+
+# Chapter 17 completed - 16 November 2026
+
+P1-17 **Solid shapes around us**, Mrs Binta, passed independent editorial review:
+[26-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf)
+and [10-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf).
+New reviewer `/root/chapter17_review_recovery` personally inspected all 36 exact
+pages and independently solved all 19 task/example records. All 64 solid diagrams
+and 22 basic shapes passed geometry checks. No blocking or required finding remains.
+See [independent review](../output/chapter-17/recovery-review-REPORT.md).
+
+Chapters 1-16 have renewed approvals through attributed continuity-only revalidation.
+The new reviewer reproduced all 16 archived full fingerprints and verified complete
+saved evidence for all 401 earlier pages, every prior task and 30 unchanged PDFs.
+Those original semantic/visual inspections belong to `/root/chapter14_review`;
+the new reviewer did not reopen those 401 pages. The shared renderer, earlier
+lessons, artwork, fonts and standards are unchanged. The new isolated builder and
+Chapter 17 dependency effects were independently checked. Together the evidence
+covers 437 unique pages across 32 exact PDFs, not a complete annual book.
+Original review histories are preserved.
+
+Coordinator preservation, frozen-source and actual-PDF audits passed. All seventeen
+strict chapter gates passed independently through
+`python output/chapter-17/root_verify.py --require-reviewed`; results are recorded
+in `output/chapter-17/root-validation.json`. Reviewer final preflight also passed.
+All 172 protected hashes, 30 prior PDFs, 21 historical generated files,
+114 original ordered prompt/answer pairs and 18 other lesson objects are unchanged.
+The final author freeze remains unchanged. Chapter 16 and 17 work is local and
+uncommitted; last verified GitHub delivery remains `1d9a36e` (Chapters 1-15).
+No commit, push or publication was performed in this task.
+
+Next authoring task: **P1-18 Flat shapes and patterns**, Mr Aliyu, followed by
+P1-19 Find out about our class. Annual revision/assessment, the final four offline-AI
+pupil teaching pages and full-year assembly remain. Current curriculum/adoption,
+local educator/pupil/accessibility trials and physical print/printer approval remain
+pending. Safe-model handling requires actual available materials; picture
+interpretation does not establish practical mastery. Before new canonical edits,
+take a fresh baseline and reset approvals affected by shared fingerprints.
+Historical checkpoints follow.
+
+---
+
+# Chapter 17 in progress - 14 November 2026
+
+User authorized continuing with **P1-17 Solid shapes around us**, Mrs Binta.
+Author `/root/chapter17_author` owns new canonical paired content, isolated
+builder, PDFs and author evidence. Distinct reviewer `/root/chapter14_review`
+checks exact continuity of its own prior 401-page/every-task evidence, then freshly
+checks all new solids tasks/pages after root freeze. No new chapter approval yet.
+
+Starting preflight passed. Completed Chapter 16 is uncommitted and protected.
+Root saved 19 lessons/register/supplements/172 protected hashes including 30 prior
+PDFs and 21 exact historical generated backups in `output/chapter-17`, then
+archived/reset 16 shared approvals pending BEFORE canonical edits. Old snapshots
+and review evidence remain immutable. Native session status must be checked on
+recovery; files alone do not prove activity. Root owns final preservation/gates.
+
+Follow CHAPTER-STANDARD.md, CHAPTER-REVIEW.md and HANDOFF-TEMPLATE.md. Four solids
+objectives P1-p11-01..04 and S014/S015 only; naming precedes named recognition,
+cube remains a special cuboid and actual model handling stays resource-conditional.
+After this chapter, two units, annual revision/assessment, four offline-AI pupil
+pages and full-year assembly remain. Current curriculum/adoption, local educator/
+pupil/accessibility and physical print/printer approval remain pending. No
+commit/push/publication in author/reviewer scope. Last delivered checkpoint is
+1d9a36e (Chapters 1-15); historical checkpoints follow below.
+
+---
+
+# Chapter 16 completed - 14 November 2026
+
+P1-01 through P1-16 are independently approved for their exact current
+textbook/workbook pairs. Distinct reviewer `/root/chapter14_review` personally
+inspected all 31 new Heavy and light pages and independently checked all 17 tasks,
+examples, diagrams and answers. Its own prior review of 370 pages and every task
+was carried forward only after independent exact source/PDF continuity checks;
+no new opening of those unchanged pages is claimed. Together this covers 401
+unique current pages across 30 PDFs. No blocking or required finding remains.
+Evidence: [independent review](../output/chapter-16/REVIEW.md) and
+[prior-evidence continuity](../output/chapter-16/reviewer-continuity.json).
+Root separately passed all sixteen strict gates, preflight, final frozen hashes
+and preservation checks: [coordinator validation](../output/chapter-16/root-validation.json).
+
+Chapter 16, **Heavy and light**, Mr Aliyu:
+[19-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf)
+and [12-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf).
+Canonical `production/p1.json` paired_edition; build with
+`python scripts/build_chapter_sixteen.py`. All 17 task/example records, historical
+objective P1-p10-03, 15 unique balance diagrams and 169 actual vector/response
+shapes checked. Beam pivots, suspension lengths, pan heights and labels agree
+with heavier/lighter/equal answers. The workbook provides a full fresh practical
+form, with delayed recall on page 12. All source questions and needed examples
+are local; the reusable textbook works with an ordinary exercise book.
+
+Predictions precede testing; a mistaken prediction may lead to correct observation.
+Actual practical results require a checked working balance and safe light objects.
+Missing apparatus means not assessed practically. Access support is distinct from
+teaching/answer help; diagram interpretation is not proof of handling mastery.
+Recall is recorded before help, and ready pupils still reach the story ending
+before fresh checks. The given story chooses the lighter Red parcel from the
+shown pan result; both parcels stay on the table for the adult.
+
+All 114 ordered original Primary 1 prompt/answer pairs, 18 other complete lessons,
+28 earlier PDFs, 169 protected hashes, all supplementary fields/items and the
+other 47 chapter records are preserved. All 21 historical generated files match
+exact backups; 15 prior review histories retained. GombeTextbook.txt is unchanged.
+Chapter 16 changes are uncommitted; no push/publication in this chapter task.
+Last verified delivered state remains `1d9a36e`, covering Chapters 1-15 and their
+updated handoffs. The delivery checkpoint below is historical evidence of that state.
+
+Next: **P1-17 Solid shapes around us**, Mrs Binta. Three existing units remain,
+plus annual revision/assessment, four offline-AI pupil teaching pages and full-year
+assembly. Current curriculum/adoption, local educator/pupil/accessibility evidence,
+physical print tests and printer approval remain pending. No annual-completion,
+current-alignment or press-ready claim. Follow CHAPTER-STANDARD.md,
+CHAPTER-REVIEW.md and HANDOFF-TEMPLATE.md. Take a new baseline and archive/reset
+affected approvals before future canonical edits; never reuse stale fingerprints.
+
+---
+
 # Commit and push checkpoint - 14 November 2026
 
 The user authorized committing and pushing the completed, independently reviewed

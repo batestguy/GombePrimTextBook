@@ -1,0 +1,22 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "scope": "Continuity-only archived evidence completeness audit, NOT fresh semantic/visual review of prior16.",
+  "original_semantic_reviewer": "/root/chapter14_review",
+  "archived_pages": 401,
+  "archived_pdf_count": 30,
+  "all_archived_raster_hashes_match": true,
+  "all_pdf_page_ranges_complete": true,
+  "all16_archived_reviews_complete_with_resolved_required_findings": true,
+  "all_current_prior16_page_and_author_task_ids_have_attributed_archived_coverage": true,
+  "evidence": [
+    "output/chapter-14/reviewer-page-inventory.json",
+    "output/chapter-14/reviewer-length-pages.json",
+    "output/chapter-15/reviewer-time-pages.json",
+    "output/chapter-16/reviewer-weight-pages.json",
+    "output/chapter-14/REVIEW.md",
+    "output/chapter-15/REVIEW.md",
+    "output/chapter-16/REVIEW.md",
+    "output/chapter-17/recovery-review-continuity.json"
+  ],
+  "no_prior_pages_freshly_opened": true
+}

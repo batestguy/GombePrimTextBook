@@ -1,0 +1,493 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "freeze": {
+    "author": "/root/chapter18_author",
+    "status": "frozen_for_independent_review_not_approved",
+    "fingerprint": "ac19b772ac51c8439b30c1fd4a54c11372bbc3a255373eb31bf769ae019bd0b9",
+    "hashes": {
+      "production/p1.json": "448f7945ce5495d1a60f39081e3846ecec0e195ab80e1fc8c18240480fbd9a43",
+      "production/lessons.json": "86fa4be770b7f6068851cc35cb68aa6a7df56f37093474ec1721b787310928bb",
+      "scripts/build_chapter_nineteen.py": "cfe030b4fd9ea510b27b764e865edd408f28abe64c5ec1eb717a81d510d02496",
+      "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf": "f5c0eb6bd5097a7f6eaafcf050abafd6c93d97eab8bad95fd1a3b0f4a9d6c9e4",
+      "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf": "1c1b6d27e51fdc232cd847441a42ee88100f8e1832230c7e596e46e2a9c558f4"
+    },
+    "pages": {
+      "textbook": 24,
+      "workbook": 11
+    },
+    "tasks": 18,
+    "data_diagram_occurrences": 10,
+    "author_page_inspection": 35,
+    "protected_hashes": 178,
+    "prior_pdfs": 34,
+    "source_pairs": 114,
+    "other_lessons_preserved": 18,
+    "historical_files_restored_exact": 21,
+    "checks": {
+      "preflight": "passed",
+      "draft_fingerprint_gate": "passed",
+      "strict_reviewed_gate": "expected failure pending independent review",
+      "generated_lesson": "All63generated lessons equal canonical concatenation",
+      "final_correction": "WB3 reopened; other34rasters exactly unchanged"
+    }
+  },
+  "all_frozen_hashes_match": true,
+  "diagrams": [
+    {
+      "role": "textbook",
+      "page": 2,
+      "type": "table",
+      "rows": 3,
+      "columns": 2,
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "role": "textbook",
+      "page": 3,
+      "type": "height",
+      "marks": [
+        {
+          "label": "D",
+          "actual_mark": 389.9999694824219,
+          "actual_baseline": 555.0,
+          "actual_length": 165.00003051757812
+        },
+        {
+          "label": "E",
+          "actual_mark": 434.9999694824219,
+          "actual_baseline": 555.0,
+          "actual_length": 120.00003051757812
+        }
+      ],
+      "comparison": "first taller"
+    },
+    {
+      "role": "textbook",
+      "page": 4,
+      "type": "height",
+      "marks": [
+        {
+          "label": "F",
+          "actual_mark": 464.9999694824219,
+          "actual_baseline": 570.0,
+          "actual_length": 105.00003051757812
+        },
+        {
+          "label": "G",
+          "actual_mark": 424.9999694824219,
+          "actual_baseline": 570.0,
+          "actual_length": 145.00003051757812
+        }
+      ],
+      "comparison": "second taller"
+    },
+    {
+      "role": "textbook",
+      "page": 9,
+      "type": "height",
+      "marks": [
+        {
+          "label": "H",
+          "actual_mark": 409.9999694824219,
+          "actual_baseline": 535.0,
+          "actual_length": 125.00003051757812
+        },
+        {
+          "label": "J",
+          "actual_mark": 409.9999694824219,
+          "actual_baseline": 535.0,
+          "actual_length": 125.00003051757812
+        }
+      ],
+      "comparison": "equal"
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "type": "table",
+      "rows": 3,
+      "columns": 2,
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "height",
+      "marks": [
+        {
+          "label": "F",
+          "actual_mark": 464.9999694824219,
+          "actual_baseline": 570.0,
+          "actual_length": 105.00003051757812
+        },
+        {
+          "label": "G",
+          "actual_mark": 424.9999694824219,
+          "actual_baseline": 570.0,
+          "actual_length": 145.00003051757812
+        }
+      ],
+      "comparison": "second taller"
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "table",
+      "rows": 4,
+      "columns": 2,
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "A"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "6"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "B"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "7"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "text": "C"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "table",
+      "rows": 3,
+      "columns": 2,
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 7,
+      "type": "height",
+      "marks": [
+        {
+          "label": "H",
+          "actual_mark": 409.9999694824219,
+          "actual_baseline": 535.0,
+          "actual_length": 125.00003051757812
+        },
+        {
+          "label": "J",
+          "actual_mark": 409.9999694824219,
+          "actual_baseline": 535.0,
+          "actual_length": 125.00003051757812
+        }
+      ],
+      "comparison": "equal"
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "table",
+      "rows": 3,
+      "columns": 2,
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "text": "Person letter"
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "text": "Age in years"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "text": "D"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "text": "5"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "text": "E"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "basic_shapes": [
+    {
+      "role": "workbook",
+      "page": 1,
+      "type": "box",
+      "bounds": [
+        38,
+        725,
+        557,
+        780
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "bounds": [
+        38,
+        463,
+        557,
+        518
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "bounds": [
+        38,
+        585,
+        557,
+        640
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 2,
+      "type": "box",
+      "bounds": [
+        38,
+        705,
+        557,
+        770
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 3,
+      "type": "box",
+      "bounds": [
+        38,
+        530,
+        557,
+        770
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "bounds": [
+        38,
+        245,
+        557,
+        405
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 4,
+      "type": "box",
+      "bounds": [
+        38,
+        555,
+        557,
+        755
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 5,
+      "type": "box",
+      "bounds": [
+        38,
+        600,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 6,
+      "type": "box",
+      "bounds": [
+        38,
+        665,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 8,
+      "type": "box",
+      "bounds": [
+        38,
+        610,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 9,
+      "type": "box",
+      "bounds": [
+        38,
+        735,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "type": "box",
+      "bounds": [
+        38,
+        610,
+        557,
+        775
+      ]
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "type": "box",
+      "bounds": [
+        38,
+        610,
+        557,
+        775
+      ]
+    }
+  ],
+  "all18task_links_printed_answers": true,
+  "both_objectives_eight_modes": true,
+  "six_source_two_supplementary_pairs_preserved": true,
+  "generated63_equal_canonical": true,
+  "pages": 35,
+  "visual_flags_inherited": 0
+}

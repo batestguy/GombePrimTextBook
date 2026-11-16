@@ -1,0 +1,10 @@
+[
+  {
+    "severity": "required",
+    "reference": "Workbook2-3 spread; P1-19-Q4 table drawing on3",
+    "impact": "FacingWB2contains exact completedtarget A6B7C6table,soindependentdrawing can be copied despite coveringD5E8modelabove.",
+    "correction": "OnWB3replace 'Cover the completed example above' with 'Cover the facing page and the completed example above', retaining rawA6B7C6 locally.",
+    "resolved": true,
+    "recheck": "Renewed root freeze86dc7ff5...cfcd: independently reversed only one exact phrase to reconstruct BOTH initial canonical/generated frozen hashes; builder/textbook unchanged. Own final rasters show only WB3changed/34identical. Personally reopened WB3: cover facing page and completed example above, retaining local raw A6/B7/C6 and clear response space. No regression."
+  }
+]

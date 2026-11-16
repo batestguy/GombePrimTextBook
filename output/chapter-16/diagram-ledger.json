@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "stone-leaf-model",
+    "top": 410,
+    "state": "left",
+    "labels": [
+      "stone",
+      "leaf"
+    ],
+    "lines": [
+      [
+        155,
+        475,
+        435,
+        425
+      ],
+      [
+        295,
+        450,
+        295,
+        582
+      ],
+      [
+        265,
+        582,
+        325,
+        582
+      ],
+      [
+        155,
+        475,
+        100,
+        550
+      ],
+      [
+        155,
+        475,
+        210,
+        550
+      ],
+      [
+        100,
+        550,
+        210,
+        550
+      ],
+      [
+        435,
+        425,
+        380,
+        500
+      ],
+      [
+        435,
+        425,
+        490,
+        500
+      ],
+      [
+        380,
+        500,
+        490,
+        500
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 2,
+        "actual_pdf_beam": [
+          155,
+          475,
+          435,
+          425
+        ],
+        "actual_pdf_pans": [
+          550,
+          500
+        ],
+        "labels": [
+          "stone",
+          "leaf"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "swapped-stone-leaf",
+    "top": 300,
+    "state": "right",
+    "labels": [
+      "leaf",
+      "stone"
+    ],
+    "lines": [
+      [
+        155,
+        315,
+        435,
+        365
+      ],
+      [
+        295,
+        340,
+        295,
+        472
+      ],
+      [
+        265,
+        472,
+        325,
+        472
+      ],
+      [
+        155,
+        315,
+        100,
+        390
+      ],
+      [
+        155,
+        315,
+        210,
+        390
+      ],
+      [
+        100,
+        390,
+        210,
+        390
+      ],
+      [
+        435,
+        365,
+        380,
+        440
+      ],
+      [
+        435,
+        365,
+        490,
+        440
+      ],
+      [
+        380,
+        440,
+        490,
+        440
+      ]
+    ],
+    "lower": "right",
+    "interpretation": "right heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 3,
+        "actual_pdf_beam": [
+          155,
+          315,
+          435,
+          365
+        ],
+        "actual_pdf_pans": [
+          390,
+          440
+        ],
+        "labels": [
+          "leaf",
+          "stone"
+        ],
+        "interpretation": "right heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "equal-loads",
+    "top": 280,
+    "state": "equal",
+    "labels": [
+      "load Green",
+      "load Gold"
+    ],
+    "lines": [
+      [
+        155,
+        320,
+        435,
+        320
+      ],
+      [
+        295,
+        320,
+        295,
+        452
+      ],
+      [
+        265,
+        452,
+        325,
+        452
+      ],
+      [
+        155,
+        320,
+        100,
+        395
+      ],
+      [
+        155,
+        320,
+        210,
+        395
+      ],
+      [
+        100,
+        395,
+        210,
+        395
+      ],
+      [
+        435,
+        320,
+        380,
+        395
+      ],
+      [
+        435,
+        320,
+        490,
+        395
+      ],
+      [
+        380,
+        395,
+        490,
+        395
+      ]
+    ],
+    "lower": "neither",
+    "interpretation": "equal loads",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 4,
+        "actual_pdf_beam": [
+          155,
+          320,
+          435,
+          320
+        ],
+        "actual_pdf_pans": [
+          395,
+          395
+        ],
+        "labels": [
+          "load Green",
+          "load Gold"
+        ],
+        "interpretation": "equal loads",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "source-stone-leaf",
+    "top": 260,
+    "state": "left",
+    "labels": [
+      "stone",
+      "leaf"
+    ],
+    "lines": [
+      [
+        155,
+        325,
+        435,
+        275
+      ],
+      [
+        295,
+        300,
+        295,
+        432
+      ],
+      [
+        265,
+        432,
+        325,
+        432
+      ],
+      [
+        155,
+        325,
+        100,
+        400
+      ],
+      [
+        155,
+        325,
+        210,
+        400
+      ],
+      [
+        100,
+        400,
+        210,
+        400
+      ],
+      [
+        435,
+        275,
+        380,
+        350
+      ],
+      [
+        435,
+        275,
+        490,
+        350
+      ],
+      [
+        380,
+        350,
+        490,
+        350
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 6,
+        "actual_pdf_beam": [
+          155,
+          325,
+          435,
+          275
+        ],
+        "actual_pdf_pans": [
+          400,
+          350
+        ],
+        "labels": [
+          "stone",
+          "leaf"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "independent-ab",
+    "top": 300,
+    "state": "right",
+    "labels": [
+      "A",
+      "B"
+    ],
+    "lines": [
+      [
+        155,
+        315,
+        435,
+        365
+      ],
+      [
+        295,
+        340,
+        295,
+        472
+      ],
+      [
+        265,
+        472,
+        325,
+        472
+      ],
+      [
+        155,
+        315,
+        100,
+        390
+      ],
+      [
+        155,
+        315,
+        210,
+        390
+      ],
+      [
+        100,
+        390,
+        210,
+        390
+      ],
+      [
+        435,
+        365,
+        380,
+        440
+      ],
+      [
+        435,
+        365,
+        490,
+        440
+      ],
+      [
+        380,
+        440,
+        490,
+        440
+      ]
+    ],
+    "lower": "right",
+    "interpretation": "right heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 7,
+        "actual_pdf_beam": [
+          155,
+          315,
+          435,
+          365
+        ],
+        "actual_pdf_pans": [
+          390,
+          440
+        ],
+        "labels": [
+          "A",
+          "B"
+        ],
+        "interpretation": "right heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "size-counterexample",
+    "top": 310,
+    "state": "left",
+    "labels": [
+      "small stone",
+      "larger empty box"
+    ],
+    "lines": [
+      [
+        155,
+        375,
+        435,
+        325
+      ],
+      [
+        295,
+        350,
+        295,
+        482
+      ],
+      [
+        265,
+        482,
+        325,
+        482
+      ],
+      [
+        155,
+        375,
+        100,
+        450
+      ],
+      [
+        155,
+        375,
+        210,
+        450
+      ],
+      [
+        100,
+        450,
+        210,
+        450
+      ],
+      [
+        435,
+        325,
+        380,
+        400
+      ],
+      [
+        435,
+        325,
+        490,
+        400
+      ],
+      [
+        380,
+        400,
+        490,
+        400
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 8,
+        "actual_pdf_beam": [
+          155,
+          375,
+          435,
+          325
+        ],
+        "actual_pdf_pans": [
+          450,
+          400
+        ],
+        "labels": [
+          "small stone",
+          "larger empty box"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "help-stone-leaf",
+    "top": 280,
+    "state": "left",
+    "labels": [
+      "stone",
+      "leaf"
+    ],
+    "lines": [
+      [
+        155,
+        345,
+        435,
+        295
+      ],
+      [
+        295,
+        320,
+        295,
+        452
+      ],
+      [
+        265,
+        452,
+        325,
+        452
+      ],
+      [
+        155,
+        345,
+        100,
+        420
+      ],
+      [
+        155,
+        345,
+        210,
+        420
+      ],
+      [
+        100,
+        420,
+        210,
+        420
+      ],
+      [
+        435,
+        295,
+        380,
+        370
+      ],
+      [
+        435,
+        295,
+        490,
+        370
+      ],
+      [
+        380,
+        370,
+        490,
+        370
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 10,
+        "actual_pdf_beam": [
+          155,
+          345,
+          435,
+          295
+        ],
+        "actual_pdf_pans": [
+          420,
+          370
+        ],
+        "labels": [
+          "stone",
+          "leaf"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "story-parcels",
+    "top": 290,
+    "state": "left",
+    "labels": [
+      "parcel Blue",
+      "parcel Red"
+    ],
+    "lines": [
+      [
+        155,
+        355,
+        435,
+        305
+      ],
+      [
+        295,
+        330,
+        295,
+        462
+      ],
+      [
+        265,
+        462,
+        325,
+        462
+      ],
+      [
+        155,
+        355,
+        100,
+        430
+      ],
+      [
+        155,
+        355,
+        210,
+        430
+      ],
+      [
+        100,
+        430,
+        210,
+        430
+      ],
+      [
+        435,
+        305,
+        380,
+        380
+      ],
+      [
+        435,
+        305,
+        490,
+        380
+      ],
+      [
+        380,
+        380,
+        490,
+        380
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 11,
+        "actual_pdf_beam": [
+          155,
+          355,
+          435,
+          305
+        ],
+        "actual_pdf_pans": [
+          430,
+          380
+        ],
+        "labels": [
+          "parcel Blue",
+          "parcel Red"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "fresh-cd",
+    "top": 280,
+    "state": "left",
+    "labels": [
+      "C",
+      "D"
+    ],
+    "lines": [
+      [
+        155,
+        345,
+        435,
+        295
+      ],
+      [
+        295,
+        320,
+        295,
+        452
+      ],
+      [
+        265,
+        452,
+        325,
+        452
+      ],
+      [
+        155,
+        345,
+        100,
+        420
+      ],
+      [
+        155,
+        345,
+        210,
+        420
+      ],
+      [
+        100,
+        420,
+        210,
+        420
+      ],
+      [
+        435,
+        295,
+        380,
+        370
+      ],
+      [
+        435,
+        295,
+        490,
+        370
+      ],
+      [
+        380,
+        370,
+        490,
+        370
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 12,
+        "actual_pdf_beam": [
+          155,
+          345,
+          435,
+          295
+        ],
+        "actual_pdf_pans": [
+          420,
+          370
+        ],
+        "labels": [
+          "C",
+          "D"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-swapped",
+    "top": 260,
+    "state": "right",
+    "labels": [
+      "leaf",
+      "stone"
+    ],
+    "lines": [
+      [
+        155,
+        275,
+        435,
+        325
+      ],
+      [
+        295,
+        300,
+        295,
+        432
+      ],
+      [
+        265,
+        432,
+        325,
+        432
+      ],
+      [
+        155,
+        275,
+        100,
+        350
+      ],
+      [
+        155,
+        275,
+        210,
+        350
+      ],
+      [
+        100,
+        350,
+        210,
+        350
+      ],
+      [
+        435,
+        325,
+        380,
+        400
+      ],
+      [
+        435,
+        325,
+        490,
+        400
+      ],
+      [
+        380,
+        400,
+        490,
+        400
+      ]
+    ],
+    "lower": "right",
+    "interpretation": "right heavier",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 2,
+        "actual_pdf_beam": [
+          155,
+          275,
+          435,
+          325
+        ],
+        "actual_pdf_pans": [
+          350,
+          400
+        ],
+        "labels": [
+          "leaf",
+          "stone"
+        ],
+        "interpretation": "right heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-equal",
+    "top": 250,
+    "state": "equal",
+    "labels": [
+      "load Green",
+      "load Gold"
+    ],
+    "lines": [
+      [
+        155,
+        290,
+        435,
+        290
+      ],
+      [
+        295,
+        290,
+        295,
+        422
+      ],
+      [
+        265,
+        422,
+        325,
+        422
+      ],
+      [
+        155,
+        290,
+        100,
+        365
+      ],
+      [
+        155,
+        290,
+        210,
+        365
+      ],
+      [
+        100,
+        365,
+        210,
+        365
+      ],
+      [
+        435,
+        290,
+        380,
+        365
+      ],
+      [
+        435,
+        290,
+        490,
+        365
+      ],
+      [
+        380,
+        365,
+        490,
+        365
+      ]
+    ],
+    "lower": "neither",
+    "interpretation": "equal loads",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 3,
+        "actual_pdf_beam": [
+          155,
+          290,
+          435,
+          290
+        ],
+        "actual_pdf_pans": [
+          365,
+          365
+        ],
+        "labels": [
+          "load Green",
+          "load Gold"
+        ],
+        "interpretation": "equal loads",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-source",
+    "top": 225,
+    "state": "left",
+    "labels": [
+      "stone",
+      "leaf"
+    ],
+    "lines": [
+      [
+        155,
+        290,
+        435,
+        240
+      ],
+      [
+        295,
+        265,
+        295,
+        397
+      ],
+      [
+        265,
+        397,
+        325,
+        397
+      ],
+      [
+        155,
+        290,
+        100,
+        365
+      ],
+      [
+        155,
+        290,
+        210,
+        365
+      ],
+      [
+        100,
+        365,
+        210,
+        365
+      ],
+      [
+        435,
+        240,
+        380,
+        315
+      ],
+      [
+        435,
+        240,
+        490,
+        315
+      ],
+      [
+        380,
+        315,
+        490,
+        315
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 4,
+        "actual_pdf_beam": [
+          155,
+          290,
+          435,
+          240
+        ],
+        "actual_pdf_pans": [
+          365,
+          315
+        ],
+        "labels": [
+          "stone",
+          "leaf"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-independent",
+    "top": 290,
+    "state": "right",
+    "labels": [
+      "A",
+      "B"
+    ],
+    "lines": [
+      [
+        155,
+        305,
+        435,
+        355
+      ],
+      [
+        295,
+        330,
+        295,
+        462
+      ],
+      [
+        265,
+        462,
+        325,
+        462
+      ],
+      [
+        155,
+        305,
+        100,
+        380
+      ],
+      [
+        155,
+        305,
+        210,
+        380
+      ],
+      [
+        100,
+        380,
+        210,
+        380
+      ],
+      [
+        435,
+        355,
+        380,
+        430
+      ],
+      [
+        435,
+        355,
+        490,
+        430
+      ],
+      [
+        380,
+        430,
+        490,
+        430
+      ]
+    ],
+    "lower": "right",
+    "interpretation": "right heavier",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 5,
+        "actual_pdf_beam": [
+          155,
+          305,
+          435,
+          355
+        ],
+        "actual_pdf_pans": [
+          380,
+          430
+        ],
+        "labels": [
+          "A",
+          "B"
+        ],
+        "interpretation": "right heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-size",
+    "top": 270,
+    "state": "left",
+    "labels": [
+      "small stone",
+      "larger empty box"
+    ],
+    "lines": [
+      [
+        155,
+        335,
+        435,
+        285
+      ],
+      [
+        295,
+        310,
+        295,
+        442
+      ],
+      [
+        265,
+        442,
+        325,
+        442
+      ],
+      [
+        155,
+        335,
+        100,
+        410
+      ],
+      [
+        155,
+        335,
+        210,
+        410
+      ],
+      [
+        100,
+        410,
+        210,
+        410
+      ],
+      [
+        435,
+        285,
+        380,
+        360
+      ],
+      [
+        435,
+        285,
+        490,
+        360
+      ],
+      [
+        380,
+        360,
+        490,
+        360
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 7,
+        "actual_pdf_beam": [
+          155,
+          335,
+          435,
+          285
+        ],
+        "actual_pdf_pans": [
+          410,
+          360
+        ],
+        "labels": [
+          "small stone",
+          "larger empty box"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "workbook-fresh",
+    "top": 260,
+    "state": "left",
+    "labels": [
+      "C",
+      "D"
+    ],
+    "lines": [
+      [
+        155,
+        325,
+        435,
+        275
+      ],
+      [
+        295,
+        300,
+        295,
+        432
+      ],
+      [
+        265,
+        432,
+        325,
+        432
+      ],
+      [
+        155,
+        325,
+        100,
+        400
+      ],
+      [
+        155,
+        325,
+        210,
+        400
+      ],
+      [
+        100,
+        400,
+        210,
+        400
+      ],
+      [
+        435,
+        275,
+        380,
+        350
+      ],
+      [
+        435,
+        275,
+        490,
+        350
+      ],
+      [
+        380,
+        350,
+        490,
+        350
+      ]
+    ],
+    "lower": "left",
+    "interpretation": "left heavier",
+    "pdf_evidence": [
+      {
+        "role": "workbook",
+        "page": 10,
+        "actual_pdf_beam": [
+          155,
+          325,
+          435,
+          275
+        ],
+        "actual_pdf_pans": [
+          400,
+          350
+        ],
+        "labels": [
+          "C",
+          "D"
+        ],
+        "interpretation": "left heavier",
+        "verified": "exact beam endpoints, pan line endpoints and labels from actual PDF vectors/text; source positions identify occurrence"
+      }
+    ]
+  },
+  {
+    "id": "completed-leaf-drawing",
+    "pdf_evidence": [
+      {
+        "role": "textbook",
+        "page": 5,
+        "outline_and_middle_line": true
+      },
+      {
+        "role": "workbook",
+        "page": 4,
+        "outline_and_middle_line": true
+      }
+    ]
+  }
+]

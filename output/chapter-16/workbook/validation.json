@@ -1,0 +1,229 @@
+{
+  "pages": 12,
+  "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07",
+  "page_manifest": [
+    {
+      "slug": "heavy-1",
+      "kicker": "Heavy and light",
+      "title": "Our weight journal",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [],
+      "stages": [
+        "S1",
+        "S2"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-2",
+      "kicker": "Heavy and light",
+      "title": "Try together",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-GUIDED"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-3",
+      "kicker": "Heavy and light",
+      "title": "Pans at rest",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-EQUAL",
+        "P1-16-Q4"
+      ],
+      "stages": [
+        "S4",
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-4",
+      "kicker": "Heavy and light",
+      "title": "The given example and a drawing",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-Q1",
+        "P1-16-Q2",
+        "P1-16-Q3",
+        "P1-16-DRAW-MODEL"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-5",
+      "kicker": "Heavy and light",
+      "title": "Read a new balance",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-INTERPRET"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-6",
+      "kicker": "Heavy and light",
+      "title": "Predict, then test",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-Q5"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-7",
+      "kicker": "Heavy and light",
+      "title": "Think about size",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-Q6"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-8",
+      "kicker": "Heavy and light",
+      "title": "Remember first",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-RECALL"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-9",
+      "kicker": "Heavy and light",
+      "title": "A new try after help",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-RECHECK"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-10",
+      "kicker": "Heavy and light",
+      "title": "Fresh check: explain and test",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-fresh-practical",
+      "kicker": "Heavy and light",
+      "title": "Fresh check: predict and test",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "heavy-11",
+      "kicker": "Heavy and light",
+      "title": "Remember on another day",
+      "subtitle": "Read together. Write in this workbook.",
+      "task_ids": [
+        "P1-16-DELAYED"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-16-GUIDED": [
+      2
+    ],
+    "P1-16-EQUAL": [
+      3
+    ],
+    "P1-16-Q4": [
+      3
+    ],
+    "P1-16-Q1": [
+      4
+    ],
+    "P1-16-Q2": [
+      4
+    ],
+    "P1-16-Q3": [
+      4
+    ],
+    "P1-16-DRAW-MODEL": [
+      4
+    ],
+    "P1-16-INTERPRET": [
+      5
+    ],
+    "P1-16-Q5": [
+      6
+    ],
+    "P1-16-Q6": [
+      7
+    ],
+    "P1-16-RECALL": [
+      8
+    ],
+    "P1-16-RECHECK": [
+      9
+    ],
+    "P1-16-FRESH": [
+      10,
+      11
+    ],
+    "P1-16-DELAYED": [
+      12
+    ]
+  },
+  "objects": [],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

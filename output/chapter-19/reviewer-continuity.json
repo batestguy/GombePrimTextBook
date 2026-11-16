@@ -1,0 +1,143 @@
+{
+  "reviewer": "/root/chapter17_review_recovery",
+  "scope": "StageA exact continuity/completeness only; no new prior-page inspections or task recalculation claimed. Prior16 semantic/visual review belongs solely to /root/chapter14_review. Prior17/18fresh36+38page semantic/visual reviews and attributed continuity revalidations are my own completed same-session work.",
+  "all178_protected_hashes_match": true,
+  "all21_historical_files_exact": true,
+  "prior18_lessons_exact": true,
+  "original114_source_pairs_exact": true,
+  "all475_archived_raster_hashes_match": true,
+  "all34_prior_pdf_ranges_complete": true,
+  "all_prior18_task_ids_have_attributed_archived_coverage": true,
+  "previous_full_fingerprints_reproduced": [
+    {
+      "chapter": "P1-01",
+      "previous_full_fingerprint": "87c2ac0f2d00a70b4587b3b56105db2bb5f1235039b21f5167feedbadcd609a2",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-02",
+      "previous_full_fingerprint": "d736005ad247ca661e5bd4a942812fa65e25310ef053ecf8c7f17f24e8b5a365",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-03",
+      "previous_full_fingerprint": "3ff2be7792bc048ce872952d23d49a0db6e88fdb86ff8b46a7f241da4b788687",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-04",
+      "previous_full_fingerprint": "44c7f6c523d4f0ea9ebb44aed4fe0acf8aed1382608bebede16a15a02cc636b1",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-05",
+      "previous_full_fingerprint": "c3b3ed798bd2880e3c824e8a592e49fa39f58a4cf8589a1233e6a9ea0e37badb",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-06",
+      "previous_full_fingerprint": "e2872f72e220283a3404a18aa7d40c5de0bda5125bdd58d068ab59e464b0c1fd",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-07",
+      "previous_full_fingerprint": "87b6fae82b5e9870bc291516c54a4a110fb7e0da4bd39476332ebd959d08eeef",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-08",
+      "previous_full_fingerprint": "6109bd41f7925d276e2c35fe1b2c928f96302ba5dfdc51a744fa429c22545b43",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-09",
+      "previous_full_fingerprint": "87e8c140f1a689b1cd36c2ec2d24a2bd42f94288d9c62d5e418dd17b0dafe0f1",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-10",
+      "previous_full_fingerprint": "345a0e48371dacae88983727839b846ea7166cde98a56e6731075f5b5f23e4fe",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-11",
+      "previous_full_fingerprint": "316c1d5524029f35aa7fdf0f1f237e319ee638eeefefb97821e635bac01ac952",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-12",
+      "previous_full_fingerprint": "711fab22212592666188b426d7a70a2138cac8346dcca08faf47968c354df5ca",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-13",
+      "previous_full_fingerprint": "f6b9bd2e1c9b5cd278bbeb168db6737a6762ded8c72a28f47da1d19f3e3e48b4",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-14",
+      "previous_full_fingerprint": "f63d342bfadf7bbcfbc62147ed6fe088bfd823b34315314e70b346946a6dcc27",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-15",
+      "previous_full_fingerprint": "97612f2e869faaf1eeaf92701249f0594235999e543bdd34872ca472fe1f2787",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-16",
+      "previous_full_fingerprint": "9df79f5561d7a0a30c9e456b40ea95466e863f68b57a5cf47231c90b3122ba1f",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity-only; original semantic/visual reviewer /root/chapter14_review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-17",
+      "previous_full_fingerprint": "594e06e7cb7837ea97162ae8dc5a68ddf6d3046f1ead8af5b3190d58c97dc1dc",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (Chapter18 continuity revalidation of own same-session Chapter17 fresh review)",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "chapter": "P1-18",
+      "previous_full_fingerprint": "1bad62b1eda9eaed1393cee6b17e63043f1ea5c2d45c9f97000c76a6e35ecd71",
+      "previous_reviewer": "Codex /root/chapter17_review_recovery (fresh independent Chapter18 review)",
+      "reviewed_on": "2026-11-16"
+    }
+  ],
+  "archived_page_evidence": [
+    "output/chapter-14/reviewer-page-inventory.json",
+    "output/chapter-14/reviewer-length-pages.json",
+    "output/chapter-15/reviewer-time-pages.json",
+    "output/chapter-16/reviewer-weight-pages.json",
+    "output/chapter-17/recovery-review-pages.json",
+    "output/chapter-18/reviewer-pages.json"
+  ],
+  "new_scoped_paths": [
+    "scripts/build_chapter_nineteen.py"
+  ],
+  "canonical_changes": [
+    {
+      "chapter": "P1-19",
+      "changed_keys": [
+        "paired_edition",
+        "questions"
+      ]
+    }
+  ],
+  "status": "Final-freeze exact earlier18 continuity/archive checks pass. New DataRenderer source inspected: local table/height dispatch only; shared Renderer unchanged. Fresh Chapter19 semantic/page review separately recorded in reviewer-REPORT.md.",
+  "final_freeze_recheck": "86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd"
+}

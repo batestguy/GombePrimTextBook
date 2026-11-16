@@ -1,0 +1,483 @@
+[
+  {
+    "id": "P1-18-FEATURES",
+    "mode": "model",
+    "prompt": "Watch straight side, corner, square corner and curved boundary demonstrated.",
+    "answer": "A side here is a straight part of the boundary. A corner is where two straight sides meet. A square corner fits an undamaged square card corner exactly. A square has four equal straight sides and four square corners; a non-square rectangle has four square corners and equal opposite sides but unequal adjacent sides. A circle has a curved boundary and no straight sides or corners.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-18-MODEL",
+    "mode": "model",
+    "prompt": "Watch names, named pointing, name matching, square/rectangle comparison and all-three household examples.",
+    "answer": "From left: square, non-square rectangle, circle. Match square to square, non-square rectangle to rectangle, circle to circle. Both quadrilaterals have four square corners and equal opposite sides. Only the square has all four sides equal here. A square is a special rectangle. Examples: square tile face, non-square book cover, round lid outline; these approximate ideal flat shapes.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-18-GUIDED",
+    "mode": "guided",
+    "prompt": "Together name, recognize, match names, compare both four-sided shapes and give all-three examples.",
+    "answer": "Left to right: circle, square, non-square rectangle. Names match circle, square, rectangle respectively. Point to each on request. Both four-sided shapes have four square corners; the square has all sides equal, the non-square rectangle has unequal neighbouring sides. Examples in order: lid outline, tile face, book cover. Accept justified alternatives; record support.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        4
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-18-DRAW-MODEL",
+    "mode": "model",
+    "prompt": "Watch a completed non-square rectangle drawing before drawing independently.",
+    "answer": "Completed outline has four square corners, two equal long opposite sides and two equal short opposite sides; adjacent side lengths differ. A simple recognizable outline is sufficient; do not score artistic polish.",
+    "objectives": [
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-18-PATTERN-MODEL",
+    "mode": "model",
+    "prompt": "Watch a repeating unit used to continue a pattern.",
+    "answer": "The repeat unit is circle then square. Repeat the whole unit: circle, square, circle, square, circle, square. Workbook alternate completed example repeats square then circle three times. After the first four shapes comes circle. Rotation does not change a shape. Pattern work is provisional enrichment.",
+    "objectives": [],
+    "pages": {
+      "textbook": [
+        6
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q1",
+    "mode": "independent",
+    "prompt": "How many corners has a circle?",
+    "answer": "Zero corners: the circle has a curved boundary.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q2",
+    "mode": "independent",
+    "prompt": "How many equal sides has a square?",
+    "answer": "Four equal straight sides; the square also has four square corners.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q3",
+    "mode": "independent",
+    "prompt": "Continue: circle, square, circle, square, __.",
+    "answer": "Circle. The repeat unit is circle then square.",
+    "objectives": [],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q4",
+    "mode": "independent",
+    "prompt": "Draw a non-square rectangle.",
+    "answer": "A non-square rectangle outline with four square corners, opposite sides equal and adjacent lengths unequal. Accept recognizable freehand work; do not require perfect art.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q5",
+    "mode": "independent",
+    "prompt": "Name an object with a rectangular face.",
+    "answer": "For example, the non-square front cover of a book. Accept any suitable rectangular face or outline with explanation, including a square face correctly explained as a special rectangle.",
+    "objectives": [
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-18-Q6",
+    "mode": "independent",
+    "prompt": "What stays the same when a square turns?",
+    "answer": "Its four equal straight sides and four square corners stay the same. Its size and shape do not change in a turn.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "S016",
+    "mode": "independent",
+    "prompt": "The teacher shows a square, a non-square rectangle and a circle in mixed orientations. Point to each shape when its name is spoken.",
+    "answer": "Point correctly to the square, non-square rectangle and circle when each name is spoken; include the rotated shapes. A square accepted as a rectangle needs its correct special-case explanation. Picture pointing is not actual card handling.",
+    "objectives": [
+      "P1-p11-05"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "S017",
+    "mode": "independent",
+    "prompt": "Match three shape cards to labels square, rectangle and circle. Read or say each name.",
+    "answer": "From left: non-square rectangle matches rectangle; circle matches circle; square matches square. Adult may read labels neutrally; assess matching separately from reading. Accept square matched to rectangle with correct special-case explanation, then ask for its most-specific name.",
+    "objectives": [
+      "P1-p11-06"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "S018",
+    "mode": "independent",
+    "prompt": "Compare a square card with a non-square rectangle card. Say one feature shared and one way they differ.",
+    "answer": "Both cards have four square corners and equal opposite sides. Square has four equal sides; non-square rectangle has unequal adjacent lengths. Rotation changes neither. Accept a correct equivalent feature explanation.",
+    "objectives": [
+      "P1-p11-07"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "S019",
+    "mode": "independent",
+    "prompt": "Find or name familiar objects with a square face, a non-square rectangular face and a circular face or outline.",
+    "answer": "One suitable example for EACH: square tile face; non-square book cover; circular lid outline. Pupil identifies the relevant face or outline. Accept sound alternatives, including a square napkin face, non-square door face and circular plate outline. Real objects approximate ideal shapes.",
+    "objectives": [
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-18-RECALL",
+    "mode": "recall",
+    "prompt": "Before help recall three shapes, their features/name matches, difference and household example for each.",
+    "answer": "Recall square, rectangle, circle and their matching names. Square: four equal straight sides and square corners. Rectangle: four square corners and equal opposite sides; non-square rectangle has unequal adjacent sides. Circle: curved boundary, no corners. A square is a special rectangle. Give all-three household faces/outlines such as tile face, book cover and lid outline. Record before help.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-18-HELP",
+    "mode": "help",
+    "prompt": "After recall, follow boundaries, compare corners and sides, name/match and link all-three household examples.",
+    "answer": "With support name square, non-square rectangle, circle, point on request and match square/rectangle/circle labels. Follow straight sides and check square corners with a safe square card; compare equal square sides to unequal adjacent rectangle sides. Circle boundary curved/no corners. Match tile face, book cover and lid outline respectively; alternatives valid with features. Record supported response and no handling claim without cards.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-18-RECHECK",
+    "mode": "recheck",
+    "prompt": "Everyone tries this new set, including pupils who skipped help. Keep help and model pages closed. Name, recognize, match, compare and give all-three household examples.",
+    "answer": "Left to right: square, circle, non-square rectangle. Match each to its own name (non-square rectangle to rectangle). Both four-sided figures have four square corners and equal opposite sides; square alone has all sides equal here. Examples respectively: square tile face, circular lid outline, non-square book cover. Accept justified alternatives. Collect names first, then assess pointing and matching separately; adult label reading is neutral. Record support and actual resources.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-18-STORY",
+    "mode": "closure",
+    "prompt": "Explain the cover border choice and the repeating unit.",
+    "answer": "The border repeats circle then square, with a non-square rectangular cover outline around it. A turned square remains square. Repeat unit circle-square gives next circle after circle-square-circle-square. The friends use features, not colour or orientation; all four contribute. Story resolution is not an observed pupil outcome.",
+    "objectives": [],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-18-FRESH",
+    "mode": "fresh",
+    "prompt": "Close earlier pages. These shapes have new sizes, order and turns. Give your own ideas without help. Name, recognize, match, compare and give all-three household examples.",
+    "answer": "Left to right: circle, non-square rectangle, square. Match each to its own name (non-square rectangle to rectangle). Both four-sided figures have four square corners and equal opposite sides; square alone has all sides equal here. Examples respectively: circular lid outline, non-square book cover, square tile face. Accept justified alternatives. Collect names first, then assess pointing and matching separately; adult label reading is neutral. Record support and actual resources.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "P1-18-DELAYED",
+    "mode": "delayed",
+    "prompt": "Adult: use on another day before reteaching. Choose new safe cards if available. Record independent skills separately. Name, recognize, match, compare and give all-three household examples.",
+    "answer": "Left to right: non-square rectangle, square, circle. Match each to its own name (non-square rectangle to rectangle). Both four-sided figures have four square corners and equal opposite sides; square alone has all sides equal here. Examples respectively: non-square book cover, square tile face, circular lid outline. Accept justified alternatives. Collect names first, then assess pointing and matching separately; adult label reading is neutral. Record support and actual resources.",
+    "objectives": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "pages": {
+      "textbook": [
+        14
+      ],
+      "workbook": [
+        11
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        25
+      ]
+    }
+  }
+]

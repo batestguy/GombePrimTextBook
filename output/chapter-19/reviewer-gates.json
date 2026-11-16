@@ -1,0 +1,258 @@
+[
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-01",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-01 e8bc4087a349f637bf090a06ef020a31ee3b8aa5bbc1240050cc056fc622d6f4\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-02",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-02 3a92faca46d57ebd19cd91333896142c04caa0a855af474f4ba1395457b3a0dc\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-03",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-03 8fa0fc9035be26a1b9632749ef764844b84695d69897eb3a244e8543b0b7c2cd\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-04",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-04 976c9ac3a007d2f422dd6d44e9d66b06e5d80d4bde24b621dd42feee3097311a\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-05",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-05 105c48469c3549bc6f190b3b7903de966d51f7d489ab42119773e5d836e9b3aa\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-06",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-06 640a644f4d3e8f18b753b59e2380037c4dca16fa5b6b4ad61080525dfecdac13\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-07",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-07 3087078d48ec7f051100246273a559b48ca536900078cfd05ff2812a04c28ee3\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-08",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-08 d0f77de5faaf459710964ae069eb4196040d34f84ff2711493496a7c68d7e997\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-09",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-09 cc3f8ae8394f01cae9568ec9ac933142f507f42971e146079884c61753a42410\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-10",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-10 a6753e4e239482ec45fc1dfd0dc704cfb68700f2b288eb4581da24d424c64fad\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-11",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-11 7f78b987c03baf5c7ca65b4cb14ed2bf33eb6499fedcbfcddd727b5aa6af3a72\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-12",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-12 745db7d55a2b5a7fbf84d040d972f8ca54bb24265ec6077dc32cad59178d8f15\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-13",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-13 e8c7b4f5928cc96b8718938fb9dc0a3c72fd96c450eaf2653afe53722a1d5ca1\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-14",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-14 099fbb1c9cba34f12f568d5b390e46236a72462613de17ead7cd04d1c6efcaf9\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-15",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-15 21aabe37d844f9e77a6350f6ea99f8626f6a64240da12d5f0a031004c214644a\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-16",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-16 652179b398ca3b8a51f28c3fe8a0d3a7088d4bc34fe7902055ae5405b1b848fa\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-17",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-17 f5b36bc1d32a8e2780bcb906176bb649bb8716c0eba79b6f8a5ff4fa4ffe7b58\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-18",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-18 a887a8aa0eaf8c4bab02f905ac7253f0ab96bad4b51d07435e475c4cb2f0023d\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-19",
+      "--require-reviewed",
+      "--fingerprint"
+    ],
+    "returncode": 0,
+    "stdout": "P1-19 86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd\n1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "C:\\Python314\\python.exe",
+      "scripts/preflight.py"
+    ],
+    "returncode": 0,
+    "stdout": "63 chapter records checked; draft/register check only; pending chapters are NOT approved.\n1.9.38\nPreflight passed: tools, lesson data, curriculum evidence, artwork and font licences present.\n",
+    "stderr": "typst 0.14.2 (b33de9de)\n"
+  }
+]

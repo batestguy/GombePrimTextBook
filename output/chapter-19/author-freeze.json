@@ -1,0 +1,37 @@
+{
+  "author": "/root/chapter18_author",
+  "status": "frozen_for_independent_review_not_approved",
+  "fingerprint": "86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd",
+  "hashes": {
+    "production/p1.json": "2cfbde0264a101c3026154dc42d28e5ed6428f2dcd536c8373d2a6876946792f",
+    "production/lessons.json": "f69cac1b0bc11d0d1e78e9e6278f76b24560d3f2f04cac555eff27a19977bf43",
+    "scripts/build_chapter_nineteen.py": "cfe030b4fd9ea510b27b764e865edd408f28abe64c5ec1eb717a81d510d02496",
+    "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf": "f5c0eb6bd5097a7f6eaafcf050abafd6c93d97eab8bad95fd1a3b0f4a9d6c9e4",
+    "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf": "19ab95a97e9cf4e888d9d7e6e972b2993f357cc4c2f0b77914322281271f66b3"
+  },
+  "pages": {
+    "textbook": 24,
+    "workbook": 11
+  },
+  "tasks": 18,
+  "data_diagram_occurrences": 10,
+  "author_page_inspection": 35,
+  "protected_hashes": 178,
+  "prior_pdfs": 34,
+  "source_pairs": 114,
+  "other_lessons_preserved": 18,
+  "historical_files_restored_exact": 21,
+  "checks": {
+    "preflight": "passed",
+    "draft_fingerprint_gate": "passed",
+    "strict_reviewed_gate": "expected failure pending independent review",
+    "generated_lesson": "All63generated lessons equal canonical concatenation",
+    "final_correction": "WB3 reopened; other34rasters exactly unchanged"
+  },
+  "facing_page_fix": {
+    "previous_fingerprint": "ac19b772ac51c8439b30c1fd4a54c11372bbc3a255373eb31bf769ae019bd0b9",
+    "correction": "WB3 cover facing page and completed example above before independent drawing",
+    "changed_pages": 1,
+    "unchanged_exact_rasters": 34
+  }
+}

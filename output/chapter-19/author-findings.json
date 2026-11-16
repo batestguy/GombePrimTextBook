@@ -1,0 +1,11 @@
+[
+  {
+    "severity": "required",
+    "reference": "Workbook2-3 spread / P1-19-Q4",
+    "finding": "Facing WB2 completed A6/B7/C6 table remained visible while WB3 asked independent drawing.",
+    "correction": "WB3 now says Cover the facing page and the completed example above.",
+    "author_resolved": true,
+    "recheck": "Reopened exact final WB3; source records A6/B7/C6 local and cover instruction clear. Other34rasters exact; build/preflight/draft pass. Independent reviewer recheck pending.",
+    "fingerprint": "86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-01",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-02",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-03",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-04",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-05",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-06",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-07",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-08",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-09",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-10",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-11",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-12",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-13",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-14",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-15",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/check_chapter_standard.py",
+      "--chapter",
+      "P1-16",
+      "--require-reviewed"
+    ],
+    "exit_code": 0,
+    "stdout": "1 chapter records checked; independent review gate PASSED.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "scripts/preflight.py"
+    ],
+    "exit_code": 0,
+    "stdout": "63 chapter records checked; draft/register check only; pending chapters are NOT approved.\n1.9.38\nPreflight passed: tools, lesson data, curriculum evidence, artwork and font licences present.\n",
+    "stderr": "typst 0.14.2 (b33de9de)\n"
+  }
+]

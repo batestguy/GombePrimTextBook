@@ -1,0 +1,219 @@
+{
+  "pages": 11,
+  "sha256": "19ab95a97e9cf4e888d9d7e6e972b2993f357cc4c2f0b77914322281271f66b3",
+  "page_manifest": [
+    {
+      "slug": "data-workbook-1",
+      "kicker": "Find out about our class",
+      "title": "Try together, check fairly",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-GUIDED"
+      ],
+      "stages": [
+        "S4"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-2",
+      "kicker": "Find out about our class",
+      "title": "Read the practice records",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-Q1",
+        "P1-19-Q2",
+        "P1-19-Q3"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-3",
+      "kicker": "Find out about our class",
+      "title": "Watch a table, then draw",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-TABLE-MODEL",
+        "P1-19-Q4"
+      ],
+      "stages": [
+        "S3",
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-4",
+      "kicker": "Find out about our class",
+      "title": "Tools and fair questions",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-Q5",
+        "P1-19-Q6"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-5",
+      "kicker": "Find out about our class",
+      "title": "Collect your own new records",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "S020",
+        "S021"
+      ],
+      "stages": [
+        "S5"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-6",
+      "kicker": "Find out about our class",
+      "title": "Remember before help",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-RECALL"
+      ],
+      "stages": [
+        "S6"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-7",
+      "kicker": "Find out about our class",
+      "title": "Help: one small record at a time",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-HELP"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-8",
+      "kicker": "Find out about our class",
+      "title": "A new try without help",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-RECHECK"
+      ],
+      "stages": [
+        "S7"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-9",
+      "kicker": "Find out about our class",
+      "title": "Our folder has checked records",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "stages": [
+        "S8"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-10",
+      "kicker": "Find out about our class",
+      "title": "Show learning afresh",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-FRESH"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    },
+    {
+      "slug": "data-workbook-11",
+      "kicker": "Find out about our class",
+      "title": "Remember on another day",
+      "subtitle": "Read together. Speak, point or write here.",
+      "task_ids": [
+        "P1-19-DELAYED"
+      ],
+      "stages": [
+        "S9"
+      ],
+      "adult": false,
+      "answer_ids": []
+    }
+  ],
+  "task_pages": {
+    "P1-19-GUIDED": [
+      1
+    ],
+    "P1-19-Q1": [
+      2
+    ],
+    "P1-19-Q2": [
+      2
+    ],
+    "P1-19-Q3": [
+      2
+    ],
+    "P1-19-TABLE-MODEL": [
+      3
+    ],
+    "P1-19-Q4": [
+      3
+    ],
+    "P1-19-Q5": [
+      4
+    ],
+    "P1-19-Q6": [
+      4
+    ],
+    "S020": [
+      5
+    ],
+    "S021": [
+      5
+    ],
+    "P1-19-RECALL": [
+      6
+    ],
+    "P1-19-HELP": [
+      7
+    ],
+    "P1-19-RECHECK": [
+      8
+    ],
+    "P1-19-STORY": [
+      9
+    ],
+    "P1-19-FRESH": [
+      10
+    ],
+    "P1-19-DELAYED": [
+      11
+    ]
+  },
+  "objects": [],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

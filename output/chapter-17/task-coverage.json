@@ -1,0 +1,439 @@
+[
+  {
+    "id": "P1-17-MODEL",
+    "mode": "model",
+    "prompt": "Watch naming, recognition, sorting, comparison and examples with safe models.",
+    "answer": "Teacher names and identifies cube, non-cube cuboid, cylinder and sphere, sorts each by features, compares all-equal cube edges with unequal adjacent edges on the chosen non-cube cuboid, and links a large cube block, long box, closed straight-sided container and ball to all four respectively.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-17-HANDLING",
+    "mode": "model",
+    "prompt": "Watch controlled rolling and standing tests on safe models.",
+    "answer": "On a level surface a sphere and a cylinder on its curved side can both roll; a cylinder can stand on a flat end. A sphere has no flat end for stable ordinary stacking. A box may slide or tumble rather than roll smoothly. Record actual observations, not a predetermined practical result; handling is not assessed without models.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        15
+      ]
+    }
+  },
+  {
+    "id": "P1-17-GUIDED",
+    "mode": "guided",
+    "prompt": "Together name then recognize and sort all four models, compare cube with non-cube cuboid, and suggest all four examples.",
+    "answer": "Pictures left to right: sphere, cube, cylinder, non-cube cuboid. With support, name and recognize each; groups follow flat/curved features, not colour or rolling alone. Cube edges are all equal; chosen long box has unequal adjacent edges. Examples in picture order: ball, cube block, closed straight-sided container, long box. Accept sound alternatives with relevant features; practical results are observed only.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        5
+      ],
+      "workbook": [
+        1
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-17-DRAW-MODEL",
+    "mode": "model",
+    "prompt": "Watch a completed cuboid-shaped object drawing.",
+    "answer": "Completed long-box drawing shows projections of rectangular faces with parallel receding edges joining corresponding corners. Real rectangular faces look slanted in the picture; a recognisable non-cube cuboid object is sufficient, not perfect perspective.",
+    "objectives": [
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q1",
+    "mode": "independent",
+    "prompt": "What solid does a ball model?",
+    "answer": "Sphere: a ball curves all round and has no flat face.",
+    "objectives": [
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q2",
+    "mode": "independent",
+    "prompt": "Which solid has six equal square faces?",
+    "answer": "Cube: six equal square faces.",
+    "objectives": [
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        17
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q3",
+    "mode": "independent",
+    "prompt": "What solid does a closed straight-sided tin model?",
+    "answer": "Cylinder: two flat circular ends and a curved side.",
+    "objectives": [
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q4",
+    "mode": "independent",
+    "prompt": "Draw a cuboid-shaped object.",
+    "answer": "A recognisable non-cube rectangular box, such as a long storage box; accept a correctly explained cube as a special cuboid. Artistic accuracy is not the objective.",
+    "objectives": [
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q5",
+    "mode": "independent",
+    "prompt": "Sort a ball and box by smooth rolling.",
+    "answer": "For ideal models a ball rolls smoothly; a box does not roll smoothly, though it may slide or tumble. Record actual safe-object observations; a cylinder can also roll, so rolling alone cannot classify all four.",
+    "objectives": [
+      "P1-p11-01"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        3
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "P1-17-Q6",
+    "mode": "independent",
+    "prompt": "Give a cube/non-cube cuboid difference.",
+    "answer": "All cube edges are equal. The chosen non-cube cuboid has unequal neighbouring edge lengths. A cube remains a special cuboid.",
+    "objectives": [
+      "P1-p11-03"
+    ],
+    "pages": {
+      "textbook": [
+        7
+      ],
+      "workbook": [
+        2
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "S014",
+    "mode": "independent",
+    "prompt": "Sort teacher-provided models into cube, non-cube cuboid, cylinder and sphere groups. Explain one choice.",
+    "answer": "All four models placed in their most-specific groups: cube (six equal square faces); non-cube cuboid (matching opposite rectangular faces and unequal adjacent edges); cylinder (two circular ends and curved side); sphere (curved all round, no flat faces). Explain at least one placement. A cube correctly called a special cuboid is valid; request its most-specific group.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "S015",
+    "mode": "independent",
+    "prompt": "Name or point to a familiar example of a cube, a non-cube cuboid, a cylinder and a sphere.",
+    "answer": "Give a suitable example for EACH: large cube block; long rectangular storage box; closed straight-sided container; ball. Explain equal square faces, rectangular box features, circular ends with curved side, and all-round curve respectively. Accept any sound alternatives. Real objects approximate solids.",
+    "objectives": [
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "P1-17-NAME",
+    "mode": "independent",
+    "prompt": "Without labels or names spoken first, name all four mixed figures; only then recognize named shapes, sort, compare and give four examples.",
+    "answer": "Left to right: cylinder, cube, sphere, non-cube cuboid. Collect all names unaided before any name is spoken. Then point correctly for each spoken name and sort into those groups by geometric features. Cube edges all equal; pictured long box unequal adjacent edges. Four examples: closed straight-sided container, cube block, ball, long box respectively. Score naming, recognition, sorting, difference and examples separately.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        8
+      ],
+      "workbook": [
+        4
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-17-RECALL",
+    "mode": "recall",
+    "prompt": "Before any help, recall four names, sorting features, box difference and examples.",
+    "answer": "Recall cube, non-cube cuboid, cylinder, sphere; use faces/curves/edge equality to group. Cube edges all equal, chosen non-cube box adjacent edges unequal. Give a suitable example for each (cube block, long box, closed straight-sided container, ball). Both cylinder and sphere can roll, so rolling alone is insufficient. A face here is a flat outside part. Record unaided response before help.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        9
+      ],
+      "workbook": [
+        5
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "P1-17-HELP",
+    "mode": "help",
+    "prompt": "After recall, use a smaller-step touch/turn naming, recognition, sorting, comparison and examples activity.",
+    "answer": "With support: touch and turn all four, name each then point on request; sort cube, non-cube cuboid, cylinder, sphere using features. Compare equal cube edges with unequal adjacent box edges. Match cube block, long box, closed container and ball respectively, explaining approximate features. Cylinder and sphere can both roll. Record support; no handling claim without models.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        10
+      ],
+      "workbook": [
+        6
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-17-RECHECK",
+    "mode": "recheck",
+    "prompt": "Use new rotated figures and safe models, no help, collect names before recognition, sorting, comparison and all-four examples.",
+    "answer": "Left to right: sphere, non-cube cuboid, cube, cylinder. Independently name all before hearing names; then recognize and group each by features. Cube all edges equal; chosen box unequal adjacent edges. Examples respectively: ball, long box, cube block, closed straight-sided container. Alternatives need correct features. Record independence and actual practical evidence separately.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        11
+      ],
+      "workbook": [
+        7
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "P1-17-FRESH",
+    "mode": "fresh",
+    "prompt": "Fresh mixed pictures and new safe objects: unaided names first, then recognition/sorting, box difference and four examples.",
+    "answer": "Left to right: non-cube cuboid, sphere, cylinder, cube. Collect all four names unaided, then test pointing to spoken names and grouping by features. Box has unequal neighbouring edges versus all equal cube edges. Examples respectively: long carton, ball, closed straight-sided container, large cube block; acceptable alternatives justified by relevant geometric features.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        13
+      ],
+      "workbook": [
+        9
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-17-DELAYED",
+    "mode": "delayed",
+    "prompt": "On another day use hidden-teaching-page novel models/pictures; names first, then recognition, grouping, difference, all-four examples.",
+    "answer": "Shown left to right: cube, cylinder, non-cube cuboid, sphere. Names must precede adult naming; recognition separately follows. Sort by features, explain one choice, distinguish all-equal cube edges from unequal adjacent long-box edges, and give one suitable familiar example for EACH: cube block, closed straight-sided container, long box, ball. Novel safe physical objects and rotations should vary; record actual support and observations, not invented mastery.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "pages": {
+      "textbook": [
+        14
+      ],
+      "workbook": [
+        10
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "P1-17-STORY",
+    "mode": "fresh",
+    "prompt": "Explain how the store can group shapes and choose standing or rolling models.",
+    "answer": "Store groups use cube, non-cube cuboid, cylinder and sphere features. A long box or cube can provide flat support; a cylinder stands on a flat end but can roll on its side; sphere rolls and has no flat end for stable ordinary stacking. Do not infer actual successful construction from the story.",
+    "objectives": [
+      "P1-p11-01",
+      "P1-p11-02"
+    ],
+    "pages": {
+      "textbook": [
+        12
+      ],
+      "workbook": [
+        8
+      ]
+    },
+    "answer_pages": {
+      "textbook": [
+        24
+      ]
+    }
+  }
+]

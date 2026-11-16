@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "textbook": 24,
+    "workbook": 11
+  },
+  "artifacts": {
+    "textbook": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+    "workbook": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf"
+  },
+  "tasks": 18,
+  "diagrams": 10,
+  "protected_hashes": 178,
+  "status": "pending_independent_review",
+  "checks": [
+    "114 original pairs,18other lessons,178protected hashes and supplements preserved",
+    "both objectives across eight progression modes",
+    "actual PDF geometry and every answer text checked",
+    "A4 fonts bounds and all pages rendered"
+  ]
+}
