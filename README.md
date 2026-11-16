@@ -24,8 +24,9 @@ Build the annual pair with `python scripts/build_primary_one_annual.py`;
 check with `python scripts/preflight.py` and
 `python output/annual-edition/parent_verify.py --require-reviewed`.
 The historical Quarto command below rebuilds the old combined edition only.
-Annual work is local and uncommitted; the last verified GitHub delivery remains
-`b5fb75d` (all 19 topic extracts). No annual commit, push or publication occurred.
+Annual sources, both PDFs and independent review evidence were committed and pushed
+in [54f42f7](https://github.com/batestguy/GombePrimTextBook/commit/54f42f7592f9503fbf92e51312af2f49d3402398). GitHub main was independently verified at that exact commit.
+See the current handoff for delivery evidence. No website publication occurred.
 
 **Retained Chapter 1-2 extract:** [opening textbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf)
 (22 pages) and [separate workbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf)

@@ -16,3 +16,5 @@
 - Correction build passed: 406 textbook / 191 workbook pages. All57 printed answer entries quote their task and exact annual textbook/workbook question folios; full prompt, full answer and actual page correspondence verified from the final PDF in printed-answer-navigation.json. All508 inherited-page continuity checks and54/21 mapping gates still pass. Final preflight/draft standard checks passed. Author inspected corrected adult pages274/277 for spacing and navigation. Updated REPORT.md and author-freeze.json; source/PDF freeze restored for independent review.
 
 - Coordinator accepted the independently reviewed final406TB/191WB pair. All19 strict topic gates plus strictannual/freeze checks, preflight,594protectedhashes,114originalquestions and mapping/navigation/font checks passed. Current docs updated; local/current-curriculum/print gates remainpending. No annualcommit/push/publication.
+
+- User-authorized annual book delivery: committed and pushed 54f42f7592f9503fbf92e51312af2f49d3402398; separate remote branch hash verified. Delivery notes updated; no website publication.

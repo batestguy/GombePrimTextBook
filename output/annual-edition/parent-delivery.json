@@ -1,0 +1,18 @@
+{
+  "verified_on": "2026-11-16T08:11:10.973758+00:00",
+  "repository": "batestguy/GombePrimTextBook",
+  "branch": "main",
+  "content_commit": "54f42f7592f9503fbf92e51312af2f49d3402398",
+  "remote_verification": "54f42f7592f9503fbf92e51312af2f49d3402398\trefs/heads/main",
+  "checks": [
+    "preflight passed",
+    "nineteen strict topic gates and strict annual review/freeze passed",
+    "staged whitespace and credential-pattern checks passed"
+  ],
+  "limits": [
+    "Current curriculum/adoption pending",
+    "Local classroom/accessibility trials pending",
+    "Physical print/printer approval pending"
+  ],
+  "publication": "Git repository push only; no website publication"
+}

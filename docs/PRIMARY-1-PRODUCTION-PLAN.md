@@ -1,5 +1,13 @@
 # Primary 1: full-year production plan
 
+Verified GitHub delivery, **16 November 2026**: the annual sources, reviewed
+406-page textbook/191-page workbook and supporting evidence were committed and
+pushed in [54f42f7](https://github.com/batestguy/GombePrimTextBook/commit/54f42f7592f9503fbf92e51312af2f49d3402398). Remote main was independently verified at its exact
+full hash. See [delivery checkpoint](SESSION-HANDOFF.md) and
+[delivery evidence](../output/annual-edition/parent-delivery.json). Earlier
+local/uncommitted statements below are historical. Current curriculum/local/print
+approvals remain pending; no website publication occurred.
+
 Annual editorial completion, **16 November 2026**: the separate 406-page reusable
 textbook and 191-page write-in workbook are built and independently approved under
 the provisional historical baseline. All 19 topics, annual revision/assessment,

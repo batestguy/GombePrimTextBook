@@ -25,5 +25,6 @@
     "physical print proof",
     "printer approval"
   ],
-  "delivery": "local uncommitted; no annual push/publication"
+  "delivery": "Annual book content committed and pushed to origin/main; separate remote hash verified. No website publication.",
+  "delivered_commit": "54f42f7592f9503fbf92e51312af2f49d3402398"
 }

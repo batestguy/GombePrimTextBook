@@ -1,3 +1,29 @@
+# Annual pair committed and pushed - 16 November 2026
+
+The user authorized committing and pushing the completed annual Primary 1 pair.
+Annual sources, the exact independently reviewed 406-page textbook and 191-page
+workbook, four-page AI preview, review records and evidence were committed in
+[54f42f7](https://github.com/batestguy/GombePrimTextBook/commit/54f42f7592f9503fbf92e51312af2f49d3402398) and pushed to `origin/main`.
+A separate `git ls-remote origin refs/heads/main` check returned the exact hash
+`54f42f7592f9503fbf92e51312af2f49d3402398`. This follow-up documentation records that verified
+book delivery; its own commit can be identified with `git log -1`.
+
+Preflight and `python output/annual-edition/parent_verify.py --require-reviewed`
+passed before committing: all nineteen strict topic gates plus strict annual
+review/freeze, protected sources, original questions, actual task/page maps,
+font/A4 and preview checks. Staged whitespace and credential-pattern scans passed.
+The frozen source/PDF/evidence hashes and review decisions are unchanged. Current
+README/plan/handoff and delivery metadata are intentional documentation updates.
+Evidence: `output/annual-edition/parent-delivery.json`.
+
+Current curriculum/adoption, local classroom/accessibility and physical print/
+printer approval remain pending. No website publication was performed. Earlier
+local/uncommitted statements below describe historical authoring checkpoints.
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+---
+
 # Primary 1 annual pair completed editorially - 16 November 2026
 
 [406-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf) and
