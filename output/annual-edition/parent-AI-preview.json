@@ -1,0 +1,12 @@
+{
+  "source": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+  "source_sha256": "13f7922c29e99bd0627a598ac869066abf179a17101d682447c1eb3af7169f61",
+  "source_pages": [
+    269,
+    270,
+    271,
+    272
+  ],
+  "preview": "output/annual-edition/parent-AI-preview.pdf",
+  "preview_sha256": "a040b0f1b701a0433b908d3bfc8f383c47fab4810d5926a74c330ccf86e4de9c"
+}

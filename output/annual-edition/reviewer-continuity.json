@@ -1,0 +1,127 @@
+{
+  "reviewer": "/root/annual_reviewer",
+  "date": "2026-11-16",
+  "scope": "Independent exact source/archive continuity audit only. No fresh earlier-page inspections or task solutions claimed. Original 401 pages: /root/chapter14_review. Chapters17/18/19: /root/chapter17_review_recovery.",
+  "protected_existing_files_unchanged": 594,
+  "exact_pdfs": 36,
+  "archived_rasters_verified": 510,
+  "all_artifact_page_ranges_complete": true,
+  "all_current_old_page_task_ids_have_attributed_archived_coverage": true,
+  "unique_old_page_task_ids": 517,
+  "task_archives": [
+    "output/chapter-14/reviewer-task-coverage.json",
+    "output/chapter-14/reviewer-length-checks.json",
+    "output/chapter-15/reviewer-independent-task-results.json",
+    "output/chapter-16/reviewer-independent-task-results.json",
+    "output/chapter-17/recovery-review-task-results.json",
+    "output/chapter-18/reviewer-independent-task-results.json",
+    "output/chapter-19/reviewer-independent-task-results.json"
+  ],
+  "old_full_fingerprints_reproduced": [
+    {
+      "id": "P1-01",
+      "reproduced_full_fingerprint": "e8bc4087a349f637bf090a06ef020a31ee3b8aa5bbc1240050cc056fc622d6f4",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-02",
+      "reproduced_full_fingerprint": "3a92faca46d57ebd19cd91333896142c04caa0a855af474f4ba1395457b3a0dc",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-03",
+      "reproduced_full_fingerprint": "8fa0fc9035be26a1b9632749ef764844b84695d69897eb3a244e8543b0b7c2cd",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-04",
+      "reproduced_full_fingerprint": "976c9ac3a007d2f422dd6d44e9d66b06e5d80d4bde24b621dd42feee3097311a",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-05",
+      "reproduced_full_fingerprint": "105c48469c3549bc6f190b3b7903de966d51f7d489ab42119773e5d836e9b3aa",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-06",
+      "reproduced_full_fingerprint": "640a644f4d3e8f18b753b59e2380037c4dca16fa5b6b4ad61080525dfecdac13",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-07",
+      "reproduced_full_fingerprint": "3087078d48ec7f051100246273a559b48ca536900078cfd05ff2812a04c28ee3",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-08",
+      "reproduced_full_fingerprint": "d0f77de5faaf459710964ae069eb4196040d34f84ff2711493496a7c68d7e997",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-09",
+      "reproduced_full_fingerprint": "cc3f8ae8394f01cae9568ec9ac933142f507f42971e146079884c61753a42410",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-10",
+      "reproduced_full_fingerprint": "a6753e4e239482ec45fc1dfd0dc704cfb68700f2b288eb4581da24d424c64fad",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-11",
+      "reproduced_full_fingerprint": "7f78b987c03baf5c7ca65b4cb14ed2bf33eb6499fedcbfcddd727b5aa6af3a72",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-12",
+      "reproduced_full_fingerprint": "745db7d55a2b5a7fbf84d040d972f8ca54bb24265ec6077dc32cad59178d8f15",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-13",
+      "reproduced_full_fingerprint": "e8c7b4f5928cc96b8718938fb9dc0a3c72fd96c450eaf2653afe53722a1d5ca1",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-14",
+      "reproduced_full_fingerprint": "099fbb1c9cba34f12f568d5b390e46236a72462613de17ead7cd04d1c6efcaf9",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-15",
+      "reproduced_full_fingerprint": "21aabe37d844f9e77a6350f6ea99f8626f6a64240da12d5f0a031004c214644a",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-16",
+      "reproduced_full_fingerprint": "652179b398ca3b8a51f28c3fe8a0d3a7088d4bc34fe7902055ae5405b1b848fa",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity-only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-17",
+      "reproduced_full_fingerprint": "f5b36bc1d32a8e2780bcb906176bb649bb8716c0eba79b6f8a5ff4fa4ffe7b58",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity revalidation of own same-session Chapter17 fresh review)"
+    },
+    {
+      "id": "P1-18",
+      "reproduced_full_fingerprint": "a887a8aa0eaf8c4bab02f905ac7253f0ab96bad4b51d07435e475c4cb2f0023d",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (Chapter19 continuity revalidation of own same-session Chapter18 fresh review)"
+    },
+    {
+      "id": "P1-19",
+      "reproduced_full_fingerprint": "86dc7ff5b0eddd9932b7b01ce0502bafb3b23180d7a982d5eec86594e2d9cfcd",
+      "archived_reviewer": "Codex /root/chapter17_review_recovery (fresh independent Chapter19 review)"
+    }
+  ],
+  "archives": [
+    "output/chapter-14/reviewer-page-inventory.json",
+    "output/chapter-14/reviewer-length-pages.json",
+    "output/chapter-15/reviewer-time-pages.json",
+    "output/chapter-16/reviewer-weight-pages.json",
+    "output/chapter-17/recovery-review-pages.json",
+    "output/chapter-18/reviewer-pages.json",
+    "output/chapter-19/reviewer-pages.json"
+  ],
+  "status": "pass; annual assembly continuity and new-page review remain pending"
+}

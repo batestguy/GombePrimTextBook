@@ -1,0 +1,21 @@
+{
+  "removed_superseded_generated_rasters": [
+    "output/annual-edition/annual-new-pages/textbook/page-237.png",
+    "output/annual-edition/annual-new-pages/textbook/page-238.png",
+    "output/annual-edition/annual-new-pages/textbook/page-239.png",
+    "output/annual-edition/annual-new-pages/textbook/page-286.png",
+    "output/annual-edition/annual-new-pages/textbook/page-287.png",
+    "output/annual-edition/annual-new-pages/textbook/page-288.png",
+    "output/annual-edition/annual-new-pages/textbook/page-289.png",
+    "output/annual-edition/annual-new-pages/textbook/page-290.png",
+    "output/annual-edition/new-pages/textbook/page-56.png",
+    "output/annual-edition/new-pages/textbook/page-57.png",
+    "output/annual-edition/new-pages/textbook/page-58.png",
+    "output/annual-edition/new-pages/textbook/page-59.png",
+    "output/annual-edition/new-pages/textbook/page-60.png",
+    "output/annual-edition/annual-new-pages/workbook/page-164.png",
+    "output/annual-edition/annual-new-pages/workbook/page-165.png",
+    "output/annual-edition/annual-new-pages/workbook/page-166.png"
+  ],
+  "authoritative_inventory": "output/annual-edition/new-page-map.json"
+}

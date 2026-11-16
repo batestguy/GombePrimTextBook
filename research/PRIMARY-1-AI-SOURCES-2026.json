@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-16",
+  "purpose": "Editorial basis for exactly four offline AI-literacy pupil pages in the Gombe Primary 1 annual textbook. Not a national curriculum mandate, adoption endorsement or local classroom validation.",
+  "user_direction": "Use simulated interactions and chats as printed examples without using a real phone.",
+  "sources": [
+    {
+      "id": "unicef-ai-children-3",
+      "title": "Guidance on AI and children, version 3.0",
+      "publisher": "UNICEF Innocenti",
+      "published": "2025-12",
+      "url": "https://www.unicef.org/innocenti/reports/policy-guidance-ai-children",
+      "access": "Full official HTML summary and official checklist text read on 2026-11-16; not a claim of full 8MB report audit.",
+      "supports": [
+        "Privacy and data protection",
+        "Inclusion, non-discrimination and child safety",
+        "Age-appropriate explainability; distinguish AI systems from people"
+      ],
+      "limits": "General international guidance. Does not certify these lessons, Gombe representativeness or curriculum alignment."
+    },
+    {
+      "id": "unicef-parenting-ai",
+      "title": "Parenting in the AI age: How to approach AI with your children",
+      "publisher": "UNICEF Parenting",
+      "url": "https://www.unicef.org/parenting/digital-parenting/how-approach-ai-children",
+      "access": "Full official HTML explainer read on 2026-11-16.",
+      "supports": [
+        "Young children can discuss AI in age-appropriate ways even without using tools",
+        "Familiar concrete examples help explanation",
+        "AI does not think or feel in the same way as people",
+        "Evaluate replies together and protect personal information"
+      ],
+      "limits": "An expert parenting explainer, not evidence of trials of this book. Examples adapted to school objects rather than assuming household technology."
+    },
+    {
+      "id": "unesco-genai-education",
+      "title": "Guidance for generative AI in education and research",
+      "authors": [
+        "Fengchun Miao",
+        "Wayne Holmes"
+      ],
+      "publisher": "UNESCO",
+      "published": "2023",
+      "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+      "access": "Full official publication landing page read on 2026-11-16; landing page updated 2026-01-16.",
+      "supports": [
+        "Human-centred, age-appropriate pedagogical design",
+        "Data privacy and limits on independent conversations with platforms"
+      ],
+      "limits": "International guidance, not Nigerian law or an assertion that Primary 1 pupils may independently use a chatbot. No live platform use is part of the book."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "decision": "Printed pretend Teacher / AI example chats, never a live session",
+      "basis": "Direct user instruction and age-appropriate offline design"
+    },
+    {
+      "decision": "All simulated replies labelled invented examples; check both correct and mistaken replies with deterministic objects",
+      "basis": "Editorial adaptation of verification principles; no model-output study or accuracy claim"
+    },
+    {
+      "decision": "Gombe fictional classroom; box toys, cups, counters, shared materials, existing character roles, reachable table activities",
+      "basis": "Existing project character/story standard; familiar materials selected editorially, not a claim that every Gombe school owns them"
+    },
+    {
+      "decision": "No phone, power, internet, account, homework upload, purchase or personal-data disclosure needed",
+      "basis": "Offline participation and explicit user correction"
+    },
+    {
+      "decision": "Simple English, adult reads aloud; optional explanation in pupils familiar language",
+      "basis": "English-only project direction; no invented translations or language/community stereotypes"
+    },
+    {
+      "decision": "Teacher retains responsibility; pupils ask a trusted adult before any real-world device use",
+      "basis": "Adult-guided learning; page simulation grants no real-world platform permission"
+    }
+  ],
+  "pending": [
+    "Local Gombe teacher review of familiarity, vocabulary and pacing",
+    "Pupil and accessibility trials",
+    "Current Nigerian curriculum reconciliation",
+    "Physical print proof and printer approval"
+  ],
+  "no_claims": [
+    "No UNICEF/UNESCO endorsement",
+    "No observation of actual pupils",
+    "No representative claim about Gombe device access, ethnicity, language or household income"
+  ]
+}

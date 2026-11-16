@@ -1,0 +1,864 @@
+{
+  "pages": 55,
+  "sha256": "77f8c649c4e7ab09b086221e9219d32fa1e041f5d43d7fa26a52ebf7b4172609",
+  "page_manifest": [
+    {
+      "slug": "annual-cover",
+      "kicker": "Primary One / Annual edition",
+      "title": "Maths with Friends",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "annual-navigation",
+      "kicker": "Primary One / Annual edition",
+      "title": "Find your way",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-0",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-6",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-12",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-18",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-0",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-1",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-2",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "revision-open",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Our year of maths",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "revision-model-1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-M1",
+        "ANN-G1"
+      ]
+    },
+    {
+      "slug": "revision-model-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-M2",
+        "ANN-G2"
+      ]
+    },
+    {
+      "slug": "revision-model-3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-M3",
+        "ANN-G3"
+      ]
+    },
+    {
+      "slug": "revision-close",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Check the trail",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-R",
+        "ANN-H",
+        "ANN-F"
+      ]
+    },
+    {
+      "slug": "assessment-pupil",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Show what you remember",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "tb-ANN-I1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I1"
+      ]
+    },
+    {
+      "slug": "tb-ANN-I2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I2"
+      ]
+    },
+    {
+      "slug": "tb-ANN-I3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I3"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term one check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C1"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term two check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C2"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term three check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C3"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Whole-year check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-one-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-one-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-5",
+        "LEG-P1-R2-1"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-2",
+        "LEG-P1-R2-3"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-5",
+        "LEG-P1-R3-1"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-4",
+        "LEG-P1-R3-5"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-3",
+        "LEG-P1-A1-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-8",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-3",
+        "LEG-P1-A2-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-10",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6"
+      ]
+    },
+    {
+      "slug": "ai-1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "A pretend chat about maths",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "AI-M1"
+      ]
+    },
+    {
+      "slug": "ai-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Catch a pretend mistake",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "AI-G"
+      ]
+    },
+    {
+      "slug": "ai-3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Ask a clear maths question",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "AI-M2",
+        "AI-I",
+        "AI-W1"
+      ]
+    },
+    {
+      "slug": "ai-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Think, check and explain",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "task_ids": [
+        "AI-F",
+        "AI-H",
+        "AI-R",
+        "AI-W2"
+      ]
+    },
+    {
+      "slug": "annual-adult",
+      "kicker": "Annual learning / Adult support",
+      "title": "Use evidence to plan the next lesson",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "annual-linked-answers-1",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-M1",
+        "ANN-G1",
+        "ANN-I1",
+        "ANN-M2",
+        "ANN-G2"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-2",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-I2",
+        "ANN-M3",
+        "ANN-G3",
+        "ANN-I3",
+        "ANN-R"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-3",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-H",
+        "ANN-F",
+        "ANN-C1",
+        "ANN-C2",
+        "ANN-C3"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-4",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-C4",
+        "AI-M1",
+        "AI-G",
+        "AI-M2",
+        "AI-I",
+        "AI-F"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-5",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "AI-H",
+        "AI-R",
+        "AI-W1",
+        "AI-W2",
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-6",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4",
+        "LEG-P1-R1-5",
+        "LEG-P1-R1-6",
+        "LEG-P1-R2-1",
+        "LEG-P1-R2-2",
+        "LEG-P1-R2-3"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-7",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-5",
+        "LEG-P1-R2-6",
+        "LEG-P1-R3-1",
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-8",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R3-4",
+        "LEG-P1-R3-5",
+        "LEG-P1-R3-6",
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2",
+        "LEG-P1-A1-3"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-9",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-A1-4",
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6",
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2",
+        "LEG-P1-A2-3"
+      ]
+    },
+    {
+      "slug": "annual-linked-answers-10",
+      "kicker": "Primary One / Annual edition",
+      "title": "Annual questions and answers",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-A2-4",
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6",
+        "ANN-D",
+        "AI-D"
+      ]
+    },
+    {
+      "slug": "delayed",
+      "kicker": "Annual learning / Adult support",
+      "title": "Fresh rechecks and later recall",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "task_ids": [
+        "ANN-D",
+        "AI-D"
+      ],
+      "answer_ids": [
+        "ANN-D",
+        "AI-D"
+      ]
+    },
+    {
+      "slug": "annual-sources",
+      "kicker": "Annual learning / Adult support",
+      "title": "Words, sources and next year",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "task_ids": []
+    }
+  ],
+  "task_pages": {
+    "ANN-M1": [
+      11
+    ],
+    "ANN-G1": [
+      11
+    ],
+    "ANN-M2": [
+      12
+    ],
+    "ANN-G2": [
+      12
+    ],
+    "ANN-M3": [
+      13
+    ],
+    "ANN-G3": [
+      13
+    ],
+    "ANN-R": [
+      14
+    ],
+    "ANN-H": [
+      14
+    ],
+    "ANN-F": [
+      14
+    ],
+    "ANN-I1": [
+      16
+    ],
+    "ANN-I2": [
+      17
+    ],
+    "ANN-I3": [
+      18
+    ],
+    "ANN-C1": [
+      19
+    ],
+    "ANN-C2": [
+      20
+    ],
+    "ANN-C3": [
+      21
+    ],
+    "ANN-C4": [
+      22
+    ],
+    "LEG-P1-R1-1": [
+      23
+    ],
+    "LEG-P1-R1-2": [
+      23
+    ],
+    "LEG-P1-R1-6": [
+      24
+    ],
+    "LEG-P1-R1-3": [
+      25
+    ],
+    "LEG-P1-R1-4": [
+      25
+    ],
+    "LEG-P1-R1-5": [
+      26
+    ],
+    "LEG-P1-R2-1": [
+      26
+    ],
+    "LEG-P1-R2-2": [
+      27
+    ],
+    "LEG-P1-R2-3": [
+      27
+    ],
+    "LEG-P1-R2-4": [
+      28
+    ],
+    "LEG-P1-R2-6": [
+      28
+    ],
+    "LEG-P1-R2-5": [
+      29
+    ],
+    "LEG-P1-R3-1": [
+      29
+    ],
+    "LEG-P1-R3-2": [
+      30
+    ],
+    "LEG-P1-R3-3": [
+      30
+    ],
+    "LEG-P1-R3-4": [
+      31
+    ],
+    "LEG-P1-R3-5": [
+      31
+    ],
+    "LEG-P1-R3-6": [
+      32
+    ],
+    "LEG-P1-A1-1": [
+      33
+    ],
+    "LEG-P1-A1-2": [
+      33
+    ],
+    "LEG-P1-A1-3": [
+      34
+    ],
+    "LEG-P1-A1-4": [
+      34
+    ],
+    "LEG-P1-A1-5": [
+      35
+    ],
+    "LEG-P1-A1-6": [
+      35
+    ],
+    "LEG-P1-A2-1": [
+      36
+    ],
+    "LEG-P1-A2-2": [
+      36
+    ],
+    "LEG-P1-A2-3": [
+      37
+    ],
+    "LEG-P1-A2-4": [
+      37
+    ],
+    "LEG-P1-A2-5": [
+      38
+    ],
+    "LEG-P1-A2-6": [
+      38
+    ],
+    "AI-M1": [
+      39
+    ],
+    "AI-G": [
+      40
+    ],
+    "AI-M2": [
+      41
+    ],
+    "AI-I": [
+      41
+    ],
+    "AI-W1": [
+      41
+    ],
+    "AI-F": [
+      42
+    ],
+    "AI-H": [
+      42
+    ],
+    "AI-R": [
+      42
+    ],
+    "AI-W2": [
+      42
+    ],
+    "ANN-D": [
+      54
+    ],
+    "AI-D": [
+      54
+    ]
+  },
+  "objects": [
+    {
+      "id": "AI-FOUR",
+      "page": 40,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          115,
+          365
+        ],
+        [
+          225,
+          365
+        ],
+        [
+          335,
+          365
+        ],
+        [
+          445,
+          365
+        ]
+      ],
+      "count": 4
+    },
+    {
+      "id": "AI-SIX",
+      "page": 42,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          75,
+          360
+        ],
+        [
+          162,
+          360
+        ],
+        [
+          249,
+          360
+        ],
+        [
+          336,
+          360
+        ],
+        [
+          423,
+          360
+        ],
+        [
+          510,
+          360
+        ]
+      ],
+      "count": 6
+    }
+  ],
+  "assets": {
+    "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png": "5bb8226c45fbd4a9250e30d175371a7bf417d1bc4a8dea076f756c34849fe91d",
+    "artwork/redesign/scenes/mrs-binta-blackboard-v1.png": "c8ec90220f8db20155db8ef51a05821ea16106ea10b601c742cfc3f9a3cc9980"
+  },
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}

@@ -1,0 +1,3186 @@
+{
+  "schema_version": 1,
+  "author": "Codex /root/annual_author",
+  "scope": "Provisional whole-year P1 annual pair; no current curriculum certification",
+  "navigation_rule": "All copied page references are LOCAL SOURCE pages, identified in running source label; annual page labels and contents give navigation. Superseded extract-only scope statements are historical packaging.",
+  "textbook_pages": [
+    {
+      "slug": "revision-open",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Our year of maths",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "image",
+          "asset": "artwork/redesign/scenes/mr-aliyu-blackboard-v1.png",
+          "x": 43,
+          "top": 160,
+          "width": 509,
+          "height": 339,
+          "preserve": false
+        },
+        {
+          "type": "text",
+          "text": "<b>Try. Check.<br/>Explain.</b>",
+          "top": 215,
+          "x": 263,
+          "width": 230,
+          "size": 17,
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "text",
+          "text": "<b>Mr Aliyu:</b> Our class in Gombe is making a maths trail for another class. We will remember, try and check.<br/><b>Aishatu:</b> I will build the box stations, and wait while we check.<br/><b>Adamu:</b> Everyone needs a fair turn.<br/><b>Grace:</b> A smudge need not end our work. I can retry.<br/><b>John:</b> Keep the stations in reach. Let me solve the puzzle before you tell me.",
+          "top": 515,
+          "size": 14
+        }
+      ],
+      "task_ids": []
+    },
+    {
+      "slug": "revision-model-1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Try together.</b> Put 3 counters down. Add 2. Count them together. Explain how you avoid counting one twice.",
+          "top": 370,
+          "size": 17
+        },
+        {
+          "type": "text",
+          "text": "Remember the method. Then try the matching station in your workbook. An adult can read the words aloud. Use safe large objects at a reachable table.",
+          "top": 610,
+          "size": 14
+        }
+      ],
+      "task_ids": [
+        "ANN-M1",
+        "ANN-G1"
+      ]
+    },
+    {
+      "slug": "revision-model-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Try together.</b> Put 8 counters down. Move 2 away. Say the remaining number. Check by putting the parts together.",
+          "top": 370,
+          "size": 17
+        },
+        {
+          "type": "text",
+          "text": "Remember the method. Then try the matching station in your workbook. An adult can read the words aloud. Use safe large objects at a reachable table.",
+          "top": 610,
+          "size": 14
+        }
+      ],
+      "task_ids": [
+        "ANN-M2",
+        "ANN-G2"
+      ]
+    },
+    {
+      "slug": "revision-model-3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape station",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Try together.</b> Use two safe strips. Align one end. Say which is longer, shorter or equal. Fold a paper circle into two equal matching parts. Explain why the parts are halves.",
+          "top": 370,
+          "size": 17
+        },
+        {
+          "type": "text",
+          "text": "Remember the method. Then try the matching station in your workbook. An adult can read the words aloud. Use safe large objects at a reachable table.",
+          "top": 610,
+          "size": 14
+        }
+      ],
+      "task_ids": [
+        "ANN-M3",
+        "ANN-G3"
+      ]
+    },
+    {
+      "slug": "revision-close",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Check the trail",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>Recall:</b> Explain one way to check a count and one way to check a subtraction. Tell a friend without looking back.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Need help?</b> Mr Aliyu starts with 2 counters and adds 1. Touch each once. Put the model away. Now try 2 and 2 independently, without a hint. John moves the counters; Grace checks. Aishatu waits and Adamu invites everyone to explain.",
+          "top": 320,
+          "size": 17
+        },
+        {
+          "type": "text",
+          "text": "<b>Try afresh:</b> Start with 6 counters. Add 3. How many? Check it another way. The friends test each station, repair a wrong label, then open their reachable maths trail. Everyone can take a turn.",
+          "top": 520,
+          "size": 17
+        }
+      ],
+      "task_ids": [
+        "ANN-R",
+        "ANN-H",
+        "ANN-F"
+      ]
+    },
+    {
+      "slug": "assessment-pupil",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Show what you remember",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "At the end of each suggested term, try its workbook check. An adult reads the words. First explain aloud, then try the objects, then write or draw. Use an exercise book if needed.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "Choose a quiet short session. Take a break when needed. Try on your own first. Tell the adult if you need help. There is time to learn again.",
+          "top": 360,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "After the whole-year check, share one method you remember. The trail is ready because the friends checked their work, helped fairly and corrected mistakes.",
+          "top": 550,
+          "size": 17
+        }
+      ],
+      "task_ids": []
+    },
+    {
+      "slug": "tb-ANN-I1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw 5 circles in your exercise book. Add 3 more. How many altogether? Explain your check.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-I1"
+      ]
+    },
+    {
+      "slug": "tb-ANN-I2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-I2"
+      ]
+    },
+    {
+      "slug": "tb-ANN-I3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape: your turn",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-I3"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term one check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-C1"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term two check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-C2"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term three check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-C3"
+      ]
+    },
+    {
+      "slug": "tb-ANN-C4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Whole-year check",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+          "top": 180,
+          "size": 18
+        }
+      ],
+      "task_ids": [
+        "ANN-C4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-one-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write the number for no objects.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Order 8, 3 and 6 from smallest to largest.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-one-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Show 9 objects and explain how you checked.",
+          "top": 180,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "What comes after 59?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "2 tens and 7 ones make __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw four equal parts of a square and shade one.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "3 + 4 + 1 = __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-5",
+        "LEG-P1-R2-1"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "17 - 8 = __.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "24 + 12 = __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-2",
+        "LEG-P1-R2-3"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-two-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "6 + __ = 10.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Draw or show why 7 + 6 = 13.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-5",
+        "LEG-P1-R3-1"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "What comes after afternoon: morning or evening?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Handle a safe ball-shaped model. Name its solid shape.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "How many corners has a square?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Compare two safe objects by weight. Show your method.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-4",
+        "LEG-P1-R3-5"
+      ]
+    },
+    {
+      "slug": "tb-legacy-term-three-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+          "top": 180,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write eighty-two in digits.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Complete: 8, 9, __, __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "15 = __ ten and __ ones.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "8 + 7 = __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-3",
+        "LEG-P1-A1-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "16 - 9 = __. Show a check.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "__ + 4 = 9. Explain the blank.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw a rectangle and show one half.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-8",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Handle a safe rectangular box model. Name its solid shape.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Write morning, night, afternoon in day order.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-3",
+        "LEG-P1-A2-4"
+      ]
+    },
+    {
+      "slug": "tb-legacy-annual-10",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Speak, use safe objects, or write and draw in your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Measure a book with a repeated paper strip. Record and explain.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+          "top": 490,
+          "size": 16
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6"
+      ]
+    },
+    {
+      "slug": "ai-1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "A pretend chat about maths",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "image",
+          "asset": "artwork/redesign/scenes/mrs-binta-blackboard-v1.png",
+          "x": 43,
+          "top": 160,
+          "width": 509,
+          "height": 339,
+          "preserve": false
+        },
+        {
+          "type": "text",
+          "text": "<b>Ask clearly.<br/>Check the answer.</b>",
+          "top": 215,
+          "x": 263,
+          "width": 230,
+          "size": 17,
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "text",
+          "text": "<b>Mrs Binta:</b> Our Gombe class will act out printed pretend chats. No phone, computer or internet is needed. AI is short for artificial intelligence. It is a computer tool made by people. It uses patterns learned from many examples to make replies. It is not a person and has no feelings.<br/><b>Aishatu:</b> Can an answer be wrong?<br/><b>Mrs Binta:</b> Yes. We use our own maths to check. An adult reads the pretend AI lines.",
+          "top": 515,
+          "size": 14
+        }
+      ],
+      "task_ids": [
+        "AI-M1"
+      ]
+    },
+    {
+      "slug": "ai-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Catch a pretend mistake",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "All chat lines on these pages are invented examples, not real AI replies.",
+          "top": 165,
+          "size": 13
+        },
+        {
+          "type": "text",
+          "text": "<b>Mrs Binta asks:</b> How many counters are here?<br/><b>Pretend AI — WRONG:</b> There are five counters.",
+          "top": 220,
+          "size": 18
+        },
+        {
+          "type": "objects",
+          "id": "AI-FOUR",
+          "kind": "dot",
+          "count": 4,
+          "x": 115,
+          "top": 365,
+          "gap": 110
+        },
+        {
+          "type": "text",
+          "text": "<b>Grace:</b> Let us touch each counter once.<br/><b>Mrs Binta:</b> One, two, three, four. There are four, not five.<br/><b>Adamu:</b> We corrected the pretend answer fairly.",
+          "top": 420,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "Try together. Point once to each counter. Say the correct number. Explain the mistake. Never trust a reply just because it sounds sure.",
+          "top": 610,
+          "size": 17
+        }
+      ],
+      "task_ids": [
+        "AI-G"
+      ]
+    },
+    {
+      "slug": "ai-3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Ask a clear maths question",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>John:</b> Let me try first.<br/><b>John asks:</b> I have three counters. I add two. How many altogether?<br/><b>Pretend AI:</b> Five.<br/><b>Mrs Binta:</b> Use real counters to check: three and two make five.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Your turn:</b> Tell an adult a clear question about two counters and one more. The adult reads this invented reply: Three. Check with counters. Explain your check.",
+          "top": 405,
+          "size": 18
+        },
+        {
+          "type": "text",
+          "text": "<b>Keep private things private.</b> Use made-up maths examples. Do not put names, addresses, passwords or photos into a chat. Ask a trusted adult for help. No one needs to share private information here.",
+          "top": 610,
+          "size": 15
+        }
+      ],
+      "task_ids": [
+        "AI-M2",
+        "AI-I",
+        "AI-W1"
+      ]
+    },
+    {
+      "slug": "ai-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Think, check and explain",
+      "subtitle": "Read together. Speak, point or use your exercise book.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>Aishatu:</b> I can wait while we check.<br/><b>Pretend question:</b> How many counters are below?<br/><b>Pretend AI — WRONG:</b> Four.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "objects",
+          "id": "AI-SIX",
+          "kind": "dot",
+          "count": 6,
+          "x": 75,
+          "top": 360,
+          "gap": 87
+        },
+        {
+          "type": "text",
+          "text": "Try on your own. Point once to each counter. Say the correct answer. Explain why the pretend reply is wrong. Tell an adult; write or draw in your workbook or exercise book.",
+          "top": 425,
+          "size": 17
+        },
+        {
+          "type": "text",
+          "text": "Need a smaller step? Check two real counters with the adult, then put the model away and try a new set of three independently, without a hint. Recall: ask clearly; keep private things private; check with your own maths.",
+          "top": 570,
+          "size": 15
+        },
+        {
+          "type": "text",
+          "text": "John explains the check. Grace repairs the card. Adamu gives everyone a turn. Mrs Binta says: Our trail ends with careful thinking. A computer answer never replaces your checking.",
+          "top": 690,
+          "size": 13
+        }
+      ],
+      "task_ids": [
+        "AI-F",
+        "AI-H",
+        "AI-R",
+        "AI-W2"
+      ]
+    }
+  ],
+  "workbook_pages": [
+    {
+      "slug": "ANN-I1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw 5 circles in your workbook. Add 3 more. How many altogether? Explain your check.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-I1"
+      ]
+    },
+    {
+      "slug": "ANN-I2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-I2"
+      ]
+    },
+    {
+      "slug": "ANN-I3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-I3"
+      ]
+    },
+    {
+      "slug": "ANN-C1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term one check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-C1"
+      ]
+    },
+    {
+      "slug": "ANN-C2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term two check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-C2"
+      ]
+    },
+    {
+      "slug": "ANN-C3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term three check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-C3"
+      ]
+    },
+    {
+      "slug": "ANN-C4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Whole-year check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "ANN-C4"
+      ]
+    },
+    {
+      "slug": "AI-W1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Our pretend chat",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Ask an adult a clear question about 2 counters and 1 more. The adult reads: Pretend AI says three. Check with counters. Draw or write your check. Use no private information.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "objects",
+          "id": "AI-W1-dots",
+          "kind": "dot",
+          "count": 3,
+          "x": 80,
+          "top": 350,
+          "gap": 80
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "AI-W1"
+      ]
+    },
+    {
+      "slug": "AI-W2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Find and repair the mistake",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "These dots are the whole set. Pretend AI says four. Count each dot once. Write the correct number and explain to an adult.",
+          "top": 180,
+          "size": 18
+        },
+        {
+          "type": "objects",
+          "id": "AI-W2-dots",
+          "kind": "dot",
+          "count": 6,
+          "x": 80,
+          "top": 350,
+          "gap": 80
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 420,
+          "width": 509,
+          "height": 300,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "AI-W2"
+      ]
+    },
+    {
+      "slug": "legacy-term-one-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write the number for no objects.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Order 8, 3 and 6 from smallest to largest.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2"
+      ]
+    },
+    {
+      "slug": "legacy-term-one-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Show 9 objects and explain how you checked.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-6"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "What comes after 59?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "2 tens and 7 ones make __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw four equal parts of a square and shade one.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "3 + 4 + 1 = __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R1-5",
+        "LEG-P1-R2-1"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "17 - 8 = __.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "24 + 12 = __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-2",
+        "LEG-P1-R2-3"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "6 + __ = 10.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Draw or show why 7 + 6 = 13.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-6"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R2-5",
+        "LEG-P1-R3-1"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "What comes after afternoon: morning or evening?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Handle a safe ball-shaped model. Name its solid shape.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "How many corners has a square?",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Compare two safe objects by weight. Show your method.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-4",
+        "LEG-P1-R3-5"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-R3-6"
+      ]
+    },
+    {
+      "slug": "legacy-annual-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Write eighty-two in digits.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Complete: 8, 9, __, __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2"
+      ]
+    },
+    {
+      "slug": "legacy-annual-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "15 = __ ten and __ ones.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "8 + 7 = __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-3",
+        "LEG-P1-A1-4"
+      ]
+    },
+    {
+      "slug": "legacy-annual-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "16 - 9 = __. Show a check.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "__ + 4 = 9. Explain the blank.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6"
+      ]
+    },
+    {
+      "slug": "legacy-annual-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Draw a rectangle and show one half.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2"
+      ]
+    },
+    {
+      "slug": "legacy-annual-8",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Handle a safe rectangular box model. Name its solid shape.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Write morning, night, afternoon in day order.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-3",
+        "LEG-P1-A2-4"
+      ]
+    },
+    {
+      "slug": "legacy-annual-10",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Measure a book with a repeated paper strip. Record and explain.",
+          "top": 180,
+          "size": 16
+        },
+        {
+          "type": "text",
+          "text": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+          "top": 490,
+          "size": 16
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 290,
+          "width": 509,
+          "height": 175,
+          "response": true
+        },
+        {
+          "type": "box",
+          "x": 43,
+          "top": 600,
+          "width": 509,
+          "height": 175,
+          "response": true
+        }
+      ],
+      "task_ids": [
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6"
+      ]
+    }
+  ],
+  "adult_pages": [
+    {
+      "slug": "annual-adult",
+      "kicker": "Annual learning / Adult support",
+      "title": "Use evidence to plan the next lesson",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Suggested terms and checks are editorial pacing, not an official scheme. Term one revisits Chapters 1–5; term two Chapters 6–12; term three Chapters 13–19. Review stations sample earlier learning. Every historical objective remains linked to its full chapter teaching and checks in the objective ledger, not certified by these small mixed checks.",
+          "top": 175,
+          "size": 14
+        },
+        {
+          "type": "text",
+          "text": "Read instructions aloud without supplying a mathematical answer. Record separately: oral explanation, written/numeral response, practical action; unaided, after neutral rereading, or after teaching/support. Record not assessed when resources or access are missing. Arrange reachable safe materials; accept speaking, pointing and moving objects. Teacher may explain in pupils’ familiar language; no translations are asserted here.",
+          "top": 350,
+          "size": 14
+        },
+        {
+          "type": "text",
+          "text": "After an error, identify the method: double counting, unaligned ends, unequal parts, place-value confusion. Return to the matching chapter model with smaller real sets. Recheck with different values after support, then again after several days without the model. Record the exact task, response, help and date. Do not infer mastery of untested objectives or outcomes.",
+          "top": 550,
+          "size": 14
+        }
+      ],
+      "task_ids": []
+    },
+    {
+      "slug": "revision-answers-0",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / revision",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>ANN-M1 — model.</b> Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-G1 — guided.</b> 5 counters; touch or move each once.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-I1 — independent.</b> 8; 5 + 3 = 8. Count each circle once.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-M2 — model.</b> Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-M1",
+        "ANN-G1",
+        "ANN-I1",
+        "ANN-M2"
+      ]
+    },
+    {
+      "slug": "revision-answers-4",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / revision",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>ANN-G2 — guided.</b> 6 remain; 2 + 6 = 8.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-I2 — independent.</b> 5; 9 - 4 = 5.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-M3 — model.</b> Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-G3 — guided.</b> Comparison depends on strips; compare from one baseline. Two equal matching parts make halves.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-G2",
+        "ANN-I2",
+        "ANN-M3",
+        "ANN-G3"
+      ]
+    },
+    {
+      "slug": "revision-answers-8",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / revision",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>ANN-I3 — independent.</b> Two equal parts of the circle; accept any straight diameter forming two equal halves. Length comparison depends on actual strips.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-R — recall.</b> Count each once; recombine removed and remaining parts.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-H — help/recheck.</b> 3 in model; 4 in new unaided recheck after support.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-F — fresh.</b> 9; count all or count on; 6 + 3 = 9.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-I3",
+        "ANN-R",
+        "ANN-H",
+        "ANN-F"
+      ]
+    },
+    {
+      "slug": "assessment-answers-0",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>ANN-C1 — independent.</b> 9; six circles; count 5 once each; consistent stated sorting rule.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-C2 — independent.</b> 2 tens and 4 ones; 9; 5; two equal matching parts. Accept a valid check.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-C3 — independent.</b> 7 pretend units; length depends on strips; closed four-straight-sided rectangle with opposite sides equal and square corners; afternoon.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>ANN-C4 — independent.</b> 3 tens and 1 one; 10; 5; four equal-area parts of a square, including four equal strips; actual balance/weight observation determines heavier/lighter/equal; accurately labelled fictional replies after asking.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "ANN-C1",
+        "ANN-C2",
+        "ANN-C3",
+        "ANN-C4"
+      ]
+    },
+    {
+      "slug": "AI-answers-0",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / AI",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>AI-M1 — model.</b> A computer tool made by people; uses patterns learned from many examples to make replies; not a person; has no feelings; replies can be wrong.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-G — guided.</b> 4; five is wrong; touch each of the four once.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-M2 — model.</b> 5; 3 + 2 = 5.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-I — independent.</b> A clear non-private question stating 2 and 1 more; verify 3 with objects.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "AI-M1",
+        "AI-G",
+        "AI-M2",
+        "AI-I"
+      ]
+    },
+    {
+      "slug": "AI-answers-4",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / AI",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>AI-F — fresh.</b> 6; four is wrong. Touch each once and explain.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-H — help/recheck.</b> 2 in model; 3 in unaided recheck after support.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-R — recall.</b> Ask clearly; use invented non-private maths; check answers with own maths and adult support.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>AI-W1 — independent.</b> 3; clear question and one-to-one checking.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "AI-F",
+        "AI-H",
+        "AI-R",
+        "AI-W1"
+      ]
+    },
+    {
+      "slug": "AI-answers-8",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / AI",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>AI-W2 — independent.</b> 6; four is wrong; count each of six once.",
+          "top": 175,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "AI-W2"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-0",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-1 — independent.</b> 0",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-2 — independent.</b> 3, 6, 8",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-3 — independent.</b> 60",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-4 — independent.</b> 27",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2",
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-4",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-5 — independent.</b> One quarter shaded; four equal-area parts.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R1-6 — independent.</b> Exactly nine; touch or move each once.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-1 — independent.</b> 8",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-2 — independent.</b> 9",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R1-5",
+        "LEG-P1-R1-6",
+        "LEG-P1-R2-1",
+        "LEG-P1-R2-2"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-8",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-3 — independent.</b> 36",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-4 — independent.</b> 4",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-5 — independent.</b> 2k; 8k + 2k = 10k.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R2-6 — independent.</b> Two sets total thirteen; or count on six from seven.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R2-3",
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-5",
+        "LEG-P1-R2-6"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-12",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-1 — independent.</b> 2, 5, 7",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-2 — independent.</b> evening",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-3 — independent.</b> sphere",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-4 — independent.</b> 4",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R3-1",
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3",
+        "LEG-P1-R3-4"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-16",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-5 — independent.</b> Use a balance or safe lifting to test the two actual safe objects. Accept heavier, lighter or equal weight when it matches the observation; do not infer weight from a picture.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-R3-6 — independent.</b> 2; count the two records equal to seven.",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-1 — independent.</b> 82",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-2 — independent.</b> 10, 11",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-R3-5",
+        "LEG-P1-R3-6",
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-20",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-3 — independent.</b> 1 ten, 5 ones",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-4 — independent.</b> 15",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-5 — independent.</b> 7; 7 + 9 = 16.",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A1-6 — independent.</b> 5; 9 − 4 = 5 or count on.",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-A1-3",
+        "LEG-P1-A1-4",
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-24",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-1 — independent.</b> Two equal-area parts, one selected.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-2 — independent.</b> 15k",
+          "top": 315,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-3 — independent.</b> cuboid",
+          "top": 455,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-4 — independent.</b> morning, afternoon, night",
+          "top": 595,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2",
+        "LEG-P1-A2-3",
+        "LEG-P1-A2-4"
+      ]
+    },
+    {
+      "slug": "legacy-assessment-answers-28",
+      "kicker": "Annual learning / Adult support",
+      "title": "Annual answers / legacy-assessment",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-5 — independent.</b> Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+          "top": 175,
+          "size": 12
+        },
+        {
+          "type": "text",
+          "text": "<b>LEG-P1-A2-6 — independent.</b> Two labelled age records and a correct comparison.",
+          "top": 315,
+          "size": 12
+        }
+      ],
+      "task_ids": [],
+      "answer_ids": [
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6"
+      ]
+    },
+    {
+      "slug": "delayed",
+      "kicker": "Annual learning / Adult support",
+      "title": "Fresh rechecks and later recall",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "Revision: after support with 2 + 1, use 2 + 2 (4); a few days later use 4 + 3 (7). Ask how the pupil checked. For subtraction support use 4 take away 1 (3), then 5 take away 2 (3); delayed use 6 take away 2 (4). For parts use a fresh paper shape; check equal parts, not only the word half.",
+          "top": 180,
+          "size": 14
+        },
+        {
+          "type": "text",
+          "text": "Term checks: revisit the chapter linked to each error. Fresh/recheck pairs: T1 count 4 then 7 and read 7 then 6; T2 3 + 2 = 5 then 4 + 3 = 7; T3 pretend 2 + 2 = 4 then 5 + 1 = 6. Recheck the practical method with different strips/objects. After several days use new values or new materials; record what was actually observed.",
+          "top": 365,
+          "size": 14
+        },
+        {
+          "type": "text",
+          "text": "AI: after the supported two/three counter steps, delayed recall uses five real counters: an adult reads the invented wrong reply ‘six’. Ask the pupil to find and explain the correct five. Separately ask what to keep private; no disclosure. These are printed simulations only. No real device, platform, account or live output is used. Correct answers alone do not establish privacy understanding.",
+          "top": 565,
+          "size": 14
+        }
+      ],
+      "task_ids": [
+        "ANN-D",
+        "AI-D"
+      ],
+      "answer_ids": [
+        "ANN-D",
+        "AI-D"
+      ]
+    },
+    {
+      "slug": "annual-sources",
+      "kicker": "Annual learning / Adult support",
+      "title": "Words, sources and next year",
+      "subtitle": "For the adult. Pupil responses are oral, practical or on separate paper.",
+      "adult": true,
+      "elements": [
+        {
+          "type": "text",
+          "text": "AI: artificial intelligence, a computer tool made by people that uses patterns learned from many examples to make replies; not a person. Simulated: acted out or invented. Private: information to keep to yourself and a trusted adult. Verify: check for yourself. Existing chapter word lists and complete answer maps follow in this adult section.",
+          "top": 180,
+          "size": 14
+        },
+        {
+          "type": "text",
+          "text": "AI sources: UNICEF, Guidance on AI and Children (December 2025); UNICEF Parenting, How to approach AI with children; UNESCO, Guidance for generative AI in education and research (2023). Full links, source date and limits: research/PRIMARY-1-AI-SOURCES-2026.json. These support age-appropriate adult discussion and privacy, not independent child platform use. All printed replies here are invented.",
+          "top": 350,
+          "size": 13
+        },
+        {
+          "type": "text",
+          "text": "Credits: existing project fonts, established classroom/character artwork and source chapters retained without alteration; artwork hashes are in the build evidence. Counter diagrams are deterministic vector marks, not assessed AI artwork. No new generated art. Primary 2 preview: extend number work, explain addition/subtraction, compare measures and explore shapes using real materials; this is a preview, not a current-curriculum claim.",
+          "top": 535,
+          "size": 13
+        },
+        {
+          "type": "text",
+          "text": "Provisional historical baseline. Current NERDC/Gombe adoption, local educator review, pupil trials, accessible-PDF certification, physical print tests and printer approval remain pending. This export is not press-ready. Independent editorial review is a separate gate.",
+          "top": 710,
+          "size": 11
+        }
+      ],
+      "task_ids": []
+    }
+  ],
+  "tasks": [
+    {
+      "id": "ANN-M1",
+      "prompt": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+      "answer": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+      "mode": "model",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-G1",
+      "prompt": "Put 3 counters down. Add 2. Count them together. Explain how you avoid counting one twice.",
+      "answer": "5 counters; touch or move each once.",
+      "mode": "guided",
+      "section": "revision",
+      "calculation": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "ANN-I1",
+      "prompt": "Draw 5 circles in your workbook. Add 3 more. How many altogether? Explain your check.",
+      "answer": "8; 5 + 3 = 8. Count each circle once.",
+      "mode": "independent",
+      "section": "revision",
+      "calculation": [
+        5,
+        3,
+        8
+      ]
+    },
+    {
+      "id": "ANN-M2",
+      "prompt": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+      "answer": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+      "mode": "model",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-G2",
+      "prompt": "Put 8 counters down. Move 2 away. Say the remaining number. Check by putting the parts together.",
+      "answer": "6 remain; 2 + 6 = 8.",
+      "mode": "guided",
+      "section": "revision",
+      "calculation": [
+        8,
+        -2,
+        6
+      ]
+    },
+    {
+      "id": "ANN-I2",
+      "prompt": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+      "answer": "5; 9 - 4 = 5.",
+      "mode": "independent",
+      "section": "revision",
+      "calculation": [
+        9,
+        -4,
+        5
+      ]
+    },
+    {
+      "id": "ANN-M3",
+      "prompt": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+      "answer": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+      "mode": "model",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-G3",
+      "prompt": "Use two safe strips. Align one end. Say which is longer, shorter or equal. Fold a paper circle into two equal matching parts. Explain why the parts are halves.",
+      "answer": "Comparison depends on strips; compare from one baseline. Two equal matching parts make halves.",
+      "mode": "guided",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-I3",
+      "prompt": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+      "answer": "Two equal parts of the circle; accept any straight diameter forming two equal halves. Length comparison depends on actual strips.",
+      "mode": "independent",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-R",
+      "prompt": "Explain a count check and subtraction check.",
+      "answer": "Count each once; recombine removed and remaining parts.",
+      "mode": "recall",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-H",
+      "prompt": "Use 2 counters, add 1; then try 2 and 2.",
+      "answer": "3 in model; 4 in new unaided recheck after support.",
+      "mode": "help/recheck",
+      "section": "revision"
+    },
+    {
+      "id": "ANN-F",
+      "prompt": "Start with 6, add 3. Check another way.",
+      "answer": "9; count all or count on; 6 + 3 = 9.",
+      "mode": "fresh",
+      "section": "revision",
+      "calculation": [
+        6,
+        3,
+        9
+      ]
+    },
+    {
+      "id": "ANN-C1",
+      "prompt": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+      "answer": "9; six circles; count 5 once each; consistent stated sorting rule.",
+      "mode": "independent",
+      "section": "assessment"
+    },
+    {
+      "id": "ANN-C2",
+      "prompt": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+      "answer": "2 tens and 4 ones; 9; 5; two equal matching parts. Accept a valid check.",
+      "mode": "independent",
+      "section": "assessment"
+    },
+    {
+      "id": "ANN-C3",
+      "prompt": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+      "answer": "7 pretend units; length depends on strips; closed four-straight-sided rectangle with opposite sides equal and square corners; afternoon.",
+      "mode": "independent",
+      "section": "assessment"
+    },
+    {
+      "id": "ANN-C4",
+      "prompt": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+      "answer": "3 tens and 1 one; 10; 5; four equal-area parts of a square, including four equal strips; actual balance/weight observation determines heavier/lighter/equal; accurately labelled fictional replies after asking.",
+      "mode": "independent",
+      "section": "assessment"
+    },
+    {
+      "id": "AI-M1",
+      "prompt": "What is AI? Can its answer be wrong?",
+      "answer": "A computer tool made by people; uses patterns learned from many examples to make replies; not a person; has no feelings; replies can be wrong.",
+      "mode": "model",
+      "section": "AI"
+    },
+    {
+      "id": "AI-G",
+      "prompt": "Count the four printed counters and correct the pretend five.",
+      "answer": "4; five is wrong; touch each of the four once.",
+      "mode": "guided",
+      "section": "AI"
+    },
+    {
+      "id": "AI-M2",
+      "prompt": "Three counters and two more.",
+      "answer": "5; 3 + 2 = 5.",
+      "mode": "model",
+      "section": "AI",
+      "calculation": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "AI-I",
+      "prompt": "Ask about two counters and one more; verify three.",
+      "answer": "A clear non-private question stating 2 and 1 more; verify 3 with objects.",
+      "mode": "independent",
+      "section": "AI",
+      "calculation": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "AI-F",
+      "prompt": "Count six printed counters and independently correct pretend four.",
+      "answer": "6; four is wrong. Touch each once and explain.",
+      "mode": "fresh",
+      "section": "AI"
+    },
+    {
+      "id": "AI-H",
+      "prompt": "Check two counters together, then a new set of three.",
+      "answer": "2 in model; 3 in unaided recheck after support.",
+      "mode": "help/recheck",
+      "section": "AI"
+    },
+    {
+      "id": "AI-R",
+      "prompt": "Recall the checking and privacy rules.",
+      "answer": "Ask clearly; use invented non-private maths; check answers with own maths and adult support.",
+      "mode": "recall",
+      "section": "AI"
+    },
+    {
+      "id": "AI-W1",
+      "prompt": "Ask an adult a clear question about 2 counters and 1 more. The adult reads: Pretend AI says three. Check with counters. Draw or write your check. Use no private information.",
+      "answer": "3; clear question and one-to-one checking.",
+      "mode": "independent",
+      "section": "AI"
+    },
+    {
+      "id": "AI-W2",
+      "prompt": "These dots are the whole set. Pretend AI says four. Count each dot once. Write the correct number and explain to an adult.",
+      "answer": "6; four is wrong; count each of six once.",
+      "mode": "independent",
+      "section": "AI"
+    },
+    {
+      "id": "LEG-P1-R1-1",
+      "prompt": "Write the number for no objects.",
+      "answer": "0",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R1-2",
+      "prompt": "Order 8, 3 and 6 from smallest to largest.",
+      "answer": "3, 6, 8",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R1-3",
+      "prompt": "What comes after 59?",
+      "answer": "60",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R1-4",
+      "prompt": "2 tens and 7 ones make __.",
+      "answer": "27",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R1-5",
+      "prompt": "Draw four equal parts of a square and shade one.",
+      "answer": "One quarter shaded; four equal-area parts.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R1-6",
+      "prompt": "Show 9 objects and explain how you checked.",
+      "answer": "Exactly nine; touch or move each once.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-1",
+      "prompt": "3 + 4 + 1 = __.",
+      "answer": "8",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-2",
+      "prompt": "17 - 8 = __.",
+      "answer": "9",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-3",
+      "prompt": "24 + 12 = __.",
+      "answer": "36",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-4",
+      "prompt": "6 + __ = 10.",
+      "answer": "4",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-5",
+      "prompt": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+      "answer": "2k; 8k + 2k = 10k.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R2-6",
+      "prompt": "Draw or show why 7 + 6 = 13.",
+      "answer": "Two sets total thirteen; or count on six from seven.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-1",
+      "prompt": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+      "answer": "2, 5, 7",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-2",
+      "prompt": "What comes after afternoon: morning or evening?",
+      "answer": "evening",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-3",
+      "prompt": "Handle a safe ball-shaped model. Name its solid shape.",
+      "answer": "sphere",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-4",
+      "prompt": "How many corners has a square?",
+      "answer": "4",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-5",
+      "prompt": "Compare two safe objects by weight. Show your method.",
+      "answer": "Use a balance or safe lifting to test the two actual safe objects. Accept heavier, lighter or equal weight when it matches the observation; do not infer weight from a picture.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-R3-6",
+      "prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+      "answer": "2; count the two records equal to seven.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-1",
+      "prompt": "Write eighty-two in digits.",
+      "answer": "82",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-2",
+      "prompt": "Complete: 8, 9, __, __.",
+      "answer": "10, 11",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-3",
+      "prompt": "15 = __ ten and __ ones.",
+      "answer": "1 ten, 5 ones",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-4",
+      "prompt": "8 + 7 = __.",
+      "answer": "15",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-5",
+      "prompt": "16 - 9 = __. Show a check.",
+      "answer": "7; 7 + 9 = 16.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A1-6",
+      "prompt": "__ + 4 = 9. Explain the blank.",
+      "answer": "5; 9 − 4 = 5 or count on.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-1",
+      "prompt": "Draw a rectangle and show one half.",
+      "answer": "Two equal-area parts, one selected.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-2",
+      "prompt": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+      "answer": "15k",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-3",
+      "prompt": "Handle a safe rectangular box model. Name its solid shape.",
+      "answer": "cuboid",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-4",
+      "prompt": "Write morning, night, afternoon in day order.",
+      "answer": "morning, afternoon, night",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-5",
+      "prompt": "Measure a book with a repeated paper strip. Record and explain.",
+      "answer": "Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "LEG-P1-A2-6",
+      "prompt": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+      "answer": "Two labelled age records and a correct comparison.",
+      "mode": "independent",
+      "section": "legacy-assessment"
+    },
+    {
+      "id": "ANN-D",
+      "prompt": "Delayed: 4 + 3 and 6 - 2.",
+      "answer": "7 and 4; show and explain methods.",
+      "mode": "delayed",
+      "section": "revision"
+    },
+    {
+      "id": "AI-D",
+      "prompt": "Delayed: five real counters, invented reply six. Recall privacy rule.",
+      "answer": "5; six is wrong; check each once. Use non-private invented examples and trusted adult help.",
+      "mode": "delayed",
+      "section": "AI"
+    }
+  ],
+  "legacy_assessments": [
+    {
+      "source_group": "P1-R1",
+      "source_question": 1,
+      "source_prompt": "Write the number for no objects.",
+      "source_answer": "0",
+      "annual_task": "LEG-P1-R1-1",
+      "adapted_prompt": "Write the number for no objects.",
+      "adapted_answer": "0",
+      "allocation": "term-one",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R1",
+      "source_question": 2,
+      "source_prompt": "Order: 8, 3, 6.",
+      "source_answer": "3, 6, 8",
+      "annual_task": "LEG-P1-R1-2",
+      "adapted_prompt": "Order 8, 3 and 6 from smallest to largest.",
+      "adapted_answer": "3, 6, 8",
+      "allocation": "term-one",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R1",
+      "source_question": 3,
+      "source_prompt": "What comes after 59?",
+      "source_answer": "60",
+      "annual_task": "LEG-P1-R1-3",
+      "adapted_prompt": "What comes after 59?",
+      "adapted_answer": "60",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R1",
+      "source_question": 4,
+      "source_prompt": "2 tens and 7 ones make __.",
+      "source_answer": "27",
+      "annual_task": "LEG-P1-R1-4",
+      "adapted_prompt": "2 tens and 7 ones make __.",
+      "adapted_answer": "27",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R1",
+      "source_question": 5,
+      "source_prompt": "Draw four equal parts of a square and shade one.",
+      "source_answer": "One quarter shaded; four equal-area parts.",
+      "annual_task": "LEG-P1-R1-5",
+      "adapted_prompt": "Draw four equal parts of a square and shade one.",
+      "adapted_answer": "One quarter shaded; four equal-area parts.",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R1",
+      "source_question": 6,
+      "source_prompt": "Show 9 objects and explain how you checked.",
+      "source_answer": "Exactly nine; touch or move each once.",
+      "annual_task": "LEG-P1-R1-6",
+      "adapted_prompt": "Show 9 objects and explain how you checked.",
+      "adapted_answer": "Exactly nine; touch or move each once.",
+      "allocation": "term-one",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 1,
+      "source_prompt": "3 + 4 + 1 = __.",
+      "source_answer": "8",
+      "annual_task": "LEG-P1-R2-1",
+      "adapted_prompt": "3 + 4 + 1 = __.",
+      "adapted_answer": "8",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 2,
+      "source_prompt": "17 − 8 = __.",
+      "source_answer": "9",
+      "annual_task": "LEG-P1-R2-2",
+      "adapted_prompt": "17 - 8 = __.",
+      "adapted_answer": "9",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 3,
+      "source_prompt": "24 + 12 = __.",
+      "source_answer": "36",
+      "annual_task": "LEG-P1-R2-3",
+      "adapted_prompt": "24 + 12 = __.",
+      "adapted_answer": "36",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 4,
+      "source_prompt": "6 + __ = 10.",
+      "source_answer": "4",
+      "annual_task": "LEG-P1-R2-4",
+      "adapted_prompt": "6 + __ = 10.",
+      "adapted_answer": "4",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 5,
+      "source_prompt": "Pretend cost 8k; pay 10k. Find and check change.",
+      "source_answer": "2k; 8k + 2k = 10k.",
+      "annual_task": "LEG-P1-R2-5",
+      "adapted_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+      "adapted_answer": "2k; 8k + 2k = 10k.",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R2",
+      "source_question": 6,
+      "source_prompt": "Draw or show why 7 + 6 = 13.",
+      "source_answer": "Two sets total thirteen; or count on six from seven.",
+      "annual_task": "LEG-P1-R2-6",
+      "adapted_prompt": "Draw or show why 7 + 6 = 13.",
+      "adapted_answer": "Two sets total thirteen; or count on six from seven.",
+      "allocation": "term-two",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 1,
+      "source_prompt": "Order 5, 2, 7 equal spans from shortest.",
+      "source_answer": "2, 5, 7",
+      "annual_task": "LEG-P1-R3-1",
+      "adapted_prompt": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+      "adapted_answer": "2, 5, 7",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 2,
+      "source_prompt": "What comes after afternoon: morning or evening?",
+      "source_answer": "evening",
+      "annual_task": "LEG-P1-R3-2",
+      "adapted_prompt": "What comes after afternoon: morning or evening?",
+      "adapted_answer": "evening",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 3,
+      "source_prompt": "Name the ball-shaped solid.",
+      "source_answer": "sphere",
+      "annual_task": "LEG-P1-R3-3",
+      "adapted_prompt": "Handle a safe ball-shaped model. Name its solid shape.",
+      "adapted_answer": "sphere",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 4,
+      "source_prompt": "How many corners has a square?",
+      "source_answer": "4",
+      "annual_task": "LEG-P1-R3-4",
+      "adapted_prompt": "How many corners has a square?",
+      "adapted_answer": "4",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 5,
+      "source_prompt": "Compare two safe objects by weight. Show your method.",
+      "source_answer": "Correct heavier/lighter comparison using a balance or safe lifting.",
+      "annual_task": "LEG-P1-R3-5",
+      "adapted_prompt": "Compare two safe objects by weight. Show your method.",
+      "adapted_answer": "Use a balance or safe lifting to test the two actual safe objects. Accept heavier, lighter or equal weight when it matches the observation; do not infer weight from a picture.",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-R3",
+      "source_question": 6,
+      "source_prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+      "source_answer": "2; count the two records equal to seven.",
+      "annual_task": "LEG-P1-R3-6",
+      "adapted_prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+      "adapted_answer": "2; count the two records equal to seven.",
+      "allocation": "term-three",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 1,
+      "source_prompt": "Write eighty-two in digits.",
+      "source_answer": "82",
+      "annual_task": "LEG-P1-A1-1",
+      "adapted_prompt": "Write eighty-two in digits.",
+      "adapted_answer": "82",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 2,
+      "source_prompt": "Complete: 8, 9, __, __.",
+      "source_answer": "10, 11",
+      "annual_task": "LEG-P1-A1-2",
+      "adapted_prompt": "Complete: 8, 9, __, __.",
+      "adapted_answer": "10, 11",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 3,
+      "source_prompt": "15 = __ ten and __ ones.",
+      "source_answer": "1 ten, 5 ones",
+      "annual_task": "LEG-P1-A1-3",
+      "adapted_prompt": "15 = __ ten and __ ones.",
+      "adapted_answer": "1 ten, 5 ones",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 4,
+      "source_prompt": "8 + 7 = __.",
+      "source_answer": "15",
+      "annual_task": "LEG-P1-A1-4",
+      "adapted_prompt": "8 + 7 = __.",
+      "adapted_answer": "15",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 5,
+      "source_prompt": "16 − 9 = __. Show a check.",
+      "source_answer": "7; 7 + 9 = 16.",
+      "annual_task": "LEG-P1-A1-5",
+      "adapted_prompt": "16 - 9 = __. Show a check.",
+      "adapted_answer": "7; 7 + 9 = 16.",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A1",
+      "source_question": 6,
+      "source_prompt": "__ + 4 = 9. Explain the blank.",
+      "source_answer": "5; 9 − 4 = 5 or count on.",
+      "annual_task": "LEG-P1-A1-6",
+      "adapted_prompt": "__ + 4 = 9. Explain the blank.",
+      "adapted_answer": "5; 9 − 4 = 5 or count on.",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 1,
+      "source_prompt": "Draw a rectangle and show one half.",
+      "source_answer": "Two equal-area parts, one selected.",
+      "annual_task": "LEG-P1-A2-1",
+      "adapted_prompt": "Draw a rectangle and show one half.",
+      "adapted_answer": "Two equal-area parts, one selected.",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 2,
+      "source_prompt": "Pretend tokens 10k + 5k total __.",
+      "source_answer": "15k",
+      "annual_task": "LEG-P1-A2-2",
+      "adapted_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+      "adapted_answer": "15k",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 3,
+      "source_prompt": "Name a solid modelled by a rectangular box.",
+      "source_answer": "cuboid",
+      "annual_task": "LEG-P1-A2-3",
+      "adapted_prompt": "Handle a safe rectangular box model. Name its solid shape.",
+      "adapted_answer": "cuboid",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 4,
+      "source_prompt": "Write morning, night, afternoon in day order.",
+      "source_answer": "morning, afternoon, night",
+      "annual_task": "LEG-P1-A2-4",
+      "adapted_prompt": "Write morning, night, afternoon in day order.",
+      "adapted_answer": "morning, afternoon, night",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 5,
+      "source_prompt": "Measure a book with a repeated paper strip. Record and explain.",
+      "source_answer": "Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+      "annual_task": "LEG-P1-A2-5",
+      "adapted_prompt": "Measure a book with a repeated paper strip. Record and explain.",
+      "adapted_answer": "Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    },
+    {
+      "source_group": "P1-A2",
+      "source_question": 6,
+      "source_prompt": "Record two fictional pupils’ ages and compare them.",
+      "source_answer": "Two labelled age records and a correct comparison.",
+      "annual_task": "LEG-P1-A2-6",
+      "adapted_prompt": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+      "adapted_answer": "Two labelled age records and a correct comparison.",
+      "allocation": "annual",
+      "reason": "Retained meaning; clean punctuation, explicit materials/context; reallocated to taught prerequisites."
+    }
+  ],
+  "ai_final_slugs": [
+    "ai-1",
+    "ai-2",
+    "ai-3",
+    "ai-4"
+  ]
+}

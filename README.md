@@ -1,19 +1,33 @@
 # Maths with Friends
 
-**Current checkpoint, 14 November 2026:** Primary 1 Chapters 1-15 have independently
-approved exact textbook/workbook pairs. The latest are
-[Length textbook (21 pages)](output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf),
-[Length workbook (10 pages)](output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf),
-[Time textbook (23 pages)](output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf) and
-[Time workbook (8 pages)](output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf).
-See the [current session handoff](docs/SESSION-HANDOFF.md) and
-[independent review](output/chapter-15/REVIEW.md). Next is **P1-16 Heavy and light**,
-led by Mr Aliyu. Four units, annual revision/assessment, four offline-AI pupil pages
-and full-year assembly remain. Current curriculum/adoption, local classroom and
-physical print/printer approval remain pending. The combined edition and older
-standalone samples below are historical artifacts.
+**Completed annual Primary 1 pair, 16 November 2026:**
+[Reusable textbook (406 pages)](output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf)
+and [write-in workbook (191 pages)](output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf)
+have passed independent editorial review under the provisional historical baseline.
+They include all 19 topics, revision and assessment, full in-book question/answer
+navigation, teacher support, glossary, mapping, credits and Primary 2 preview.
+The final four pupil teaching pages (textbook 269-272) use printed simulated AI
+chats in the Gombe classroom story. [Open just those four pages](output/annual-edition/parent-AI-preview.pdf).
+No real phone, device, account or live AI is part of these activities.
 
-**Current Chapter 1-2 adaptation:** [opening textbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf)
+See [independent review](output/annual-edition/REVIEW-REPORT.md),
+[coordinator validation](output/annual-edition/parent-validation.json) and
+[current handoff](docs/SESSION-HANDOFF.md). All 57 new task/example records,
+54 historical objective links, 21 supplementary links and 30 older assessment
+items were checked; all 508 retained chapter pages match their reviewed sources.
+Two duplicate welcome covers were replaced. Original source/chapter PDFs remain
+unchanged. Current curriculum/adoption, local teacher/pupil/accessibility trials,
+physical print proof and printer approval remain pending. This is editorial
+completion, not press-ready or whole-series approval; Primary 2/3 remain pending.
+
+Build the annual pair with `python scripts/build_primary_one_annual.py`;
+check with `python scripts/preflight.py` and
+`python output/annual-edition/parent_verify.py --require-reviewed`.
+The historical Quarto command below rebuilds the old combined edition only.
+Annual work is local and uncommitted; the last verified GitHub delivery remains
+`b5fb75d` (all 19 topic extracts). No annual commit, push or publication occurred.
+
+**Retained Chapter 1-2 extract:** [opening textbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf)
 (22 pages) and [separate workbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf)
 (10 pages). Introductions appear once at the front; the textbook stays reusable,
 with writing/circling/matching responses in the workbook or an exercise book.
@@ -47,7 +61,7 @@ gate status are in [the chapter packet](output/prototypes/p1-02/HANDOFF.md) and
 `production/chapter-reviews.json`. Local educator/pupil and print review remain
 pending. The full-volume Quarto build retains its legacy layout.
 
-Current authoring authority: [CHAPTER-STANDARD.md](docs/CHAPTER-STANDARD.md), [independent review](docs/CHAPTER-REVIEW.md), and [handoff template](docs/HANDOFF-TEMPLATE.md). All 63 chapters are registered; P1-01 through P1-15 are independently approved for their exact paired artifacts, while the other 48 chapter records remain pending. Run `python scripts/check_chapter_standard.py`; use `--chapter P1-01 --require-reviewed` for the approval gate. Legacy full-book validation does not approve the redesign.
+Current authoring authority: [CHAPTER-STANDARD.md](docs/CHAPTER-STANDARD.md), [independent review](docs/CHAPTER-REVIEW.md), and [handoff template](docs/HANDOFF-TEMPLATE.md). All 63 canonical chapters are registered; the 19 Primary 1 topic pairs and the separate annual pair have current independent editorial approvals. Primary 2/3's other 44 chapter records remain pending. The annual pair is not an extra canonical chapter; no unfiltered whole-series approval is claimed. Run `python scripts/check_chapter_standard.py`; use `--chapter P1-01 --require-reviewed` for the approval gate. Legacy full-book validation does not approve the redesign.
 
 Working title for the redesign: **Maths with Friends — Count. Explore. Discover.**
 The latest [interactive classroom chapter sample](output/pdf/Maths-with-Friends-One-to-five-v7.pdf)

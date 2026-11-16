@@ -1,0 +1,837 @@
+[
+  {
+    "source": {
+      "id": "S001",
+      "grade": 1,
+      "objective_id": "P1-p01-01",
+      "prompt": "Mix paper circles and squares, with 3 of one kind and 5 of the other. Sort by shape, name the rule, and count each group.",
+      "answer": "Two groups classified by shape; counts 3 and 5; one-to-one counting.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Model sorting by one feature before asking the pupil to sort independently.",
+      "layout_word_count": 48,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "P1-02-SORT",
+      "P1-02-FRESH-SORT"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 20,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+        "source_page": 12,
+        "task_ids": [
+          "P1-02-SORT"
+        ]
+      },
+      {
+        "artifact": "textbook",
+        "annual_page": 25,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+        "source_page": 17,
+        "task_ids": [
+          "P1-02-FRESH-SORT"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 14,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+        "source_page": 6,
+        "task_ids": [
+          "P1-02-SORT"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 18,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+        "source_page": 10,
+        "task_ids": [
+          "P1-02-FRESH-SORT"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S002",
+      "grade": 1,
+      "objective_id": "P1-p02-01",
+      "prompt": "Sort a mixed collection into 6 blue paper circles, 7 red squares, 8 green triangles and 9 yellow rectangles. Count and order the groups.",
+      "answer": "Four correctly classified groups with counts 6, 7, 8, 9, ordered by quantity.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "The shapes are sorting materials; naming the triangle is not required at P1.",
+      "layout_word_count": 50,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "P1-04-S002"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 36,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "P1-04-S002"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 27,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "P1-04-S002"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S003",
+      "grade": 1,
+      "objective_id": "P1-p02-03",
+      "prompt": "Count nine counters once each. Then read cards 1 to 9 in a mixed order chosen by the teacher.",
+      "answer": "Nine objects counted exactly once each; each displayed numeral correctly named.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Accept spoken number words or the pupil's established accessible communication method.",
+      "layout_word_count": 41,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "P1-04-S003"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 39,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "P1-04-S003"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 28,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+        "source_page": 6,
+        "task_ids": [
+          "P1-04-S003"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S004",
+      "grade": 1,
+      "objective_id": "P1-p02-04",
+      "prompt": "Without copying, write the numerals the teacher says: eight, six, nine, seven.",
+      "answer": "8, 6, 9, 7, recognisable and correctly oriented.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Give blank writing space and check that 6 and 9 are not reversed.",
+      "layout_word_count": 33,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "P1-04-S004"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 39,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "P1-04-S004"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 28,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+        "source_page": 6,
+        "task_ids": [
+          "P1-04-S004"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S005",
+      "grade": 1,
+      "objective_id": "P1-p04-03",
+      "prompt": "Find 4 + 5 + 6 and 9 + 0 + 8. Show a counter or count-on check.",
+      "answer": "15 and 17; all three addends included once; correct check.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Each addend is 0?9 and each total is ?18.",
+      "layout_word_count": 37,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S005"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 93,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+        "source_page": 9,
+        "task_ids": [
+          "S005"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 65,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S005"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S006",
+      "grade": 1,
+      "objective_id": "P1-p06-02",
+      "prompt": "Amina has 4 books and gets 3 more. Musa says 8 books. Check his addition using objects and correct it.",
+      "answer": "4 + 3 = 7; recounting or another valid check shows 8 is wrong.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "A correct addition total matches all the objects counted once. A wrong total miscounts stock. Check by joining and recounting the sets.",
+      "layout_word_count": 56,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S006"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 135,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+        "source_page": 15,
+        "task_ids": [
+          "S006"
+        ]
+      },
+      {
+        "artifact": "textbook",
+        "annual_page": 326,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+        "source_page": 34,
+        "task_ids": [
+          "S006"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 87,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+        "source_page": 4,
+        "task_ids": [
+          "S006"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S007",
+      "grade": 1,
+      "objective_id": "P1-p06-04",
+      "prompt": "There are 9 chalk pieces and 4 are used. Musa says 6 remain. Check with objects and correct him.",
+      "answer": "9 - 4 = 5; 5 + 4 = 9 or a correct take-away check.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "After taking some objects away, remaining plus removed must equal the starting amount. Use that addition to check the subtraction.",
+      "layout_word_count": 54,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S007"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 135,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+        "source_page": 15,
+        "task_ids": [
+          "S007"
+        ]
+      },
+      {
+        "artifact": "textbook",
+        "annual_page": 326,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+        "source_page": 34,
+        "task_ids": [
+          "S007"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 87,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+        "source_page": 4,
+        "task_ids": [
+          "S007"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S008",
+      "grade": 1,
+      "objective_id": "P1-p08-01",
+      "prompt": "Using the teacher's verified genuine Nigerian coin examples or verified official images, point to each coin and say its denomination. Distinguish coins from the book's pretend tokens.",
+      "answer": "Each value agrees with the teacher's dated verified denomination checklist; do not infer value from size or token count.",
+      "resource_status": "verified_money_examples_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Prepare appropriate verified coin examples for the adopted curriculum edition. Pretend value cards alone cannot fulfil this check.",
+      "layout_word_count": 64,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S008"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 162,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+        "source_page": 16,
+        "task_ids": [
+          "S008"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 104,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+        "source_page": 7,
+        "task_ids": [
+          "S008"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S009",
+      "grade": 1,
+      "objective_id": "P1-p08-04",
+      "prompt": "With supervision, place an available genuine coin under brown paper and white paper in turn and make a gentle pencil rubbing on each sheet. Say which coin was used.",
+      "answer": "Two recognisable surface rubbings made by tracing the coin through the paper; coin and paper intact; stated value matches the example.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "A rubbing records an existing coin surface through paper. Drawing an invented labelled token is a different task and does not demonstrate coin tracing.",
+      "layout_word_count": 74,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S009"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 162,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+        "source_page": 16,
+        "task_ids": [
+          "S009"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 104,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+        "source_page": 7,
+        "task_ids": [
+          "S009"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S010",
+      "grade": 1,
+      "objective_id": "P1-p09-03",
+      "prompt": "Line up one end of three similar paper strips of different lengths. Arrange them shortest to longest and explain.",
+      "answer": "Correct physical order after aligned-end comparison; explanation refers to length.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Make the strips clearly different and similar in other respects.",
+      "layout_word_count": 39,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S010"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 174,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+        "source_page": 12,
+        "task_ids": [
+          "S010"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 114,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+        "source_page": 10,
+        "task_ids": [
+          "S010"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S011",
+      "grade": 1,
+      "objective_id": "P1-p09-04",
+      "prompt": "Measure a table in your hand spans and a short safe path in your footsteps. Record the counts and whose spans/steps were used.",
+      "answer": "Equal repeated units without gaps/overlaps; plausible recorded counts labelled with the pupil's unit and measurement.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "For a seated pupil use repeated personal paper-strip units for a reachable table/path model; record the adaptation.",
+      "layout_word_count": 55,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S011"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 174,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+        "source_page": 12,
+        "task_ids": [
+          "S011"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 114,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+        "source_page": 10,
+        "task_ids": [
+          "S011"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S012",
+      "grade": 1,
+      "objective_id": "P1-p09-05",
+      "prompt": "Find three safe similar objects nearby. Compare and order their lengths, then measure one with your own repeated unit.",
+      "answer": "Correct local ordering; measurement uses an identified repeated unit consistently.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Discuss one use, such as choosing a strip long enough to cover a label.",
+      "layout_word_count": 43,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S012"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 174,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+        "source_page": 12,
+        "task_ids": [
+          "S012"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 114,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+        "source_page": 10,
+        "task_ids": [
+          "S012"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S013",
+      "grade": 1,
+      "objective_id": "P1-p10-02",
+      "prompt": "Name one home activity and one school activity. Say whether each happens in your morning, afternoon, evening or night routine.",
+      "answer": "Two plausible examples with coherent times, including a school example; accept different family/school routines.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Morning, afternoon, evening and night describe parts of a day. A class game may happen at school in the morning; eating an evening meal is a home example.",
+      "layout_word_count": 62,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S013"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 186,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+        "source_page": 12,
+        "task_ids": [
+          "S013"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 121,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf",
+        "source_page": 7,
+        "task_ids": [
+          "S013"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S014",
+      "grade": 1,
+      "objective_id": "P1-p11-01",
+      "prompt": "Sort teacher-provided models into cube, non-cube cuboid, cylinder and sphere groups. Explain one choice.",
+      "answer": "Each of four solids classified correctly from geometric features; a valid explanation.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Use clean large models; rolling alone is insufficient to distinguish all groups.",
+      "layout_word_count": 38,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S014"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 206,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S014"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 138,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf",
+        "source_page": 4,
+        "task_ids": [
+          "S014"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S015",
+      "grade": 1,
+      "objective_id": "P1-p11-04",
+      "prompt": "Name or point to a familiar example of a cube, a non-cube cuboid, a cylinder and a sphere.",
+      "answer": "Suitable examples for all four, such as dice, rectangular box, straight-sided closed tin and ball.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "A dice can model a cube, a rectangular box a non-cube cuboid, a straight-sided closed tin a cylinder, and a ball a sphere. Real objects approximate the solids.",
+      "layout_word_count": 61,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S015"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 206,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S015"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 138,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf",
+        "source_page": 4,
+        "task_ids": [
+          "S015"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S016",
+      "grade": 1,
+      "objective_id": "P1-p11-05",
+      "prompt": "The teacher shows a square, a non-square rectangle and a circle in mixed orientations. Point to each shape when its name is spoken.",
+      "answer": "All three identified correctly, including rotated examples.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Turns do not change the defining shape.",
+      "layout_word_count": 37,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S016"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 220,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S016"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 149,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S016"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S017",
+      "grade": 1,
+      "objective_id": "P1-p11-06",
+      "prompt": "Match three shape cards to labels square, rectangle and circle. Read or say each name.",
+      "answer": "Three correct matches and names.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "The teacher may read labels aloud; assess shape matching rather than reading proficiency.",
+      "layout_word_count": 33,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S017"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 220,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S017"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 149,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S017"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S018",
+      "grade": 1,
+      "objective_id": "P1-p11-07",
+      "prompt": "Compare a square card with a non-square rectangle card. Say one feature shared and one way they differ.",
+      "answer": "Both have four square corners; square has four equal sides, non-square rectangle has unequal adjacent lengths.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Retain the book's correct statement that a square is a special rectangle.",
+      "layout_word_count": 46,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S018"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 220,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S018"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 149,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S018"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S019",
+      "grade": 1,
+      "objective_id": "P1-p11-08",
+      "prompt": "Find or name familiar objects with a square face, a non-square rectangular face and a circular face or outline.",
+      "answer": "One suitable example of each; pupil points to the relevant face/outline.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "A square tile face, a non-square book cover and a round lid show square, rectangular and circular outlines. Name the relevant face or outline, not the whole solid.",
+      "layout_word_count": 58,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S019"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 220,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+        "source_page": 8,
+        "task_ids": [
+          "S019"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 149,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S019"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S020",
+      "grade": 1,
+      "objective_id": "P1-p12-01",
+      "prompt": "With consent, ask two willing people their ages in completed years and record letter labels and ages. One may be at home and one at school. If participation is declined, interview a teacher role-playing two people.",
+      "answer": "Two consistently asked age questions and accurate letter-labelled records; no names required.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Use private voluntary records. A teacher may role-play fictional ages; assess asking and recording rather than merely copying a completed table.",
+      "layout_word_count": 69,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S020"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 233,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+        "source_page": 7,
+        "task_ids": [
+          "S020"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 160,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S020"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  },
+  {
+    "source": {
+      "id": "S021",
+      "grade": 1,
+      "objective_id": "P1-p12-02",
+      "prompt": "With consent, compare two pupils' heights using marked paper strips, then record the strip labels and measurements or comparison results.",
+      "answer": "Consistent floor-to-head method; two correctly labelled observations recorded; no claim that taller means better.",
+      "resource_status": "classroom_materials_required",
+      "status": "proposed_not_administered",
+      "teaching_notes": "Offer teacher-provided life-size paper silhouettes when pupils prefer not to be measured.",
+      "layout_word_count": 46,
+      "layout_flag": ""
+    },
+    "rendered_aliases": [
+      "S021"
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "annual_page": 233,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+        "source_page": 7,
+        "task_ids": [
+          "S021"
+        ]
+      },
+      {
+        "artifact": "workbook",
+        "annual_page": 160,
+        "source_pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf",
+        "source_page": 5,
+        "task_ids": [
+          "S021"
+        ]
+      }
+    ],
+    "limit": "Physical performance requires stated real materials; picture interpretation is not newly collecting or manipulating objects. No pupil outcomes asserted."
+  }
+]

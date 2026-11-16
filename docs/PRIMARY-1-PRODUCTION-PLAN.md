@@ -1,5 +1,33 @@
 # Primary 1: full-year production plan
 
+Annual editorial completion, **16 November 2026**: the separate 406-page reusable
+textbook and 191-page write-in workbook are built and independently approved under
+the provisional historical baseline. All 19 topics, annual revision/assessment,
+complete in-book answers/navigation, teacher guidance, glossary/mapping/credits,
+Primary 2 preview and exactly four final offline-AI pupil pages are present.
+AI269-272 uses only invented printed chats, as explicitly requested by the user.
+No real phone/device/live AI is required. See [current handoff](SESSION-HANDOFF.md),
+[independent review](../output/annual-edition/REVIEW-REPORT.md) and
+[final coordinator checks](../output/annual-edition/parent-validation.json).
+All 19 exact topic approvals were renewed through attributed continuity; annual
+assembly has a separate approval. All strict Primary 1 and annual gates and
+preflight passed. No whole-series/P2/P3 approval is claimed. Current curriculum,
+local classroom/accessibility and print/printer checks remain pending. Annual
+changes are local/uncommitted, with no push or publication. Older dated checkpoints
+below describe their historical states and do not override this completion record.
+
+Active annual-completion work, **16 November 2026**: user authorized revision,
+assessment, the four final Gombe-context offline-AI pupil pages and annual assembly.
+AI interactions must be **printed simulated chats only, with no real phone or live
+AI**, following the user's explicit correction. The chats are invented teaching
+examples, not generated session records. See the [source basis](../research/PRIMARY-1-AI-SOURCES-2026.json)
+and [current handoff](SESSION-HANDOFF.md). Chapters 16-19 were committed/pushed in
+`b5fb75d`; the uncommitted descriptions in older checkpoints below are historical.
+Starting preflight passed; nineteen approvals have been archived/reopened before
+shared annual sources are added. Exact topic PDFs remain protected. Annual
+editorial completion and independent review are pending, as are local/current
+curriculum/physical print approvals.
+
 Latest implementation checkpoint, **16 November 2026**: all 19 existing Primary 1
 topic chapters have current independent approvals for their exact textbook/workbook
 pairs. Chapter 19, Find out about our class (Mrs Binta), has 24 textbook and 11

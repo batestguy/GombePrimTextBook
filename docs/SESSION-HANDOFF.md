@@ -1,3 +1,104 @@
+# Primary 1 annual pair completed editorially - 16 November 2026
+
+[406-page textbook](../output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf) and
+[191-page workbook](../output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf)
+passed independent editorial review under the authorized historical approximation.
+Author `/root/annual_author`; distinct reviewer `/root/annual_reviewer`.
+[Independent report](../output/annual-edition/REVIEW-REPORT.md),
+[author handoff](../output/annual-edition/REPORT.md),
+[coordinator validation](../output/annual-edition/parent-validation.json).
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md), [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+The 597-page pair contains 508 unchanged reviewed chapter pages plus 89 new
+pages. Only the two duplicate extract welcome covers were replaced. All new
+revision/assessment tasks work in the reusable textbook with an ordinary exercise
+book as well as the workbook. Printed annual answer pages 274-283 quote all 57
+questions, supply full answers and exact textbook/workbook question folios.
+All 54 historical objectives have actual task/page links, all 21 supplements have
+enacted page links, and all 30 historical assessment items have explicit adaptations.
+Mappings are not claims of exhaustive individual mastery or current alignment.
+
+Exactly four final pupil teaching pages, textbook 269-272, introduce AI using
+printed simulated chats in the familiar fictional Gombe class. This follows the
+user's correction: no real phone or live AI. Counts are deterministic, incorrect
+replies are labelled invented mistakes, correct replies are checked too, and
+privacy/adult help are taught without collecting private information.
+[Four-page preview](../output/annual-edition/parent-AI-preview.pdf).
+Adult support starts at 273; all old adult notes/answers/credits/preview are retained.
+Printed directories, bookmarks and folios convert old local references to annual pages.
+
+Reviewer personally inspected all 94 first-freeze new pages, then reopened the 24
+changed final pages and proved 65 final pages match its own inspected images.
+All 508 retained bodies were independently pixel/text-matched, all folio strips
+read (six changed sheets reopened), all 57 new task/example answers independently
+checked, and all 597 final pages checked for A4/fonts/text bounds. Original 510-page
+semantic inspection remains attributed to its original reviewers; no fresh old-body
+inspection or re-solving is invented. Two final findings (usable answer navigation
+and accepting observed equal weight) were corrected and independently resolved.
+No blocking or required finding remains.
+
+All nineteen exact topic reviews were renewed through independently verified
+source/PDF/archive continuity. Annual assembly has its own approved record at
+`annual_editions[0]`, not a 64th canonical lesson. Full-series unfiltered approval
+is not claimed: Primary 2/3's 44 records remain pending. Final preflight and draft
+register checks passed. `python output/annual-edition/parent_verify.py --require-reviewed`
+passed all nineteen strict topic gates AND the strict annual review/freeze, plus
+594 protected hashes, 36 old PDFs, 114 original questions, mappings and preview.
+Current README/plan/handoff were intentionally updated; historical verifiers and
+snapshots retain their original baselines and were not rewritten or used as annual gates.
+
+Renewed freeze: `3ebd0b8a5ce1ea99b25e343b980657bfbbf947ddab70e9b02e0fda431a8a626b`.
+Exact PDF hashes and immutable source/evidence hashes: `output/annual-edition/parent-freeze.json`.
+Source data: `production/p1-annual.json`; build `python scripts/build_primary_one_annual.py`.
+The historical `build_book.py`/Quarto path still produces the old combined edition.
+Original GombeTextbook.txt, all nineteen topic lessons, prior builders/art/fonts,
+old PDFs, review histories and other chapter records are preserved.
+
+Annual work is local and uncommitted. Last verified GitHub delivery is `b5fb75d`,
+covering all nineteen topic extracts; no annual commit, push or publication.
+Next external work: current curriculum/Gombe adoption reconciliation, local teacher,
+pupil and accessibility trials, actual-size print proof and printer approval.
+These remain pending; no adoption, pupil-performance or press-ready claim.
+Earlier checkpoints below are historical; native session state is separate from files.
+
+---
+
+# Annual edition in progress - 16 November 2026
+
+User authorized completing whole-year revision/assessment, four final offline-AI
+pupil teaching pages and full annual textbook/workbook assembly. User then clarified:
+**simulate interactions and chats as printed examples; do not use a real phone**.
+No device, power, account, internet or live AI is needed. All chats must be clearly
+labelled invented teaching examples, with deterministic quantities and adult-led
+checking in familiar fictional Gombe classroom situations.
+
+The previously completed Chapters 16-19, exact PDFs and review evidence were
+committed and pushed in `b5fb75d35f7b60f09d930b34ff3b77c6d4500907`; GitHub main
+was independently verified at that exact hash and the working tree was clean.
+The earlier uncommitted statements below describe historical checkpoints.
+
+Starting preflight passed. Before adding shared sources, the coordinator saved
+the current register and protected hashes in `output/annual-edition/before.json`
+and archived/reopened all nineteen approvals. Earlier exact PDFs remain protected;
+pending annual/revalidated-source reviews must not be represented as approved.
+The author owns only the isolated annual data/assembler/output paths assigned in
+[the annual handoff](../output/annual-edition/BRIEF.md). Coordinator owns sources,
+register and documentation; independent review has not started. Native agent state,
+not this note, determines whether work is actually running.
+
+Editorial AI basis: [source register](../research/PRIMARY-1-AI-SOURCES-2026.json).
+Local Gombe teacher/pupil/accessibility trials, current curriculum/adoption,
+physical print proof and printer approval remain pending. No commit, push,
+publication or school contact is part of this authoring task.
+
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md),
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md) and [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+Next: build and inspect new material and annual pair, freeze exact sources/PDFs,
+then independent every-new-task/page review and old-page continuity/navigation audit.
+
+---
+
 # Chapter 19 completed - 16 November 2026
 
 P1-19 **Find out about our class**, Mrs Binta, passed independent editorial review:

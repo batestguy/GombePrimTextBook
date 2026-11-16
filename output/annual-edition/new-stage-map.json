@@ -1,0 +1,121 @@
+{
+  "revision": {
+    "S1": [
+      {
+        "artifact": "textbook",
+        "page": 240
+      }
+    ],
+    "S2": [
+      {
+        "artifact": "textbook",
+        "page": 240
+      }
+    ],
+    "S3": [
+      {
+        "artifact": "textbook",
+        "page": 241
+      }
+    ],
+    "S4": [
+      {
+        "artifact": "textbook",
+        "page": 242
+      }
+    ],
+    "S5": [
+      {
+        "artifact": "textbook",
+        "page": 246
+      }
+    ],
+    "S6": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ],
+    "S7": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ],
+    "S8": [
+      {
+        "artifact": "textbook",
+        "page": 245
+      }
+    ],
+    "S9": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ]
+  },
+  "AI": {
+    "S1": [
+      {
+        "artifact": "textbook",
+        "page": 269
+      }
+    ],
+    "S2": [
+      {
+        "artifact": "textbook",
+        "page": 269
+      }
+    ],
+    "S3": [
+      {
+        "artifact": "textbook",
+        "page": 270
+      }
+    ],
+    "S4": [
+      {
+        "artifact": "textbook",
+        "page": 270
+      }
+    ],
+    "S5": [
+      {
+        "artifact": "textbook",
+        "page": 271
+      }
+    ],
+    "S6": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "S7": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "S8": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "S9": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ]
+  },
+  "delayed": [
+    {
+      "artifact": "textbook",
+      "page": 284
+    }
+  ],
+  "variation": "Revision and assessment consolidate established topic chapters rather than adding canonical chapters. Mr Aliyu follows P1-19 Mrs Binta. Separate AI section returns to Mrs Binta; printed simulations replace devices. Four final pupil pages precede adult back matter."
+}

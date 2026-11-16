@@ -1,0 +1,528 @@
+{
+  "pages": 34,
+  "sha256": "759bdef851895c3846f4f5dcc80e87716e3b6865cf220b67e95d6ffb6f656411",
+  "page_manifest": [
+    {
+      "slug": "annual-cover",
+      "kicker": "Primary One / Annual edition",
+      "title": "Maths with Friends",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "annual-navigation",
+      "kicker": "Primary One / Annual edition",
+      "title": "Find your way",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": false,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-0",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-6",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-12",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "directory-18",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: topics and page directory",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-0",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-1",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "support-directory-2",
+      "kicker": "Primary One / Annual edition",
+      "title": "Adult: support and annual navigation",
+      "subtitle": "Provisional whole-year edition / Read together.",
+      "adult": true,
+      "task_ids": []
+    },
+    {
+      "slug": "ANN-I1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Number station: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I1"
+      ]
+    },
+    {
+      "slug": "ANN-I2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Part station: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I2"
+      ]
+    },
+    {
+      "slug": "ANN-I3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Compare and shape: your turn",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-I3"
+      ]
+    },
+    {
+      "slug": "ANN-C1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term one check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C1"
+      ]
+    },
+    {
+      "slug": "ANN-C2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term two check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C2"
+      ]
+    },
+    {
+      "slug": "ANN-C3",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Term three check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C3"
+      ]
+    },
+    {
+      "slug": "ANN-C4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Whole-year check",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "ANN-C4"
+      ]
+    },
+    {
+      "slug": "AI-W1",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Our pretend chat",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "AI-W1"
+      ]
+    },
+    {
+      "slug": "AI-W2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "Find and repair the mistake",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "AI-W2"
+      ]
+    },
+    {
+      "slug": "legacy-term-one-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-1",
+        "LEG-P1-R1-2"
+      ]
+    },
+    {
+      "slug": "legacy-term-one-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term one",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-6"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-3",
+        "LEG-P1-R1-4"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R1-5",
+        "LEG-P1-R2-1"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-2",
+        "LEG-P1-R2-3"
+      ]
+    },
+    {
+      "slug": "legacy-term-two-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term two",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-4",
+        "LEG-P1-R2-6"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R2-5",
+        "LEG-P1-R3-1"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-2",
+        "LEG-P1-R3-3"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-4",
+        "LEG-P1-R3-5"
+      ]
+    },
+    {
+      "slug": "legacy-term-three-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / term three",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-R3-6"
+      ]
+    },
+    {
+      "slug": "legacy-annual-0",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-1",
+        "LEG-P1-A1-2"
+      ]
+    },
+    {
+      "slug": "legacy-annual-2",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-3",
+        "LEG-P1-A1-4"
+      ]
+    },
+    {
+      "slug": "legacy-annual-4",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A1-5",
+        "LEG-P1-A1-6"
+      ]
+    },
+    {
+      "slug": "legacy-annual-6",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-1",
+        "LEG-P1-A2-2"
+      ]
+    },
+    {
+      "slug": "legacy-annual-8",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-3",
+        "LEG-P1-A2-4"
+      ]
+    },
+    {
+      "slug": "legacy-annual-10",
+      "kicker": "Annual learning / Maths with Friends",
+      "title": "More checks / annual",
+      "subtitle": "Read together. Write in this workbook.",
+      "adult": false,
+      "task_ids": [
+        "LEG-P1-A2-5",
+        "LEG-P1-A2-6"
+      ]
+    }
+  ],
+  "task_pages": {
+    "ANN-I1": [
+      10
+    ],
+    "ANN-I2": [
+      11
+    ],
+    "ANN-I3": [
+      12
+    ],
+    "ANN-C1": [
+      13
+    ],
+    "ANN-C2": [
+      14
+    ],
+    "ANN-C3": [
+      15
+    ],
+    "ANN-C4": [
+      16
+    ],
+    "AI-W1": [
+      17
+    ],
+    "AI-W2": [
+      18
+    ],
+    "LEG-P1-R1-1": [
+      19
+    ],
+    "LEG-P1-R1-2": [
+      19
+    ],
+    "LEG-P1-R1-6": [
+      20
+    ],
+    "LEG-P1-R1-3": [
+      21
+    ],
+    "LEG-P1-R1-4": [
+      21
+    ],
+    "LEG-P1-R1-5": [
+      22
+    ],
+    "LEG-P1-R2-1": [
+      22
+    ],
+    "LEG-P1-R2-2": [
+      23
+    ],
+    "LEG-P1-R2-3": [
+      23
+    ],
+    "LEG-P1-R2-4": [
+      24
+    ],
+    "LEG-P1-R2-6": [
+      24
+    ],
+    "LEG-P1-R2-5": [
+      25
+    ],
+    "LEG-P1-R3-1": [
+      25
+    ],
+    "LEG-P1-R3-2": [
+      26
+    ],
+    "LEG-P1-R3-3": [
+      26
+    ],
+    "LEG-P1-R3-4": [
+      27
+    ],
+    "LEG-P1-R3-5": [
+      27
+    ],
+    "LEG-P1-R3-6": [
+      28
+    ],
+    "LEG-P1-A1-1": [
+      29
+    ],
+    "LEG-P1-A1-2": [
+      29
+    ],
+    "LEG-P1-A1-3": [
+      30
+    ],
+    "LEG-P1-A1-4": [
+      30
+    ],
+    "LEG-P1-A1-5": [
+      31
+    ],
+    "LEG-P1-A1-6": [
+      31
+    ],
+    "LEG-P1-A2-1": [
+      32
+    ],
+    "LEG-P1-A2-2": [
+      32
+    ],
+    "LEG-P1-A2-3": [
+      33
+    ],
+    "LEG-P1-A2-4": [
+      33
+    ],
+    "LEG-P1-A2-5": [
+      34
+    ],
+    "LEG-P1-A2-6": [
+      34
+    ]
+  },
+  "objects": [
+    {
+      "id": "AI-W1-dots",
+      "page": 17,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          80,
+          350
+        ],
+        [
+          160,
+          350
+        ],
+        [
+          240,
+          350
+        ]
+      ],
+      "count": 3
+    },
+    {
+      "id": "AI-W2-dots",
+      "page": 18,
+      "kinds": [
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot",
+        "dot"
+      ],
+      "points": [
+        [
+          80,
+          350
+        ],
+        [
+          160,
+          350
+        ],
+        [
+          240,
+          350
+        ],
+        [
+          320,
+          350
+        ],
+        [
+          400,
+          350
+        ],
+        [
+          480,
+          350
+        ]
+      ],
+      "count": 6
+    }
+  ],
+  "assets": {},
+  "automated_status": "passed_independent_visual_and_every_task_review_required"
+}
