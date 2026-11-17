@@ -1,0 +1,302 @@
+{
+  "reviewer": "/root/local_wording_review",
+  "date": "2026-11-17",
+  "status": "baseline continuity verified; final revised artifacts NOT reviewed",
+  "archived_hashes_verified": 44,
+  "source_inventory_verified": 148,
+  "full_fingerprints_reproduced": [
+    {
+      "id": "P1-01",
+      "fingerprint": "0045d40a92f0e723e42f6cbf35278692bdfbea77f3535635a0442af1ae6c3d1d",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-02",
+      "fingerprint": "a857aaef8ed006802402bbfbca29a2588f617f09b8398892027feb94f41892f8",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-03",
+      "fingerprint": "0ff09a7e6c49417bc7113d11a6233a13efb35e4141c28a61296139ac6b433b28",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-04",
+      "fingerprint": "54b4837adecaf2eb15157ddcadb4e2e2008abdc9bb598628907db0228178934d",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-05",
+      "fingerprint": "e02e3abfc4d593c1923e0f95214a96e26fd622ace948a728dd2251f6a6c9cf4a",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-06",
+      "fingerprint": "501c2f1bd56a485b899ce2072f321091cf937d8766936d63a0dac1d4d895c2a9",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-07",
+      "fingerprint": "9dec9017ed0bda0241249e1b5c0ccf0edff046e641eb6f25175cd720ce6258aa",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-08",
+      "fingerprint": "da455998856a85478798fe9bc76e39a74c0e741e6be3a82c10e5242516cdcc64",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-09",
+      "fingerprint": "6c4b4dd021081ef9469b49b35b6be8f929524c39148ff29f921547a7cb2ee671",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-10",
+      "fingerprint": "a124777744e12d0e4de40ab76b834e2aa1e3b6cc9df75206135e9fc65771e65f",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-11",
+      "fingerprint": "630e730077bbfbda118b042ea15c7e80f15bf7d99a74823404fc955749587c7e",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-12",
+      "fingerprint": "a1d18ae714461e3be83e4b28abf9d80e5512a67db295fa7da3588d6211ca537e",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-13",
+      "fingerprint": "422be04effabf551959ae94a5ffd98085aeb6cfb2f4396fd7c24b79772941c0b",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-14",
+      "fingerprint": "1723b46ba1a88513670af68a1ee63eaefb3ee5f0e57f56da3c3739d98b2d7365",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-15",
+      "fingerprint": "4be8f2419b22626767c7ead24e0404ac4d56c4dd2209311880f0ae4e67b376a1",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-16",
+      "fingerprint": "ad09ce0cdc253d0cf367b0a3aa3364b49b92a02e52f67a9ae0decd207e16b7f6",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-17",
+      "fingerprint": "4b3d9f41739c16410d5de445f1f04d22b5df2e7e962d8d3dd528c193308022b7",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    },
+    {
+      "id": "P1-18",
+      "fingerprint": "b2a20266e4cbc24df94c6c25a7a46376ee70dbb6ff797db81a21198dedc7d2de",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    },
+    {
+      "id": "P1-19",
+      "fingerprint": "4085c21d68c3e2f522ab06e20ba4116febd467b6443ac80ed3aa0a8a705ea83f",
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    },
+    {
+      "id": "P1-ANNUAL",
+      "fingerprint": "3ebd0b8a5ce1ea99b25e343b980657bfbbf947ddab70e9b02e0fda431a8a626b",
+      "prior_reviewer": "Codex /root/annual_reviewer (independent annual review; prior topic semantics explicitly attributed)"
+    }
+  ],
+  "prior_page_raster_hashes_verified": 510,
+  "prior_task_ids_covered": 517,
+  "prior_artifact_page_ranges": [
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "pages": 15,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf",
+      "pages": 7,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "pages": 13,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf",
+      "pages": 6,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+      "pages": 24,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf",
+      "pages": 11,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "pages": 15,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "pages": 8,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "pages": 13,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf",
+      "pages": 6,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+      "pages": 27,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf",
+      "pages": 11,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "pages": 19,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf",
+      "pages": 12,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "pages": 21,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "pages": 10,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "pages": 40,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf",
+      "pages": 14,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "pages": 21,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf",
+      "pages": 14,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "pages": 22,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "pages": 10,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "pages": 27,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf",
+      "pages": 7,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "pages": 11,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "pages": 6,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "pages": 11,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "pages": 6,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "pages": 26,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf",
+      "pages": 10,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "pages": 15,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf",
+      "pages": 8,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "pages": 23,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf",
+      "pages": 8,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "pages": 9,
+      "prior_page_coverage": "complete"
+    },
+    {
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "pages": 4,
+      "prior_page_coverage": "complete"
+    }
+  ],
+  "annual_exact_review_freeze_verified": "3ebd0b8a5ce1ea99b25e343b980657bfbbf947ddab70e9b02e0fda431a8a626b",
+  "scope": "Archive attribution verification only; no fresh historical task solving or visual inspection claimed.",
+  "required_final_checks": [
+    "Independently diff structured source; unchanged mathematical structures and legacy/source tasks.",
+    "Fresh semantic checks of every changed task/example/key/instruction/story; retained checks explicitly attributed.",
+    "Every changed exact textbook and workbook page visually inspected; all retained pages raster/text matched to archive.",
+    "Annual source-to-folio maps, answer navigation, complete coverage, four final AI teaching pages.",
+    "Exact final fingerprints after freeze and strict gates after independent register decisions."
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "pages": 21,
-  "sha256": "5bdc1ed3361db59705a25b1895188cd792c011dc44e7cdf6f7f2e737edb52222",
+  "sha256": "68fb0780d1fa5581997133f824a5fcef51b784c8b7d1a0f6736a23c019d37d4f",
   "page_manifest": [
     {
       "slug": "c6-story",
       "kicker": "Chapter six / Numbers to ninety-nine",
-      "title": "Labels for our game boxes",
+      "title": "Count our classroom supplies",
       "subtitle": "We will build, read and write numbers through ninety-nine.",
       "task_ids": [],
       "adult": false,
@@ -198,7 +198,7 @@
       "slug": "c6-ending",
       "kicker": "Chapter six / Numbers to ninety-nine",
       "title": "The right labels are on",
-      "subtitle": "Finish the game-box job together. Then try fresh numbers alone.",
+      "subtitle": "Finish the supply-box job together. Then try fresh numbers alone.",
       "task_ids": [
         "P1-06-ENDING",
         "P1-06-FRESH-COUNT",

@@ -4020,7 +4020,7 @@
       {
         "id": "P1-13-CHANGE-MODEL",
         "mode": "model",
-        "prompt": "Pay 10k for a 6k ticket. Find the change.",
+        "prompt": "Pay 10k for a 6k pencil. Find the change.",
         "answer": "4k; cost plus change equals payment.",
         "pages": [
           {
@@ -4080,8 +4080,8 @@
       {
         "id": "P1-13-STORY",
         "mode": "closure",
-        "prompt": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
-        "answer": "One ticket moves from shop to John; 4k change returned; 6k retained.",
+        "prompt": "Resolve the pencil purchase: pay 10k, cost 6k.",
+        "answer": "One pencil moves from shop to John; 4k change returned; 6k retained.",
         "pages": [
           {
             "artifact": "textbook",
@@ -8022,7 +8022,7 @@
       {
         "id": "P1-19-STORY",
         "mode": "closure",
-        "prompt": "Explain how the friends made the fictional toy-school folder trustworthy.",
+        "prompt": "Explain how the friends made the fictional class investigation folder trustworthy.",
         "answer": "They asked permission and the same completed-years question, listened and checked letter-labelled age records; they marked head tops with a consistent method, aligned strip bottoms and recorded comparisons. Fictional model D5/E8 and D taller than E remain consistent. No actual pupil results inferred; no better/worse age or height ranking. All four contribute; folder trust follows the demonstrated methods, not neatness alone.",
         "pages": [
           {
@@ -8221,7 +8221,7 @@
       {
         "id": "P1-19-STORY",
         "mode": "closure",
-        "prompt": "Explain how the friends made the fictional toy-school folder trustworthy.",
+        "prompt": "Explain how the friends made the fictional class investigation folder trustworthy.",
         "answer": "They asked permission and the same completed-years question, listened and checked letter-labelled age records; they marked head tops with a consistent method, aligned strip bottoms and recorded comparisons. Fictional model D5/E8 and D taller than E remain consistent. No actual pupil results inferred; no better/worse age or height ranking. All four contribute; folder trust follows the demonstrated methods, not neatness alone.",
         "pages": [
           {

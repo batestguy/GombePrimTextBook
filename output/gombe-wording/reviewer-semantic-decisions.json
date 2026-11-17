@@ -1,0 +1,707 @@
+{
+  "reviewer": "/root/local_wording_review",
+  "date": "2026-11-17",
+  "findings": [],
+  "chapters": [
+    {
+      "id": "P1-01",
+      "story_model_solution": "After play, each of four friends needs one cup; four cups give one to each friend.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 5,
+          "slug": "c1-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 10,
+          "slug": "c1-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-01-FRESH-READ",
+        "P1-01-FRESH-RECOGNISE",
+        "P1-01-FRESH-SET"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-02",
+      "story_model_solution": "The classroom game sorts leaves and bottle tops: three pairs and two spare bottle tops resolve the tray problem.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "c2-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 12,
+          "slug": "c2-2"
+        },
+        {
+          "artifact": "textbook",
+          "page": 13,
+          "slug": "c2-3"
+        },
+        {
+          "artifact": "textbook",
+          "page": 15,
+          "slug": "c2-5"
+        },
+        {
+          "artifact": "textbook",
+          "page": 16,
+          "slug": "c2-6"
+        },
+        {
+          "artifact": "textbook",
+          "page": 17,
+          "slug": "c2-7"
+        },
+        {
+          "artifact": "workbook",
+          "page": 6,
+          "slug": "w2-sort-match"
+        },
+        {
+          "artifact": "workbook",
+          "page": 8,
+          "slug": "w2-more-fewer"
+        },
+        {
+          "artifact": "workbook",
+          "page": 9,
+          "slug": "w2-remember"
+        },
+        {
+          "artifact": "workbook",
+          "page": 10,
+          "slug": "w2-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-02-ENDING",
+        "P1-02-EQUAL",
+        "P1-02-FRESH-COMPARE",
+        "P1-02-FRESH-SORT",
+        "P1-02-Q3",
+        "P1-02-Q4",
+        "P1-02-Q5",
+        "P1-02-Q6",
+        "P1-02-SORT",
+        "P1-02-SUPPORT"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-03",
+      "story_model_solution": "Counting materials are packed: three stored and none left. Zero refers to the contents, not the container.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c3-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 2,
+          "slug": "c3-model"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "c3-guided"
+        },
+        {
+          "artifact": "textbook",
+          "page": 4,
+          "slug": "c3-independent"
+        },
+        {
+          "artifact": "textbook",
+          "page": 5,
+          "slug": "c3-recall"
+        },
+        {
+          "artifact": "textbook",
+          "page": 6,
+          "slug": "c3-ending"
+        },
+        {
+          "artifact": "textbook",
+          "page": 7,
+          "slug": "c3-guide"
+        },
+        {
+          "artifact": "textbook",
+          "page": 8,
+          "slug": "c3-answers"
+        },
+        {
+          "artifact": "textbook",
+          "page": 9,
+          "slug": "c3-notes"
+        },
+        {
+          "artifact": "workbook",
+          "page": 1,
+          "slug": "c3-wb-empty"
+        },
+        {
+          "artifact": "workbook",
+          "page": 3,
+          "slug": "c3-wb-explain"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-03-ENDING",
+        "P1-03-FORM-MODEL",
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-WRITE",
+        "P1-03-GUIDED",
+        "P1-03-MODEL",
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-Q3",
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-04",
+      "story_model_solution": "Four sorted groups contain six, seven, eight and nine pieces: thirty altogether, checked before packing.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c4-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 2,
+          "slug": "c4-six-seven"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "c4-eight-nine"
+        },
+        {
+          "artifact": "textbook",
+          "page": 5,
+          "slug": "c4-sort"
+        },
+        {
+          "artifact": "textbook",
+          "page": 8,
+          "slug": "c4-ending"
+        },
+        {
+          "artifact": "textbook",
+          "page": 9,
+          "slug": "c4-guide"
+        },
+        {
+          "artifact": "textbook",
+          "page": 10,
+          "slug": "c4-answers"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "c4-notes"
+        },
+        {
+          "artifact": "workbook",
+          "page": 5,
+          "slug": "c4-wb-sort"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-GUIDED-READ",
+        "P1-04-GUIDED-SORT",
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7",
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-S002",
+        "P1-04-S003",
+        "P1-04-S004",
+        "P1-04-SORT-MODEL"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-05",
+      "story_model_solution": "Twenty counting strips become two tens. Safe sticks are optional; pictures explicitly show paper strips.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c5-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 10,
+          "slug": "c5-ending"
+        },
+        {
+          "artifact": "textbook",
+          "page": 12,
+          "slug": "c5-answers"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-06",
+      "story_model_solution": "Classroom supply packs of 46, 81 and 93 are actually counted and matched to their labels.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c6-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 17,
+          "slug": "c6-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-07",
+      "story_model_solution": "The classroom drawing mat has four equal quarters, one per child.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c7-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 9,
+          "slug": "c7-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-07-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-08",
+      "story_model_solution": "Joining two and one bottle top gives three. Four children share by taking turns.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c8-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 2,
+          "slug": "c8-join"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "c8-signs"
+        },
+        {
+          "artifact": "textbook",
+          "page": 4,
+          "slug": "c8-three"
+        },
+        {
+          "artifact": "textbook",
+          "page": 5,
+          "slug": "c8-draw"
+        },
+        {
+          "artifact": "textbook",
+          "page": 8,
+          "slug": "c8-finish"
+        },
+        {
+          "artifact": "textbook",
+          "page": 9,
+          "slug": "c8-answers"
+        },
+        {
+          "artifact": "textbook",
+          "page": 10,
+          "slug": "c8-guidance"
+        },
+        {
+          "artifact": "workbook",
+          "page": 2,
+          "slug": "c8-wb-join"
+        },
+        {
+          "artifact": "workbook",
+          "page": 5,
+          "slug": "c8-wb-story"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-08-DELAYED",
+        "P1-08-DRAW-GUIDED",
+        "P1-08-DRAW-MODEL",
+        "P1-08-FRESH-EQUALS",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-TWO",
+        "P1-08-JOIN-GUIDED",
+        "P1-08-JOIN-MODEL",
+        "P1-08-Q1",
+        "P1-08-Q2",
+        "P1-08-Q3",
+        "P1-08-RECALL",
+        "P1-08-SIGNS-GUIDED",
+        "P1-08-SIGNS-MODEL",
+        "P1-08-STORY",
+        "P1-08-THREE-GUIDED",
+        "P1-08-THREE-MODEL"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-09",
+      "story_model_solution": "Paper circles represent market oranges one for one: eight plus five is thirteen. Lines only show the arrangement.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c9-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 2,
+          "slug": "c9-small"
+        },
+        {
+          "artifact": "textbook",
+          "page": 5,
+          "slug": "c9-cross"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "c9-finish"
+        },
+        {
+          "artifact": "workbook",
+          "page": 7,
+          "slug": "c9-wb-story"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-09-COUNT-GUIDED",
+        "P1-09-COUNT-MODEL",
+        "P1-09-CROSS-GUIDED",
+        "P1-09-CROSS-MODEL",
+        "P1-09-RECALL",
+        "P1-09-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-10",
+      "story_model_solution": "The class pencil box has 22 plus 11 equals 33 pencils: three tens and three ones.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c10-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "c10-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-10-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-11",
+      "story_model_solution": "Of twelve class chalk pieces, three go to the board tray and nine remain to return to the box. All twelve are accounted for.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c11-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "c11-ending"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-11-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-12",
+      "story_model_solution": "The class game needs seven bottle tops: three visible and four hidden. The opaque bag opens after the solution.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c12-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 23,
+          "slug": "c12-34"
+        },
+        {
+          "artifact": "textbook",
+          "page": 27,
+          "slug": "c12-41"
+        },
+        {
+          "artifact": "textbook",
+          "page": 28,
+          "slug": "c12-42"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-12-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-13",
+      "story_model_solution": "The pretend neighbourhood stall transfers one pencil for 6k from a 10k payment, returning 4k. Prices explicitly remain practice values.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "c13-textbook-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 6,
+          "slug": "c13-textbook-6"
+        },
+        {
+          "artifact": "textbook",
+          "page": 15,
+          "slug": "c13-textbook-12"
+        },
+        {
+          "artifact": "textbook",
+          "page": 21,
+          "slug": "c13-textbook-21"
+        },
+        {
+          "artifact": "textbook",
+          "page": 23,
+          "slug": "c13-textbook-23"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-13-CHANGE-GUIDED",
+        "P1-13-CHANGE-HELP",
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-RECHECK",
+        "P1-13-REAL-INDEPENDENT",
+        "P1-13-RECALL",
+        "P1-13-STORY",
+        "P1-13-TOTAL-GUIDED",
+        "P1-13-TOTAL-MODEL",
+        "P1-13-TOTAL-RECHECK"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-14",
+      "story_model_solution": "The class parcel label is four units long. Strip B, five units, covers it; strip A, three units, does not. Actual fit is checked.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "length-a-strip-for-our-school"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "length-our-label-is-covered"
+        },
+        {
+          "artifact": "workbook",
+          "page": 1,
+          "slug": "length-a-strip-for-our-school"
+        },
+        {
+          "artifact": "workbook",
+          "page": 9,
+          "slug": "length-our-label-is-covered"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-14-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-15",
+      "story_model_solution": "The home and school display orders the stated events. Drawing cards accumulate wall, roof and door.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "time-a-mixed-up-story-strip"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "time-watch-completed-drawing-cards"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "time-the-display-tells-a-story"
+        },
+        {
+          "artifact": "textbook",
+          "page": 15,
+          "slug": "time-answer-map-3"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-15-CLOSURE",
+        "P1-15-DRAW-MODEL",
+        "P1-15-HELP",
+        "P1-15-RECHECK"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-16",
+      "story_model_solution": "Small safe classroom parcels require a balance test. Size alone does not establish weight.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "heavy-1"
+        }
+      ],
+      "new_task_check_ids": [],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter14_review)"
+    },
+    {
+      "id": "P1-17",
+      "story_model_solution": "The classroom shelf groups solid objects. Safe tin and football models approximate the stated ideal features.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "solids-textbook-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "solids-textbook-3"
+        },
+        {
+          "artifact": "textbook",
+          "page": 4,
+          "slug": "solids-textbook-4"
+        },
+        {
+          "artifact": "textbook",
+          "page": 12,
+          "slug": "solids-textbook-12"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-17-HANDLING",
+        "P1-17-MODEL",
+        "P1-17-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    },
+    {
+      "id": "P1-18",
+      "story_model_solution": "The exercise-book cover border uses flat-shape features and a repeating unit. Window and mat examples are qualified by their actual outlines.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "flat-textbook-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 3,
+          "slug": "flat-textbook-3"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-18-MODEL"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    },
+    {
+      "id": "P1-19",
+      "story_model_solution": "The class investigation folder retains permission, privacy, fictional stand-ins and checks of the methods used.",
+      "changed_source_pages": [
+        {
+          "artifact": "textbook",
+          "page": 1,
+          "slug": "data-textbook-1"
+        },
+        {
+          "artifact": "textbook",
+          "page": 11,
+          "slug": "data-textbook-11"
+        },
+        {
+          "artifact": "workbook",
+          "page": 9,
+          "slug": "data-workbook-9"
+        }
+      ],
+      "new_task_check_ids": [
+        "P1-19-STORY"
+      ],
+      "prior_reviewer": "Codex /root/annual_reviewer (source/archive continuity only; original semantic/visual reviewer /root/chapter17_review_recovery)"
+    }
+  ],
+  "all_seven_checks": "pass after fresh changed prose/task/page review plus exact attributed retained continuity; see REVIEW.md",
+  "limitations": [
+    "Current curriculum/adoption verification pending",
+    "Local educator/classroom/pupil/accessibility trial pending",
+    "Physical print and printer approval pending"
+  ]
+}

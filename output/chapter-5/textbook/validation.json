@@ -1,11 +1,11 @@
 {
   "pages": 13,
-  "sha256": "03f422a43d52db23ef4fc20275823ea0cf697a36a9228629979bfe5c5bde491c",
+  "sha256": "b58fcd510720a5411fa282f545a703b5ec3e495796900637e453086dd702d494",
   "page_manifest": [
     {
       "slug": "c5-story",
       "kicker": "Chapter five / A bundle of ten",
-      "title": "Pack our path markers",
+      "title": "Pack our counting strips",
       "subtitle": "We will make tens and ones, then count, read and write through twenty.",
       "task_ids": [],
       "adult": false,
@@ -119,8 +119,8 @@
     {
       "slug": "c5-ending",
       "kicker": "Chapter five / A bundle of ten",
-      "title": "Our marker pack is ready",
-      "subtitle": "Bring back all twenty real game markers. Pack and check them before closing the box.",
+      "title": "Our counting pack is ready",
+      "subtitle": "Bring back all twenty real counting strips. Pack and check them before closing the box.",
       "task_ids": [
         "P1-05-ENDING",
         "P1-05-FRESH-BUILD",

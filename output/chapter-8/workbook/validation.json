@@ -1,6 +1,6 @@
 {
   "pages": 6,
-  "sha256": "1cb43fccdacf4045da48795d71a51675e581a94085a3a893b97191d53c48e99a",
+  "sha256": "620421ac488dde2d4979bdcba51111e0939d07ced12917d7538c1739949c7b7e",
   "page_manifest": [
     {
       "slug": "c8-wb-guided",
@@ -51,7 +51,7 @@
     {
       "slug": "c8-wb-story",
       "kicker": "Chapter eight / Put small sets together",
-      "title": "Check the stall tray",
+      "title": "Check our counting tray",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [
         "P1-08-STORY",

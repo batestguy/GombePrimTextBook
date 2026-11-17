@@ -1,0 +1,19 @@
+{
+  "status": "author_automated_checks_passed_independent_review_pending",
+  "strings": 167,
+  "source_pages": 510,
+  "annual_pages": 597,
+  "changed_source_pages": 85,
+  "changed_annual_pages": 85,
+  "tasks": 517,
+  "changed_tasks": 69,
+  "checks": [
+    "every changed canonical leaf is prose in paired_edition",
+    "every numeric token preserved in changed prose",
+    "all114 original question/answer/source_tasks preserved by new-driver assertions and direct baseline comparison",
+    "all source/annual page counts stable",
+    "every unchanged page text and raster exactly match baseline at0.7 scale",
+    "all changed pages are exactly those with changed canonical page prose",
+    "all changed source and annual pages rendered at1.15 scale"
+  ]
+}

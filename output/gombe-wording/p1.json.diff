@@ -1,0 +1,1449 @@
+--- baseline/p1.json
++++ current/p1.json
+@@ -109,7 +109,7 @@
+             {
+               "type": "text",
+               "top": 517,
+-              "text": "<b>Mrs Binta:</b> Let us help Aishatu open her pretend tea shop. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
++              "text": "<b>Mrs Binta:</b> After play, Aishatu brings cups for her friends. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -599,7 +599,7 @@
+         {
+           "slug": "c1-ending",
+           "kicker": "Finish our story / A fresh try",
+-          "title": "Our tea shop is ready",
++          "title": "A cup for each friend",
+           "subtitle": "Count the cups. Does every friend have a cup?",
+           "elements": [
+             {
+@@ -685,7 +685,7 @@
+             {
+               "type": "text",
+               "top": 384,
+-              "text": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now your pretend tea shop can open.",
++              "text": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now each friend has a cup after play.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -2245,7 +2245,7 @@
+       ],
+       "textbook_pages": [
+         {
+-          "kicker": "Our toy shop / Chapter two",
++          "kicker": "Our classroom game / Chapter two",
+           "title": "Sort, match and order",
+           "subtitle": "We will sort things, match them and put small sets in order.",
+           "elements": [
+@@ -2275,7 +2275,7 @@
+               "width": 509,
+               "size": 12,
+               "leading": 17,
+-              "text": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.<br/><b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?"
++              "text": "<b>Mr Aliyu:</b> Let us prepare a classroom game. First, sort the leaves and bottle tops.<br/><b>Aishatu:</b> I brought a box for our game pieces.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?"
+             },
+             {
+               "type": "box",
+@@ -2340,7 +2340,7 @@
+               "width": 509,
+               "size": 12,
+               "leading": 17,
+-              "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?"
++              "text": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more bottle tops or leaves?"
+             }
+           ],
+           "slug": "c2-1",
+@@ -2364,7 +2364,7 @@
+             {
+               "type": "text",
+               "top": 169,
+-              "text": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
++              "text": "<b>Mr Aliyu:</b> I put leaves together and bottle tops together. A leaf goes with the leaves. A bottle top goes with the bottle tops.",
+               "size": 14,
+               "x": 145,
+               "width": 405
+@@ -2380,7 +2380,7 @@
+             {
+               "type": "text",
+               "top": 282,
+-              "text": "<b>Tops together</b>",
++              "text": "<b>Bottle tops together</b>",
+               "size": 14,
+               "x": 319,
+               "width": 220
+@@ -2424,7 +2424,7 @@
+             {
+               "type": "text",
+               "top": 446,
+-              "text": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
++              "text": "<b>Grace:</b> I put a leaf with the bottle tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -2432,7 +2432,7 @@
+             {
+               "type": "text",
+               "top": 550,
+-              "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
++              "text": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each bottle top.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -2477,7 +2477,7 @@
+             {
+               "type": "text",
+               "top": 686,
+-              "text": "<b>Mr Aliyu:</b> Sort real leaves and tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
++              "text": "<b>Mr Aliyu:</b> Sort real leaves and bottle tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
+               "size": 13,
+               "x": 135,
+               "width": 414
+@@ -2513,7 +2513,7 @@
+             {
+               "type": "text",
+               "top": 163,
+-              "text": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
++              "text": "<b>Mr Aliyu:</b> I draw a line from one bottle top to one bottle top. Each bottle top can have only one partner.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -2555,7 +2555,7 @@
+             {
+               "type": "text",
+               "top": 395,
+-              "text": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
++              "text": "Two bottle tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -2600,7 +2600,7 @@
+             {
+               "type": "text",
+               "top": 726,
+-              "text": "Use your finger to match each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
++              "text": "Use your finger to match each bottle top in the upper row to a different bottle top below. Does every bottle top have a partner? Tell a partner.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -2753,7 +2753,7 @@
+             {
+               "type": "text",
+               "top": 164,
+-              "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Tell your partner which set you chose.",
++              "text": "<b>Mr Aliyu:</b> Point to the set with more bottle tops.<br/>Tell your partner which set you chose.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -2880,7 +2880,7 @@
+             {
+               "type": "text",
+               "top": 166,
+-              "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops at the table or draw in your exercise book.",
++              "text": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use bottle tops at the table or draw in your exercise book.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -2957,12 +2957,12 @@
+         {
+           "kicker": "Finish the story / A fresh try",
+           "title": "Ready for our game",
+-          "subtitle": "Use what you have learned to finish tidying the toy shop.",
++          "subtitle": "Use what you have learned to finish preparing our classroom game.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 162,
+-              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Match with your finger.",
++              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different bottle top. Match with your finger.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -2990,7 +2990,7 @@
+             {
+               "type": "text",
+               "top": 391,
+-              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
++              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one bottle top. Use real pieces. Put the bottle tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare bottle tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -2998,7 +2998,7 @@
+             {
+               "type": "text",
+               "top": 513,
+-              "text": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every top.",
++              "text": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every bottle top.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3101,7 +3101,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the tops without circles.",
++              "text": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the bottle tops without circles.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -3144,7 +3144,7 @@
+             {
+               "type": "text",
+               "top": 355,
+-              "text": "Mix real leaves and tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
++              "text": "Mix real leaves and bottle tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3152,7 +3152,7 @@
+             {
+               "type": "text",
+               "top": 456,
+-              "text": "Draw one line from each top in the upper row to a different top below. Does every top have a partner?",
++              "text": "Draw one line from each bottle top in the upper row to a different bottle top below. Does every bottle top have a partner?",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3271,7 +3271,7 @@
+             {
+               "type": "text",
+               "top": 164,
+-              "text": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
++              "text": "<b>Mr Aliyu:</b> Point to the set with more bottle tops.<br/>Circle that whole set.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -3391,7 +3391,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Tell or show a partner how to compare two sets.<br/>Use real tops or draw your idea below.",
++              "text": "Tell or show a partner how to compare two sets.<br/>Use real bottle tops or draw your idea below.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -3441,12 +3441,12 @@
+         {
+           "kicker": "Sort, match and order / A fresh try",
+           "title": "Ready for our game",
+-          "subtitle": "Use what you have learned to finish tidying the toy shop.",
++          "subtitle": "Use what you have learned to finish preparing our classroom game.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 162,
+-              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
++              "text": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different bottle top. Draw the lines.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3474,7 +3474,7 @@
+             {
+               "type": "text",
+               "top": 391,
+-              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
++              "text": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one bottle top. Use real pieces. Put the bottle tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare bottle tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3482,7 +3482,7 @@
+             {
+               "type": "text",
+               "top": 513,
+-              "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
++              "text": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the bottle tops without circles.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3703,7 +3703,7 @@
+             {
+               "type": "text",
+               "top": 514,
+-              "text": "<b>Mrs Binta:</b> Aishatu wants to pack her box game.<br/><b>Aishatu:</b> I want to start my next game!<br/><b>Adamu:</b> Let everyone help put the tops away.<br/><b>Grace:</b> We must check the mat before closing the box.<br/><b>John:</b> How can we record that none are left? Let me try.",
++              "text": "<b>Mrs Binta:</b> It is time to put our counting materials away.<br/><b>Aishatu:</b> My box is ready. I want to pack it now!<br/><b>Adamu:</b> Let everyone help put the bottle tops away.<br/><b>Grace:</b> We must check the mat before closing the box.<br/><b>John:</b> How can we record that none are left? Let me try.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3711,7 +3711,7 @@
+             {
+               "type": "text",
+               "top": 692,
+-              "text": "Our game mat has three tops. We will put them all in the storage box. First, Mrs Binta shows us the number for none.",
++              "text": "Our game mat has three bottle tops. We will put them all in the storage box. First, Mrs Binta shows us the number for none.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3738,7 +3738,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mrs Binta:</b> Here are two tops. I count each one once.<br/>Then I move both tops into a storage box.",
++              "text": "<b>Mrs Binta:</b> Here are two bottle tops. I count each one once.<br/>Then I move both bottle tops into a storage box.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -3763,7 +3763,7 @@
+             {
+               "type": "text",
+               "top": 395,
+-              "text": "<b>Mrs Binta:</b> Look inside the tray now. No tops are left.",
++              "text": "<b>Mrs Binta:</b> Look inside the tray now. No bottle tops are left.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -3796,7 +3796,7 @@
+             {
+               "type": "text",
+               "top": 590,
+-              "text": "<b>zero</b><br/>Zero tells how many tops are in the empty tray.",
++              "text": "<b>zero</b><br/>Zero tells how many bottle tops are in the empty tray.",
+               "size": 17,
+               "x": 240,
+               "width": 295
+@@ -3804,7 +3804,7 @@
+             {
+               "type": "text",
+               "top": 690,
+-              "text": "<b>Aishatu:</b> I see one tray. Is the number one?<br/><b>John:</b> We are counting the tops inside. There are none.<br/><b>Mrs Binta:</b> Yes. The tray is here. It holds zero tops.",
++              "text": "<b>Aishatu:</b> I see one tray. Is the number one?<br/><b>John:</b> We are counting the bottle tops inside. There are none.<br/><b>Mrs Binta:</b> Yes. The tray is here. It holds zero bottle tops.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3825,7 +3825,7 @@
+             {
+               "type": "text",
+               "top": 161,
+-              "text": "<b>Mrs Binta:</b> Put one top on a tray. Move it into the box.<br/><b>Adamu:</b> I will wait for my turn to check inside.<br/>Say how many tops are left. Point to the numeral for none.",
++              "text": "<b>Mrs Binta:</b> Put one bottle top on a tray. Move it into the box.<br/><b>Adamu:</b> I will wait for my turn to check inside.<br/>Say how many bottle tops are left. Point to the numeral for none.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3917,7 +3917,7 @@
+             {
+               "type": "text",
+               "top": 710,
+-              "text": "<b>Say the order together:</b> 0, 1, 2, 3.<br/>Show none, one, two and three real tops as you say each number.",
++              "text": "<b>Say the order together:</b> 0, 1, 2, 3.<br/>Show none, one, two and three real bottle tops as you say each number.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -3939,7 +3939,7 @@
+             {
+               "type": "text",
+               "top": 167,
+-              "text": "Look inside this empty tray.<br/>Write the number for its tops in your exercise book.",
++              "text": "Look inside this empty tray.<br/>Write the number for its bottle tops in your exercise book.",
+               "size": 15,
+               "x": 43,
+               "width": 509
+@@ -4011,7 +4011,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Put all 3 tops away. How many remain?<br/>Use three real counters and a storage box.<br/>Write how many are left in your exercise book.",
++              "text": "Put all 3 bottle tops away. How many remain?<br/>Use three real counters and a storage box.<br/>Write how many are left in your exercise book.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4085,7 +4085,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Adamu:</b> We take turns moving every top into the box.<br/><b>Grace:</b> I check the mat. No tops are left.<br/><b>John:</b> We can record none with zero.<br/><b>Aishatu:</b> Now I can close the box and start my next game!",
++              "text": "<b>Adamu:</b> We take turns moving every bottle top into the box.<br/><b>Grace:</b> I check the mat. No bottle tops are left.<br/><b>John:</b> We can record none with zero.<br/><b>Aishatu:</b> Now I can close the box. Our table is tidy!",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -4143,7 +4143,7 @@
+             {
+               "type": "text",
+               "top": 432,
+-              "text": "<b>Mrs Binta:</b> Zero tops on the mat. Three tops safely stored.<br/>Check your real mat is empty before you close the box.",
++              "text": "<b>Mrs Binta:</b> Zero bottle tops on the mat. Three bottle tops safely stored.<br/>Check your real mat is empty before you close the box.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4200,7 +4200,7 @@
+             {
+               "type": "text",
+               "top": 276,
+-              "text": "<b>Prepare.</b> Large safe counters, reachable tray/mat, storage box, pencil/paper and ordinary cards 0-5. Demonstrate each physical action. The trays/boxes in exact diagrams are containers, not counted tops. Never count decorative classroom artwork. No subtraction or equality notation is needed in these pupil pages.",
++              "text": "<b>Prepare.</b> Large safe counters, reachable tray/mat, storage box, pencil/paper and ordinary cards 0-5. Demonstrate each physical action. The trays/boxes in exact diagrams are containers, not counted bottle tops. Never count decorative classroom artwork. No subtraction or equality notation is needed in these pupil pages.",
+               "size": 11.5,
+               "x": 43,
+               "width": 509
+@@ -4243,7 +4243,7 @@
+             {
+               "type": "text",
+               "top": 162,
+-              "text": "<b>Source questions, unchanged meaning/order.</b><br/>P1-03-Q1 (TB4/WB1): 0 tops in the empty set.<br/>Q2 (TB4/WB1): a closed box outline with nothing inside; acceptable neat alternatives.<br/>Q3 (TB4/WB2): missing numeral 2 in 0,1,2,3.<br/>Q4 (TB5/WB3): all three put away; 0 remain.<br/>Q5 (TB5/WB3): say zero, using usual communication if needed.<br/>Q6 (TB5/WB3): no oranges are inside the basket; the basket exists.",
++              "text": "<b>Source questions, unchanged meaning/order.</b><br/>P1-03-Q1 (TB4/WB1): 0 bottle tops in the empty set.<br/>Q2 (TB4/WB1): a closed box outline with nothing inside; acceptable neat alternatives.<br/>Q3 (TB4/WB2): missing numeral 2 in 0,1,2,3.<br/>Q4 (TB5/WB3): all three put away; 0 remain.<br/>Q5 (TB5/WB3): say zero, using usual communication if needed.<br/>Q6 (TB5/WB3): no oranges are inside the basket; the basket exists.",
+               "size": 11.5,
+               "x": 43,
+               "width": 509
+@@ -4251,7 +4251,7 @@
+             {
+               "type": "text",
+               "top": 331,
+-              "text": "<b>Models/guided (TB2-3/WB1-2).</b> Two tops before moving, zero after. One top moved away leaves zero. Choose 0 among cards 0,2,1. Closed oval for 0; arrow shows downward direction on the left. Empty-box outline is a model, not a writing space in the textbook. Real quantity sequence none/one/two/three matches 0/1/2/3. WB1 completed example: 1 top, written numeral 1.",
++              "text": "<b>Models/guided (TB2-3/WB1-2).</b> Two bottle tops before moving, zero after. One bottle top moved away leaves zero. Choose 0 among cards 0,2,1. Closed oval for 0; arrow shows downward direction on the left. Empty-box outline is a model, not a writing space in the textbook. Real quantity sequence none/one/two/three matches 0/1/2/3. WB1 completed example: 1 bottle top, written numeral 1.",
+               "size": 11.5,
+               "x": 43,
+               "width": 509
+@@ -4310,7 +4310,7 @@
+             {
+               "type": "text",
+               "top": 399,
+-              "text": "<b>Artwork and type.</b> Existing fictional Mrs Binta classroom image reused without editing: artwork/redesign/scenes/mrs-binta-blackboard-v1.png; original image_gen prompt/references are in adjacent provenance and artwork/manifest.json. No new AI art. Assessed tops, trays, oval and lines are deterministic vectors. DejaVu Sans fonts: fonts/LICENSE_DEJAVU.txt.",
++              "text": "<b>Artwork and type.</b> Existing fictional Mrs Binta classroom image reused without editing: artwork/redesign/scenes/mrs-binta-blackboard-v1.png; original image_gen prompt/references are in adjacent provenance and artwork/manifest.json. No new AI art. Assessed bottle tops, trays, oval and lines are deterministic vectors. DejaVu Sans fonts: fonts/LICENSE_DEJAVU.txt.",
+               "size": 11,
+               "x": 43,
+               "width": 509
+@@ -4355,7 +4355,7 @@
+             {
+               "type": "text",
+               "top": 160,
+-              "text": "<b>A completed example.</b> There is one top in this tray.<br/>The written number beside it is 1.",
++              "text": "<b>A completed example.</b> There is one bottle top in this tray.<br/>The written number beside it is 1.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -4388,7 +4388,7 @@
+             {
+               "type": "text",
+               "top": 345,
+-              "text": "Now look inside this tray. Write the number for its tops in the small space.",
++              "text": "Now look inside this tray. Write the number for its bottle tops in the small space.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4537,7 +4537,7 @@
+             {
+               "type": "text",
+               "top": 161,
+-              "text": "Put all 3 tops away. How many remain?<br/>Use three real counters. Move them into a storage box.",
++              "text": "Put all 3 bottle tops away. How many remain?<br/>Use three real counters. Move them into a storage box.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4808,7 +4808,7 @@
+             {
+               "type": "text",
+               "top": 512,
+-              "text": "<b>Mr Aliyu:</b> Aishatu has made a box game. Its paper pieces are all mixed.<br/><b>Aishatu:</b> I want to build the game now!<br/><b>Grace:</b> Let us make neat groups first.<br/><b>Adamu:</b> Everyone can take a turn to check.<br/><b>John:</b> Then we can put the groups in number order.",
++              "text": "<b>Mr Aliyu:</b> Our class counting pieces are all mixed. Aishatu brought a box to hold them.<br/><b>Aishatu:</b> I want to fill my box now!<br/><b>Grace:</b> Let us make neat groups first.<br/><b>Adamu:</b> Everyone can take a turn to check.<br/><b>John:</b> Then we can put the groups in number order.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -4816,7 +4816,7 @@
+             {
+               "type": "text",
+               "top": 702,
+-              "text": "Our game needs four groups: six, seven, eight and nine pieces. We must sort, count and check before the game begins.",
++              "text": "We need four groups of counting pieces: six, seven, eight and nine pieces. We must sort, count and check before we put them away.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -4838,12 +4838,12 @@
+           "slug": "c4-six-seven",
+           "kicker": "Chapter four / Six to nine",
+           "title": "Five, then one more",
+-          "subtitle": "Watch Mr Aliyu move each top once. Count all the tops in each tray.",
++          "subtitle": "Watch Mr Aliyu move each bottle top once. Count all the bottle tops in each tray.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 163,
+-              "text": "<b>Mr Aliyu:</b> Count the first five. Touch the next top and say six. Count them all to check.",
++              "text": "<b>Mr Aliyu:</b> Count the first five. Touch the next bottle top and say six. Count them all to check.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4961,7 +4961,7 @@
+             {
+               "type": "text",
+               "top": 628,
+-              "text": "<b>Adamu:</b> I will move one top each time I say a number.<br/>Try together with six real counters. Then make seven.<br/>Point to each new numeral and say its name.",
++              "text": "<b>Adamu:</b> I will move one bottle top each time I say a number.<br/>Try together with six real counters. Then make seven.<br/>Point to each new numeral and say its name.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -4969,7 +4969,7 @@
+             {
+               "type": "text",
+               "top": 743,
+-              "text": "The last number word tells how many. Spreading a group out does not add tops.",
++              "text": "The last number word tells how many. Spreading a group out does not add bottle tops.",
+               "size": 11,
+               "x": 43,
+               "width": 509
+@@ -4986,12 +4986,12 @@
+           "slug": "c4-eight-nine",
+           "kicker": "Chapter four / Six to nine",
+           "title": "Count eight. Count nine.",
+-          "subtitle": "Touch each top once. Say how many. Read its numeral.",
++          "subtitle": "Touch each bottle top once. Say how many. Read its numeral.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 163,
+-              "text": "<b>Mr Aliyu:</b> After seven comes eight. Count the five tops, then the three on the next row. Check the whole group.",
++              "text": "<b>Mr Aliyu:</b> After seven comes eight. Count the five bottle tops, then the three on the next row. Check the whole group.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -5056,7 +5056,7 @@
+             {
+               "type": "text",
+               "top": 392,
+-              "text": "<b>Mr Aliyu:</b> After eight comes nine. Count the five tops and the four on the next row. Check them all.",
++              "text": "<b>Mr Aliyu:</b> After eight comes nine. Count the five bottle tops and the four on the next row. Check them all.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -5244,7 +5244,7 @@
+           "slug": "c4-sort",
+           "kicker": "Chapter four / Six to nine",
+           "title": "Same kind, same group",
+-          "subtitle": "Watch sorting before you sort the real game pieces.",
++          "subtitle": "Watch sorting before you sort the real counting pieces.",
+           "elements": [
+             {
+               "type": "text",
+@@ -5367,7 +5367,7 @@
+             {
+               "type": "text",
+               "top": 590,
+-              "text": "<b>Now sort on your own.</b> An adult mixes all the game pieces. Make one group for each kind. Count each group.<br/>Record the counts in your exercise book. You may draw one shape to label each group.<br/>Workbook: Sort and record.",
++              "text": "<b>Now sort on your own.</b> An adult mixes all the counting pieces. Make one group for each kind. Count each group.<br/>Record the counts in your exercise book. You may draw one shape to label each group.<br/>Workbook: Sort and record.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -5556,8 +5556,8 @@
+         {
+           "slug": "c4-ending",
+           "kicker": "Chapter four / Six to nine",
+-          "title": "Our box game is ready",
+-          "subtitle": "Actually sort, count and arrange your four game groups before starting.",
++          "title": "Our counting box is ready",
++          "subtitle": "Actually sort, count and arrange your four groups before putting them away.",
+           "elements": [
+             {
+               "type": "text",
+@@ -5790,7 +5790,7 @@
+             {
+               "type": "text",
+               "top": 620,
+-              "text": "<b>Mr Aliyu:</b> Every piece has a group. Every group has the right count. Now your game can begin.",
++              "text": "<b>Mr Aliyu:</b> Every piece has a group. Every group has the right count. Now we can put the groups in our counting box.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -5854,7 +5854,7 @@
+             {
+               "type": "text",
+               "top": 700,
+-              "text": "<b>Delayed recall, next session.</b> Count fresh sets of 6, 7 and 8. Read shuffled cards 9, 6, 8, 7 independently. Dictate nine, seven, six, eight: 9, 7, 6, 8. Order 8, 6, 9: 6, 8, 9. Sort 7 tops and 9 leaves; state each count. Record which skills need support.",
++              "text": "<b>Delayed recall, next session.</b> Count fresh sets of 6, 7 and 8. Read shuffled cards 9, 6, 8, 7 independently. Dictate nine, seven, six, eight: 9, 7, 6, 8. Order 8, 6, 9: 6, 8, 9. Sort 7 bottle tops and 9 leaves; state each count. Record which skills need support.",
+               "size": 10.5,
+               "x": 43,
+               "width": 509
+@@ -5889,7 +5889,7 @@
+             {
+               "type": "text",
+               "top": 436,
+-              "text": "<b>S002 (TB5/WB5).</b> Mix all 30 pieces. Sort by outline, count and record: 6 circles, 7 squares, 8 triangles, 9 non-square rectangles. Order: 6, 7, 8, 9. Observe actual sorting; written counts alone do not demonstrate it. For story closure (TB8), verify all 30 pieces in these groups before starting the pretend game.",
++              "text": "<b>S002 (TB5/WB5).</b> Mix all 30 pieces. Sort by outline, count and record: 6 circles, 7 squares, 8 triangles, 9 non-square rectangles. Order: 6, 7, 8, 9. Observe actual sorting; written counts alone do not demonstrate it. For story closure (TB8), verify all 30 pieces in these groups before putting the pieces in the counting box.",
+               "size": 11.5,
+               "x": 43,
+               "width": 509
+@@ -5940,7 +5940,7 @@
+             {
+               "type": "text",
+               "top": 442,
+-              "text": "<b>Provenance.</b> Reused fictional Mr Aliyu classroom image: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png; original image_gen prompts/references in adjacent provenance and artwork/manifest.json. No new AI art. Tops, dots and shape pieces are deterministic vector drawings; never count decorative classroom art. Fonts: DejaVu Sans, fonts/LICENSE_DEJAVU.txt.",
++              "text": "<b>Provenance.</b> Reused fictional Mr Aliyu classroom image: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png; original image_gen prompts/references in adjacent provenance and artwork/manifest.json. No new AI art. Bottle tops, dots and shape pieces are deterministic vector drawings; never count decorative classroom art. Fonts: DejaVu Sans, fonts/LICENSE_DEJAVU.txt.",
+               "size": 11,
+               "x": 43,
+               "width": 509
+@@ -6303,7 +6303,7 @@
+             {
+               "type": "text",
+               "top": 162,
+-              "text": "Sort the real mixed game pieces by their outlines.<br/>Count each group. Write its count beside the matching picture.",
++              "text": "Sort the real mixed counting pieces by their outlines.<br/>Count each group. Write its count beside the matching picture.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -6538,7 +6538,7 @@
+       "sessions": [
+         "Consolidate1-5; model count/read6and7, then8and9 with real materials.",
+         "Model formation; guided tracing/covered copying; actual sorting and quantity order.",
+-        "Independent source tasks; recall/support; actual game resolution; fresh separate skills; delayed recall."
++        "Independent source tasks; recall/support; actual packing resolution; fresh separate skills; delayed recall."
+       ],
+       "adaptation": "Chapter-four continuation, no repeated introductions or annual-book claim. All six source meanings/answers/order preserved. S002/S003/S004 supplement actual sorting, shuffled reading and independent dictation. Response locations are workbook/exercise book or real materials; no textbook marking."
+     }
+@@ -6633,7 +6633,7 @@
+         {
+           "slug": "c5-story",
+           "kicker": "Chapter five / A bundle of ten",
+-          "title": "Pack our path markers",
++          "title": "Pack our counting strips",
+           "subtitle": "We will make tens and ones, then count, read and write through twenty.",
+           "elements": [
+             {
+@@ -6657,7 +6657,7 @@
+             {
+               "type": "text",
+               "top": 514,
+-              "text": "<b>Mrs Binta:</b> John has a new path puzzle. It needs twenty paper markers. How can we pack the right number?<br/><b>John:</b> Let me try before a hint.<br/><b>Grace:</b> We can keep the markers neat.<br/><b>Adamu:</b> Everyone can help check.<br/><b>Aishatu:</b> My box can hold our marker pack!",
++              "text": "<b>Mrs Binta:</b> Our class needs twenty counting strips. John will help pack them. How can we check the number?<br/><b>John:</b> Let me try before a hint.<br/><b>Grace:</b> We can keep the strips neat.<br/><b>Adamu:</b> Everyone can help check.<br/><b>Aishatu:</b> My box can hold our counting pack!",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -6665,7 +6665,7 @@
+             {
+               "type": "text",
+               "top": 707,
+-              "text": "First we will count paper strips and make bundles. Then we can pack exactly what our game needs.",
++              "text": "First we will count paper strips and make bundles. Then we can pack exactly what our class needs.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -6673,7 +6673,7 @@
+             {
+               "type": "text",
+               "top": 765,
+-              "text": "Use safe paper strips and loose bands. Work at a reachable table.",
++              "text": "Use safe counting sticks or paper strips and loose bands at a reachable table. Our pictures show paper strips.",
+               "size": 9.5,
+               "x": 43,
+               "width": 509
+@@ -7498,13 +7498,13 @@
+         {
+           "slug": "c5-ending",
+           "kicker": "Chapter five / A bundle of ten",
+-          "title": "Our marker pack is ready",
+-          "subtitle": "Bring back all twenty real game markers. Pack and check them before closing the box.",
++          "title": "Our counting pack is ready",
++          "subtitle": "Bring back all twenty real counting strips. Pack and check them before closing the box.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 162,
+-              "text": "<b>Grace:</b> I make two neat bundles. We count each one.<br/><b>Adamu:</b> Ten ones in each. Everyone has a checking turn.<br/><b>John:</b> Two tens and no loose ones. That is twenty.<br/><b>Aishatu:</b> Into the box! Now our path puzzle can begin.",
++              "text": "<b>Grace:</b> I make two neat bundles. We count each one.<br/><b>Adamu:</b> Ten ones in each. Everyone has a checking turn.<br/><b>John:</b> Two tens and no loose ones. That is twenty.<br/><b>Aishatu:</b> Into the box! Now our class has a counting pack.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -7534,7 +7534,7 @@
+             {
+               "type": "text",
+               "top": 523,
+-              "text": "<b>Mrs Binta:</b> You packed exactly twenty markers.<br/>Count ten in each real bundle. Put both in the box.<br/>Close it only after everyone has checked.",
++              "text": "<b>Mrs Binta:</b> You packed exactly twenty strips.<br/>Count ten in each real bundle. Put both in the box.<br/>Close it only after everyone has checked.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -7642,7 +7642,7 @@
+             {
+               "type": "text",
+               "top": 438,
+-              "text": "<b>Recall/choice/support/ending.</b> TB9/WB5: open/count 10 once each. Any chosen 11-19 is valid: 1 ten and the remaining 1-9 ones; written numeral, real strips and recorded digits must agree. Support/recheck is described on TB11. TB10 ending uses the original 20 markers: exactly 10 in each of 2 bundles, no loose ones. Actually pack/check before closure.",
++              "text": "<b>Recall/choice/support/ending.</b> TB9/WB5: open/count 10 once each. Any chosen 11-19 is valid: 1 ten and the remaining 1-9 ones; written numeral, real strips and recorded digits must agree. Support/recheck is described on TB11. TB10 ending uses the original 20 strips: exactly 10 in each of 2 bundles, no loose ones. Actually pack/check before closure.",
+               "size": 11.5,
+               "x": 43,
+               "width": 509
+@@ -8245,7 +8245,7 @@
+       "sessions": [
+         "Count ten ones; bundle/unbundle; connect tens/ones places with actual quantities.",
+         "Build/name11-15 gradually, then16-19 and two tens as20; model numeral formation.",
+-        "Source practice; recall/support; actual20-marker pack resolution; fresh independent skills and delayed recall."
++        "Source practice; recall/support; actual20-strip pack resolution; fresh independent skills and delayed recall."
+       ],
+       "adaptation": "Chapter-five continuation, no repeated introductions or annual-book claim. Six original prompts/answers/order retained; marks only in workbook/exercise book. Every assessed bundle displays ten deterministic strips. No addition/equality notation assumed. All earlier written answers and models covered before memory writing."
+     }
+@@ -8340,7 +8340,7 @@
+         {
+           "slug": "c6-story",
+           "kicker": "Chapter six / Numbers to ninety-nine",
+-          "title": "Labels for our game boxes",
++          "title": "Count our classroom supplies",
+           "subtitle": "We will build, read and write numbers through ninety-nine.",
+           "elements": [
+             {
+@@ -8364,7 +8364,7 @@
+             {
+               "type": "text",
+               "top": 514,
+-              "text": "<b>Adamu:</b> Our game boxes need number labels. Everyone should have a turn!<br/><b>Mr Aliyu:</b> We need the labels forty-six, eighty-one and ninety-three.<br/><b>Grace:</b> I can make neat labels, but I must check the digits.<br/><b>John:</b> Let me work out their places before you tell me.<br/><b>Aishatu:</b> My boxes are ready. I will wait while we learn.",
++              "text": "<b>Adamu:</b> Our class needs packs of counting strips. Everyone should have a turn!<br/><b>Mr Aliyu:</b> We need packs of forty-six, eighty-one and ninety-three strips.<br/><b>Grace:</b> I can make neat labels, but I must check the digits.<br/><b>John:</b> Let me work out their places before you tell me.<br/><b>Aishatu:</b> My supply boxes are ready. I will wait while we learn.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -8372,7 +8372,7 @@
+             {
+               "type": "text",
+               "top": 705,
+-              "text": "First learn in small groups of numbers. Later we will make, check and attach all three labels. Use reachable trays and large paper strips.",
++              "text": "First learn in small groups of numbers. Later we will count three packs and label them. Use reachable trays and large paper strips.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -10484,12 +10484,12 @@
+           "slug": "c6-ending",
+           "kicker": "Chapter six / Numbers to ninety-nine",
+           "title": "The right labels are on",
+-          "subtitle": "Finish the game-box job together. Then try fresh numbers alone.",
++          "subtitle": "Finish the supply-box job together. Then try fresh numbers alone.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 163,
+-              "text": "<b>Mr Aliyu:</b> Make the three labels we needed: forty-six, eighty-one and ninety-three.<br/><b>Adamu:</b> I write 46 and give Grace a turn.<br/><b>Grace:</b> I write 81. This time I check both places.<br/><b>John:</b> I write 93 after thinking it through.<br/><b>Aishatu:</b> I check the bundles and attach the labels to my three boxes.",
++              "text": "<b>Mr Aliyu:</b> Count the three packs we needed: forty-six, eighty-one and ninety-three.<br/><b>Adamu:</b> I write 46 and give Grace a turn.<br/><b>Grace:</b> I write 81. This time I check both places.<br/><b>John:</b> I write 93 after thinking it through.<br/><b>Aishatu:</b> I check the bundles and label my three supply boxes.",
+               "size": 13,
+               "x": 43,
+               "width": 509
+@@ -10505,7 +10505,7 @@
+             {
+               "type": "text",
+               "top": 490,
+-              "text": "Build each label with real strips. Check ten in every bundle. Match each written label to the spoken name. Attach 46, 81 and 93 to three different boxes. Our game boxes now have the correct labels.",
++              "text": "Build each pack with real strips. Check ten in every bundle. Match each written label to the spoken name. Attach 46, 81 and 93 to three different boxes. Our supply boxes now have the correct counts and labels.",
+               "size": 14,
+               "x": 43,
+               "width": 509
+@@ -12313,7 +12313,7 @@
+             {
+               "type": "text",
+               "top": 516,
+-              "text": "<b>Aishatu:</b> My box-toy display needs one paper mat. Each of us wants the same space for a drawing. I want to start now!<br/><b>Mrs Binta:</b> First let us learn to share the whole mat fairly.<br/><b>Adamu:</b> Nobody should be left out.<br/><b>Grace:</b> I will check the edges neatly.<br/><b>John:</b> Let me try a fold before you tell me.",
++              "text": "<b>Aishatu:</b> Our classroom display needs one paper mat. Each of us wants the same space for a drawing. I want to start now!<br/><b>Mrs Binta:</b> First let us learn to share the whole mat fairly.<br/><b>Adamu:</b> Nobody should be left out.<br/><b>Grace:</b> I will check the edges neatly.<br/><b>John:</b> Let me try a fold before you tell me.",
+               "size": 13
+             },
+             {
+@@ -12816,7 +12816,7 @@
+             {
+               "type": "text",
+               "top": 602,
+-              "text": "They put one drawing in each equal space. Four quarters fill the whole mat. The display is ready for Aishatu's box toys.",
++              "text": "They put one drawing in each equal space. Four quarters fill the whole mat. The display is ready for our classroom.",
+               "size": 14
+             },
+             {
+@@ -13673,7 +13673,7 @@
+         {
+           "slug": "c8-story",
+           "kicker": "Chapter eight / Put small sets together",
+-          "title": "Tops for the box-toy stall",
++          "title": "Bottle tops in one tray",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+@@ -13697,7 +13697,7 @@
+             {
+               "type": "text",
+               "top": 516,
+-              "text": "<b>Aishatu:</b> My box-toy stall needs all our tops in one tray. I have two. Adamu has one. I want to open now!<br/><b>Mr Aliyu:</b> Wait while we learn to join and count. Keep the tray within everyone's reach.<br/><b>Adamu:</b> We will all have a turn.<br/><b>Grace:</b> I will keep the tops in a neat row.<br/><b>John:</b> Let me find the total before you tell me.",
++              "text": "<b>Aishatu:</b> Let us put our bottle tops in one tray. I have two. Adamu has one. I want to count now!<br/><b>Mr Aliyu:</b> Wait while we learn to join and count. Keep the tray within everyone's reach.<br/><b>Adamu:</b> We will all have a turn.<br/><b>Grace:</b> I will keep the bottle tops in a neat row.<br/><b>John:</b> Let me find the total before you tell me.",
+               "size": 13
+             },
+             {
+@@ -13719,13 +13719,13 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mr Aliyu:</b> Here are Aishatu's two tops and Adamu's one top. The pictures show the same tops before and after moving them.",
++              "text": "<b>Mr Aliyu:</b> Here are Aishatu's two bottle tops and Adamu's one bottle top. The pictures show the same bottle tops before and after moving them.",
+               "size": 14
+             },
+             {
+               "type": "text",
+               "top": 245,
+-              "text": "Before: two tops",
++              "text": "Before: two bottle tops",
+               "size": 13,
+               "x": 60,
+               "width": 250
+@@ -13733,7 +13733,7 @@
+             {
+               "type": "text",
+               "top": 245,
+-              "text": "and one top",
++              "text": "and one bottle top",
+               "size": 13,
+               "x": 355,
+               "width": 180
+@@ -13759,7 +13759,7 @@
+             {
+               "type": "text",
+               "top": 365,
+-              "text": "I move all the tops into one row. None is added or lost.",
++              "text": "I move all the bottle tops into one row. None is added or lost.",
+               "size": 14
+             },
+             {
+@@ -13774,7 +13774,7 @@
+             {
+               "type": "text",
+               "top": 495,
+-              "text": "I touch each top once: one, two, three. The last count tells how many altogether. Two and one make three tops.",
++              "text": "I touch each bottle top once: one, two, three. The last count tells how many altogether. Two and one make three bottle tops.",
+               "size": 14
+             },
+             {
+@@ -13786,7 +13786,7 @@
+             {
+               "type": "text",
+               "top": 705,
+-              "text": "Use large safe counters or paper circles. Work seated at a reachable table.",
++              "text": "Use large safe bottle tops, smooth stones or paper circles. Work seated at a reachable table.",
+               "size": 14
+             }
+           ],
+@@ -13805,7 +13805,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mr Aliyu:</b> We have joined the tops. Now we can write that story.",
++              "text": "<b>Mr Aliyu:</b> We have joined the bottle tops. Now we can write that story.",
+               "size": 14
+             },
+             {
+@@ -13891,7 +13891,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mr Aliyu:</b> Keep our three stall tops aside. Use separate practice counters now. Join one, one and two counters. Count all four. We write <b>1 + 1 + 2 = 4</b>.",
++              "text": "<b>Mr Aliyu:</b> Keep our three story bottle tops aside. Use separate practice counters now. Join one, one and two counters. Count all four. We write <b>1 + 1 + 2 = 4</b>.",
+               "size": 14
+             },
+             {
+@@ -13963,7 +13963,7 @@
+             {
+               "type": "text",
+               "top": 625,
+-              "text": "<b>John:</b> I counted the middle set twice. I will move each top to the row only once.<br/><b>Try together.</b> Join one, one and one counter. Count all and say the number sentence.",
++              "text": "<b>John:</b> I counted the middle set twice. I will move each bottle top to the row only once.<br/><b>Try together.</b> Join one, one and one counter. Count all and say the number sentence.",
+               "size": 14
+             }
+           ],
+@@ -13982,7 +13982,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mr Aliyu:</b> Watch me draw one dot for each top. First I draw one dot, then one more. I count both dots. I write the total.",
++              "text": "<b>Mr Aliyu:</b> Watch me draw one dot for each bottle top. First I draw one dot, then one more. I count both dots. I write the total.",
+               "size": 14
+             },
+             {
+@@ -14159,13 +14159,13 @@
+         {
+           "slug": "c8-finish",
+           "kicker": "Chapter eight / Put small sets together",
+-          "title": "The stall can open",
++          "title": "Our tray is ready",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Your turn:</b> Put the original two stall tops and one top on a reachable table. Move them into one tray. Touch each once and say the total. Then read the ending.<br/><b>Grace:</b> I keep them in a neat row.<br/><b>John:</b> Three tops altogether!<br/><b>Aishatu:</b> Waiting helped us check.<br/><b>Adamu:</b> All four friends can take turns with our three tops.",
++              "text": "<b>Your turn:</b> Put the original two story bottle tops and one bottle top on a reachable table. Move them into one tray. Touch each once and say the total. Then read the ending.<br/><b>Grace:</b> I keep them in a neat row.<br/><b>John:</b> Three bottle tops altogether!<br/><b>Aishatu:</b> Waiting helped us check.<br/><b>Adamu:</b> All four friends can take turns with our three bottle tops.",
+               "size": 13
+             },
+             {
+@@ -14180,7 +14180,7 @@
+             {
+               "type": "text",
+               "top": 445,
+-              "text": "The same two tops and one top from the start are here. None is lost. <b>2 + 1 = 3</b>. The stall opens.",
++              "text": "The same two bottle tops and one bottle top from the start are here. None is lost. <b>2 + 1 = 3</b>. Our counting tray is ready.",
+               "size": 14
+             },
+             {
+@@ -14219,7 +14219,7 @@
+             {
+               "type": "text",
+               "top": 225,
+-              "text": "<b>TB2:</b> JOIN-MODEL 2+1=3; the same three tops move. JOIN-GUIDED 1+1=2.<br/><b>TB3:</b> SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED 1+2=3.<br/><b>TB4:</b> THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.<br/><b>TB5 / WB1:</b> DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1 then 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.",
++              "text": "<b>TB2:</b> JOIN-MODEL 2+1=3; the same three bottle tops move. JOIN-GUIDED 1+1=2.<br/><b>TB3:</b> SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED 1+2=3.<br/><b>TB4:</b> THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.<br/><b>TB5 / WB1:</b> DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1 then 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.",
+               "size": 12
+             },
+             {
+@@ -14231,7 +14231,7 @@
+             {
+               "type": "text",
+               "top": 620,
+-              "text": "<b>TB8 / WB5-6:</b> STORY 2+1=3 tops; all four take turns (not a top each). FRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4 or 5 respectively. Accept speech plus matching objects instead of fluent writing.<br/><b>DELAYED, TB10:</b> 2+2=4; 1+1+2=4; 4=2+2 is true.",
++              "text": "<b>TB8 / WB5-6:</b> STORY 2+1=3 bottle tops; all four take turns (not a bottle top each). FRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4 or 5 respectively. Accept speech plus matching objects instead of fluent writing.<br/><b>DELAYED, TB10:</b> 2+2=4; 1+1+2=4; 4=2+2 is true.",
+               "size": 12
+             }
+           ],
+@@ -14253,7 +14253,7 @@
+             {
+               "type": "text",
+               "top": 275,
+-              "text": "Read directions aloud. Use large safe counters or paper circles. Keep all materials reachable for seated participation. Allow touch, pointing, speech and drawing. Model the move into one row; do not introduce counting-on, carrying or totals through eighteen here.",
++              "text": "Read directions aloud. Use large safe bottle tops, smooth stones or paper circles. Keep all materials reachable for seated participation. Allow touch, pointing, speech and drawing. Model the move into one row; do not introduce counting-on, carrying or totals through eighteen here.",
+               "size": 13
+             },
+             {
+@@ -14375,7 +14375,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Try on your own. Use the tops or counters. Write each missing total.",
++              "text": "Try on your own. Use the bottle tops or counters. Write each missing total.",
+               "size": 14
+             },
+             {
+@@ -14584,13 +14584,13 @@
+         {
+           "slug": "c8-wb-story",
+           "kicker": "Chapter eight / Put small sets together",
+-          "title": "Check the stall tray",
++          "title": "Check our counting tray",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "These are the same two tops and one top from the start of the story. Count all the tops.",
++              "text": "These are the same two bottle tops and one bottle top from the start of the story. Count all the bottle tops.",
+               "size": 14
+             },
+             {
+@@ -14611,7 +14611,7 @@
+             {
+               "type": "text",
+               "top": 440,
+-              "text": "Tell an adult how all four friends can enjoy three tops fairly.",
++              "text": "Tell an adult how all four friends can enjoy three bottle tops fairly.",
+               "size": 14
+             },
+             {
+@@ -14771,7 +14771,7 @@
+         {
+           "slug": "c9-story",
+           "kicker": "Chapter nine / Count on to add",
+-          "title": "A path for the toy garden",
++          "title": "Oranges for a market tray",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+@@ -14795,7 +14795,7 @@
+             {
+               "type": "text",
+               "top": 514,
+-              "text": "<b>John:</b> Our toy-garden path has eight paper counters. Aishatu brings five more. Let me find the total before anyone tells me!<br/><b>Aishatu:</b> The path will lead to my box-toy school.<br/><b>Grace:</b> I will lay the counters neatly.<br/><b>Adamu:</b> We can take turns moving them.<br/><b>Mrs Binta:</b> Keep them on a reachable table. We can count on instead of starting again at one.",
++              "text": "<b>John:</b> Our market tray has eight oranges. Aishatu brings five more. Let me find the total before anyone tells me!<br/><b>Aishatu:</b> I saw oranges at a stall in Gombe town.<br/><b>Grace:</b> I will keep our orange counters neat.<br/><b>Adamu:</b> We can take turns moving them.<br/><b>Mrs Binta:</b> Use paper circles for oranges at a reachable table. We can count on.",
+               "size": 13
+             },
+             {
+@@ -14817,7 +14817,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mrs Binta:</b> Keep our garden-path counters aside. Use separate practice counters. You already know how to join sets and count all. Four counters and two counters make six.",
++              "text": "<b>Mrs Binta:</b> Keep our orange counters aside. Use separate practice counters. You already know how to join sets and count all. Four counters and two counters make six.",
+               "size": 14
+             },
+             {
+@@ -15151,7 +15151,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Mrs Binta:</b> Our story has eight path counters and five more. Here is a model of that joining. Keep eight in your head. Touch the five added counters one at a time.",
++              "text": "<b>Mrs Binta:</b> Our story has eight orange counters and five more. Here is a model of that joining. Keep eight in your head. Touch the five added counters one at a time.",
+               "size": 14
+             },
+             {
+@@ -15645,13 +15645,13 @@
+         {
+           "slug": "c9-finish",
+           "kicker": "Chapter nine / Count on to add",
+-          "title": "Build the garden path",
++          "title": "Fill the market tray",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "<b>Your turn.</b> Bring back the original eight paper path counters and Aishatu's five more. Keep eight. Move the five into the path, one at a time, counting on. Check by counting all. Work on a reachable table before reading the ending.",
++              "text": "<b>Your turn.</b> Bring back the original eight paper orange counters and Aishatu's five more. Keep eight. Move the five into the tray, one at a time, counting on. Check by counting all. Work on a reachable table before reading the ending.",
+               "size": 14
+             },
+             {
+@@ -15738,19 +15738,19 @@
+             {
+               "type": "text",
+               "top": 410,
+-              "text": "The same counters, now joined in one path.",
++              "text": "One counter stands for one orange. Lines show our arrangement.",
+               "size": 13
+             },
+             {
+               "type": "text",
+               "top": 460,
+-              "text": "<b>John:</b> Thirteen counters for our puzzle path! I checked it myself.<br/><b>Grace:</b> They are all here in a neat path.<br/><b>Aishatu:</b> My box-toy school has its garden path.<br/><b>Adamu:</b> We each helped. We can take turns playing.",
++              "text": "<b>John:</b> Thirteen oranges in our model tray! I checked it myself.<br/><b>Grace:</b> Each counter stands for one orange.<br/><b>Aishatu:</b> Our model market tray has thirteen oranges.<br/><b>Adamu:</b> We each helped. We can take turns checking.",
+               "size": 14
+             },
+             {
+               "type": "text",
+               "top": 635,
+-              "text": "The original eight and five are all present. No counter was added or lost. <b>8 + 5 = 13</b>. Say how you checked. Use \"The garden-path check\" in the workbook if you want to record it.",
++              "text": "The original eight and five are all present. No counter was added or lost. <b>8 + 5 = 13</b>. Say how you checked. Use \"The market-tray check\" in the workbook if you want to record it.",
+               "size": 14
+             }
+           ],
+@@ -16587,13 +16587,13 @@
+         {
+           "slug": "c9-wb-story",
+           "kicker": "Chapter nine / Count on to add",
+-          "title": "The garden-path check",
++          "title": "The market-tray check",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Use the original eight path counters and five more. Count on as you move the five. Check by counting all.",
++              "text": "Use the original eight orange counters and five more. Count on as you move the five. Check by counting all.",
+               "size": 14
+             },
+             {
+@@ -16680,7 +16680,7 @@
+             {
+               "type": "text",
+               "top": 410,
+-              "text": "The same counters, now joined in one path.",
++              "text": "One counter stands for one orange. Lines show our arrangement.",
+               "size": 13
+             },
+             {
+@@ -16692,7 +16692,7 @@
+             {
+               "type": "text",
+               "top": 555,
+-              "text": "Tell an adult how you know no path counter was lost or added. All the original counters must be present.",
++              "text": "Tell an adult how you know no orange counter was lost or added. All the original counters must be present.",
+               "size": 14
+             },
+             {
+@@ -16863,7 +16863,7 @@
+         {
+           "slug": "c10-story",
+           "kicker": "Chapter ten / Add tens and ones",
+-          "title": "Pencils for the box-toy school",
++          "title": "Pencils for our classroom",
+           "subtitle": "Read together. Say, point or use your workbook or exercise book.",
+           "elements": [
+             {
+@@ -16887,7 +16887,7 @@
+             {
+               "type": "text",
+               "top": 516,
+-              "text": "<b>Mr Aliyu:</b> Our class has 22 pencils. Adamu brings 11 more for Aishatu's box-toy school. How many pencils are there now?<br/><b>Aishatu:</b> I want to pack them now!<br/><b>Grace:</b> Let us check the total first.<br/><b>John:</b> Let me try the number puzzle.<br/><b>Adamu:</b> Everyone can take a turn at our reachable table.",
++              "text": "<b>Mr Aliyu:</b> Our class has 22 pencils. Adamu brings 11 more for our classroom box. How many pencils are there now?<br/><b>Aishatu:</b> I want to pack them now!<br/><b>Grace:</b> Let us check the total first.<br/><b>John:</b> Let me try the number puzzle.<br/><b>Adamu:</b> Everyone can take a turn at our reachable table.",
+               "size": 13
+             },
+             {
+@@ -17886,7 +17886,7 @@
+             {
+               "type": "text",
+               "top": 575,
+-              "text": "<b>John:</b> Two ones and one one make three ones. Two tens and one ten make three tens. We have 33 pencils.<br/><b>Grace:</b> We checked every pencil once.<br/><b>Adamu:</b> Everyone had a turn.<br/><b>Aishatu:</b> Now we can pack all 33 for our box-toy school. Waiting for the check helped!",
++              "text": "<b>John:</b> Two ones and one one make three ones. Two tens and one ten make three tens. We have 33 pencils.<br/><b>Grace:</b> We checked every pencil once.<br/><b>Adamu:</b> Everyone had a turn.<br/><b>Aishatu:</b> Now we can pack all 33 in our classroom box. Waiting for the check helped!",
+               "size": 14
+             }
+           ],
+@@ -18787,7 +18787,7 @@
+         {
+           "slug": "c11-story",
+           "kicker": "Chapter eleven / Take away",
+-          "title": "Chalk for the toy school",
++          "title": "Chalk for our classroom",
+           "subtitle": "Read together. Use your workbook or exercise book.",
+           "elements": [
+             {
+@@ -18811,7 +18811,7 @@
+             {
+               "type": "text",
+               "top": 516,
+-              "text": "<b>Mrs Binta:</b> We have 12 chalk pieces for Aishatu's box-toy school. We will take 3 aside for the small board. How many stay on our mat?<br/><b>Aishatu:</b> I want to start now!<br/><b>Grace:</b> Keep the groups tidy so we can check.<br/><b>John:</b> Let me solve it before you tell me.<br/><b>Adamu:</b> Everyone can reach the mat and have a turn.",
++              "text": "<b>Mrs Binta:</b> We have 12 chalk pieces in our classroom box. We will take 3 aside for the class board. How many stay on our mat?<br/><b>Aishatu:</b> I want to start now!<br/><b>Grace:</b> Keep the groups tidy so we can check.<br/><b>John:</b> Let me solve it before you tell me.<br/><b>Adamu:</b> Everyone can reach the mat and have a turn.",
+               "size": 13
+             },
+             {
+@@ -19694,7 +19694,7 @@
+             {
+               "type": "text",
+               "top": 165,
+-              "text": "Return to the 12 chalk pieces from our story. The practice counters were separate. Each dot below stands for one story chalk piece. Three pieces stay on the small-board tray; the others stay on our mat.",
++              "text": "Return to the 12 chalk pieces from our story. The practice counters were separate. Each dot below stands for one story chalk piece. Three pieces stay on the board tray; the others stay on our mat.",
+               "size": 14
+             },
+             {
+@@ -19778,7 +19778,7 @@
+             {
+               "type": "text",
+               "top": 585,
+-              "text": "<b>Grace:</b> Nine pieces remain on the mat.<br/><b>John:</b> 9 + 3 = 12. We have found every piece.<br/><b>Adamu:</b> We all had a fair turn checking.<br/><b>Aishatu:</b> Waiting helped! Now our toy school has 3 pieces for the small board and 9 on the mat.",
++              "text": "<b>Grace:</b> Nine pieces remain on the mat.<br/><b>John:</b> 9 + 3 = 12. We have found every piece.<br/><b>Adamu:</b> We all had a fair turn checking.<br/><b>Aishatu:</b> Waiting helped! Now we have 3 pieces for the class board and 9 to put back in the box.",
+               "size": 15
+             },
+             {
+@@ -21268,7 +21268,7 @@
+         {
+           "slug": "c12-1",
+           "kicker": "Find a missing part",
+-          "title": "The hidden toy pieces",
++          "title": "The hidden bottle tops",
+           "subtitle": "Read together. Use a workbook or exercise book.",
+           "elements": [
+             {
+@@ -21291,7 +21291,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mr Aliyu:</b> Aishatu needs 7 tops for her box-toy school. There are 3 on the mat. The rest are inside a bag we cannot see through. How many are hidden?<br/><b>Aishatu:</b> I want to open it! I will wait while we work it out.<br/><b>John:</b> Let me solve the secret before you tell me.<br/><b>Grace:</b> I will keep the groups tidy.<br/><b>Adamu:</b> Everyone gets a turn. Put the bag where we can all reach it.",
++              "text": "<b>Mr Aliyu:</b> Aishatu needs 7 bottle tops for our classroom game. There are 3 on the mat. The rest are inside a bag we cannot see through. How many are hidden?<br/><b>Aishatu:</b> I want to open it! I will wait while we work it out.<br/><b>John:</b> Let me solve the secret before you tell me.<br/><b>Grace:</b> I will keep the groups tidy.<br/><b>Adamu:</b> Everyone gets a turn. Put the bag where we can all reach it.",
+               "top": 515,
+               "size": 13
+             },
+@@ -22360,7 +22360,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>John:</b> The whole was 7. I can keep 3 on the mat and count on four more: 4, 5, 6, 7.<br/><b>Aishatu:</b> I waited. Now I can open the bag!<br/><b>Mr Aliyu:</b> There are 4 tops inside. Replace the blank: <b>3 + 4 = 7</b>. Both sides make 7.",
++              "text": "<b>John:</b> The whole was 7. I can keep 3 on the mat and count on four more: 4, 5, 6, 7.<br/><b>Aishatu:</b> I waited. Now I can open the bag!<br/><b>Mr Aliyu:</b> There are 4 bottle tops inside. Replace the blank: <b>3 + 4 = 7</b>. Both sides make 7.",
+               "top": 300,
+               "size": 16
+             },
+@@ -22398,7 +22398,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "Grace checks each top once. Adamu gives everyone a turn. All 7 tops go to the toy school. No tops are added or lost. The friends can start their game.",
++              "text": "Grace checks each bottle top once. Adamu gives everyone a turn. All 7 bottle tops go to our game tray. No bottle tops are added or lost. The friends can start their game.",
+               "top": 650,
+               "size": 15
+             }
+@@ -22545,7 +22545,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "Keep counters large and reachable. Accept speech, pointing, moving objects or drawing as evidence before writing. Never tell John an answer before his turn. Rotate the helper and speaker. Count hidden story tops only after opening; the artwork does not encode their number.",
++              "text": "Keep counters large and reachable. Accept speech, pointing, moving objects or drawing as evidence before writing. Never tell John an answer before his turn. Rotate the helper and speaker. Count hidden story bottle tops only after opening; the artwork does not encode their number.",
+               "top": 615,
+               "size": 14
+             }
+@@ -22579,7 +22579,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Story preparation:</b> place exactly 4 tops in an opaque bag and 3 on the mat before the opening. Tell the whole 7 without displaying the hidden set. Do not reveal the 4 until the story ending. All independent tasks use separate sets; they do not alter the story stock.",
++              "text": "<b>Story preparation:</b> place exactly 4 bottle tops in an opaque bag and 3 on the mat before the opening. Tell the whole 7 without displaying the hidden set. Do not reveal the 4 until the story ending. All independent tasks use separate sets; they do not alter the story stock.",
+               "top": 640,
+               "size": 14
+             }
+@@ -24641,7 +24641,7 @@
+         {
+           "slug": "c13-textbook-1",
+           "kicker": "Pretend coins and change",
+-          "title": "Our pretend shop",
++          "title": "Our pretend neighbourhood stall",
+           "subtitle": "Read together. Keep this textbook reusable.",
+           "elements": [
+             {
+@@ -24664,7 +24664,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> Our box-toy shop has one pretend map ticket. It costs 6k. We have a 10k payment. How much must the shop give back?<br/><b>Aishatu:</b> I built the shop. I will wait for a fair turn.<br/><b>Adamu:</b> Everyone can join our shop story.<br/><b>Grace:</b> I will keep the value cards neat.<br/><b>John:</b> Put them within reach. Let me solve the change puzzle.",
++              "text": "<b>Mrs Binta:</b> Our pretend neighbourhood stall has one pencil. It costs 6k. We have a 10k payment. How much must the shop give back?<br/><b>Aishatu:</b> I made a box for the stall. I will wait for a fair turn.<br/><b>Adamu:</b> Everyone can join our shop story.<br/><b>Grace:</b> I will keep the value cards neat.<br/><b>John:</b> Put them within reach. Let me solve the change puzzle.",
+               "top": 515,
+               "size": 13
+             },
+@@ -24958,7 +24958,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> Cost means the amount asked for. Payment is the amount given. Change is the amount given back. Our ticket costs 6k. Pay 10k. Count from the cost up to the payment: <b>7, 8, 9, 10</b>. Four counts: change is <b>4k</b>.",
++              "text": "<b>Mrs Binta:</b> Cost means the amount asked for. Payment is the amount given. Change is the amount given back. Our pencil costs 6k. Pay 10k. Count from the cost up to the payment: <b>7, 8, 9, 10</b>. Four counts: change is <b>4k</b>.",
+               "top": 180,
+               "size": 15
+             },
+@@ -25327,12 +25327,12 @@
+         {
+           "slug": "c13-textbook-12",
+           "kicker": "Pretend coins and change",
+-          "title": "The ticket is ready",
++          "title": "The pencil is ready",
+           "subtitle": "Read together. Keep this textbook reusable.",
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>John:</b> The ticket costs 6k. I pay 10k. I worked out 4k change.<br/><b>Grace:</b> I give back 4k and keep 6k for the shop.<br/><b>Adamu:</b> Cost and change make the payment: 6k + 4k = 10k. Everyone had a fair turn.<br/><b>Aishatu:</b> There was one map ticket. Now John has it and the shop has none. Waiting helped our shop work!",
++              "text": "<b>John:</b> The pencil costs 6k. I pay 10k. I worked out 4k change.<br/><b>Grace:</b> I give back 4k and keep 6k for the shop.<br/><b>Adamu:</b> Cost and change make the payment: 6k + 4k = 10k. Everyone had a fair turn.<br/><b>Aishatu:</b> There was one pencil. Now John has it and the shop has none. Waiting helped our shop work!",
+               "top": 190,
+               "size": 15
+             },
+@@ -25602,7 +25602,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>P1-13-CHANGE-MODEL / model</b><br/>Pay 10k for a 6k ticket. Find the change.<br/><b>Answer/criteria:</b> 4k; cost plus change equals payment.",
++              "text": "<b>P1-13-CHANGE-MODEL / model</b><br/>Pay 10k for a 6k pencil. Find the change.<br/><b>Answer/criteria:</b> 4k; cost plus change equals payment.",
+               "top": 412,
+               "size": 11
+             },
+@@ -25702,7 +25702,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>P1-13-STORY / closure</b><br/>Resolve the map-ticket purchase: pay 10k, cost 6k.<br/><b>Answer/criteria:</b> One ticket moves from shop to John; 4k change returned; 6k retained.",
++              "text": "<b>P1-13-STORY / closure</b><br/>Resolve the pencil purchase: pay 10k, cost 6k.<br/><b>Answer/criteria:</b> One pencil moves from shop to John; 4k change returned; 6k retained.",
+               "top": 528,
+               "size": 11
+             },
+@@ -26366,7 +26366,7 @@
+             "objectives": [
+               "P1-p08-03"
+             ],
+-            "prompt": "Pay 10k for a 6k ticket. Find the change.",
++            "prompt": "Pay 10k for a 6k pencil. Find the change.",
+             "answer": "4k; cost plus change equals payment.",
+             "equations": [
+               "10-6=4",
+@@ -26507,8 +26507,8 @@
+             "objectives": [
+               "P1-p08-03"
+             ],
+-            "prompt": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
+-            "answer": "One ticket moves from shop to John; 4k change returned; 6k retained.",
++            "prompt": "Resolve the pencil purchase: pay 10k, cost 6k.",
++            "answer": "One pencil moves from shop to John; 4k change returned; 6k retained.",
+             "equations": [
+               "10-6=4",
+               "6+4=10"
+@@ -27008,7 +27008,7 @@
+         {
+           "slug": "length-a-strip-for-our-school",
+           "kicker": "Longer, shorter and farther",
+-          "title": "A strip for our school",
++          "title": "A strip for our name label",
+           "subtitle": "Read together. Use the workbook or an exercise book.",
+           "elements": [
+             {
+@@ -27031,7 +27031,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mr Aliyu:</b> Our box-toy school needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I built the school. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
++              "text": "<b>Mr Aliyu:</b> Our class parcel needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I packed the parcel. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+               "top": 515,
+               "size": 13
+             },
+@@ -28093,7 +28093,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our box-toy school has its name!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
++              "text": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our parcel has its name label!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+               "top": 175,
+               "size": 15
+             },
+@@ -28744,7 +28744,7 @@
+         {
+           "slug": "length-a-strip-for-our-school",
+           "kicker": "Longer, shorter and farther",
+-          "title": "A strip for our school",
++          "title": "A strip for our name label",
+           "subtitle": "Read together. Use the workbook or an exercise book.",
+           "elements": [
+             {
+@@ -28767,7 +28767,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mr Aliyu:</b> Our box-toy school needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I built the school. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
++              "text": "<b>Mr Aliyu:</b> Our class parcel needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I packed the parcel. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+               "top": 515,
+               "size": 13
+             },
+@@ -29647,7 +29647,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our box-toy school has its name!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
++              "text": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our parcel has its name label!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+               "top": 175,
+               "size": 15
+             },
+@@ -30760,7 +30760,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> Our toy-school display needs a story strip. The cards are mixed up!<br/><b>Aishatu:</b> I made the box toy. I can wait while we sort its story.<br/><b>Adamu:</b> Give everyone a fair turn.<br/><b>Grace:</b> Let us keep the cards neat.<br/><b>John:</b> Put them within reach. Let me solve the order first.",
++              "text": "<b>Mrs Binta:</b> Our class display needs a home-and-school story strip. The cards are mixed up!<br/><b>Aishatu:</b> I brought the cards. I can wait while we sort the story.<br/><b>Adamu:</b> Give everyone a fair turn.<br/><b>Grace:</b> Let us keep the cards neat.<br/><b>John:</b> Put them within reach. Let me solve the order first.",
+               "top": 515,
+               "size": 14
+             },
+@@ -30868,7 +30868,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> I draw a toy-school story. Watch the finished pictures. First I draw a wall. Next I add a roof. Last I add a door. I keep each earlier part.",
++              "text": "<b>Mrs Binta:</b> I draw a house-building story. Watch the finished pictures. First I draw a wall. Next I add a roof. Last I add a door. I keep each earlier part.",
+               "top": 175,
+               "size": 15
+             },
+@@ -31481,7 +31481,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "<b>Aishatu:</b> First wall, next roof, last door! Our pictures now tell how the toy school grew.<br/><b>Grace:</b> I checked the story, not the loose card positions.<br/><b>John:</b> The puzzle is solved.<br/><b>Adamu:</b> We all had a fair turn.",
++              "text": "<b>Aishatu:</b> First wall, next roof, last door! Our pictures now tell how the house was built.<br/><b>Grace:</b> I checked the story, not the loose card positions.<br/><b>John:</b> The puzzle is solved.<br/><b>Adamu:</b> We all had a fair turn.",
+               "top": 175,
+               "size": 15
+             },
+@@ -31742,7 +31742,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>P1-15-CLOSURE / story</b><br/>Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
++              "text": "<b>P1-15-CLOSURE / story</b><br/>Aishatu's house picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+               "top": 545,
+               "size": 11
+             }
+@@ -32680,7 +32680,7 @@
+               "P1-p10-01",
+               "P1-p10-02"
+             ],
+-            "answer": "Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute."
++            "answer": "Aishatu's house picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute."
+           },
+           {
+             "id": "P1-15-FRESH",
+@@ -33121,7 +33121,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mr Aliyu:</b> We have two light parcels for our box-toy school. Which is lighter? We must test.<br/><b>Aishatu:</b> I made the school. I can wait for the balance.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>Grace:</b> I will keep our results neat.<br/><b>John:</b> Put the balance within reach. Let me try first.",
++              "text": "<b>Mr Aliyu:</b> We have two small safe parcels for our classroom. Which is lighter? We must test.<br/><b>Aishatu:</b> I packed the parcels. I can wait for the balance.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>Grace:</b> I will keep our results neat.<br/><b>John:</b> Put the balance within reach. Let me try first.",
+               "top": 515,
+               "size": 13
+             },
+@@ -37210,7 +37210,7 @@
+         {
+           "slug": "solids-textbook-1",
+           "kicker": "Solid shapes around us",
+-          "title": "A store for our toy school",
++          "title": "Sort our classroom objects",
+           "subtitle": "Read together. Use the workbook or an exercise book.",
+           "elements": [
+             {
+@@ -37233,7 +37233,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> Our toy-school store needs groups of shapes. Which objects can stand? Which can roll?<br/><b>Aishatu:</b> I will build it. I can wait for a turn.<br/><b>Grace:</b> I will make neat groups.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Put the tray within reach. Let me solve the puzzle.",
++              "text": "<b>Mrs Binta:</b> Our classroom shelf needs groups of solid objects. Which objects can stand? Which can roll?<br/><b>Aishatu:</b> I brought a box for the shelf. I can wait for a turn.<br/><b>Grace:</b> I will make neat groups.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Put the tray within reach. Let me solve the puzzle.",
+               "top": 515,
+               "size": 13,
+               "x": 38,
+@@ -37493,7 +37493,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "A cube is a special cuboid. We use the more exact name cube in our four groups. A large cube block, long box, closed straight-sided container and ball are everyday models. Real objects only approximate perfect solids.",
++              "text": "A cube is a special cuboid. We use the more exact name cube in our four groups. A large cube block, long box, safe closed straight-sided tin and football are everyday models. Real objects only approximate perfect solids.",
+               "top": 665,
+               "size": 14,
+               "x": 38,
+@@ -37525,7 +37525,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "An adult chooses large, clean, safe models: a cube block, a clear non-cube box, a closed straight-sided container and a ball. No sharp tins or small choking hazards. Use a level, reachable table. Keep gentle movements under control.",
++              "text": "An adult chooses large, clean, safe models: a cube block, a clear non-cube box, a safe closed straight-sided tin and a football. No sharp tins or small choking hazards. Use a level, reachable table. Keep gentle movements under control.",
+               "top": 165,
+               "size": 15,
+               "x": 38,
+@@ -38172,7 +38172,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "Everyone returns to the toy-school store. Grace now checks flat ends, not just rolling. Aishatu waits while Adamu shares the reachable tray. John chooses a flat-faced box for a steady shelf. Mrs Binta checks the safe models with them.",
++              "text": "Everyone returns to the classroom shelf. Grace now checks flat ends, not just rolling. Aishatu waits while Adamu shares the reachable tray. John chooses a flat-faced box for a steady shelf. Mrs Binta checks the safe models with them.",
+               "top": 165,
+               "size": 15,
+               "x": 38,
+@@ -40304,7 +40304,7 @@
+         {
+           "slug": "flat-textbook-1",
+           "kicker": "Flat shapes and patterns",
+-          "title": "A border for our toy school",
++          "title": "A border for our class book",
+           "subtitle": "Read together. Use the workbook or an exercise book.",
+           "elements": [
+             {
+@@ -40327,7 +40327,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mr Aliyu:</b> Our toy-school cover needs a shape border. How can we choose the right pieces?<br/><b>Aishatu:</b> I will build the cover. I can wait for a turn.<br/><b>Grace:</b> I will keep its border neat.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Keep the cards within reach. Let me try before telling me.",
++              "text": "<b>Mr Aliyu:</b> Our class exercise-book cover needs a shape border. How can we choose the right pieces?<br/><b>Aishatu:</b> I will make the cover. I can wait for a turn.<br/><b>Grace:</b> I will keep its border neat.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Keep the cards within reach. Let me try before telling me.",
+               "top": 515,
+               "size": 13,
+               "x": 38,
+@@ -40534,7 +40534,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "He points to a square tile FACE, a non-square book COVER and the round OUTLINE of a lid. These are everyday examples of each flat shape. Real objects only approximate perfect shapes; name the face or outline, not the whole solid.",
++              "text": "He points to a square tile FACE, a non-square exercise-book COVER and the round OUTLINE of a lid. A rectangular window or mat can have a similar face. Check its sides and corners. These are everyday examples. Real objects only approximate perfect shapes; name the face or outline, not the whole solid.",
+               "top": 665,
+               "size": 14,
+               "x": 38,
+@@ -43551,7 +43551,7 @@
+             },
+             {
+               "type": "text",
+-              "text": "<b>Mrs Binta:</b> Our toy-school folder needs records we can trust. How will we find things out?<br/><b>Grace:</b> I want clear, neat records.<br/><b>Adamu:</b> Everyone can choose a turn.<br/><b>Aishatu:</b> I can wait while we check.<br/><b>John:</b> Keep the paper within reach. Let me try.",
++              "text": "<b>Mrs Binta:</b> Our class investigation folder needs records we can trust. How will we find things out?<br/><b>Grace:</b> I want clear, neat records.<br/><b>Adamu:</b> Everyone can choose a turn.<br/><b>Aishatu:</b> I can wait while we check.<br/><b>John:</b> Keep the paper within reach. Let me try.",
+               "top": 515,
+               "size": 13,
+               "x": 38,
+@@ -44188,7 +44188,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "Everyone returns to the toy-school folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
++              "text": "Everyone returns to the class investigation folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+               "top": 165,
+               "size": 14,
+               "x": 38,
+@@ -45552,7 +45552,7 @@
+           "elements": [
+             {
+               "type": "text",
+-              "text": "Everyone returns to the toy-school folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
++              "text": "Everyone returns to the class investigation folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+               "top": 165,
+               "size": 14,
+               "x": 38,
+@@ -45894,7 +45894,7 @@
+           {
+             "id": "P1-19-STORY",
+             "mode": "closure",
+-            "prompt": "Explain how the friends made the fictional toy-school folder trustworthy.",
++            "prompt": "Explain how the friends made the fictional class investigation folder trustworthy.",
+             "answer": "They asked permission and the same completed-years question, listened and checked letter-labelled age records; they marked head tops with a consistent method, aligned strip bottoms and recorded comparisons. Fictional model D5/E8 and D taller than E remain consistent. No actual pupil results inferred; no better/worse age or height ranking. All four contribute; folder trust follows the demonstrated methods, not neatness alone.",
+             "objectives": [
+               "P1-p12-01",

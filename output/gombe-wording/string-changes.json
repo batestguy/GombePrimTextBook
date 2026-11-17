@@ -1,0 +1,4256 @@
+[
+  {
+    "chapter": "P1-01",
+    "path": "/0/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Let us help Aishatu open her pretend tea shop. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
+    "after": "<b>Mrs Binta:</b> After play, Aishatu brings cups for her friends. Every friend needs a cup.<br/><b>Aishatu:</b> I cannot wait!<br/><b>Adamu:</b> Can everyone have a fair turn?<br/><b>Grace:</b> I will help check our cup record.<br/><b>John:</b> Let me try the counting puzzle first.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-01",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c1-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "chapter": "P1-01",
+    "path": "/0/paired_edition/textbook_pages/5/title",
+    "before": "Our tea shop is ready",
+    "after": "A cup for each friend",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-01",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c1-ending",
+      "task_ids": [
+        "P1-01-FRESH-SET",
+        "P1-01-FRESH-READ",
+        "P1-01-FRESH-RECOGNISE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-01",
+    "path": "/0/paired_edition/textbook_pages/5/elements/8/text",
+    "before": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now your pretend tea shop can open.",
+    "after": "<b>Aishatu:</b> Four friends and four cups!<br/><b>Grace:</b> Each friend has a cup.<br/><b>Adamu:</b> Everyone is included.<br/><b>John:</b> We solved the puzzle.<br/><b>Mrs Binta:</b> Now each friend has a cup after play.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-01",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c1-ending",
+      "task_ids": [
+        "P1-01-FRESH-SET",
+        "P1-01-FRESH-READ",
+        "P1-01-FRESH-RECOGNISE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/0/kicker",
+    "before": "Our toy shop / Chapter two",
+    "after": "Our classroom game / Chapter two",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c2-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Your shop is open! Let us make a game. First, tidy the leaf tickets and top counters.<br/><b>Aishatu:</b> My box shop needs a tidy game tray.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?",
+    "after": "<b>Mr Aliyu:</b> Let us prepare a classroom game. First, sort the leaves and bottle tops.<br/><b>Aishatu:</b> I brought a box for our game pieces.<br/><b>Grace:</b> I like things in their places.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>John:</b> Can we find out which set has more?",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c2-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/0/elements/5/text",
+    "before": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more tops or leaves?",
+    "after": "<b>Mr Aliyu:</b> These are our game pieces. Watch me sort them. Then we can check: are there more bottle tops or leaves?",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c2-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/1/elements/1/text",
+    "before": "<b>Mr Aliyu:</b> I put leaves together and tops together. A leaf goes with the leaves. A top goes with the tops.",
+    "after": "<b>Mr Aliyu:</b> I put leaves together and bottle tops together. A leaf goes with the leaves. A bottle top goes with the bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/1/elements/3/text",
+    "before": "<b>Tops together</b>",
+    "after": "<b>Bottle tops together</b>",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/1/elements/8/text",
+    "before": "<b>Grace:</b> I put a leaf with the tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+    "after": "<b>Grace:</b> I put a leaf with the bottle tops by mistake.<br/><b>Mr Aliyu:</b> Check our rule. Where should it go?<br/><b>Grace:</b> With the leaves. I can try again.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/1/elements/9/text",
+    "before": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each top.",
+    "after": "<b>Try together.</b> I circled one leaf. Point to the other leaf. Then point to each bottle top.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/1/elements/12/text",
+    "before": "<b>Mr Aliyu:</b> Sort real leaves and tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
+    "after": "<b>Mr Aliyu:</b> Sort real leaves and bottle tops into two sets at the table. Count each set.<br/><b>Grace:</b> Tell a partner your rule.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/2/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> I draw a line from one top to one top. Each top can have only one partner.",
+    "after": "<b>Mr Aliyu:</b> I draw a line from one bottle top to one bottle top. Each bottle top can have only one partner.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 13,
+      "slug": "c2-3",
+      "task_ids": [
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/2/elements/5/text",
+    "before": "Two tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+    "after": "Two bottle tops in the lower set have no partner.<br/><b>Four is more than two. Two is fewer than four.</b><br/>I circle the whole set with more.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 13,
+      "slug": "c2-3",
+      "task_ids": [
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/2/elements/10/text",
+    "before": "Use your finger to match each top in the upper row to a different top below. Does every top have a partner? Tell a partner.",
+    "after": "Use your finger to match each bottle top in the upper row to a different bottle top below. Does every bottle top have a partner? Tell a partner.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 13,
+      "slug": "c2-3",
+      "task_ids": [
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/4/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Tell your partner which set you chose.",
+    "after": "<b>Mr Aliyu:</b> Point to the set with more bottle tops.<br/>Tell your partner which set you chose.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 15,
+      "slug": "c2-5",
+      "task_ids": [
+        "P1-02-Q3",
+        "P1-02-Q4"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/5/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use tops at the table or draw in your exercise book.",
+    "after": "<b>Mr Aliyu:</b> Tell or show a partner how to compare two sets. Use bottle tops at the table or draw in your exercise book.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 16,
+      "slug": "c2-6",
+      "task_ids": [
+        "P1-02-Q5",
+        "P1-02-Q6",
+        "P1-02-SUPPORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/6/subtitle",
+    "before": "Use what you have learned to finish tidying the toy shop.",
+    "after": "Use what you have learned to finish preparing our classroom game.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c2-7",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/6/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Match with your finger.",
+    "after": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different bottle top. Match with your finger.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c2-7",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/6/elements/3/text",
+    "before": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+    "after": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one bottle top. Use real pieces. Put the bottle tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare bottle tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c2-7",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/textbook_pages/6/elements/4/text",
+    "before": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every top.",
+    "after": "<b>A fresh try. Work on your own.</b><br/>Point to every leaf below. Then point to every bottle top.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c2-7",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/0/elements/0/text",
+    "before": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the tops without circles.",
+    "after": "Mr Aliyu circled one leaf. Circle the other leaf.<br/>Leave the bottle tops without circles.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 6,
+      "slug": "w2-sort-match",
+      "task_ids": [
+        "P1-02-SORT",
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/0/elements/3/text",
+    "before": "Mix real leaves and tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
+    "after": "Mix real leaves and bottle tops at the table. Sort them into two groups. Count each group. Tell your partner the rule.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 6,
+      "slug": "w2-sort-match",
+      "task_ids": [
+        "P1-02-SORT",
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/0/elements/4/text",
+    "before": "Draw one line from each top in the upper row to a different top below. Does every top have a partner?",
+    "after": "Draw one line from each bottle top in the upper row to a different bottle top below. Does every bottle top have a partner?",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 6,
+      "slug": "w2-sort-match",
+      "task_ids": [
+        "P1-02-SORT",
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/2/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Point to the set with more tops.<br/>Circle that whole set.",
+    "after": "<b>Mr Aliyu:</b> Point to the set with more bottle tops.<br/>Circle that whole set.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 8,
+      "slug": "w2-more-fewer",
+      "task_ids": [
+        "P1-02-Q3",
+        "P1-02-Q4"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/3/elements/0/text",
+    "before": "Tell or show a partner how to compare two sets.<br/>Use real tops or draw your idea below.",
+    "after": "Tell or show a partner how to compare two sets.<br/>Use real bottle tops or draw your idea below.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 9,
+      "slug": "w2-remember",
+      "task_ids": [
+        "P1-02-Q5",
+        "P1-02-Q6"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/4/subtitle",
+    "before": "Use what you have learned to finish tidying the toy shop.",
+    "after": "Use what you have learned to finish preparing our classroom game.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 10,
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/4/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different top. Draw the lines.",
+    "after": "<b>Mr Aliyu:</b> We sorted our game tray. Match each leaf to a different bottle top. Draw the lines.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 10,
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/4/elements/3/text",
+    "before": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one top. Use real pieces. Put the tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+    "after": "<b>John:</b> Point to the set with more.<br/><b>Aishatu:</b> Each leaf is a ticket for one bottle top. Use real pieces. Put the bottle tops with no partner in a spare box at the table.<br/><b>Grace:</b> The two spare bottle tops are away. Now the tray is tidy.<br/><b>Adamu:</b> We can take fair turns at our game!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 10,
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-02",
+    "path": "/1/paired_edition/workbook_pages/4/elements/4/text",
+    "before": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the tops without circles.",
+    "after": "<b>A fresh try. Work on your own.</b><br/>Circle every leaf below. Leave the bottle tops without circles.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+      "source_page": 10,
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Aishatu wants to pack her box game.<br/><b>Aishatu:</b> I want to start my next game!<br/><b>Adamu:</b> Let everyone help put the tops away.<br/><b>Grace:</b> We must check the mat before closing the box.<br/><b>John:</b> How can we record that none are left? Let me try.",
+    "after": "<b>Mrs Binta:</b> It is time to put our counting materials away.<br/><b>Aishatu:</b> My box is ready. I want to pack it now!<br/><b>Adamu:</b> Let everyone help put the bottle tops away.<br/><b>Grace:</b> We must check the mat before closing the box.<br/><b>John:</b> How can we record that none are left? Let me try.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c3-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/0/elements/3/text",
+    "before": "Our game mat has three tops. We will put them all in the storage box. First, Mrs Binta shows us the number for none.",
+    "after": "Our game mat has three bottle tops. We will put them all in the storage box. First, Mrs Binta shows us the number for none.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c3-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/1/elements/0/text",
+    "before": "<b>Mrs Binta:</b> Here are two tops. I count each one once.<br/>Then I move both tops into a storage box.",
+    "after": "<b>Mrs Binta:</b> Here are two bottle tops. I count each one once.<br/>Then I move both bottle tops into a storage box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c3-model",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/1/elements/3/text",
+    "before": "<b>Mrs Binta:</b> Look inside the tray now. No tops are left.",
+    "after": "<b>Mrs Binta:</b> Look inside the tray now. No bottle tops are left.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c3-model",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/1/elements/7/text",
+    "before": "<b>zero</b><br/>Zero tells how many tops are in the empty tray.",
+    "after": "<b>zero</b><br/>Zero tells how many bottle tops are in the empty tray.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c3-model",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/1/elements/8/text",
+    "before": "<b>Aishatu:</b> I see one tray. Is the number one?<br/><b>John:</b> We are counting the tops inside. There are none.<br/><b>Mrs Binta:</b> Yes. The tray is here. It holds zero tops.",
+    "after": "<b>Aishatu:</b> I see one tray. Is the number one?<br/><b>John:</b> We are counting the bottle tops inside. There are none.<br/><b>Mrs Binta:</b> Yes. The tray is here. It holds zero bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c3-model",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/2/elements/0/text",
+    "before": "<b>Mrs Binta:</b> Put one top on a tray. Move it into the box.<br/><b>Adamu:</b> I will wait for my turn to check inside.<br/>Say how many tops are left. Point to the numeral for none.",
+    "after": "<b>Mrs Binta:</b> Put one bottle top on a tray. Move it into the box.<br/><b>Adamu:</b> I will wait for my turn to check inside.<br/>Say how many bottle tops are left. Point to the numeral for none.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c3-guided",
+      "task_ids": [
+        "P1-03-GUIDED",
+        "P1-03-FORM-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/2/elements/12/text",
+    "before": "<b>Say the order together:</b> 0, 1, 2, 3.<br/>Show none, one, two and three real tops as you say each number.",
+    "after": "<b>Say the order together:</b> 0, 1, 2, 3.<br/>Show none, one, two and three real bottle tops as you say each number.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c3-guided",
+      "task_ids": [
+        "P1-03-GUIDED",
+        "P1-03-FORM-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/3/elements/0/text",
+    "before": "Look inside this empty tray.<br/>Write the number for its tops in your exercise book.",
+    "after": "Look inside this empty tray.<br/>Write the number for its bottle tops in your exercise book.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 4,
+      "slug": "c3-independent",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-Q3"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/4/elements/0/text",
+    "before": "Put all 3 tops away. How many remain?<br/>Use three real counters and a storage box.<br/>Write how many are left in your exercise book.",
+    "after": "Put all 3 bottle tops away. How many remain?<br/>Use three real counters and a storage box.<br/>Write how many are left in your exercise book.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c3-recall",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/5/elements/0/text",
+    "before": "<b>Adamu:</b> We take turns moving every top into the box.<br/><b>Grace:</b> I check the mat. No tops are left.<br/><b>John:</b> We can record none with zero.<br/><b>Aishatu:</b> Now I can close the box and start my next game!",
+    "after": "<b>Adamu:</b> We take turns moving every bottle top into the box.<br/><b>Grace:</b> I check the mat. No bottle tops are left.<br/><b>John:</b> We can record none with zero.<br/><b>Aishatu:</b> Now I can close the box. Our table is tidy!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 6,
+      "slug": "c3-ending",
+      "task_ids": [
+        "P1-03-ENDING",
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/5/elements/7/text",
+    "before": "<b>Mrs Binta:</b> Zero tops on the mat. Three tops safely stored.<br/>Check your real mat is empty before you close the box.",
+    "after": "<b>Mrs Binta:</b> Zero bottle tops on the mat. Three bottle tops safely stored.<br/>Check your real mat is empty before you close the box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 6,
+      "slug": "c3-ending",
+      "task_ids": [
+        "P1-03-ENDING",
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/6/elements/1/text",
+    "before": "<b>Prepare.</b> Large safe counters, reachable tray/mat, storage box, pencil/paper and ordinary cards 0-5. Demonstrate each physical action. The trays/boxes in exact diagrams are containers, not counted tops. Never count decorative classroom artwork. No subtraction or equality notation is needed in these pupil pages.",
+    "after": "<b>Prepare.</b> Large safe counters, reachable tray/mat, storage box, pencil/paper and ordinary cards 0-5. Demonstrate each physical action. The trays/boxes in exact diagrams are containers, not counted bottle tops. Never count decorative classroom artwork. No subtraction or equality notation is needed in these pupil pages.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 7,
+      "slug": "c3-guide",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 291
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/7/elements/0/text",
+    "before": "<b>Source questions, unchanged meaning/order.</b><br/>P1-03-Q1 (TB4/WB1): 0 tops in the empty set.<br/>Q2 (TB4/WB1): a closed box outline with nothing inside; acceptable neat alternatives.<br/>Q3 (TB4/WB2): missing numeral 2 in 0,1,2,3.<br/>Q4 (TB5/WB3): all three put away; 0 remain.<br/>Q5 (TB5/WB3): say zero, using usual communication if needed.<br/>Q6 (TB5/WB3): no oranges are inside the basket; the basket exists.",
+    "after": "<b>Source questions, unchanged meaning/order.</b><br/>P1-03-Q1 (TB4/WB1): 0 bottle tops in the empty set.<br/>Q2 (TB4/WB1): a closed box outline with nothing inside; acceptable neat alternatives.<br/>Q3 (TB4/WB2): missing numeral 2 in 0,1,2,3.<br/>Q4 (TB5/WB3): all three put away; 0 remain.<br/>Q5 (TB5/WB3): say zero, using usual communication if needed.<br/>Q6 (TB5/WB3): no oranges are inside the basket; the basket exists.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c3-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 292
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/7/elements/1/text",
+    "before": "<b>Models/guided (TB2-3/WB1-2).</b> Two tops before moving, zero after. One top moved away leaves zero. Choose 0 among cards 0,2,1. Closed oval for 0; arrow shows downward direction on the left. Empty-box outline is a model, not a writing space in the textbook. Real quantity sequence none/one/two/three matches 0/1/2/3. WB1 completed example: 1 top, written numeral 1.",
+    "after": "<b>Models/guided (TB2-3/WB1-2).</b> Two bottle tops before moving, zero after. One bottle top moved away leaves zero. Choose 0 among cards 0,2,1. Closed oval for 0; arrow shows downward direction on the left. Empty-box outline is a model, not a writing space in the textbook. Real quantity sequence none/one/two/three matches 0/1/2/3. WB1 completed example: 1 bottle top, written numeral 1.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c3-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 292
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/textbook_pages/8/elements/2/text",
+    "before": "<b>Artwork and type.</b> Existing fictional Mrs Binta classroom image reused without editing: artwork/redesign/scenes/mrs-binta-blackboard-v1.png; original image_gen prompt/references are in adjacent provenance and artwork/manifest.json. No new AI art. Assessed tops, trays, oval and lines are deterministic vectors. DejaVu Sans fonts: fonts/LICENSE_DEJAVU.txt.",
+    "after": "<b>Artwork and type.</b> Existing fictional Mrs Binta classroom image reused without editing: artwork/redesign/scenes/mrs-binta-blackboard-v1.png; original image_gen prompt/references are in adjacent provenance and artwork/manifest.json. No new AI art. Assessed bottle tops, trays, oval and lines are deterministic vectors. DejaVu Sans fonts: fonts/LICENSE_DEJAVU.txt.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "source_page": 9,
+      "slug": "c3-notes",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 293
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/workbook_pages/0/elements/0/text",
+    "before": "<b>A completed example.</b> There is one top in this tray.<br/>The written number beside it is 1.",
+    "after": "<b>A completed example.</b> There is one bottle top in this tray.<br/>The written number beside it is 1.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "source_page": 1,
+      "slug": "c3-wb-empty",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/workbook_pages/0/elements/4/text",
+    "before": "Now look inside this tray. Write the number for its tops in the small space.",
+    "after": "Now look inside this tray. Write the number for its bottle tops in the small space.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "source_page": 1,
+      "slug": "c3-wb-empty",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "chapter": "P1-03",
+    "path": "/2/paired_edition/workbook_pages/2/elements/0/text",
+    "before": "Put all 3 tops away. How many remain?<br/>Use three real counters. Move them into a storage box.",
+    "after": "Put all 3 bottle tops away. How many remain?<br/>Use three real counters. Move them into a storage box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-03",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+      "source_page": 3,
+      "slug": "c3-wb-explain",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Aishatu has made a box game. Its paper pieces are all mixed.<br/><b>Aishatu:</b> I want to build the game now!<br/><b>Grace:</b> Let us make neat groups first.<br/><b>Adamu:</b> Everyone can take a turn to check.<br/><b>John:</b> Then we can put the groups in number order.",
+    "after": "<b>Mr Aliyu:</b> Our class counting pieces are all mixed. Aishatu brought a box to hold them.<br/><b>Aishatu:</b> I want to fill my box now!<br/><b>Grace:</b> Let us make neat groups first.<br/><b>Adamu:</b> Everyone can take a turn to check.<br/><b>John:</b> Then we can put the groups in number order.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c4-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/0/elements/3/text",
+    "before": "Our game needs four groups: six, seven, eight and nine pieces. We must sort, count and check before the game begins.",
+    "after": "We need four groups of counting pieces: six, seven, eight and nine pieces. We must sort, count and check before we put them away.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c4-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/1/subtitle",
+    "before": "Watch Mr Aliyu move each top once. Count all the tops in each tray.",
+    "after": "Watch Mr Aliyu move each bottle top once. Count all the bottle tops in each tray.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c4-six-seven",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/1/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Count the first five. Touch the next top and say six. Count them all to check.",
+    "after": "<b>Mr Aliyu:</b> Count the first five. Touch the next bottle top and say six. Count them all to check.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c4-six-seven",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/1/elements/8/text",
+    "before": "<b>Adamu:</b> I will move one top each time I say a number.<br/>Try together with six real counters. Then make seven.<br/>Point to each new numeral and say its name.",
+    "after": "<b>Adamu:</b> I will move one bottle top each time I say a number.<br/>Try together with six real counters. Then make seven.<br/>Point to each new numeral and say its name.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c4-six-seven",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/1/elements/9/text",
+    "before": "The last number word tells how many. Spreading a group out does not add tops.",
+    "after": "The last number word tells how many. Spreading a group out does not add bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c4-six-seven",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/2/subtitle",
+    "before": "Touch each top once. Say how many. Read its numeral.",
+    "after": "Touch each bottle top once. Say how many. Read its numeral.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c4-eight-nine",
+      "task_ids": [
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-GUIDED-READ"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/2/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> After seven comes eight. Count the five tops, then the three on the next row. Check the whole group.",
+    "after": "<b>Mr Aliyu:</b> After seven comes eight. Count the five bottle tops, then the three on the next row. Check the whole group.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c4-eight-nine",
+      "task_ids": [
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-GUIDED-READ"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/2/elements/4/text",
+    "before": "<b>Mr Aliyu:</b> After eight comes nine. Count the five tops and the four on the next row. Check them all.",
+    "after": "<b>Mr Aliyu:</b> After eight comes nine. Count the five bottle tops and the four on the next row. Check them all.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c4-eight-nine",
+      "task_ids": [
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-GUIDED-READ"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/4/subtitle",
+    "before": "Watch sorting before you sort the real game pieces.",
+    "after": "Watch sorting before you sort the real counting pieces.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c4-sort",
+      "task_ids": [
+        "P1-04-SORT-MODEL",
+        "P1-04-GUIDED-SORT",
+        "P1-04-S002"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/4/elements/8/text",
+    "before": "<b>Now sort on your own.</b> An adult mixes all the game pieces. Make one group for each kind. Count each group.<br/>Record the counts in your exercise book. You may draw one shape to label each group.<br/>Workbook: Sort and record.",
+    "after": "<b>Now sort on your own.</b> An adult mixes all the counting pieces. Make one group for each kind. Count each group.<br/>Record the counts in your exercise book. You may draw one shape to label each group.<br/>Workbook: Sort and record.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c4-sort",
+      "task_ids": [
+        "P1-04-SORT-MODEL",
+        "P1-04-GUIDED-SORT",
+        "P1-04-S002"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/7/title",
+    "before": "Our box game is ready",
+    "after": "Our counting box is ready",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c4-ending",
+      "task_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/7/subtitle",
+    "before": "Actually sort, count and arrange your four game groups before starting.",
+    "after": "Actually sort, count and arrange your four groups before putting them away.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c4-ending",
+      "task_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/7/elements/13/text",
+    "before": "<b>Mr Aliyu:</b> Every piece has a group. Every group has the right count. Now your game can begin.",
+    "after": "<b>Mr Aliyu:</b> Every piece has a group. Every group has the right count. Now we can put the groups in our counting box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c4-ending",
+      "task_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/8/elements/4/text",
+    "before": "<b>Delayed recall, next session.</b> Count fresh sets of 6, 7 and 8. Read shuffled cards 9, 6, 8, 7 independently. Dictate nine, seven, six, eight: 9, 7, 6, 8. Order 8, 6, 9: 6, 8, 9. Sort 7 tops and 9 leaves; state each count. Record which skills need support.",
+    "after": "<b>Delayed recall, next session.</b> Count fresh sets of 6, 7 and 8. Read shuffled cards 9, 6, 8, 7 independently. Dictate nine, seven, six, eight: 9, 7, 6, 8. Order 8, 6, 9: 6, 8, 9. Sort 7 bottle tops and 9 leaves; state each count. Record which skills need support.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 9,
+      "slug": "c4-guide",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 294
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/9/elements/2/text",
+    "before": "<b>S002 (TB5/WB5).</b> Mix all 30 pieces. Sort by outline, count and record: 6 circles, 7 squares, 8 triangles, 9 non-square rectangles. Order: 6, 7, 8, 9. Observe actual sorting; written counts alone do not demonstrate it. For story closure (TB8), verify all 30 pieces in these groups before starting the pretend game.",
+    "after": "<b>S002 (TB5/WB5).</b> Mix all 30 pieces. Sort by outline, count and record: 6 circles, 7 squares, 8 triangles, 9 non-square rectangles. Order: 6, 7, 8, 9. Observe actual sorting; written counts alone do not demonstrate it. For story closure (TB8), verify all 30 pieces in these groups before putting the pieces in the counting box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c4-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 295
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/textbook_pages/10/elements/2/text",
+    "before": "<b>Provenance.</b> Reused fictional Mr Aliyu classroom image: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png; original image_gen prompts/references in adjacent provenance and artwork/manifest.json. No new AI art. Tops, dots and shape pieces are deterministic vector drawings; never count decorative classroom art. Fonts: DejaVu Sans, fonts/LICENSE_DEJAVU.txt.",
+    "after": "<b>Provenance.</b> Reused fictional Mr Aliyu classroom image: artwork/redesign/scenes/mr-aliyu-blackboard-v1.png; original image_gen prompts/references in adjacent provenance and artwork/manifest.json. No new AI art. Bottle tops, dots and shape pieces are deterministic vector drawings; never count decorative classroom art. Fonts: DejaVu Sans, fonts/LICENSE_DEJAVU.txt.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c4-notes",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 296
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/workbook_pages/4/elements/0/text",
+    "before": "Sort the real mixed game pieces by their outlines.<br/>Count each group. Write its count beside the matching picture.",
+    "after": "Sort the real mixed counting pieces by their outlines.<br/>Count each group. Write its count beside the matching picture.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-04",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+      "source_page": 5,
+      "slug": "c4-wb-sort",
+      "task_ids": [
+        "P1-04-S002"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "chapter": "P1-04",
+    "path": "/3/paired_edition/sessions/2",
+    "before": "Independent source tasks; recall/support; actual game resolution; fresh separate skills; delayed recall.",
+    "after": "Independent source tasks; recall/support; actual packing resolution; fresh separate skills; delayed recall.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/0/title",
+    "before": "Pack our path markers",
+    "after": "Pack our counting strips",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c5-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> John has a new path puzzle. It needs twenty paper markers. How can we pack the right number?<br/><b>John:</b> Let me try before a hint.<br/><b>Grace:</b> We can keep the markers neat.<br/><b>Adamu:</b> Everyone can help check.<br/><b>Aishatu:</b> My box can hold our marker pack!",
+    "after": "<b>Mrs Binta:</b> Our class needs twenty counting strips. John will help pack them. How can we check the number?<br/><b>John:</b> Let me try before a hint.<br/><b>Grace:</b> We can keep the strips neat.<br/><b>Adamu:</b> Everyone can help check.<br/><b>Aishatu:</b> My box can hold our counting pack!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c5-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/0/elements/3/text",
+    "before": "First we will count paper strips and make bundles. Then we can pack exactly what our game needs.",
+    "after": "First we will count paper strips and make bundles. Then we can pack exactly what our class needs.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c5-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/0/elements/4/text",
+    "before": "Use safe paper strips and loose bands. Work at a reachable table.",
+    "after": "Use safe counting sticks or paper strips and loose bands at a reachable table. Our pictures show paper strips.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c5-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/9/title",
+    "before": "Our marker pack is ready",
+    "after": "Our counting pack is ready",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c5-ending",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/9/subtitle",
+    "before": "Bring back all twenty real game markers. Pack and check them before closing the box.",
+    "after": "Bring back all twenty real counting strips. Pack and check them before closing the box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c5-ending",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/9/elements/0/text",
+    "before": "<b>Grace:</b> I make two neat bundles. We count each one.<br/><b>Adamu:</b> Ten ones in each. Everyone has a checking turn.<br/><b>John:</b> Two tens and no loose ones. That is twenty.<br/><b>Aishatu:</b> Into the box! Now our path puzzle can begin.",
+    "after": "<b>Grace:</b> I make two neat bundles. We count each one.<br/><b>Adamu:</b> Ten ones in each. Everyone has a checking turn.<br/><b>John:</b> Two tens and no loose ones. That is twenty.<br/><b>Aishatu:</b> Into the box! Now our class has a counting pack.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c5-ending",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/9/elements/4/text",
+    "before": "<b>Mrs Binta:</b> You packed exactly twenty markers.<br/>Count ten in each real bundle. Put both in the box.<br/>Close it only after everyone has checked.",
+    "after": "<b>Mrs Binta:</b> You packed exactly twenty strips.<br/>Count ten in each real bundle. Put both in the box.<br/>Close it only after everyone has checked.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c5-ending",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/textbook_pages/11/elements/2/text",
+    "before": "<b>Recall/choice/support/ending.</b> TB9/WB5: open/count 10 once each. Any chosen 11-19 is valid: 1 ten and the remaining 1-9 ones; written numeral, real strips and recorded digits must agree. Support/recheck is described on TB11. TB10 ending uses the original 20 markers: exactly 10 in each of 2 bundles, no loose ones. Actually pack/check before closure.",
+    "after": "<b>Recall/choice/support/ending.</b> TB9/WB5: open/count 10 once each. Any chosen 11-19 is valid: 1 ten and the remaining 1-9 ones; written numeral, real strips and recorded digits must agree. Support/recheck is described on TB11. TB10 ending uses the original 20 strips: exactly 10 in each of 2 bundles, no loose ones. Actually pack/check before closure.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "source_page": 12,
+      "slug": "c5-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 298
+      }
+    ]
+  },
+  {
+    "chapter": "P1-05",
+    "path": "/4/paired_edition/sessions/2",
+    "before": "Source practice; recall/support; actual20-marker pack resolution; fresh independent skills and delayed recall.",
+    "after": "Source practice; recall/support; actual20-strip pack resolution; fresh independent skills and delayed recall.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/0/title",
+    "before": "Labels for our game boxes",
+    "after": "Count our classroom supplies",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c6-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Adamu:</b> Our game boxes need number labels. Everyone should have a turn!<br/><b>Mr Aliyu:</b> We need the labels forty-six, eighty-one and ninety-three.<br/><b>Grace:</b> I can make neat labels, but I must check the digits.<br/><b>John:</b> Let me work out their places before you tell me.<br/><b>Aishatu:</b> My boxes are ready. I will wait while we learn.",
+    "after": "<b>Adamu:</b> Our class needs packs of counting strips. Everyone should have a turn!<br/><b>Mr Aliyu:</b> We need packs of forty-six, eighty-one and ninety-three strips.<br/><b>Grace:</b> I can make neat labels, but I must check the digits.<br/><b>John:</b> Let me work out their places before you tell me.<br/><b>Aishatu:</b> My supply boxes are ready. I will wait while we learn.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c6-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/0/elements/3/text",
+    "before": "First learn in small groups of numbers. Later we will make, check and attach all three labels. Use reachable trays and large paper strips.",
+    "after": "First learn in small groups of numbers. Later we will count three packs and label them. Use reachable trays and large paper strips.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c6-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/16/subtitle",
+    "before": "Finish the game-box job together. Then try fresh numbers alone.",
+    "after": "Finish the supply-box job together. Then try fresh numbers alone.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c6-ending",
+      "task_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/16/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Make the three labels we needed: forty-six, eighty-one and ninety-three.<br/><b>Adamu:</b> I write 46 and give Grace a turn.<br/><b>Grace:</b> I write 81. This time I check both places.<br/><b>John:</b> I write 93 after thinking it through.<br/><b>Aishatu:</b> I check the bundles and attach the labels to my three boxes.",
+    "after": "<b>Mr Aliyu:</b> Count the three packs we needed: forty-six, eighty-one and ninety-three.<br/><b>Adamu:</b> I write 46 and give Grace a turn.<br/><b>Grace:</b> I write 81. This time I check both places.<br/><b>John:</b> I write 93 after thinking it through.<br/><b>Aishatu:</b> I check the bundles and label my three supply boxes.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c6-ending",
+      "task_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "chapter": "P1-06",
+    "path": "/5/paired_edition/textbook_pages/16/elements/2/text",
+    "before": "Build each label with real strips. Check ten in every bundle. Match each written label to the spoken name. Attach 46, 81 and 93 to three different boxes. Our game boxes now have the correct labels.",
+    "after": "Build each pack with real strips. Check ten in every bundle. Match each written label to the spoken name. Attach 46, 81 and 93 to three different boxes. Our supply boxes now have the correct counts and labels.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "source_page": 17,
+      "slug": "c6-ending",
+      "task_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "chapter": "P1-07",
+    "path": "/6/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Aishatu:</b> My box-toy display needs one paper mat. Each of us wants the same space for a drawing. I want to start now!<br/><b>Mrs Binta:</b> First let us learn to share the whole mat fairly.<br/><b>Adamu:</b> Nobody should be left out.<br/><b>Grace:</b> I will check the edges neatly.<br/><b>John:</b> Let me try a fold before you tell me.",
+    "after": "<b>Aishatu:</b> Our classroom display needs one paper mat. Each of us wants the same space for a drawing. I want to start now!<br/><b>Mrs Binta:</b> First let us learn to share the whole mat fairly.<br/><b>Adamu:</b> Nobody should be left out.<br/><b>Grace:</b> I will check the edges neatly.<br/><b>John:</b> Let me try a fold before you tell me.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-07",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c7-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "chapter": "P1-07",
+    "path": "/6/paired_edition/textbook_pages/8/elements/6/text",
+    "before": "They put one drawing in each equal space. Four quarters fill the whole mat. The display is ready for Aishatu's box toys.",
+    "after": "They put one drawing in each equal space. Four quarters fill the whole mat. The display is ready for our classroom.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-07",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "source_page": 9,
+      "slug": "c7-ending",
+      "task_ids": [
+        "P1-07-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/0/title",
+    "before": "Tops for the box-toy stall",
+    "after": "Bottle tops in one tray",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c8-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 77
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Aishatu:</b> My box-toy stall needs all our tops in one tray. I have two. Adamu has one. I want to open now!<br/><b>Mr Aliyu:</b> Wait while we learn to join and count. Keep the tray within everyone's reach.<br/><b>Adamu:</b> We will all have a turn.<br/><b>Grace:</b> I will keep the tops in a neat row.<br/><b>John:</b> Let me find the total before you tell me.",
+    "after": "<b>Aishatu:</b> Let us put our bottle tops in one tray. I have two. Adamu has one. I want to count now!<br/><b>Mr Aliyu:</b> Wait while we learn to join and count. Keep the tray within everyone's reach.<br/><b>Adamu:</b> We will all have a turn.<br/><b>Grace:</b> I will keep the bottle tops in a neat row.<br/><b>John:</b> Let me find the total before you tell me.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c8-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 77
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Here are Aishatu's two tops and Adamu's one top. The pictures show the same tops before and after moving them.",
+    "after": "<b>Mr Aliyu:</b> Here are Aishatu's two bottle tops and Adamu's one bottle top. The pictures show the same bottle tops before and after moving them.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/1/text",
+    "before": "Before: two tops",
+    "after": "Before: two bottle tops",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/2/text",
+    "before": "and one top",
+    "after": "and one bottle top",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/5/text",
+    "before": "I move all the tops into one row. None is added or lost.",
+    "after": "I move all the bottle tops into one row. None is added or lost.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/7/text",
+    "before": "I touch each top once: one, two, three. The last count tells how many altogether. Two and one make three tops.",
+    "after": "I touch each bottle top once: one, two, three. The last count tells how many altogether. Two and one make three bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/1/elements/9/text",
+    "before": "Use large safe counters or paper circles. Work seated at a reachable table.",
+    "after": "Use large safe bottle tops, smooth stones or paper circles. Work seated at a reachable table.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/2/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> We have joined the tops. Now we can write that story.",
+    "after": "<b>Mr Aliyu:</b> We have joined the bottle tops. Now we can write that story.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 3,
+      "slug": "c8-signs",
+      "task_ids": [
+        "P1-08-SIGNS-MODEL",
+        "P1-08-SIGNS-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 79
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/3/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Keep our three stall tops aside. Use separate practice counters now. Join one, one and two counters. Count all four. We write <b>1 + 1 + 2 = 4</b>.",
+    "after": "<b>Mr Aliyu:</b> Keep our three story bottle tops aside. Use separate practice counters now. Join one, one and two counters. Count all four. We write <b>1 + 1 + 2 = 4</b>.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 4,
+      "slug": "c8-three",
+      "task_ids": [
+        "P1-08-THREE-MODEL",
+        "P1-08-THREE-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 80
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/3/elements/9/text",
+    "before": "<b>John:</b> I counted the middle set twice. I will move each top to the row only once.<br/><b>Try together.</b> Join one, one and one counter. Count all and say the number sentence.",
+    "after": "<b>John:</b> I counted the middle set twice. I will move each bottle top to the row only once.<br/><b>Try together.</b> Join one, one and one counter. Count all and say the number sentence.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 4,
+      "slug": "c8-three",
+      "task_ids": [
+        "P1-08-THREE-MODEL",
+        "P1-08-THREE-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 80
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/4/elements/0/text",
+    "before": "<b>Mr Aliyu:</b> Watch me draw one dot for each top. First I draw one dot, then one more. I count both dots. I write the total.",
+    "after": "<b>Mr Aliyu:</b> Watch me draw one dot for each bottle top. First I draw one dot, then one more. I count both dots. I write the total.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c8-draw",
+      "task_ids": [
+        "P1-08-DRAW-MODEL",
+        "P1-08-DRAW-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 81
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/7/title",
+    "before": "The stall can open",
+    "after": "Our tray is ready",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c8-finish",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-FRESH-TWO",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-EQUALS"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 84
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/7/elements/0/text",
+    "before": "<b>Your turn:</b> Put the original two stall tops and one top on a reachable table. Move them into one tray. Touch each once and say the total. Then read the ending.<br/><b>Grace:</b> I keep them in a neat row.<br/><b>John:</b> Three tops altogether!<br/><b>Aishatu:</b> Waiting helped us check.<br/><b>Adamu:</b> All four friends can take turns with our three tops.",
+    "after": "<b>Your turn:</b> Put the original two story bottle tops and one bottle top on a reachable table. Move them into one tray. Touch each once and say the total. Then read the ending.<br/><b>Grace:</b> I keep them in a neat row.<br/><b>John:</b> Three bottle tops altogether!<br/><b>Aishatu:</b> Waiting helped us check.<br/><b>Adamu:</b> All four friends can take turns with our three bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c8-finish",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-FRESH-TWO",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-EQUALS"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 84
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/7/elements/2/text",
+    "before": "The same two tops and one top from the start are here. None is lost. <b>2 + 1 = 3</b>. The stall opens.",
+    "after": "The same two bottle tops and one bottle top from the start are here. None is lost. <b>2 + 1 = 3</b>. Our counting tray is ready.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 8,
+      "slug": "c8-finish",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-FRESH-TWO",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-EQUALS"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 84
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/8/elements/1/text",
+    "before": "<b>TB2:</b> JOIN-MODEL 2+1=3; the same three tops move. JOIN-GUIDED 1+1=2.<br/><b>TB3:</b> SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED 1+2=3.<br/><b>TB4:</b> THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.<br/><b>TB5 / WB1:</b> DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1 then 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.",
+    "after": "<b>TB2:</b> JOIN-MODEL 2+1=3; the same three bottle tops move. JOIN-GUIDED 1+1=2.<br/><b>TB3:</b> SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED 1+2=3.<br/><b>TB4:</b> THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.<br/><b>TB5 / WB1:</b> DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1 then 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 9,
+      "slug": "c8-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 307
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/8/elements/3/text",
+    "before": "<b>TB8 / WB5-6:</b> STORY 2+1=3 tops; all four take turns (not a top each). FRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4 or 5 respectively. Accept speech plus matching objects instead of fluent writing.<br/><b>DELAYED, TB10:</b> 2+2=4; 1+1+2=4; 4=2+2 is true.",
+    "after": "<b>TB8 / WB5-6:</b> STORY 2+1=3 bottle tops; all four take turns (not a bottle top each). FRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4 or 5 respectively. Accept speech plus matching objects instead of fluent writing.<br/><b>DELAYED, TB10:</b> 2+2=4; 1+1+2=4; 4=2+2 is true.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 9,
+      "slug": "c8-answers",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 307
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/textbook_pages/9/elements/1/text",
+    "before": "Read directions aloud. Use large safe counters or paper circles. Keep all materials reachable for seated participation. Allow touch, pointing, speech and drawing. Model the move into one row; do not introduce counting-on, carrying or totals through eighteen here.",
+    "after": "Read directions aloud. Use large safe bottle tops, smooth stones or paper circles. Keep all materials reachable for seated participation. Allow touch, pointing, speech and drawing. Model the move into one row; do not introduce counting-on, carrying or totals through eighteen here.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "source_page": 10,
+      "slug": "c8-guidance",
+      "task_ids": [
+        "P1-08-DELAYED"
+      ],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 308
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/workbook_pages/1/elements/0/text",
+    "before": "Try on your own. Use the tops or counters. Write each missing total.",
+    "after": "Try on your own. Use the bottle tops or counters. Write each missing total.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "source_page": 2,
+      "slug": "c8-wb-join",
+      "task_ids": [
+        "P1-08-Q1",
+        "P1-08-Q2",
+        "P1-08-Q3"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/workbook_pages/4/title",
+    "before": "Check the stall tray",
+    "after": "Check our counting tray",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "source_page": 5,
+      "slug": "c8-wb-story",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/workbook_pages/4/elements/0/text",
+    "before": "These are the same two tops and one top from the start of the story. Count all the tops.",
+    "after": "These are the same two bottle tops and one bottle top from the start of the story. Count all the bottle tops.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "source_page": 5,
+      "slug": "c8-wb-story",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "chapter": "P1-08",
+    "path": "/7/paired_edition/workbook_pages/4/elements/3/text",
+    "before": "Tell an adult how all four friends can enjoy three tops fairly.",
+    "after": "Tell an adult how all four friends can enjoy three bottle tops fairly.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+      "source_page": 5,
+      "slug": "c8-wb-story",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/0/title",
+    "before": "A path for the toy garden",
+    "after": "Oranges for a market tray",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c9-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 85
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>John:</b> Our toy-garden path has eight paper counters. Aishatu brings five more. Let me find the total before anyone tells me!<br/><b>Aishatu:</b> The path will lead to my box-toy school.<br/><b>Grace:</b> I will lay the counters neatly.<br/><b>Adamu:</b> We can take turns moving them.<br/><b>Mrs Binta:</b> Keep them on a reachable table. We can count on instead of starting again at one.",
+    "after": "<b>John:</b> Our market tray has eight oranges. Aishatu brings five more. Let me find the total before anyone tells me!<br/><b>Aishatu:</b> I saw oranges at a stall in Gombe town.<br/><b>Grace:</b> I will keep our orange counters neat.<br/><b>Adamu:</b> We can take turns moving them.<br/><b>Mrs Binta:</b> Use paper circles for oranges at a reachable table. We can count on.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c9-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 85
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/1/elements/0/text",
+    "before": "<b>Mrs Binta:</b> Keep our garden-path counters aside. Use separate practice counters. You already know how to join sets and count all. Four counters and two counters make six.",
+    "after": "<b>Mrs Binta:</b> Keep our orange counters aside. Use separate practice counters. You already know how to join sets and count all. Four counters and two counters make six.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 2,
+      "slug": "c9-small",
+      "task_ids": [
+        "P1-09-COUNT-MODEL",
+        "P1-09-COUNT-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 86
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/4/elements/0/text",
+    "before": "<b>Mrs Binta:</b> Our story has eight path counters and five more. Here is a model of that joining. Keep eight in your head. Touch the five added counters one at a time.",
+    "after": "<b>Mrs Binta:</b> Our story has eight orange counters and five more. Here is a model of that joining. Keep eight in your head. Touch the five added counters one at a time.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 5,
+      "slug": "c9-cross",
+      "task_ids": [
+        "P1-09-CROSS-MODEL",
+        "P1-09-CROSS-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 89
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/10/title",
+    "before": "Build the garden path",
+    "after": "Fill the market tray",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 95
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/10/elements/0/text",
+    "before": "<b>Your turn.</b> Bring back the original eight paper path counters and Aishatu's five more. Keep eight. Move the five into the path, one at a time, counting on. Check by counting all. Work on a reachable table before reading the ending.",
+    "after": "<b>Your turn.</b> Bring back the original eight paper orange counters and Aishatu's five more. Keep eight. Move the five into the tray, one at a time, counting on. Check by counting all. Work on a reachable table before reading the ending.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 95
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/10/elements/5/text",
+    "before": "The same counters, now joined in one path.",
+    "after": "One counter stands for one orange. Lines show our arrangement.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 95
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/10/elements/6/text",
+    "before": "<b>John:</b> Thirteen counters for our puzzle path! I checked it myself.<br/><b>Grace:</b> They are all here in a neat path.<br/><b>Aishatu:</b> My box-toy school has its garden path.<br/><b>Adamu:</b> We each helped. We can take turns playing.",
+    "after": "<b>John:</b> Thirteen oranges in our model tray! I checked it myself.<br/><b>Grace:</b> Each counter stands for one orange.<br/><b>Aishatu:</b> Our model market tray has thirteen oranges.<br/><b>Adamu:</b> We each helped. We can take turns checking.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 95
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/textbook_pages/10/elements/7/text",
+    "before": "The original eight and five are all present. No counter was added or lost. <b>8 + 5 = 13</b>. Say how you checked. Use \"The garden-path check\" in the workbook if you want to record it.",
+    "after": "The original eight and five are all present. No counter was added or lost. <b>8 + 5 = 13</b>. Say how you checked. Use \"The market-tray check\" in the workbook if you want to record it.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 95
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/workbook_pages/6/title",
+    "before": "The garden-path check",
+    "after": "The market-tray check",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "source_page": 7,
+      "slug": "c9-wb-story",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/workbook_pages/6/elements/0/text",
+    "before": "Use the original eight path counters and five more. Count on as you move the five. Check by counting all.",
+    "after": "Use the original eight orange counters and five more. Count on as you move the five. Check by counting all.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "source_page": 7,
+      "slug": "c9-wb-story",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/workbook_pages/6/elements/5/text",
+    "before": "The same counters, now joined in one path.",
+    "after": "One counter stands for one orange. Lines show our arrangement.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "source_page": 7,
+      "slug": "c9-wb-story",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "chapter": "P1-09",
+    "path": "/8/paired_edition/workbook_pages/6/elements/7/text",
+    "before": "Tell an adult how you know no path counter was lost or added. All the original counters must be present.",
+    "after": "Tell an adult how you know no orange counter was lost or added. All the original counters must be present.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-09",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+      "source_page": 7,
+      "slug": "c9-wb-story",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "chapter": "P1-10",
+    "path": "/9/paired_edition/textbook_pages/0/title",
+    "before": "Pencils for the box-toy school",
+    "after": "Pencils for our classroom",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-10",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c10-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 97
+      }
+    ]
+  },
+  {
+    "chapter": "P1-10",
+    "path": "/9/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Our class has 22 pencils. Adamu brings 11 more for Aishatu's box-toy school. How many pencils are there now?<br/><b>Aishatu:</b> I want to pack them now!<br/><b>Grace:</b> Let us check the total first.<br/><b>John:</b> Let me try the number puzzle.<br/><b>Adamu:</b> Everyone can take a turn at our reachable table.",
+    "after": "<b>Mr Aliyu:</b> Our class has 22 pencils. Adamu brings 11 more for our classroom box. How many pencils are there now?<br/><b>Aishatu:</b> I want to pack them now!<br/><b>Grace:</b> Let us check the total first.<br/><b>John:</b> Let me try the number puzzle.<br/><b>Adamu:</b> Everyone can take a turn at our reachable table.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-10",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c10-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 97
+      }
+    ]
+  },
+  {
+    "chapter": "P1-10",
+    "path": "/9/paired_edition/textbook_pages/10/elements/10/text",
+    "before": "<b>John:</b> Two ones and one one make three ones. Two tens and one ten make three tens. We have 33 pencils.<br/><b>Grace:</b> We checked every pencil once.<br/><b>Adamu:</b> Everyone had a turn.<br/><b>Aishatu:</b> Now we can pack all 33 for our box-toy school. Waiting for the check helped!",
+    "after": "<b>John:</b> Two ones and one one make three ones. Two tens and one ten make three tens. We have 33 pencils.<br/><b>Grace:</b> We checked every pencil once.<br/><b>Adamu:</b> Everyone had a turn.<br/><b>Aishatu:</b> Now we can pack all 33 in our classroom box. Waiting for the check helped!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-10",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c10-ending",
+      "task_ids": [
+        "P1-10-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 107
+      }
+    ]
+  },
+  {
+    "chapter": "P1-11",
+    "path": "/10/paired_edition/textbook_pages/0/title",
+    "before": "Chalk for the toy school",
+    "after": "Chalk for our classroom",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c11-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "chapter": "P1-11",
+    "path": "/10/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> We have 12 chalk pieces for Aishatu's box-toy school. We will take 3 aside for the small board. How many stay on our mat?<br/><b>Aishatu:</b> I want to start now!<br/><b>Grace:</b> Keep the groups tidy so we can check.<br/><b>John:</b> Let me solve it before you tell me.<br/><b>Adamu:</b> Everyone can reach the mat and have a turn.",
+    "after": "<b>Mrs Binta:</b> We have 12 chalk pieces in our classroom box. We will take 3 aside for the class board. How many stay on our mat?<br/><b>Aishatu:</b> I want to start now!<br/><b>Grace:</b> Keep the groups tidy so we can check.<br/><b>John:</b> Let me solve it before you tell me.<br/><b>Adamu:</b> Everyone can reach the mat and have a turn.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c11-story",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "chapter": "P1-11",
+    "path": "/10/paired_edition/textbook_pages/10/elements/0/text",
+    "before": "Return to the 12 chalk pieces from our story. The practice counters were separate. Each dot below stands for one story chalk piece. Three pieces stay on the small-board tray; the others stay on our mat.",
+    "after": "Return to the 12 chalk pieces from our story. The practice counters were separate. Each dot below stands for one story chalk piece. Three pieces stay on the board tray; the others stay on our mat.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c11-ending",
+      "task_ids": [
+        "P1-11-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "chapter": "P1-11",
+    "path": "/10/paired_edition/textbook_pages/10/elements/5/text",
+    "before": "<b>Grace:</b> Nine pieces remain on the mat.<br/><b>John:</b> 9 + 3 = 12. We have found every piece.<br/><b>Adamu:</b> We all had a fair turn checking.<br/><b>Aishatu:</b> Waiting helped! Now our toy school has 3 pieces for the small board and 9 on the mat.",
+    "after": "<b>Grace:</b> Nine pieces remain on the mat.<br/><b>John:</b> 9 + 3 = 12. We have found every piece.<br/><b>Adamu:</b> We all had a fair turn checking.<br/><b>Aishatu:</b> Waiting helped! Now we have 3 pieces for the class board and 9 to put back in the box.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "source_page": 11,
+      "slug": "c11-ending",
+      "task_ids": [
+        "P1-11-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/0/title",
+    "before": "The hidden toy pieces",
+    "after": "The hidden bottle tops",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c12-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Aishatu needs 7 tops for her box-toy school. There are 3 on the mat. The rest are inside a bag we cannot see through. How many are hidden?<br/><b>Aishatu:</b> I want to open it! I will wait while we work it out.<br/><b>John:</b> Let me solve the secret before you tell me.<br/><b>Grace:</b> I will keep the groups tidy.<br/><b>Adamu:</b> Everyone gets a turn. Put the bag where we can all reach it.",
+    "after": "<b>Mr Aliyu:</b> Aishatu needs 7 bottle tops for our classroom game. There are 3 on the mat. The rest are inside a bag we cannot see through. How many are hidden?<br/><b>Aishatu:</b> I want to open it! I will wait while we work it out.<br/><b>John:</b> Let me solve the secret before you tell me.<br/><b>Grace:</b> I will keep the groups tidy.<br/><b>Adamu:</b> Everyone gets a turn. Put the bag where we can all reach it.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c12-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/22/elements/1/text",
+    "before": "<b>John:</b> The whole was 7. I can keep 3 on the mat and count on four more: 4, 5, 6, 7.<br/><b>Aishatu:</b> I waited. Now I can open the bag!<br/><b>Mr Aliyu:</b> There are 4 tops inside. Replace the blank: <b>3 + 4 = 7</b>. Both sides make 7.",
+    "after": "<b>John:</b> The whole was 7. I can keep 3 on the mat and count on four more: 4, 5, 6, 7.<br/><b>Aishatu:</b> I waited. Now I can open the bag!<br/><b>Mr Aliyu:</b> There are 4 bottle tops inside. Replace the blank: <b>3 + 4 = 7</b>. Both sides make 7.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 23,
+      "slug": "c12-34",
+      "task_ids": [
+        "P1-12-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 143
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/22/elements/6/text",
+    "before": "Grace checks each top once. Adamu gives everyone a turn. All 7 tops go to the toy school. No tops are added or lost. The friends can start their game.",
+    "after": "Grace checks each bottle top once. Adamu gives everyone a turn. All 7 bottle tops go to our game tray. No bottle tops are added or lost. The friends can start their game.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 23,
+      "slug": "c12-34",
+      "task_ids": [
+        "P1-12-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 143
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/26/elements/3/text",
+    "before": "Keep counters large and reachable. Accept speech, pointing, moving objects or drawing as evidence before writing. Never tell John an answer before his turn. Rotate the helper and speaker. Count hidden story tops only after opening; the artwork does not encode their number.",
+    "after": "Keep counters large and reachable. Accept speech, pointing, moving objects or drawing as evidence before writing. Never tell John an answer before his turn. Rotate the helper and speaker. Count hidden story bottle tops only after opening; the artwork does not encode their number.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 27,
+      "slug": "c12-41",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 319
+      }
+    ]
+  },
+  {
+    "chapter": "P1-12",
+    "path": "/11/paired_edition/textbook_pages/27/elements/3/text",
+    "before": "<b>Story preparation:</b> place exactly 4 tops in an opaque bag and 3 on the mat before the opening. Tell the whole 7 without displaying the hidden set. Do not reveal the 4 until the story ending. All independent tasks use separate sets; they do not alter the story stock.",
+    "after": "<b>Story preparation:</b> place exactly 4 bottle tops in an opaque bag and 3 on the mat before the opening. Tell the whole 7 without displaying the hidden set. Do not reveal the 4 until the story ending. All independent tasks use separate sets; they do not alter the story stock.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "source_page": 28,
+      "slug": "c12-42",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 320
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/0/title",
+    "before": "Our pretend shop",
+    "after": "Our pretend neighbourhood stall",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c13-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 147
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Our box-toy shop has one pretend map ticket. It costs 6k. We have a 10k payment. How much must the shop give back?<br/><b>Aishatu:</b> I built the shop. I will wait for a fair turn.<br/><b>Adamu:</b> Everyone can join our shop story.<br/><b>Grace:</b> I will keep the value cards neat.<br/><b>John:</b> Put them within reach. Let me solve the change puzzle.",
+    "after": "<b>Mrs Binta:</b> Our pretend neighbourhood stall has one pencil. It costs 6k. We have a 10k payment. How much must the shop give back?<br/><b>Aishatu:</b> I made a box for the stall. I will wait for a fair turn.<br/><b>Adamu:</b> Everyone can join our shop story.<br/><b>Grace:</b> I will keep the value cards neat.<br/><b>John:</b> Put them within reach. Let me solve the change puzzle.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 1,
+      "slug": "c13-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 147
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/5/elements/0/text",
+    "before": "<b>Mrs Binta:</b> Cost means the amount asked for. Payment is the amount given. Change is the amount given back. Our ticket costs 6k. Pay 10k. Count from the cost up to the payment: <b>7, 8, 9, 10</b>. Four counts: change is <b>4k</b>.",
+    "after": "<b>Mrs Binta:</b> Cost means the amount asked for. Payment is the amount given. Change is the amount given back. Our pencil costs 6k. Pay 10k. Count from the cost up to the payment: <b>7, 8, 9, 10</b>. Four counts: change is <b>4k</b>.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 6,
+      "slug": "c13-textbook-6",
+      "task_ids": [
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 152
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/14/title",
+    "before": "The ticket is ready",
+    "after": "The pencil is ready",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 15,
+      "slug": "c13-textbook-12",
+      "task_ids": [
+        "P1-13-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 161
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/14/elements/0/text",
+    "before": "<b>John:</b> The ticket costs 6k. I pay 10k. I worked out 4k change.<br/><b>Grace:</b> I give back 4k and keep 6k for the shop.<br/><b>Adamu:</b> Cost and change make the payment: 6k + 4k = 10k. Everyone had a fair turn.<br/><b>Aishatu:</b> There was one map ticket. Now John has it and the shop has none. Waiting helped our shop work!",
+    "after": "<b>John:</b> The pencil costs 6k. I pay 10k. I worked out 4k change.<br/><b>Grace:</b> I give back 4k and keep 6k for the shop.<br/><b>Adamu:</b> Cost and change make the payment: 6k + 4k = 10k. Everyone had a fair turn.<br/><b>Aishatu:</b> There was one pencil. Now John has it and the shop has none. Waiting helped our shop work!",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 15,
+      "slug": "c13-textbook-12",
+      "task_ids": [
+        "P1-13-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 161
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/20/elements/2/text",
+    "before": "<b>P1-13-CHANGE-MODEL / model</b><br/>Pay 10k for a 6k ticket. Find the change.<br/><b>Answer/criteria:</b> 4k; cost plus change equals payment.",
+    "after": "<b>P1-13-CHANGE-MODEL / model</b><br/>Pay 10k for a 6k pencil. Find the change.<br/><b>Answer/criteria:</b> 4k; cost plus change equals payment.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 21,
+      "slug": "c13-textbook-21",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-13-TOTAL-MODEL",
+        "P1-13-TOTAL-GUIDED",
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED",
+        "P1-13-RECALL"
+      ],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 337
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/textbook_pages/22/elements/3/text",
+    "before": "<b>P1-13-STORY / closure</b><br/>Resolve the map-ticket purchase: pay 10k, cost 6k.<br/><b>Answer/criteria:</b> One ticket moves from shop to John; 4k change returned; 6k retained.",
+    "after": "<b>P1-13-STORY / closure</b><br/>Resolve the pencil purchase: pay 10k, cost 6k.<br/><b>Answer/criteria:</b> One pencil moves from shop to John; 4k change returned; 6k retained.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "source_page": 23,
+      "slug": "c13-textbook-23",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-13-TOTAL-RECHECK",
+        "P1-13-CHANGE-HELP",
+        "P1-13-CHANGE-RECHECK",
+        "P1-13-STORY",
+        "P1-13-REAL-INDEPENDENT"
+      ],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 339
+      }
+    ]
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/author_content/tasks/7/prompt",
+    "before": "Pay 10k for a 6k ticket. Find the change.",
+    "after": "Pay 10k for a 6k pencil. Find the change.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/author_content/tasks/18/prompt",
+    "before": "Resolve the map-ticket purchase: pay 10k, cost 6k.",
+    "after": "Resolve the pencil purchase: pay 10k, cost 6k.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-13",
+    "path": "/12/paired_edition/author_content/tasks/18/answer",
+    "before": "One ticket moves from shop to John; 4k change returned; 6k retained.",
+    "after": "One pencil moves from shop to John; 4k change returned; 6k retained.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/textbook_pages/0/title",
+    "before": "A strip for our school",
+    "after": "A strip for our name label",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "source_page": 1,
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 163
+      }
+    ]
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Our box-toy school needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I built the school. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+    "after": "<b>Mr Aliyu:</b> Our class parcel needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I packed the parcel. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "source_page": 1,
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 163
+      }
+    ]
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/textbook_pages/10/elements/0/text",
+    "before": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our box-toy school has its name!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+    "after": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our parcel has its name label!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "source_page": 11,
+      "slug": "length-our-label-is-covered",
+      "task_ids": [
+        "P1-14-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 173
+      }
+    ]
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/workbook_pages/0/title",
+    "before": "A strip for our school",
+    "after": "A strip for our name label",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "source_page": 1,
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/workbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Our box-toy school needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I built the school. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+    "after": "<b>Mr Aliyu:</b> Our class parcel needs a strip to cover its name label. Which strip will reach?<br/><b>Aishatu:</b> I packed the parcel. I will wait while we compare.<br/><b>Adamu:</b> Give everyone a fair turn with the strips.<br/><b>Grace:</b> I will line up the ends neatly.<br/><b>John:</b> Put the puzzle within reach. Let me try before you tell me.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "source_page": 1,
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "chapter": "P1-14",
+    "path": "/13/paired_edition/workbook_pages/8/elements/0/text",
+    "before": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our box-toy school has its name!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+    "after": "<b>John:</b> Our label is 4 of this paper-strip unit long. A is 3; B is 5. I choose B. Let me check the fit.<br/><b>Grace:</b> The starts meet. B reaches beyond the label.<br/><b>Aishatu:</b> Now our parcel has its name label!<br/><b>Adamu:</b> Everyone helped. We each had a fair turn.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-14",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+      "source_page": 9,
+      "slug": "length-our-label-is-covered",
+      "task_ids": [
+        "P1-14-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 113
+      }
+    ]
+  },
+  {
+    "chapter": "P1-15",
+    "path": "/14/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Our toy-school display needs a story strip. The cards are mixed up!<br/><b>Aishatu:</b> I made the box toy. I can wait while we sort its story.<br/><b>Adamu:</b> Give everyone a fair turn.<br/><b>Grace:</b> Let us keep the cards neat.<br/><b>John:</b> Put them within reach. Let me solve the order first.",
+    "after": "<b>Mrs Binta:</b> Our class display needs a home-and-school story strip. The cards are mixed up!<br/><b>Aishatu:</b> I brought the cards. I can wait while we sort the story.<br/><b>Adamu:</b> Give everyone a fair turn.<br/><b>Grace:</b> Let us keep the cards neat.<br/><b>John:</b> Put them within reach. Let me solve the order first.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "source_page": 1,
+      "slug": "time-a-mixed-up-story-strip",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 175
+      }
+    ]
+  },
+  {
+    "chapter": "P1-15",
+    "path": "/14/paired_edition/textbook_pages/2/elements/0/text",
+    "before": "<b>Mrs Binta:</b> I draw a toy-school story. Watch the finished pictures. First I draw a wall. Next I add a roof. Last I add a door. I keep each earlier part.",
+    "after": "<b>Mrs Binta:</b> I draw a house-building story. Watch the finished pictures. First I draw a wall. Next I add a roof. Last I add a door. I keep each earlier part.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "source_page": 3,
+      "slug": "time-watch-completed-drawing-cards",
+      "task_ids": [
+        "P1-15-DRAW-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 177
+      }
+    ]
+  },
+  {
+    "chapter": "P1-15",
+    "path": "/14/paired_edition/textbook_pages/10/elements/0/text",
+    "before": "<b>Aishatu:</b> First wall, next roof, last door! Our pictures now tell how the toy school grew.<br/><b>Grace:</b> I checked the story, not the loose card positions.<br/><b>John:</b> The puzzle is solved.<br/><b>Adamu:</b> We all had a fair turn.",
+    "after": "<b>Aishatu:</b> First wall, next roof, last door! Our pictures now tell how the house was built.<br/><b>Grace:</b> I checked the story, not the loose card positions.<br/><b>John:</b> The puzzle is solved.<br/><b>Adamu:</b> We all had a fair turn.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "source_page": 11,
+      "slug": "time-the-display-tells-a-story",
+      "task_ids": [
+        "P1-15-CLOSURE"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 185
+      }
+    ]
+  },
+  {
+    "chapter": "P1-15",
+    "path": "/14/paired_edition/textbook_pages/14/elements/2/text",
+    "before": "<b>P1-15-CLOSURE / story</b><br/>Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "after": "<b>P1-15-CLOSURE / story</b><br/>Aishatu's house picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "source_page": 15,
+      "slug": "time-answer-map-3",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-HELP",
+        "P1-15-RECHECK",
+        "P1-15-CLOSURE"
+      ],
+      "adult": true,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 355
+      }
+    ]
+  },
+  {
+    "chapter": "P1-15",
+    "path": "/14/paired_edition/author_content/tasks/8/answer",
+    "before": "Aishatu's toy-school picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "after": "Aishatu's house picture sequence is wall, roof, door. Put the story strip with it: make toy at home in the afternoon, then share at school next morning. Opening problem resolved by an ordered exhibit; Adamu gives fair reachable turns; all four contribute.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  },
+  {
+    "chapter": "P1-16",
+    "path": "/15/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> We have two light parcels for our box-toy school. Which is lighter? We must test.<br/><b>Aishatu:</b> I made the school. I can wait for the balance.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>Grace:</b> I will keep our results neat.<br/><b>John:</b> Put the balance within reach. Let me try first.",
+    "after": "<b>Mr Aliyu:</b> We have two small safe parcels for our classroom. Which is lighter? We must test.<br/><b>Aishatu:</b> I packed the parcels. I can wait for the balance.<br/><b>Adamu:</b> Let us take fair turns.<br/><b>Grace:</b> I will keep our results neat.<br/><b>John:</b> Put the balance within reach. Let me try first.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-16",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "source_page": 1,
+      "slug": "heavy-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 187
+      }
+    ]
+  },
+  {
+    "chapter": "P1-17",
+    "path": "/16/paired_edition/textbook_pages/0/title",
+    "before": "A store for our toy school",
+    "after": "Sort our classroom objects",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "source_page": 1,
+      "slug": "solids-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 199
+      }
+    ]
+  },
+  {
+    "chapter": "P1-17",
+    "path": "/16/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Our toy-school store needs groups of shapes. Which objects can stand? Which can roll?<br/><b>Aishatu:</b> I will build it. I can wait for a turn.<br/><b>Grace:</b> I will make neat groups.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Put the tray within reach. Let me solve the puzzle.",
+    "after": "<b>Mrs Binta:</b> Our classroom shelf needs groups of solid objects. Which objects can stand? Which can roll?<br/><b>Aishatu:</b> I brought a box for the shelf. I can wait for a turn.<br/><b>Grace:</b> I will make neat groups.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Put the tray within reach. Let me solve the puzzle.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "source_page": 1,
+      "slug": "solids-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 199
+      }
+    ]
+  },
+  {
+    "chapter": "P1-17",
+    "path": "/16/paired_edition/textbook_pages/2/elements/10/text",
+    "before": "A cube is a special cuboid. We use the more exact name cube in our four groups. A large cube block, long box, closed straight-sided container and ball are everyday models. Real objects only approximate perfect solids.",
+    "after": "A cube is a special cuboid. We use the more exact name cube in our four groups. A large cube block, long box, safe closed straight-sided tin and football are everyday models. Real objects only approximate perfect solids.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "source_page": 3,
+      "slug": "solids-textbook-3",
+      "task_ids": [
+        "P1-17-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 201
+      }
+    ]
+  },
+  {
+    "chapter": "P1-17",
+    "path": "/16/paired_edition/textbook_pages/3/elements/0/text",
+    "before": "An adult chooses large, clean, safe models: a cube block, a clear non-cube box, a closed straight-sided container and a ball. No sharp tins or small choking hazards. Use a level, reachable table. Keep gentle movements under control.",
+    "after": "An adult chooses large, clean, safe models: a cube block, a clear non-cube box, a safe closed straight-sided tin and a football. No sharp tins or small choking hazards. Use a level, reachable table. Keep gentle movements under control.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "source_page": 4,
+      "slug": "solids-textbook-4",
+      "task_ids": [
+        "P1-17-HANDLING"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 202
+      }
+    ]
+  },
+  {
+    "chapter": "P1-17",
+    "path": "/16/paired_edition/textbook_pages/11/elements/0/text",
+    "before": "Everyone returns to the toy-school store. Grace now checks flat ends, not just rolling. Aishatu waits while Adamu shares the reachable tray. John chooses a flat-faced box for a steady shelf. Mrs Binta checks the safe models with them.",
+    "after": "Everyone returns to the classroom shelf. Grace now checks flat ends, not just rolling. Aishatu waits while Adamu shares the reachable tray. John chooses a flat-faced box for a steady shelf. Mrs Binta checks the safe models with them.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "source_page": 12,
+      "slug": "solids-textbook-12",
+      "task_ids": [
+        "P1-17-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 210
+      }
+    ]
+  },
+  {
+    "chapter": "P1-18",
+    "path": "/17/paired_edition/textbook_pages/0/title",
+    "before": "A border for our toy school",
+    "after": "A border for our class book",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-18",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+      "source_page": 1,
+      "slug": "flat-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 213
+      }
+    ]
+  },
+  {
+    "chapter": "P1-18",
+    "path": "/17/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mr Aliyu:</b> Our toy-school cover needs a shape border. How can we choose the right pieces?<br/><b>Aishatu:</b> I will build the cover. I can wait for a turn.<br/><b>Grace:</b> I will keep its border neat.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Keep the cards within reach. Let me try before telling me.",
+    "after": "<b>Mr Aliyu:</b> Our class exercise-book cover needs a shape border. How can we choose the right pieces?<br/><b>Aishatu:</b> I will make the cover. I can wait for a turn.<br/><b>Grace:</b> I will keep its border neat.<br/><b>Adamu:</b> Everyone gets a fair turn.<br/><b>John:</b> Keep the cards within reach. Let me try before telling me.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-18",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+      "source_page": 1,
+      "slug": "flat-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 213
+      }
+    ]
+  },
+  {
+    "chapter": "P1-18",
+    "path": "/17/paired_edition/textbook_pages/2/elements/8/text",
+    "before": "He points to a square tile FACE, a non-square book COVER and the round OUTLINE of a lid. These are everyday examples of each flat shape. Real objects only approximate perfect shapes; name the face or outline, not the whole solid.",
+    "after": "He points to a square tile FACE, a non-square exercise-book COVER and the round OUTLINE of a lid. A rectangular window or mat can have a similar face. Check its sides and corners. These are everyday examples. Real objects only approximate perfect shapes; name the face or outline, not the whole solid.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-18",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+      "source_page": 3,
+      "slug": "flat-textbook-3",
+      "task_ids": [
+        "P1-18-MODEL"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 215
+      }
+    ]
+  },
+  {
+    "chapter": "P1-19",
+    "path": "/18/paired_edition/textbook_pages/0/elements/2/text",
+    "before": "<b>Mrs Binta:</b> Our toy-school folder needs records we can trust. How will we find things out?<br/><b>Grace:</b> I want clear, neat records.<br/><b>Adamu:</b> Everyone can choose a turn.<br/><b>Aishatu:</b> I can wait while we check.<br/><b>John:</b> Keep the paper within reach. Let me try.",
+    "after": "<b>Mrs Binta:</b> Our class investigation folder needs records we can trust. How will we find things out?<br/><b>Grace:</b> I want clear, neat records.<br/><b>Adamu:</b> Everyone can choose a turn.<br/><b>Aishatu:</b> I can wait while we check.<br/><b>John:</b> Keep the paper within reach. Let me try.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-19",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+      "source_page": 1,
+      "slug": "data-textbook-1",
+      "task_ids": [],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 227
+      }
+    ]
+  },
+  {
+    "chapter": "P1-19",
+    "path": "/18/paired_edition/textbook_pages/10/elements/0/text",
+    "before": "Everyone returns to the toy-school folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+    "after": "Everyone returns to the class investigation folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-19",
+      "role": "textbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+      "source_page": 11,
+      "slug": "data-textbook-11",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "textbook",
+        "page": 237
+      }
+    ]
+  },
+  {
+    "chapter": "P1-19",
+    "path": "/18/paired_edition/workbook_pages/8/elements/0/text",
+    "before": "Everyone returns to the toy-school folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+    "after": "Everyone returns to the class investigation folder. Adamu now asks about birthdays already reached. Grace rules clear rows. Aishatu waits while each reply is checked. John aligns the reachable paper strips. Mrs Binta checks their methods, not who is older or taller.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained.",
+    "page": {
+      "chapter": "P1-19",
+      "role": "workbook",
+      "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf",
+      "source_page": 9,
+      "slug": "data-workbook-9",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "answer_ids": [],
+      "adult": false,
+      "source_changed": true
+    },
+    "annual_pages": [
+      {
+        "role": "workbook",
+        "page": 164
+      }
+    ]
+  },
+  {
+    "chapter": "P1-19",
+    "path": "/18/paired_edition/author_content/tasks/15/prompt",
+    "before": "Explain how the friends made the fictional toy-school folder trustworthy.",
+    "after": "Explain how the friends made the fictional class investigation folder trustworthy.",
+    "reason": "Chapter-specific familiar context; numerical model and response action retained."
+  }
+]

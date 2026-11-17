@@ -1,0 +1,129 @@
+{
+  "reviewer": "/root/local_wording_review",
+  "date": "2026-11-17",
+  "source_freeze_count": 149,
+  "pdf_freeze_count": 38,
+  "register_mutation": "Only20 authorized review objects changed; histories/identities/other records preserved.",
+  "gates": [
+    {
+      "id": "P1-01",
+      "status": "approved",
+      "fingerprint": "ca5eea2ce4fe63ad780b9d49f1aa6125a422be02b8469728f8e0fe44e7fc1ffd",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-02",
+      "status": "approved",
+      "fingerprint": "8fd16a30e2cab606c1204271924f325edcd8d85a6d94530f189e38eaa130bcb0",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-03",
+      "status": "approved",
+      "fingerprint": "c3958cc8daf11e472a819f0860c36d89a1ad51cf6daf922e371c555f51da0522",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-04",
+      "status": "approved",
+      "fingerprint": "5115902678f74646b8b14d0c4411e8b587e2413338ed6974e31e42063221c44c",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-05",
+      "status": "approved",
+      "fingerprint": "387aed48831bcf196a9fdde8879a93ccb66083a8122eab25d371d2e1b5e9dfd9",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-06",
+      "status": "approved",
+      "fingerprint": "68b6e6f733ff4bc60f1b9295a13bd73dd2660a398f5541b8e3c41e4ffd2b918d",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-07",
+      "status": "approved",
+      "fingerprint": "dfc9b736b9a9275922aec87ba03b49e78dc49c52021e918a22321ece13f1b22d",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-08",
+      "status": "approved",
+      "fingerprint": "3afae9377c6f84da454502645ef96dbad98c1c0d99f5a7d2525777c697783f7d",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-09",
+      "status": "approved",
+      "fingerprint": "3c36a448f48f90776fe7b6c0c744d222498fc2a0de8647207e3777f4ad5dc7a7",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-10",
+      "status": "approved",
+      "fingerprint": "65a358f72f35c50ccd956f4c5532f51e5af8f26d41410044db38944ff7dd7425",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-11",
+      "status": "approved",
+      "fingerprint": "b3c202130e29b0b0eb1b31dfca07f34fabd26d0efd35537213e95c0b8f9de805",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-12",
+      "status": "approved",
+      "fingerprint": "12c8113086846330ea34fe05f56ca4aca6f37948dd4a993c83678cb080e60797",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-13",
+      "status": "approved",
+      "fingerprint": "a4b1458476051e93ce5f2b4e4c207e6c640f836ceacd1d226a7d4b3b702a09e5",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-14",
+      "status": "approved",
+      "fingerprint": "c963a5c9a4e11ff554351463fce246d26d63287583b8ae33489e99a064ed78f9",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-15",
+      "status": "approved",
+      "fingerprint": "74e42324e02328b95006e9491bef766e8db23a4dfc40cadc70ac68b867886502",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-16",
+      "status": "approved",
+      "fingerprint": "52ca56e32790172224c4fd43ebd25d5f95b0485b6828286107dbed6db281e211",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-17",
+      "status": "approved",
+      "fingerprint": "0fb9e5a71bb4bcb27bb5bd03d1c273e70ea216a520335b28817d5e664b3eb648",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-18",
+      "status": "approved",
+      "fingerprint": "da899103ce0db0fe314afe068720be77d305d519b3307bd1922cba20fa6b3fc4",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-19",
+      "status": "approved",
+      "fingerprint": "0a4b8263b3514946895eca885c06b4e9b481c28fe5386e55cc537a4a64553d88",
+      "strict_gate": "pass"
+    },
+    {
+      "id": "P1-ANNUAL",
+      "status": "approved",
+      "fingerprint": "d17fa74320ed6e3d5d126a50d65535af4e227d53cf42da8158726bc3b43d7545",
+      "strict_gate": "pass"
+    }
+  ]
+}

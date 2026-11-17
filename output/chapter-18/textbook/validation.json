@@ -1,11 +1,11 @@
 {
   "pages": 27,
-  "sha256": "7a089ad03e4b6071684abdf8e96ec2bf61f3f65af31fd6ca2f1655d1a32d865b",
+  "sha256": "12f6694ec568cd60cf1d15c386ea9d56eed7e83fc82b4148ccbab590ecd65284",
   "page_manifest": [
     {
       "slug": "flat-textbook-1",
       "kicker": "Flat shapes and patterns",
-      "title": "A border for our toy school",
+      "title": "A border for our class book",
       "subtitle": "Read together. Use the workbook or an exercise book.",
       "task_ids": [],
       "stages": [

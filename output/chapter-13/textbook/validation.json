@@ -1,11 +1,11 @@
 {
   "pages": 27,
-  "sha256": "8bf58f93e65d8c68038e7db3d92f3866cf60fafdb298d8da6e0ebb9d5e5e824e",
+  "sha256": "efa063b4eb1f9cc8122f301cbb427e05a9fb873726f8c3ace7006e90853415b9",
   "page_manifest": [
     {
       "slug": "c13-textbook-1",
       "kicker": "Pretend coins and change",
-      "title": "Our pretend shop",
+      "title": "Our pretend neighbourhood stall",
       "subtitle": "Read together. Keep this textbook reusable.",
       "task_ids": [],
       "adult": false,
@@ -168,7 +168,7 @@
     {
       "slug": "c13-textbook-12",
       "kicker": "Pretend coins and change",
-      "title": "The ticket is ready",
+      "title": "The pencil is ready",
       "subtitle": "Read together. Keep this textbook reusable.",
       "task_ids": [
         "P1-13-STORY"

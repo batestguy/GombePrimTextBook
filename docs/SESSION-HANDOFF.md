@@ -1,3 +1,74 @@
+# Primary 1 local wording revision completed - 17 November 2026
+
+User-approved local wording changes are implemented across all nineteen Primary 1
+chapters and both exact annual artifacts: 406-page reusable textbook and 191-page
+write-in workbook. Sources: production/p1.json paired_edition and synchronized
+production/lessons.json; shared opening/annual lesson data and historical renderers
+are unchanged. Current rebuild driver: scripts/build_primary_one_localised.py,
+then scripts/build_primary_one_annual.py. Cover previews remain separate.
+
+Author /root/local_wording_author; independent reviewer /root/local_wording_review.
+Review evidence: output/gombe-wording/REVIEW.md, reviewer* manifests, REPORT.md,
+string-changes.json, changed-page-manifest.json and CHAPTER-CHANGES.md. All 167
+changed prose leaves were audited; all 85 changed source pages inspected; all 85
+annual copies and 508 total annual source bodies independently verified. All 937
+unchanged page comparisons preserve exact text/raster continuity and original
+semantic/visual review attribution. No fresh inspection of unchanged tasks is
+claimed. All 114 historical question/answer pairs and source_tasks, quantities,
+diagram/layout geometry, IDs, prerequisites and response routes are preserved.
+
+All nineteen topic approvals and the annual approval were reopened before edits,
+then independently renewed for exact current source/PDF fingerprints. No blocking
+or required finding remains. Current register: production/chapter-reviews.json.
+Coordinator strict checks: python output/gombe-wording/parent_verify.py
+--require-reviewed. Starting/final preflight and draft register checks passed;
+the coordinator strict validator checks 38 PDFs, original source/P2/P3 preservation,
+annual coverage/navigation and all twenty review gates. The original source/PDF
+freeze is in parent-author-freeze.json, with final evidence in parent-validation.json.
+The approved prior edition is archived under output/gombe-wording/baseline.
+
+Mandatory: docs/CHAPTER-STANDARD.md version 1, docs/CHAPTER-REVIEW.md and
+docs/HANDOFF-TEMPLATE.md. Historical per-chapter snapshot guards/freeze evidence
+were preserved; old annual parent_verify is not the current revision gate.
+Current curriculum/adoption, local teacher/classroom/accessibility trials and
+physical print/printer approvals remain pending. No current alignment, classroom
+performance or press-ready claim. The user authorized committing and pushing
+this revision on 17 November 2026; refer to Git history for its delivery commit.
+No school contact or website publication is authorized or claimed.
+
+Earlier checkpoints below describe their dated historical states.
+
+---
+
+# Gombe wording revision in progress - 17 November 2026
+
+User approved chapter-by-chapter local wording and familiar examples in Primary 1.
+Current work revises canonical paired lessons, reducing repetitive toy-school
+framing while preserving mathematics, source questions, IDs and teaching stages.
+The cover previews are separate and are not being applied to either book.
+
+Starting preflight passed. Before source edits, the coordinator archived current
+sources, all 38 distinct registered PDFs and the approved register under
+`output/gombe-wording/baseline`, with hashes in `before.json` and
+`baseline-source-hashes.json`. All nineteen topic reviews and the annual approval
+were reopened as pending; older completion statements below refer to the archived
+edition. Current revision approval must not be inferred from those statements.
+
+Author and review briefs: [author](../output/gombe-wording/BRIEF.md),
+[independent reviewer](../output/gombe-wording/REVIEW-HANDOFF.md). Native sessions
+determine whether work is running. Coordinator validator:
+`python output/gombe-wording/parent_verify.py --require-reviewed` after review.
+Historical builders and prior annual freeze validators retain their old snapshots;
+they must not be weakened or represented as approving these revisions.
+
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1;
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md); [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+Current curriculum/adoption, local teacher/classroom/accessibility and physical
+print/printer approvals remain pending. No commit, push or publication authorized
+for this wording task.
+
+---
+
 # Annual pair committed and pushed - 16 November 2026
 
 The user authorized committing and pushing the completed annual Primary 1 pair.

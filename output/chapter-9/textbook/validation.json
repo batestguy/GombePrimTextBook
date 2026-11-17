@@ -1,11 +1,11 @@
 {
   "pages": 15,
-  "sha256": "c639ee0679c33c77021e4add4743defc3710777a36bd2be392a783f79853729c",
+  "sha256": "a46cd160071f838d45065d9b78769899905eec536837e364d15ca7d078d78e7e",
   "page_manifest": [
     {
       "slug": "c9-story",
       "kicker": "Chapter nine / Count on to add",
-      "title": "A path for the toy garden",
+      "title": "Oranges for a market tray",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [],
       "adult": false
@@ -116,7 +116,7 @@
     {
       "slug": "c9-finish",
       "kicker": "Chapter nine / Count on to add",
-      "title": "Build the garden path",
+      "title": "Fill the market tray",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [
         "P1-09-STORY"

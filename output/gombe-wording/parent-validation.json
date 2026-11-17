@@ -1,0 +1,255 @@
+{
+  "strict_review_required": true,
+  "original_preserved": true,
+  "original_question_pairs": 114,
+  "chapters": 19,
+  "pdfs": {
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf": {
+      "pages": 15,
+      "sha256": "15114f9dcd7de671b57fe69f316ac88ae3c1230778431de698d604c70316e3c3"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf": {
+      "pages": 7,
+      "sha256": "9dadf2d29449484737af825cae770378009dcd24a6afbe979fe9ad471070ab39"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf": {
+      "pages": 13,
+      "sha256": "b58fcd510720a5411fa282f545a703b5ec3e495796900637e453086dd702d494"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf": {
+      "pages": 6,
+      "sha256": "bd10f3c7735b0f8cbba73e19794914737615b50c6ba168393ea56e91d75f7be3"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf": {
+      "pages": 24,
+      "sha256": "034435aea00ba6af1ab95965e6844a5b916d39d1acb373320be58d98ab96235d"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf": {
+      "pages": 11,
+      "sha256": "ca831c59ef8574814292cf37b4843732494d927297de5a31ba1bf698e3d96bb8"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf": {
+      "pages": 15,
+      "sha256": "a46cd160071f838d45065d9b78769899905eec536837e364d15ca7d078d78e7e"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf": {
+      "pages": 8,
+      "sha256": "bd5b6f4947324513310cfb185687cd871eeef227334c78a712b13e9c63ba9499"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf": {
+      "pages": 13,
+      "sha256": "d6bf3ceb278c8d0394c4ef8ae66c7c65bc83d2a6e143c81543b753cf6304531f"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf": {
+      "pages": 6,
+      "sha256": "9073f0a76733570af23bcb03d8d63339b22f50d7c31c2c1538f9bc69c4978e8c"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf": {
+      "pages": 27,
+      "sha256": "12f6694ec568cd60cf1d15c386ea9d56eed7e83fc82b4148ccbab590ecd65284"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf": {
+      "pages": 11,
+      "sha256": "a4b178d0215e94e8ca3163b542fb360484074e405b0860e5a240bb14cc47e6e0"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf": {
+      "pages": 19,
+      "sha256": "ac95bd9347692c71495b5288bba764610bf4d49761649a833c28fcded6791cd6"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf": {
+      "pages": 12,
+      "sha256": "c30cfce188b4d998ae24d9a284bc970b0050b65070660ba6c256bb1dc24fbc07"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf": {
+      "pages": 21,
+      "sha256": "e2349aeb1655418d42b2e43550110b1c786f1265897fd10c212a55f6562bbfeb"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf": {
+      "pages": 10,
+      "sha256": "cfe6979b5504c60ae49324ed86d4f30c78d812c220e2a812a91bd4df4aa339ba"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf": {
+      "pages": 40,
+      "sha256": "3d5fb4f84fcb3fc189fd911cc3a61ca4e2b71e9cb2d728393fed0e223e107d54"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf": {
+      "pages": 14,
+      "sha256": "af71d7e9f10dcc825f7f34a697aeab8c2de679d860d9f6852ea507d1ee9f994b"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf": {
+      "pages": 21,
+      "sha256": "68fb0780d1fa5581997133f824a5fcef51b784c8b7d1a0f6736a23c019d37d4f"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf": {
+      "pages": 14,
+      "sha256": "1be3a12885c22cf262e315fcde2906c3e2cd9fdb7b4fb743cf6946ec877949e0"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf": {
+      "pages": 22,
+      "sha256": "577c41e7fdaaaae1ff152bbedaeab4dfe0ec220657ab1c461d0561c36685613e"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf": {
+      "pages": 10,
+      "sha256": "e499db4b66edf523382ec531885636f7b1d6ec09c823b7ab33556379e6690fe5"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf": {
+      "pages": 27,
+      "sha256": "efa063b4eb1f9cc8122f301cbb427e05a9fb873726f8c3ace7006e90853415b9"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf": {
+      "pages": 7,
+      "sha256": "304cf4ad03f5d35401ccfcffd7242f0065bbace393c3e32df4ce6462c0ec9bcb"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf": {
+      "pages": 11,
+      "sha256": "ebf68cbbc81e6437e5ac0a4c6a4c216a0c257a09ef4e3e262973ecd528c2b67e"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf": {
+      "pages": 6,
+      "sha256": "620421ac488dde2d4979bdcba51111e0939d07ced12917d7538c1739949c7b7e"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf": {
+      "pages": 11,
+      "sha256": "dab97655b554f2a1bf6dbe58f079bad6fb5145d544f8cf9401735074044ccef2"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf": {
+      "pages": 6,
+      "sha256": "91049349915b434da323db7cbb1faf7daefc51cfc64acb07a202b2ca39115f33"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf": {
+      "pages": 26,
+      "sha256": "2b7f97f7a524a43c084b4b2feed1dc672671c99e0fe94193d520439806114534"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf": {
+      "pages": 10,
+      "sha256": "1ea5e347f1b20bfba20e17bdf8a5ed3a77d4c7861aa9f851dacebb743b24fe37"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf": {
+      "pages": 15,
+      "sha256": "f37ecb96d9d5ce71ee76f00e28658a886a7ff271b58ea67b41291f970a8fbe7c"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf": {
+      "pages": 8,
+      "sha256": "c6b8d89b58b2bb615de436eb38acaaec4024813886707c934c97c29af878d703"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf": {
+      "pages": 406,
+      "sha256": "84e9ed7a556c1bb6f173e45d516d8a2cecdec098609f7ef86a064b62b5909d72"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf": {
+      "pages": 23,
+      "sha256": "797f2c4549250cad84851e781b997cb427640b351ab265e19383c22f004669ba"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf": {
+      "pages": 8,
+      "sha256": "97e7e7ec63ab4120f7900413034f8a60b16f91c13418c48a80e4866c192f3c96"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf": {
+      "pages": 191,
+      "sha256": "86359b1e58a6ef0d80e25a8a707adbc9a0f11dc8ef7a53651a6036d6b98aec24"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf": {
+      "pages": 9,
+      "sha256": "1ffda113de3e71cd4887156b1c0054960ad3b12db2a1b7c262fd007e0b29323f"
+    },
+    "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf": {
+      "pages": 4,
+      "sha256": "69d651006ef83b080cf12f29d454c98de1cdfefe92a99c313bd627ddf8e7b356"
+    }
+  },
+  "changed_sources": [
+    "production/lessons.json",
+    "production/p1.json"
+  ],
+  "added_sources": [
+    "scripts/build_primary_one_localised.py"
+  ],
+  "objectives": 54,
+  "supplements": 21,
+  "annual_pages": {
+    "textbook": 406,
+    "workbook": 191
+  },
+  "gates": {
+    "P1-01": {
+      "status": "approved",
+      "fingerprint": "ca5eea2ce4fe63ad780b9d49f1aa6125a422be02b8469728f8e0fe44e7fc1ffd"
+    },
+    "P1-02": {
+      "status": "approved",
+      "fingerprint": "8fd16a30e2cab606c1204271924f325edcd8d85a6d94530f189e38eaa130bcb0"
+    },
+    "P1-03": {
+      "status": "approved",
+      "fingerprint": "c3958cc8daf11e472a819f0860c36d89a1ad51cf6daf922e371c555f51da0522"
+    },
+    "P1-04": {
+      "status": "approved",
+      "fingerprint": "5115902678f74646b8b14d0c4411e8b587e2413338ed6974e31e42063221c44c"
+    },
+    "P1-05": {
+      "status": "approved",
+      "fingerprint": "387aed48831bcf196a9fdde8879a93ccb66083a8122eab25d371d2e1b5e9dfd9"
+    },
+    "P1-06": {
+      "status": "approved",
+      "fingerprint": "68b6e6f733ff4bc60f1b9295a13bd73dd2660a398f5541b8e3c41e4ffd2b918d"
+    },
+    "P1-07": {
+      "status": "approved",
+      "fingerprint": "dfc9b736b9a9275922aec87ba03b49e78dc49c52021e918a22321ece13f1b22d"
+    },
+    "P1-08": {
+      "status": "approved",
+      "fingerprint": "3afae9377c6f84da454502645ef96dbad98c1c0d99f5a7d2525777c697783f7d"
+    },
+    "P1-09": {
+      "status": "approved",
+      "fingerprint": "3c36a448f48f90776fe7b6c0c744d222498fc2a0de8647207e3777f4ad5dc7a7"
+    },
+    "P1-10": {
+      "status": "approved",
+      "fingerprint": "65a358f72f35c50ccd956f4c5532f51e5af8f26d41410044db38944ff7dd7425"
+    },
+    "P1-11": {
+      "status": "approved",
+      "fingerprint": "b3c202130e29b0b0eb1b31dfca07f34fabd26d0efd35537213e95c0b8f9de805"
+    },
+    "P1-12": {
+      "status": "approved",
+      "fingerprint": "12c8113086846330ea34fe05f56ca4aca6f37948dd4a993c83678cb080e60797"
+    },
+    "P1-13": {
+      "status": "approved",
+      "fingerprint": "a4b1458476051e93ce5f2b4e4c207e6c640f836ceacd1d226a7d4b3b702a09e5"
+    },
+    "P1-14": {
+      "status": "approved",
+      "fingerprint": "c963a5c9a4e11ff554351463fce246d26d63287583b8ae33489e99a064ed78f9"
+    },
+    "P1-15": {
+      "status": "approved",
+      "fingerprint": "74e42324e02328b95006e9491bef766e8db23a4dfc40cadc70ac68b867886502"
+    },
+    "P1-16": {
+      "status": "approved",
+      "fingerprint": "52ca56e32790172224c4fd43ebd25d5f95b0485b6828286107dbed6db281e211"
+    },
+    "P1-17": {
+      "status": "approved",
+      "fingerprint": "0fb9e5a71bb4bcb27bb5bd03d1c273e70ea216a520335b28817d5e664b3eb648"
+    },
+    "P1-18": {
+      "status": "approved",
+      "fingerprint": "da899103ce0db0fe314afe068720be77d305d519b3307bd1922cba20fa6b3fc4"
+    },
+    "P1-19": {
+      "status": "approved",
+      "fingerprint": "0a4b8263b3514946895eca885c06b4e9b481c28fe5386e55cc537a4a64553d88"
+    },
+    "P1-ANNUAL": {
+      "status": "approved",
+      "fingerprint": "d17fa74320ed6e3d5d126a50d65535af4e227d53cf42da8158726bc3b43d7545"
+    }
+  }
+}

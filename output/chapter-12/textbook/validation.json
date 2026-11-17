@@ -1,11 +1,11 @@
 {
   "pages": 40,
-  "sha256": "38fcaed13827582e447223ebcc301c46dc3afa04fd07579da5309b9ccd11e32c",
+  "sha256": "3d5fb4f84fcb3fc189fd911cc3a61ca4e2b71e9cb2d728393fed0e223e107d54",
   "page_manifest": [
     {
       "slug": "c12-1",
       "kicker": "Find a missing part",
-      "title": "The hidden toy pieces",
+      "title": "The hidden bottle tops",
       "subtitle": "Read together. Use a workbook or exercise book.",
       "task_ids": [],
       "adult": false

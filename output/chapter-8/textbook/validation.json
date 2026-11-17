@@ -1,11 +1,11 @@
 {
   "pages": 11,
-  "sha256": "b84824da3e175a5b82db8dfca7cefe6f1fbcb46f8cb1675c8e70c6815d3d12f9",
+  "sha256": "ebf68cbbc81e6437e5ac0a4c6a4c216a0c257a09ef4e3e262973ecd528c2b67e",
   "page_manifest": [
     {
       "slug": "c8-story",
       "kicker": "Chapter eight / Put small sets together",
-      "title": "Tops for the box-toy stall",
+      "title": "Bottle tops in one tray",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [],
       "adult": false
@@ -85,7 +85,7 @@
     {
       "slug": "c8-finish",
       "kicker": "Chapter eight / Put small sets together",
-      "title": "The stall can open",
+      "title": "Our tray is ready",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [
         "P1-08-STORY",

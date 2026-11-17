@@ -19,11 +19,11 @@
   "artifacts": {
     "textbook": {
       "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
-      "sha256": "13f7922c29e99bd0627a598ac869066abf179a17101d682447c1eb3af7169f61"
+      "sha256": "84e9ed7a556c1bb6f173e45d516d8a2cecdec098609f7ef86a064b62b5909d72"
     },
     "workbook": {
       "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
-      "sha256": "ebdf783f01597ba3c2ebce299c71f59a8b5a48425fa3dce25ba7629bb6b529f0"
+      "sha256": "86359b1e58a6ef0d80e25a8a707adbc9a0f11dc8ef7a53651a6036d6b98aec24"
     }
   },
   "source_hashes": {

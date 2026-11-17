@@ -1,0 +1,2052 @@
+[
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "d7876ca1a5688ed7eb43fab1faea26dd1269ca66a0c0fd5720346c8fb658dcd9",
+    "baseline_raster": "a16cb80776051b8c7f2c1ec21b5a557368dff3a671deae6bb8ced23f558264da",
+    "mapping": {
+      "chapter": "P1-10",
+      "role": "textbook",
+      "slug": "c10-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook/001.png",
+    "image_sha256": "77b66deddce4400f68031aa5105f574d8ba514a1af06ebc4c3d2f2d777c04142",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER TEN / ADD TENS AND ONES\nPencils for our classroom\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nJoin the tens.\nJoin the ones.\nMr Aliyu: Our class has 22 pencils. Adamu brings 11 more for our classroom\nbox. How many pencils are there now?\nAishatu: I want to pack them now!\nGrace: Let us check the total first.\nJohn: Let me try the number puzzle.\nAdamu: Everyone can take a turn at our reachable table.\nWe will add tens and ones, with totals up to 40. We will check our\nanswers.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-01.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "fc94287d58da33c1cebd17300b699815430dc08b5b946708d9c96fae6051126a",
+    "baseline_raster": "16761b98ca05dd7c17b90139e09e40370fcb26320bd44b7b92eef7fb7e11aa57",
+    "mapping": {
+      "chapter": "P1-10",
+      "role": "textbook",
+      "slug": "c10-ending",
+      "task_ids": [
+        "P1-10-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook/011.png",
+    "image_sha256": "488ba3ad36e9c9b242d6854499dc5e965fa6153eb60ebd2e2e6bbf54545d76a6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER TEN / ADD TENS AND ONES\nNow the pencils can be packed\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nReturn to the 22 class pencils and the 11 that Adamu brought. These\npictures show that same stock. Each strip stands for one pencil.\nTens\nOnes\nTens\nOnes\nJohn: Two ones and one one make three ones. Two tens and one ten\nmake three tens. We have 33 pencils.\nGrace: We checked every pencil once.\nAdamu: Everyone had a turn.\nAishatu: Now we can pack all 33 in our classroom box. Waiting for the\ncheck helped!\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-01.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "7a1bd9728dbf35c225267f52e3b8aae7c6ca24c1aabe4f43028287a4b8c634e5",
+    "baseline_raster": "946b8044e92b80000da89c1b428fde8708d1ef2fdc87f1f2f7fe81703f7796d6",
+    "mapping": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "slug": "c5-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook/001.png",
+    "image_sha256": "cec8a9f12abe55119ee614dbdeef3d6b41757f4f6c7bcf3351885b88399567b6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FIVE / A BUNDLE OF TEN\nPack our counting strips\nWe will make tens and ones, then count, read and write through twenty.\nRead together. Keep this textbook reusable.\nMake a bundle.\nCount the ones.\nMrs Binta: Our class needs twenty counting strips. John will help pack them.\nHow can we check the number?\nJohn: Let me try before a hint.\nGrace: We can keep the strips neat.\nAdamu: Everyone can help check.\nAishatu: My box can hold our counting pack!\nFirst we will count paper strips and make bundles. Then we can pack exactly\nwhat our class needs.\nUse safe counting sticks or paper strips and loose bands at a reachable table. Our pictures show paper\nstrips.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-01.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+    "page": 10,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "b3f074b4e3edb5e583b879f85f1b6a1130adeccc25d780748decf1686b35d5cf",
+    "baseline_raster": "70f70e3b14abb3eda481feeb367145b876cbad037ddd95c6692345a180902551",
+    "mapping": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "slug": "c5-ending",
+      "task_ids": [
+        "P1-05-ENDING",
+        "P1-05-FRESH-BUILD",
+        "P1-05-FRESH-READ",
+        "P1-05-FRESH-RECOGNISE",
+        "P1-05-FRESH-WRITE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook/010.png",
+    "image_sha256": "88ec38befb5ac2a23b194fc949d3f535322320453e7135917951cdf0b5cc2a83",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FIVE / A BUNDLE OF TEN\nOur counting pack is ready\nBring back all twenty real counting strips. Pack and check them before closing the box.\nRead together. Keep this textbook reusable.\nGrace: I make two neat bundles. We count each one.\nAdamu: Ten ones in each. Everyone has a checking turn.\nJohn: Two tens and no loose ones. That is twenty.\nAishatu: Into the box! Now our class has a counting pack.\n20 two tens and zero ones\nMrs Binta: You packed exactly twenty strips.\nCount ten in each real bundle. Put both in the box.\nClose it only after everyone has checked.\nA fresh try. An adult gives new numbers to build, cards to read and numbers\nto write without copying.\nCover all cards, printed numerals and earlier written answers before writing\nfrom memory.\nWorkbook: A fresh tens-and-ones try, or use fresh exercise-book space.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-01.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+    "page": 12,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "e317667506c40c552e0401ce1608be40e2477c12f5341f734bdf1561bc050b67",
+    "baseline_raster": "af4898b20eb0cd899ec4939c42ed64ab08dbd9f8c10f563372e445a23dd5bb62",
+    "mapping": {
+      "chapter": "P1-05",
+      "role": "textbook",
+      "slug": "c5-answers",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook/012.png",
+    "image_sha256": "a5f011e63cf6708e9655841d56196611b995667b75782de022687877e9e4eebd",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / A BUNDLE OF TEN\nAnswers and fresh checks\nAdult task map / TB = this extract; WB = its paired workbook.\nChapter five / Educational review edition\nSource questions. P1-05-Q1 (TB7/WB2): 12. Q2 (same): 1 ten and 6 ones. Q3 (same):\n10 ones. Q4 (TB8/WB4): 19. Q5 (same): 2 bundles, exactly 10 ones in each; 20 total. Q6\n(same): ten has 10 ones; one has 1 one. An opened real bundle or accurate\npointing/explanation is acceptable.\nAll models/practice. TB2: 10 loose becomes one ten, still 10 after untying. TB3: 14 is\n1 ten and 4 ones; guided 13 is 1 ten and 3 ones. TB4: 11-15 have 1 ten and 1-5 loose\nones respectively. TB5: 16-19 have 1 ten and 6-9 ones respectively; 20 has 2 tens and 0\nones. TB6 cards name eighteen, eleven, twenty, sixteen. WB1: 10 ones; two tens and\nno loose ones make 20. WB3: form 10, 14, 20. Digits must be recognisable and in order.\nRecall/choice/support/ending. TB9/WB5: open/count 10 once each. Any chosen\n11-19 is valid: 1 ten and the remaining 1-9 ones; written numeral, real strips and\nrecorded digits must agree. Support/recheck is described on TB11. TB10 ending uses\nthe original 20 strips: exactly 10 in each of 2 bundles, no loose ones. Actually\npack/check before closure.\nFresh checks (TB10/WB6). Privately ask pupil to build 17 and 20: 1 ten/7 ones and 2\ntens/0 ones; open/recount to check. Shuffle ALL cards 10-20 for independent naming\nwithout supplied names. Test recognition separately by naming 10, 16, 20 in a different\norder. Before dictation cover ALL cards, printed numerals and earlier handwritten\nanswers, including WB6 build records. Dictate nineteen, ten, fourteen, twenty: 19, 10,\n14, 20. Do not show this rubric while testing.\nRepeated tasks on two surfaces are one check. Models are not fresh assessment evidence.\nVariable pupil-built sets require observation. No classroom outcomes are asserted.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-02.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2c41c465f9abeda823d642da8279bdcb417a3941b175ea1deef15bb1ecbee867",
+    "baseline_raster": "9350a402504c16d526a05d3093d5483f2f5a1d7338a9fc51d9d8d7f5cfef5820",
+    "mapping": {
+      "chapter": "P1-19",
+      "role": "textbook",
+      "slug": "data-textbook-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Class-information-Textbook/001.png",
+    "image_sha256": "dceb9363053ca45918456baa32c2a3ad2a4448c746439db982eab934c5c8a6aa",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND OUT ABOUT OUR CLASS\nTrustworthy class records\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nAsk, look and record\nAges and heights\nMrs Binta: Our class investigation folder needs records we can trust. How will\nwe find things out?\nGrace: I want clear, neat records.\nAdamu: Everyone can choose a turn.\nAishatu: I can wait while we check.\nJohn: Keep the paper within reach. Let me try.\nWe will ask about ages, observe heights and record what we find.\nPage 1\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-02.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "fbf3983eaf953d4b13b4a8aad95c59b3f47ea547a43d56446f1439d17fcabc64",
+    "baseline_raster": "84352696f267448e84246078aaf08f4e78baad91a2c7a0f7cbdf7edfa90bf8fb",
+    "mapping": {
+      "chapter": "P1-19",
+      "role": "textbook",
+      "slug": "data-textbook-11",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Class-information-Textbook/011.png",
+    "image_sha256": "31ab2481ce710537418f6bb7e1daa4f4977fe48ba2b961dcedcea5a81a89b406",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND OUT ABOUT OUR CLASS\nOur folder has checked records\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nEveryone returns to the class investigation folder. Adamu now asks about\nbirthdays already reached. Grace rules clear rows. Aishatu waits while\neach reply is checked. John aligns the reachable paper strips. Mrs Binta\nchecks their methods, not who is older or taller.\nPerson letter\nAge in years\nD\n5\nE\n8\nTheir FICTIONAL model records show D is 5 years and E is 8 years. Their\nmodel head strips show D taller than E. Being older and being taller are\ndifferent facts. Neither means being better. Real private replies do not go\non a public display.\nExplain what makes the folder trustworthy. Tell how they got each kind of\ninformation and checked the record. Everyone helped; now each friend\ncan try afresh.\nUse workbook page 9 or your exercise book. The story is fictional, not a report of your own collection\nperformance.\nPage 11\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-02.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "518a5d0f424d60d5fdede2e905e12c3276805038c4e19af48babe1246315e5d4",
+    "baseline_raster": "55f04ac91550f867ce96d8f8f6abc88371a95fe5afad72f91ad7a953e37b67cd",
+    "mapping": {
+      "chapter": "P1-19",
+      "role": "workbook",
+      "slug": "data-workbook-9",
+      "task_ids": [
+        "P1-19-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Class-information-Workbook/009.png",
+    "image_sha256": "b000d991c36f65d11ff2e60cc42864858188ed6e9bf30998f9d0dca1a67c3dcd",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nFIND OUT ABOUT OUR CLASS\nOur folder has checked records\nRead together. Speak, point or write here.\nRead together. Write in this workbook.\nEveryone returns to the class investigation folder. Adamu now asks about\nbirthdays already reached. Grace rules clear rows. Aishatu waits while\neach reply is checked. John aligns the reachable paper strips. Mrs Binta\nchecks their methods, not who is older or taller.\nPerson letter\nAge in years\nD\n5\nE\n8\nTheir FICTIONAL model records show D is 5 years and E is 8 years. Their\nmodel head strips show D taller than E. Being older and being taller are\ndifferent facts. Neither means being better. Real private replies do not go\non a public display.\nExplain what makes the folder trustworthy. Tell how they got each kind of\ninformation and checked the record. Everyone helped; now each friend\ncan try afresh.\nPage 9\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-02.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "f817caa6d8abd867c2cb168fffba524d7ad1d9b294a696ca36b9f176796d9e41",
+    "baseline_raster": "d2c70835223c74293ed6ad3de9eee54001f8e75123e8e9767dd629a9015ef6c3",
+    "mapping": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "slug": "c9-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook/001.png",
+    "image_sha256": "a9ad74e30dca6b51703554e54115aef2cedd46c3cc1bedf660c887968ed7420a",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER NINE / COUNT ON TO ADD\nOranges for a market tray\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nKeep the first number.\nCount on from there.\nJohn: Our market tray has eight oranges. Aishatu brings five more. Let me\nfind the total before anyone tells me!\nAishatu: I saw oranges at a stall in Gombe town.\nGrace: I will keep our orange counters neat.\nAdamu: We can take turns moving them.\nMrs Binta: Use paper circles for oranges at a reachable table. We can count\non.\nWe will count on to add two or three amounts, including zero.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-03.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+    "page": 2,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "6364c027804973a477ef38ce51b9dd9b8e6b79cf677a9317a19e9c01c735a232",
+    "baseline_raster": "fb5821a8a7d59c3059766095ec5fcebb0b6750b84dc93a4fc2c1cb5476657613",
+    "mapping": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "slug": "c9-small",
+      "task_ids": [
+        "P1-09-COUNT-MODEL",
+        "P1-09-COUNT-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook/002.png",
+    "image_sha256": "a7e7153558fa47a05bbd943c8b1b6d4952246a57b5cd792f1919c73481cd510d",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER NINE / COUNT ON TO ADD\nHold four, count on two\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMrs Binta: Keep our orange counters aside. Use separate practice\ncounters. You already know how to join sets and count all. Four counters\nand two counters make six.\nNow watch a shorter way. Count the first set: four. Keep four in your\nhead. Touch each of the two new counters once. Say five, six. Start\nAFTER four.\n4 + 2 = 6\nTry together. Hold two in your head. Touch three new counters, saying\nthree, four, five. Say the total. Then join all five to check.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-03.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "d6cb2faeaf34dfe38268d93878b3ed8cc0b2a72674a3b4348cc8157c076fd505",
+    "baseline_raster": "15782ad26e3a63dee94e7866d56bf8dbe3571812cd94307c77312b35bcb3c243",
+    "mapping": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "slug": "c9-cross",
+      "task_ids": [
+        "P1-09-CROSS-MODEL",
+        "P1-09-CROSS-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook/005.png",
+    "image_sha256": "63d7a3598a12988033903899b8b9aebc6d0765aa95c56d95a86df125e60df89b",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER NINE / COUNT ON TO ADD\nCount through ten\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMrs Binta: Our story has eight orange counters and five more. Here is\na model of that joining. Keep eight in your head. Touch the five added\ncounters one at a time.\nStart: eight\nSay: nine, ten, eleven,\ntwelve, thirteen.\n8 + 5 = 13\nAishatu: Five touches, five new count words. I cross ten and keep\ngoing.\nGrace: I can join all thirteen in a neat row and count from one to check.\nTry together. Start at seven. Touch four added counters: eight, nine,\nten, eleven. Check with all eleven counters.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-03.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "1c09fa6a4091c84f9294c256a4740a970114013bc02a9579f7a0c79b5e4d9355",
+    "baseline_raster": "6df7fec9aaaa989de9f342baf7ed1f897831825f43c4b3b17ce923e185420d75",
+    "mapping": {
+      "chapter": "P1-09",
+      "role": "textbook",
+      "slug": "c9-finish",
+      "task_ids": [
+        "P1-09-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook/011.png",
+    "image_sha256": "edd3c88bde75a3b604d1b278e4a54987127cf4789d6dc2bdc1ae0295522325c3",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER NINE / COUNT ON TO ADD\nFill the market tray\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nYour turn. Bring back the original eight paper orange counters and\nAishatu's five more. Keep eight. Move the five into the tray, one at a\ntime, counting on. Check by counting all. Work on a reachable table\nbefore reading the ending.\nOne counter stands for one orange. Lines show our arrangement.\nJohn: Thirteen oranges in our model tray! I checked it myself.\nGrace: Each counter stands for one orange.\nAishatu: Our model market tray has thirteen oranges.\nAdamu: We each helped. We can take turns checking.\nThe original eight and five are all present. No counter was added or lost.\n8 + 5 = 13. Say how you checked. Use \"The market-tray check\" in the\nworkbook if you want to record it.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-03.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf",
+    "page": 7,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "26ffdcbb86c0d96a87d5944d8e7e9272756ace7e2cd17908b15dd54081365bb9",
+    "baseline_raster": "ab3210a2a6a4c6785b3ed4dbbaf89e88221556dbb1c8604fae30cd45c519ceb0",
+    "mapping": {
+      "chapter": "P1-09",
+      "role": "workbook",
+      "slug": "c9-wb-story",
+      "task_ids": [
+        "P1-09-STORY",
+        "P1-09-RECALL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook/007.png",
+    "image_sha256": "a0078598a631df664866a3b8fd3fa90ec7659bbc59607c24b177b9b1243c3c14",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER NINE / COUNT ON TO ADD\nThe market-tray check\nRead together. Say, point or use your workbook or exercise book.\nRead together. Write in this workbook.\nUse the original eight orange counters and five more. Count on as you\nmove the five. Check by counting all.\nOne counter stands for one orange. Lines show our arrangement.\nWrite the total: 8 + 5 = ______\nTell an adult how you know no orange counter was lost or added. All the\noriginal counters must be present.\nWithout looking back, say how to start counting on. Say what adding\nzero does. Explain how to check a total.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-04.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "83b41174da27e5af38b1fa2fcf91585f770f653ce815ae281b2b22f5eefc428d",
+    "baseline_raster": "e162e87941bde119dda42c8b7079f6ca1efc0303cb83e86fc4c5a2721a14fc2f",
+    "mapping": {
+      "chapter": "P1-07",
+      "role": "textbook",
+      "slug": "c7-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook/001.png",
+    "image_sha256": "9aae256e92d292fef5828c49e8545d7869f885bd038efc78456d073ac20af901",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER SEVEN / EQUAL HALVES AND QUARTERS\nA fair paper display\nWe will share the space of a whole into equal parts.\nRead together. Keep this textbook reusable.\nEqual parts.\nFair shares.\nAishatu: Our classroom display needs one paper mat. Each of us wants the\nsame space for a drawing. I want to start now!\nMrs Binta: First let us learn to share the whole mat fairly.\nAdamu: Nobody should be left out.\nGrace: I will check the edges neatly.\nJohn: Let me try a fold before you tell me.\nWe will make and recognise equal halves and quarters. Keep paper on a\nreachable table. Use scrap paper instead of food.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-04.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "5f7fd6b2ebb3c9dc9ab8893bc346bf85060d79a9287bca4da4525ec70508893b",
+    "baseline_raster": "6dd206d43b3e45535d1d7b6d147062f7b3962964d78ad1e512906edaac1247ea",
+    "mapping": {
+      "chapter": "P1-07",
+      "role": "textbook",
+      "slug": "c7-ending",
+      "task_ids": [
+        "P1-07-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook/009.png",
+    "image_sha256": "95afa3545ee3e95d1f2a43e284323d42843f38d22d1a8e3c774e73c2d751ea4e",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER SEVEN / EQUAL HALVES AND QUARTERS\nThe display has room for everyone\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nAishatu: I waited. Now we can share the whole mat fairly!\nJohn: Fold the square in half, then in half the other way.\nGrace: I checked the four pieces. They cover equal amounts.\nAdamu: Give each friend one quarter. Nobody is left out.\nAishatu\nAdamu\nGrace\nJohn\nThey put one drawing in each equal space. Four quarters fill the whole\nmat. The display is ready for our classroom.\nOn paper, make a mat for four drawings. Show one quarter for each\nfriend. Say why this is fair. Workbook: Our fair display.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-04.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "86293d752c29d7c0872aae3cee090d4257e9924c70339826b14bea91983c4192",
+    "baseline_raster": "56cbab55a630252ec802497afa123fe9c4a7284485eff314e9bb4ba6d80ba30f",
+    "mapping": {
+      "chapter": "P1-18",
+      "role": "textbook",
+      "slug": "flat-textbook-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Flat-shapes-Textbook/001.png",
+    "image_sha256": "d5971dd45f7f74a53f919dec2651cb53085e1117f44a0dd27b170f6f8f42ff4f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFLAT SHAPES AND PATTERNS\nA border for our class book\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nFlat shapes\nLook, name and match.\nMr Aliyu: Our class exercise-book cover needs a shape border. How can we\nchoose the right pieces?\nAishatu: I will make the cover. I can wait for a turn.\nGrace: I will keep its border neat.\nAdamu: Everyone gets a fair turn.\nJohn: Keep the cards within reach. Let me try before telling me.\nWe will name and match flat shapes, compare them and find them around us.\nPage 1\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-04.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2c8b85626221ae26c5ba505ec1279fef43072a6770199a8fd7855d66ec0b4975",
+    "baseline_raster": "201b44c28513384c1d68f64fd1bda843c21766e921eb887490e68ccfef91156c",
+    "mapping": {
+      "chapter": "P1-18",
+      "role": "textbook",
+      "slug": "flat-textbook-3",
+      "task_ids": [
+        "P1-18-MODEL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Flat-shapes-Textbook/003.png",
+    "image_sha256": "2cfd563294916f96d59d88f7a8ae675c5aa5d2edd72f88978ee19f2c3951e699",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFLAT SHAPES AND PATTERNS\nWatch Mr Aliyu match\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nMr Aliyu names each shape, then points when Grace says its name.\nHe matches each to its name card below. We use the name\nrectangle for the longer card here. A square is also a special\nrectangle.\nsquare\nrectangle\ncircle\nHe turns the square. Its four equal sides and square corners stay the\nsame. He compares it with the non-square rectangle: both have four\nsquare corners, but only the square has all sides equal.\nHe points to a square tile FACE, a non-square exercise-book COVER and\nthe round OUTLINE of a lid. A rectangular window or mat can have a\nsimilar face. Check its sides and corners. These are everyday examples.\nReal objects only approximate perfect shapes; name the face or outline,\nnot the whole solid.\nPage 3\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-05.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2acf31f7bc2625810acb9f96f505a109f9648ce07c00da81e2ed8f2ec3b1ca17",
+    "baseline_raster": "6d2dca17eb816257ebd9bbfc3f77b2adf6ab3405eabdf60ef8b4a9b933508f5a",
+    "mapping": {
+      "chapter": "P1-16",
+      "role": "textbook",
+      "slug": "heavy-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook/001.png",
+    "image_sha256": "04040c1c4fc90105ab4c603b2a797aeb5962e286f4eb65374f856cc6a5c963ba",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nHEAVY AND LIGHT\nWhich parcel is lighter?\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nHeavy or light?\nTest and compare.\nMr Aliyu: We have two small safe parcels for our classroom. Which is lighter?\nWe must test.\nAishatu: I packed the parcels. I can wait for the balance.\nAdamu: Let us take fair turns.\nGrace: I will keep our results neat.\nJohn: Put the balance within reach. Let me try first.\nWe will predict, use a balance and compare weight.\nPage 1\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-05.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "6386cfe5996df0018b5063dee73ca86dc841cf8eebee25f462c7406fa4f39799",
+    "baseline_raster": "559c7cce5a7f2f9aae71acde7e9b79de1d20bbaab4d71f0f5e0c44cc13f367d3",
+    "mapping": {
+      "chapter": "P1-14",
+      "role": "textbook",
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Length-Textbook/001.png",
+    "image_sha256": "76e457a546f9d01d513fb88d06abf7cf5b091e807d526ceb9898cb2b182d096b",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nLONGER, SHORTER AND FARTHER\nA strip for our name label\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nCompare lengths.\nMeasure fairly.\nMr Aliyu: Our class parcel needs a strip to cover its name label. Which strip\nwill reach?\nAishatu: I packed the parcel. I will wait while we compare.\nAdamu: Give everyone a fair turn with the strips.\nGrace: I will line up the ends neatly.\nJohn: Put the puzzle within reach. Let me try before you tell me.\nWe will compare, order and measure lengths to choose a useful strip.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-05.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "7dcc82fda6e5bef20ccb354257233e09cb751ea5335743c6dd82534190a0ff45",
+    "baseline_raster": "1f19e032bdf728c90a473e87de49aac4288e209f3722f6edf2748ace4f40cabd",
+    "mapping": {
+      "chapter": "P1-14",
+      "role": "textbook",
+      "slug": "length-our-label-is-covered",
+      "task_ids": [
+        "P1-14-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Length-Textbook/011.png",
+    "image_sha256": "0ea708255b021732738ac7e86710d28a429f145f932cfd72e31b40e43f5ceb80",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nLONGER, SHORTER AND FARTHER\nOur label is covered\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nJohn: Our label is 4 of this paper-strip unit long. A is 3; B is 5. I\nchoose B. Let me check the fit.\nGrace: The starts meet. B reaches beyond the label.\nAishatu: Now our parcel has its name label!\nAdamu: Everyone helped. We each had a fair turn.\nA\nB\nLabel\nShow with real paper. Choose a strip that reaches across your own\nlabel. Say why it works. Use safe prepared strips; ask an adult to cut.\nOn the story card, one person took 8 steps out and 8 back: 8 + 8 = 16 steps\naltogether. A return trip includes both parts. This is a story count, not our class\nmeasurement.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-05.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "99ada1309d08828094455ca9ffc2e7239519df717c75391ee0b28135f478177c",
+    "baseline_raster": "73306587a97e577503a7bda41e07a3a6157e40b12221f57d065b1d91d2635939",
+    "mapping": {
+      "chapter": "P1-14",
+      "role": "workbook",
+      "slug": "length-a-strip-for-our-school",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Length-Workbook/001.png",
+    "image_sha256": "1476c55c55ea940c1bfe363e95af42f8b29411bc7f7e66b27339881f4e545f3c",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nLONGER, SHORTER AND FARTHER\nA strip for our name label\nRead together. Use the workbook or an exercise book.\nRead together. Write in this workbook.\nCompare lengths.\nMeasure fairly.\nMr Aliyu: Our class parcel needs a strip to cover its name label. Which strip\nwill reach?\nAishatu: I packed the parcel. I will wait while we compare.\nAdamu: Give everyone a fair turn with the strips.\nGrace: I will line up the ends neatly.\nJohn: Put the puzzle within reach. Let me try before you tell me.\nWe will compare, order and measure lengths to choose a useful strip.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-06.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "8c8c750e438cd0e42b89f18721b4c1291152a8adab60d383b168af3b1a7f63c8",
+    "baseline_raster": "d92ced54cfc45233407c76d9b045549d1bd346db8c9ace86c98ae4d2df057c6e",
+    "mapping": {
+      "chapter": "P1-14",
+      "role": "workbook",
+      "slug": "length-our-label-is-covered",
+      "task_ids": [
+        "P1-14-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Length-Workbook/009.png",
+    "image_sha256": "535939a7c03291c85fa9e80629320f08c167be27075270903b0d01c878a729fc",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nLONGER, SHORTER AND FARTHER\nOur label is covered\nRead together. Use the workbook or an exercise book.\nRead together. Write in this workbook.\nJohn: Our label is 4 of this paper-strip unit long. A is 3; B is 5. I\nchoose B. Let me check the fit.\nGrace: The starts meet. B reaches beyond the label.\nAishatu: Now our parcel has its name label!\nAdamu: Everyone helped. We each had a fair turn.\nA\nB\nLabel\nPoint to the strip that covers the label. Explain. Try with your own label.\nDraw or record the strip you chose below.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-06.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a9504339d0ebdca5317ff8371c0275fbc8a2754c979ada521a57752573d4501e",
+    "baseline_raster": "39395db61449547426a2089534ee443e036ee403aa71784418d5967f52f5fad8",
+    "mapping": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "slug": "c12-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Missing-part-Textbook/001.png",
+    "image_sha256": "dee04b5ac853f74e6d29ab05e06470a7a9cf2ed0bd044409c25fc324635545c0",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND A MISSING PART\nThe hidden bottle tops\nRead together. Use a workbook or exercise book.\nRead together. Keep this textbook reusable.\nFind the missing part.\nCheck both sides.\nMr Aliyu: Aishatu needs 7 bottle tops for our classroom game. There are 3\non the mat. The rest are inside a bag we cannot see through. How many are\nhidden?\nAishatu: I want to open it! I will wait while we work it out.\nJohn: Let me solve the secret before you tell me.\nGrace: I will keep the groups tidy.\nAdamu: Everyone gets a turn. Put the bag where we can all reach it.\nWe will find missing numbers and check our answers.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-06.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+    "page": 23,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "87ccb5dc9a77fafc5bb2b73c3296376ad03bd260a9b4efe030bc8bef4b5b7470",
+    "baseline_raster": "faf698079405215717b22ef2b60a57fb68a5679be1829ec55b7e910075455770",
+    "mapping": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "slug": "c12-34",
+      "task_ids": [
+        "P1-12-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Missing-part-Textbook/023.png",
+    "image_sha256": "a50c8a8beaebf4279b080c8d2d608f181d9d5c7226def5527dc5e75b2510383d",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND A MISSING PART\nThe bag opens\nRead together. Use a workbook or exercise book.\nRead together. Keep this textbook reusable.\nRemember first. Tell a partner what a blank means. Explain how\nto rebuild an unknown starting amount. How can putting the\nnumber back check your answer?\nJohn: The whole was 7. I can keep 3 on the mat and count on\nfour more: 4, 5, 6, 7.\nAishatu: I waited. Now I can open the bag!\nMr Aliyu: There are 4 bottle tops inside. Replace the blank: \n3 + 4 = 7. Both sides make 7.\nVisible on the mat: 3\nBag opened: 4\nGrace checks each bottle top once. Adamu gives everyone a turn.\nAll 7 bottle tops go to our game tray. No bottle tops are added or\nlost. The friends can start their game.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-06.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+    "page": 27,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "4c1808bef17b07f66624770d581477f9bfa047bd803943ba3cde6b3b51967684",
+    "baseline_raster": "1cce97f551a6b2f099e0c6def6140b20e63975fc5e868267b0bcf3d00b3ae0d9",
+    "mapping": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "slug": "c12-41",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Missing-part-Textbook/027.png",
+    "image_sha256": "a002e9c587c25aa3bb212ea77db0f728df4ca0fdbbbe53b470ed08c02cfd38bc",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND A MISSING PART\nTeaching across short sessions\nAdult guidance / Read pupil prompts aloud.\nChapter twelve / Educational review edition\nTeach one new missing-number position at a time. Revisit addition and\nsubtraction with counters before this chapter. Read all prompts aloud.\nIntroduce - as take away and + as join; = means equal amounts. A\nblank represents a number, not an instruction to calculate everything on\nits left.\nSuggested sequence: equality and addition; removed and starting\namounts; reversed equality and substitution; related families; everyday\nchecking; independent practice; targeted help and recheck; story\nending and fresh checks. Take additional short sessions when needed.\nThis is editorial pacing, not an official scheme.\nTextbook/workbook page pairs: 12/1, 13/2, 14/3, 15/4, 16/5; help 17/6\nthrough 22/11; fresh checks 24/12, 25/13, 26/14. Workbook page labels are\nprinted above each title. Textbook users can use counters and an ordinary\nexercise book for every response. Do not mark the textbook.\nKeep counters large and reachable. Accept speech, pointing, moving\nobjects or drawing as evidence before writing. Never tell John an answer\nbefore his turn. Rotate the helper and speaker. Count hidden story\nbottle tops only after opening; the artwork does not encode their\nnumber.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-07.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+    "page": 28,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "619105bdc60dba3e556cbf7a925c964bfd5146e6e5d3d04e619e3bee30efa6de",
+    "baseline_raster": "4f8dc5600c0dec57471928fa5a3042256c2aec4da4ba5c423df9bce9ee3d440d",
+    "mapping": {
+      "chapter": "P1-12",
+      "role": "textbook",
+      "slug": "c12-42",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Missing-part-Textbook/028.png",
+    "image_sha256": "ce03cda1b6d48a694dbaf897103785a2dc6a219078c22b0698bd5d83dac8e239",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFIND A MISSING PART\nNotice, help and check later\nAdult guidance / Read pupil prompts aloud.\nChapter twelve / Educational review edition\nLook for: adding the visible numbers regardless of blank position;\ntreating = as an answer arrow; giving the removed amount when the\nstart is unknown; guessing without substitution; counting a counter\ntwice. Ask the pupil to name whole, known part and missing part before\nmoving objects.\nSupport: choose the matching smaller-step page. Model with counters\nand allow the pupil to copy the action. Close that example, put those\ncounters away and use the new recheck. Record success by objective,\nnot by a total score. Re-teach if the recheck is unsuccessful.\nFresh check: use the last three pupil practice pages without help. All\nsix objectives have separate fresh evidence. At a later session, use the\nsix prompts in the complete answer map marked delayed. Keep the\nbook closed and use new objects. Record prompt, response, method\nand any help.\nStory preparation: place exactly 4 bottle tops in an opaque bag and 3\non the mat before the opening. Tell the whole 7 without displaying the\nhidden set. Do not reveal the 4 until the story ending. All independent\ntasks use separate sets; they do not alter the story stock.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-07.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "6f6b9f1c032df3f1ef8e4605a2ec59fa926a61caf7e8d10484aea7c6fc86f363",
+    "baseline_raster": "5864f6783892492abfbc4c5030628d0551564606181d4a8b971b9eb21ef3bbec",
+    "mapping": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "slug": "c6-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook/001.png",
+    "image_sha256": "f52df1b48c884af2e736fc2983c88503df1c8de4fd1d908b89e0e0ae1c08e630",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER SIX / NUMBERS TO NINETY-NINE\nCount our classroom supplies\nWe will build, read and write numbers through ninety-nine.\nRead together. Keep this textbook reusable.\nCount the tens.\nCount the ones.\nAdamu: Our class needs packs of counting strips. Everyone should have a\nturn!\nMr Aliyu: We need packs of forty-six, eighty-one and ninety-three strips.\nGrace: I can make neat labels, but I must check the digits.\nJohn: Let me work out their places before you tell me.\nAishatu: My supply boxes are ready. I will wait while we learn.\nFirst learn in small groups of numbers. Later we will count three packs and\nlabel them. Use reachable trays and large paper strips.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-07.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+    "page": 17,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "58d1e12f1ed0f1faf63e537196cfb617152c15af1a038b08a7916e20763567b0",
+    "baseline_raster": "4f56a0fd0ec378e242d60422ac181ee0a2bfba3ba460d2923cb6bc051c49bdce",
+    "mapping": {
+      "chapter": "P1-06",
+      "role": "textbook",
+      "slug": "c6-ending",
+      "task_ids": [
+        "P1-06-ENDING",
+        "P1-06-FRESH-COUNT",
+        "P1-06-FRESH-BUILD",
+        "P1-06-FRESH-READ",
+        "P1-06-FRESH-RECOGNISE",
+        "P1-06-FRESH-WRITE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook/017.png",
+    "image_sha256": "6b313df844770458519e1d4f3da6ea6bfb7f1fe2fa98fa4c2afb18399fa45d1c",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER SIX / NUMBERS TO NINETY-NINE\nThe right labels are on\nFinish the supply-box job together. Then try fresh numbers alone.\nRead together. Keep this textbook reusable.\nMr Aliyu: Count the three packs we needed: forty-six, eighty-one and\nninety-three.\nAdamu: I write 46 and give Grace a turn.\nGrace: I write 81. This time I check both places.\nJohn: I write 93 after thinking it through.\nAishatu: I check the bundles and label my three supply boxes.\n46 four tens, six ones\n81 eight tens, one one\n93 nine tens, three ones\nBuild each pack with real strips. Check ten in every bundle. Match each\nwritten label to the spoken name. Attach 46, 81 and 93 to three\ndifferent boxes. Our supply boxes now have the correct counts and\nlabels.\nA fresh try. Use new real sets, shuffled cards and spoken numbers\nfrom the adult list. Count, build, read, recognise and write separately.\nKeep the answer list hidden.\nWorkbook: A fresh number try, or fresh exercise-book space. Cover ALL earlier\nwriting, cards and models before dictation.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-07.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "f83104c30a7c861571896ee274d28e79234932885ebc65587b886ffe726d569f",
+    "baseline_raster": "3e80ea00c382f3ae5b7f92d36e4033c5caa5e279b8dce9c9b7aa218bcdf7c94e",
+    "mapping": {
+      "chapter": "P1-01",
+      "role": "textbook",
+      "slug": "c1-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/005.png",
+    "image_sha256": "a5162ca2ec1449b7bf7e7048bd2f824199406820a07d1ffa3fc4facf2ab7733f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER ONE / ONE TO FIVE\nA cup for every friend\nWe will count, read, write and order one to five.\nRead together. Keep this textbook reusable.\nTouch one.\nSay one number.\nMrs Binta: After play, Aishatu brings cups for her friends. Every friend needs\na cup.\nAishatu: I cannot wait!\nAdamu: Can everyone have a fair turn?\nGrace: I will help check our cup record.\nJohn: Let me try the counting puzzle first.\nMrs Binta leads our counting lesson.\nUse large unbreakable cups at a reachable table.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-08.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 10,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "12f602246cd77a8b34abc3c98058bf446cae62dbb7b372ab010a2f62f4d04938",
+    "baseline_raster": "1baf5623914b248afd785a78809d00b956238f4d986b757bea468c3214db3be2",
+    "mapping": {
+      "chapter": "P1-01",
+      "role": "textbook",
+      "slug": "c1-ending",
+      "task_ids": [
+        "P1-01-FRESH-SET",
+        "P1-01-FRESH-READ",
+        "P1-01-FRESH-RECOGNISE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/010.png",
+    "image_sha256": "4b00b6e746ce970f46d9d3046a1357b6a3be1b5280a386129e8851142becd86b",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFINISH OUR STORY / A FRESH TRY\nA cup for each friend\nCount the cups. Does every friend have a cup?\nRead together. Keep this textbook reusable.\nAishatu: Four friends and four cups!\nGrace: Each friend has a cup.\nAdamu: Everyone is included.\nJohn: We solved the puzzle.\nMrs Binta: Now each friend has a cup after play.\nA fresh try. Work on your own.\nAsk an adult to name a number from one to five.\nMake that many cups or counters at the table.\nAsk the adult to mix numeral cards from one to five.\nPoint to the numeral the adult says.\nNow the adult points to a mixed card. Say its number.\nWorkbook: A fresh counting try. The adult chooses the numbers.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-08.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a16e04ece0f09b58bdfb2508d682c153133d7ba466b46fb913286ed208b2a260",
+    "baseline_raster": "8a4eecfd5f52f694b99def2d23bf0d068cdf58842f4f142982ec2ce023a6e453",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/011.png",
+    "image_sha256": "d5c88e5eb9800131398e0fb5e0cf8a73f6e47845308997fb15a889dfa11b87dd",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nOUR CLASSROOM GAME / CHAPTER TWO\nSort, match and order\nWe will sort things, match them and put small sets in order.\nRead together. Keep this textbook reusable.\nSort.\nMatch.\nPut in order.\nMr Aliyu: Let us prepare a classroom game. First, sort the leaves and bottle tops.\nAishatu: I brought a box for our game pieces.\nGrace: I like things in their places.\nAdamu: Let us take fair turns.\nJohn: Can we find out which set has more?\nMr Aliyu: These are our game pieces. Watch me sort them. Then we can check: are\nthere more bottle tops or leaves?\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-08.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 12,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "9bb5b3ba7252bc38557c9d9d942594570722633d7f4d3fd75a0983e2fdc35955",
+    "baseline_raster": "a1649f50aaa45827d9fce9a7fb495b8276ef1a76de229e4a85caacd284939582",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-2",
+      "task_ids": [
+        "P1-02-SORT"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/012.png",
+    "image_sha256": "88dca165197d1bba479312fc5ceac6e4139bf3dd3a173e503c1b9962ccfce30c",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nWATCH AND TRY TOGETHER\nGive each set a place\nA set is a collection. Sort by one rule.\nRead together. Keep this textbook reusable.\nMr Aliyu: I put leaves together and bottle tops together.\nA leaf goes with the leaves. A bottle top goes with the\nbottle tops.\nLeaves together\nBottle tops together\nGrace: I put a leaf with the bottle tops by mistake.\nMr Aliyu: Check our rule. Where should it go?\nGrace: With the leaves. I can try again.\nTry together. I circled one leaf. Point to the other leaf. Then point to\neach bottle top.\nMr Aliyu: Sort real leaves and bottle tops into two sets at the\ntable. Count each set.\nGrace: Tell a partner your rule.\nWorkbook: Sort and match.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-08.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 13,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2fc440b5686d74ed5b3db6a80cfead3c22a09db053e6b40d85969d09b80c6ca6",
+    "baseline_raster": "27fa1b04100070aaf6a6187b3b65b580749f8c5fdaa55023a40afe5320ca5294",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-3",
+      "task_ids": [
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/013.png",
+    "image_sha256": "1b47e969af53e824a9385e6757a313063bbd3900cce5b8893471cc8c0a62c20b",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nWATCH AND TRY TOGETHER\nOne partner for each\nMatch one object to one object to compare the sets.\nRead together. Keep this textbook reusable.\nMr Aliyu: I draw a line from one bottle top to one bottle top. Each bottle\ntop can have only one partner.\nTwo bottle tops in the lower set have no partner.\nFour is more than two. Two is fewer than four.\nI circle the whole set with more.\nAdamu: The long row must have more!\nMr Aliyu: Let us match and check.\nUse your finger to match each bottle top in the upper row to a different bottle\ntop below. Does every bottle top have a partner? Tell a partner.\nWorkbook: Sort and match.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-09.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 15,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "3c78d752641d7d578db8c4eca2d2145e6ec5abf315d9fd8d67225a5d3db69c2a",
+    "baseline_raster": "ce68a9cfae6ef75338e05dcba1520d0ad084c733ef96f4bd255e21f28ff95b7f",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-5",
+      "task_ids": [
+        "P1-02-Q3",
+        "P1-02-Q4"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/015.png",
+    "image_sha256": "5a4c00c7269768e704a75ee33b66506bf54ad2c5d800ed9911599a9d860d50ab",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nYOUR TURN\nWhich has more?\nUse matching or counting. Try these on your own.\nRead together. Keep this textbook reusable.\nMr Aliyu: Point to the set with more bottle tops.\nTell your partner which set you chose.\nPoint to the set with fewer leaves.\nTell your partner which set you chose.\nJohn: I want to try before a hint.\nMr Aliyu: Take your time. When you finish, tell me how\nyou checked.\nWorkbook: More and fewer.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-09.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 16,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "79af02b04bfe745fefd99bc0d544d35b6c9c18e473a47a08d693ed92d596ac34",
+    "baseline_raster": "e1373cde0dcbb89fd152cd09eea6b247fb195ffea85677559ecccce424b1662e",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-6",
+      "task_ids": [
+        "P1-02-Q5",
+        "P1-02-Q6",
+        "P1-02-SUPPORT"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/016.png",
+    "image_sha256": "1c9ae7fcf29ce57e284a496b98a2a1235b4708a5bc546d9f296319306ae71ae3",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nREMEMBER, THEN GET HELP\nShow how you know\nTry to remember what Mr Aliyu showed you before looking back.\nRead together. Keep this textbook reusable.\nMr Aliyu: Tell or show a partner how to compare two sets. Use\nbottle tops at the table or draw in your exercise book.\nNeed a smaller step? Point from each upper dot to a different lower\ndot. Mr Aliyu has shown one match.\nFinish matching with your finger. Point to the set with more.\nNow try your own two sets again.\nAdamu: Your turn, then mine!\nMake a set of 5 large objects on the table.\nAsk your partner to check. Swap roles.\nWorkbook: Show how you compare.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-09.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+    "page": 17,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "4d7b32ea17d45fd6ab90d67d82fa773936348f85554a9afedc501e308947e348",
+    "baseline_raster": "601ab25b3dd6cc543eb060b5e984cb60482fdb6bc9fa39c49127ee05ba0fcdcd",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "textbook",
+      "slug": "c2-7",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Textbook/017.png",
+    "image_sha256": "44a1fb57f2c930aca9248c0557faebf5b397a2f1b0595345d37a2856b4ea2b98",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFINISH THE STORY / A FRESH TRY\nReady for our game\nUse what you have learned to finish preparing our classroom game.\nRead together. Keep this textbook reusable.\nMr Aliyu: We sorted our game tray. Match each leaf to a different\nbottle top. Match with your finger.\nJohn: Point to the set with more.\nAishatu: Each leaf is a ticket for one bottle top. Use real pieces. Put the\nbottle tops with no partner in a spare box at the table.\nGrace: The two spare bottle tops are away. Now the tray is tidy.\nAdamu: We can take fair turns at our game!\nA fresh try. Work on your own.\nPoint to every leaf below. Then point to every bottle top.\nWhich set has more? Point to that set. Say how you know.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-09.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+    "page": 6,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "384c81e7568ee32a224387b97d1b1302c5977780523b2dfa63bc31dee84d4ae5",
+    "baseline_raster": "e4d38a40bfdfbd76ae6b437136fb9fbc6c3db10f2577ab116e3876ad44dc013d",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "slug": "w2-sort-match",
+      "task_ids": [
+        "P1-02-SORT",
+        "P1-02-EQUAL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Workbook/006.png",
+    "image_sha256": "c48a2aa5499fc07324c550d9b26ecfb3d626d43bcf133ffc29bab196b681b2f7",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nSORT, MATCH AND ORDER / TRY TOGETHER\nSort and match\nWatch Mr Aliyu first. You may mark this workbook.\nRead together. Write in this workbook.\nMr Aliyu circled one leaf. Circle the other leaf.\nLeave the bottle tops without circles.\nMix real leaves and bottle tops at the table. Sort them into two groups.\nCount each group. Tell your partner the rule.\nDraw one line from each bottle top in the upper row to a different bottle\ntop below. Does every bottle top have a partner?\nTell your partner: more, fewer, or the same number?\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-10.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+    "page": 8,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a4a9b4d33c9b80be97849ac805c27cd2b80f69804007bb9b0c8566301978e102",
+    "baseline_raster": "dcc3b82b4e9794904f61d99a1c1a5c957990e17ecc1504d94a9df5a23e785ab1",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "slug": "w2-more-fewer",
+      "task_ids": [
+        "P1-02-Q3",
+        "P1-02-Q4"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Workbook/008.png",
+    "image_sha256": "06fbb3fa26aac1a9a53ab6be32cdce2c1ee0bc8bacbe417a6b2cc797e8b082d3",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nSORT, MATCH AND ORDER / YOUR TURN\nMore and fewer\nUse matching or counting. Try these on your own.\nRead together. Write in this workbook.\nMr Aliyu: Point to the set with more bottle tops.\nCircle that whole set.\nPoint to the set with fewer leaves.\nCircle that whole set.\nJohn: I want to try before a hint.\nMr Aliyu: Take your time. When you finish, tell me how\nyou checked.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-10.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a72a7048616bc5a04f1f98e9422f4f0e2130c711cb29798b61206a1835ed878d",
+    "baseline_raster": "a1c1996f133f46375bab776f018bf85acac2f9ba7c33e28d64114934474b2b21",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "slug": "w2-remember",
+      "task_ids": [
+        "P1-02-Q5",
+        "P1-02-Q6"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Workbook/009.png",
+    "image_sha256": "97eb33c41f3f39188f580509642e2f936edec06e56ee34a5bfef8bccabf44e3d",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nSORT, MATCH AND ORDER / REMEMBER\nShow how you compare\nTry to remember Mr Aliyu before looking back.\nRead together. Write in this workbook.\nTell or show a partner how to compare two sets.\nUse real bottle tops or draw your idea below.\nMake a set of 5 large objects on the table.\nAsk your partner to check. Swap roles.\nAdamu: Your turn, then mine!\nGive your partner time to think.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-10.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf",
+    "page": 10,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "1419fe8a78a5f738a130527967d7c334f35672f36b40ee564a31b99a1f6efa8e",
+    "baseline_raster": "38c50f2e8ebe104c86af91572e68cefe09d2240be31a9d7e048333b3a8ec0ceb",
+    "mapping": {
+      "chapter": "P1-02",
+      "role": "workbook",
+      "slug": "w2-ending",
+      "task_ids": [
+        "P1-02-ENDING",
+        "P1-02-FRESH-SORT",
+        "P1-02-FRESH-COMPARE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Opening-Workbook/010.png",
+    "image_sha256": "a39bfe23e6efbb002e2259d978354b46d0339d4da90bf5938cfb78e4e8da7096",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nSORT, MATCH AND ORDER / A FRESH TRY\nReady for our game\nUse what you have learned to finish preparing our classroom game.\nRead together. Write in this workbook.\nMr Aliyu: We sorted our game tray. Match each leaf to a different\nbottle top. Draw the lines.\nJohn: Point to the set with more.\nAishatu: Each leaf is a ticket for one bottle top. Use real pieces. Put the\nbottle tops with no partner in a spare box at the table.\nGrace: The two spare bottle tops are away. Now the tray is tidy.\nAdamu: We can take fair turns at our game!\nA fresh try. Work on your own.\nCircle every leaf below. Leave the bottle tops without circles.\nWhich set has more? Circle that whole set.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-10.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "eb269fbee756014ca59f69e87b9d4ffc8fb43fd4b231a96c57bc8871ec91f792",
+    "baseline_raster": "eb383a5523951ab3f9bdb715da66ea5fea80fc5616e4cfafa455b83d3001e460",
+    "mapping": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "slug": "c13-textbook-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook/001.png",
+    "image_sha256": "63cc23f365cb9c3740d8c7d00614be351922afc3bd94acea0685fb301a90d70f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nPRETEND COINS AND CHANGE\nOur pretend neighbourhood stall\nRead together. Keep this textbook reusable.\nRead together. Keep this textbook reusable.\nRead the value.\nFind the change.\nMrs Binta: Our pretend neighbourhood stall has one pencil. It costs 6k. We\nhave a 10k payment. How much must the shop give back?\nAishatu: I made a box for the stall. I will wait for a fair turn.\nAdamu: Everyone can join our shop story.\nGrace: I will keep the value cards neat.\nJohn: Put them within reach. Let me solve the change puzzle.\nWe will read money values, make totals, find change and try real-coin\nrubbings when materials are ready.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-11.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "page": 6,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2dcd57fa5df99fa0044270814e1473cb3f8503d2ad9314232bcaf96887526435",
+    "baseline_raster": "fba357d9af757c33dd1e823bd03c9297854a8b7e1cb35fe3ca58ac1eeeeee7b4",
+    "mapping": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "slug": "c13-textbook-6",
+      "task_ids": [
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook/006.png",
+    "image_sha256": "835262fdbbf78d0441465bb27850dd4ae5dc95d195abaaabae149017931692d6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nPRETEND COINS AND CHANGE\nCount on for change\nRead together. Keep this textbook reusable.\nRead together. Keep this textbook reusable.\nMrs Binta: Cost means the amount asked for. Payment is the\namount given. Change is the amount given back. Our pencil costs\n6k. Pay 10k. Count from the cost up to the payment: 7, 8, 9, 10.\nFour counts: change is 4k.\n10k - 6k = 4k.\nCheck: 6k + 4k = 10k.\nCost plus change equals payment.\nTry together. Grace buys a pretend label costing 5k. She pays 8k.\nAishatu counts on from 5 to 8. How much change? Check by adding\ncost and change.\nUse labelled paper cards or count with your fingers. Say the change and\ncheck aloud; write in your exercise book. Then try textbook page 8 on\nyour own. Respond on workbook page 4 or in your exercise book.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-11.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "page": 15,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "314155f1fb4bc85dec6eb53dc8be014fea68aac3caf5cda7f85140da1316b839",
+    "baseline_raster": "2919ce6ebbb15bdc50115d1e8aaea02bd6a0ef68ec069bf4863aaa384e334fa9",
+    "mapping": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "slug": "c13-textbook-12",
+      "task_ids": [
+        "P1-13-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook/015.png",
+    "image_sha256": "d93cbd1cab60139cf42d5cf06a2ef98d6ad8f29eb96a7f5da140f91f609b4260",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nPRETEND COINS AND CHANGE\nThe pencil is ready\nRead together. Keep this textbook reusable.\nRead together. Keep this textbook reusable.\nJohn: The pencil costs 6k. I pay 10k. I worked out 4k change.\nGrace: I give back 4k and keep 6k for the shop.\nAdamu: Cost and change make the payment: 6k + 4k = 10k.\nEveryone had a fair turn.\nAishatu: There was one pencil. Now John has it and the shop has\nnone. Waiting helped our shop work!\nThe friends finish their pretend shop story. Their value cards stay\npretend. Real-coin naming and rubbing are separate activities and\nonly count when the adult has the verified materials.\nNow show learning afresh on textbook page 16 and workbook page\n7, or use your exercise book and the same real materials. Try\nbefore the adult helps. The adult will check again next session.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-11.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "page": 21,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "6878f489abae728eb71cba3e6ef7f5887ea3782fd777adfa7e6866a6d057944e",
+    "baseline_raster": "9e3524e3ad110c1d79d9f351fe3a2baccaad9ca44331a2959b302ac0bc3e7665",
+    "mapping": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "slug": "c13-textbook-21",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-13-TOTAL-MODEL",
+        "P1-13-TOTAL-GUIDED",
+        "P1-13-CHANGE-MODEL",
+        "P1-13-CHANGE-GUIDED",
+        "P1-13-RECALL"
+      ]
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook/021.png",
+    "image_sha256": "594e72e7d5dbd0737b5f07564479613f2a0da736fa413a4361f86fef280a38c8",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nPRETEND COINS AND CHANGE\nComplete task and answer map\nRead together. Keep this textbook reusable.\nChapter thirteen / Educational review edition\nP1-13-TOTAL-MODEL / model\nMake 15k using 10k and 5k cards.\nAnswer/criteria: 15k\nP1-13-TOTAL-GUIDED / guided\nTogether make 11k using 5k, 5k, 1k.\nAnswer/criteria: 11k\nP1-13-CHANGE-MODEL / model\nPay 10k for a 6k pencil. Find the change.\nAnswer/criteria: 4k; cost plus change equals payment.\nP1-13-CHANGE-GUIDED / guided\nPay 8k for a 5k pretend item. Find change.\nAnswer/criteria: 3k\nP1-13-RECALL / recall\nBefore help: say how to read a value, add cards, find change and make a real rubbing.\nAnswer/criteria: Read verified value/label; add values not cards; count from cost to\npayment then check; rub genuine surface through both papers when available.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-11.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+    "page": 23,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "7e85b1badf2396c93de254127ec4b334df4f377d62f7aa5f971bf6c267caaebd",
+    "baseline_raster": "bfc42eea9775b81856f91ee915b7b9056aac068b91d1fe8bce4a91a93af81cfe",
+    "mapping": {
+      "chapter": "P1-13",
+      "role": "textbook",
+      "slug": "c13-textbook-23",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-13-TOTAL-RECHECK",
+        "P1-13-CHANGE-HELP",
+        "P1-13-CHANGE-RECHECK",
+        "P1-13-STORY",
+        "P1-13-REAL-INDEPENDENT"
+      ]
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook/023.png",
+    "image_sha256": "d0a3c62d2c698e3d21f53b5dd25befc4896153030cdd36f4b2a9946c7091fc7f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nPRETEND COINS AND CHANGE\nComplete task and answer map\nRead together. Keep this textbook reusable.\nChapter thirteen / Educational review edition\nP1-13-TOTAL-RECHECK / recheck\nRead cards labelled 5k and 1k. Find their total without help.\nAnswer/criteria: 6k\nP1-13-CHANGE-HELP / help\nPay 5k for a 3k item. Count on: 4, 5. Two counts: 2k change. Check 3k + 2k = 5k.\nAnswer/criteria: Adult models smaller step. 2k change\nP1-13-CHANGE-RECHECK / recheck\nA pretend item costs 4k. Pay 6k. Find the change without help. Check your answer.\nAnswer/criteria: 2k; 4k+2k=6k\nP1-13-STORY / closure\nResolve the pencil purchase: pay 10k, cost 6k.\nAnswer/criteria: One pencil moves from shop to John; 4k change returned; 6k retained.\nP1-13-REAL-INDEPENDENT / independent\nIndependently point to each prepared genuine coin/official image and name its value.\nAnswer/criteria: Every value matches dated checklist; distinguishes genuine example\nfrom pretend card; no prompts.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-12.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a62e1f0b883f846d72236167e96d61e4c78e8919382a655ae0f8c164bc68d807",
+    "baseline_raster": "a99a3b798dfe6e18a02115b7793e3e0acc055c22e6d5f1f1f9efed9a3cdefa46",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/001.png",
+    "image_sha256": "1f6e2be72151f68cf1ede2608e194c856f1fc2c246d67b74e4b1db34ef5acfca",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nBottle tops in one tray\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nPut sets together.\nCount them all.\nAishatu: Let us put our bottle tops in one tray. I have two. Adamu has one. I\nwant to count now!\nMr Aliyu: Wait while we learn to join and count. Keep the tray within\neveryone's reach.\nAdamu: We will all have a turn.\nGrace: I will keep the bottle tops in a neat row.\nJohn: Let me find the total before you tell me.\nWe will put two or three small sets together and find how many\naltogether.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-12.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 2,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "59301776761269397526c58f27f53281bc3d29c184efc9bc198d0872b5086d9c",
+    "baseline_raster": "7052074293a7885f376f07cf8039d9df1b306722aeb4b698bb2a355ed4417217",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-join",
+      "task_ids": [
+        "P1-08-JOIN-MODEL",
+        "P1-08-JOIN-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/002.png",
+    "image_sha256": "355e28289bf579fc4821d90a438312181baf4ac79154e38649d812f2ebd28ad3",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nWatch: move, then count\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMr Aliyu: Here are Aishatu's two bottle tops and Adamu's one bottle\ntop. The pictures show the same bottle tops before and after moving\nthem.\nBefore: two bottle tops\nand one bottle top\nI move all the bottle tops into one row. None is added or lost.\nI touch each bottle top once: one, two, three. The last count tells how\nmany altogether. Two and one make three bottle tops.\nTry together. Put one counter on a table and one nearby. Move them\ninto one row. Touch and count all. Say the total.\nUse large safe bottle tops, smooth stones or paper circles. Work seated\nat a reachable table.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-12.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "b70d11e115ef9c4fecb4d32d3cec918051e5784b5b3301c6342a96492449b089",
+    "baseline_raster": "555ac406b401b1f1b9b507c6fd8b3e610de6869d7f3eda91c87e9dd2c0970d99",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-signs",
+      "task_ids": [
+        "P1-08-SIGNS-MODEL",
+        "P1-08-SIGNS-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/003.png",
+    "image_sha256": "02bb7901d61b96e95d71061b020ee26c7c75f25f227ef0e64d918e703616fc45",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nSigns tell the joining story\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMr Aliyu: We have joined the bottle tops. Now we can write that story.\n+\n=\n2 + 1 = 3\nThe plus sign + means add: put amounts together.\nThe equals sign = means has the same value as. Two plus one has the\nsame value as three.\nGrace: I thought equals meant \"write an answer next\".\nMr Aliyu: It tells us both sides have the same value. We can also write\n3 = 2 + 1.\nTry together. Put one counter beside two counters. Count all. Say \"one\nplus two equals three\". Check both sides have three counters\naltogether.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-12.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 4,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "89429b31778acfb7582bf11cb78cb594e9e6bef825093e544a89f15c8e627f7d",
+    "baseline_raster": "b231ce4e5431af646b41f2c66e79c924d832d79874df3026e76d512619086277",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-three",
+      "task_ids": [
+        "P1-08-THREE-MODEL",
+        "P1-08-THREE-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/004.png",
+    "image_sha256": "a95c4389d170dbf431f34daf74d5955e7978fbea37336449a3c27bd04aca07d6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nJoin three sets\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMr Aliyu: Keep our three story bottle tops aside. Use separate practice\ncounters now. Join one, one and two counters. Count all four. We write 1\n+ 1 + 2 = 4.\nNow watch a larger three-set example with practice counters. Two, two\nand two join. Touch each once: one, two, three, four, five, six.\n2 + 2 + 2 = 6. Two plus two plus two has the\nsame value as six.\nJohn: I counted the middle set twice. I will move each bottle top to the\nrow only once.\nTry together. Join one, one and one counter. Count all and say the\nnumber sentence.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-13.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "d25835cb154b9f485fb1dab9fc93849e6121978fe8bd74f8fda8cff30e44aed6",
+    "baseline_raster": "0e5cdc9a801d60066e984888ea084110d04d2e98d82757d208e9cb0ab61e16c8",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-draw",
+      "task_ids": [
+        "P1-08-DRAW-MODEL",
+        "P1-08-DRAW-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/005.png",
+    "image_sha256": "cab86f083224406a05ece1b68483aa9f03ed1e8977224a14713b0f903c890550",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nShow the story with dots\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nMr Aliyu: Watch me draw one dot for each bottle top. First I draw one\ndot, then one more. I count both dots. I write the total.\n1 + 1 = 2\nDots can stand for books too. Watch: two books and one more book\nmake three books. I draw two dots and then one dot.\n2 + 1 = 3\nThree books.\nTry together. On the workbook page \"Try with Mr Aliyu\" or in your\nexercise book, draw one dot and two more dots. Count them all. Write\nthe total.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-13.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 8,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "72e07b86f2aeb4c59f072ac82ae77902297edf1c64b44d57b10183036556c9ad",
+    "baseline_raster": "25e82765a52c86b990ec349bade727e41de6c55c4302bd2b59ea8d5e9b96ab79",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-finish",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-FRESH-TWO",
+        "P1-08-FRESH-THREE",
+        "P1-08-FRESH-EQUALS"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/008.png",
+    "image_sha256": "6e269f23920cdb0260728721fe9c904040d4cdb540aa1e0cafa681872b5dc7b8",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nOur tray is ready\nRead together. Say, point or use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nYour turn: Put the original two story bottle tops and one bottle top on a\nreachable table. Move them into one tray. Touch each once and say the total.\nThen read the ending.\nGrace: I keep them in a neat row.\nJohn: Three bottle tops altogether!\nAishatu: Waiting helped us check.\nAdamu: All four friends can take turns with our three bottle tops.\nThe same two bottle tops and one bottle top from the start are here.\nNone is lost. 2 + 1 = 3. Our counting tray is ready.\nShow learning afresh. Use the workbook page \"Try afresh on your\nown\", or your exercise book. Join one counter and three counters.\nRecord the number sentence. Then join one, two and two counters.\nRecord the number sentence.\nExplain how you know both sides of each equals sign have the same\nvalue.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-13.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "8a1f0a9fdf247d4c4e43aaea19ad4234672085918ae2d61fb0dd10050123659c",
+    "baseline_raster": "1ca8af7f7768846ebd9a17b339878a39371c0f17d2d7fbb46bb89e877be1a3e9",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-answers",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/009.png",
+    "image_sha256": "8d38001f1a0b7ae35b7e9f702f66443a9840bcf403e308777b90ec98543f1b7f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nComplete task and answer map\nRead together. Adult guidance and answers.\nChapter eight / Educational review edition\nTextbook (TB) and workbook (WB) page links refer to this chapter pair. All original tasks\nretain their prompt/answer meanings. Oral, pointing or practical demonstrations are valid;\naccept any clear dot arrangement.\nTB2: JOIN-MODEL 2+1=3; the same three bottle tops move. JOIN-GUIDED 1+1=2.\nTB3: SIGNS-MODEL 2+1=3 and 3=2+1; both sides have value 3. SIGNS-GUIDED\n1+2=3.\nTB4: THREE-MODEL 1+1+2=4; 2+2+2=6. THREE-GUIDED 1+1+1=3.\nTB5 / WB1: DRAW-MODEL 1+1=2; 2 books+1=3 books. DRAW-GUIDED draw 1\nthen 2 dots, total 3. WB-GUIDED first 2; then 3 dots, total 3.\nTB6 / WB2-3 originals: Q1 1+2=3; Q2 2+2=4; Q3 1+1+1=3. Q4 two dots and one\nmore, total 3. Q5 one dot and three more, total 4 books. Q6 draw 1+2 and 2+1;\nboth total 3. Accept rearranged drawings with the correct counts and explanation.\nTB7 / WB4-5: RECALL plus joins amounts; equals means same value; touch/count\neach once. HELP 1+1=2. RECHECK 2+1=3. SWAP both orders total 3 because no\ncounter is added or removed.\nTB8 / WB5-6: STORY 2+1=3 bottle tops; all four take turns (not a bottle top each).\nFRESH-TWO 1+3=4. FRESH-THREE 1+2+2=5. FRESH-EQUALS each side has value 4\nor 5 respectively. Accept speech plus matching objects instead of fluent writing.\nDELAYED, TB10: 2+2=4; 1+1+2=4; 4=2+2 is true.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-13.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+    "page": 10,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "8e236184ef3ca91a7074f6c890ce0508f528184bd742d423065247716c206c43",
+    "baseline_raster": "53d89741d00a94bd963dc423cfae45c72065868f4c14e88424468b0a769097ad",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "textbook",
+      "slug": "c8-guidance",
+      "task_ids": [
+        "P1-08-DELAYED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook/010.png",
+    "image_sha256": "c1585c9cde2d4ac4ea646284a648f65e96ec0ce3143f5e37806c5f0c2eedb244",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nTeach, observe and revisit\nRead together. Adult guidance and answers.\nChapter eight / Educational review edition\nSuggested sessions: TB1-2 concrete joining; TB3 signs and equality; TB4\nthree sets; TB5 drawing; TB6 / WB2-3 independent tasks; TB7 help; TB8 and\nWB6 fresh checks. This is flexible editorial pacing, not an official timetable.\nRead directions aloud. Use large safe bottle tops, smooth stones or paper\ncircles. Keep all materials reachable for seated participation. Allow touch,\npointing, speech and drawing. Model the move into one row; do not introduce\ncounting-on, carrying or totals through eighteen here.\nObserve: Does the child preserve all objects, count each once, distinguish\nthe separate sets from the total and read the entire number sentence? If a\nchild counts a set twice, return to 1+1, moving each counter once into one\nrow. Then use the new 2+1 recheck (TB7 / WB4). If equals is treated as an\nanswer arrow, build 3 and 2+1 side by side and read 3=2+1.\nDelayed recall, next session: Without showing earlier answers, ask the\nchild to join two and two counters and record the total. Then join one, one\nand two. Ask whether 4=2+2 is true and why. Answers: 4; 4; yes, both sides\nhave value 4. Record whether the child worked independently or with\nsupport.\nDo not infer mastery from copied numerals. Return to concrete objects when\nneeded.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-14.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+    "page": 2,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "f869b887def4b86e5cd45781b4f6476de0f71a65af666b9373becb2ee858f122",
+    "baseline_raster": "16714e02a3c885c1c2c909804c1a564409d2e446ce6d774b95f160fb3602659e",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "slug": "c8-wb-join",
+      "task_ids": [
+        "P1-08-Q1",
+        "P1-08-Q2",
+        "P1-08-Q3"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook/002.png",
+    "image_sha256": "37229f3956f4d510c0cd0aaab7dc50c56bee87e6824584599d5d6aac25edbcd7",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nJoin and count\nRead together. Say, point or use your workbook or exercise book.\nRead together. Write in this workbook.\nTry on your own. Use the bottle tops or counters. Write each missing\ntotal.\n1 + 2 = ______\n2 + 2 = ______\n1 + 1 + 1 = ______\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-14.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "80554ceac2cd67eeeeb8939289512ab4a183e9e9fcab43c361d1ae90823e88bc",
+    "baseline_raster": "976a0aa0cb956e681571cdce612a98ee02fa36e67e7c81fc2bf09899aea6f428",
+    "mapping": {
+      "chapter": "P1-08",
+      "role": "workbook",
+      "slug": "c8-wb-story",
+      "task_ids": [
+        "P1-08-STORY",
+        "P1-08-RECALL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook/005.png",
+    "image_sha256": "667cd841b3c910e7274dde53590e244e9d1769334e829f85ed6c3fbce4d5638c",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER EIGHT / PUT SMALL SETS TOGETHER\nCheck our counting tray\nRead together. Say, point or use your workbook or exercise book.\nRead together. Write in this workbook.\nThese are the same two bottle tops and one bottle top from the start of\nthe story. Count all the bottle tops.\nWrite the missing total: 2 + 1 = ______\nTell an adult how all four friends can enjoy three bottle tops fairly.\nRemember without looking back. Say what plus means. Say what equals\nmeans. Show how to check a total.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-14.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a6f04d57169e52de477b6a63448b7937f5fef9a9dbd13988e706b94d302b1bbb",
+    "baseline_raster": "94eada08d9810158bed0bb9309eefe7333e3526962961e2abb4dd5bb3e8789fe",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/001.png",
+    "image_sha256": "91ca69974f7b563fb322dd995074df58ac8562ffa28e61225c34797aed141e73",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FOUR / SIX TO NINE\nA place for every piece\nWe will count, read, write and order six to nine.\nRead together. Keep this textbook reusable.\nCount each one.\nCheck the group.\nMr Aliyu: Our class counting pieces are all mixed. Aishatu brought a box to\nhold them.\nAishatu: I want to fill my box now!\nGrace: Let us make neat groups first.\nAdamu: Everyone can take a turn to check.\nJohn: Then we can put the groups in number order.\nWe need four groups of counting pieces: six, seven, eight and nine pieces. We\nmust sort, count and check before we put them away.\nRead aloud. Use large, safe pieces at a reachable table.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-14.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 2,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "658416e38d435869b62bd1772d3e1b1f38e5ef82efbc4dd856af75cfb0b7610f",
+    "baseline_raster": "9f51d38f821da301f71370c0c971de66d016446349d5b58760d0cd4008512e0e",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-six-seven",
+      "task_ids": [
+        "P1-04-MODEL-6",
+        "P1-04-MODEL-7"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/002.png",
+    "image_sha256": "b92f206c5983e6b578247a038bdd55f61d3c301b8e4edc378eaf942da80d221b",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FOUR / SIX TO NINE\nFive, then one more\nWatch Mr Aliyu move each bottle top once. Count all the bottle tops in each tray.\nRead together. Keep this textbook reusable.\nMr Aliyu: Count the first five. Touch the next bottle top and say six.\nCount them all to check.\n6\nsix\nMr Aliyu: After six comes seven. This tray has five on the top row and\ntwo on the next row. Count all of them.\n7\nseven\nAdamu: I will move one bottle top each time I say a number.\nTry together with six real counters. Then make seven.\nPoint to each new numeral and say its name.\nThe last number word tells how many. Spreading a group out does not add bottle tops.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-15.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "eedf54afcefd73384bfee35f101453d43964e83ab575cb987b1ba61b108e417e",
+    "baseline_raster": "c42129d5f253630f0a72eefe758b3cb2e130dcd55b580628a036cf55e231c403",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-eight-nine",
+      "task_ids": [
+        "P1-04-MODEL-8",
+        "P1-04-MODEL-9",
+        "P1-04-GUIDED-READ"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/003.png",
+    "image_sha256": "0ba35d7e7e2118770dc06f69d5ec98d4ae37aa39c0acd7937a5154e50c134c22",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FOUR / SIX TO NINE\nCount eight. Count nine.\nTouch each bottle top once. Say how many. Read its numeral.\nRead together. Keep this textbook reusable.\nMr Aliyu: After seven comes eight. Count the five bottle tops, then the\nthree on the next row. Check the whole group.\n8\neight\nMr Aliyu: After eight comes nine. Count the five bottle tops and the\nfour on the next row. Check them all.\n9\nnine\nJohn: Give me time to count before you tell me.\nTry together: make eight real counters. Spread them out.\nCount again. Make nine in another group and check.\nNow an adult mixes cards 6, 7, 8, 9. Point to each card and say its number.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-15.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a8939bca645f4fe1176ae7293653612880f59430e7e1acb7158b8003bb9f601f",
+    "baseline_raster": "509b1ff2f68993c1460a32fb52d217af1514b86b21785df26c6211e6bc3fa44b",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-sort",
+      "task_ids": [
+        "P1-04-SORT-MODEL",
+        "P1-04-GUIDED-SORT",
+        "P1-04-S002"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/005.png",
+    "image_sha256": "6a58cc6c918ffe798f180459b9520c9644ee13872ebd403cb8281085d70ca715",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FOUR / SIX TO NINE\nSame kind, same group\nWatch sorting before you sort the real counting pieces.\nRead together. Keep this textbook reusable.\nMr Aliyu: I sort by shape. I put pieces with the same outline together.\nHere are two sorted groups. Count each group.\nSix round pieces\nSeven square pieces\nGrace: I sort the other pieces by their outlines.\nAishatu: I can wait, then help count each group.\nTry together: sort eight triangle pieces and nine rectangle pieces. Touch\neach piece once as you count.\nNow sort on your own. An adult mixes all the counting pieces. Make\none group for each kind. Count each group.\nRecord the counts in your exercise book. You may draw one shape to\nlabel each group.\nWorkbook: Sort and record.\nAn adult supplies the real pieces. You do not need to know the shape names yet. Point to\ntheir outlines.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-15.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 8,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "b06184a3a0b983236640d827549d4508d2aafde1b42ab95429403caad88ab333",
+    "baseline_raster": "d6ca44e4f8f39a5bcb94bafa160774a6b75ec73531a5de7cc58adb71200e3c08",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-ending",
+      "task_ids": [
+        "P1-04-ENDING",
+        "P1-04-FRESH-COUNT",
+        "P1-04-S003",
+        "P1-04-S004"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/008.png",
+    "image_sha256": "2fe3f5750f574613aa9d341f4dda431533f630551044404b024a2c91c3cf4ee4",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER FOUR / SIX TO NINE\nOur counting box is ready\nActually sort, count and arrange your four groups before putting them away.\nRead together. Keep this textbook reusable.\nAishatu: I have made a place for every kind.\nGrace: I checked each group by moving pieces once.\nAdamu: We all had a turn. Now the groups are in order.\nJohn: Six, seven, eight, nine. The number puzzle is solved!\n6\n7\n8\n9\nMr Aliyu: Every piece has a group. Every group has the right count.\nNow we can put the groups in our counting box.\nA fresh try. Ask an adult for new scattered groups to count, mixed numeral\ncards to read, and numbers to write without copying.\nUse Workbook: A fresh number try, or an exercise book.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-15.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "e3774069a4d1fd26b1de8806e70e830e0718b0b933a48e176691b61e7a3768ec",
+    "baseline_raster": "103d29682a4dc336b58ab2a1fd2ebaf2a8b38ce09cf801cf57a99f089aeb42f4",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-guide",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/009.png",
+    "image_sha256": "ed087755f3390cb825f93183e85c6c7293e0750f1c5d3fb35c6548885a9b9276",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / SIX TO NINE\nTeach, notice and return\nAdult guidance / Several short sessions, not a race through four numerals.\nChapter four / Educational review edition\nSequence. TB1 purpose; TB2-3 quantities six/seven then eight/nine, numeral names\nand one-to-one counting; TB4 live formation/air-writing; TB5 actual sorting; TB6\nmodelled quantity order and source tasks; TB7 drawing model, recall/support; TB8\nactual sorting/counting/ordering resolution, then fresh checks. Do not advance before\neach quantity is secure. Existing introductions remain in the opening book.\nPrepare. Reachable mats, large safe counters, paper/pencil and cards 1-9. For S002\nprepare 6 blue circles, 7 red squares, 8 green triangles and 9 yellow non-square\nrectangles. Model sorting by outline; shape naming is not assessed. Printed pieces use\none colour to show the outline rule. All 30 pieces stay in the same four story groups.\nSquares remain a special kind of rectangle; use the most specific names here.\nSeparate skills. Observe quantity, count-once method, recognition, independent\nnaming, dictation/formation and order separately. Counting correctly does not prove\nreading; copying does not prove writing from dictation. For reversed 6 or 9, keep paper\nupright and watch the loop/downstroke. Accept usual communication and established\nadapted writing methods.\nSupport/recheck. Use counted/uncounted mats and five counters plus one. Model six,\nthen independently check a new seven set. If sorting is hard, sort two small groups then\nrebuild the target groups. For numeral difficulty, air-write/trace one form, cover it, then\ndictate it; later retry a different order. Do not label a child as the weak counter.\nDelayed recall, next session. Count fresh sets of 6, 7 and 8. Read shuffled cards 9, 6, 8, 7\nindependently. Dictate nine, seven, six, eight: 9, 7, 6, 8. Order 8, 6, 9: 6, 8, 9. Sort 7 bottle tops\nand 9 leaves; state each count. Record which skills need support.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-16.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 10,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "3fbbcd28558eedf8548bb63342931de8f05fc4149f04bf54b62b06bcafeaca66",
+    "baseline_raster": "b8b526355923ac06ce1ae468caa17afde1cc6fb8247ba15d3186de8f87ab57e6",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-answers",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/010.png",
+    "image_sha256": "38830a614403c6d72c7af5191e6920b8049b4fdb36b0784d274e4107ac74abf8",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / SIX TO NINE\nAnswers and independent checks\nAdult task map / TB = this textbook; WB = its paired workbook.\nChapter four / Educational review edition\nSource tasks. P1-04-Q1 (TB6/WB2): 7. Q2 (same): 8. Q3 (same): 6, 7, 8, 9. Q4\n(TB7/WB3): exactly 6 separate dots, any clear arrangement. Q5 (same): exactly 9 real\nobjects, each counted once; state 9. Q6 (TB7/WB4): recount 8 once per object; the last\nword is eight. Moving each counted object is valid. Check the method as well as the\ntotal.\nEvery model. TB2: 6 is five and one; 7 is five and two. TB3: 8 is five and three; 9 is five\nand four. Spreading changes no quantity. TB4/WB1: recognisable 6, 7, 8, 9; loop below\nfor 6, above for 9. TB5: 6 round/7 square; guided 8 triangle/9 rectangle. TB6: pairing 6\nand 7 leaves one unmatched in 7; seven goes between six and eight. Before/after mean\nearlier/later in counting order. TB7: 2 counters/2 dots; support 6, recheck 7. TB8: groups\nof 6, 7, 8, 9 in increasing row order.\nS002 (TB5/WB5). Mix all 30 pieces. Sort by outline, count and record: 6 circles, 7\nsquares, 8 triangles, 9 non-square rectangles. Order: 6, 7, 8, 9. Observe actual sorting;\nwritten counts alone do not demonstrate it. For story closure (TB8), verify all 30 pieces\nin these groups before putting the pieces in the counting box.\nFresh checks (TB8/WB6). Privately prepare new scattered groups of 8 and 9; answers\n8 and 9. S003: count 9 objects once each, then independently name ALL shuffled cards\n1-9 without supplied names. Test recognition separately by naming 6, 7, 8, 9 in a\ndifferent order. Before dictation, cover ALL cards, printed numerals and the pupil's\nhandwritten count answers, including the totals on WB6. S004: dictate eight, six, nine,\nseven; answers 8, 6, 9, 7, correctly oriented. Do not show answers or read this rubric\naloud while testing.\nSame tasks on both surfaces count as one check. New physical objects, independently shuffled\nnaming and covered-model dictation are fresh evidence. No tasks have been administered to\npupils.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-16.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "9708ff24584e222443bcb934b295aef65613a2a2536b6284f838648968155ac5",
+    "baseline_raster": "94fcaad19295e48697eabd6970605e4b7988b998f1d5fd96a5c37fd008f1393b",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "textbook",
+      "slug": "c4-notes",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Textbook/011.png",
+    "image_sha256": "33ca28f288eb91f0d721e33f4ad3937a1a62873f6ee823d953437e8ed01f0a92",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / SIX TO NINE\nWords, evidence and credits\nChapter four continuation / Not a completed annual book.\nChapter four / Educational review edition\nWords. Six/seven/eight/nine: quantities after five. Count: say one number word per\nobject. Numeral: written number symbol. Sort: group by a rule. Order: arrange from\nfewest to most here. Before/after: earlier/later in the counting sequence. Outline: the\nedge of a shape. Shape names may be read by an adult; they are sorting materials, not\na new naming test.\nHistorical mapping. P1-p02-01: sorting/classifying quantities; -02: identify quantities;\n-03: count/read through 9; -04: write 6-9; -05: quantity order. Original P1-04-Q1-Q6\nprompts, answers and order retained. S002 adds actual four-type sorting; S003 adds\nshuffled reading; S004 adds independent dictation. The historical baseline and\nsuggested pacing do not establish current curriculum alignment.\nProvenance. Reused fictional Mr Aliyu classroom image:\nartwork/redesign/scenes/mr-aliyu-blackboard-v1.png; original image_gen\nprompts/references in adjacent provenance and artwork/manifest.json. No new AI art. Bottle\ntops, dots and shape pieces are deterministic vector drawings; never count decorative\nclassroom art. Fonts: DejaVu Sans, fonts/LICENSE_DEJAVU.txt.\nLimits. Current applicable curriculum/Gombe adoption, local educator/pupil trials,\naccessible-PDF certification, actual-size print proof and printer approval remain pending. No\nlearning outcomes, official approval or press-ready claim. Ordinary exercise\nbook/card/counters suffice without a device.\nPrimary Two preview. Larger numbers, exchanging tens, equal groups and further\nmeasurement are planned. Revisit these foundations first. The final four offline-AI pupil\npages and annual revision/assessment remain part of the planned full Primary One\ntextbook, outside this extract.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-16.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "4a4c148c650f83f94226dab5f3b485205be0f8eb9dc40b15095953e6728a7f51",
+    "baseline_raster": "c022d15dd6679ea110684da2faab1e8dc96d3a1c9061c27262e0046ed443e2e8",
+    "mapping": {
+      "chapter": "P1-04",
+      "role": "workbook",
+      "slug": "c4-wb-sort",
+      "task_ids": [
+        "P1-04-S002"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Six-to-nine-Workbook/005.png",
+    "image_sha256": "baa24eefde4be22998f7cbe9581262bfad135e3c723b9d4874d1b51d41b7e9b4",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER FOUR / SIX TO NINE\nSort and record\nAn adult prepares and mixes the pieces. Shape names are not required.\nRead together. Write in this workbook.\nSort the real mixed counting pieces by their outlines.\nCount each group. Write its count beside the matching picture.\nNow put your real groups from fewest to most.\nWrite their counts in that order.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-16.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "1ed046ee7d6f858f31355d0c46bd4283e538df767afea67ed7e0528a694eb978",
+    "baseline_raster": "9efebcc14a03a7fe3463a40f1378bdfffbcd8ee1dbec661008d27b2370379bba",
+    "mapping": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "slug": "solids-textbook-1",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Solid-shapes-Textbook/001.png",
+    "image_sha256": "debc13b49bda06ea6d380dfd9a557aff1280a14524b82359261d76b1c0982715",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nSOLID SHAPES AROUND US\nSort our classroom objects\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nShapes around us\nLook, feel and sort.\nMrs Binta: Our classroom shelf needs groups of solid objects. Which objects\ncan stand? Which can roll?\nAishatu: I brought a box for the shelf. I can wait for a turn.\nGrace: I will make neat groups.\nAdamu: Everyone gets a fair turn.\nJohn: Put the tray within reach. Let me solve the puzzle.\nWe will name, sort and compare solid shapes, then find examples.\nPage 1\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-17.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "7aeaad25aeab8d9ab606a280b061edfffc88cb610f3f7e578667650ac23940bf",
+    "baseline_raster": "7058cf4242ae4c6b44f14368570a6b26f3e61f618cc397649afefbbb778c1d24",
+    "mapping": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "slug": "solids-textbook-3",
+      "task_ids": [
+        "P1-17-MODEL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Solid-shapes-Textbook/003.png",
+    "image_sha256": "4ba97407e69b0ca901e96b599a0f7cef047f9dc91d8e7e93c610bf63f98c31d6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nSOLID SHAPES AROUND US\nWatch Mrs Binta sort\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nMrs Binta names each model, then points to it when a child says its\nname. She turns each model and checks its features. Watch her put\nit with its matching group.\ncube\nnon-cube\ncuboid\ncylinder\nsphere\nCube: six equal square faces; all its edges are equal.\nNon-cube cuboid: six rectangular faces; opposite faces match. This\nlong box has unequal neighbouring edge lengths.\nCylinder: two flat circular ends and one curved surface.\nSphere: curved all round; no flat face.\nA cube is a special cuboid. We use the more exact name cube in our four\ngroups. A large cube block, long box, safe closed straight-sided tin and\nfootball are everyday models. Real objects only approximate perfect\nsolids.\nPage 3\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-17.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+    "page": 4,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "32d1e93c12a398b0821b4e511fc3a89a602643ac1f42d19d687b058075e8b107",
+    "baseline_raster": "0177e31362a7218d582a10c0012a3a2da7c941261a4757dd396cae2db6756343",
+    "mapping": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "slug": "solids-textbook-4",
+      "task_ids": [
+        "P1-17-HANDLING"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Solid-shapes-Textbook/004.png",
+    "image_sha256": "c5f5919e047afe7aca602758cea088aa3040252d3a7211bc1c38ab3cd09b19d6",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nSOLID SHAPES AROUND US\nTest before choosing\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nAn adult chooses large, clean, safe models: a cube block, a clear\nnon-cube box, a safe closed straight-sided tin and a football. No\nsharp tins or small choking hazards. Use a level, reachable table.\nKeep gentle movements under control.\nMrs Binta feels the flat faces and curved parts. She gently tries the\nball, then lays the cylinder on its curved side. Both can roll! She\nstands the cylinder on a flat end. It can support another suitable\nflat-ended model. A sphere has no flat end to stand or stack steadily\nlike that.\ncylinder\nsphere\nRolling alone cannot tell all four groups apart. Look at flat faces,\ncurved parts and edges too. A box may slide or tumble. Observe\nwhat YOUR safe objects actually do.\nIf models are unavailable, discuss the pictures. An adult records picture interpretation\nonly, not successful handling.\nPage 4\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-17.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+    "page": 12,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2d542cdfe536224fd4adc048371962696f7a47a0f22c6b49e726231adeb94d72",
+    "baseline_raster": "7a61e4ea7db238ca9aa96c14a853bebb304249b2d0558268febfa568a99d61e9",
+    "mapping": {
+      "chapter": "P1-17",
+      "role": "textbook",
+      "slug": "solids-textbook-12",
+      "task_ids": [
+        "P1-17-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Solid-shapes-Textbook/012.png",
+    "image_sha256": "2c86d3bf9c8c4dae73d82d613fe6d390c11bee24f8a1e876556e96ac559084a5",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nSOLID SHAPES AROUND US\nThe store has a place for each\nRead together. Use the workbook or an exercise book.\nRead together. Keep this textbook reusable.\nEveryone returns to the classroom shelf. Grace now checks flat\nends, not just rolling. Aishatu waits while Adamu shares the\nreachable tray. John chooses a flat-faced box for a steady shelf. Mrs\nBinta checks the safe models with them.\ncube\nnon-cube\ncuboid\ncylinder\nsphere\nThey place the models in four most-specific groups. The ball goes\nwhere it cannot roll away. The cylinder stands on its flat end. The\nboxes have flat faces to rest on. Now their choices have reasons!\nExplain their choices in your own words. Use workbook page 8 or your exercise\nbook. This story shows a plan; your own practical result depends on your safe\nmodels.\nPage 12\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-17.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "a0d4ebc00314e7c974769facb86034c141e15909e1811e156424e9558af0ee61",
+    "baseline_raster": "16b82868367570f4c81dc1b120a97e8a3bed08ac6e062254e3d42d6c8f581a4a",
+    "mapping": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "slug": "c11-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Take-away-Textbook/001.png",
+    "image_sha256": "6132572ec9ca6ef1447d673a923157cdfaddb878b80397e25889635f04108920",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER ELEVEN / TAKE AWAY\nChalk for our classroom\nRead together. Use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nTake some away.\nFind what is left.\nMrs Binta: We have 12 chalk pieces in our classroom box. We will take 3\naside for the class board. How many stay on our mat?\nAishatu: I want to start now!\nGrace: Keep the groups tidy so we can check.\nJohn: Let me solve it before you tell me.\nAdamu: Everyone can reach the mat and have a turn.\nWe will take away, count what remains and check by adding back.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-18.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "0fd1d440661bebe60b9f98ade6e838371bb2d3cb5db617d42b470e1a4b83b6e0",
+    "baseline_raster": "3d0e47a7897388227c116fe6802e8e0ec1f73067eed19418046fdaf1c05a5ef2",
+    "mapping": {
+      "chapter": "P1-11",
+      "role": "textbook",
+      "slug": "c11-ending",
+      "task_ids": [
+        "P1-11-STORY"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Take-away-Textbook/011.png",
+    "image_sha256": "7eb17b4e7f33d3dafd405d10ecf2cfe34aa2ab4fa7ff9a56f380cfe5d5760db4",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER ELEVEN / TAKE AWAY\nThe chalk is ready\nRead together. Use your workbook or exercise book.\nRead together. Keep this textbook reusable.\nReturn to the 12 chalk pieces from our story. The practice counters were\nseparate. Each dot below stands for one story chalk piece. Three pieces\nstay on the board tray; the others stay on our mat.\nStill on the mat\nTaken aside: keep these visible\nGrace: Nine pieces remain on the mat.\nJohn: 9 + 3 = 12. We have found every piece.\nAdamu: We all had a fair turn checking.\nAishatu: Waiting helped! Now we have 3 pieces for the class\nboard and 9 to put back in the box.\n12 − 3 = 9. No chalk has disappeared.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-18.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "71965bbbd6db80fb05a9639221e62a956dfeed3eb03185bc3c90f6190f4014d8",
+    "baseline_raster": "c31b255b2135cd08a56a68949e96839947cbc2de5357e2d76d7c28fd4660a8ac",
+    "mapping": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "slug": "time-a-mixed-up-story-strip",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Time-Textbook/001.png",
+    "image_sha256": "005953bbfb9bcd8e6e7db8ed82cd8dd85f160f57c151abe74f82aeec638c21ad",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nOUR DAY IN ORDER\nA mixed-up story strip\nRead together. Listen while an adult reads the cards.\nRead together. Keep this textbook reusable.\nOur day in order\nBefore and after\nMrs Binta: Our class display needs a home-and-school story strip. The\ncards are mixed up!\nAishatu: I brought the cards. I can wait while we sort the story.\nAdamu: Give everyone a fair turn.\nGrace: Let us keep the cards neat.\nJohn: Put them within reach. Let me solve the order first.\nWe will put events in order and say when things happen at home and\nschool.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-18.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "776d4ab1234893e4bddfc192dfa106804926e0aaf5eac268854a761794cbb136",
+    "baseline_raster": "b2627d9c69e2a47795c9fb60221f203df21a6ec2d1c7cde626492a88b4a25fa2",
+    "mapping": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "slug": "time-watch-completed-drawing-cards",
+      "task_ids": [
+        "P1-15-DRAW-MODEL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Time-Textbook/003.png",
+    "image_sha256": "f37c9f4804ddce271e5efe345410507aba56ee452d56477e6b1c59005bfc7f9e",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nOUR DAY IN ORDER\nWatch completed drawing cards\nRead together. Listen while an adult reads the cards.\nRead together. Keep this textbook reusable.\nMrs Binta: I draw a house-building story. Watch the finished\npictures. First I draw a wall. Next I add a roof. Last I add a door. I\nkeep each earlier part.\nFirst: wall\nNext: roof\nLast: door\nI point to each picture: wall first, roof next, door last. Adding the\nroof comes after the wall and before the door. I can tell this story\nwithout writing words.\nAishatu: The pictures show my idea! I will use this method to draw\nanother story later.\nAn adult can draw or hold cards for you. Your pointing, words or actions\ncan show the order.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-18.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+    "page": 11,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "c647b680fe77e7eff8ecf12021980c9dac1fca9a04a58cc996655a7b6713fea6",
+    "baseline_raster": "e77303714faa522c50d47e795568374a626c969bc8253c034f86be84a95c1ad2",
+    "mapping": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "slug": "time-the-display-tells-a-story",
+      "task_ids": [
+        "P1-15-CLOSURE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Time-Textbook/011.png",
+    "image_sha256": "627638f2fefbf76d9b39de7f532b733b2550dfb45daeae756d208026e45ffd1a",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nOUR DAY IN ORDER\nThe display tells a story\nRead together. Listen while an adult reads the cards.\nRead together. Keep this textbook reusable.\nAishatu: First wall, next roof, last door! Our pictures now tell how\nthe house was built.\nGrace: I checked the story, not the loose card positions.\nJohn: The puzzle is solved.\nAdamu: We all had a fair turn.\nFirst: wall\nNext: roof\nLast: door\nMrs Binta: Our display is ready. We add this story: make the toy at\nhome in the afternoon; share it at school next morning. Now visitors can\nfollow what happened.\nTell the display story aloud, or use workbook page 6 or an exercise book.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-19.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+    "page": 15,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "5aa177c091f22fef8011960bf449ecd34c06209d25f52068c1b93b66dad8ea3c",
+    "baseline_raster": "57f556f54024e11df1912a496d6c9a4535e41ce46051bb80f6b082e19cd66c65",
+    "mapping": {
+      "chapter": "P1-15",
+      "role": "textbook",
+      "slug": "time-answer-map-3",
+      "task_ids": [],
+      "answer_ids": [
+        "P1-15-HELP",
+        "P1-15-RECHECK",
+        "P1-15-CLOSURE"
+      ]
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Time-Textbook/015.png",
+    "image_sha256": "33b3c405b2d737576efa7655a71e197e9297cacf02837c1c9c36c5a6ffe72a41",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR ADULTS / TIME\nAnswer map 3\nTeacher guidance / provisional chapter extract\nTime / Educational review edition\nP1-15-HELP / help\nWith two cards: first open a storybook at home in the evening; next read it at home in the\nevening. Opening is before reading. Add the third card: close it last, after reading. School\nexample: teacher reads a story in the afternoon in the stated school. Same activity can\nhappen in more than one setting/time.\nP1-15-RECHECK / recheck\nNew recheck without supplied answers: first take clay at school in the afternoon; next shape\nclay there in the afternoon; last show the toy at home in the evening. Taking is before\nshaping; showing after shaping. Name school/afternoon and home/evening. Support may\nread and move cards but cannot supply the response.\nP1-15-CLOSURE / story\nAishatu's house picture sequence is wall, roof, door. Put the story strip with it: make toy at\nhome in the afternoon, then share at school next morning. Opening problem resolved by an\nordered exhibit; Adamu gives fair reachable turns; all four contribute.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-19.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "da126f197a3fd7082efe9db158c265b77c5b50113de960bc6915292a646a99a5",
+    "baseline_raster": "6c2e8520cc33ef5c5dd15339e18437423376a599b79cf245f9200214aa22e67a",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-story",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/001.png",
+    "image_sha256": "6eb1f0a91e79c70d0b718eab10703a6b0c2cacca581998970c5e9ffae9d5d51e",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nIs the game mat empty?\nWe will learn the number for none. We will read and write it.\nRead together. Keep this textbook reusable.\nLook inside.\nIs it empty?\nMrs Binta: It is time to put our counting materials away.\nAishatu: My box is ready. I want to pack it now!\nAdamu: Let everyone help put the bottle tops away.\nGrace: We must check the mat before closing the box.\nJohn: How can we record that none are left? Let me try.\nOur game mat has three bottle tops. We will put them all in the storage box.\nFirst, Mrs Binta shows us the number for none.\nUse large, safe counters at a table everyone can reach.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-19.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 2,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "61748ed9a6b975d04f2188de5ba419b31289238546d20978e81a2401e398422b",
+    "baseline_raster": "116dc76108e60dbd8cacc5c2fb94a9f8d80a705a97569930e482792b88fad5ef",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-model",
+      "task_ids": [
+        "P1-03-MODEL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/002.png",
+    "image_sha256": "2eec22b5b624e92d60fb29ade4efa692e36d30fc1a451125f29ac6ffb8fe36da",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nNone has a number\nWatch Mrs Binta with a tray and real counters.\nRead together. Keep this textbook reusable.\nMrs Binta: Here are two bottle tops. I count each one once.\nThen I move both bottle tops into a storage box.\nMrs Binta: Look inside the tray now. No bottle tops are left.\n0\nzero\nZero tells how many bottle tops\nare in the empty tray.\nAishatu: I see one tray. Is the number one?\nJohn: We are counting the bottle tops inside. There are none.\nMrs Binta: Yes. The tray is here. It holds zero bottle tops.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-19.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "556b24982e603c9df591b3a49af85e2b128979d56f11b0002bbfd7859d127a51",
+    "baseline_raster": "08a068af12d994f1e8ae2b28762ed1019423e71ceab3b0aa231f858cf75b96f8",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-guided",
+      "task_ids": [
+        "P1-03-GUIDED",
+        "P1-03-FORM-MODEL"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/003.png",
+    "image_sha256": "6108d98904be3c6b7e09cd6068d49c7828146a7c4ee5c3f9f8eef35bcce04f13",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nSay it. Make it. Write it.\nTry together before working on your own.\nRead together. Keep this textbook reusable.\nMrs Binta: Put one bottle top on a tray. Move it into the box.\nAdamu: I will wait for my turn to check inside.\nSay how many bottle tops are left. Point to the numeral for none.\n0 2 1\nMrs Binta: Watch me write zero. Start at the top.\nGo left, down, around and up. Close the loop.\nStart\nGrace: I will make one neat loop.\nAir-write with Mrs Binta. Then write 0 on your\nown paper. Try again if the loop stays open.\nWatch an empty-box drawing. Mrs Binta draws the outline. She leaves the\ninside empty. Then draw your own empty box on paper.\nThis box has nothing drawn inside.\nSay the order together: 0, 1, 2, 3.\nShow none, one, two and three real bottle tops as you say each number.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-20.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 4,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "d2d35203b3c569a05403e310f5e3ebe02ec4d0fb872895ffe847bec49875e349",
+    "baseline_raster": "24008b3b214b5cac299143c462fd1ddb757711ae256360b72d0d417aff5cd471",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-independent",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-Q3"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/004.png",
+    "image_sha256": "e59f1f96d6642cfbe207c42aa7f374f5c45fd148890df3c6165a279eaa2f9c01",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nYour turn with zero\nUse workbook pages called Empty and not empty, and Make and order zero, or an exercise\nbook.\nRead together. Keep this textbook reusable.\nLook inside this empty tray.\nWrite the number for its bottle tops in your exercise book.\nDraw an empty box in your exercise book.\nLeave nothing drawn inside it.\nSay these numbers in order.\nWrite the missing number in your exercise book.\n0, 1, __, 3\nTry without a hint first. Then check with real counters.\nKeep this textbook clean. Put writing and drawings in your workbook or\nexercise book.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-20.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 5,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "8bb4f0ba6cfaea8d957fd44c2e95b5e62402c93cf465062eba1144b96396ed6e",
+    "baseline_raster": "366c80391ac7b712bf12ff0b76d7a5210e84ef2da9c0f8df08ae15642d865d74",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-recall",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/005.png",
+    "image_sha256": "b4fb2af23d3427d37d389b41f61803afbe9046a620eedec8abfca25b8d61b56e",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nRemember and explain\nRemember what Mrs Binta showed before looking back.\nRead together. Keep this textbook reusable.\nPut all 3 bottle tops away. How many remain?\nUse three real counters and a storage box.\nWrite how many are left in your exercise book.\nSay the word for 0.\nWhy does an empty basket have 0 oranges?\nTell a partner or show your answer with an empty container.\nJohn: Give me thinking time before a hint.\nTell or show how you know a tray is empty.\nNeed help? Put one counter in a tray. Move it into a box with an adult. Look\ninside the tray. Say how many are left. Match the empty tray to 0.\nThen try a different tray with two counters. Put both away. Say and write how\nmany are left on your own paper.\nWorkbook: Put away and explain. Move real counters as well.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-20.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 6,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "1dd78c74748496be4a9c3e4bf3e423043193e5df25883113f43a5bec4998a4cf",
+    "baseline_raster": "a5a675e8d33f1bb1769f0017d01eb98a44d94a6e36ce59215dabae945190e11f",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-ending",
+      "task_ids": [
+        "P1-03-ENDING",
+        "P1-03-FRESH-EMPTY",
+        "P1-03-FRESH-RECOGNISE",
+        "P1-03-FRESH-READ",
+        "P1-03-FRESH-WRITE"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/006.png",
+    "image_sha256": "b9283a8fc3fd0b5c5d384e8ef9d7981872b758003da729b51bebbe1a8628555f",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nCHAPTER THREE / ZERO MEANS NONE\nThe game is packed away\nUse our three real game counters. Move them from the mat into the storage box.\nRead together. Keep this textbook reusable.\nAdamu: We take turns moving every bottle top into the box.\nGrace: I check the mat. No bottle tops are left.\nJohn: We can record none with zero.\nAishatu: Now I can close the box. Our table is tidy!\nGame mat\nStorage box\nMrs Binta: Zero bottle tops on the mat. Three bottle tops safely stored.\nCheck your real mat is empty before you close the box.\nA fresh try. Work on your own.\nAn adult sets out three trays. One is empty.\nPoint to the tray with no counters. Write how many it holds in your\nexercise book.\nAsk the adult to mix cards 0, 1, 2, 3, 4, 5.\nPoint to the numeral the adult names.\nNow name each card the adult points to. Wait for your turn.\nCover all cards, earlier answers and numerals. Write zero from memory.\nWorkbook: A fresh zero try. An adult prepares the trays and cards.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-20.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 7,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "baa54d9526c834b3321930ef2fbd37631b83274629be838f1788d5365ea67627",
+    "baseline_raster": "01de376704791cee964cc717660031b16511f7f46c08dc0a4d0e6acf57642937",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-guide",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/007.png",
+    "image_sha256": "467cc90ba55a529a52e65a61439345d53c3d23157a2d5334ee680414c91a4b26",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / ZERO\nTeach, notice and return\nAdult guidance / Read instructions aloud. Observe separate skills.\nChapter three / Educational review edition\nSequence. Pupil textbook pages 1-6: classroom purpose; two-to-none demonstration\nand the meaning of 0; guided one-to-none, recognition, numeral formation and\nempty-box drawing; independent source tasks; recall/support; actual packing resolution\nand fresh checks. Use the existing book introductions; this continuation does not repeat\nthem.\nPrepare. Large safe counters, reachable tray/mat, storage box, pencil/paper and\nordinary cards 0-5. Demonstrate each physical action. The trays/boxes in exact\ndiagrams are containers, not counted bottle tops. Never count decorative classroom\nartwork. No subtraction or equality notation is needed in these pupil pages.\nNotice. Separate empty-set meaning, recognition, independently naming a numeral,\nand writing without copying. A child may count the tray as one: ask what is being\ncounted, then inspect its contents. An open or reversed loop needs formation practice,\nnot a judgement that the child cannot understand none. Accept usual communication\nfor naming; use an established adapted writing method where needed.\nIntervene, then recheck. Use one counter and another container. Model moving it\naway and checking the contents. Link none to 0. Recheck independently with two\ncounters and a fresh tray, both put away: zero remain. For writing, air-write and trace a\nlarge closed loop, cover the model, then dictate zero on blank paper. Give specific\nfeedback and retry later.\nDelayed recall. Next session put three counters in a different basket, then ask the pupil to\nput all away: zero remain. Mix cards 2,0,4: independently name two, zero, four without an\nadult supplying the names. Cover them and dictate zero: write 0. Record meaning,\nrecognition, naming and formation separately; give further supported practice if needed.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-21.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 8,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "2030285554a455e1fabbe876903b224322a3d69ab69256d1845b17715076b004",
+    "baseline_raster": "ea05d698246c4bfd0b7735b59608dd6ff1e4c893e38f8323286900e45363bb29",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-answers",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/008.png",
+    "image_sha256": "b7f22c89ce816301c0a04be3e0d7f9c87fad8309a7fbfe63a71367dd70888451",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / ZERO\nAnswers and fresh checks\nAdult task map / TB = this textbook extract; WB = its paired workbook.\nChapter three / Educational review edition\nSource questions, unchanged meaning/order.\nP1-03-Q1 (TB4/WB1): 0 bottle tops in the empty set.\nQ2 (TB4/WB1): a closed box outline with nothing inside; acceptable neat alternatives.\nQ3 (TB4/WB2): missing numeral 2 in 0,1,2,3.\nQ4 (TB5/WB3): all three put away; 0 remain.\nQ5 (TB5/WB3): say zero, using usual communication if needed.\nQ6 (TB5/WB3): no oranges are inside the basket; the basket exists.\nModels/guided (TB2-3/WB1-2). Two bottle tops before moving, zero after. One bottle\ntop moved away leaves zero. Choose 0 among cards 0,2,1. Closed oval for 0; arrow\nshows downward direction on the left. Empty-box outline is a model, not a writing space\nin the textbook. Real quantity sequence none/one/two/three matches 0/1/2/3. WB1\ncompleted example: 1 bottle top, written numeral 1.\nRecall/support/ending (TB5-6/WB3). Recall: no objects inside. Support: one then\ntwo counters moved away, zero remain. Ending: zero on mat, three stored; actually\nmove counters and check the mat before closure. Count stored objects once each; no\nobjects are lost or added.\nFresh checks (TB6/WB4). Privately prepare trays with 0,2,4 safe counters; change\npositions. Empty tray contains 0. Write 0 without copying. Shuffle cards 0-5 (no fixed\norder); ask recognition by naming a card, then independently test reading by pointing\nwithout saying its name, including 0 and two other values. Before dictation, cover all\ncards and earlier written/printed numerals, including the first count answer on WB4.\nThen dictate zero. WB4 records separate recognition/reading/writing results; repeated\ntasks on two surfaces are one assessment, not two.\nDo not prompt an answer before a naming check. Vary tray positions and card order. Compare\nobservable actions with the rubric; these activities have not been administered to pupils.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-21.png full-page tile2, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+    "page": 9,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "76524000c3563a8173c7c06ee2d832a3dd0dbde26ebf46b2860570030ca7e127",
+    "baseline_raster": "1e4c57b56bf5863a8ee75e73c8846a46a4dd90b8ce5f58643307786fd1a2bf29",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "textbook",
+      "slug": "c3-notes",
+      "task_ids": [],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Textbook/009.png",
+    "image_sha256": "ff24b6e25b500d5e3154b61dc52ce3cd5592dba6cd18f3426bb6a581da6107fe",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / TEXTBOOK\nFOR THE TEACHER / ZERO\nWords, evidence and credits\nChapter three continuation extract / Not a completed annual book.\nChapter three / Educational review edition\nWords. Empty: nothing inside. None: no objects of the kind being counted. Zero:\nthe number for none. Numeral: a written number symbol. Mat/tray/box: containers\nor surfaces whose contents we count. An empty box is still a box.\nHistorical mapping. P1-p01-06: zero as empty collection; -07: read zero; -08: write\nzero. Stable P1-03-Q1-Q6 preserve source prompts, order and answer meanings;\nconcrete independent empty-set/recognition/naming/formation checks extend the\nsource. Subtraction notation in the legacy worked field is intentionally not used before\nits prerequisites.\nArtwork and type. Existing fictional Mrs Binta classroom image reused without editing:\nartwork/redesign/scenes/mrs-binta-blackboard-v1.png; original image_gen\nprompt/references are in adjacent provenance and artwork/manifest.json. No new AI art.\nAssessed bottle tops, trays, oval and lines are deterministic vectors. DejaVu Sans fonts:\nfonts/LICENSE_DEJAVU.txt.\nProduction limits. Historical baseline plus explicit provisional assumptions; current\napplicable curriculum/Gombe adoption, local educator/pupil trials, accessible-PDF\ncertification, physical print and printer approval remain pending. No classroom outcomes or\nofficial approval claimed. No external device needed. Use an ordinary exercise book if there\nis no workbook.\nPrimary Two preview. Larger numbers, exchanging tens in addition/subtraction, equal\ngroups and further measurement are planned. Revisit these foundations first. This is a\nseries preview, not verified current alignment.\nThe eventual full Primary One textbook retains four final offline-AI pupil teaching pages before\nadult back matter. They and annual revision/assessment are outside this chapter extract.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-21.png full-page tile3, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+    "page": 1,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "ebcfeac2046b644f7db4fae64075ace0c60583317f4f70b4f338a4b8b759de5d",
+    "baseline_raster": "d1838900f51b5469e51cb4c60d5031155d471183fa411e0cf779b13e90bbed48",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "workbook",
+      "slug": "c3-wb-empty",
+      "task_ids": [
+        "P1-03-Q1",
+        "P1-03-Q2",
+        "P1-03-GUIDED"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Workbook/001.png",
+    "image_sha256": "6dd966ab6d603d71df01a2f071b2f59a8320d5f427924cea2104361b7a345036",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER THREE / ZERO MEANS NONE\nEmpty and not empty\nRead aloud. Use the paired textbook Your turn with zero, or work here.\nRead together. Write in this workbook.\nA completed example. There is one bottle top in this tray.\nThe written number beside it is 1.\n1\nNow look inside this tray. Write the number for its bottle tops in the\nsmall space.\nDraw your own smaller empty box inside the space below.\nMrs Binta has shown an empty-box drawing in the textbook.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-21.png full-page tile4, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  },
+  {
+    "pdf": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf",
+    "page": 3,
+    "pixels_unchanged": false,
+    "text_unchanged": false,
+    "current_raster": "0ed1ee2044fbea1db225324375ebd851f4db1067a38d0b5088bf1ece45355071",
+    "baseline_raster": "3be272c7195295df0f6d4daf1fc3bad9a0d61f2786969791315c9d56b5c02cbc",
+    "mapping": {
+      "chapter": "P1-03",
+      "role": "workbook",
+      "slug": "c3-wb-explain",
+      "task_ids": [
+        "P1-03-Q4",
+        "P1-03-Q5",
+        "P1-03-Q6",
+        "P1-03-RECALL",
+        "P1-03-SUPPORT"
+      ],
+      "answer_ids": []
+    },
+    "image": "output/gombe-wording/reviewer-rasters/Maths-with-Friends-Primary-1-Zero-Workbook/003.png",
+    "image_sha256": "698c55e9f94e44177d105501521f6b0db77f4bd3a2c4ae29e86db1692a97a8d8",
+    "text": "MATHS WITH FRIENDS\nPRIMARY ONE / WORKBOOK\nCHAPTER THREE / ZERO MEANS NONE\nPut away and explain\nRemember the lesson before looking back. Use large, safe real counters.\nRead together. Write in this workbook.\nPut all 3 bottle tops away. How many remain?\nUse three real counters. Move them into a storage box.\nWrite how many remain on the mat.\nSay the word for 0. Tell an adult or use your usual way to\ncommunicate.\nWhy does an empty basket have 0 oranges?\nTell or show a partner. You may also draw below.\nNeed help? Try one counter with an adult. Then try a fresh tray with two.\n",
+    "visual_inspected": true,
+    "reviewer": "/root/local_wording_review",
+    "inspection": "reviewer-contact-22.png full-page tile1, alongside exact extracted text; opened in this session",
+    "layout_result": "pass: readable title/body/board, mathematical vector clarity, no clipping/collision; response spaces and reusable-textbook directions retained"
+  }
+]

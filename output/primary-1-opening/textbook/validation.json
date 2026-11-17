@@ -1,6 +1,6 @@
 {
   "pages": 22,
-  "sha256": "3c586b96ae721ddd94e1112033ea2189d6e72a7844d126727f7a1c2999ac4ed3",
+  "sha256": "577c41e7fdaaaae1ff152bbedaeab4dfe0ec220657ab1c461d0561c36685613e",
   "page_manifest": [
     {
       "slug": "welcome",
@@ -94,7 +94,7 @@
     {
       "slug": "c1-ending",
       "kicker": "Finish our story / A fresh try",
-      "title": "Our tea shop is ready",
+      "title": "A cup for each friend",
       "subtitle": "Count the cups. Does every friend have a cup?",
       "task_ids": [
         "P1-01-FRESH-SET",
@@ -105,7 +105,7 @@
       "adult": false
     },
     {
-      "kicker": "Our toy shop / Chapter two",
+      "kicker": "Our classroom game / Chapter two",
       "title": "Sort, match and order",
       "subtitle": "We will sort things, match them and put small sets in order.",
       "slug": "c2-1",
@@ -175,7 +175,7 @@
     {
       "kicker": "Finish the story / A fresh try",
       "title": "Ready for our game",
-      "subtitle": "Use what you have learned to finish tidying the toy shop.",
+      "subtitle": "Use what you have learned to finish preparing our classroom game.",
       "slug": "c2-7",
       "task_ids": [
         "P1-02-ENDING",

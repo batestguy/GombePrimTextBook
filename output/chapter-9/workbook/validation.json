@@ -1,6 +1,6 @@
 {
   "pages": 8,
-  "sha256": "c93183d55ec29eb8cdbbdca72f393f332cc251ad5d3aa0f86729d9d3305f6f35",
+  "sha256": "bd5b6f4947324513310cfb185687cd871eeef227334c78a712b13e9c63ba9499",
   "page_manifest": [
     {
       "slug": "c9-wb-guide",
@@ -71,7 +71,7 @@
     {
       "slug": "c9-wb-story",
       "kicker": "Chapter nine / Count on to add",
-      "title": "The garden-path check",
+      "title": "The market-tray check",
       "subtitle": "Read together. Say, point or use your workbook or exercise book.",
       "task_ids": [
         "P1-09-STORY",

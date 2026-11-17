@@ -1,6 +1,6 @@
 {
   "pages": 10,
-  "sha256": "7e2415fe95b689e92adb9d1c7098bee107baccd9ad36cac67a0fdbb5668f3629",
+  "sha256": "e499db4b66edf523382ec531885636f7b1d6ec09c823b7ab33556379e6690fe5",
   "page_manifest": [
     {
       "slug": "workbook-welcome",
@@ -111,7 +111,7 @@
     {
       "kicker": "Sort, match and order / A fresh try",
       "title": "Ready for our game",
-      "subtitle": "Use what you have learned to finish tidying the toy shop.",
+      "subtitle": "Use what you have learned to finish preparing our classroom game.",
       "slug": "w2-ending",
       "task_ids": [
         "P1-02-ENDING",

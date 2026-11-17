@@ -1,11 +1,11 @@
 {
   "pages": 26,
-  "sha256": "d402bc10b441335330b17407a5285c09a599894451df7562301c125fc3117c21",
+  "sha256": "2b7f97f7a524a43c084b4b2feed1dc672671c99e0fe94193d520439806114534",
   "page_manifest": [
     {
       "slug": "solids-textbook-1",
       "kicker": "Solid shapes around us",
-      "title": "A store for our toy school",
+      "title": "Sort our classroom objects",
       "subtitle": "Read together. Use the workbook or an exercise book.",
       "task_ids": [],
       "stages": [

@@ -1,0 +1,1344 @@
+[
+  {
+    "chapter": "P1-01",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p01-02",
+      "P1-p01-03",
+      "P1-p01-04",
+      "P1-p01-05"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB5",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB5",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB6-7,9",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB6-7",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB8-9/WB2-4",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB9/WB4",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB9/adult18",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB10",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB10/WB5/adult18-19",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5: tea shop needs one cup for each friend.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5: count/read/write/order one to five.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6-7,9: one-touch count, cup/numeral/circle models and live formation.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6-7: guided real cups and pictures.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8-9/WB2-4: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB4: recall counting method and explain double-count repair.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/adult18: two-cup support and new small set.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10: four friends/four cups, enact pairing then open shop.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB5/adult18-19: new sets, mixed numeral reading/recognition and delayed count."
+    }
+  },
+  {
+    "chapter": "P1-02",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p01-01",
+      "P1-p01-05"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB11",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB11",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB12-14",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB12-14/WB6",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB14-16/WB7-9",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB16/WB9",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB16/WB9/adult20",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB17/WB10",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB17/WB10/adult20-21",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11: tidy the mixed game tray.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11: sort/match/order sets.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12-14: sorting rule, completed circle, pairing and quantity order.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12-14/WB6: real sorting and equal-row matching.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB14-16/WB7-9: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16/WB9: explain comparison before help.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16/WB9/adult20: two-to-three pairing then new comparison.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB17/WB10: three pairs, two spare tops physically put away.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB17/WB10/adult20-21: fresh sorting/comparison and delayed objects/order."
+    }
+  },
+  {
+    "chapter": "P1-03",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p01-06",
+      "P1-p01-07",
+      "P1-p01-08"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Zero-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Zero-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-3",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3/WB1-2",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB4-5/WB1-3",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB5/WB3",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB5/adult7",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB6",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB6/WB4/adult7-8",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: pack all three game tops.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: number for none, reading and writing.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-3: two-to-none model, zero formation and empty-box drawing.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3/WB1-2: one removed, identify zero, air-write/order.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB4-5/WB1-3: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5/WB3: name zero and explain empty contents before help.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5/adult7: one removed then new two-counter trial.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6: zero on mat, three stored, check before closing.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6/WB4/adult7-8: new trays/cards/covered writing and delayed basket/cards."
+    }
+  },
+  {
+    "chapter": "P1-04",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p02-01",
+      "P1-p02-02",
+      "P1-p02-03",
+      "P1-p02-04",
+      "P1-p02-05"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Six-to-nine-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-4",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB2-6",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB6-7/WB2-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB7/WB4",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB7/adult9",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB8",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB8/WB6/adult9-10",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: mixed pieces for four-group game.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: count/read/write/order six to nine.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-4: exact groups and live numeral formation.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6: real sets, outline sorting and quantity order.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6-7/WB2-5: original questions and S002 actual sorting.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/WB4: recall/explain how to check eight.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/adult9: five plus one support, new seven.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8: thirty pieces in groups six/seven/eight/nine.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8/WB6/adult9-10: new sets, mixed naming, covered dictation and delayed count/order/sort."
+    }
+  },
+  {
+    "chapter": "P1-05",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p02-06",
+      "P1-p02-07"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Bundle-of-ten-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-6",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB2-6",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB7-9/WB2-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB9/WB5",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB9/adult11",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB10",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB10/WB6/adult11-12",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: pack twenty path markers.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: tens/ones and numbers through twenty.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6: bundle/unbundle, places, eleven-to-twenty and writing models.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6: real builds and mixed reading.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7-9/WB2-5: originals and pupil-chosen build.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB5: explain how to verify a bundle.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/adult11: nine plus one support, new eleven/thirteen.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10: two checked tens packed.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB6/adult11-12: new builds, mixed naming/recognition, covered writing and delayed builds."
+    }
+  },
+  {
+    "chapter": "P1-06",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p03-01",
+      "P1-p03-02"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Numbers-to-ninety-nine-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-13",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3-13/WB2-10",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB14-15/WB11-12",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB16/WB13",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB16/adult20",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB17",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB17/WB14/adult20",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: three boxes need number labels.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: build/read/write through ninety-nine.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-13: prerequisite check, successive bands, teen/tens and recording models.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3-13/WB2-10: guided build/name/write in every band.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB14-15/WB11-12: originals; WB1-10 prior and band checks.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16/WB13: explain ten ones becoming a ten.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16/adult20: transitions, name/digit repair and new number.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB17: build/check/attach labels 46,81,93.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB17/WB14/adult20: fresh count/build/cards/dictation and delayed examples."
+    }
+  },
+  {
+    "chapter": "P1-07",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p03-03"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Equal-halves-and-quarters-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-6",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB2-6/WB1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB7/WB2-3",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB7,10/WB2,6",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB8/WB4/adult11-12",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB9/WB5",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB10/WB6/adult12",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: same mat space for four drawings.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: equal halves and quarters.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6: folds, equal areas, unequal examples, rotation, notation and drawing.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6/WB1: fold/overlap/turn/explain.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/WB2-3: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7,10/WB2,6: recall equal parts and definitions.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8/WB4/adult11-12: smaller fold, new tall rectangle/square and extension.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB5: four equal spaces include everyone.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB6/adult12: fresh half/quarter/neither and drawing; delayed new folds."
+    }
+  },
+  {
+    "chapter": "P1-08",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Put-small-sets-together-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-5",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB2-5/WB1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB6/WB2-3",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB7/WB5",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB7/WB4",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB8/WB5",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB8/WB6/adult10",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: join stall tops into one tray.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: join two or three small sets.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-5: move/count, signs/equality, three addends and dots.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-5/WB1: supported joins/drawings.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6/WB2-3: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/WB5: recall plus/equals/checking.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/WB4: one-plus-one support, new two-plus-one and swapped sets.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8/WB5: original three tops conserved; four friends take turns.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8/WB6/adult10: fresh sums/equality and delayed examples."
+    }
+  },
+  {
+    "chapter": "P1-09",
+    "teacher_id": "ms-binta",
+    "objective_ids": [],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Count-on-to-add-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-7",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB2-7/WB1,4",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB8-9/WB2-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB10/WB7",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB10/WB6",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11/WB7",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB8/adult14",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: eight path counters and five more.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: count on with two/three amounts including zero.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-7: held start, three amounts, zero, crossing ten and checking.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-7/WB1,4: supported count-on/claim correction.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8-9/WB2-5: originals and S005.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB7: recall next word, zero and count-all.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB6: two-plus-one support then new three-plus-two.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11/WB7: thirteen original counters joined in path.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB8/adult14: fresh sums/claim and delayed checks."
+    }
+  },
+  {
+    "chapter": "P1-10",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p04-04",
+      "P1-p04-05"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Add-tens-and-ones-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-8",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB4,6,8/WB1,5",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB9/WB2-4",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB10/WB6",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB10/WB6",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11/WB4",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB7/adult14",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: twenty-two pencils and eleven more.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: add tens/ones through forty and check.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-8: bundles/columns/zero/one-digit/checking models.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB4,6,8/WB1,5: supported sums and checking.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB2-4: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB6: recall positions, ones first and count-all.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB6: ten-plus-two support, new ten-plus-four.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11/WB4: all thirty-three pencils checked before packing.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB7/adult14: fresh sums/place error and delayed sums/claim."
+    }
+  },
+  {
+    "chapter": "P1-11",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p05-01",
+      "P1-p05-02",
+      "P1-p05-03"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Take-away-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-7",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3,6/WB1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB8/WB2-4",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB9/WB5",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB9-10/WB5",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB6-8/adult14",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: twelve chalk pieces, three aside.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: take away, count remaining and add back.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-7: small/all/backwards/cross-ten/add-back models.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3,6/WB1: supported removals and completed cross-out.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB8/WB2-4: all original questions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB5: recall subtraction/backwards/add-back before help.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9-10/WB5: small/cross-ten support and new rechecks.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11: nine on mat plus three aside preserve twelve.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB6-8/adult14: fresh small/cross-ten/claim and delayed checks."
+    }
+  },
+  {
+    "chapter": "P1-12",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p06-01",
+      "P1-p06-02",
+      "P1-p06-03",
+      "P1-p06-04",
+      "P1-p07-01",
+      "P1-p07-02"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Missing-part-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-11",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3-11",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB12-16/WB1-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB16,23",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB17-22/WB6-11",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB23",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB24-26/WB12-14",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: seven needed, three visible, hidden part.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: missing numbers and checks.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-11: blank/equality, every missing position, substitution/families/claims.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3-11: supported counter trials at each position.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12-16/WB1-5: Q1-Q6, S006/S007 and related family.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16,23: recall blank, unknown start and substitution.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB17-22/WB6-11: support and new recheck for each objective.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB23: bag opens with four; seven tops conserved.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB24-26/WB12-14: fresh checks; delayed examples TB38-39."
+    }
+  },
+  {
+    "chapter": "P1-13",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p08-01",
+      "P1-p08-02",
+      "P1-p08-03",
+      "P1-p08-04"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Pretend-coins-and-change-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-6",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3-6/WB1-2",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB7-9/WB1-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB10",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB11-14",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB15",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB16/WB6-7/adult18",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: pretend ticket costs six kobo, payment ten.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: values, total, change and genuine rubbing when ready.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-6: equal values, verified denominations/rubbing, total/change models.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3-6/WB1-2: supported genuine actions/arithmetic.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7-9/WB1-5: originals and separate independent genuine actions.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10: recall before help.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11-14: targeted real/rubbing/total/change support and new checks.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB15: one ticket transferred; four returned, six retained.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB16/WB6-7/adult18: fresh totals/change/real actions; delayed checks."
+    }
+  },
+  {
+    "chapter": "P1-14",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p09-01",
+      "P1-p09-02",
+      "P1-p09-03",
+      "P1-p09-04",
+      "P1-p09-05"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Length-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Length-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1/WB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1/WB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-3",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB4/WB2",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB5-6,8/WB3-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB7/WB6",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB9-10/WB7-8",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11/WB9",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB10",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1/WB1: choose a strip covering school label.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1/WB1: compare/order/measure for useful choice.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-3: aligned starts/equality/order, live finger-line drawing and repeated spans/steps.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB4/WB2: C/lowest misconception, supported comparison/natural/local measurement.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5-6,8/WB3-5: independent comparisons, finger line, book, body/local practical and originals.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB7/WB6: recall comparison/repeated units before help.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9-10/WB7-8: smaller comparison/unit model then new materials/fit.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11/WB9: B five covers label four; A three does not; physical fit and sixteen-step story.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB10: fresh comparison/S010-S012; TB13 delayed new materials without reminders."
+    }
+  },
+  {
+    "chapter": "P1-15",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p10-01",
+      "P1-p10-02"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Time-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Time-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2-4",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB5/WB1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB6-8/WB2-4",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB9/WB5",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB10/WB5",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11/WB6",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB6-7",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: mixed-up story strip for Aishatu toy-school display; four children have a practical ordering problem.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: put events in order and say when things happen at home and school.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2-4: Amina sequence, completed wall/roof/door drawing and day-part/home-school models; drawing reminder WB4.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5/WB1: mixed cards take paper/draw/show; Grace position error checked against story and supported before/after/context/time.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB6-8/WB2-4: new leaf story and all Q1-Q6 with local prompts/Amina stimulus and generous response spaces.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB5: recall first/next/last, before/after and both contexts/times; help/new try covered until recall recorded.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB5: two book events then third; fresh clay story recheck, adult reads and waits without answers.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11/WB6: ordered wall/roof/door display, home afternoon then school next morning sharing; all four contribute.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB6-7: new three-event story and S013 both contexts/times; delayed WB8 with adult TB16,19 uses different activities and middle/before/after."
+    }
+  },
+  {
+    "chapter": "P1-16",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p10-03"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Heavy-and-light-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "TB1/WB1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "TB1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "TB2",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "TB3/WB2",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "TB5-8/WB3-7",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "TB9/WB8",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "TB10/WB9",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "TB11",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "TB12/WB10",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1/WB1: two light parcels for box-toy school; which is lighter requires testing.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB1: predict, use a balance and compare weight.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB2: checked working balance, prediction/placement/release/settling and lower/heavier model; TB5/WB4 completed safe-leaf drawing.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB3/WB2: swap sides and repair left-side error; new guided real pair. TB4/WB3 settled equal-load model.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB5-8/WB3-7: all six originals with local stimuli; new A/B interpretation and separate actual Q5 comparison.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB9/WB8: first recall recorded before help; explain safe comparison, lower and level at rest.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB10/WB9: smaller pan-position model, cover help, genuinely new practical recheck without mathematical answers.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB11: Blue lower/heavier, choose higher/lighter Red; all four resolve opening problem. TB9 ready route includes this before fresh.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to /root/chapter14_review: Chapter18 continuity-only revalidation; original page evidence attributed to /root/chapter14_review: Archived original page-specific S1-S9 evidence by /root/chapter14_review; exact source/PDF continuity independently revalidated by /root/chapter17_review_recovery, no fresh old-page inspection: TB12/WB10: new C/D diagram; separate WB11 new real pair. Delayed WB12/adult TB13,16 after two/three school days uses another new pair and size explanation."
+    }
+  },
+  {
+    "chapter": "P1-17",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p11-01",
+      "P1-p11-02",
+      "P1-p11-03",
+      "P1-p11-04"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Solid-shapes-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "Textbook2-4",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "Textbook5/workbook1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "Textbook7-8/workbook2-4",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "Textbook9/workbook5",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "Textbook10/workbook6 small-step turn/touch/look support, then covered-help new unsupported recheck textbook11/workbook7, including all4 objectives and accessible conditional models.",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "Textbook12/workbook8",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "Textbook13/workbook9 fresh order/orientation with independent names first, separate recognition/grouping/comparison/all4 examples; textbook14/workbook10 schedules new-day delayed check. Adult textbook23,25 reinforces honest separate skill records.",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook1: toy-school store needs shape groups and standing/rolling choices;4 children have practical roles. Workbook is paired response companion.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook1: name, sort and compare solids, then find examples.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook2-4: flat/curved/edge/square/rectangle/circle vocabulary and four named feature models with safe conditional handling. Textbook6 and workbook3 completed projected long-box drawing before drawing task.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook5/workbook1: sphere-cube-cylinder-box turns, naming then named pointing/grouping/feature explanation/box comparison/all4 examples; Grace repairs rolling error.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook7-8/workbook2-4: Q1-Q6 plus S014/S015/NAME; actual local stimuli; name-first unlabeled figures and ordinary exercise-book/oral routes.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook9/workbook5: own names/features/difference/all4 examples/rolling limitation/flat face recalled before help, support recorded.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook10/workbook6 small-step turn/touch/look support, then covered-help new unsupported recheck textbook11/workbook7, including all4 objectives and accessible conditional models.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook12/workbook8: feature groups, flat box support, cylinder flat-end standing, sphere containment resolve store problem. Everyone returns after new recheck.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter17 review: Chapter18 continuity-only revalidation; original page evidence attributed to my own same-session /root/chapter17_review_recovery Chapter17 review: Textbook13/workbook9 fresh order/orientation with independent names first, separate recognition/grouping/comparison/all4 examples; textbook14/workbook10 schedules new-day delayed check. Adult textbook23,25 reinforces honest separate skill records."
+    }
+  },
+  {
+    "chapter": "P1-18",
+    "teacher_id": "mr-aliyu",
+    "objective_ids": [
+      "P1-p11-05",
+      "P1-p11-06",
+      "P1-p11-07",
+      "P1-p11-08"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Flat-shapes-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "Textbook2-3",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "Textbook4/workbook1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "Textbook5,7-8/workbook2-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "Textbook9/workbook6",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "Textbook10/workbook7",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "Textbook12/workbook9",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "Textbook13/workbook10 fresh sizes/order/turns and independent3names->recognition->matching/comparison/all3examples; textbook14/workbook11 anotherday before reteaching with new safe cards if available. Adult26separate honest skill records.",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook1: toy-school cover needs shape pieces;4children have practical reasons and roles. Workbook is paired response companion.",
+      "S2": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook1: name/match/compare flat shapes and find them around us.",
+      "S3": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook2-3: straight side,corner,square corner via safe card check,curved circle; named features/name matching/square special rectangle/all3household faces. Completed drawing textbook5/workbook2 and repeat-unit model textbook6/workbook3 precede requests.",
+      "S4": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook4/workbook1: circle-square-rectangle guided naming/pointing/shuffled-name matching/likeness/difference/all3examples; Aishatu repairs rotation error.",
+      "S5": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook5,7-8/workbook2-5: Q1-Q6 and S016-S019. Workbook3Q4reminder directs drawing to2. Same-page label masking before unaided names/recognition,then matching; local stimuli and clear response routes.",
+      "S6": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook9/workbook6: recall3names/matches/features/difference/all3household parts/turn invariance before help; own words recorded.",
+      "S7": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook10/workbook7: small-step boundary/corner/side comparison/name matching/examples; close help before new unsupported textbook11/workbook8. Everyone tries, including ready pupils.",
+      "S8": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook12/workbook9: all4friends choose feature-correct rotated pieces,complete circle-square repeat within rectangular cover; everyone reaches closure before fresh.",
+      "S9": "Chapter19 continuity-only revalidation; original page-specific evidence attributed to my own completed same-session /root/chapter17_review_recovery Chapter18 review: Textbook13/workbook10 fresh sizes/order/turns and independent3names->recognition->matching/comparison/all3examples; textbook14/workbook11 anotherday before reteaching with new safe cards if available. Adult26separate honest skill records."
+    }
+  },
+  {
+    "chapter": "P1-19",
+    "teacher_id": "ms-binta",
+    "objective_ids": [
+      "P1-p12-01",
+      "P1-p12-02"
+    ],
+    "artifacts": {
+      "textbook": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Textbook.pdf",
+      "workbook": "output/pdf/Maths-with-Friends-Primary-1-Class-information-Workbook.pdf"
+    },
+    "proposed_stages": {
+      "S1": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Current opening problem",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S2": {
+        "source_reference": "Textbook1",
+        "current_purpose": "Unchanged child-friendly learning goal",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S3": {
+        "source_reference": "Textbook2",
+        "current_purpose": "Unchanged worked models and demonstrations",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S4": {
+        "source_reference": "Textbook4/workbook1",
+        "current_purpose": "Unchanged guided practice",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S5": {
+        "source_reference": "Textbook5-7/workbook2-5",
+        "current_purpose": "Unchanged independent mathematical tasks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S6": {
+        "source_reference": "Textbook8/workbook6",
+        "current_purpose": "Recall and explanation before help",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S7": {
+        "source_reference": "Textbook9/workbook7",
+        "current_purpose": "Support, investigation and new recheck",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S8": {
+        "source_reference": "Textbook11/workbook9",
+        "current_purpose": "Current chapter resolution linked below",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      },
+      "S9": {
+        "source_reference": "Textbook12/workbook10",
+        "current_purpose": "Fresh independent and delayed checks",
+        "placement": "Same stage/page placement; exact page and task structures preserved. Independent reviewer must recheck current words."
+      }
+    },
+    "prior_stages_attributed_historical_only": {
+      "S1": "Textbook1: toy-school folder needs records pupils can trust; all four children have meaningful reasons/roles. Workbook is paired response companion.",
+      "S2": "Textbook1: ask about ages, observe heights and record findings.",
+      "S3": "Textbook2: permission, completed-years question, reply/listen/letter record/check; D5/E8 completed table, rows/columns/least ordering. Workbook3 repeats different D5/E8 completed model before drawing. Textbook3: full-size stand-ins, blank labelled strip, common baseline, observed head marks, align/compare/record; small print not life-size.",
+      "S4": "Textbook4/workbook1: Adamu repairs next-birthday error, supported two new F/G interviews and two new head marks; fixed FshorterG diagram explicitly separate from actual collection.",
+      "S5": "Textbook5-7/workbook2-5: Q1-Q6 with local A6/B7/C6 and drawing/tool/reason prompts; S020/S021 require NEW permission/question/replies/accurate records and NEW blank-strip observations/marks/common-method comparison/records. Corrected workbook3 covers facing target table and completed model; raw data local.",
+      "S6": "Textbook8/workbook6: recall own permission/question/marking/alignment/recording before help, then new role interviews and new strip marks from memory. Recall and practical performance separately recorded.",
+      "S7": "Textbook9/workbook7: small-step supported new interviews and marks, equal H/J diagram separate; close help for new unsupported textbook10/workbook8. Everyone tries, including those skipping help.",
+      "S8": "Textbook11/workbook9: checked fictional D5/E8 records and D taller model preserve story quantities; trustworthy folder follows consent/consistent question/listening/checking/head marks/common baseline, not neatness or ranking. All four contribute before fresh.",
+      "S9": "Textbook12/workbook10: different new fictional people and full-size stand-ins, independent asking/observing/marking/recording. Textbook13/workbook11: another day before reteaching with new roles/stand-ins, independence and resources recorded. Adult23 reinforces separate honest evidence."
+    }
+  }
+]

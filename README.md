@@ -1,32 +1,46 @@
 # Maths with Friends
 
-**Completed annual Primary 1 pair, 16 November 2026:**
+**Primary 1 local wording revision completed, 17 November 2026:**
 [Reusable textbook (406 pages)](output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf)
 and [write-in workbook (191 pages)](output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf)
-have passed independent editorial review under the provisional historical baseline.
-They include all 19 topics, revision and assessment, full in-book question/answer
-navigation, teacher support, glossary, mapping, credits and Primary 2 preview.
-The final four pupil teaching pages (textbook 269-272) use printed simulated AI
-chats in the Gombe classroom story. [Open just those four pages](output/annual-edition/parent-AI-preview.pdf).
-No real phone, device, account or live AI is part of these activities.
+now use more varied, familiar classroom, home, market and play contexts across
+all nineteen chapters. Bottle tops, classroom pencils/chalk, a market orange tray,
+a pretend neighbourhood pencil stall and exercise-book covers replace repetitive
+toy-school framing where appropriate. The separate cover previews were not applied.
 
-See [independent review](output/annual-edition/REVIEW-REPORT.md),
-[coordinator validation](output/annual-edition/parent-validation.json) and
-[current handoff](docs/SESSION-HANDOFF.md). All 57 new task/example records,
-54 historical objective links, 21 supplementary links and 30 older assessment
-items were checked; all 508 retained chapter pages match their reviewed sources.
-Two duplicate welcome covers were replaced. Original source/chapter PDFs remain
-unchanged. Current curriculum/adoption, local teacher/pupil/accessibility trials,
-physical print proof and printer approval remain pending. This is editorial
-completion, not press-ready or whole-series approval; Primary 2/3 remain pending.
+Independent editorial review passed for 167 prose changes and all 85 changed
+source pages, with exact annual-copy verification. All 937 retained source/annual
+page comparisons match the archived edition; original review attribution is retained.
+All 114 original question/answer pairs, objectives, quantities, deterministic
+diagrams, task IDs and response routes are preserved. All nineteen strict topic
+gates and the annual review passed. See [chapter changes](output/gombe-wording/CHAPTER-CHANGES.md),
+[independent review](output/gombe-wording/REVIEW.md),
+[coordinator checks](output/gombe-wording/parent-validation.json) and
+[current handoff](docs/SESSION-HANDOFF.md).
 
-Build the annual pair with `python scripts/build_primary_one_annual.py`;
-check with `python scripts/preflight.py` and
-`python output/annual-edition/parent_verify.py --require-reviewed`.
-The historical Quarto command below rebuilds the old combined edition only.
-Annual sources, both PDFs and independent review evidence were committed and pushed
-in [54f42f7](https://github.com/batestguy/GombePrimTextBook/commit/54f42f7592f9503fbf92e51312af2f49d3402398). GitHub main was independently verified at that exact commit.
-See the current handoff for delivery evidence. No website publication occurred.
+The pair retains all topics, revision/assessment, complete answer navigation,
+teacher guidance, glossary, historical curriculum mapping, credits and a Primary 2
+preview. The final four pupil teaching pages (textbook 269-272) use printed
+simulated AI chats; no real device/account/live AI is required. Historical sources,
+the prior approved register and all 38 exact PDFs are archived under
+`output/gombe-wording/baseline`. The previous annual edition was committed/pushed
+in [54f42f7](https://github.com/batestguy/GombePrimTextBook/commit/54f42f7592f9503fbf92e51312af2f49d3402398);
+the user authorized committing and pushing this wording revision on 17 November
+2026. Refer to Git history for its delivery commit. No website publication is
+authorized or claimed.
+
+Rebuild current topic extracts with `python scripts/build_primary_one_localised.py`,
+then assemble with `python scripts/build_primary_one_annual.py`. Reopening review
+is required before changing approved sources/PDFs. Check with
+`python scripts/preflight.py` and
+`python output/gombe-wording/parent_verify.py --require-reviewed`.
+Historical per-chapter builders and annual freeze validators retain their old
+snapshot guards; they were not weakened and do not approve this revision. The
+historical Quarto command below rebuilds the old combined edition only.
+
+Current curriculum/adoption, local teacher/pupil/accessibility trials, physical
+print proof and printer approval remain pending. Editorial approval is not
+press-ready or whole-series approval; Primary 2/3 remain pending.
 
 **Retained Chapter 1-2 extract:** [opening textbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Textbook.pdf)
 (22 pages) and [separate workbook](output/pdf/Maths-with-Friends-Primary-1-Opening-Workbook.pdf)

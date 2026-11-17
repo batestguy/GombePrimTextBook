@@ -1,6 +1,6 @@
 {
   "pages": 11,
-  "sha256": "d32e3de0ed28e0f4dfd033ed66203da1f4da1b2462cbc506321106679bed13b4",
+  "sha256": "dab97655b554f2a1bf6dbe58f079bad6fb5145d544f8cf9401735074044ccef2",
   "page_manifest": [
     {
       "slug": "c4-story",
@@ -15,7 +15,7 @@
       "slug": "c4-six-seven",
       "kicker": "Chapter four / Six to nine",
       "title": "Five, then one more",
-      "subtitle": "Watch Mr Aliyu move each top once. Count all the tops in each tray.",
+      "subtitle": "Watch Mr Aliyu move each bottle top once. Count all the bottle tops in each tray.",
       "task_ids": [
         "P1-04-MODEL-6",
         "P1-04-MODEL-7"
@@ -27,7 +27,7 @@
       "slug": "c4-eight-nine",
       "kicker": "Chapter four / Six to nine",
       "title": "Count eight. Count nine.",
-      "subtitle": "Touch each top once. Say how many. Read its numeral.",
+      "subtitle": "Touch each bottle top once. Say how many. Read its numeral.",
       "task_ids": [
         "P1-04-MODEL-8",
         "P1-04-MODEL-9",
@@ -51,7 +51,7 @@
       "slug": "c4-sort",
       "kicker": "Chapter four / Six to nine",
       "title": "Same kind, same group",
-      "subtitle": "Watch sorting before you sort the real game pieces.",
+      "subtitle": "Watch sorting before you sort the real counting pieces.",
       "task_ids": [
         "P1-04-SORT-MODEL",
         "P1-04-GUIDED-SORT",
@@ -93,8 +93,8 @@
     {
       "slug": "c4-ending",
       "kicker": "Chapter four / Six to nine",
-      "title": "Our box game is ready",
-      "subtitle": "Actually sort, count and arrange your four game groups before starting.",
+      "title": "Our counting box is ready",
+      "subtitle": "Actually sort, count and arrange your four groups before putting them away.",
       "task_ids": [
         "P1-04-ENDING",
         "P1-04-FRESH-COUNT",
