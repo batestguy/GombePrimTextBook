@@ -1,3 +1,47 @@
+# Latest cover preview and GitHub delivery - 17 November 2026
+
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1;
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md); [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+
+- Objective and scope: the user requested a deliberately busy Primary 1 COVER
+  table with maths symbols, shapes, cardboard numbers, pencils, erasers and
+  counting materials, with all four friends actively enjoying different tasks.
+  The user subsequently authorized committing, pushing and updating this handoff.
+- Latest artifact: [cover preview v4](../output/cover-preview/maths-with-friends-primary-1-v4.png).
+  [Artwork record and full prompt](../output/cover-preview/provenance-v4.json);
+  [preview/version index](../output/cover-preview/README.md). V1-V3 are retained.
+- Content: Grace draws shapes; Aishatu builds a cardboard house; Adamu arranges
+  numeral/symbol cards; John writes and holds a card marked 5. Cardboard cards,
+  shapes/blocks, pencils, biros, erasers, ruler, sharpener, exercise books,
+  counting sticks, stones and bottle tops fill the table. The visible equations
+  are 2 + 1 = 3 and 5 - 2 = 3; both were checked. Title, subtitle, Primary 1 /
+  Textbook label, established clothes/hairstyles and John's wheelchair remain.
+- Author/check status: cover generated and visually inspected by Codex /root
+  with the built-in image tool, using v3 as reference. This is a standalone
+  discussion preview, not a chapter or printer-approved cover. No independent
+  chapter approval is claimed for it. Exact assessed quantities are not inferred
+  from decorative artwork. Chapter S1-S9/task/page gates are not changed by this
+  output-only cover preview.
+- Books and review preservation: no cover was inserted into either book, and no
+  lesson, renderer, chapter review or PDF changed. The current 149-source/38-PDF
+  reviewed freeze was checked unchanged. The 406-page textbook and 191-page
+  workbook retain the independent review described below. Current curriculum,
+  local educator/classroom/accessibility, physical print and printer approvals
+  remain pending.
+- Delivery history: the complete wording revision and cover versions V1-V3 were
+  committed/pushed in [a6f6201](https://github.com/batestguy/GombePrimTextBook/commit/a6f6201acfd8aa294cf1afb38bb383f9de38c3fc);
+  remote main was independently verified at that exact hash. This follow-up
+  commit contains V4, its provenance/version index and this handoff. Refer to
+  Git history for its commit. No school contact or website publication occurred.
+- Next action: discuss the cover preview with the owner. Applying it to a book
+  requires explicit implementation and appropriate exact-artifact review; it has
+  not been silently treated as an approved book cover. Preserve all prior
+  artwork, reviewed book artifacts and the original GombeTextbook.txt bytes.
+
+Earlier checkpoints below describe their dated historical states.
+
+---
+
 # Primary 1 local wording revision completed - 17 November 2026
 
 User-approved local wording changes are implemented across all nineteen Primary 1
