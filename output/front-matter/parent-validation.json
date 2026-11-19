@@ -1,0 +1,414 @@
+{
+  "strict": false,
+  "old_sources_preserved": 149,
+  "added_sources": [
+    "artwork/covers/primary-1-provenance.json",
+    "artwork/covers/primary-1-textbook.png",
+    "artwork/covers/primary-1-workbook.png",
+    "production/p1-front-matter.json",
+    "scripts/build_primary_one_front_matter.py"
+  ],
+  "topic_pdfs_preserved": 36,
+  "retained_annual_pages": 579,
+  "covers_exact_pixels": true,
+  "contents_entries": [
+    {
+      "role": "textbook",
+      "chapter": "P1-01",
+      "contents_pages": [
+        3
+      ],
+      "target": 13
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-02",
+      "contents_pages": [
+        3
+      ],
+      "target": 19
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-03",
+      "contents_pages": [
+        3
+      ],
+      "target": 26
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-04",
+      "contents_pages": [
+        3
+      ],
+      "target": 32
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-05",
+      "contents_pages": [
+        3
+      ],
+      "target": 40
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-06",
+      "contents_pages": [
+        3
+      ],
+      "target": 50
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-07",
+      "contents_pages": [
+        3
+      ],
+      "target": 67
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-08",
+      "contents_pages": [
+        3
+      ],
+      "target": 77
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-09",
+      "contents_pages": [
+        3
+      ],
+      "target": 85
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-10",
+      "contents_pages": [
+        3
+      ],
+      "target": 97
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-11",
+      "contents_pages": [
+        4
+      ],
+      "target": 109
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-12",
+      "contents_pages": [
+        4
+      ],
+      "target": 121
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-13",
+      "contents_pages": [
+        4
+      ],
+      "target": 147
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-14",
+      "contents_pages": [
+        4
+      ],
+      "target": 163
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-15",
+      "contents_pages": [
+        4
+      ],
+      "target": 175
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-16",
+      "contents_pages": [
+        4
+      ],
+      "target": 187
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-17",
+      "contents_pages": [
+        4
+      ],
+      "target": 199
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-18",
+      "contents_pages": [
+        4
+      ],
+      "target": 213
+    },
+    {
+      "role": "textbook",
+      "chapter": "P1-19",
+      "contents_pages": [
+        4
+      ],
+      "target": 227
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-01",
+      "contents_pages": [
+        3
+      ],
+      "target": 10
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-02",
+      "contents_pages": [
+        3
+      ],
+      "target": 14
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-03",
+      "contents_pages": [
+        3
+      ],
+      "target": 19
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-04",
+      "contents_pages": [
+        3
+      ],
+      "target": 23
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-05",
+      "contents_pages": [
+        3
+      ],
+      "target": 29
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-06",
+      "contents_pages": [
+        3
+      ],
+      "target": 35
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-07",
+      "contents_pages": [
+        3
+      ],
+      "target": 49
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-08",
+      "contents_pages": [
+        3
+      ],
+      "target": 55
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-09",
+      "contents_pages": [
+        3
+      ],
+      "target": 61
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-10",
+      "contents_pages": [
+        3
+      ],
+      "target": 69
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-11",
+      "contents_pages": [
+        4
+      ],
+      "target": 76
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-12",
+      "contents_pages": [
+        4
+      ],
+      "target": 84
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-13",
+      "contents_pages": [
+        4
+      ],
+      "target": 98
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-14",
+      "contents_pages": [
+        4
+      ],
+      "target": 105
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-15",
+      "contents_pages": [
+        4
+      ],
+      "target": 115
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-16",
+      "contents_pages": [
+        4
+      ],
+      "target": 123
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-17",
+      "contents_pages": [
+        4
+      ],
+      "target": 135
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-18",
+      "contents_pages": [
+        4
+      ],
+      "target": 145
+    },
+    {
+      "role": "workbook",
+      "chapter": "P1-19",
+      "contents_pages": [
+        4
+      ],
+      "target": 156
+    }
+  ],
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "pages": 406,
+      "sha256": "a264be33412a58448dd14abca249666972c8215f3ffbd6652ebf9bbfabae27d3"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "pages": 191,
+      "sha256": "1ddf8bea5c123faa6ce3afbdef6d990427fb1009e6da8c5dab18a10a71ec67db"
+    }
+  },
+  "gates": {
+    "P1-01": {
+      "status": "pending",
+      "fingerprint": "560020ddded0b096200ad4c700dd9328c3b11b377e8317a95b25aa6bb83ef4e6"
+    },
+    "P1-02": {
+      "status": "pending",
+      "fingerprint": "831d53d42f0d814664894e352960fae0d8b85d16feeb8bdc9c0a800d55043aa0"
+    },
+    "P1-03": {
+      "status": "pending",
+      "fingerprint": "8687f2e4262f8aabe2b22ac91ae0828bee035cfc89dda0a8375643aee2cb30db"
+    },
+    "P1-04": {
+      "status": "pending",
+      "fingerprint": "43f1639ce978a2bbf224eaa74845b6e48591dd753545b3ed1594666458ff8d10"
+    },
+    "P1-05": {
+      "status": "pending",
+      "fingerprint": "3770c84beeecb1bf32d84b521b3418633c39e51dc49b804244ce47fc8232b460"
+    },
+    "P1-06": {
+      "status": "pending",
+      "fingerprint": "df17e688ee785002c9db9ef49de1667865a4e3a8c05b5d7f59fc0a36ab289cd0"
+    },
+    "P1-07": {
+      "status": "pending",
+      "fingerprint": "547314249a74ac9adc507b8cf2d0b8fd3f16d6ba06b399d312f4109dbf091bb4"
+    },
+    "P1-08": {
+      "status": "pending",
+      "fingerprint": "16efc33b62080efc85c44a50e00601dd40614b32cf41815c5a18fb4f912fa63f"
+    },
+    "P1-09": {
+      "status": "pending",
+      "fingerprint": "84fe43b2410f77aa6b436ebc879dad918220e371bb8dcd72ff200b451d87d817"
+    },
+    "P1-10": {
+      "status": "pending",
+      "fingerprint": "e8cfa0021a81457a6292f7b7694b3b12018af3009635ba59805cdfcccac939f4"
+    },
+    "P1-11": {
+      "status": "pending",
+      "fingerprint": "b473e1e6accbb79398caca383d63326991e922f1ddda6e91f7d62e2dde71024c"
+    },
+    "P1-12": {
+      "status": "pending",
+      "fingerprint": "f4c97e65dd866a63a2ba39c15f4dcf74d7150b591bd75e9ab5b662ccb76be9b6"
+    },
+    "P1-13": {
+      "status": "pending",
+      "fingerprint": "d9024648c621730153b4826d11f4988f7c253f6239980a444eca7806febd6bae"
+    },
+    "P1-14": {
+      "status": "pending",
+      "fingerprint": "ccbcee38a28bf303c35b52143b148b0cc895589df1fddb5b981c1ce0d91c4d59"
+    },
+    "P1-15": {
+      "status": "pending",
+      "fingerprint": "eab2b2b5b2d11a141f2bbc5333de1fbca38a9f32192adc375031b9523beb15df"
+    },
+    "P1-16": {
+      "status": "pending",
+      "fingerprint": "10153c1cf37bc25792a0fa82ca81161b3da5e712c0759a330a6e31db69f3bcbf"
+    },
+    "P1-17": {
+      "status": "pending",
+      "fingerprint": "f1a77bf13ff7b9dd3e67157eb5d1345f72d3fdbf6daef0a06e6d83ba01e503c0"
+    },
+    "P1-18": {
+      "status": "pending",
+      "fingerprint": "265a6f4b981d04b10cc7021cc930e99b3eee4df1f51c1a8858e17035e52922e6"
+    },
+    "P1-19": {
+      "status": "pending",
+      "fingerprint": "14ba7f2c26187fed3cb1a582aa982ec2a15e86ec2bf0648073a16bc10e557102"
+    },
+    "P1-ANNUAL": {
+      "status": "pending",
+      "fingerprint": "5cdb21f62752cb445233ebbefeabb0e8d1482dd99ef2d758eb3c24ad60908294"
+    }
+  }
+}

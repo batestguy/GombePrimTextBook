@@ -1,0 +1,21 @@
+{
+  "reviewer": "Codex /root/sol_reviewer",
+  "observations": [
+    {
+      "artifact": "textbook",
+      "page": 409,
+      "pdf_sha256": "3cb84479129ff66fee8d07bb4a66fa41bf80b5186a738b0a23bcfa4db66726c0",
+      "render_sha256": "9f029e96f220e422e9398bdcac2ad0b92ce5d7145c0e013dc10b4e68038fb648",
+      "result": "pass",
+      "notes": "Textbook edition label and title are clearly separated. Deep green reaches every edge. Portrait is clear and comfortably beside the introductory text. The white panel contains all five paragraphs and both italic titles without clipping or overlap. The revised publisher credit and applications sentence are legible."
+    },
+    {
+      "artifact": "workbook",
+      "page": 192,
+      "pdf_sha256": "96ff84f3b9596d10c3b8bf710682886a4f1177f8e12a275980fe709388c6ae1e",
+      "render_sha256": "facba5e06d4c592cac23663117d93920096f41beac17951d59cfc39ad760c8e7",
+      "result": "pass",
+      "notes": "Workbook edition label and title are clearly separated. Deep green reaches every edge. Portrait is clear and comfortably beside the introductory text. The white panel contains all five paragraphs and both italic titles without clipping or overlap. The revised publisher credit and applications sentence are legible."
+    }
+  ]
+}

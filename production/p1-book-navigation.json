@@ -1,0 +1,765 @@
+{
+  "base_pages": {
+    "textbook": 406,
+    "workbook": 191
+  },
+  "author": {
+    "heading": "About the Author",
+    "name": "Jerry Zachary Bannister",
+    "paragraphs": [
+      "Jerry Zachary Bannister is a Nigerian statistician, data scientist and mathematics author based in Bauchi. He works as a Senior Statistician in the Directorate of Academic Planning and Quality Assurance at Abubakar Tafawa Balewa University.",
+      "He holds a bachelor’s degree in Statistics from the University of Maiduguri and a master’s degree in Statistics from Abubakar Tafawa Balewa University. He is currently pursuing a PhD in Statistics.",
+      "Jerry previously authored Mathematics for Junior Secondary Schools, published by MEG Publishers, Bauchi, in 2017 under the name J. B. Zachary. His professional work includes statistical consultancy, data-skills training and developing learning resources.",
+      "In Maths with Friends, he connects early mathematics with familiar classroom, home, market and play experiences. Through stories, pictures and practical activities, the book encourages children to explore ideas, explain their thinking and build confidence with numbers.",
+      "He is committed to inclusion and equal participation, values reflected in the book’s diverse group of children learning together."
+    ]
+  },
+  "guide": {
+    "textbook": [
+      [
+        "Getting started",
+        [
+          [
+            "Meet the friends",
+            10
+          ],
+          [
+            "Meet the teachers",
+            12
+          ]
+        ]
+      ],
+      [
+        "Review and practise",
+        [
+          [
+            "Revision together",
+            "revision-open"
+          ],
+          [
+            "Practice stations",
+            "tb-ANN-I1"
+          ],
+          [
+            "Mixed term and year checks",
+            "tb-ANN-C1"
+          ],
+          [
+            "Term one checks",
+            "tb-legacy-term-one-0"
+          ],
+          [
+            "Term two checks",
+            "tb-legacy-term-two-0"
+          ],
+          [
+            "Term three checks",
+            "tb-legacy-term-three-0"
+          ],
+          [
+            "Whole-year checks",
+            "tb-legacy-annual-0"
+          ]
+        ]
+      ],
+      [
+        "Explore",
+        [
+          [
+            "Discover AI together",
+            "ai-1"
+          ]
+        ]
+      ],
+      [
+        "Reference pages",
+        [
+          [
+            "Chapter reference directory",
+            6
+          ],
+          [
+            "Adult support and sources",
+            9
+          ],
+          [
+            "Teacher guidance",
+            "annual-adult"
+          ],
+          [
+            "Annual questions and answers",
+            "annual-linked-answers-1"
+          ],
+          [
+            "Words, sources and next year",
+            "annual-sources"
+          ],
+          [
+            "Maths index",
+            "index"
+          ],
+          [
+            "About the Author",
+            "author"
+          ]
+        ]
+      ]
+    ],
+    "workbook": [
+      [
+        "Review and practise",
+        [
+          [
+            "Revision stations",
+            "ANN-I1"
+          ],
+          [
+            "Mixed term and year checks",
+            "ANN-C1"
+          ],
+          [
+            "Term one checks",
+            "legacy-term-one-0"
+          ],
+          [
+            "Term two checks",
+            "legacy-term-two-0"
+          ],
+          [
+            "Term three checks",
+            "legacy-term-three-0"
+          ],
+          [
+            "Whole-year checks",
+            "legacy-annual-0"
+          ]
+        ]
+      ],
+      [
+        "Explore",
+        [
+          [
+            "Printed AI activities",
+            "AI-W1"
+          ]
+        ]
+      ],
+      [
+        "Reference pages",
+        [
+          [
+            "Chapter reference directory",
+            6
+          ],
+          [
+            "Adult support and sources",
+            9
+          ],
+          [
+            "About the Author",
+            "author"
+          ]
+        ]
+      ]
+    ]
+  },
+  "index_columns": [
+    [
+      {
+        "term": "Addition",
+        "targets": [
+          {
+            "page": 78,
+            "teaching_evidence": "I move all the bottle tops into one row."
+          },
+          {
+            "page": 86,
+            "teaching_evidence": "Now watch a shorter way."
+          },
+          {
+            "page": 99,
+            "teaching_evidence": "Add the ones: 2 + 5 = 7."
+          }
+        ]
+      },
+      {
+        "term": "Age in completed years",
+        "targets": [
+          {
+            "page": 228,
+            "teaching_evidence": "Completed years means birthdays already reached"
+          }
+        ]
+      },
+      {
+        "term": "Balance",
+        "targets": [
+          {
+            "page": 188,
+            "teaching_evidence": "A pan is a dish on a balance."
+          },
+          {
+            "page": 190,
+            "teaching_evidence": "Their weights are equal."
+          }
+        ]
+      },
+      {
+        "term": "Bundles of ten",
+        "targets": [
+          {
+            "page": 41,
+            "teaching_evidence": "They make one bundle of ten."
+          }
+        ]
+      },
+      {
+        "term": "Change",
+        "targets": [
+          {
+            "page": 152,
+            "teaching_evidence": "Change is the amount given back."
+          }
+        ]
+      },
+      {
+        "term": "Circles",
+        "targets": [
+          {
+            "page": 214,
+            "teaching_evidence": "Its boundary curves. It has no straight sides and no corners."
+          }
+        ]
+      },
+      {
+        "term": "Class data",
+        "targets": [
+          {
+            "page": 228,
+            "teaching_evidence": "Data means recorded information."
+          },
+          {
+            "page": 229,
+            "teaching_evidence": "compares the marks, then writes the result."
+          }
+        ]
+      },
+      {
+        "term": "Coins",
+        "targets": [
+          {
+            "page": 149,
+            "teaching_evidence": "denomination: that means its money value."
+          },
+          {
+            "page": 150,
+            "teaching_evidence": "The surface pattern appears."
+          }
+        ]
+      },
+      {
+        "term": "Corners",
+        "targets": [
+          {
+            "page": 214,
+            "teaching_evidence": "stops where two sides meet: a corner."
+          }
+        ]
+      },
+      {
+        "term": "Counting",
+        "targets": [
+          {
+            "page": 14,
+            "teaching_evidence": "I touch each cup once and say one number word."
+          },
+          {
+            "page": 33,
+            "teaching_evidence": "The last number word tells how many."
+          }
+        ]
+      },
+      {
+        "term": "Counting on",
+        "targets": [
+          {
+            "page": 86,
+            "teaching_evidence": "Touch each of the two new counters once."
+          },
+          {
+            "page": 89,
+            "teaching_evidence": "Five touches, five new count words."
+          },
+          {
+            "page": 152,
+            "teaching_evidence": "Count from the cost up to the payment"
+          }
+        ]
+      },
+      {
+        "term": "Cubes",
+        "targets": [
+          {
+            "page": 201,
+            "teaching_evidence": "Cube: six equal square faces"
+          }
+        ]
+      },
+      {
+        "term": "Cylinders",
+        "targets": [
+          {
+            "page": 201,
+            "teaching_evidence": "Cylinder: two flat circular ends and one curved surface."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "term": "Day, parts of the",
+        "targets": [
+          {
+            "page": 178,
+            "teaching_evidence": "morning, afternoon, evening, night."
+          }
+        ]
+      },
+      {
+        "term": "Distance",
+        "targets": [
+          {
+            "page": 165,
+            "teaching_evidence": "Distance is how far from one place to another."
+          }
+        ]
+      },
+      {
+        "term": "Equal parts",
+        "targets": [
+          {
+            "page": 68,
+            "teaching_evidence": "Equal means the same amount of space here."
+          },
+          {
+            "page": 70,
+            "teaching_evidence": "One has less paper. Two unequal pieces are not halves."
+          }
+        ]
+      },
+      {
+        "term": "Equals sign",
+        "targets": [
+          {
+            "page": 79,
+            "teaching_evidence": "It tells us both sides have the same value."
+          },
+          {
+            "page": 122,
+            "teaching_evidence": "Read either way: the amounts are equal."
+          }
+        ]
+      },
+      {
+        "term": "Faces of solids",
+        "targets": [
+          {
+            "page": 200,
+            "teaching_evidence": "face here means a flat outside part."
+          }
+        ]
+      },
+      {
+        "term": "Flat shapes",
+        "targets": [
+          {
+            "page": 214,
+            "teaching_evidence": "The square has four equal straight sides"
+          },
+          {
+            "page": 215,
+            "teaching_evidence": "compares it with the non-square rectangle"
+          }
+        ]
+      },
+      {
+        "term": "Halves",
+        "targets": [
+          {
+            "page": 68,
+            "teaching_evidence": "Two equal halves make the whole."
+          },
+          {
+            "page": 70,
+            "teaching_evidence": "The two triangles fit exactly on each other when folded."
+          }
+        ]
+      },
+      {
+        "term": "Heavy and light",
+        "targets": [
+          {
+            "page": 188,
+            "teaching_evidence": "The stone is heavier than the leaf."
+          },
+          {
+            "page": 194,
+            "teaching_evidence": "the stone pan is lower and the box pan is higher."
+          }
+        ]
+      },
+      {
+        "term": "Height",
+        "targets": [
+          {
+            "page": 229,
+            "teaching_evidence": "marks the strip level with the top of D's head."
+          }
+        ]
+      },
+      {
+        "term": "Length",
+        "targets": [
+          {
+            "page": 164,
+            "teaching_evidence": "Length is how far something reaches from one end to the other."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "term": "Matching objects",
+        "targets": [
+          {
+            "page": 21,
+            "teaching_evidence": "Each bottle top can have only one partner."
+          }
+        ]
+      },
+      {
+        "term": "Minus sign",
+        "targets": [
+          {
+            "page": 110,
+            "teaching_evidence": "means subtract or take away."
+          }
+        ]
+      },
+      {
+        "term": "Missing numbers",
+        "targets": [
+          {
+            "page": 122,
+            "teaching_evidence": "the blank holds a number."
+          },
+          {
+            "page": 123,
+            "teaching_evidence": "We added 3 counters."
+          },
+          {
+            "page": 124,
+            "teaching_evidence": "The blank comes first, but still names one part."
+          },
+          {
+            "page": 125,
+            "teaching_evidence": "Keep 3 on the mat. Move the others aside"
+          }
+        ]
+      },
+      {
+        "term": "Numbers to 99",
+        "targets": [
+          {
+            "page": 52,
+            "teaching_evidence": "21 twenty-one, 22 twenty-two"
+          },
+          {
+            "page": 60,
+            "teaching_evidence": "99 ninety-nine: 9 tens and 9 ones"
+          }
+        ]
+      },
+      {
+        "term": "Numerals",
+        "targets": [
+          {
+            "page": 15,
+            "teaching_evidence": "Say the number. Look at its numeral."
+          },
+          {
+            "page": 35,
+            "teaching_evidence": "These are four different numerals."
+          },
+          {
+            "page": 45,
+            "teaching_evidence": "Grace: I keep the digits in the right places."
+          }
+        ]
+      },
+      {
+        "term": "Ones",
+        "targets": [
+          {
+            "page": 42,
+            "teaching_evidence": "Ones are also called units."
+          },
+          {
+            "page": 98,
+            "teaching_evidence": "The right digit tells the ones."
+          }
+        ]
+      },
+      {
+        "term": "Ordering events",
+        "targets": [
+          {
+            "page": 176,
+            "teaching_evidence": "Next tells what follows. Last ends this story."
+          }
+        ]
+      },
+      {
+        "term": "Ordering numbers",
+        "targets": [
+          {
+            "page": 22,
+            "teaching_evidence": "Begin with the set that has the fewest."
+          },
+          {
+            "page": 62,
+            "teaching_evidence": "Check each next number has one more."
+          }
+        ]
+      },
+      {
+        "term": "Patterns",
+        "targets": [
+          {
+            "page": 218,
+            "teaching_evidence": "He repeats that whole unit."
+          }
+        ]
+      },
+      {
+        "term": "Place value",
+        "targets": [
+          {
+            "page": 42,
+            "teaching_evidence": "I put one ten on the left and four loose ones on the right."
+          },
+          {
+            "page": 98,
+            "teaching_evidence": "The left digit tells the tens."
+          },
+          {
+            "page": 102,
+            "teaching_evidence": "Zero tells us that the ones place is empty."
+          }
+        ]
+      },
+      {
+        "term": "Plus sign",
+        "targets": [
+          {
+            "page": 79,
+            "teaching_evidence": "means add: put amounts together."
+          }
+        ]
+      },
+      {
+        "term": "Quarters",
+        "targets": [
+          {
+            "page": 69,
+            "teaching_evidence": "Four equal quarters make the whole."
+          },
+          {
+            "page": 72,
+            "teaching_evidence": "I count four equal parts. I shade just one."
+          }
+        ]
+      },
+      {
+        "term": "Rectangles",
+        "targets": [
+          {
+            "page": 214,
+            "teaching_evidence": "Its opposite sides match"
+          },
+          {
+            "page": 215,
+            "teaching_evidence": "A square is also a special rectangle."
+          }
+        ]
+      },
+      {
+        "term": "Repeat units",
+        "targets": [
+          {
+            "page": 218,
+            "teaching_evidence": "A repeat unit is the small group we use again in the same order."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "term": "Sets",
+        "targets": [
+          {
+            "page": 20,
+            "teaching_evidence": "A set is a collection."
+          },
+          {
+            "page": 80,
+            "teaching_evidence": "Join one, one and two counters."
+          }
+        ]
+      },
+      {
+        "term": "Solid shapes",
+        "targets": [
+          {
+            "page": 200,
+            "teaching_evidence": "A solid takes up space."
+          },
+          {
+            "page": 202,
+            "teaching_evidence": "Look at flat faces, curved parts and edges too."
+          }
+        ]
+      },
+      {
+        "term": "Sorting",
+        "targets": [
+          {
+            "page": 20,
+            "teaching_evidence": "Sort by one rule."
+          },
+          {
+            "page": 36,
+            "teaching_evidence": "I sort by shape."
+          }
+        ]
+      },
+      {
+        "term": "Spheres",
+        "targets": [
+          {
+            "page": 201,
+            "teaching_evidence": "Sphere: curved all round; no flat face."
+          },
+          {
+            "page": 202,
+            "teaching_evidence": "A sphere has no flat end to stand or stack steadily"
+          }
+        ]
+      },
+      {
+        "term": "Squares",
+        "targets": [
+          {
+            "page": 214,
+            "teaching_evidence": "The square has four equal straight sides and four square corners."
+          }
+        ]
+      },
+      {
+        "term": "Subtraction",
+        "targets": [
+          {
+            "page": 110,
+            "teaching_evidence": "The minus sign"
+          },
+          {
+            "page": 125,
+            "teaching_evidence": "Count what you move aside. Add back to check."
+          }
+        ]
+      },
+      {
+        "term": "Tables of ages",
+        "targets": [
+          {
+            "page": 228,
+            "teaching_evidence": "Person letter Age in years"
+          },
+          {
+            "page": 230,
+            "teaching_evidence": "Label and record the replies, then check them back."
+          }
+        ]
+      },
+      {
+        "term": "Take away",
+        "targets": [
+          {
+            "page": 110,
+            "teaching_evidence": "Move 3 aside. Count only those still on the mat."
+          },
+          {
+            "page": 111,
+            "teaching_evidence": "Move all 4 aside. The mat is empty"
+          }
+        ]
+      },
+      {
+        "term": "Tens",
+        "targets": [
+          {
+            "page": 41,
+            "teaching_evidence": "Ten ones are still inside the bundle."
+          },
+          {
+            "page": 42,
+            "teaching_evidence": "Tens and ones have places"
+          }
+        ]
+      },
+      {
+        "term": "Time order",
+        "targets": [
+          {
+            "page": 176,
+            "teaching_evidence": "First starts the story."
+          },
+          {
+            "page": 178,
+            "teaching_evidence": "After night, another morning comes."
+          }
+        ]
+      },
+      {
+        "term": "Totals",
+        "targets": [
+          {
+            "page": 78,
+            "teaching_evidence": "Two and one make three bottle tops."
+          },
+          {
+            "page": 151,
+            "teaching_evidence": "A total is the value altogether."
+          }
+        ]
+      },
+      {
+        "term": "Zero",
+        "targets": [
+          {
+            "page": 27,
+            "teaching_evidence": "It holds zero bottle tops."
+          },
+          {
+            "page": 45,
+            "teaching_evidence": "Zero shows there are no loose ones."
+          },
+          {
+            "page": 88,
+            "teaching_evidence": "Zero adds no counters"
+          }
+        ]
+      }
+    ]
+  ]
+}

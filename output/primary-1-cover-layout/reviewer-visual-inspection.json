@@ -1,0 +1,289 @@
+{
+  "reviewer": "Codex /root/sol_reviewer",
+  "artifact_hashes": {
+    "textbook": "c2ee7c5e4d11efe47ad7bcb4c2b0a571708387cc699e6d2956d83907aabc6a63",
+    "workbook": "f11a2b958e98dec94801162fca214b16b21363d7013a5680bdb1723a2f0f315c"
+  },
+  "page_observations": [
+    {
+      "artifact": "textbook",
+      "page": 13,
+      "render_sha256": "931e8aafc93da1d8ca24f6a55fe13ff40f9866f9385002cf45f05e1383bce18f",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Touch one. Say one number. Cup story and subtitle clear."
+    },
+    {
+      "artifact": "textbook",
+      "page": 19,
+      "render_sha256": "caec4df4ce155c54938d9fd95abcf5f526b4cfe149af7bb236f407fb1bcd6451",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Sort. Match. Put in order. Leaves and bottle tops remain distinct."
+    },
+    {
+      "artifact": "textbook",
+      "page": 26,
+      "render_sha256": "19b479065705d7affae1b3736dce6d7f476477edef94d591da5ac194b1baed96",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Look inside. Is it empty? Story and counting context fit below."
+    },
+    {
+      "artifact": "textbook",
+      "page": 32,
+      "render_sha256": "4a901d2a0de4cbaf03494ba0c90c54ec5e2066c107652be8b015c91a9889e481",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Count each one. Check the group. Group-size goal is visible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 40,
+      "render_sha256": "c655577a1deca2dc8e26013eb78a38f33925109c12c7cb5ad86a64e3e00b79f4",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Make a bundle. Count the ones. Counting-strip story is intact."
+    },
+    {
+      "artifact": "textbook",
+      "page": 50,
+      "render_sha256": "9106341853125fb2b5278ba370e8c77dd998f96e7a7b8bea5f011da4a92c3038",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Count the tens. Count the ones. Supplies example is legible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 67,
+      "render_sha256": "0fc17880c523e8b56a61c5cc3534241903867a5d57e0287dc98bce451f97deb1",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Equal parts. Fair shares. Long heading and activity line fit."
+    },
+    {
+      "artifact": "textbook",
+      "page": 77,
+      "render_sha256": "9576508a1d2bdd3c59766d1fc478f01cbc8463c295e44024dd1a2bbe91f21635",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Put sets together. Count them all. Read and respond route is visible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 85,
+      "render_sha256": "3d85cd2cfc83eaf763d0dbfc295b215c11189a2b29bbfff44c0a22717fb9d5c8",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Keep the first number. Count on from there. Orange-story setup fits."
+    },
+    {
+      "artifact": "textbook",
+      "page": 97,
+      "render_sha256": "9e538d64c3efef2826e3cc2c35b6183298a4eb94c10e39b6cfef83f77b8ffca2",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Join the tens. Join the ones. Pencil story and goal are visible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 109,
+      "render_sha256": "63d4dce379af578ae422db24fc33179cf19270a4876d773fbeadefbe68dfa758",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Take some away. Find what is left. Chalk example is legible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 121,
+      "render_sha256": "a925f745074a6c59b9a6e46cbc7e518b4aca37431a0f2e3791e92bc62ea91285",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Find the missing part. Check both sides. Hidden-tops setup fits."
+    },
+    {
+      "artifact": "textbook",
+      "page": 147,
+      "render_sha256": "cde7efc6a7d578761415dc3cd2d307fcc8c9e38687f4e0c99590e2bc65e31602",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Read the value. Find the change. Long topic and story fit."
+    },
+    {
+      "artifact": "textbook",
+      "page": 163,
+      "render_sha256": "1b446909f86bed84e515b12ad27be25ef47589b58077cea4ee5f33a870844af5",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Compare lengths. Measure fairly. Long topic remains inside margins."
+    },
+    {
+      "artifact": "textbook",
+      "page": 175,
+      "render_sha256": "61d49b3b51fa51f32da95e5ae422e23614f0d090a2a7165b1db1b84ec8314f10",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Our day in order. Before and after. Story strip setup is legible."
+    },
+    {
+      "artifact": "textbook",
+      "page": 187,
+      "render_sha256": "11fa672f0cbe15ea602164bf753cd123c25ebf36a04df3b53eadddd97c0cd311",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Heavy or light? Test and compare. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "textbook",
+      "page": 199,
+      "render_sha256": "7b126d5b8e8345f140df33f04cc513436391c046f723b1c49d1d51d3529fcf30",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Shapes around us. Look, feel and sort. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "textbook",
+      "page": 213,
+      "render_sha256": "762a0d96d8ebadb1bc667e115c701417d0abb44703685a2f2af7d659b3acb5e6",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children. Board reads Flat shapes. Look, name and match. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "textbook",
+      "page": 227,
+      "render_sha256": "717d0dd99b30d88c789f90bf63458090e5da7f400fbd3d5d7f87519bb9e0c63f",
+      "result": "pass",
+      "notes": "Mrs Binta and four seated children. Board reads Ask, look and record. Ages and heights. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "textbook",
+      "page": 409,
+      "render_sha256": "895fe2587c6bf00009410199d0573950712a785b880382d151837808752661ff",
+      "result": "pass",
+      "notes": "Green and gold connect with front cover. Portrait at right sits beside the opening text. Title, biography and five paragraphs are fully legible."
+    },
+    {
+      "artifact": "workbook",
+      "page": 10,
+      "render_sha256": "0bb40437665bd3d65d05bce7ad7da30e1a6158cb768aff5ffab0072fbc930098",
+      "result": "pass",
+      "notes": "YOUR TURN is clear. Three aligned cups, five scattered cups and two model cups are distinct. Writing boxes stay separate."
+    },
+    {
+      "artifact": "workbook",
+      "page": 14,
+      "render_sha256": "c0b68d31da1db02747b1a40a3a2b26abf36b140c25396af2fd57e044d39046e0",
+      "result": "pass",
+      "notes": "TRY TOGETHER is clear. Leaf model and three-by-three bottle-top match have room."
+    },
+    {
+      "artifact": "workbook",
+      "page": 19,
+      "render_sha256": "fb94617496f6b7fd169102a0e55b8e1e2a972b12369864048620a3950e591dd6",
+      "result": "pass",
+      "notes": "Completed one example, empty tray and response space are distinct."
+    },
+    {
+      "artifact": "workbook",
+      "page": 23,
+      "render_sha256": "e1470ccd27a01c9bfa8f805c07ac5474870709ac2bca46ceb137a32018369044",
+      "result": "pass",
+      "notes": "Pale numerals 6 to 9 and each writing space remain legible."
+    },
+    {
+      "artifact": "workbook",
+      "page": 29,
+      "render_sha256": "9feb92c18654750a48263409e7130988e252110459ce5315cbbbdc4bddca5913",
+      "result": "pass",
+      "notes": "Ten strips stay evenly spaced and both response boxes are intact."
+    },
+    {
+      "artifact": "workbook",
+      "page": 35,
+      "render_sha256": "dc80ac36dafa213bce6ecefff59040ddd76bfeed543d791560c22f9204b1e8df",
+      "result": "pass",
+      "notes": "Four response areas for strips, bundles, reading and writing stay clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 49,
+      "render_sha256": "e94bc630d500984586ba2ba1dfc61d5fb6c368e5edb157b67f17e1b9e49d6bd8",
+      "result": "pass",
+      "notes": "Tilted square, folded-paper model, rectangle comparisons and response box fit."
+    },
+    {
+      "artifact": "workbook",
+      "page": 55,
+      "render_sha256": "0b09c646070096d5d2c3445a65e48783df1c77e240f431b8a123bd5d0d650d1b",
+      "result": "pass",
+      "notes": "Two counters and the large dot drawing space remain clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 61,
+      "render_sha256": "0116e0b60d3dcf7657c75556ab26cc5b9c4df26674353b6a1cc5882bff3e9ba3",
+      "result": "pass",
+      "notes": "Four first counters and two new ones are visually distinct. Drawing space fits."
+    },
+    {
+      "artifact": "workbook",
+      "page": 69,
+      "render_sha256": "e3b4d95af962a4cfa43c30753afce15747ec490a01208d85e8fbab28a82a76c2",
+      "result": "pass",
+      "notes": "Tens and ones columns show one strip and two strips separately. Response box fits."
+    },
+    {
+      "artifact": "workbook",
+      "page": 76,
+      "render_sha256": "6867eb41f6c2f1c371003de0168e184492b9e28d4e94b57d945bc594ee5f01d6",
+      "result": "pass",
+      "notes": "Crossed-dot example, rows of dots and lower response space are clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 84,
+      "render_sha256": "2f10c4a8615a892921600cc131594ddb9786836ccf6dd990618c56979ab2d303",
+      "result": "pass",
+      "notes": "WORKBOOK PAGE 1 is clear. Two missing-number sums and their two spaces fit."
+    },
+    {
+      "artifact": "workbook",
+      "page": 98,
+      "render_sha256": "ee9d7b27dab8f1c8499b05271366568738579d7875dde3860ebd2b7a6bd9e4d4",
+      "result": "pass",
+      "notes": "WORKBOOK PAGE 1 is clear. Adult verification and record area remain prominent."
+    },
+    {
+      "artifact": "workbook",
+      "page": 105,
+      "render_sha256": "80526ddb8e4df5f7ae1c53699a4e344176730c1eb9ea74c0bc1d567e2fbe1d11",
+      "result": "pass",
+      "notes": "Mr Aliyu and the four seated children stay visible. The compare-lengths board and response route are legible."
+    },
+    {
+      "artifact": "workbook",
+      "page": 115,
+      "render_sha256": "a942ec49156864c55027fd7889bb7dcc464402482994c3856d2b8d104f7d6679",
+      "result": "pass",
+      "notes": "The three story cards and large order-response area remain distinct."
+    },
+    {
+      "artifact": "workbook",
+      "page": 123,
+      "render_sha256": "a465d44a78a6233b141a86f23919a6239f75d45bb6189ccb2132ca505ab881d0",
+      "result": "pass",
+      "notes": "Mr Aliyu and four seated children are visible. Response route and original Page 1 marker stay clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 135,
+      "render_sha256": "547dfcb030e60cbd42abf18b946c6418f8f264211e16a6e1ff3e93f44c4d2bf0",
+      "result": "pass",
+      "notes": "Four solid models, their labels, the response box and the original Page 1 marker stay clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 145,
+      "render_sha256": "45bbfdf8828a03965a79c8b824152b3af490aa3348752af1784adfe8933c0193",
+      "result": "pass",
+      "notes": "Three flat shapes, separate labels and space remain visible. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 156,
+      "render_sha256": "6bfe27b28a785229f9a36afe2c3bf670bd216374d475a918971259e773feaceb",
+      "result": "pass",
+      "notes": "Two fictional data-collection examples, diagram labels and lower writing space remain visible. Original Page 1 marker is clear."
+    },
+    {
+      "artifact": "workbook",
+      "page": 192,
+      "render_sha256": "1d43ee2098c0a4bb9b556cca5742d990c1f165659eabc0e3f3a0f4e33af36af0",
+      "result": "pass",
+      "notes": "Blue and yellow match the workbook front-cover identity. Portrait is legible and all five paragraphs fit without clipping or overlap."
+    }
+  ]
+}

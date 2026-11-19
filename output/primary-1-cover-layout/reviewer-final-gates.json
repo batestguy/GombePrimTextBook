@@ -1,0 +1,115 @@
+{
+  "reviewer": "Codex /root/sol_reviewer",
+  "gates": [
+    {
+      "id": "P1-01",
+      "fingerprint": "acf3276ac109217adf54768c72778c2501c9cb4b20baec8e2d7c86a732f255aa",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-02",
+      "fingerprint": "d95fd36d81a5a15514a351659f79ad7520497933dc81c7ff9254fe9a0a6d97b5",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-03",
+      "fingerprint": "fd81871f90e85913bbb4592fce59977afbc139e4518d1fca4599e5da8726e005",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-04",
+      "fingerprint": "41e23d08a630a7df55d56cec9593a1ab8cb400855494e6988373f69287df5dac",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-05",
+      "fingerprint": "4ab13c79d2c61f13c45bb77fb9e6d06efb4ec25f098fe2c0c9139c11c3ba02c2",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-06",
+      "fingerprint": "c7a2df7a8bef4183e2594eb62998a25a0276b2c2e45b877051c94f75849ab240",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-07",
+      "fingerprint": "b99ae511887c98a1c6546c5a866d0828f7587a92280257712ffe0c33ae2fcf1a",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-08",
+      "fingerprint": "de3dd1ae773b4cd1126bf618f03062a6c72e391b12d893f3b677969180e25ac5",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-09",
+      "fingerprint": "af88e229ed3a5cbb36c24b0c76c439d9efd99b7de09918163080aa3a41739f83",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-10",
+      "fingerprint": "8a7883820a1bd03cc6bc0a463c408d4c48a5bd49782ccd720ca2216978570f67",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-11",
+      "fingerprint": "75072f6991560a98ee5fe9ea2a8a9bb270e2111a2eef01821a53abd67de7091d",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-12",
+      "fingerprint": "ef7cdacf66b30bf83ed440110068e03e28aaedd2f2029e7417873ce97f6c32fa",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-13",
+      "fingerprint": "f32430c2119ca6e2536ff477c16e7459fcb5ce138ac9f97abd64eace5382f852",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-14",
+      "fingerprint": "8d6c6679fce65249dac4b61292c7a856408e129601712654e5e807da951f7b69",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-15",
+      "fingerprint": "9c113bbf91a198b89c5cb90984dbe9d67116b4b77db6d05d92ce9fe37222da34",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-16",
+      "fingerprint": "52a2eff54f6b7bf7afe4b487233157f66daea24ede3307c2004656649aeb9bdb",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-17",
+      "fingerprint": "095ebded4a84e54468d8c20a8aa71e9ec4659dad4a291de3eeb30e34058dd0b7",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-18",
+      "fingerprint": "a1ad128fc1f63be9cde3c8257a2f6c65b1a9665af6a3a4d62493028ec4105eda",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-19",
+      "fingerprint": "7ce50bd75dde74fc139fcd702fb4a2bf0e47bab6aafde450f6eaf0d75f190f7d",
+      "strict_gate": "1 chapter records checked; independent review gate PASSED."
+    },
+    {
+      "id": "P1-ANNUAL",
+      "fingerprint": "35680a3dbef571805fd78c4c3558af5db444d5dfff7187650877455e02707446",
+      "strict_gate": "Separate annual check_review passed."
+    }
+  ],
+  "additional_checks": [
+    {
+      "command": "python scripts/preflight.py",
+      "result": "63 chapter records checked; draft/register check only; pending chapters are NOT approved.\n1.9.38\nPreflight passed: tools, lesson data, curriculum evidence, artwork and font licences present."
+    },
+    {
+      "command": "python scripts/check_chapter_standard.py",
+      "result": "63 chapter records checked; draft/register check only; pending chapters are NOT approved."
+    }
+  ]
+}

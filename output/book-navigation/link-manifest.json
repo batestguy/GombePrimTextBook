@@ -1,0 +1,2116 @@
+[
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "One to five",
+    "target_page": 13,
+    "rect": [
+      46.0,
+      212.0,
+      549.0,
+      260.0
+    ],
+    "printed_label": "13"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Sort, match and order",
+    "target_page": 19,
+    "rect": [
+      46.0,
+      263.0,
+      549.0,
+      311.0
+    ],
+    "printed_label": "19"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Zero means none",
+    "target_page": 26,
+    "rect": [
+      46.0,
+      314.0,
+      549.0,
+      362.0
+    ],
+    "printed_label": "26"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Six to nine",
+    "target_page": 32,
+    "rect": [
+      46.0,
+      365.0,
+      549.0,
+      413.0
+    ],
+    "printed_label": "32"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "A bundle of ten",
+    "target_page": 40,
+    "rect": [
+      46.0,
+      416.0,
+      549.0,
+      464.0
+    ],
+    "printed_label": "40"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Numbers to ninety-nine",
+    "target_page": 50,
+    "rect": [
+      46.0,
+      467.0,
+      549.0,
+      515.0
+    ],
+    "printed_label": "50"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Equal halves and quarters",
+    "target_page": 67,
+    "rect": [
+      46.0,
+      518.0,
+      549.0,
+      566.0
+    ],
+    "printed_label": "67"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Put small sets together",
+    "target_page": 77,
+    "rect": [
+      46.0,
+      569.0,
+      549.0,
+      617.0
+    ],
+    "printed_label": "77"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Count on to add",
+    "target_page": 85,
+    "rect": [
+      46.0,
+      620.0,
+      549.0,
+      668.0
+    ],
+    "printed_label": "85"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Add tens and ones",
+    "target_page": 97,
+    "rect": [
+      46.0,
+      671.0,
+      549.0,
+      719.0
+    ],
+    "printed_label": "97"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Take away",
+    "target_page": 109,
+    "rect": [
+      46.0,
+      212.0,
+      549.0,
+      260.0
+    ],
+    "printed_label": "109"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Find a missing part",
+    "target_page": 121,
+    "rect": [
+      46.0,
+      263.0,
+      549.0,
+      311.0
+    ],
+    "printed_label": "121"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Pretend coins and change",
+    "target_page": 147,
+    "rect": [
+      46.0,
+      314.0,
+      549.0,
+      362.0
+    ],
+    "printed_label": "147"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Longer, shorter and farther",
+    "target_page": 163,
+    "rect": [
+      46.0,
+      365.0,
+      549.0,
+      413.0
+    ],
+    "printed_label": "163"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Our day in order",
+    "target_page": 175,
+    "rect": [
+      46.0,
+      416.0,
+      549.0,
+      464.0
+    ],
+    "printed_label": "175"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Heavy and light",
+    "target_page": 187,
+    "rect": [
+      46.0,
+      467.0,
+      549.0,
+      515.0
+    ],
+    "printed_label": "187"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Solid shapes around us",
+    "target_page": 199,
+    "rect": [
+      46.0,
+      518.0,
+      549.0,
+      566.0
+    ],
+    "printed_label": "199"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Flat shapes and patterns",
+    "target_page": 213,
+    "rect": [
+      46.0,
+      569.0,
+      549.0,
+      617.0
+    ],
+    "printed_label": "213"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Find out about our class",
+    "target_page": 227,
+    "rect": [
+      46.0,
+      620.0,
+      549.0,
+      668.0
+    ],
+    "printed_label": "227"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Meet the friends",
+    "target_page": 10,
+    "rect": [
+      46.0,
+      184.0,
+      549.0,
+      208.0
+    ],
+    "printed_label": "10"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Meet the teachers",
+    "target_page": 12,
+    "rect": [
+      46.0,
+      209.0,
+      549.0,
+      233.0
+    ],
+    "printed_label": "12"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Revision together",
+    "target_page": 240,
+    "rect": [
+      46.0,
+      270.0,
+      549.0,
+      294.0
+    ],
+    "printed_label": "240"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Practice stations",
+    "target_page": 246,
+    "rect": [
+      46.0,
+      295.0,
+      549.0,
+      319.0
+    ],
+    "printed_label": "246"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Mixed term and year checks",
+    "target_page": 249,
+    "rect": [
+      46.0,
+      320.0,
+      549.0,
+      344.0
+    ],
+    "printed_label": "249"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term one checks",
+    "target_page": 253,
+    "rect": [
+      46.0,
+      345.0,
+      549.0,
+      369.0
+    ],
+    "printed_label": "253"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term two checks",
+    "target_page": 255,
+    "rect": [
+      46.0,
+      370.0,
+      549.0,
+      394.0
+    ],
+    "printed_label": "255"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term three checks",
+    "target_page": 259,
+    "rect": [
+      46.0,
+      395.0,
+      549.0,
+      419.0
+    ],
+    "printed_label": "259"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Whole-year checks",
+    "target_page": 263,
+    "rect": [
+      46.0,
+      420.0,
+      549.0,
+      444.0
+    ],
+    "printed_label": "263"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Discover AI together",
+    "target_page": 269,
+    "rect": [
+      46.0,
+      481.0,
+      549.0,
+      505.0
+    ],
+    "printed_label": "269"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Chapter reference directory",
+    "target_page": 6,
+    "rect": [
+      46.0,
+      542.0,
+      549.0,
+      566.0
+    ],
+    "printed_label": "6"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Adult support and sources",
+    "target_page": 9,
+    "rect": [
+      46.0,
+      567.0,
+      549.0,
+      591.0
+    ],
+    "printed_label": "9"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Teacher guidance",
+    "target_page": 273,
+    "rect": [
+      46.0,
+      592.0,
+      549.0,
+      616.0
+    ],
+    "printed_label": "273"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Annual questions and answers",
+    "target_page": 274,
+    "rect": [
+      46.0,
+      617.0,
+      549.0,
+      641.0
+    ],
+    "printed_label": "274"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Words, sources and next year",
+    "target_page": 285,
+    "rect": [
+      46.0,
+      642.0,
+      549.0,
+      666.0
+    ],
+    "printed_label": "285"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Maths index",
+    "target_page": 407,
+    "rect": [
+      46.0,
+      667.0,
+      549.0,
+      691.0
+    ],
+    "printed_label": "407"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "About the Author",
+    "target_page": 409,
+    "rect": [
+      46.0,
+      692.0,
+      549.0,
+      716.0
+    ],
+    "printed_label": "409"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Addition",
+    "target_page": 78,
+    "rect": [
+      218.4158203125,
+      224.0,
+      237.93984375,
+      242.0
+    ],
+    "printed_label": "78"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Addition",
+    "target_page": 86,
+    "rect": [
+      241.6958984375,
+      224.0,
+      261.219921875,
+      242.0
+    ],
+    "printed_label": "86"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Addition",
+    "target_page": 99,
+    "rect": [
+      264.9759765625,
+      224.0,
+      284.5,
+      242.0
+    ],
+    "printed_label": "99"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Age in completed years",
+    "target_page": 228,
+    "rect": [
+      257.21396484375,
+      246.0,
+      284.5,
+      264.0
+    ],
+    "printed_label": "228"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Balance",
+    "target_page": 188,
+    "rect": [
+      226.171875,
+      295.0,
+      253.45791015625,
+      313.0
+    ],
+    "printed_label": "188"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Balance",
+    "target_page": 190,
+    "rect": [
+      257.21396484375,
+      295.0,
+      284.5,
+      313.0
+    ],
+    "printed_label": "190"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Bundles of ten",
+    "target_page": 41,
+    "rect": [
+      264.9759765625,
+      317.0,
+      284.5,
+      335.0
+    ],
+    "printed_label": "41"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Change",
+    "target_page": 152,
+    "rect": [
+      257.21396484375,
+      366.0,
+      284.5,
+      384.0
+    ],
+    "printed_label": "152"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Circles",
+    "target_page": 214,
+    "rect": [
+      257.21396484375,
+      388.0,
+      284.5,
+      406.0
+    ],
+    "printed_label": "214"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Class data",
+    "target_page": 228,
+    "rect": [
+      226.171875,
+      410.0,
+      253.45791015625,
+      428.0
+    ],
+    "printed_label": "228"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Class data",
+    "target_page": 229,
+    "rect": [
+      257.21396484375,
+      410.0,
+      284.5,
+      428.0
+    ],
+    "printed_label": "229"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Coins",
+    "target_page": 149,
+    "rect": [
+      226.171875,
+      432.0,
+      253.45791015625,
+      450.0
+    ],
+    "printed_label": "149"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Coins",
+    "target_page": 150,
+    "rect": [
+      257.21396484375,
+      432.0,
+      284.5,
+      450.0
+    ],
+    "printed_label": "150"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Corners",
+    "target_page": 214,
+    "rect": [
+      257.21396484375,
+      454.0,
+      284.5,
+      472.0
+    ],
+    "printed_label": "214"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Counting",
+    "target_page": 14,
+    "rect": [
+      241.6958984375,
+      476.0,
+      261.219921875,
+      494.0
+    ],
+    "printed_label": "14"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Counting",
+    "target_page": 33,
+    "rect": [
+      264.9759765625,
+      476.0,
+      284.5,
+      494.0
+    ],
+    "printed_label": "33"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Counting on",
+    "target_page": 86,
+    "rect": [
+      210.65380859375,
+      498.0,
+      230.17783203125,
+      516.0
+    ],
+    "printed_label": "86"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Counting on",
+    "target_page": 89,
+    "rect": [
+      233.93388671875002,
+      498.0,
+      253.45791015625002,
+      516.0
+    ],
+    "printed_label": "89"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Counting on",
+    "target_page": 152,
+    "rect": [
+      257.21396484375003,
+      498.0,
+      284.50000000000006,
+      516.0
+    ],
+    "printed_label": "152"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Cubes",
+    "target_page": 201,
+    "rect": [
+      257.21396484375,
+      520.0,
+      284.5,
+      538.0
+    ],
+    "printed_label": "201"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Cylinders",
+    "target_page": 201,
+    "rect": [
+      257.21396484375,
+      542.0,
+      284.5,
+      560.0
+    ],
+    "printed_label": "201"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Day, parts of the",
+    "target_page": 178,
+    "rect": [
+      523.71396484375,
+      224.0,
+      551.0,
+      242.0
+    ],
+    "printed_label": "178"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Distance",
+    "target_page": 165,
+    "rect": [
+      523.71396484375,
+      246.0,
+      551.0,
+      264.0
+    ],
+    "printed_label": "165"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Equal parts",
+    "target_page": 68,
+    "rect": [
+      508.1958984375,
+      295.0,
+      527.719921875,
+      313.0
+    ],
+    "printed_label": "68"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Equal parts",
+    "target_page": 70,
+    "rect": [
+      531.4759765624999,
+      295.0,
+      550.9999999999999,
+      313.0
+    ],
+    "printed_label": "70"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Equals sign",
+    "target_page": 79,
+    "rect": [
+      500.43388671875,
+      317.0,
+      519.95791015625,
+      335.0
+    ],
+    "printed_label": "79"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Equals sign",
+    "target_page": 122,
+    "rect": [
+      523.71396484375,
+      317.0,
+      551.0,
+      335.0
+    ],
+    "printed_label": "122"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Faces of solids",
+    "target_page": 200,
+    "rect": [
+      523.71396484375,
+      366.0,
+      551.0,
+      384.0
+    ],
+    "printed_label": "200"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Flat shapes",
+    "target_page": 214,
+    "rect": [
+      492.671875,
+      388.0,
+      519.95791015625,
+      406.0
+    ],
+    "printed_label": "214"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Flat shapes",
+    "target_page": 215,
+    "rect": [
+      523.71396484375,
+      388.0,
+      551.0,
+      406.0
+    ],
+    "printed_label": "215"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Halves",
+    "target_page": 68,
+    "rect": [
+      508.1958984375,
+      437.0,
+      527.719921875,
+      455.0
+    ],
+    "printed_label": "68"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Halves",
+    "target_page": 70,
+    "rect": [
+      531.4759765624999,
+      437.0,
+      550.9999999999999,
+      455.0
+    ],
+    "printed_label": "70"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Heavy and light",
+    "target_page": 188,
+    "rect": [
+      492.671875,
+      459.0,
+      519.95791015625,
+      477.0
+    ],
+    "printed_label": "188"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Heavy and light",
+    "target_page": 194,
+    "rect": [
+      523.71396484375,
+      459.0,
+      551.0,
+      477.0
+    ],
+    "printed_label": "194"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Height",
+    "target_page": 229,
+    "rect": [
+      523.71396484375,
+      481.0,
+      551.0,
+      499.0
+    ],
+    "printed_label": "229"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 407,
+    "title": "Length",
+    "target_page": 164,
+    "rect": [
+      523.71396484375,
+      530.0,
+      551.0,
+      548.0
+    ],
+    "printed_label": "164"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Matching objects",
+    "target_page": 21,
+    "rect": [
+      264.9759765625,
+      224.0,
+      284.5,
+      242.0
+    ],
+    "printed_label": "21"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Minus sign",
+    "target_page": 110,
+    "rect": [
+      257.21396484375,
+      246.0,
+      284.5,
+      264.0
+    ],
+    "printed_label": "110"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Missing numbers",
+    "target_page": 122,
+    "rect": [
+      164.0876953125,
+      268.0,
+      191.37373046874998,
+      286.0
+    ],
+    "printed_label": "122"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Missing numbers",
+    "target_page": 123,
+    "rect": [
+      195.12978515625,
+      268.0,
+      222.4158203125,
+      286.0
+    ],
+    "printed_label": "123"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Missing numbers",
+    "target_page": 124,
+    "rect": [
+      226.171875,
+      268.0,
+      253.45791015625,
+      286.0
+    ],
+    "printed_label": "124"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Missing numbers",
+    "target_page": 125,
+    "rect": [
+      257.21396484375,
+      268.0,
+      284.5,
+      286.0
+    ],
+    "printed_label": "125"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Numbers to 99",
+    "target_page": 52,
+    "rect": [
+      241.6958984375,
+      317.0,
+      261.219921875,
+      335.0
+    ],
+    "printed_label": "52"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Numbers to 99",
+    "target_page": 60,
+    "rect": [
+      264.9759765625,
+      317.0,
+      284.5,
+      335.0
+    ],
+    "printed_label": "60"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Numerals",
+    "target_page": 15,
+    "rect": [
+      218.4158203125,
+      339.0,
+      237.93984375,
+      357.0
+    ],
+    "printed_label": "15"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Numerals",
+    "target_page": 35,
+    "rect": [
+      241.6958984375,
+      339.0,
+      261.219921875,
+      357.0
+    ],
+    "printed_label": "35"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Numerals",
+    "target_page": 45,
+    "rect": [
+      264.9759765625,
+      339.0,
+      284.5,
+      357.0
+    ],
+    "printed_label": "45"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Ones",
+    "target_page": 42,
+    "rect": [
+      241.6958984375,
+      388.0,
+      261.219921875,
+      406.0
+    ],
+    "printed_label": "42"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Ones",
+    "target_page": 98,
+    "rect": [
+      264.9759765625,
+      388.0,
+      284.5,
+      406.0
+    ],
+    "printed_label": "98"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Ordering events",
+    "target_page": 176,
+    "rect": [
+      257.21396484375,
+      410.0,
+      284.5,
+      428.0
+    ],
+    "printed_label": "176"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Ordering numbers",
+    "target_page": 22,
+    "rect": [
+      241.6958984375,
+      432.0,
+      261.219921875,
+      450.0
+    ],
+    "printed_label": "22"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Ordering numbers",
+    "target_page": 62,
+    "rect": [
+      264.9759765625,
+      432.0,
+      284.5,
+      450.0
+    ],
+    "printed_label": "62"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Patterns",
+    "target_page": 218,
+    "rect": [
+      257.21396484375,
+      481.0,
+      284.5,
+      499.0
+    ],
+    "printed_label": "218"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Place value",
+    "target_page": 42,
+    "rect": [
+      210.65380859375,
+      503.0,
+      230.17783203125,
+      521.0
+    ],
+    "printed_label": "42"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Place value",
+    "target_page": 98,
+    "rect": [
+      233.93388671875002,
+      503.0,
+      253.45791015625002,
+      521.0
+    ],
+    "printed_label": "98"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Place value",
+    "target_page": 102,
+    "rect": [
+      257.21396484375003,
+      503.0,
+      284.50000000000006,
+      521.0
+    ],
+    "printed_label": "102"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Plus sign",
+    "target_page": 79,
+    "rect": [
+      264.9759765625,
+      525.0,
+      284.5,
+      543.0
+    ],
+    "printed_label": "79"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Quarters",
+    "target_page": 69,
+    "rect": [
+      241.6958984375,
+      574.0,
+      261.219921875,
+      592.0
+    ],
+    "printed_label": "69"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Quarters",
+    "target_page": 72,
+    "rect": [
+      264.9759765625,
+      574.0,
+      284.5,
+      592.0
+    ],
+    "printed_label": "72"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Rectangles",
+    "target_page": 214,
+    "rect": [
+      226.171875,
+      623.0,
+      253.45791015625,
+      641.0
+    ],
+    "printed_label": "214"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Rectangles",
+    "target_page": 215,
+    "rect": [
+      257.21396484375,
+      623.0,
+      284.5,
+      641.0
+    ],
+    "printed_label": "215"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Repeat units",
+    "target_page": 218,
+    "rect": [
+      257.21396484375,
+      645.0,
+      284.5,
+      663.0
+    ],
+    "printed_label": "218"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Sets",
+    "target_page": 20,
+    "rect": [
+      508.1958984375,
+      224.0,
+      527.719921875,
+      242.0
+    ],
+    "printed_label": "20"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Sets",
+    "target_page": 80,
+    "rect": [
+      531.4759765624999,
+      224.0,
+      550.9999999999999,
+      242.0
+    ],
+    "printed_label": "80"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Solid shapes",
+    "target_page": 200,
+    "rect": [
+      492.671875,
+      246.0,
+      519.95791015625,
+      264.0
+    ],
+    "printed_label": "200"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Solid shapes",
+    "target_page": 202,
+    "rect": [
+      523.71396484375,
+      246.0,
+      551.0,
+      264.0
+    ],
+    "printed_label": "202"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Sorting",
+    "target_page": 20,
+    "rect": [
+      508.1958984375,
+      268.0,
+      527.719921875,
+      286.0
+    ],
+    "printed_label": "20"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Sorting",
+    "target_page": 36,
+    "rect": [
+      531.4759765624999,
+      268.0,
+      550.9999999999999,
+      286.0
+    ],
+    "printed_label": "36"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Spheres",
+    "target_page": 201,
+    "rect": [
+      492.671875,
+      290.0,
+      519.95791015625,
+      308.0
+    ],
+    "printed_label": "201"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Spheres",
+    "target_page": 202,
+    "rect": [
+      523.71396484375,
+      290.0,
+      551.0,
+      308.0
+    ],
+    "printed_label": "202"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Squares",
+    "target_page": 214,
+    "rect": [
+      523.71396484375,
+      312.0,
+      551.0,
+      330.0
+    ],
+    "printed_label": "214"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Subtraction",
+    "target_page": 110,
+    "rect": [
+      492.671875,
+      334.0,
+      519.95791015625,
+      352.0
+    ],
+    "printed_label": "110"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Subtraction",
+    "target_page": 125,
+    "rect": [
+      523.71396484375,
+      334.0,
+      551.0,
+      352.0
+    ],
+    "printed_label": "125"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Tables of ages",
+    "target_page": 228,
+    "rect": [
+      492.671875,
+      383.0,
+      519.95791015625,
+      401.0
+    ],
+    "printed_label": "228"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Tables of ages",
+    "target_page": 230,
+    "rect": [
+      523.71396484375,
+      383.0,
+      551.0,
+      401.0
+    ],
+    "printed_label": "230"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Take away",
+    "target_page": 110,
+    "rect": [
+      492.671875,
+      405.0,
+      519.95791015625,
+      423.0
+    ],
+    "printed_label": "110"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Take away",
+    "target_page": 111,
+    "rect": [
+      523.71396484375,
+      405.0,
+      551.0,
+      423.0
+    ],
+    "printed_label": "111"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Tens",
+    "target_page": 41,
+    "rect": [
+      508.1958984375,
+      427.0,
+      527.719921875,
+      445.0
+    ],
+    "printed_label": "41"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Tens",
+    "target_page": 42,
+    "rect": [
+      531.4759765624999,
+      427.0,
+      550.9999999999999,
+      445.0
+    ],
+    "printed_label": "42"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Time order",
+    "target_page": 176,
+    "rect": [
+      492.671875,
+      449.0,
+      519.95791015625,
+      467.0
+    ],
+    "printed_label": "176"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Time order",
+    "target_page": 178,
+    "rect": [
+      523.71396484375,
+      449.0,
+      551.0,
+      467.0
+    ],
+    "printed_label": "178"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Totals",
+    "target_page": 78,
+    "rect": [
+      500.43388671875,
+      471.0,
+      519.95791015625,
+      489.0
+    ],
+    "printed_label": "78"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Totals",
+    "target_page": 151,
+    "rect": [
+      523.71396484375,
+      471.0,
+      551.0,
+      489.0
+    ],
+    "printed_label": "151"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Zero",
+    "target_page": 27,
+    "rect": [
+      484.9158203125,
+      520.0,
+      504.43984374999997,
+      538.0
+    ],
+    "printed_label": "27"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Zero",
+    "target_page": 45,
+    "rect": [
+      508.1958984375,
+      520.0,
+      527.719921875,
+      538.0
+    ],
+    "printed_label": "45"
+  },
+  {
+    "artifact": "textbook",
+    "kind": "index",
+    "source_page": 408,
+    "title": "Zero",
+    "target_page": 88,
+    "rect": [
+      531.4759765624999,
+      520.0,
+      550.9999999999999,
+      538.0
+    ],
+    "printed_label": "88"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "One to five",
+    "target_page": 10,
+    "rect": [
+      46.0,
+      212.0,
+      549.0,
+      260.0
+    ],
+    "printed_label": "10"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Sort, match and order",
+    "target_page": 14,
+    "rect": [
+      46.0,
+      263.0,
+      549.0,
+      311.0
+    ],
+    "printed_label": "14"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Zero means none",
+    "target_page": 19,
+    "rect": [
+      46.0,
+      314.0,
+      549.0,
+      362.0
+    ],
+    "printed_label": "19"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Six to nine",
+    "target_page": 23,
+    "rect": [
+      46.0,
+      365.0,
+      549.0,
+      413.0
+    ],
+    "printed_label": "23"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "A bundle of ten",
+    "target_page": 29,
+    "rect": [
+      46.0,
+      416.0,
+      549.0,
+      464.0
+    ],
+    "printed_label": "29"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Numbers to ninety-nine",
+    "target_page": 35,
+    "rect": [
+      46.0,
+      467.0,
+      549.0,
+      515.0
+    ],
+    "printed_label": "35"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Equal halves and quarters",
+    "target_page": 49,
+    "rect": [
+      46.0,
+      518.0,
+      549.0,
+      566.0
+    ],
+    "printed_label": "49"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Put small sets together",
+    "target_page": 55,
+    "rect": [
+      46.0,
+      569.0,
+      549.0,
+      617.0
+    ],
+    "printed_label": "55"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Count on to add",
+    "target_page": 61,
+    "rect": [
+      46.0,
+      620.0,
+      549.0,
+      668.0
+    ],
+    "printed_label": "61"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 3,
+    "title": "Add tens and ones",
+    "target_page": 69,
+    "rect": [
+      46.0,
+      671.0,
+      549.0,
+      719.0
+    ],
+    "printed_label": "69"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Take away",
+    "target_page": 76,
+    "rect": [
+      46.0,
+      212.0,
+      549.0,
+      260.0
+    ],
+    "printed_label": "76"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Find a missing part",
+    "target_page": 84,
+    "rect": [
+      46.0,
+      263.0,
+      549.0,
+      311.0
+    ],
+    "printed_label": "84"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Pretend coins and change",
+    "target_page": 98,
+    "rect": [
+      46.0,
+      314.0,
+      549.0,
+      362.0
+    ],
+    "printed_label": "98"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Longer, shorter and farther",
+    "target_page": 105,
+    "rect": [
+      46.0,
+      365.0,
+      549.0,
+      413.0
+    ],
+    "printed_label": "105"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Our day in order",
+    "target_page": 115,
+    "rect": [
+      46.0,
+      416.0,
+      549.0,
+      464.0
+    ],
+    "printed_label": "115"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Heavy and light",
+    "target_page": 123,
+    "rect": [
+      46.0,
+      467.0,
+      549.0,
+      515.0
+    ],
+    "printed_label": "123"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Solid shapes around us",
+    "target_page": 135,
+    "rect": [
+      46.0,
+      518.0,
+      549.0,
+      566.0
+    ],
+    "printed_label": "135"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Flat shapes and patterns",
+    "target_page": 145,
+    "rect": [
+      46.0,
+      569.0,
+      549.0,
+      617.0
+    ],
+    "printed_label": "145"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "chapter",
+    "source_page": 4,
+    "title": "Find out about our class",
+    "target_page": 156,
+    "rect": [
+      46.0,
+      620.0,
+      549.0,
+      668.0
+    ],
+    "printed_label": "156"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Revision stations",
+    "target_page": 167,
+    "rect": [
+      46.0,
+      184.0,
+      549.0,
+      218.0
+    ],
+    "printed_label": "167"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Mixed term and year checks",
+    "target_page": 170,
+    "rect": [
+      46.0,
+      219.0,
+      549.0,
+      253.0
+    ],
+    "printed_label": "170"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term one checks",
+    "target_page": 176,
+    "rect": [
+      46.0,
+      254.0,
+      549.0,
+      288.0
+    ],
+    "printed_label": "176"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term two checks",
+    "target_page": 178,
+    "rect": [
+      46.0,
+      289.0,
+      549.0,
+      323.0
+    ],
+    "printed_label": "178"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Term three checks",
+    "target_page": 182,
+    "rect": [
+      46.0,
+      324.0,
+      549.0,
+      358.0
+    ],
+    "printed_label": "182"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Whole-year checks",
+    "target_page": 186,
+    "rect": [
+      46.0,
+      359.0,
+      549.0,
+      393.0
+    ],
+    "printed_label": "186"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Printed AI activities",
+    "target_page": 174,
+    "rect": [
+      46.0,
+      430.0,
+      549.0,
+      464.0
+    ],
+    "printed_label": "174"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Chapter reference directory",
+    "target_page": 6,
+    "rect": [
+      46.0,
+      501.0,
+      549.0,
+      535.0
+    ],
+    "printed_label": "6"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "Adult support and sources",
+    "target_page": 9,
+    "rect": [
+      46.0,
+      536.0,
+      549.0,
+      570.0
+    ],
+    "printed_label": "9"
+  },
+  {
+    "artifact": "workbook",
+    "kind": "guide",
+    "source_page": 5,
+    "title": "About the Author",
+    "target_page": 192,
+    "rect": [
+      46.0,
+      571.0,
+      549.0,
+      605.0
+    ],
+    "printed_label": "192"
+  }
+]

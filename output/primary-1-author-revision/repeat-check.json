@@ -1,0 +1,15 @@
+{
+  "isolated_repeat_build": "byte-identical",
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "pages": 409,
+      "sha256": "3cb84479129ff66fee8d07bb4a66fa41bf80b5186a738b0a23bcfa4db66726c0"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "pages": 192,
+      "sha256": "96ff84f3b9596d10c3b8bf710682886a4f1177f8e12a275980fe709388c6ae1e"
+    }
+  }
+}

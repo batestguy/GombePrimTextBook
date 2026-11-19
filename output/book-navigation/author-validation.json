@@ -1,0 +1,103 @@
+{
+  "protected_source_hashes": 146,
+  "original_text_hash": "126576a588b1cc9d7d4196f69567d96d244a152b9b2f0e0eb7cbd855561496ca",
+  "protected_topic_pdfs": 36,
+  "protected_annual_files": [
+    "new-textbook.pdf",
+    "new-workbook.pdf",
+    "chapter-directory.json",
+    "new-page-map.json",
+    "source-page-map.json",
+    "new-task-ledger.json",
+    "new-stage-map.json",
+    "inherited-task-page-ledger.json",
+    "legacy-assessment-map.json",
+    "printed-answer-navigation.json"
+  ],
+  "source_component_pages": {
+    "textbook": 55,
+    "workbook": 34
+  },
+  "status": "author_checks_passed_pending_independent_review",
+  "reapplying_exact_hash_match": true,
+  "books": {
+    "textbook": {
+      "pages": 409,
+      "retained_page_comparisons": 403,
+      "retained_link_comparisons": 19,
+      "links_on_changed_pages": 122,
+      "chapter_links": 19,
+      "changed_page_fonts": {
+        "3": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "4": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "5": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "407": [
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book",
+          "DejaVu Sans Oblique"
+        ],
+        "408": [
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book",
+          "DejaVu Sans Oblique"
+        ],
+        "409": [
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book",
+          "DejaVu Sans Oblique"
+        ]
+      },
+      "index_terms": 49,
+      "biography_paragraphs": 5
+    },
+    "workbook": {
+      "pages": 192,
+      "retained_page_comparisons": 188,
+      "retained_link_comparisons": 19,
+      "links_on_changed_pages": 29,
+      "chapter_links": 19,
+      "changed_page_fonts": {
+        "3": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "4": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "5": [
+          "AAAAAA+DejaVuSans",
+          "AAAAAA+DejaVuSans-Bold",
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book"
+        ],
+        "192": [
+          "DejaVu Sans Bold",
+          "DejaVu Sans Book",
+          "DejaVu Sans Oblique"
+        ]
+      },
+      "index_terms": 0,
+      "biography_paragraphs": 5
+    }
+  }
+}

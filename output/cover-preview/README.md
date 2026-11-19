@@ -1,5 +1,9 @@
 # Primary 1 cover preview
 
+Latest workbook preview: [workbook cover v2](maths-with-friends-primary-1-workbook-cover-v2.png), with an oversized yellow **WORKBOOK** title on a broad royal-blue banner and white Primary 1 above it. The complete built-in edit prompt and visual check are in workbook-cover-v2.provenance.json. V1 is retained below; neither preview has been inserted into the reviewed workbook PDF.
+
+Matching workbook preview: [workbook cover v1](maths-with-friends-primary-1-workbook-cover-v1.png). It uses the same title, subtitle and busy-table illustration as textbook v4, with a bright yellow/blue `Primary 1 · WORKBOOK` badge. The built-in image-generation prompt and visual inspection are recorded in workbook-cover-v1.provenance.json. It has not been inserted into the reviewed workbook PDF.
+
 Latest preview: [version 4](maths-with-friends-primary-1-v4.png), with a deliberately messy maths table: cardboard numeral/symbol cards, shapes, pencils, erasers, exercise books and counting materials. All four friends actively enjoy different tasks. Both visible equations are correct. It remains a standalone discussion preview; it has not been inserted into either book. The built-in image-generation prompt and inspection are recorded in provenance-v4.json.
 
 Earlier concepts are retained: version 1 (maize and baskets; described below), version 2 (shapes, counters and measurement; provenance-v2.json), and version 3 (simple stones, pens, addition and subtraction; provenance-v3.json).

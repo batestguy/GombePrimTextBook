@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "base_pages": {
+    "textbook": 409,
+    "workbook": 192
+  },
+  "left": 43,
+  "right": 552.28,
+  "body_boundary": 153,
+  "styles": {
+    "chapter": {
+      "size": 20,
+      "baseline": 65
+    },
+    "topic": {
+      "size": 32,
+      "baseline": 102
+    },
+    "activity": {
+      "size": 18,
+      "baseline": 127
+    },
+    "subtitle": {
+      "size": 11,
+      "baseline": 146
+    }
+  },
+  "headings": [
+    {
+      "artifact": "textbook",
+      "chapter": "P1-01",
+      "page": 13,
+      "chapter_label": "CHAPTER ONE",
+      "topic": "One to five",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER ONE / ONE TO FIVE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            204.02000427246094,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A cup for every friend",
+          "bbox": [
+            43.0,
+            86.486328125,
+            375.9639892578125,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will count, read, write and order one to five.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            306.449951171875,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A cup for every friend",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-02",
+      "page": 19,
+      "chapter_label": "CHAPTER TWO",
+      "topic": "Sort, match and order",
+      "old_header": {
+        "kicker": {
+          "text": "OUR CLASSROOM GAME / CHAPTER TWO",
+          "bbox": [
+            43.0,
+            61.40234375,
+            270.0799865722656,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Sort, match and order",
+          "bbox": [
+            43.0,
+            86.486328125,
+            379.7440490722656,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will sort things, match them and put small sets in order.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            373.54998779296875,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "OUR CLASSROOM GAME",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-03",
+      "page": 26,
+      "chapter_label": "CHAPTER THREE",
+      "topic": "Zero means none",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER THREE / ZERO MEANS NONE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            255.1699676513672,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Is the game mat empty?",
+          "bbox": [
+            43.0,
+            86.486328125,
+            412.3330383300781,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will learn the number for none. We will read and write it.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            375.958984375,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Is the game mat empty?",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-04",
+      "page": 32,
+      "chapter_label": "CHAPTER FOUR",
+      "topic": "Six to nine",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER FOUR / SIX TO NINE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            208.5699920654297,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A place for every piece",
+          "bbox": [
+            43.0,
+            86.486328125,
+            392.5690002441406,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will count, read, write and order six to nine.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            304.8439636230469,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A place for every piece",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-05",
+      "page": 40,
+      "chapter_label": "CHAPTER FIVE",
+      "topic": "A bundle of ten",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER FIVE / A BUNDLE OF TEN",
+          "bbox": [
+            43.0,
+            61.40234375,
+            235.47998046875,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Pack our counting strips",
+          "bbox": [
+            43.0,
+            86.486328125,
+            414.92498779296875,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will make tens and ones, then count, read and write through twenty.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            443.3450012207031,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Pack our counting strips",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-06",
+      "page": 50,
+      "chapter_label": "CHAPTER SIX",
+      "topic": "Numbers to ninety-nine",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER SIX / NUMBERS TO NINETY-NINE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            278.7099609375,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Count our classroom supplies",
+          "bbox": [
+            43.0,
+            86.486328125,
+            493.0090026855469,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will build, read and write numbers through ninety-nine.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            368.69903564453125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Count our classroom supplies",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-07",
+      "page": 67,
+      "chapter_label": "CHAPTER SEVEN",
+      "topic": "Equal halves and quarters",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER SEVEN / EQUAL HALVES AND QUARTERS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            323.4599914550781,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A fair paper display",
+          "bbox": [
+            43.0,
+            86.486328125,
+            342.2140197753906,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "We will share the space of a whole into equal parts.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            328.1199951171875,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A fair paper display",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-08",
+      "page": 77,
+      "chapter_label": "CHAPTER EIGHT",
+      "topic": "Put small sets together",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER EIGHT / PUT SMALL SETS TOGETHER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            301.6399841308594,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Bottle tops in one tray",
+          "bbox": [
+            43.0,
+            86.486328125,
+            386.54803466796875,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            405.4169006347656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Bottle tops in one tray",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-09",
+      "page": 85,
+      "chapter_label": "CHAPTER NINE",
+      "topic": "Count on to add",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER NINE / COUNT ON TO ADD",
+          "bbox": [
+            43.0,
+            61.40234375,
+            242.62998962402344,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Oranges for a market tray",
+          "bbox": [
+            43.0,
+            86.486328125,
+            440.71002197265625,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            405.4169006347656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Oranges for a market tray",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-10",
+      "page": 97,
+      "chapter_label": "CHAPTER TEN",
+      "topic": "Add tens and ones",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER TEN / ADD TENS AND ONES",
+          "bbox": [
+            43.0,
+            61.40234375,
+            250.5500030517578,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Pencils for our classroom",
+          "bbox": [
+            43.0,
+            86.486328125,
+            427.9660339355469,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            405.4169006347656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Pencils for our classroom",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-11",
+      "page": 109,
+      "chapter_label": "CHAPTER ELEVEN",
+      "topic": "Take away",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER ELEVEN / TAKE AWAY",
+          "bbox": [
+            43.0,
+            61.40234375,
+            218.5600128173828,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Chalk for our classroom",
+          "bbox": [
+            43.0,
+            86.486328125,
+            404.5299987792969,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            332.9489440917969,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Chalk for our classroom",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-12",
+      "page": 121,
+      "chapter_label": "CHAPTER TWELVE",
+      "topic": "Find a missing part",
+      "old_header": {
+        "kicker": {
+          "text": "FIND A MISSING PART",
+          "bbox": [
+            43.0,
+            61.40234375,
+            166.36001586914062,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "The hidden bottle tops",
+          "bbox": [
+            43.0,
+            86.486328125,
+            389.9230041503906,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use a workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            314.95294189453125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "The hidden bottle tops",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-13",
+      "page": 147,
+      "chapter_label": "CHAPTER THIRTEEN",
+      "topic": "Pretend coins and change",
+      "old_header": {
+        "kicker": {
+          "text": "PRETEND COINS AND CHANGE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            212.02001953125,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Our pretend neighbourhood stall",
+          "bbox": [
+            43.0,
+            86.486328125,
+            544.5250244140625,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Keep this textbook reusable.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            287.05694580078125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Our pretend neighbourhood stall",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-14",
+      "page": 163,
+      "chapter_label": "CHAPTER FOURTEEN",
+      "topic": "Longer, shorter and farther",
+      "old_header": {
+        "kicker": {
+          "text": "LONGER, SHORTER AND FARTHER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            232.74000549316406,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A strip for our name label",
+          "bbox": [
+            43.0,
+            86.486328125,
+            434.7159729003906,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A strip for our name label",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-15",
+      "page": 175,
+      "chapter_label": "CHAPTER FIFTEEN",
+      "topic": "Our day in order",
+      "old_header": {
+        "kicker": {
+          "text": "OUR DAY IN ORDER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            152.16001892089844,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A mixed-up story strip",
+          "bbox": [
+            43.0,
+            86.486328125,
+            383.6050109863281,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Listen while an adult reads the cards.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            335.9189147949219,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A mixed-up story strip",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-16",
+      "page": 187,
+      "chapter_label": "CHAPTER SIXTEEN",
+      "topic": "Heavy and light",
+      "old_header": {
+        "kicker": {
+          "text": "HEAVY AND LIGHT",
+          "bbox": [
+            43.0,
+            61.40234375,
+            145.78001403808594,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Which parcel is lighter?",
+          "bbox": [
+            43.0,
+            86.486328125,
+            401.72198486328125,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Which parcel is lighter?",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-17",
+      "page": 199,
+      "chapter_label": "CHAPTER SEVENTEEN",
+      "topic": "Solid shapes around us",
+      "old_header": {
+        "kicker": {
+          "text": "SOLID SHAPES AROUND US",
+          "bbox": [
+            43.0,
+            61.40234375,
+            196.24998474121094,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Sort our classroom objects",
+          "bbox": [
+            43.0,
+            86.486328125,
+            451.07806396484375,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Sort our classroom objects",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-18",
+      "page": 213,
+      "chapter_label": "CHAPTER EIGHTEEN",
+      "topic": "Flat shapes and patterns",
+      "old_header": {
+        "kicker": {
+          "text": "FLAT SHAPES AND PATTERNS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            209.0900115966797,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A border for our class book",
+          "bbox": [
+            43.0,
+            86.486328125,
+            457.7200012207031,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A border for our class book",
+      "qualifier": ""
+    },
+    {
+      "artifact": "textbook",
+      "chapter": "P1-19",
+      "page": 227,
+      "chapter_label": "CHAPTER NINETEEN",
+      "topic": "Find out about our class",
+      "old_header": {
+        "kicker": {
+          "text": "FIND OUT ABOUT OUR CLASS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            206.54998779296875,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Trustworthy class records",
+          "bbox": [
+            43.0,
+            86.486328125,
+            438.76605224609375,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Trustworthy class records",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-01",
+      "page": 10,
+      "chapter_label": "CHAPTER ONE",
+      "topic": "One to five",
+      "old_header": {
+        "kicker": {
+          "text": "ONE TO FIVE / YOUR TURN",
+          "bbox": [
+            43.0,
+            61.40234375,
+            190.75999450683594,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Count and draw",
+          "bbox": [
+            43.0,
+            86.486328125,
+            284.1100158691406,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Look at the textbook models first. Write and draw on this page.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            392.48101806640625,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Count and draw",
+      "qualifier": "YOUR TURN"
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-02",
+      "page": 14,
+      "chapter_label": "CHAPTER TWO",
+      "topic": "Sort, match and order",
+      "old_header": {
+        "kicker": {
+          "text": "SORT, MATCH AND ORDER / TRY TOGETHER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            287.0500183105469,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Sort and match",
+          "bbox": [
+            43.0,
+            86.486328125,
+            277.2790222167969,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Watch Mr Aliyu first. You may mark this workbook.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            321.8279724121094,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Sort and match",
+      "qualifier": "TRY TOGETHER"
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-03",
+      "page": 19,
+      "chapter_label": "CHAPTER THREE",
+      "topic": "Zero means none",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER THREE / ZERO MEANS NONE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            255.1699676513672,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Empty and not empty",
+          "bbox": [
+            43.0,
+            86.486328125,
+            371.3470153808594,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read aloud. Use the paired textbook Your turn with zero, or work here.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            434.2368469238281,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Empty and not empty",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-04",
+      "page": 23,
+      "chapter_label": "CHAPTER FOUR",
+      "topic": "Six to nine",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER FOUR / SIX TO NINE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            208.5699920654297,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Trace, cover and write",
+          "bbox": [
+            43.0,
+            86.486328125,
+            385.0090026855469,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Watch Mr Aliyu write each numeral. Then trace, cover and try.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            386.9588928222656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Trace, cover and write",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-05",
+      "page": 29,
+      "chapter_label": "CHAPTER FIVE",
+      "topic": "A bundle of ten",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER FIVE / A BUNDLE OF TEN",
+          "bbox": [
+            43.0,
+            61.40234375,
+            235.47998046875,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Make and open a ten",
+          "bbox": [
+            43.0,
+            86.486328125,
+            362.78802490234375,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Watch Mrs Binta. Try with real paper strips, then check the pictures.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            419.5079345703125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Make and open a ten",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-06",
+      "page": 35,
+      "chapter_label": "CHAPTER SIX",
+      "topic": "Numbers to ninety-nine",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER SIX / NUMBERS TO NINETY-NINE",
+          "bbox": [
+            43.0,
+            61.40234375,
+            278.7099609375,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Ready for bigger numbers",
+          "bbox": [
+            43.0,
+            86.486328125,
+            441.52001953125,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "An adult reads aloud. Use real strips. Write here.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            311.8179931640625,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Ready for bigger numbers",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-07",
+      "page": 49,
+      "chapter_label": "CHAPTER SEVEN",
+      "topic": "Equal halves and quarters",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER SEVEN / EQUAL HALVES AND QUARTERS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            323.4599914550781,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Check the parts",
+          "bbox": [
+            43.0,
+            86.486328125,
+            283.3810119628906,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Try together / Match with textbook pages Check the amount and Turn it.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            443.7409362792969,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Check the parts",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-08",
+      "page": 55,
+      "chapter_label": "CHAPTER EIGHT",
+      "topic": "Put small sets together",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER EIGHT / PUT SMALL SETS TOGETHER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            301.6399841308594,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try with Mr Aliyu",
+          "bbox": [
+            43.0,
+            86.486328125,
+            303.2799987792969,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            405.4169006347656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try with Mr Aliyu",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-09",
+      "page": 61,
+      "chapter_label": "CHAPTER NINE",
+      "topic": "Count on to add",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER NINE / COUNT ON TO ADD",
+          "bbox": [
+            43.0,
+            61.40234375,
+            242.62998962402344,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try with Mrs Binta",
+          "bbox": [
+            43.0,
+            86.486328125,
+            323.2870178222656,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or use your workbook or exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            405.4169006347656,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try with Mrs Binta",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-10",
+      "page": 69,
+      "chapter_label": "CHAPTER TEN",
+      "topic": "Add tens and ones",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER TEN / ADD TENS AND ONES",
+          "bbox": [
+            43.0,
+            61.40234375,
+            250.5500030517578,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try with Mr Aliyu",
+          "bbox": [
+            43.0,
+            86.486328125,
+            303.2799987792969,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Say, point or write in this workbook.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            327.7349548339844,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try with Mr Aliyu",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-11",
+      "page": 76,
+      "chapter_label": "CHAPTER ELEVEN",
+      "topic": "Take away",
+      "old_header": {
+        "kicker": {
+          "text": "CHAPTER ELEVEN / TAKE AWAY",
+          "bbox": [
+            43.0,
+            61.40234375,
+            218.5600128173828,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Cross ten together",
+          "bbox": [
+            43.0,
+            86.486328125,
+            328.87603759765625,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Write in this workbook.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            256.0699768066406,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Cross ten together",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-12",
+      "page": 84,
+      "chapter_label": "CHAPTER TWELVE",
+      "topic": "Find a missing part",
+      "old_header": {
+        "kicker": {
+          "text": "FIND A MISSING PART / WORKBOOK PAGE 1",
+          "bbox": [
+            43.0,
+            61.40234375,
+            288.3499755859375,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Find each missing part",
+          "bbox": [
+            43.0,
+            86.486328125,
+            390.3280029296875,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Write or draw in the spaces. Say your check.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            289.28997802734375,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Find each missing part",
+      "qualifier": "WORKBOOK PAGE 1"
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-13",
+      "page": 98,
+      "chapter_label": "CHAPTER THIRTEEN",
+      "topic": "Pretend coins and change",
+      "old_header": {
+        "kicker": {
+          "text": "PRETEND COINS AND CHANGE / WORKBOOK PAGE 1",
+          "bbox": [
+            43.0,
+            61.40234375,
+            334.0099792480469,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Read genuine coin values",
+          "bbox": [
+            43.0,
+            86.486328125,
+            432.447998046875,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Write or draw in the spaces.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            284.1089782714844,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Read genuine coin values",
+      "qualifier": "WORKBOOK PAGE 1"
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-14",
+      "page": 105,
+      "chapter_label": "CHAPTER FOURTEEN",
+      "topic": "Longer, shorter and farther",
+      "old_header": {
+        "kicker": {
+          "text": "LONGER, SHORTER AND FARTHER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            232.74000549316406,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "A strip for our name label",
+          "bbox": [
+            43.0,
+            86.486328125,
+            434.7159729003906,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Use the workbook or an exercise book.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            343.4759216308594,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "A strip for our name label",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-15",
+      "page": 115,
+      "chapter_label": "CHAPTER FIFTEEN",
+      "topic": "Our day in order",
+      "old_header": {
+        "kicker": {
+          "text": "OUR DAY IN ORDER",
+          "bbox": [
+            43.0,
+            61.40234375,
+            152.16001892089844,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try together",
+          "bbox": [
+            43.0,
+            86.486328125,
+            234.5650177001953,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Listen while an adult reads the cards.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            335.9189147949219,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try together",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-16",
+      "page": 123,
+      "chapter_label": "CHAPTER SIXTEEN",
+      "topic": "Heavy and light",
+      "old_header": {
+        "kicker": {
+          "text": "HEAVY AND LIGHT",
+          "bbox": [
+            43.0,
+            61.40234375,
+            145.78001403808594,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Our weight journal",
+          "bbox": [
+            43.0,
+            86.486328125,
+            328.30902099609375,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Write in this workbook.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            256.0699768066406,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Our weight journal",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-17",
+      "page": 135,
+      "chapter_label": "CHAPTER SEVENTEEN",
+      "topic": "Solid shapes around us",
+      "old_header": {
+        "kicker": {
+          "text": "SOLID SHAPES AROUND US",
+          "bbox": [
+            43.0,
+            61.40234375,
+            196.24998474121094,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try together",
+          "bbox": [
+            43.0,
+            86.486328125,
+            234.5650177001953,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Speak, point, move or write here.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            313.54498291015625,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try together",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-18",
+      "page": 145,
+      "chapter_label": "CHAPTER EIGHTEEN",
+      "topic": "Flat shapes and patterns",
+      "old_header": {
+        "kicker": {
+          "text": "FLAT SHAPES AND PATTERNS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            209.0900115966797,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try together, take turns",
+          "bbox": [
+            43.0,
+            86.486328125,
+            411.739013671875,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Speak, point or write here.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            275.82598876953125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try together, take turns",
+      "qualifier": ""
+    },
+    {
+      "artifact": "workbook",
+      "chapter": "P1-19",
+      "page": 156,
+      "chapter_label": "CHAPTER NINETEEN",
+      "topic": "Find out about our class",
+      "old_header": {
+        "kicker": {
+          "text": "FIND OUT ABOUT OUR CLASS",
+          "bbox": [
+            43.0,
+            61.40234375,
+            206.54998779296875,
+            71.40234375
+          ]
+        },
+        "activity": {
+          "text": "Try together, check fairly",
+          "bbox": [
+            43.0,
+            86.486328125,
+            430.5309753417969,
+            113.486328125
+          ]
+        },
+        "subtitle": {
+          "text": "Read together. Speak, point or write here.",
+          "bbox": [
+            43.0,
+            125.642578125,
+            275.82598876953125,
+            136.642578125
+          ]
+        }
+      },
+      "activity": "Try together, check fairly",
+      "qualifier": ""
+    }
+  ]
+}

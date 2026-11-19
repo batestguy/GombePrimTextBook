@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "front_pages": 9,
+  "expected_pages": {
+    "textbook": 406,
+    "workbook": 191
+  },
+  "covers": {
+    "textbook": {
+      "role": "textbook",
+      "path": "artwork/covers/primary-1-textbook.png",
+      "sha256": "eee26055ea5a866f82d357d7567a4cf32cd29c6da80b946d1f83ff26bcfc6c5d",
+      "source": "output/cover-preview/maths-with-friends-primary-1-v4.png",
+      "prompt_record": "output/cover-preview/provenance-v4.json"
+    },
+    "workbook": {
+      "role": "workbook",
+      "path": "artwork/covers/primary-1-workbook.png",
+      "sha256": "16d1f2815c1a3e91123d627769c49823f67dfbd52f945bea9e717852aa1070f6",
+      "source": "output/cover-preview/maths-with-friends-primary-1-workbook-cover-v2.png",
+      "prompt_record": "output/cover-preview/workbook-cover-v2.provenance.json"
+    }
+  },
+  "slugs": [
+    "illustrated-cover",
+    "how-to-use",
+    "contents-start",
+    "contents-continue",
+    "contents-practice-discovery",
+    "adult-source-directory-1",
+    "adult-source-directory-2",
+    "adult-source-directory-3",
+    "adult-support-index"
+  ],
+  "specials": {
+    "textbook": [
+      [
+        "Meet the friends",
+        "@10"
+      ],
+      [
+        "Meet the teachers",
+        "@12"
+      ],
+      [
+        "Revision together",
+        "revision-open"
+      ],
+      [
+        "Practice stations",
+        "tb-ANN-I1"
+      ],
+      [
+        "Mixed term and year checks",
+        "tb-ANN-C1"
+      ],
+      [
+        "Term one checks",
+        "tb-legacy-term-one-0"
+      ],
+      [
+        "Term two checks",
+        "tb-legacy-term-two-0"
+      ],
+      [
+        "Term three checks",
+        "tb-legacy-term-three-0"
+      ],
+      [
+        "Whole-year checks",
+        "tb-legacy-annual-0"
+      ],
+      [
+        "Discover AI together",
+        "ai-1"
+      ],
+      [
+        "For teachers and families",
+        "annual-adult"
+      ]
+    ],
+    "workbook": [
+      [
+        "Revision stations",
+        "ANN-I1"
+      ],
+      [
+        "Mixed term and year checks",
+        "ANN-C1"
+      ],
+      [
+        "Printed AI activities",
+        "AI-W1"
+      ],
+      [
+        "Term one checks",
+        "legacy-term-one-0"
+      ],
+      [
+        "Term two checks",
+        "legacy-term-two-0"
+      ],
+      [
+        "Term three checks",
+        "legacy-term-three-0"
+      ],
+      [
+        "Whole-year checks",
+        "legacy-annual-0"
+      ]
+    ]
+  }
+}

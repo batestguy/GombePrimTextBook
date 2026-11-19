@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "strict_chapter_gates": true,
+  "protected_hashes": 594,
+  "preserved_topic_pdfs": 36,
+  "preserved_original_questions": 114,
+  "preserved_lesson_objects": 19,
+  "unchanged_other_chapter_records": 44,
+  "checks": [
+    "All protected production/research/artwork/script/font inputs, chapter PDFs and saved review evidence unchanged; current README/plan/handoff updated intentionally",
+    "All prior review decisions/history retained; no chapter metadata replaced",
+    "All three canonical lesson sources agree with generated lessons.json"
+  ],
+  "gates": {
+    "P1-01": {
+      "status": "approved",
+      "fingerprint": "0045d40a92f0e723e42f6cbf35278692bdfbea77f3535635a0442af1ae6c3d1d"
+    },
+    "P1-02": {
+      "status": "approved",
+      "fingerprint": "a857aaef8ed006802402bbfbca29a2588f617f09b8398892027feb94f41892f8"
+    },
+    "P1-03": {
+      "status": "approved",
+      "fingerprint": "0ff09a7e6c49417bc7113d11a6233a13efb35e4141c28a61296139ac6b433b28"
+    },
+    "P1-04": {
+      "status": "approved",
+      "fingerprint": "54b4837adecaf2eb15157ddcadb4e2e2008abdc9bb598628907db0228178934d"
+    },
+    "P1-05": {
+      "status": "approved",
+      "fingerprint": "e02e3abfc4d593c1923e0f95214a96e26fd622ace948a728dd2251f6a6c9cf4a"
+    },
+    "P1-06": {
+      "status": "approved",
+      "fingerprint": "501c2f1bd56a485b899ce2072f321091cf937d8766936d63a0dac1d4d895c2a9"
+    },
+    "P1-07": {
+      "status": "approved",
+      "fingerprint": "9dec9017ed0bda0241249e1b5c0ccf0edff046e641eb6f25175cd720ce6258aa"
+    },
+    "P1-08": {
+      "status": "approved",
+      "fingerprint": "da455998856a85478798fe9bc76e39a74c0e741e6be3a82c10e5242516cdcc64"
+    },
+    "P1-09": {
+      "status": "approved",
+      "fingerprint": "6c4b4dd021081ef9469b49b35b6be8f929524c39148ff29f921547a7cb2ee671"
+    },
+    "P1-10": {
+      "status": "approved",
+      "fingerprint": "a124777744e12d0e4de40ab76b834e2aa1e3b6cc9df75206135e9fc65771e65f"
+    },
+    "P1-11": {
+      "status": "approved",
+      "fingerprint": "630e730077bbfbda118b042ea15c7e80f15bf7d99a74823404fc955749587c7e"
+    },
+    "P1-12": {
+      "status": "approved",
+      "fingerprint": "a1d18ae714461e3be83e4b28abf9d80e5512a67db295fa7da3588d6211ca537e"
+    },
+    "P1-13": {
+      "status": "approved",
+      "fingerprint": "422be04effabf551959ae94a5ffd98085aeb6cfb2f4396fd7c24b79772941c0b"
+    },
+    "P1-14": {
+      "status": "approved",
+      "fingerprint": "1723b46ba1a88513670af68a1ee63eaefb3ee5f0e57f56da3c3739d98b2d7365"
+    },
+    "P1-15": {
+      "status": "approved",
+      "fingerprint": "4be8f2419b22626767c7ead24e0404ac4d56c4dd2209311880f0ae4e67b376a1"
+    },
+    "P1-16": {
+      "status": "approved",
+      "fingerprint": "ad09ce0cdc253d0cf367b0a3aa3364b49b92a02e52f67a9ae0decd207e16b7f6"
+    },
+    "P1-17": {
+      "status": "approved",
+      "fingerprint": "4b3d9f41739c16410d5de445f1f04d22b5df2e7e962d8d3dd528c193308022b7"
+    },
+    "P1-18": {
+      "status": "approved",
+      "fingerprint": "b2a20266e4cbc24df94c6c25a7a46376ee70dbb6ff797db81a21198dedc7d2de"
+    },
+    "P1-19": {
+      "status": "approved",
+      "fingerprint": "4085c21d68c3e2f522ab06e20ba4116febd467b6443ac80ed3aa0a8a705ea83f"
+    }
+  },
+  "annual_review": "approved",
+  "annual_checks": {
+    "pages": {
+      "textbook": 406,
+      "workbook": 191
+    },
+    "inherited_exact_pages": 508,
+    "mapped_objectives": 54,
+    "original_question_ids": 114,
+    "mapped_supplements": 21,
+    "new_task_records": 57,
+    "reconciled_legacy_items": 30,
+    "ai_final_pupil_pages": [
+      "ai-1",
+      "ai-2",
+      "ai-3",
+      "ai-4"
+    ]
+  },
+  "limits": "Annual semantic/page approval requires independent reviewer record; not proof of current curriculum, classroom or print approval."
+}

@@ -1,5 +1,75 @@
 # Maths with Friends
 
+## Primary 1 deep-green author back covers
+
+The final back cover of each Primary 1 book now uses the deep green sampled
+from the textbook front cover, with a white biography panel and the existing
+passport-style portrait. The book credit retains MEG Publishers. The biography
+now includes the author's statistical and machine learning application work.
+The new biography source is production/p1-author-back-cover.json. The same
+packaging command, scripts/build_primary_one_headings.py, assembles both PDFs.
+
+The final PDFs passed independent review. All 19 Primary 1 chapter checks,
+the annual review, and preflight passed. All 599 other pages match the prior
+edition. The revised back covers displayed side by side in SumatraPDF.
+The user authorized committing and pushing this update to GitHub. Current
+curriculum verification, local testing, and physical print approval remain pending.
+
+See the [current handoff](output/primary-1-author-revision/HANDOFF.md) for the exact files, desktop reader check, and review status.
+
+## Primary 1 centred headings and author back covers
+
+Both compiled Primary 1 books now have centred chapter labels, topics and activity
+headings. The approved biography is set on the final back cover of each edition,
+beside the owner-supplied portrait. The textbook is 409 pages and the workbook
+is 192. Chapter teaching, workbook tasks, answer keys and navigation remain in
+their existing locations.
+
+Independent editorial review and all 20 Primary 1 approval checks passed.
+Both editions were also checked in SumatraPDF. Physical print approval remains
+pending.
+
+Rebuild with `python scripts/build_primary_one_headings.py`.
+See the [layout handoff](output/primary-1-cover-layout/HANDOFF.md) for the exact files, verification and review
+status. The earlier completion records below describe the prior edition.
+
+**Chapter heading update in progress, 18 November 2026:** all 38 chapter openings in the compiled Primary 1 pair are being revised to show a large bold chapter label and topic. The underlying lessons, page numbers and navigation stay intact. Current reviews have been reopened pending independent exact-PDF checks. See [heading handoff](output/chapter-headings/HANDOFF.md). Earlier completion statements describe the archived prior edition.
+
+**Windows reader access:** the two compiled PDFs now inherit the output folder permissions and open in Sumatra under the normal Windows account. After running the packaging builder under Codex, run `python output/book-navigation/restore_pdf_read_access.py`. This preserves PDF bytes and avoids retaining private staging-folder permissions. See [repair evidence](output/book-navigation/READER-ACCESS-REPAIR.md).
+
+**Primary 1 author biography and navigation completed, 18 November 2026:** the
+[textbook (409 pages)](output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf) and
+[workbook (192 pages)](output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf) have
+clear linked contents on pages 3-5. The textbook has a 49-entry alphabetical maths
+index on 407-408; the workbook has contents-only navigation, as selected by the
+owner. The exact approved author biography is the final page in each book:
+textbook 409 and workbook 192. The class-ranking phrase and optional personal
+closing sentence are absent.
+
+Independent editorial review covered all 22 current front/end pages, every contents
+and index reference and all 151 new links. All 591 other base pages retain their
+exact text, rendered appearance, existing links, labels and positions. All 36 topic
+PDFs, canonical lessons, source components, task/answer maps and original source
+text are preserved. The current 19 topic and annual review records passed the strict
+checks; this does not approve the unfinished Primary 2/3 series. See the
+[independent review](output/book-navigation/REVIEW.md),
+[coordinator verification](output/book-navigation/parent-validation.json) and
+[current handoff](docs/SESSION-HANDOFF.md).
+
+Reapply this exact packaging with `python scripts/build_primary_one_navigation.py`.
+It needs the preserved baseline under `output/book-navigation/baseline` and accepts
+only the exact original or its recognized packaged pair; repeat builds are
+byte-identical. Existing lesson/annual/front-matter builders describe prior stages
+and do not automatically reproduce this final packaging. Source or baseline changes
+require reopened review and a deliberate packaging update. Check the current pair
+with `python scripts/preflight.py` and
+`python output/book-navigation/parent_verify.py --require-reviewed`.
+
+Current curriculum/adoption, local educator/classroom/accessibility trials and
+physical print/printer approval remain pending. No commit, push or publication was
+performed for this update. Earlier dated checkpoints below describe archived prior
+editions and their original counts.
+
 **Primary 1 local wording revision completed, 17 November 2026:**
 [Reusable textbook (406 pages)](output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf)
 and [write-in workbook (191 pages)](output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf)
@@ -29,7 +99,7 @@ the user authorized committing and pushing this wording revision on 17 November
 2026. Refer to Git history for its delivery commit. No website publication is
 authorized or claimed.
 
-Rebuild current topic extracts with `python scripts/build_primary_one_localised.py`,
+For the earlier wording stage, rebuild topic extracts with `python scripts/build_primary_one_localised.py`,
 then assemble with `python scripts/build_primary_one_annual.py`. Reopening review
 is required before changing approved sources/PDFs. Check with
 `python scripts/preflight.py` and
@@ -118,7 +188,7 @@ Quarto 1.9.38 includes Typst 0.14.2. Python 3.14 was used for production. Core s
 
 Run from the extracted project root:
 
-```powershell
+```text
 python scripts/preflight.py
 python scripts/build_book.py
 quarto render book.qmd
@@ -128,7 +198,7 @@ Copy-Item -LiteralPath Gombe-Mathematics-Book-1.pdf -Destination output/pdf/Gomb
 
 Direct Typst compilation is also possible after Quarto has generated `book.typ`:
 
-```powershell
+```text
 quarto typst compile book.typ output/pdf/Gombe-Mathematics-Book-1.pdf --font-path fonts
 ```
 

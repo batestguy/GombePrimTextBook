@@ -1,0 +1,1311 @@
+{
+  "reviewer": "/root/annual_reviewer",
+  "tasks": [
+    {
+      "id": "ANN-M1",
+      "independent_solution": "4 + 2 = 6; counting on says 5,6, and count-all confirms six.",
+      "actual_prompt": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+      "printed_key": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 241
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 274
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-G1",
+      "independent_solution": "3 + 2 = 5; touch/move each object once to avoid duplicates.",
+      "actual_prompt": "Put 3 counters down. Add 2. Count them together. Explain how you avoid counting one twice.",
+      "printed_key": "5 counters; touch or move each once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 241
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 274
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-I1",
+      "independent_solution": "5 + 3 = 8; eight circles total, each counted once.",
+      "actual_prompt": "Draw 5 circles in your workbook. Add 3 more. How many altogether? Explain your check.",
+      "printed_key": "8; 5 + 3 = 8. Count each circle once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 246
+        },
+        {
+          "artifact": "workbook",
+          "page": 167
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 274
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-M2",
+      "independent_solution": "7 - 3 = 4; removed three plus remaining four restores seven.",
+      "actual_prompt": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+      "printed_key": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 242
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 274
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-G2",
+      "independent_solution": "8 - 2 = 6; 2 + 6 = 8 confirms.",
+      "actual_prompt": "Put 8 counters down. Move 2 away. Say the remaining number. Check by putting the parts together.",
+      "printed_key": "6 remain; 2 + 6 = 8.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 242
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 274
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-I2",
+      "independent_solution": "9 - 4 = 5; five uncrossed circles and corresponding subtraction sentence.",
+      "actual_prompt": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+      "printed_key": "5; 9 - 4 = 5.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 247
+        },
+        {
+          "artifact": "workbook",
+          "page": 168
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 275
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-M3",
+      "independent_solution": "Align starts before comparing endpoints; farther endpoint is longer. Fold circle into two equal matching parts for halves.",
+      "actual_prompt": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+      "printed_key": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 243
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 275
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-G3",
+      "independent_solution": "Longer/shorter/equal depends on actual aligned strips; two matching equal parts of one circle are halves.",
+      "actual_prompt": "Use two safe strips. Align one end. Say which is longer, shorter or equal. Fold a paper circle into two equal matching parts. Explain why the parts are halves.",
+      "printed_key": "Comparison depends on strips; compare from one baseline. Two equal matching parts make halves.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 243
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 275
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-I3",
+      "independent_solution": "Any diameter makes two equal halves. Actual aligned strip endpoints determine comparison; no fixed length result.",
+      "actual_prompt": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+      "printed_key": "Two equal parts of the circle; accept any straight diameter forming two equal halves. Length comparison depends on actual strips.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 248
+        },
+        {
+          "artifact": "workbook",
+          "page": 169
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 275
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-R",
+      "independent_solution": "Count once each; check subtraction by rejoining removed and remaining parts.",
+      "actual_prompt": "Explain a count check and subtraction check.",
+      "printed_key": "Count each once; recombine removed and remaining parts.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 244
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 275
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-H",
+      "independent_solution": "2 + 1 = 3 in support; a different unaided 2 + 2 = 4 checks the method.",
+      "actual_prompt": "Use 2 counters, add 1; then try 2 and 2.",
+      "printed_key": "3 in model; 4 in new unaided recheck after support.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 244
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 276
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-F",
+      "independent_solution": "6 + 3 = 9; count on 7,8,9 or count all nine.",
+      "actual_prompt": "Start with 6, add 3. Check another way.",
+      "printed_key": "9; count all or count on; 6 + 3 = 9.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 244
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 276
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-C1",
+      "independent_solution": "After8 is9; draw6; count5 real objects once each; sort4 by a consistent stated feature. Assess each mode separately.",
+      "actual_prompt": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+      "printed_key": "9; six circles; count 5 once each; consistent stated sorting rule.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 249
+        },
+        {
+          "artifact": "workbook",
+          "page": 170
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 276
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-C2",
+      "independent_solution": "24 = 2tens+4ones; 5+4=9; 8-3=5; folding makes two equal matching parts. Accept a valid own check.",
+      "actual_prompt": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+      "printed_key": "2 tens and 4 ones; 9; 5; two equal matching parts. Accept a valid check.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 250
+        },
+        {
+          "artifact": "workbook",
+          "page": 171
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 276
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-C3",
+      "independent_solution": "Pretend values5+2=7; actual aligned strips decide length; rectangle has four right angles/opposite sides equal (square special case valid); afternoon follows morning in this sequence.",
+      "actual_prompt": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+      "printed_key": "7 pretend units; length depends on strips; closed four-straight-sided rectangle with opposite sides equal and square corners; afternoon.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 251
+        },
+        {
+          "artifact": "workbook",
+          "page": 172
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 276
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-C4",
+      "independent_solution": "31=3tens+1one; 8+2=10; 9-4=5; four equal-area square partitions including four equal strips valid. Actual observed weight may be heavier/lighter/equal. Ask fictional roles before recording accurately labelled age replies.",
+      "actual_prompt": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+      "printed_key": "3 tens and 1 one; 10; 5; four equal-area parts of a square, including four equal strips; actual balance/weight observation determines heavier/lighter/equal; accurately labelled fictional replies after asking.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 252
+        },
+        {
+          "artifact": "workbook",
+          "page": 173
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-M1",
+      "independent_solution": "AI is a people-made computer tool using patterns learned from examples; not a person/feelings; can make incorrect answers. Printed chats are invented.",
+      "actual_prompt": "What is AI? Can its answer be wrong?",
+      "printed_key": "A computer tool made by people; uses patterns learned from many examples to make replies; not a person; has no feelings; replies can be wrong.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 269
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-G",
+      "independent_solution": "Exactly four displayed objects, so claimed five is wrong; point once to each.",
+      "actual_prompt": "Count the four printed counters and correct the pretend five.",
+      "printed_key": "4; five is wrong; touch each of the four once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 270
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-M2",
+      "independent_solution": "3+2=5, checked with objects.",
+      "actual_prompt": "Three counters and two more.",
+      "printed_key": "5; 3 + 2 = 5.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 271
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-I",
+      "independent_solution": "A clear made-up question specifying two and one more; 2+1=3 verified with objects; no private facts.",
+      "actual_prompt": "Ask about two counters and one more; verify three.",
+      "printed_key": "A clear non-private question stating 2 and 1 more; verify 3 with objects.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 271
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-F",
+      "independent_solution": "Six displayed objects; claimed four is incorrect; independent one-to-one recount and explanation.",
+      "actual_prompt": "Count six printed counters and independently correct pretend four.",
+      "printed_key": "6; four is wrong. Touch each once and explain.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 272
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 277
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-H",
+      "independent_solution": "Two in support; different set of three checked unaided afterward.",
+      "actual_prompt": "Check two counters together, then a new set of three.",
+      "printed_key": "2 in model; 3 in unaided recheck after support.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 272
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-R",
+      "independent_solution": "Ask clearly, protect personal information, check with own mathematics and trusted adult.",
+      "actual_prompt": "Recall the checking and privacy rules.",
+      "printed_key": "Ask clearly; use invented non-private maths; check answers with own maths and adult support.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 272
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-W1",
+      "independent_solution": "2+1=3; clear invented question and own object/drawing check.",
+      "actual_prompt": "Ask an adult a clear question about 2 counters and 1 more. The adult reads: Pretend AI says three. Check with counters. Draw or write your check. Use no private information.",
+      "printed_key": "3; clear question and one-to-one checking.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 271
+        },
+        {
+          "artifact": "workbook",
+          "page": 174
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-W2",
+      "independent_solution": "Six displayed dots, not four; explain one-to-one count.",
+      "actual_prompt": "These dots are the whole set. Pretend AI says four. Count each dot once. Write the correct number and explain to an adult.",
+      "printed_key": "6; four is wrong; count each of six once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 272
+        },
+        {
+          "artifact": "workbook",
+          "page": 175
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-1",
+      "independent_solution": "0",
+      "actual_prompt": "Write the number for no objects.",
+      "printed_key": "0",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 253
+        },
+        {
+          "artifact": "workbook",
+          "page": 176
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-2",
+      "independent_solution": "3,6,8 from smallest to largest",
+      "actual_prompt": "Order 8, 3 and 6 from smallest to largest.",
+      "printed_key": "3, 6, 8",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 253
+        },
+        {
+          "artifact": "workbook",
+          "page": 176
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 278
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-3",
+      "independent_solution": "60",
+      "actual_prompt": "What comes after 59?",
+      "printed_key": "60",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 255
+        },
+        {
+          "artifact": "workbook",
+          "page": 178
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-4",
+      "independent_solution": "27 = 2tens+7ones",
+      "actual_prompt": "2 tens and 7 ones make __.",
+      "printed_key": "27",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 255
+        },
+        {
+          "artifact": "workbook",
+          "page": 178
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-5",
+      "independent_solution": "Four equal-area pieces of square, one shaded; quarter",
+      "actual_prompt": "Draw four equal parts of a square and shade one.",
+      "printed_key": "One quarter shaded; four equal-area parts.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 256
+        },
+        {
+          "artifact": "workbook",
+          "page": 179
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R1-6",
+      "independent_solution": "Nine actual objects, each counted once",
+      "actual_prompt": "Show 9 objects and explain how you checked.",
+      "printed_key": "Exactly nine; touch or move each once.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 254
+        },
+        {
+          "artifact": "workbook",
+          "page": 177
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-1",
+      "independent_solution": "3+4+1=8",
+      "actual_prompt": "3 + 4 + 1 = __.",
+      "printed_key": "8",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 256
+        },
+        {
+          "artifact": "workbook",
+          "page": 179
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-2",
+      "independent_solution": "17-8=9",
+      "actual_prompt": "17 - 8 = __.",
+      "printed_key": "9",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 257
+        },
+        {
+          "artifact": "workbook",
+          "page": 180
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-3",
+      "independent_solution": "24+12=36, no regrouping",
+      "actual_prompt": "24 + 12 = __.",
+      "printed_key": "36",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 257
+        },
+        {
+          "artifact": "workbook",
+          "page": 180
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 279
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-4",
+      "independent_solution": "4, because6+4=10",
+      "actual_prompt": "6 + __ = 10.",
+      "printed_key": "4",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 258
+        },
+        {
+          "artifact": "workbook",
+          "page": 181
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-5",
+      "independent_solution": "10k-8k=2k;8k+2k=10k, invented game units",
+      "actual_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+      "printed_key": "2k; 8k + 2k = 10k.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 259
+        },
+        {
+          "artifact": "workbook",
+          "page": 182
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R2-6",
+      "independent_solution": "7+6=13;count-on8,9,10,11,12,13 or join two sets",
+      "actual_prompt": "Draw or show why 7 + 6 = 13.",
+      "printed_key": "Two sets total thirteen; or count on six from seven.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 258
+        },
+        {
+          "artifact": "workbook",
+          "page": 181
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-1",
+      "independent_solution": "2,5,7 repeats of same strip, shortest first",
+      "actual_prompt": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+      "printed_key": "2, 5, 7",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 259
+        },
+        {
+          "artifact": "workbook",
+          "page": 182
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-2",
+      "independent_solution": "Evening follows afternoon in named day sequence",
+      "actual_prompt": "What comes after afternoon: morning or evening?",
+      "printed_key": "evening",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 260
+        },
+        {
+          "artifact": "workbook",
+          "page": 183
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-3",
+      "independent_solution": "Sphere, using actual safe ball-shaped model",
+      "actual_prompt": "Handle a safe ball-shaped model. Name its solid shape.",
+      "printed_key": "sphere",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 260
+        },
+        {
+          "artifact": "workbook",
+          "page": 183
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 280
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-4",
+      "independent_solution": "Four corners",
+      "actual_prompt": "How many corners has a square?",
+      "printed_key": "4",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 261
+        },
+        {
+          "artifact": "workbook",
+          "page": 184
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-5",
+      "independent_solution": "Actual safe comparison determines heavier/lighter/equal; observation and method required",
+      "actual_prompt": "Compare two safe objects by weight. Show your method.",
+      "printed_key": "Use a balance or safe lifting to test the two actual safe objects. Accept heavier, lighter or equal weight when it matches the observation; do not infer weight from a picture.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 261
+        },
+        {
+          "artifact": "workbook",
+          "page": 184
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-R3-6",
+      "independent_solution": "Two of the four supplied records are7",
+      "actual_prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+      "printed_key": "2; count the two records equal to seven.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 262
+        },
+        {
+          "artifact": "workbook",
+          "page": 185
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-1",
+      "independent_solution": "82",
+      "actual_prompt": "Write eighty-two in digits.",
+      "printed_key": "82",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 263
+        },
+        {
+          "artifact": "workbook",
+          "page": 186
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-2",
+      "independent_solution": "10,11",
+      "actual_prompt": "Complete: 8, 9, __, __.",
+      "printed_key": "10, 11",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 263
+        },
+        {
+          "artifact": "workbook",
+          "page": 186
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-3",
+      "independent_solution": "1ten,5ones",
+      "actual_prompt": "15 = __ ten and __ ones.",
+      "printed_key": "1 ten, 5 ones",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 264
+        },
+        {
+          "artifact": "workbook",
+          "page": 187
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 281
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-4",
+      "independent_solution": "8+7=15",
+      "actual_prompt": "8 + 7 = __.",
+      "printed_key": "15",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 264
+        },
+        {
+          "artifact": "workbook",
+          "page": 187
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-5",
+      "independent_solution": "16-9=7;7+9=16",
+      "actual_prompt": "16 - 9 = __. Show a check.",
+      "printed_key": "7; 7 + 9 = 16.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 265
+        },
+        {
+          "artifact": "workbook",
+          "page": 188
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A1-6",
+      "independent_solution": "5;5+4=9",
+      "actual_prompt": "__ + 4 = 9. Explain the blank.",
+      "printed_key": "5; 9 − 4 = 5 or count on.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 265
+        },
+        {
+          "artifact": "workbook",
+          "page": 188
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-1",
+      "independent_solution": "Rectangle split into two equal-area parts, one indicated; different valid equal partitions accepted",
+      "actual_prompt": "Draw a rectangle and show one half.",
+      "printed_key": "Two equal-area parts, one selected.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 266
+        },
+        {
+          "artifact": "workbook",
+          "page": 189
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-2",
+      "independent_solution": "10k+5k=15k invented units",
+      "actual_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+      "printed_key": "15k",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 266
+        },
+        {
+          "artifact": "workbook",
+          "page": 189
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-3",
+      "independent_solution": "Cuboid; cube is a special cuboid if actual box is cubic",
+      "actual_prompt": "Handle a safe rectangular box model. Name its solid shape.",
+      "printed_key": "cuboid",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 267
+        },
+        {
+          "artifact": "workbook",
+          "page": 190
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 282
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-4",
+      "independent_solution": "Morning,afternoon,night",
+      "actual_prompt": "Write morning, night, afternoon in day order.",
+      "printed_key": "morning, afternoon, night",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 267
+        },
+        {
+          "artifact": "workbook",
+          "page": 190
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 283
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-5",
+      "independent_solution": "Actual repeated equal-strip length count with no gaps/overlaps; record remainder if needed",
+      "actual_prompt": "Measure a book with a repeated paper strip. Record and explain.",
+      "printed_key": "Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 268
+        },
+        {
+          "artifact": "workbook",
+          "page": 191
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 283
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "LEG-P1-A2-6",
+      "independent_solution": "Two new fictional replies accurately labelled; compare their actual stated ages, including equal",
+      "actual_prompt": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+      "printed_key": "Two labelled age records and a correct comparison.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 268
+        },
+        {
+          "artifact": "workbook",
+          "page": 191
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 283
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "ANN-D",
+      "independent_solution": "On a later day 4+3=7 and6-2=4; show methods before reteaching.",
+      "actual_prompt": "Delayed: 4 + 3 and 6 - 2.",
+      "printed_key": "7 and 4; show and explain methods.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 284
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 283
+        },
+        {
+          "artifact": "textbook",
+          "page": 284
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    },
+    {
+      "id": "AI-D",
+      "independent_solution": "Five actual counters, so invented six is wrong. Recall privacy/trusted-adult rule without disclosure.",
+      "actual_prompt": "Delayed: five real counters, invented reply six. Recall privacy rule.",
+      "printed_key": "5; six is wrong; check each once. Use non-private invented examples and trusted adult help.",
+      "pupil_pages": [
+        {
+          "artifact": "textbook",
+          "page": 284
+        }
+      ],
+      "answer_pages": [
+        {
+          "artifact": "textbook",
+          "page": 283
+        },
+        {
+          "artifact": "textbook",
+          "page": 284
+        }
+      ],
+      "printed_key_present_on_actual_pdf": true,
+      "semantic_correspondence": "Requires reviewer final reading of both fields; this script only verifies printed presence and numeric sums."
+    }
+  ],
+  "source_sha256": "c3415026d187a015ee6e8e83375a9395160130d22078709891c059997127a3d7",
+  "scope": "Independent expected responses, actual keys/page links and small falsifying arithmetic checks. Personal final page inspection is recorded separately."
+}

@@ -3,7 +3,7 @@
     "artifact": "textbook",
     "annual_page": 1,
     "new_page": 1,
-    "slug": "annual-cover",
+    "slug": "illustrated-cover",
     "part": "new",
     "task_ids": [],
     "answer_ids": []
@@ -12,7 +12,7 @@
     "artifact": "textbook",
     "annual_page": 2,
     "new_page": 2,
-    "slug": "annual-navigation",
+    "slug": "how-to-use",
     "part": "new",
     "task_ids": [],
     "answer_ids": []
@@ -21,8 +21,8 @@
     "artifact": "textbook",
     "annual_page": 3,
     "new_page": 3,
-    "slug": "directory-0",
-    "part": "adult",
+    "slug": "contents-start",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -30,8 +30,8 @@
     "artifact": "textbook",
     "annual_page": 4,
     "new_page": 4,
-    "slug": "directory-6",
-    "part": "adult",
+    "slug": "contents-continue",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -39,8 +39,8 @@
     "artifact": "textbook",
     "annual_page": 5,
     "new_page": 5,
-    "slug": "directory-12",
-    "part": "adult",
+    "slug": "contents-practice-discovery",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -48,7 +48,7 @@
     "artifact": "textbook",
     "annual_page": 6,
     "new_page": 6,
-    "slug": "directory-18",
+    "slug": "adult-source-directory-1",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -57,7 +57,7 @@
     "artifact": "textbook",
     "annual_page": 7,
     "new_page": 7,
-    "slug": "support-directory-0",
+    "slug": "adult-source-directory-2",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -66,7 +66,7 @@
     "artifact": "textbook",
     "annual_page": 8,
     "new_page": 8,
-    "slug": "support-directory-1",
+    "slug": "adult-source-directory-3",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -75,7 +75,7 @@
     "artifact": "textbook",
     "annual_page": 9,
     "new_page": 9,
-    "slug": "support-directory-2",
+    "slug": "adult-support-index",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -657,7 +657,7 @@
     "artifact": "workbook",
     "annual_page": 1,
     "new_page": 1,
-    "slug": "annual-cover",
+    "slug": "illustrated-cover",
     "part": "new",
     "task_ids": [],
     "answer_ids": []
@@ -666,7 +666,7 @@
     "artifact": "workbook",
     "annual_page": 2,
     "new_page": 2,
-    "slug": "annual-navigation",
+    "slug": "how-to-use",
     "part": "new",
     "task_ids": [],
     "answer_ids": []
@@ -675,8 +675,8 @@
     "artifact": "workbook",
     "annual_page": 3,
     "new_page": 3,
-    "slug": "directory-0",
-    "part": "adult",
+    "slug": "contents-start",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -684,8 +684,8 @@
     "artifact": "workbook",
     "annual_page": 4,
     "new_page": 4,
-    "slug": "directory-6",
-    "part": "adult",
+    "slug": "contents-continue",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -693,8 +693,8 @@
     "artifact": "workbook",
     "annual_page": 5,
     "new_page": 5,
-    "slug": "directory-12",
-    "part": "adult",
+    "slug": "contents-practice-discovery",
+    "part": "new",
     "task_ids": [],
     "answer_ids": []
   },
@@ -702,7 +702,7 @@
     "artifact": "workbook",
     "annual_page": 6,
     "new_page": 6,
-    "slug": "directory-18",
+    "slug": "adult-source-directory-1",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -711,7 +711,7 @@
     "artifact": "workbook",
     "annual_page": 7,
     "new_page": 7,
-    "slug": "support-directory-0",
+    "slug": "adult-source-directory-2",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -720,7 +720,7 @@
     "artifact": "workbook",
     "annual_page": 8,
     "new_page": 8,
-    "slug": "support-directory-1",
+    "slug": "adult-source-directory-3",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []
@@ -729,7 +729,7 @@
     "artifact": "workbook",
     "annual_page": 9,
     "new_page": 9,
-    "slug": "support-directory-2",
+    "slug": "adult-support-index",
     "part": "adult",
     "task_ids": [],
     "answer_ids": []

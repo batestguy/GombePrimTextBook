@@ -1,0 +1,3599 @@
+{
+  "prior_source_files": 149,
+  "navigation_start_folder_source_files": 146,
+  "topic_pdfs": 36,
+  "reproduced_approved_fingerprints": [
+    {
+      "id": "P1-01",
+      "fingerprint": "ca5eea2ce4fe63ad780b9d49f1aa6125a422be02b8469728f8e0fe44e7fc1ffd",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-02",
+      "fingerprint": "8fd16a30e2cab606c1204271924f325edcd8d85a6d94530f189e38eaa130bcb0",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-03",
+      "fingerprint": "c3958cc8daf11e472a819f0860c36d89a1ad51cf6daf922e371c555f51da0522",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-04",
+      "fingerprint": "5115902678f74646b8b14d0c4411e8b587e2413338ed6974e31e42063221c44c",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-05",
+      "fingerprint": "387aed48831bcf196a9fdde8879a93ccb66083a8122eab25d371d2e1b5e9dfd9",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-06",
+      "fingerprint": "68b6e6f733ff4bc60f1b9295a13bd73dd2660a398f5541b8e3c41e4ffd2b918d",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-07",
+      "fingerprint": "dfc9b736b9a9275922aec87ba03b49e78dc49c52021e918a22321ece13f1b22d",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-08",
+      "fingerprint": "3afae9377c6f84da454502645ef96dbad98c1c0d99f5a7d2525777c697783f7d",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-09",
+      "fingerprint": "3c36a448f48f90776fe7b6c0c744d222498fc2a0de8647207e3777f4ad5dc7a7",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-10",
+      "fingerprint": "65a358f72f35c50ccd956f4c5532f51e5af8f26d41410044db38944ff7dd7425",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-11",
+      "fingerprint": "b3c202130e29b0b0eb1b31dfca07f34fabd26d0efd35537213e95c0b8f9de805",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-12",
+      "fingerprint": "12c8113086846330ea34fe05f56ca4aca6f37948dd4a993c83678cb080e60797",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-13",
+      "fingerprint": "a4b1458476051e93ce5f2b4e4c207e6c640f836ceacd1d226a7d4b3b702a09e5",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-14",
+      "fingerprint": "c963a5c9a4e11ff554351463fce246d26d63287583b8ae33489e99a064ed78f9",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-15",
+      "fingerprint": "74e42324e02328b95006e9491bef766e8db23a4dfc40cadc70ac68b867886502",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-16",
+      "fingerprint": "52ca56e32790172224c4fd43ebd25d5f95b0485b6828286107dbed6db281e211",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-17",
+      "fingerprint": "0fb9e5a71bb4bcb27bb5bd03d1c273e70ea216a520335b28817d5e664b3eb648",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-18",
+      "fingerprint": "da899103ce0db0fe314afe068720be77d305d519b3307bd1922cba20fa6b3fc4",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-19",
+      "fingerprint": "0a4b8263b3514946895eca885c06b4e9b481c28fe5386e55cc537a4a64553d88",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    },
+    {
+      "id": "P1-ANNUAL",
+      "fingerprint": "d17fa74320ed6e3d5d126a50d65535af4e227d53cf42da8158726bc3b43d7545",
+      "attribution": "Codex /root/local_wording_review (fresh revised prose/task/page review; retained semantics/visuals explicitly attributed in evidence/history)"
+    }
+  ],
+  "topic_reviewed_pages": 510,
+  "wording_reviewer_changed_source_pages": 85,
+  "wording_reviewer_changed_task_ids": 99,
+  "retained_annual_pages": [
+    {
+      "role": "textbook",
+      "page": 10,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 11,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 12,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 13,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 14,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 15,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 16,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 17,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 18,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 19,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 20,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 21,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 22,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 23,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 24,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 25,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 26,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 27,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 28,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 29,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 30,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 31,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 32,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 33,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 34,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 35,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 36,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 37,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 38,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 39,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 40,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 41,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 42,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 43,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 44,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 45,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 46,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 47,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 48,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 49,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 50,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 51,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 52,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 53,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 54,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 55,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 56,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 57,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 58,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 59,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 60,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 61,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 62,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 63,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 64,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 65,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 66,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 67,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 68,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 69,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 70,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 71,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 72,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 73,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 74,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 75,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 76,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 77,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 78,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 79,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 80,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 81,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 82,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 83,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 84,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 85,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 86,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 87,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 88,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 89,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 90,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 91,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 92,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 93,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 94,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 95,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 96,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 97,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 98,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 99,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 100,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 101,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 102,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 103,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 104,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 105,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 106,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 107,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 108,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 109,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 110,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 111,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 112,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 113,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 114,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 115,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 116,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 117,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 118,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 119,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 120,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 121,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 122,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 123,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 124,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 125,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 126,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 127,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 128,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 129,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 130,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 131,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 132,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 133,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 134,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 135,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 136,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 137,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 138,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 139,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 140,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 141,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 142,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 143,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 144,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 145,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 146,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 147,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 148,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 149,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 150,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 151,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 152,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 153,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 154,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 155,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 156,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 157,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 158,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 159,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 160,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 161,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 162,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 163,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 164,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 165,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 166,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 167,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 168,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 169,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 170,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 171,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 172,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 173,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 174,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 175,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 176,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 177,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 178,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 179,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 180,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 181,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 182,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 183,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 184,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 185,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 186,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 187,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 188,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 189,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 190,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 191,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 192,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 193,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 194,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 195,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 196,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 197,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 198,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 199,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 200,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 201,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 202,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 203,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 204,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 205,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 206,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 207,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 208,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 209,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 210,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 211,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 212,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 213,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 214,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 215,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 216,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 217,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 218,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 219,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 220,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 221,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 222,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 223,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 224,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 225,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 226,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 227,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 228,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 229,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 230,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 231,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 232,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 233,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 234,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 235,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 236,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 237,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 238,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 239,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 240,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 241,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 242,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 243,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 244,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 245,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 246,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 247,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 248,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 249,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 250,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 251,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 252,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 253,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 254,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 255,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 256,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 257,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 258,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 259,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 260,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 261,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 262,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 263,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 264,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 265,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 266,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 267,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 268,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 269,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 270,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 271,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 272,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 273,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 274,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 275,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 276,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 277,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 278,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 279,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 280,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 281,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 282,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 283,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 284,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 285,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "textbook",
+      "page": 286,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 287,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 288,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 289,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 290,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 291,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 292,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 293,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 294,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 295,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 296,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 297,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 298,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 299,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 300,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 301,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 302,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 303,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 304,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 305,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 306,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 307,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 308,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 309,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 310,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 311,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 312,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 313,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 314,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 315,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 316,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 317,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 318,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 319,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 320,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 321,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 322,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 323,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 324,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 325,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 326,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 327,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 328,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 329,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 330,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 331,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 332,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 333,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 334,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 335,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 336,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 337,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 338,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 339,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 340,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 341,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 342,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 343,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 344,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 345,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 346,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 347,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 348,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 349,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 350,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 351,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 352,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 353,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 354,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 355,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 356,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 357,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 358,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 359,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 360,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 361,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 362,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 363,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 364,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 365,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 366,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 367,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 368,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 369,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 370,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 371,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 372,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 373,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 374,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 375,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 376,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 377,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 378,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 379,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 380,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 381,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 382,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 383,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 384,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 385,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 386,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 387,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 388,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 389,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 390,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 391,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 392,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 393,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 394,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 395,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 396,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 397,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 398,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 399,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 400,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 401,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 402,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 403,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 404,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 405,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "textbook",
+      "page": 406,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 11,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 12,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 13,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 14,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 15,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 16,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 17,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 18,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 19,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 20,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 21,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 22,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 23,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 24,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 25,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 26,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 27,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 28,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 29,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 30,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 31,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 32,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 33,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 34,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 35,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 36,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 37,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 38,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 39,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 40,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 41,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 42,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 43,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 44,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 45,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 46,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 47,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 48,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 49,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 50,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 51,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 52,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 53,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 54,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 55,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 56,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 57,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 58,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 59,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 60,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 61,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 62,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 63,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 64,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 65,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 66,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 67,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 68,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 69,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 70,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 71,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 72,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 73,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 74,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 75,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 76,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 77,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 78,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 79,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 80,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 81,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 82,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 83,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 84,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 85,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 86,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 87,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 88,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 89,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 90,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 91,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 92,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 93,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 94,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 95,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 96,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 97,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 98,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 99,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 100,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 101,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 102,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 103,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 104,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 105,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 106,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 107,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 108,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 109,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 110,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 111,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 112,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 113,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 114,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 115,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 116,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 117,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 118,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 119,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 120,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 121,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 122,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 123,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 124,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 125,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 126,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 127,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 128,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 129,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 130,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 131,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 132,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 133,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 134,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 135,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 136,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 137,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 138,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 139,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 140,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 141,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 142,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 143,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 144,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 145,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 146,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 147,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 148,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 149,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 150,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 151,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 152,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 153,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 154,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 155,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 156,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 157,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 158,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 159,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 160,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 161,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 162,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 163,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 164,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 165,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 166,
+      "retained": "text, pixels, links",
+      "attribution": "topic body and independently inspected inherited strip"
+    },
+    {
+      "role": "workbook",
+      "page": 167,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 168,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 169,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 170,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 171,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 172,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 173,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 174,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 175,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 176,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 177,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 178,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 179,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 180,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 181,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 182,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 183,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 184,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 185,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 186,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 187,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 188,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 189,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 190,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    },
+    {
+      "role": "workbook",
+      "page": 191,
+      "retained": "text, pixels, links",
+      "attribution": "/root/annual_reviewer"
+    }
+  ],
+  "reconfirmed_topic_to_annual_body_matches": 508,
+  "inherited_maps_and_records": {
+    "new-task-ledger.json": 57,
+    "objective-assessment-allocation.json": 54,
+    "supplement-rendered-links.json": 21,
+    "legacy-assessment-map.json": 30,
+    "inherited-task-page-ledger.json": 517,
+    "printed-answer-navigation.json": 57
+  },
+  "prior_annual_task_count": 57,
+  "historical_questions_preserved": 114,
+  "pending_primary_one_records": 20,
+  "unchanged_other_records": 44
+}

@@ -1,0 +1,21 @@
+{
+  "strict": false,
+  "unchanged_pages": 563,
+  "changed_openings": 38,
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "pages": 409,
+      "sha256": "7bd1acd33d652c41f1d50c4072e4c0b318b3846823037c0f59f67ea8174c5791"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "pages": 192,
+      "sha256": "a54e2eb21a552120b65965ff4f42718127910e644bda9b8901bc594f01a59a4c"
+    }
+  },
+  "original_sources_preserved": 157,
+  "topic_pdfs_preserved": 36,
+  "navigation": "all link rectangles, destinations, outlines and labels unchanged",
+  "review": "pending independent review"
+}

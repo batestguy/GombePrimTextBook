@@ -1,0 +1,24 @@
+{
+  "coordinator": "/root",
+  "created_on": "2026-11-16T07:34:30.719520+00:00",
+  "fingerprint": "833f853ad1dccca41a9e9027793a52be92fac8978e60083063f74378da965125",
+  "pages": {
+    "textbook": 411,
+    "workbook": 191
+  },
+  "hashes": {
+    "production/p1-annual.json": "d7d1c550c35b6167d1b27c02ae4ccb12e963b50c467ddd6aecbde6f160ca1a61",
+    "scripts/build_primary_one_annual.py": "f25e51bce09a34bde70af49ee24c88afd8caf78df81686b9fcd3e52cff2a1edb",
+    "research/PRIMARY-1-AI-SOURCES-2026.json": "1be01c14af460ec1fc2dc1747802b0b00353934ab73ca91124103080ae68a06d",
+    "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf": "0f59fb5ede2166817b1a8ab5c886693c3ad6e81d4037dbbaa1c3749e5ad194c6",
+    "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf": "cbe574712bcee95b88e6135642fff245b64b7eb3d97e26ef15a6bb604710c734",
+    "output/annual-edition/source-page-map.json": "4e5813ab66ec7d5274dec48d6c691f25f226b06dd60ee81576d47b6d08931dea",
+    "output/annual-edition/new-page-map.json": "3ff69310d0ee1da454264eeb2f280a9031f0b25416fd9faae18bd3e7d53c8568",
+    "output/annual-edition/new-task-ledger.json": "11a4ed3b85a6ebc8d10abf5c606764873bd138e924fd7e670b516b6697a04110",
+    "output/annual-edition/objective-assessment-allocation.json": "4e93ddc8e6c2a179a600d723774e22764eb645ed9b145c129456572b68580fcc",
+    "output/annual-edition/supplement-rendered-links.json": "57280a1bc0be342186b0717ecb3976d770131d78bf8dc492f92f83373e0a3309",
+    "output/annual-edition/legacy-assessment-map.json": "e9b712fe18def38b3a750015ba27f08fabd1fcbd97a7f20adaf529b2b314a4e6",
+    "output/annual-edition/new-stage-map.json": "1b325a2d5b66c873fe9a656b6308a5fdafbff8bafaa41f85f80ce1d1c3f03b9f",
+    "output/annual-edition/REPORT.md": "378fbea80aa98cfad7487f7d32e87b3e21a82217f052ce800e03700bc0f5c1a3"
+  }
+}

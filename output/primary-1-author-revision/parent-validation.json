@@ -1,0 +1,24 @@
+{
+  "textbook": {
+    "back_cover_page": 409,
+    "solid_color": "#024B01",
+    "white_panel": true,
+    "biography_scope_verified": true,
+    "checked_retained_sample": [
+      1,
+      13,
+      408
+    ]
+  },
+  "workbook": {
+    "back_cover_page": 192,
+    "solid_color": "#024B01",
+    "white_panel": true,
+    "biography_scope_verified": true,
+    "checked_retained_sample": [
+      1,
+      10,
+      191
+    ]
+  }
+}

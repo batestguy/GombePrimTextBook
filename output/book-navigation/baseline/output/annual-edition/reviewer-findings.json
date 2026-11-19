@@ -1,0 +1,30 @@
+[
+  {
+    "severity": "required",
+    "reference": "First-freeze TB274-288 annual answer keys; pupil TB246-268/WB167-191",
+    "correction": "Print every question/prompt and exact annual TB/WB question pages beside each full answer, so standalone books need no external ledger.",
+    "resolved": true,
+    "recheck": "Personally reopened final TB274-283; reviewer-linked-checks.json independently delimits all57 entries and verifies each prompt,complete answer,and actual question page reference."
+  },
+  {
+    "severity": "required",
+    "reference": "LEG-P1-R3-5,TB261/WB184; first-freeze key TB285",
+    "correction": "Accept observed equal weight as well as heavier/lighter; require actual safe comparison.",
+    "resolved": true,
+    "recheck": "Final TB281 personally read; key now accepts heavier,lighter or equal only when matching actual observation; independent expected solution agrees."
+  },
+  {
+    "severity": "required",
+    "reference": "Draft ANN-C3,AI-M1,ANN-I1..I3/check prompts,ANN-H/AI-H,LEG-P1-R1-2/fraction keys",
+    "correction": "Use taught rectangle; explain learned example patterns; include workbook prompts in reusable textbook; make rechecks unaided; state ordering direction and valid fraction alternatives.",
+    "resolved": true,
+    "recheck": "Personally read final TB240-272/WB167-191 and corrected full keys274-283. All57 independent solutions and actual prompt/key correspondence pass."
+  },
+  {
+    "severity": "required",
+    "reference": "Draft objective-assessment-allocation.json,28 empty task arrays; adult/source directories",
+    "correction": "Join all54 objectives and21 supplements to actual enacted task IDs/pages; provide printed adult source-to-annual conversions.",
+    "resolved": true,
+    "recheck": "reviewer-linked-checks.json verifies all54 nonempty actual task/page links and21 exact supplement aliases; final directories3-8 in both books personally reopened and actual map destinations checked."
+  }
+]

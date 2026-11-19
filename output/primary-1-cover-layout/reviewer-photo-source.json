@@ -1,0 +1,14 @@
+{
+  "source_sha256": "e0722e4f797a61776d559c19d79793d39eb64c152a82f24779997162cf398e82",
+  "reproduction_sha256": "25436c6d14630afe4245ce27a702e13b5150066cc63fbcda5d46a61c4c32cf60",
+  "size": [
+    450,
+    600
+  ],
+  "mean_absolute_rgb_difference": [
+    0.7350888888888889,
+    0.6646888888888889,
+    0.8117703703703704
+  ],
+  "matches_supplied_source": true
+}

@@ -1,0 +1,30 @@
+{
+  "status": "editorially_complete_independently_reviewed",
+  "scope": "Primary1 annual pair only; provisional historical baseline",
+  "pages": {
+    "textbook": 406,
+    "workbook": 191
+  },
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "sha256": "13f7922c29e99bd0627a598ac869066abf179a17101d682447c1eb3af7169f61"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "sha256": "ebdf783f01597ba3c2ebce299c71f59a8b5a48425fa3dce25ba7629bb6b529f0"
+    }
+  },
+  "reviewer": "/root/annual_reviewer",
+  "author": "/root/annual_author",
+  "validation": "output/annual-edition/parent-validation.json",
+  "review": "output/annual-edition/REVIEW-REPORT.md",
+  "pending": [
+    "current curriculum/adoption",
+    "local educator/pupil/accessibility trials",
+    "physical print proof",
+    "printer approval"
+  ],
+  "delivery": "Annual book content committed and pushed to origin/main; separate remote hash verified. No website publication.",
+  "delivered_commit": "54f42f7592f9503fbf92e51312af2f49d3402398"
+}

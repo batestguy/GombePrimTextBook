@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "role": "textbook",
+      "path": "artwork/covers/primary-1-textbook.png",
+      "sha256": "eee26055ea5a866f82d357d7567a4cf32cd29c6da80b946d1f83ff26bcfc6c5d",
+      "source": "output/cover-preview/maths-with-friends-primary-1-v4.png",
+      "prompt_record": "output/cover-preview/provenance-v4.json"
+    },
+    {
+      "role": "workbook",
+      "path": "artwork/covers/primary-1-workbook.png",
+      "sha256": "16d1f2815c1a3e91123d627769c49823f67dfbd52f945bea9e717852aa1070f6",
+      "source": "output/cover-preview/maths-with-friends-primary-1-workbook-cover-v2.png",
+      "prompt_record": "output/cover-preview/workbook-cover-v2.provenance.json"
+    }
+  ],
+  "authorization": "User selected existing textbook v4 and workbook v2 covers; unchanged copies, no generation.",
+  "use": "Decorative covers only; no assessed quantities inferred.",
+  "print_approval": "pending"
+}

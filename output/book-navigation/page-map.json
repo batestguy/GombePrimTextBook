@@ -1,0 +1,62 @@
+[
+  {
+    "artifact": "textbook",
+    "annual_page": 3,
+    "slug": "contents-start",
+    "operation": "replace"
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 4,
+    "slug": "contents-continue",
+    "operation": "replace"
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 5,
+    "slug": "contents-guide",
+    "operation": "replace"
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 407,
+    "slug": "maths-index-start",
+    "operation": "append"
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 408,
+    "slug": "maths-index-continue",
+    "operation": "append"
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 409,
+    "slug": "about-the-author",
+    "operation": "append"
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 3,
+    "slug": "contents-start",
+    "operation": "replace"
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 4,
+    "slug": "contents-continue",
+    "operation": "replace"
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 5,
+    "slug": "contents-guide",
+    "operation": "replace"
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 192,
+    "slug": "about-the-author",
+    "operation": "append"
+  }
+]

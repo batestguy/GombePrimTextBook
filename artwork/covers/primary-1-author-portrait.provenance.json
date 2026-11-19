@@ -1,0 +1,12 @@
+{
+  "source": "User-supplied photograph, CV header photo (cropped selfie).jpg",
+  "source_sha256": "e0722e4f797a61776d559c19d79793d39eb64c152a82f24779997162cf398e82",
+  "derivative": "artwork/covers/primary-1-author-portrait.jpg",
+  "derivative_sha256": "25436c6d14630afe4245ce27a702e13b5150066cc63fbcda5d46a61c4c32cf60",
+  "pixel_size": [
+    450,
+    600
+  ],
+  "processing": "Preserved the supplied crop, honoured EXIF orientation, and re-encoded the RGB pixels without source metadata.",
+  "use": "Author portrait on the Primary 1 textbook and workbook back covers."
+}

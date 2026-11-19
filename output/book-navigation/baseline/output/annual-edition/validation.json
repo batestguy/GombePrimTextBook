@@ -1,0 +1,36 @@
+{
+  "status": "built_pending_independent_review",
+  "pages": {
+    "textbook": 406,
+    "workbook": 191
+  },
+  "inherited_pages": 508,
+  "omitted_duplicate_packaging": 2,
+  "new_tasks": 57,
+  "legacy_items": 30,
+  "objectives": 54,
+  "supplements": 21,
+  "ai_final_pupil_pages": [
+    "ai-1",
+    "ai-2",
+    "ai-3",
+    "ai-4"
+  ],
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "sha256": "a264be33412a58448dd14abca249666972c8215f3ffbd6652ebf9bbfabae27d3",
+      "pages": 406
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "sha256": "1ddf8bea5c123faa6ce3afbdef6d990427fb1009e6da8c5dab18a10a71ec67db",
+      "pages": 191
+    }
+  },
+  "source_hashes": {
+    "production/p1-annual.json": "c3415026d187a015ee6e8e83375a9395160130d22078709891c059997127a3d7",
+    "scripts/build_primary_one_annual.py": "d25e68258672918b8dd2df7893bf0bbecc8294ef262a7c2e3ac5d54241ef7a1b",
+    "research/PRIMARY-1-AI-SOURCES-2026.json": "1be01c14af460ec1fc2dc1747802b0b00353934ab73ca91124103080ae68a06d"
+  }
+}

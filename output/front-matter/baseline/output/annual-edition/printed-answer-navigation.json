@@ -1,0 +1,746 @@
+[
+  {
+    "id": "ANN-M1",
+    "answer_page": 274,
+    "quoted_prompt": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+    "question_pages": {
+      "textbook": [
+        241
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-G1",
+    "answer_page": 274,
+    "quoted_prompt": "Put 3 counters down. Add 2. Count them together. Explain how you avoid counting one twice.",
+    "question_pages": {
+      "textbook": [
+        241
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-I1",
+    "answer_page": 274,
+    "quoted_prompt": "Draw 5 circles in your workbook. Add 3 more. How many altogether? Explain your check.",
+    "question_pages": {
+      "textbook": [
+        246
+      ],
+      "workbook": [
+        167
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-M2",
+    "answer_page": 274,
+    "quoted_prompt": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+    "question_pages": {
+      "textbook": [
+        242
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-G2",
+    "answer_page": 274,
+    "quoted_prompt": "Put 8 counters down. Move 2 away. Say the remaining number. Check by putting the parts together.",
+    "question_pages": {
+      "textbook": [
+        242
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-I2",
+    "answer_page": 275,
+    "quoted_prompt": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+    "question_pages": {
+      "textbook": [
+        247
+      ],
+      "workbook": [
+        168
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-M3",
+    "answer_page": 275,
+    "quoted_prompt": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+    "question_pages": {
+      "textbook": [
+        243
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-G3",
+    "answer_page": 275,
+    "quoted_prompt": "Use two safe strips. Align one end. Say which is longer, shorter or equal. Fold a paper circle into two equal matching parts. Explain why the parts are halves.",
+    "question_pages": {
+      "textbook": [
+        243
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-I3",
+    "answer_page": 275,
+    "quoted_prompt": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+    "question_pages": {
+      "textbook": [
+        248
+      ],
+      "workbook": [
+        169
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-R",
+    "answer_page": 275,
+    "quoted_prompt": "Explain a count check and subtraction check.",
+    "question_pages": {
+      "textbook": [
+        244
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-H",
+    "answer_page": 276,
+    "quoted_prompt": "Use 2 counters, add 1; then try 2 and 2.",
+    "question_pages": {
+      "textbook": [
+        244
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-F",
+    "answer_page": 276,
+    "quoted_prompt": "Start with 6, add 3. Check another way.",
+    "question_pages": {
+      "textbook": [
+        244
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-C1",
+    "answer_page": 276,
+    "quoted_prompt": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+    "question_pages": {
+      "textbook": [
+        249
+      ],
+      "workbook": [
+        170
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-C2",
+    "answer_page": 276,
+    "quoted_prompt": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+    "question_pages": {
+      "textbook": [
+        250
+      ],
+      "workbook": [
+        171
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-C3",
+    "answer_page": 276,
+    "quoted_prompt": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+    "question_pages": {
+      "textbook": [
+        251
+      ],
+      "workbook": [
+        172
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-C4",
+    "answer_page": 277,
+    "quoted_prompt": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+    "question_pages": {
+      "textbook": [
+        252
+      ],
+      "workbook": [
+        173
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-M1",
+    "answer_page": 277,
+    "quoted_prompt": "What is AI? Can its answer be wrong?",
+    "question_pages": {
+      "textbook": [
+        269
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-G",
+    "answer_page": 277,
+    "quoted_prompt": "Count the four printed counters and correct the pretend five.",
+    "question_pages": {
+      "textbook": [
+        270
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-M2",
+    "answer_page": 277,
+    "quoted_prompt": "Three counters and two more.",
+    "question_pages": {
+      "textbook": [
+        271
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-I",
+    "answer_page": 277,
+    "quoted_prompt": "Ask about two counters and one more; verify three.",
+    "question_pages": {
+      "textbook": [
+        271
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-F",
+    "answer_page": 277,
+    "quoted_prompt": "Count six printed counters and independently correct pretend four.",
+    "question_pages": {
+      "textbook": [
+        272
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-H",
+    "answer_page": 278,
+    "quoted_prompt": "Check two counters together, then a new set of three.",
+    "question_pages": {
+      "textbook": [
+        272
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-R",
+    "answer_page": 278,
+    "quoted_prompt": "Recall the checking and privacy rules.",
+    "question_pages": {
+      "textbook": [
+        272
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-W1",
+    "answer_page": 278,
+    "quoted_prompt": "Ask an adult a clear question about 2 counters and 1 more. The adult reads: Pretend AI says three. Check with counters. Draw or write your check. Use no private information.",
+    "question_pages": {
+      "textbook": [
+        271
+      ],
+      "workbook": [
+        174
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-W2",
+    "answer_page": 278,
+    "quoted_prompt": "These dots are the whole set. Pretend AI says four. Count each dot once. Write the correct number and explain to an adult.",
+    "question_pages": {
+      "textbook": [
+        272
+      ],
+      "workbook": [
+        175
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-1",
+    "answer_page": 278,
+    "quoted_prompt": "Write the number for no objects.",
+    "question_pages": {
+      "textbook": [
+        253
+      ],
+      "workbook": [
+        176
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-2",
+    "answer_page": 278,
+    "quoted_prompt": "Order 8, 3 and 6 from smallest to largest.",
+    "question_pages": {
+      "textbook": [
+        253
+      ],
+      "workbook": [
+        176
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-3",
+    "answer_page": 279,
+    "quoted_prompt": "What comes after 59?",
+    "question_pages": {
+      "textbook": [
+        255
+      ],
+      "workbook": [
+        178
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-4",
+    "answer_page": 279,
+    "quoted_prompt": "2 tens and 7 ones make __.",
+    "question_pages": {
+      "textbook": [
+        255
+      ],
+      "workbook": [
+        178
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-5",
+    "answer_page": 279,
+    "quoted_prompt": "Draw four equal parts of a square and shade one.",
+    "question_pages": {
+      "textbook": [
+        256
+      ],
+      "workbook": [
+        179
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R1-6",
+    "answer_page": 279,
+    "quoted_prompt": "Show 9 objects and explain how you checked.",
+    "question_pages": {
+      "textbook": [
+        254
+      ],
+      "workbook": [
+        177
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-1",
+    "answer_page": 279,
+    "quoted_prompt": "3 + 4 + 1 = __.",
+    "question_pages": {
+      "textbook": [
+        256
+      ],
+      "workbook": [
+        179
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-2",
+    "answer_page": 279,
+    "quoted_prompt": "17 - 8 = __.",
+    "question_pages": {
+      "textbook": [
+        257
+      ],
+      "workbook": [
+        180
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-3",
+    "answer_page": 279,
+    "quoted_prompt": "24 + 12 = __.",
+    "question_pages": {
+      "textbook": [
+        257
+      ],
+      "workbook": [
+        180
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-4",
+    "answer_page": 280,
+    "quoted_prompt": "6 + __ = 10.",
+    "question_pages": {
+      "textbook": [
+        258
+      ],
+      "workbook": [
+        181
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-5",
+    "answer_page": 280,
+    "quoted_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+    "question_pages": {
+      "textbook": [
+        259
+      ],
+      "workbook": [
+        182
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R2-6",
+    "answer_page": 280,
+    "quoted_prompt": "Draw or show why 7 + 6 = 13.",
+    "question_pages": {
+      "textbook": [
+        258
+      ],
+      "workbook": [
+        181
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-1",
+    "answer_page": 280,
+    "quoted_prompt": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+    "question_pages": {
+      "textbook": [
+        259
+      ],
+      "workbook": [
+        182
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-2",
+    "answer_page": 280,
+    "quoted_prompt": "What comes after afternoon: morning or evening?",
+    "question_pages": {
+      "textbook": [
+        260
+      ],
+      "workbook": [
+        183
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-3",
+    "answer_page": 280,
+    "quoted_prompt": "Handle a safe ball-shaped model. Name its solid shape.",
+    "question_pages": {
+      "textbook": [
+        260
+      ],
+      "workbook": [
+        183
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-4",
+    "answer_page": 281,
+    "quoted_prompt": "How many corners has a square?",
+    "question_pages": {
+      "textbook": [
+        261
+      ],
+      "workbook": [
+        184
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-5",
+    "answer_page": 281,
+    "quoted_prompt": "Compare two safe objects by weight. Show your method.",
+    "question_pages": {
+      "textbook": [
+        261
+      ],
+      "workbook": [
+        184
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-R3-6",
+    "answer_page": 281,
+    "quoted_prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+    "question_pages": {
+      "textbook": [
+        262
+      ],
+      "workbook": [
+        185
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-1",
+    "answer_page": 281,
+    "quoted_prompt": "Write eighty-two in digits.",
+    "question_pages": {
+      "textbook": [
+        263
+      ],
+      "workbook": [
+        186
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-2",
+    "answer_page": 281,
+    "quoted_prompt": "Complete: 8, 9, __, __.",
+    "question_pages": {
+      "textbook": [
+        263
+      ],
+      "workbook": [
+        186
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-3",
+    "answer_page": 281,
+    "quoted_prompt": "15 = __ ten and __ ones.",
+    "question_pages": {
+      "textbook": [
+        264
+      ],
+      "workbook": [
+        187
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-4",
+    "answer_page": 282,
+    "quoted_prompt": "8 + 7 = __.",
+    "question_pages": {
+      "textbook": [
+        264
+      ],
+      "workbook": [
+        187
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-5",
+    "answer_page": 282,
+    "quoted_prompt": "16 - 9 = __. Show a check.",
+    "question_pages": {
+      "textbook": [
+        265
+      ],
+      "workbook": [
+        188
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A1-6",
+    "answer_page": 282,
+    "quoted_prompt": "__ + 4 = 9. Explain the blank.",
+    "question_pages": {
+      "textbook": [
+        265
+      ],
+      "workbook": [
+        188
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-1",
+    "answer_page": 282,
+    "quoted_prompt": "Draw a rectangle and show one half.",
+    "question_pages": {
+      "textbook": [
+        266
+      ],
+      "workbook": [
+        189
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-2",
+    "answer_page": 282,
+    "quoted_prompt": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+    "question_pages": {
+      "textbook": [
+        266
+      ],
+      "workbook": [
+        189
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-3",
+    "answer_page": 282,
+    "quoted_prompt": "Handle a safe rectangular box model. Name its solid shape.",
+    "question_pages": {
+      "textbook": [
+        267
+      ],
+      "workbook": [
+        190
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-4",
+    "answer_page": 283,
+    "quoted_prompt": "Write morning, night, afternoon in day order.",
+    "question_pages": {
+      "textbook": [
+        267
+      ],
+      "workbook": [
+        190
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-5",
+    "answer_page": 283,
+    "quoted_prompt": "Measure a book with a repeated paper strip. Record and explain.",
+    "question_pages": {
+      "textbook": [
+        268
+      ],
+      "workbook": [
+        191
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "LEG-P1-A2-6",
+    "answer_page": 283,
+    "quoted_prompt": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+    "question_pages": {
+      "textbook": [
+        268
+      ],
+      "workbook": [
+        191
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "ANN-D",
+    "answer_page": 283,
+    "quoted_prompt": "Delayed: 4 + 3 and 6 - 2.",
+    "question_pages": {
+      "textbook": [
+        284
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  },
+  {
+    "id": "AI-D",
+    "answer_page": 283,
+    "quoted_prompt": "Delayed: five real counters, invented reply six. Recall privacy rule.",
+    "question_pages": {
+      "textbook": [
+        284
+      ]
+    },
+    "check": "Prompt, full answer and each exact question-page reference verified in final PDF text."
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "textbook": {
+      "sha256": "7bd1acd33d652c41f1d50c4072e4c0b318b3846823037c0f59f67ea8174c5791",
+      "isolated_reassembly": "byte-identical"
+    },
+    "workbook": {
+      "sha256": "a54e2eb21a552120b65965ff4f42718127910e644bda9b8901bc594f01a59a4c",
+      "isolated_reassembly": "byte-identical"
+    }
+  },
+  "live_repeat": "Workbook locked by open Sumatra; safe rollback preserved both exact current PDFs. Repeat verified by isolated identical assembly instead."
+}

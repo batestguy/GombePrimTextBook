@@ -1,3 +1,123 @@
+# Primary 1 deep-green author back covers
+
+The final back cover of each Primary 1 book now uses the deep green sampled
+from the textbook front cover, with a white biography panel and the existing
+passport-style portrait. The book credit retains MEG Publishers. The biography
+now includes the author's statistical and machine learning application work.
+The new biography source is production/p1-author-back-cover.json. The same
+packaging command, scripts/build_primary_one_headings.py, assembles both PDFs.
+
+The final PDFs passed independent review. All 19 Primary 1 chapter checks,
+the annual review, and preflight passed. All 599 other pages match the prior
+edition. The revised back covers displayed side by side in SumatraPDF.
+The user authorized committing and pushing this update to GitHub. Current
+curriculum verification, local testing, and physical print approval remain pending.
+
+See the [current handoff](../output/primary-1-author-revision/HANDOFF.md) for the exact files, desktop reader check, and review status.
+
+---
+
+# Primary 1 centred headings and author back covers
+
+Both compiled Primary 1 books now have centred chapter labels, topics and activity
+headings. The approved biography is set on the final back cover of each edition,
+beside the owner-supplied portrait. The textbook is 409 pages and the workbook
+is 192. Chapter teaching, workbook tasks, answer keys and navigation remain in
+their existing locations.
+
+Independent editorial review and all 20 Primary 1 approval checks passed.
+Both editions were also checked in SumatraPDF. Physical print approval remains
+pending.
+
+Rebuild with `python scripts/build_primary_one_headings.py`.
+See the [layout handoff](../output/primary-1-cover-layout/HANDOFF.md) for the exact files, verification and review
+status. The earlier completion records below describe the prior edition.
+
+---
+
+# Primary 1 chapter heading revision in progress - 18 November 2026
+
+User requests bold, large chapter headings with topics shown. Scope is all 38 chapter openings in the compiled 409-page textbook and 192-page workbook. Main /root authors; /root/book_navigation_review independently checks the revised pair. The prior exact reviewed edition is archived in output/chapter-headings/baseline; before.json preserves 157 source hashes, 38 PDF hashes and the approved register. All 20 affected reviews were retained in history and reopened pending BEFORE source edits. Canonical mathematics, 36 topic PDFs, page numbers, covers, contents, index, biographies and task/answer maps stay unchanged.
+
+Mandatory docs/CHAPTER-STANDARD.md version 1, docs/CHAPTER-REVIEW.md and docs/HANDOFF-TEMPLATE.md apply. Current handoff: output/chapter-headings/HANDOFF.md. Pending is not approval. Current curriculum, local classroom/accessibility and print/printer checks remain pending. No commit, push or publication authorized. Earlier checkpoints below describe historical editions.
+
+---
+
+# Primary 1 author biography and navigation completed - 18 November 2026
+
+**Windows reader access:** the two compiled PDFs now inherit the output folder permissions and open in Sumatra under the normal Windows account. After running the packaging builder under Codex, run `python output/book-navigation/restore_pdf_read_access.py`. This preserves PDF bytes and avoids retaining private staging-folder permissions. See [repair evidence](../output/book-navigation/READER-ACCESS-REPAIR.md).
+
+Final compiled artifacts: textbook 409 pages and workbook 192 pages under output/pdf/.
+Both have designed contents 3-5 and the approved five-paragraph biography as their
+last page: TB 409 / WB 192. The owner expressly removed the class-ranking phrase and
+optional personal closing sentence. Only the textbook has an alphabetical maths
+index,49 entries on 407-408; the owner selected workbook contents only after the bounded
+publisher example research at research/WORKBOOK-NAVIGATION-2026-11-18.md.
+
+Author /root/book_navigation_author; independent reviewer /root/book_navigation_review.
+Mandatory docs/CHAPTER-STANDARD.md version1, docs/CHAPTER-REVIEW.md and
+HANDOFF-TEMPLATE.md apply. REPORT.md, REVIEW.md, author/parent freezes, parent and
+reviewer validation, navigation/index maps, the exact approved text and before
+snapshot are under output/book-navigation. Original reviewed edition attribution
+is retained in review_history and output/front-matter/before.json; current task
+baseline under output/book-navigation/baseline preserves the prior unapproved
+covers/contents state. Current editorial approval follows fresh inspection of all 22
+front/end pages and exact inherited continuity, not invented fresh task solutions.
+
+The final 49 index terms have 86 specific teaching-folio references; all 151actual new
+links and all 19 chapter entries in each book were checked. All 591retained base pages
+match pixel/text/link/label at the same folios, including all teaching/answers,
+shared introductions10-12 and lastfour pupil AI pages 269-272. All 36topicPDFs, original
+GombeTextbook.txt, existing sources and annual component PDFs (55 and 34 pages) are unchanged.
+The six contents pages and four appended pages are explicitly mapped, accounting
+for all 601 current pages. Reapplication produces byte-identical compiled PDFs.
+
+Current exact SHA256:
+- TB:9fe7ae27a7b68094423feebc4eeeec5042095c3d6761e17ea7fae078cb0f3095
+- WB:7c2ee3b1c1cd772db158b7d47efca33efecca20f2de335e6845646f49e0fd677
+
+Preflight, draft standard, 19 strict P1 topic gates and strict annual/coordinator checks
+passed. All 20 current P1 review objects are independently approved for their exact
+fingerprints;44 P2/P3 records remain pending/unchanged. Never run an unfiltered
+whole-series approval claim from this Primary1 result. Historical freeze validators
+remain unchanged and describe their earlier snapshots.
+
+Current packaging command: python scripts/build_primary_one_navigation.py . It uses
+the preserved task baseline and validates that inputs are the known original or
+recognized current pair. Older annual/Quarto/front-matter build commands do not
+assemble this final packaging automatically. Any lesson/baseline/source change
+requires reopened reviews and a deliberate packaging update. Validate using python
+scripts/preflight.py and python output/book-navigation/parent_verify.py --require-reviewed .
+
+Current curriculum/adoption, local educator/classroom/accessibility and physical print/
+printer approval staypending. No commit/push/publication/externalcontact authorized
+or performed for this task. No source or PDF work remains after the passed editorial
+checks. Earlier checkpoints below describe their dated historical states.
+
+---
+
+# Primary 1 covers and contents in progress - 17 November 2026
+
+The user authorized applying the matching textbook/workbook covers and proper
+contents to both PDFs. The current work replaces only the existing first nine
+front pages, preserving all teaching/answer folios and 406/191 page counts.
+Earlier preview-only statements below describe their historical state.
+
+Starting preflight passed. Sources/PDF hashes and the exact approved register
+were archived in output/front-matter/before.json; two annual PDFs and their maps
+are in output/front-matter/baseline. All nineteen topic and annual reviews were
+reopened as pending before new packaging sources/artwork. Pending is not approval.
+Author/reviewer packets: [BRIEF](../output/front-matter/BRIEF.md) and
+[REVIEW-HANDOFF](../output/front-matter/REVIEW-HANDOFF.md). Native sessions,
+not these files, determine running work. No lesson or topic PDF edit is authorized.
+
+Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1;
+[CHAPTER-REVIEW.md](CHAPTER-REVIEW.md); [HANDOFF-TEMPLATE.md](HANDOFF-TEMPLATE.md).
+Current curriculum/adoption, local classroom/accessibility and physical print/
+printer approval remain pending. No commit/push/publication is part of this task.
+
+---
+
 # Latest cover preview and GitHub delivery - 17 November 2026
 
 Mandatory: [CHAPTER-STANDARD.md](CHAPTER-STANDARD.md), version 1;

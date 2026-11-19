@@ -1,0 +1,18 @@
+{
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "pages": 409,
+      "sha256": "3cb84479129ff66fee8d07bb4a66fa41bf80b5186a738b0a23bcfa4db66726c0"
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "pages": 192,
+      "sha256": "96ff84f3b9596d10c3b8bf710682886a4f1177f8e12a275980fe709388c6ae1e"
+    }
+  },
+  "config_sha256": "c2d50c54dfbd5c7f9fceb351008d0cc8815b332077a5aaf9d7c811f1ddf01bb8",
+  "author_sha256": "89ab6dffb2f1248e375566a17b7ae5d8265cd4fd5e6425f71c0e9c1f1448c529",
+  "builder_sha256": "061377fa70ed47448ea997cbad38a4b74ce9e6ee6dfb73f6bd9f1b14f5d430d7",
+  "back_cover_builder_sha256": "94c7b816e1ed71d58ecb2ab357261071331fc3555403327c0f9b5e0e19eacd12"
+}

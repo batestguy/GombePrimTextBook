@@ -1,0 +1,12 @@
+{
+  "textbook": {
+    "pages": 406,
+    "all_text_raster_links_content_idempotent": true,
+    "fonts_embedded": true
+  },
+  "workbook": {
+    "pages": 191,
+    "all_text_raster_links_content_idempotent": true,
+    "fonts_embedded": true
+  }
+}

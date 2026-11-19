@@ -1,0 +1,420 @@
+[
+  {
+    "chapter": "P1-01",
+    "title": "One to five",
+    "textbook": {
+      "annual_start": 13,
+      "annual_end": 18,
+      "source_start": 5,
+      "source_end": 10
+    },
+    "workbook": {
+      "annual_start": 10,
+      "annual_end": 13,
+      "source_start": 2,
+      "source_end": 5
+    },
+    "adult_textbook": {
+      "annual_start": 286,
+      "annual_end": 290,
+      "source_start": 18,
+      "source_end": 22
+    }
+  },
+  {
+    "chapter": "P1-02",
+    "title": "Sort, match and order",
+    "textbook": {
+      "annual_start": 19,
+      "annual_end": 25,
+      "source_start": 11,
+      "source_end": 17
+    },
+    "workbook": {
+      "annual_start": 14,
+      "annual_end": 18,
+      "source_start": 6,
+      "source_end": 10
+    },
+    "adult_textbook": {
+      "annual_start": 286,
+      "annual_end": 290,
+      "source_start": 18,
+      "source_end": 22
+    }
+  },
+  {
+    "chapter": "P1-03",
+    "title": "Zero means none",
+    "textbook": {
+      "annual_start": 26,
+      "annual_end": 31,
+      "source_start": 1,
+      "source_end": 6
+    },
+    "workbook": {
+      "annual_start": 19,
+      "annual_end": 22,
+      "source_start": 1,
+      "source_end": 4
+    },
+    "adult_textbook": {
+      "annual_start": 291,
+      "annual_end": 293,
+      "source_start": 7,
+      "source_end": 9
+    }
+  },
+  {
+    "chapter": "P1-04",
+    "title": "Six to nine",
+    "textbook": {
+      "annual_start": 32,
+      "annual_end": 39,
+      "source_start": 1,
+      "source_end": 8
+    },
+    "workbook": {
+      "annual_start": 23,
+      "annual_end": 28,
+      "source_start": 1,
+      "source_end": 6
+    },
+    "adult_textbook": {
+      "annual_start": 294,
+      "annual_end": 296,
+      "source_start": 9,
+      "source_end": 11
+    }
+  },
+  {
+    "chapter": "P1-05",
+    "title": "A bundle of ten",
+    "textbook": {
+      "annual_start": 40,
+      "annual_end": 49,
+      "source_start": 1,
+      "source_end": 10
+    },
+    "workbook": {
+      "annual_start": 29,
+      "annual_end": 34,
+      "source_start": 1,
+      "source_end": 6
+    },
+    "adult_textbook": {
+      "annual_start": 297,
+      "annual_end": 299,
+      "source_start": 11,
+      "source_end": 13
+    }
+  },
+  {
+    "chapter": "P1-06",
+    "title": "Numbers to ninety-nine",
+    "textbook": {
+      "annual_start": 50,
+      "annual_end": 66,
+      "source_start": 1,
+      "source_end": 17
+    },
+    "workbook": {
+      "annual_start": 35,
+      "annual_end": 48,
+      "source_start": 1,
+      "source_end": 14
+    },
+    "adult_textbook": {
+      "annual_start": 300,
+      "annual_end": 303,
+      "source_start": 18,
+      "source_end": 21
+    }
+  },
+  {
+    "chapter": "P1-07",
+    "title": "Equal halves and quarters",
+    "textbook": {
+      "annual_start": 67,
+      "annual_end": 76,
+      "source_start": 1,
+      "source_end": 10
+    },
+    "workbook": {
+      "annual_start": 49,
+      "annual_end": 54,
+      "source_start": 1,
+      "source_end": 6
+    },
+    "adult_textbook": {
+      "annual_start": 304,
+      "annual_end": 306,
+      "source_start": 11,
+      "source_end": 13
+    }
+  },
+  {
+    "chapter": "P1-08",
+    "title": "Put small sets together",
+    "textbook": {
+      "annual_start": 77,
+      "annual_end": 84,
+      "source_start": 1,
+      "source_end": 8
+    },
+    "workbook": {
+      "annual_start": 55,
+      "annual_end": 60,
+      "source_start": 1,
+      "source_end": 6
+    },
+    "adult_textbook": {
+      "annual_start": 307,
+      "annual_end": 309,
+      "source_start": 9,
+      "source_end": 11
+    }
+  },
+  {
+    "chapter": "P1-09",
+    "title": "Count on to add",
+    "textbook": {
+      "annual_start": 85,
+      "annual_end": 96,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 61,
+      "annual_end": 68,
+      "source_start": 1,
+      "source_end": 8
+    },
+    "adult_textbook": {
+      "annual_start": 310,
+      "annual_end": 312,
+      "source_start": 13,
+      "source_end": 15
+    }
+  },
+  {
+    "chapter": "P1-10",
+    "title": "Add tens and ones",
+    "textbook": {
+      "annual_start": 97,
+      "annual_end": 108,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 69,
+      "annual_end": 75,
+      "source_start": 1,
+      "source_end": 7
+    },
+    "adult_textbook": {
+      "annual_start": 313,
+      "annual_end": 315,
+      "source_start": 13,
+      "source_end": 15
+    }
+  },
+  {
+    "chapter": "P1-11",
+    "title": "Take away",
+    "textbook": {
+      "annual_start": 109,
+      "annual_end": 120,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 76,
+      "annual_end": 83,
+      "source_start": 1,
+      "source_end": 8
+    },
+    "adult_textbook": {
+      "annual_start": 316,
+      "annual_end": 318,
+      "source_start": 13,
+      "source_end": 15
+    }
+  },
+  {
+    "chapter": "P1-12",
+    "title": "Find a missing part",
+    "textbook": {
+      "annual_start": 121,
+      "annual_end": 146,
+      "source_start": 1,
+      "source_end": 26
+    },
+    "workbook": {
+      "annual_start": 84,
+      "annual_end": 97,
+      "source_start": 1,
+      "source_end": 14
+    },
+    "adult_textbook": {
+      "annual_start": 319,
+      "annual_end": 332,
+      "source_start": 27,
+      "source_end": 40
+    }
+  },
+  {
+    "chapter": "P1-13",
+    "title": "Pretend coins and change",
+    "textbook": {
+      "annual_start": 147,
+      "annual_end": 162,
+      "source_start": 1,
+      "source_end": 16
+    },
+    "workbook": {
+      "annual_start": 98,
+      "annual_end": 104,
+      "source_start": 1,
+      "source_end": 7
+    },
+    "adult_textbook": {
+      "annual_start": 333,
+      "annual_end": 343,
+      "source_start": 17,
+      "source_end": 27
+    }
+  },
+  {
+    "chapter": "P1-14",
+    "title": "Longer, shorter and farther",
+    "textbook": {
+      "annual_start": 163,
+      "annual_end": 174,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 105,
+      "annual_end": 114,
+      "source_start": 1,
+      "source_end": 10
+    },
+    "adult_textbook": {
+      "annual_start": 344,
+      "annual_end": 352,
+      "source_start": 13,
+      "source_end": 21
+    }
+  },
+  {
+    "chapter": "P1-15",
+    "title": "Our day in order",
+    "textbook": {
+      "annual_start": 175,
+      "annual_end": 186,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 115,
+      "annual_end": 122,
+      "source_start": 1,
+      "source_end": 8
+    },
+    "adult_textbook": {
+      "annual_start": 353,
+      "annual_end": 363,
+      "source_start": 13,
+      "source_end": 23
+    }
+  },
+  {
+    "chapter": "P1-16",
+    "title": "Heavy and light",
+    "textbook": {
+      "annual_start": 187,
+      "annual_end": 198,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "workbook": {
+      "annual_start": 123,
+      "annual_end": 134,
+      "source_start": 1,
+      "source_end": 12
+    },
+    "adult_textbook": {
+      "annual_start": 364,
+      "annual_end": 370,
+      "source_start": 13,
+      "source_end": 19
+    }
+  },
+  {
+    "chapter": "P1-17",
+    "title": "Solid shapes around us",
+    "textbook": {
+      "annual_start": 199,
+      "annual_end": 212,
+      "source_start": 1,
+      "source_end": 14
+    },
+    "workbook": {
+      "annual_start": 135,
+      "annual_end": 144,
+      "source_start": 1,
+      "source_end": 10
+    },
+    "adult_textbook": {
+      "annual_start": 371,
+      "annual_end": 382,
+      "source_start": 15,
+      "source_end": 26
+    }
+  },
+  {
+    "chapter": "P1-18",
+    "title": "Flat shapes and patterns",
+    "textbook": {
+      "annual_start": 213,
+      "annual_end": 226,
+      "source_start": 1,
+      "source_end": 14
+    },
+    "workbook": {
+      "annual_start": 145,
+      "annual_end": 155,
+      "source_start": 1,
+      "source_end": 11
+    },
+    "adult_textbook": {
+      "annual_start": 383,
+      "annual_end": 395,
+      "source_start": 15,
+      "source_end": 27
+    }
+  },
+  {
+    "chapter": "P1-19",
+    "title": "Find out about our class",
+    "textbook": {
+      "annual_start": 227,
+      "annual_end": 239,
+      "source_start": 1,
+      "source_end": 13
+    },
+    "workbook": {
+      "annual_start": 156,
+      "annual_end": 166,
+      "source_start": 1,
+      "source_end": 11
+    },
+    "adult_textbook": {
+      "annual_start": 396,
+      "annual_end": 406,
+      "source_start": 14,
+      "source_end": 24
+    }
+  }
+]

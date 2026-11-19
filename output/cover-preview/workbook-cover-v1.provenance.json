@@ -1,0 +1,12 @@
+{
+  "asset": "output/cover-preview/maths-with-friends-primary-1-workbook-cover-v1.png",
+  "generated_on": "2026-11-17",
+  "tool": "built-in image_gen",
+  "reference": "output/cover-preview/maths-with-friends-primary-1-v4.png",
+  "authorization": "User requested a workbook cover exactly matching the textbook cover, with a brightly labelled title indicating workbook.",
+  "prompt": "Use case: precise-object-edit / text-localization.\nCreate a matching WORKBOOK cover from this EXACT supplied Primary 1 textbook cover. Change ONLY the horizontal green pill-shaped book-type label beneath the subtitle. Replace \"Primary 1 · Textbook\" with exactly \"Primary 1 · WORKBOOK\". Make this label brightly and unmistakably distinguishable from the textbook: saturated sunny yellow rounded pill, a clean vivid blue outline and bold dark royal-blue text, with WORKBOOK in prominent uppercase. Keep the label within its existing location and footprint, adjust type size only within this label to fit comfortably, generous inside padding, fully legible. Do not put WORKBOOK elsewhere or add another banner.\nPRESERVE EVERYTHING ELSE AS EXACTLY AS POSSIBLE: same overall portrait dimensions, same cover title \"Maths with Friends\", subtitle \"Count. Explore. Discover.\", their positions and typography; cream background, green/yellow title, small floating plus/equals/circle/triangle, every child face/skin tone/hairstyle/clothing/pose/expression, all hands, complete blue wheelchair, exact cardboard numbers and correct equations \"2 + 1 = 3\" and \"5 − 2 = 3\", all messy tabletop items, pencils, erasers, sticks, bottle tops, stones, cardboard house, books, table, foliage, lighting, illustration style, framing and colours. No redrawing or reinterpreting the scene. This is the same cover with ONLY its book-type badge changed from textbook to a bright workbook label. No other text, logos, new objects or watermarks.",
+  "inspection": "Visually inspected result: clear Primary 1 · WORKBOOK badge in bright yellow with blue outline and bold blue lettering. Main title/subtitle retained; four established children, busy tabletop activities, number/shape cards, wheelchair and correct2+1=3 and5−2=3 equations visually match textbook v4. This is an image-tool edit, not a claim of pixel-identical file bytes. Standalone cover preview, not inserted into reviewed book PDFs.",
+  "status": "standalone-workbook-cover-preview",
+  "book_changes": false,
+  "print_approval": "pending"
+}

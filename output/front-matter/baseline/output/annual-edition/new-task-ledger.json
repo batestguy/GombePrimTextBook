@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "ANN-M1",
+    "prompt": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+    "answer": "Mr Aliyu puts 4 counters down. He touches each once: 1, 2, 3, 4. Then he adds 2: 5, 6. So 4 + 2 = 6. Grace checks by moving each counter once.",
+    "mode": "model",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 241
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 274
+      }
+    ]
+  },
+  {
+    "id": "ANN-G1",
+    "prompt": "Put 3 counters down. Add 2. Count them together. Explain how you avoid counting one twice.",
+    "answer": "5 counters; touch or move each once.",
+    "mode": "guided",
+    "section": "revision",
+    "calculation": [
+      3,
+      2,
+      5
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 241
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 274
+      }
+    ]
+  },
+  {
+    "id": "ANN-I1",
+    "prompt": "Draw 5 circles in your workbook. Add 3 more. How many altogether? Explain your check.",
+    "answer": "8; 5 + 3 = 8. Count each circle once.",
+    "mode": "independent",
+    "section": "revision",
+    "calculation": [
+      5,
+      3,
+      8
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 246
+      },
+      {
+        "artifact": "workbook",
+        "page": 167
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 274
+      }
+    ]
+  },
+  {
+    "id": "ANN-M2",
+    "prompt": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+    "answer": "Mr Aliyu puts 7 counters down. He moves 3 away. 4 remain: 7 - 3 = 4. He checks 3 + 4 = 7. Adamu makes sure each friend can see.",
+    "mode": "model",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 242
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 274
+      }
+    ]
+  },
+  {
+    "id": "ANN-G2",
+    "prompt": "Put 8 counters down. Move 2 away. Say the remaining number. Check by putting the parts together.",
+    "answer": "6 remain; 2 + 6 = 8.",
+    "mode": "guided",
+    "section": "revision",
+    "calculation": [
+      8,
+      -2,
+      6
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 242
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 274
+      }
+    ]
+  },
+  {
+    "id": "ANN-I2",
+    "prompt": "Draw 9 circles. Cross out 4. How many remain? Write a matching subtraction sentence.",
+    "answer": "5; 9 - 4 = 5.",
+    "mode": "independent",
+    "section": "revision",
+    "calculation": [
+      9,
+      -4,
+      5
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 247
+      },
+      {
+        "artifact": "workbook",
+        "page": 168
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 275
+      }
+    ]
+  },
+  {
+    "id": "ANN-M3",
+    "prompt": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+    "answer": "Mr Aliyu aligns the ends of two safe strips. One extends farther: it is longer. Aishatu waits while John feels the aligned ends. Then they fold one paper circle into two equal matching parts: each is a half.",
+    "mode": "model",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 243
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 275
+      }
+    ]
+  },
+  {
+    "id": "ANN-G3",
+    "prompt": "Use two safe strips. Align one end. Say which is longer, shorter or equal. Fold a paper circle into two equal matching parts. Explain why the parts are halves.",
+    "answer": "Comparison depends on strips; compare from one baseline. Two equal matching parts make halves.",
+    "mode": "guided",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 243
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 275
+      }
+    ]
+  },
+  {
+    "id": "ANN-I3",
+    "prompt": "Draw a circle. Show two equal halves. With safe strips, compare two lengths from the same starting line. Tell an adult what you found.",
+    "answer": "Two equal parts of the circle; accept any straight diameter forming two equal halves. Length comparison depends on actual strips.",
+    "mode": "independent",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 248
+      },
+      {
+        "artifact": "workbook",
+        "page": 169
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 275
+      }
+    ]
+  },
+  {
+    "id": "ANN-R",
+    "prompt": "Explain a count check and subtraction check.",
+    "answer": "Count each once; recombine removed and remaining parts.",
+    "mode": "recall",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 275
+      }
+    ]
+  },
+  {
+    "id": "ANN-H",
+    "prompt": "Use 2 counters, add 1; then try 2 and 2.",
+    "answer": "3 in model; 4 in new unaided recheck after support.",
+    "mode": "help/recheck",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 276
+      }
+    ]
+  },
+  {
+    "id": "ANN-F",
+    "prompt": "Start with 6, add 3. Check another way.",
+    "answer": "9; count all or count on; 6 + 3 = 9.",
+    "mode": "fresh",
+    "section": "revision",
+    "calculation": [
+      6,
+      3,
+      9
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 244
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 276
+      }
+    ]
+  },
+  {
+    "id": "ANN-C1",
+    "prompt": "Say the number just after 8. Draw 6 circles. Put 5 large counters into a row and check each once. Sort 4 safe objects by one feature and tell your rule.",
+    "answer": "9; six circles; count 5 once each; consistent stated sorting rule.",
+    "mode": "independent",
+    "section": "assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 249
+      },
+      {
+        "artifact": "workbook",
+        "page": 170
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 276
+      }
+    ]
+  },
+  {
+    "id": "ANN-C2",
+    "prompt": "Write 24 as tens and ones. Work out 5 + 4. Draw 8 circles and remove 3. Fold one paper circle into two equal matching halves. Explain one answer.",
+    "answer": "2 tens and 4 ones; 9; 5; two equal matching parts. Accept a valid check.",
+    "mode": "independent",
+    "section": "assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 250
+      },
+      {
+        "artifact": "workbook",
+        "page": 171
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 276
+      }
+    ]
+  },
+  {
+    "id": "ANN-C3",
+    "prompt": "Use pretend value cards 5 and 2. Find their total. Align two safe strips and compare length. Name a rectangle you draw. Say what comes after morning in our day: afternoon or night.",
+    "answer": "7 pretend units; length depends on strips; closed four-straight-sided rectangle with opposite sides equal and square corners; afternoon.",
+    "mode": "independent",
+    "section": "assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 251
+      },
+      {
+        "artifact": "workbook",
+        "page": 172
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 276
+      }
+    ]
+  },
+  {
+    "id": "ANN-C4",
+    "prompt": "Write 31 in tens and ones. Work out 8 + 2 and 9 - 4. Draw four equal quarters in a square. Use two safe real objects to test which is heavier; explain what you observed. Ask two invented roles their age in completed years and record their replies with different labels.",
+    "answer": "3 tens and 1 one; 10; 5; four equal-area parts of a square, including four equal strips; actual balance/weight observation determines heavier/lighter/equal; accurately labelled fictional replies after asking.",
+    "mode": "independent",
+    "section": "assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 252
+      },
+      {
+        "artifact": "workbook",
+        "page": 173
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-M1",
+    "prompt": "What is AI? Can its answer be wrong?",
+    "answer": "A computer tool made by people; uses patterns learned from many examples to make replies; not a person; has no feelings; replies can be wrong.",
+    "mode": "model",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 269
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-G",
+    "prompt": "Count the four printed counters and correct the pretend five.",
+    "answer": "4; five is wrong; touch each of the four once.",
+    "mode": "guided",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 270
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-M2",
+    "prompt": "Three counters and two more.",
+    "answer": "5; 3 + 2 = 5.",
+    "mode": "model",
+    "section": "AI",
+    "calculation": [
+      3,
+      2,
+      5
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 271
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-I",
+    "prompt": "Ask about two counters and one more; verify three.",
+    "answer": "A clear non-private question stating 2 and 1 more; verify 3 with objects.",
+    "mode": "independent",
+    "section": "AI",
+    "calculation": [
+      2,
+      1,
+      3
+    ],
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 271
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-F",
+    "prompt": "Count six printed counters and independently correct pretend four.",
+    "answer": "6; four is wrong. Touch each once and explain.",
+    "mode": "fresh",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 277
+      }
+    ]
+  },
+  {
+    "id": "AI-H",
+    "prompt": "Check two counters together, then a new set of three.",
+    "answer": "2 in model; 3 in unaided recheck after support.",
+    "mode": "help/recheck",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "AI-R",
+    "prompt": "Recall the checking and privacy rules.",
+    "answer": "Ask clearly; use invented non-private maths; check answers with own maths and adult support.",
+    "mode": "recall",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "AI-W1",
+    "prompt": "Ask an adult a clear question about 2 counters and 1 more. The adult reads: Pretend AI says three. Check with counters. Draw or write your check. Use no private information.",
+    "answer": "3; clear question and one-to-one checking.",
+    "mode": "independent",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 271
+      },
+      {
+        "artifact": "workbook",
+        "page": 174
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "AI-W2",
+    "prompt": "These dots are the whole set. Pretend AI says four. Count each dot once. Write the correct number and explain to an adult.",
+    "answer": "6; four is wrong; count each of six once.",
+    "mode": "independent",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 272
+      },
+      {
+        "artifact": "workbook",
+        "page": 175
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-1",
+    "prompt": "Write the number for no objects.",
+    "answer": "0",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 253
+      },
+      {
+        "artifact": "workbook",
+        "page": 176
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-2",
+    "prompt": "Order 8, 3 and 6 from smallest to largest.",
+    "answer": "3, 6, 8",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 253
+      },
+      {
+        "artifact": "workbook",
+        "page": 176
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 278
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-3",
+    "prompt": "What comes after 59?",
+    "answer": "60",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 255
+      },
+      {
+        "artifact": "workbook",
+        "page": 178
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-4",
+    "prompt": "2 tens and 7 ones make __.",
+    "answer": "27",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 255
+      },
+      {
+        "artifact": "workbook",
+        "page": 178
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-5",
+    "prompt": "Draw four equal parts of a square and shade one.",
+    "answer": "One quarter shaded; four equal-area parts.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 256
+      },
+      {
+        "artifact": "workbook",
+        "page": 179
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R1-6",
+    "prompt": "Show 9 objects and explain how you checked.",
+    "answer": "Exactly nine; touch or move each once.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 254
+      },
+      {
+        "artifact": "workbook",
+        "page": 177
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-1",
+    "prompt": "3 + 4 + 1 = __.",
+    "answer": "8",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 256
+      },
+      {
+        "artifact": "workbook",
+        "page": 179
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-2",
+    "prompt": "17 - 8 = __.",
+    "answer": "9",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 257
+      },
+      {
+        "artifact": "workbook",
+        "page": 180
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-3",
+    "prompt": "24 + 12 = __.",
+    "answer": "36",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 257
+      },
+      {
+        "artifact": "workbook",
+        "page": 180
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 279
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-4",
+    "prompt": "6 + __ = 10.",
+    "answer": "4",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 258
+      },
+      {
+        "artifact": "workbook",
+        "page": 181
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-5",
+    "prompt": "In this invented token game, k is a pretend unit, not a price. Pretend cost 8k; pay 10k. Find and check change.",
+    "answer": "2k; 8k + 2k = 10k.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 259
+      },
+      {
+        "artifact": "workbook",
+        "page": 182
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R2-6",
+    "prompt": "Draw or show why 7 + 6 = 13.",
+    "answer": "Two sets total thirteen; or count on six from seven.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 258
+      },
+      {
+        "artifact": "workbook",
+        "page": 181
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-1",
+    "prompt": "Three paths measure 5, 2 and 7 repeats of the same paper strip. Order their lengths from shortest.",
+    "answer": "2, 5, 7",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 259
+      },
+      {
+        "artifact": "workbook",
+        "page": 182
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-2",
+    "prompt": "What comes after afternoon: morning or evening?",
+    "answer": "evening",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 260
+      },
+      {
+        "artifact": "workbook",
+        "page": 183
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-3",
+    "prompt": "Handle a safe ball-shaped model. Name its solid shape.",
+    "answer": "sphere",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 260
+      },
+      {
+        "artifact": "workbook",
+        "page": 183
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 280
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-4",
+    "prompt": "How many corners has a square?",
+    "answer": "4",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 261
+      },
+      {
+        "artifact": "workbook",
+        "page": 184
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-5",
+    "prompt": "Compare two safe objects by weight. Show your method.",
+    "answer": "Use a balance or safe lifting to test the two actual safe objects. Accept heavier, lighter or equal weight when it matches the observation; do not infer weight from a picture.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 261
+      },
+      {
+        "artifact": "workbook",
+        "page": 184
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-R3-6",
+    "prompt": "Invented ages are 6, 7, 7, 6. How many pupils are 7? Explain.",
+    "answer": "2; count the two records equal to seven.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 262
+      },
+      {
+        "artifact": "workbook",
+        "page": 185
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-1",
+    "prompt": "Write eighty-two in digits.",
+    "answer": "82",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 263
+      },
+      {
+        "artifact": "workbook",
+        "page": 186
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-2",
+    "prompt": "Complete: 8, 9, __, __.",
+    "answer": "10, 11",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 263
+      },
+      {
+        "artifact": "workbook",
+        "page": 186
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-3",
+    "prompt": "15 = __ ten and __ ones.",
+    "answer": "1 ten, 5 ones",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 264
+      },
+      {
+        "artifact": "workbook",
+        "page": 187
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-4",
+    "prompt": "8 + 7 = __.",
+    "answer": "15",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 264
+      },
+      {
+        "artifact": "workbook",
+        "page": 187
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-5",
+    "prompt": "16 - 9 = __. Show a check.",
+    "answer": "7; 7 + 9 = 16.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 265
+      },
+      {
+        "artifact": "workbook",
+        "page": 188
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A1-6",
+    "prompt": "__ + 4 = 9. Explain the blank.",
+    "answer": "5; 9 − 4 = 5 or count on.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 265
+      },
+      {
+        "artifact": "workbook",
+        "page": 188
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-1",
+    "prompt": "Draw a rectangle and show one half.",
+    "answer": "Two equal-area parts, one selected.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 266
+      },
+      {
+        "artifact": "workbook",
+        "page": 189
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-2",
+    "prompt": "In this invented token game, k is a pretend unit, not a price. Pretend tokens 10k + 5k total __.",
+    "answer": "15k",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 266
+      },
+      {
+        "artifact": "workbook",
+        "page": 189
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-3",
+    "prompt": "Handle a safe rectangular box model. Name its solid shape.",
+    "answer": "cuboid",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 267
+      },
+      {
+        "artifact": "workbook",
+        "page": 190
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 282
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-4",
+    "prompt": "Write morning, night, afternoon in day order.",
+    "answer": "morning, afternoon, night",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 267
+      },
+      {
+        "artifact": "workbook",
+        "page": 190
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 283
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-5",
+    "prompt": "Measure a book with a repeated paper strip. Record and explain.",
+    "answer": "Pupil’s repeated equal-unit count, with no gaps or overlaps.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 268
+      },
+      {
+        "artifact": "workbook",
+        "page": 191
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 283
+      }
+    ]
+  },
+  {
+    "id": "LEG-P1-A2-6",
+    "prompt": "Ask two invented pupil roles their ages in completed years. Record each reply with a different label. Compare the ages.",
+    "answer": "Two labelled age records and a correct comparison.",
+    "mode": "independent",
+    "section": "legacy-assessment",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 268
+      },
+      {
+        "artifact": "workbook",
+        "page": 191
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 283
+      }
+    ]
+  },
+  {
+    "id": "ANN-D",
+    "prompt": "Delayed: 4 + 3 and 6 - 2.",
+    "answer": "7 and 4; show and explain methods.",
+    "mode": "delayed",
+    "section": "revision",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 284
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 283
+      },
+      {
+        "artifact": "textbook",
+        "page": 284
+      }
+    ]
+  },
+  {
+    "id": "AI-D",
+    "prompt": "Delayed: five real counters, invented reply six. Recall privacy rule.",
+    "answer": "5; six is wrong; check each once. Use non-private invented examples and trusted adult help.",
+    "mode": "delayed",
+    "section": "AI",
+    "pages": [
+      {
+        "artifact": "textbook",
+        "page": 284
+      }
+    ],
+    "answer_pages": [
+      {
+        "artifact": "textbook",
+        "page": 283
+      },
+      {
+        "artifact": "textbook",
+        "page": 284
+      }
+    ]
+  }
+]

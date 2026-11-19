@@ -1,0 +1,34 @@
+{
+  "reader": "SumatraPDF 3.5.2",
+  "view": "single page, fit page",
+  "visually_checked": [
+    {
+      "role": "textbook",
+      "page": 13,
+      "pdf_sha256": "c2ee7c5e4d11efe47ad7bcb4c2b0a571708387cc699e6d2956d83907aabc6a63",
+      "screenshot": "sumatra/gombe-layout-textbook-heading.png",
+      "screenshot_sha256": "d7fc137963cb05ba02c4ed1670c499300f4d6326aa952241084239710945251e"
+    },
+    {
+      "role": "textbook",
+      "page": 409,
+      "pdf_sha256": "c2ee7c5e4d11efe47ad7bcb4c2b0a571708387cc699e6d2956d83907aabc6a63",
+      "screenshot": "sumatra/gombe-layout-textbook-back.png",
+      "screenshot_sha256": "6af5eb5e710f9ee776d18f8a78c2f74deeb7b6a632f49dd71439e48ac4e961ad"
+    },
+    {
+      "role": "workbook",
+      "page": 10,
+      "pdf_sha256": "f11a2b958e98dec94801162fca214b16b21363d7013a5680bdb1723a2f0f315c",
+      "screenshot": "sumatra/gombe-layout-workbook-heading.png",
+      "screenshot_sha256": "91ef489c6fbb8abd5e9818f82ce1fed2109de2b0449de1d15cdc6aafe9882c7d"
+    },
+    {
+      "role": "workbook",
+      "page": 192,
+      "pdf_sha256": "f11a2b958e98dec94801162fca214b16b21363d7013a5680bdb1723a2f0f315c",
+      "screenshot": "sumatra/gombe-layout-workbook-back.png",
+      "screenshot_sha256": "447708476492e89d3d99a3761822b30609c82a7605426c7237af99fccfb1542c"
+    }
+  ]
+}

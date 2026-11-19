@@ -1,0 +1,1026 @@
+[
+  {
+    "artifact": "textbook",
+    "annual_page": 1,
+    "new_page": 1,
+    "slug": "illustrated-cover",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 2,
+    "new_page": 2,
+    "slug": "how-to-use",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 3,
+    "new_page": 3,
+    "slug": "contents-start",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 4,
+    "new_page": 4,
+    "slug": "contents-continue",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 5,
+    "new_page": 5,
+    "slug": "contents-practice-discovery",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 6,
+    "new_page": 6,
+    "slug": "adult-source-directory-1",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 7,
+    "new_page": 7,
+    "slug": "adult-source-directory-2",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 8,
+    "new_page": 8,
+    "slug": "adult-source-directory-3",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 9,
+    "new_page": 9,
+    "slug": "adult-support-index",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 240,
+    "new_page": 10,
+    "slug": "revision-open",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 241,
+    "new_page": 11,
+    "slug": "revision-model-1",
+    "part": "new",
+    "task_ids": [
+      "ANN-M1",
+      "ANN-G1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 242,
+    "new_page": 12,
+    "slug": "revision-model-2",
+    "part": "new",
+    "task_ids": [
+      "ANN-M2",
+      "ANN-G2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 243,
+    "new_page": 13,
+    "slug": "revision-model-3",
+    "part": "new",
+    "task_ids": [
+      "ANN-M3",
+      "ANN-G3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 244,
+    "new_page": 14,
+    "slug": "revision-close",
+    "part": "new",
+    "task_ids": [
+      "ANN-R",
+      "ANN-H",
+      "ANN-F"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 245,
+    "new_page": 15,
+    "slug": "assessment-pupil",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 246,
+    "new_page": 16,
+    "slug": "tb-ANN-I1",
+    "part": "new",
+    "task_ids": [
+      "ANN-I1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 247,
+    "new_page": 17,
+    "slug": "tb-ANN-I2",
+    "part": "new",
+    "task_ids": [
+      "ANN-I2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 248,
+    "new_page": 18,
+    "slug": "tb-ANN-I3",
+    "part": "new",
+    "task_ids": [
+      "ANN-I3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 249,
+    "new_page": 19,
+    "slug": "tb-ANN-C1",
+    "part": "new",
+    "task_ids": [
+      "ANN-C1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 250,
+    "new_page": 20,
+    "slug": "tb-ANN-C2",
+    "part": "new",
+    "task_ids": [
+      "ANN-C2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 251,
+    "new_page": 21,
+    "slug": "tb-ANN-C3",
+    "part": "new",
+    "task_ids": [
+      "ANN-C3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 252,
+    "new_page": 22,
+    "slug": "tb-ANN-C4",
+    "part": "new",
+    "task_ids": [
+      "ANN-C4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 253,
+    "new_page": 23,
+    "slug": "tb-legacy-term-one-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-1",
+      "LEG-P1-R1-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 254,
+    "new_page": 24,
+    "slug": "tb-legacy-term-one-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 255,
+    "new_page": 25,
+    "slug": "tb-legacy-term-two-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-3",
+      "LEG-P1-R1-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 256,
+    "new_page": 26,
+    "slug": "tb-legacy-term-two-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-5",
+      "LEG-P1-R2-1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 257,
+    "new_page": 27,
+    "slug": "tb-legacy-term-two-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-2",
+      "LEG-P1-R2-3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 258,
+    "new_page": 28,
+    "slug": "tb-legacy-term-two-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-4",
+      "LEG-P1-R2-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 259,
+    "new_page": 29,
+    "slug": "tb-legacy-term-three-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-5",
+      "LEG-P1-R3-1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 260,
+    "new_page": 30,
+    "slug": "tb-legacy-term-three-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-2",
+      "LEG-P1-R3-3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 261,
+    "new_page": 31,
+    "slug": "tb-legacy-term-three-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-4",
+      "LEG-P1-R3-5"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 262,
+    "new_page": 32,
+    "slug": "tb-legacy-term-three-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 263,
+    "new_page": 33,
+    "slug": "tb-legacy-annual-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-1",
+      "LEG-P1-A1-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 264,
+    "new_page": 34,
+    "slug": "tb-legacy-annual-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-3",
+      "LEG-P1-A1-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 265,
+    "new_page": 35,
+    "slug": "tb-legacy-annual-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-5",
+      "LEG-P1-A1-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 266,
+    "new_page": 36,
+    "slug": "tb-legacy-annual-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-1",
+      "LEG-P1-A2-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 267,
+    "new_page": 37,
+    "slug": "tb-legacy-annual-8",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-3",
+      "LEG-P1-A2-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 268,
+    "new_page": 38,
+    "slug": "tb-legacy-annual-10",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-5",
+      "LEG-P1-A2-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 269,
+    "new_page": 39,
+    "slug": "ai-1",
+    "part": "new",
+    "task_ids": [
+      "AI-M1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 270,
+    "new_page": 40,
+    "slug": "ai-2",
+    "part": "new",
+    "task_ids": [
+      "AI-G"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 271,
+    "new_page": 41,
+    "slug": "ai-3",
+    "part": "new",
+    "task_ids": [
+      "AI-M2",
+      "AI-I",
+      "AI-W1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 272,
+    "new_page": 42,
+    "slug": "ai-4",
+    "part": "new",
+    "task_ids": [
+      "AI-F",
+      "AI-H",
+      "AI-R",
+      "AI-W2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 273,
+    "new_page": 43,
+    "slug": "annual-adult",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 274,
+    "new_page": 44,
+    "slug": "annual-linked-answers-1",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "ANN-M1",
+      "ANN-G1",
+      "ANN-I1",
+      "ANN-M2",
+      "ANN-G2"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 275,
+    "new_page": 45,
+    "slug": "annual-linked-answers-2",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "ANN-I2",
+      "ANN-M3",
+      "ANN-G3",
+      "ANN-I3",
+      "ANN-R"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 276,
+    "new_page": 46,
+    "slug": "annual-linked-answers-3",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "ANN-H",
+      "ANN-F",
+      "ANN-C1",
+      "ANN-C2",
+      "ANN-C3"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 277,
+    "new_page": 47,
+    "slug": "annual-linked-answers-4",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "ANN-C4",
+      "AI-M1",
+      "AI-G",
+      "AI-M2",
+      "AI-I",
+      "AI-F"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 278,
+    "new_page": 48,
+    "slug": "annual-linked-answers-5",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "AI-H",
+      "AI-R",
+      "AI-W1",
+      "AI-W2",
+      "LEG-P1-R1-1",
+      "LEG-P1-R1-2"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 279,
+    "new_page": 49,
+    "slug": "annual-linked-answers-6",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "LEG-P1-R1-3",
+      "LEG-P1-R1-4",
+      "LEG-P1-R1-5",
+      "LEG-P1-R1-6",
+      "LEG-P1-R2-1",
+      "LEG-P1-R2-2",
+      "LEG-P1-R2-3"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 280,
+    "new_page": 50,
+    "slug": "annual-linked-answers-7",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "LEG-P1-R2-4",
+      "LEG-P1-R2-5",
+      "LEG-P1-R2-6",
+      "LEG-P1-R3-1",
+      "LEG-P1-R3-2",
+      "LEG-P1-R3-3"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 281,
+    "new_page": 51,
+    "slug": "annual-linked-answers-8",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "LEG-P1-R3-4",
+      "LEG-P1-R3-5",
+      "LEG-P1-R3-6",
+      "LEG-P1-A1-1",
+      "LEG-P1-A1-2",
+      "LEG-P1-A1-3"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 282,
+    "new_page": 52,
+    "slug": "annual-linked-answers-9",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "LEG-P1-A1-4",
+      "LEG-P1-A1-5",
+      "LEG-P1-A1-6",
+      "LEG-P1-A2-1",
+      "LEG-P1-A2-2",
+      "LEG-P1-A2-3"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 283,
+    "new_page": 53,
+    "slug": "annual-linked-answers-10",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": [
+      "LEG-P1-A2-4",
+      "LEG-P1-A2-5",
+      "LEG-P1-A2-6",
+      "ANN-D",
+      "AI-D"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 284,
+    "new_page": 54,
+    "slug": "delayed",
+    "part": "adult",
+    "task_ids": [
+      "ANN-D",
+      "AI-D"
+    ],
+    "answer_ids": [
+      "ANN-D",
+      "AI-D"
+    ]
+  },
+  {
+    "artifact": "textbook",
+    "annual_page": 285,
+    "new_page": 55,
+    "slug": "annual-sources",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 1,
+    "new_page": 1,
+    "slug": "illustrated-cover",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 2,
+    "new_page": 2,
+    "slug": "how-to-use",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 3,
+    "new_page": 3,
+    "slug": "contents-start",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 4,
+    "new_page": 4,
+    "slug": "contents-continue",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 5,
+    "new_page": 5,
+    "slug": "contents-practice-discovery",
+    "part": "new",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 6,
+    "new_page": 6,
+    "slug": "adult-source-directory-1",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 7,
+    "new_page": 7,
+    "slug": "adult-source-directory-2",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 8,
+    "new_page": 8,
+    "slug": "adult-source-directory-3",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 9,
+    "new_page": 9,
+    "slug": "adult-support-index",
+    "part": "adult",
+    "task_ids": [],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 167,
+    "new_page": 10,
+    "slug": "ANN-I1",
+    "part": "new",
+    "task_ids": [
+      "ANN-I1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 168,
+    "new_page": 11,
+    "slug": "ANN-I2",
+    "part": "new",
+    "task_ids": [
+      "ANN-I2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 169,
+    "new_page": 12,
+    "slug": "ANN-I3",
+    "part": "new",
+    "task_ids": [
+      "ANN-I3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 170,
+    "new_page": 13,
+    "slug": "ANN-C1",
+    "part": "new",
+    "task_ids": [
+      "ANN-C1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 171,
+    "new_page": 14,
+    "slug": "ANN-C2",
+    "part": "new",
+    "task_ids": [
+      "ANN-C2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 172,
+    "new_page": 15,
+    "slug": "ANN-C3",
+    "part": "new",
+    "task_ids": [
+      "ANN-C3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 173,
+    "new_page": 16,
+    "slug": "ANN-C4",
+    "part": "new",
+    "task_ids": [
+      "ANN-C4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 174,
+    "new_page": 17,
+    "slug": "AI-W1",
+    "part": "new",
+    "task_ids": [
+      "AI-W1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 175,
+    "new_page": 18,
+    "slug": "AI-W2",
+    "part": "new",
+    "task_ids": [
+      "AI-W2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 176,
+    "new_page": 19,
+    "slug": "legacy-term-one-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-1",
+      "LEG-P1-R1-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 177,
+    "new_page": 20,
+    "slug": "legacy-term-one-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 178,
+    "new_page": 21,
+    "slug": "legacy-term-two-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-3",
+      "LEG-P1-R1-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 179,
+    "new_page": 22,
+    "slug": "legacy-term-two-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R1-5",
+      "LEG-P1-R2-1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 180,
+    "new_page": 23,
+    "slug": "legacy-term-two-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-2",
+      "LEG-P1-R2-3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 181,
+    "new_page": 24,
+    "slug": "legacy-term-two-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-4",
+      "LEG-P1-R2-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 182,
+    "new_page": 25,
+    "slug": "legacy-term-three-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R2-5",
+      "LEG-P1-R3-1"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 183,
+    "new_page": 26,
+    "slug": "legacy-term-three-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-2",
+      "LEG-P1-R3-3"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 184,
+    "new_page": 27,
+    "slug": "legacy-term-three-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-4",
+      "LEG-P1-R3-5"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 185,
+    "new_page": 28,
+    "slug": "legacy-term-three-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-R3-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 186,
+    "new_page": 29,
+    "slug": "legacy-annual-0",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-1",
+      "LEG-P1-A1-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 187,
+    "new_page": 30,
+    "slug": "legacy-annual-2",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-3",
+      "LEG-P1-A1-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 188,
+    "new_page": 31,
+    "slug": "legacy-annual-4",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A1-5",
+      "LEG-P1-A1-6"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 189,
+    "new_page": 32,
+    "slug": "legacy-annual-6",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-1",
+      "LEG-P1-A2-2"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 190,
+    "new_page": 33,
+    "slug": "legacy-annual-8",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-3",
+      "LEG-P1-A2-4"
+    ],
+    "answer_ids": []
+  },
+  {
+    "artifact": "workbook",
+    "annual_page": 191,
+    "new_page": 34,
+    "slug": "legacy-annual-10",
+    "part": "new",
+    "task_ids": [
+      "LEG-P1-A2-5",
+      "LEG-P1-A2-6"
+    ],
+    "answer_ids": []
+  }
+]

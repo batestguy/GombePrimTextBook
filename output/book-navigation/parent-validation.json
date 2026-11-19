@@ -1,0 +1,32 @@
+{
+  "strict": true,
+  "protected_source_files": 146,
+  "new_sources": [
+    "production/p1-book-navigation.json",
+    "research/WORKBOOK-NAVIGATION-2026-11-18.md",
+    "scripts/build_primary_one_navigation.py"
+  ],
+  "topic_pdfs_preserved": 36,
+  "retained_base_pages": 591,
+  "changed_contents_pages": 6,
+  "index_terms": 49,
+  "actual_navigation_links": 151,
+  "artifacts": {
+    "textbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Textbook.pdf",
+      "pages": 409,
+      "sha256": "9fe7ae27a7b68094423feebc4eeeec5042095c3d6761e17ea7fae078cb0f3095",
+      "retained_base_pages": 403,
+      "new_end_pages": 3
+    },
+    "workbook": {
+      "path": "output/pdf/Maths-with-Friends-Primary-1-Workbook.pdf",
+      "pages": 192,
+      "sha256": "7c2ee3b1c1cd772db158b7d47efca33efecca20f2de335e6845646f49e0fd677",
+      "retained_base_pages": 188,
+      "new_end_pages": 1
+    }
+  },
+  "biography": "exact approved text in both final pages",
+  "approval": "20 strict records pass"
+}
