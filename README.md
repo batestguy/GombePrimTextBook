@@ -221,3 +221,12 @@ The selected Kilang Hill photograph is by Huzaifakumo, CC BY-SA 4.0, reproduced 
 The remaining publication gates are current applicable curriculum comparison, Gombe educator/local authenticity review, classroom piloting, actual-size paper testing, final publisher rights/credits review, and printer specifications. This is an A4 RGB review PDF with embedded fonts, no production bleed and no certified press export. Do not label it press-ready.
 
 Use `production/REVIEW-FORM.md` to record concrete corrections. Any revision should be rendered and validated again before approval.
+
+## Licence
+
+© 2026 Jerry Zachary Bannister (batestguy). The text, figures and other original
+content of this book are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International licence (CC BY-NC-SA 4.0)
+— see [LICENSE](LICENSE). Schools and teachers may copy and adapt it freely for
+non-commercial use, with attribution and under the same terms. Commercial reuse
+requires written permission.
